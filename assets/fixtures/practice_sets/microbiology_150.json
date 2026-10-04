@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "micr_q_1",
+    "questionNumber": 1,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "The biological indicator used to check ethylene oxide sterilisation is spores of",
+    "options": [
+      "Geobacillus stearothermophilus",
+      "Bacillus atrophaeus",
+      "Clostridium tetani",
+      "Bacillus cereus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "B. atrophaeus (formerly *B. subtilis* var. *niger*) is used for ethylene oxide and dry heat. *G. stearothermophilus* is used for autoclaves and hydrogen peroxide plasma (STERRAD).",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (autoclave indicator), 2016 AIIMS (STERRAD — H₂O₂)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2016 AIIMS (autoclave indicator), 2016 AIIMS (STERRAD — H₂O₂)"
+    }
+  },
+  {
+    "id": "micr_q_2",
+    "questionNumber": 2,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Match each item with the correct method of sterilisation.\n\n| Item | Method |\n|---|---|\n| 1. Inoculating wire loop | a. Inspissation |\n| 2. Glass Petri dishes and syringes | b. Ethylene oxide |\n| 3. Löwenstein–Jensen (egg-based) medium | c. Red heat (flaming) |\n| 4. Heat-sensitive plastic cardiac catheters | d. Hot air oven |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Inspissation (80–85 °C on 3 successive days) coagulates media containing egg or serum without destroying them. The hot air oven runs at 160 °C for 2 hours.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (wire loop — heat till red), 2023 INI-CET (glass pipette mouthpiece; cold sterilisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2024 INI-CET (wire loop — heat till red), 2023 INI-CET (glass pipette mouthpiece; cold sterilisation)"
+    }
+  },
+  {
+    "id": "micr_q_3",
+    "questionNumber": 3,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Which agent is NOT sporicidal?",
+    "options": [
+      "70% ethyl alcohol",
+      "Ethylene oxide",
+      "2% glutaraldehyde with prolonged exposure",
+      "Hydrogen peroxide gas plasma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Alcohol is both an antiseptic and a disinfectant, but it does not kill spores. Sterilants (autoclave, ethylene oxide, plasma, and glutaraldehyde with long exposure) destroy spores.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (spores destroyed by ETO), 2021 INI-CET (ethanol — disinfectant and antiseptic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2022 INI-CET (spores destroyed by ETO), 2021 INI-CET (ethanol — disinfectant and antiseptic)"
+    }
+  },
+  {
+    "id": "micr_q_4",
+    "questionNumber": 4,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "After caring for a patient with Clostridioides difficile diarrhoea, hands should be cleaned with soap and water rather than alcohol rub because",
+    "options": [
+      "Alcohol irritates the skin",
+      "Alcohol inactivates toxin B",
+      "Alcohol does not kill the spores, and washing removes them mechanically",
+      "Soap contains chlorhexidine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Soap and water are also needed when hands are visibly soiled. Otherwise, alcohol-based rubs are the WHO standard for the \"5 moments\" of hand hygiene.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (sanitiser not useful with visibly soiled hands)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2021 INI-CET (sanitiser not useful with visibly soiled hands)"
+    }
+  },
+  {
+    "id": "micr_q_5",
+    "questionNumber": 5,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "A large spill of blood in the operating theatre should be disinfected with sodium hypochlorite containing available chlorine of",
+    "options": [
+      "0.01% (100 ppm)",
+      "0.05% (500 ppm)",
+      "1% (10,000 ppm)",
+      "5% (50,000 ppm)"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The spill is covered with absorbent material, flooded with 1% hypochlorite, left for 10–30 minutes, then wiped. 0.1% is enough for routine surfaces. Bleaching powder acts by releasing hypochlorous acid.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2015 AIIMS (blood spill — hypochlorite), 2016 AIIMS (cover with absorbent), 2022 NEET-PG (bleaching powder — HOCl)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2018 NEET-PG / 2015 AIIMS (blood spill — hypochlorite), 2016 AIIMS (cover with absorbent), 2022 NEET-PG (bleaching powder — HOCl)"
+    }
+  },
+  {
+    "id": "micr_q_6",
+    "questionNumber": 6,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Match each organism or sample with the biosafety level needed to handle it.\n\n| Organism / work | Biosafety level |\n|---|---|\n| 1. Non-pathogenic E. coli K-12 | a. BSL-4 |\n| 2. Routine HIV and HBV blood samples | b. BSL-3 |\n| 3. Culture of XDR M. tuberculosis | c. BSL-1 |\n| 4. Ebola or Nipah virus | d. BSL-2 |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BSL-3 is for organisms spread by aerosol that can be treated (TB culture, Brucella, Coxiella). BSL-4 is for life-threatening agents with no treatment and needs positive-pressure suits.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (BSL-3 — XDR TB)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2022 INI-CET (BSL-3 — XDR TB)"
+    }
+  },
+  {
+    "id": "micr_q_7",
+    "questionNumber": 7,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "An E-test strip is placed on a lawn of bacteria. After incubation, the result is read as",
+    "options": [
+      "The diameter of the zone of inhibition",
+      "Turbidity in the last tube",
+      "Colour change of an indicator",
+      "The MIC, at the point where the elliptical zone meets the strip"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The E-test combines a concentration gradient with diffusion and gives a quantitative MIC. Kirby–Bauer disc diffusion gives a zone diameter (a qualitative result). Broth microdilution is the reference method for MIC.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (E-test — antibiotic sensitivity), 2020 NEET-PG / 2018 AIIMS (disc diffusion — Kirby–Bauer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2024 INI-CET (E-test — antibiotic sensitivity), 2020 NEET-PG / 2018 AIIMS (disc diffusion — Kirby–Bauer)"
+    }
+  },
+  {
+    "id": "micr_q_8",
+    "questionNumber": 8,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Whether milk has been adequately pasteurised is checked with the",
+    "options": [
+      "Methylene blue reduction test",
+      "Phosphatase test",
+      "Coliform count",
+      "Resazurin test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Alkaline phosphatase is destroyed at pasteurisation temperatures, so remaining activity means heating was inadequate. Holder method: 63 °C for 30 minutes; HTST: 72 °C for 15–20 seconds. The methylene blue test measures bacterial load (keeping quality).",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (pasteurisation 63 °C for 30 min)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (pasteurisation 63 °C for 30 min)"
+    }
+  },
+  {
+    "id": "micr_q_9",
+    "questionNumber": 9,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "A PCR starts with 10 copies of target DNA and runs at 100% efficiency. How many copies are present after 10 cycles?",
+    "options": [
+      "10,240",
+      "100",
+      "1,024",
+      "20,480"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Copies = N₀ × 2ⁿ = 10 × 2¹⁰ = 10 × 1,024 = 10,240. One cycle less gives half the product, which is why the 2024 answer was 26 cycles for half of what 27 cycles produce.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (PCR cycles for half the product)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2024 INI-CET (PCR cycles for half the product)"
+    }
+  },
+  {
+    "id": "micr_q_10",
+    "questionNumber": 10,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "A child has suspected meningitis. The single test that can detect several possible bacteria and viruses directly from CSF at once is",
+    "options": [
+      "Gram stain",
+      "Latex agglutination",
+      "Multiplex PCR (syndromic panel)",
+      "Culture on chocolate agar"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Multiple primer sets amplify different targets in one reaction. RNA viruses (enteroviruses, influenza, SARS-CoV-2) need reverse transcription first (RT-PCR).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (syndromic PCR — multiplex), 2021 INI-CET (RNA viruses — RT-PCR), 2020 INI-CET (RSV needs RT step)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2020 NEET-PG (syndromic PCR — multiplex), 2021 INI-CET (RNA viruses — RT-PCR), 2020 INI-CET (RSV needs RT step)"
+    }
+  },
+  {
+    "id": "micr_q_11",
+    "questionNumber": 11,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "The endotoxic activity of the lipopolysaccharide of Gram-negative bacteria lies in",
+    "options": [
+      "The O-specific polysaccharide side chain",
+      "Lipid A, which acts through TLR4",
+      "The core polysaccharide",
+      "Teichoic acid"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Lipid A triggers TNF, IL-1 and IL-6 release, causing fever, shock and DIC. The O antigen determines the serotype. Teichoic acid is found only in Gram-positive walls.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (lipid A — Gram-negative wall), 2017 AIIMS (Gram-negative wall — not teichoic acid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2020 INI-CET (lipid A — Gram-negative wall), 2017 AIIMS (Gram-negative wall — not teichoic acid)"
+    }
+  },
+  {
+    "id": "micr_q_12",
+    "questionNumber": 12,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Match each mechanism of gene transfer with its description.\n\n| Mechanism | Description |\n|---|---|\n| 1. Transformation | a. DNA carried by a bacteriophage |\n| 2. Transduction | b. Transfer through a sex pilus, as with R-plasmids |\n| 3. Conjugation | c. \"Jumping genes\" moving within the same cell |\n| 4. Transposition | d. Uptake of naked DNA from the environment |",
+    "options": [
+      "1-d, 2-b, 3-a, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b",
+      "1-d, 2-a, 3-b, 4-c"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Conjugation is the main way multidrug resistance spreads. Phage conversion, a special case of transduction, gives diphtheria, cholera and botulinum toxins and Shiga-like toxins.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (phage-mediated change — transduction), 2017 AIIMS (mechanisms of resistance)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2014 AIIMS (phage-mediated change — transduction), 2017 AIIMS (mechanisms of resistance)"
+    }
+  },
+  {
+    "id": "micr_q_13",
+    "questionNumber": 13,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "Biofilm formation on catheters and prosthetic valves is coordinated by bacteria through",
+    "options": [
+      "Sporulation",
+      "Transduction",
+      "Capsular switching",
+      "Quorum sensing using autoinducer signalling molecules"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Biofilms resist antibiotics through poor penetration, slow growth (persister cells) and a protective matrix. This is why infected devices usually have to be removed.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (functions of biofilm)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "General Microbiology",
+      "basedOn": "2015 AIIMS (functions of biofilm)"
+    }
+  },
+  {
+    "id": "micr_q_14",
+    "questionNumber": 14,
+    "subject": "Microbiology",
+    "subTopic": "General Microbiology",
+    "sub_topic": "General Microbiology",
+    "stem": "In Indian ICUs, the organisms most often responsible for ventilator-associated pneumonia are",
+    "options": [
+      "Streptococcus pneumoniae and Haemophilus influenzae",
+      "Acinetobacter baumannii, Pseudomonas aeruginosa and Klebsiella pneumoniae",
+      "Mycoplasma and Chlamydophila",
+      "Legionella and Coxiella"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Late-onset VAP (5 days or more after admission) is dominated by these multidrug-resistant Gram-negatives. Healthcare-associated infections are those that appear 48 hours or more after admission.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (VAP organisms), 2023 NEET-PG (nosocomial infection after 48 h)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Microbiology",
+      "basedOn": "2015 AIIMS (VAP organisms), 2023 NEET-PG (nosocomial infection after 48 h)"
+    }
+  },
+  {
+    "id": "micr_q_15",
+    "questionNumber": 15,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "Undiluted serum from a patient with secondary syphilis gives a negative VDRL, but the test turns strongly positive at a 1:64 dilution. This is called",
+    "options": [
+      "Postzone phenomenon",
+      "Window period",
+      "Prozone phenomenon, caused by antibody excess",
+      "A biological false-positive reaction"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Too much antibody coats each antigen particle separately, so no lattice (visible clumping) forms. It is classic in secondary syphilis and brucellosis, so serial dilutions are tested.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (negative till 1:40 — excess antibody), 2019 NEET-PG (brucella — prozone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunology",
+      "basedOn": "2023 INI-CET (negative till 1:40 — excess antibody), 2019 NEET-PG (brucella — prozone)"
+    }
+  },
+  {
+    "id": "micr_q_16",
+    "questionNumber": 16,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "Match each preparation or event with the type of immunity it gives.\n\n| Preparation / event | Immunity |\n|---|---|\n| 1. Tetanus toxoid | a. Natural passive |\n| 2. Anti-tetanus immunoglobulin | b. Natural active |\n| 3. Maternal IgG crossing the placenta | c. Artificial active |\n| 4. Recovery from measles | d. Artificial passive |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Active immunity takes time to develop but leaves memory. Passive immunity is immediate but short-lived. Tetanus-prone wounds in unimmunised people receive both, given at different sites.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (toxoid — active immunity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunology",
+      "basedOn": "2024 INI-CET (toxoid — active immunity)"
+    }
+  },
+  {
+    "id": "micr_q_17",
+    "questionNumber": 17,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "The secretory component of secretory IgA comes from",
+    "options": [
+      "The J chain made by plasma cells",
+      "The polymeric immunoglobulin receptor of mucosal epithelial cells",
+      "Hepatocytes",
+      "Complement C3"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The plasma cell makes dimeric IgA joined by the J chain. The epithelial poly-Ig receptor carries it across the cell (transcytosis), and its cleaved part stays on as the secretory component, protecting IgA from proteases.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (dimeric immunoglobulin — IgA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunology",
+      "basedOn": "2020 INI-CET (dimeric immunoglobulin — IgA)"
+    }
+  },
+  {
+    "id": "micr_q_18",
+    "questionNumber": 18,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "Antibodies in a secondary immune response bind antigen more strongly than those in the primary response because of",
+    "options": [
+      "Class switching to IgM",
+      "Increased complement activation",
+      "Somatic hypermutation with selection of high-affinity B cells in germinal centres (affinity maturation)",
+      "A longer antibody half-life"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The secondary response is faster and larger, mostly IgG, and of higher affinity. Both affinity maturation and class switching need T-cell help (CD40L–CD40).",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (affinity low in primary, high in secondary response)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunology",
+      "basedOn": "2020 INI-CET (affinity low in primary, high in secondary response)"
+    }
+  },
+  {
+    "id": "micr_q_19",
+    "questionNumber": 19,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "A dengue NS1 antigen ELISA uses a capture antibody on the plate and a second, enzyme-labelled antibody against another part of the antigen. This format is called",
+    "options": [
+      "Indirect ELISA",
+      "Competitive ELISA",
+      "IgM-capture ELISA",
+      "Sandwich (double-antibody) ELISA"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sandwich ELISA detects antigen. Indirect ELISA detects antibody (as in HIV screening). IgM-capture ELISA (MAC-ELISA) detects class-specific antibody, as used for dengue after day 5 and for JE.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dengue — IgM capture ELISA), 2023 INI-CET (technique for autoantibodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Immunology",
+      "basedOn": "2023 INI-CET (dengue — IgM capture ELISA), 2023 INI-CET (technique for autoantibodies)"
+    }
+  },
+  {
+    "id": "micr_q_20",
+    "questionNumber": 20,
+    "subject": "Microbiology",
+    "subTopic": "Immunology",
+    "sub_topic": "Immunology",
+    "stem": "Staphylococcal and streptococcal superantigens activate up to 20% of all T cells because they",
+    "options": [
+      "Are processed and presented in the MHC class I groove",
+      "Act as B-cell mitogens",
+      "Activate complement directly",
+      "Bind the Vβ region of the T-cell receptor and MHC class II outside the peptide groove"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This polyclonal activation releases huge amounts of cytokines (IL-2, TNF), causing toxic shock. Examples are TSST-1, staphylococcal enterotoxins and streptococcal pyrogenic exotoxins (SpeA, SpeC).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (superantigen — S. pyogenes), 2021 NEET-PG (superantigen producers), 2021 INI-CET (MHC-I → CD8)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Immunology",
+      "basedOn": "2022 INI-CET (superantigen — S. pyogenes), 2021 NEET-PG (superantigen producers), 2021 INI-CET (MHC-I → CD8)"
+    }
+  },
+  {
+    "id": "micr_q_21",
+    "questionNumber": 21,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Match each Staphylococcus aureus toxin with the disease it causes.\n\n| Toxin | Disease |\n|---|---|\n| 1. TSST-1 | a. Necrotising pneumonia and furunculosis (CA-MRSA) |\n| 2. Exfoliative toxin | b. Food poisoning with vomiting within 1–6 hours |\n| 3. Enterotoxin B | c. Toxic shock syndrome |\n| 4. Panton–Valentine leukocidin | d. Scalded skin syndrome (cleaves desmoglein-1) |",
+    "options": [
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "These are toxin-mediated diseases. Staphylococcal enterotoxins are heat-stable, so reheating food does not prevent illness. Septicaemia, by contrast, is invasive infection, not a toxin effect.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (toxin-mediated effects of S. aureus), 2021 NEET-PG (vomiting 3 h after food)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2015 AIIMS (toxin-mediated effects of S. aureus), 2021 NEET-PG (vomiting 3 h after food)"
+    }
+  },
+  {
+    "id": "micr_q_22",
+    "questionNumber": 22,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Several guests start vomiting 2 hours after eating fried rice left out at room temperature overnight. The cause is",
+    "options": [
+      "Bacillus cereus emetic toxin (cereulide)",
+      "Clostridium perfringens",
+      "Salmonella Enteritidis",
+      "Vibrio parahaemolyticus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Spores survive cooking, germinate and make heat-stable toxin in the rice. The diarrhoeal form of B. cereus (8–16 hours, meat and vegetables) resembles C. perfringens. *V. parahaemolyticus* (seafood) takes 12–24 hours.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (B. cereus emetic toxin), 2021 NEET-PG (vomiting 3 h — S. aureus), 2016 AIIMS (seafood — V. parahaemolyticus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2020 NEET-PG (B. cereus emetic toxin), 2021 NEET-PG (vomiting 3 h — S. aureus), 2016 AIIMS (seafood — V. parahaemolyticus)"
+    }
+  },
+  {
+    "id": "micr_q_23",
+    "questionNumber": 23,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A β-haemolytic streptococcus isolated from rapidly spreading necrotising fasciitis is presumptively identified as S. pyogenes by",
+    "options": [
+      "CAMP test positivity",
+      "Optochin sensitivity",
+      "Growth in 6.5% NaCl",
+      "Bacitracin sensitivity and a positive PYR test"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Group A streptococci produce superantigens (SpeA) and tissue-destroying enzymes (streptokinase, hyaluronidase). The CAMP test is for group B, optochin for pneumococcus, and 6.5% NaCl for enterococcus.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (necrotising fasciitis — S. pyogenes), 2016 AIIMS (bacitracin test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 INI-CET (necrotising fasciitis — S. pyogenes), 2016 AIIMS (bacitracin test)"
+    }
+  },
+  {
+    "id": "micr_q_24",
+    "questionNumber": 24,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A neonate develops sepsis and meningitis in the first 24 hours of life. The organism grown is CAMP-test positive and hydrolyses hippurate. Screening the mother at 35–37 weeks involves",
+    "options": [
+      "A high vaginal swab only",
+      "A combined lower-vaginal and rectal swab cultured in enrichment broth",
+      "A urine culture alone",
+      "Blood culture"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The organism is *Streptococcus agalactiae* (group B), the leading cause of early-onset neonatal sepsis. Carriers receive intrapartum penicillin.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (S. agalactiae — neonatal sepsis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 INI-CET (S. agalactiae — neonatal sepsis)"
+    }
+  },
+  {
+    "id": "micr_q_25",
+    "questionNumber": 25,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Cephalosporins are useless against enterococcal infections because",
+    "options": [
+      "Enterococci have intrinsically low-affinity penicillin-binding proteins (PBP5)",
+      "Enterococci make extended-spectrum β-lactamases",
+      "Enterococci lack a cell wall",
+      "The drugs cannot reach the urine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Enterococci grow in 6.5% NaCl and on bile esculin and cause UTIs, endocarditis and prostatitis. Treatment is ampicillin with gentamicin, or vancomycin in penicillin-allergic patients (VRE carry *vanA*).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (enterococcal endocarditis with penicillin allergy — vancomycin), 2018 AIIMS (acute prostatitis — Enterococcus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 INI-CET (enterococcal endocarditis with penicillin allergy — vancomycin), 2018 AIIMS (acute prostatitis — Enterococcus)"
+    }
+  },
+  {
+    "id": "micr_q_26",
+    "questionNumber": 26,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Lancet-shaped Gram-positive diplococci from a pneumonia patient are separated from viridans streptococci by",
+    "options": [
+      "CAMP test",
+      "Bacitracin sensitivity",
+      "Optochin sensitivity and bile solubility",
+      "Coagulase test"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Autolysin makes pneumococcal colonies \"draughtsman\"-shaped and bile-soluble. The polysaccharide capsule is the main virulence factor, demonstrated by the Quellung reaction. Pneumococcus is the commonest cause of community pneumonia, even in HIV.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (lanceolate Gram-positive diplococci), 2022 NEET-PG / 2020 NEET-PG (pneumococcal pneumonia), 2023 INI-CET (capsulated organisms)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2015 AIIMS (lanceolate Gram-positive diplococci), 2022 NEET-PG / 2020 NEET-PG (pneumococcal pneumonia), 2023 INI-CET (capsulated organisms)"
+    }
+  },
+  {
+    "id": "micr_q_27",
+    "questionNumber": 27,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "An isolate of C. diphtheriae from a throat swab is confirmed as toxin-producing by",
+    "options": [
+      "Albert stain",
+      "Elek gel precipitation test (or PCR for the tox gene)",
+      "Growth on tellurite agar",
+      "Schick test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Albert stain (toluidine blue and malachite green) shows metachromatic granules but not toxin production. The toxin gene comes from a β-phage, and the toxin ADP-ribosylates EF-2, stopping protein synthesis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (stain for C. diphtheriae), 2022 INI-CET (ADP-ribosylation of EF-2)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2016 AIIMS (stain for C. diphtheriae), 2022 INI-CET (ADP-ribosylation of EF-2)"
+    }
+  },
+  {
+    "id": "micr_q_28",
+    "questionNumber": 28,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A pregnant woman who eats soft cheese develops febrile illness. Blood culture grows a Gram-positive bacillus with tumbling motility at 25 °C but not at 37 °C. The drug of choice is",
+    "options": [
+      "Ceftriaxone",
+      "Vancomycin alone",
+      "Ciprofloxacin",
+      "Ampicillin, with gentamicin in severe infection"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Listeria monocytogenes* is intrinsically resistant to cephalosporins. It grows in the cold (cold enrichment) and spreads from cell to cell on actin tails (ActA), avoiding antibodies. It causes neonatal meningitis and stillbirth.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (motile at 22 °C, not at 37 °C — Listeria), 2022 INI-CET (cell-to-cell spread by actin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2022 INI-CET (motile at 22 °C, not at 37 °C — Listeria), 2022 INI-CET (cell-to-cell spread by actin)"
+    }
+  },
+  {
+    "id": "micr_q_29",
+    "questionNumber": 29,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A 4-month-old with constipation, poor feeding, weak cry and a \"floppy\" body was recently given honey. The pathogenesis is",
+    "options": [
+      "Ingestion of preformed toxin only",
+      "Wound infection",
+      "Inhibition of glycine release in the spinal cord",
+      "Spores germinating in the infant gut and producing toxin that blocks acetylcholine release"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is infant botulism. Botulinum toxin cleaves SNARE proteins at cholinergic terminals, causing descending flaccid paralysis with dilated pupils. Tetanus toxin blocks glycine and GABA release instead, causing spasms.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (child with blurred vision, dilated pupils — botulism), 2018 NEET-PG (botulinum blocks ACh), 2024 INI-CET (tetanus toxin — glycine/GABA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2017 AIIMS (child with blurred vision, dilated pupils — botulism), 2018 NEET-PG (botulinum blocks ACh), 2024 INI-CET (tetanus toxin — glycine/GABA)"
+    }
+  },
+  {
+    "id": "micr_q_30",
+    "questionNumber": 30,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "In gas gangrene, the α-toxin of Clostridium perfringens is a lecithinase. It is demonstrated in the laboratory by",
+    "options": [
+      "The CAMP test",
+      "The Nagler reaction, which is inhibited by antitoxin",
+      "The Elek test",
+      "The string test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "On egg-yolk agar, lecithinase makes an opaque zone, which antitoxin prevents on half the plate. *C. perfringens* also gives double-zone haemolysis and \"stormy clot\" in litmus milk, and its type A strains cause food poisoning.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (gas gangrene — C. perfringens), 2021 NEET-PG (superantigens include C. perfringens)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2016 AIIMS (gas gangrene — C. perfringens), 2021 NEET-PG (superantigens include C. perfringens)"
+    }
+  },
+  {
+    "id": "micr_q_31",
+    "questionNumber": 31,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "The recommended first-line treatment for an initial non-severe episode of C. difficile infection is",
+    "options": [
+      "Intravenous vancomycin",
+      "Oral clindamycin",
+      "Oral fidaxomicin or oral vancomycin",
+      "Intravenous metronidazole alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "IV vancomycin does not reach the gut lumen. Diagnosis is two-step: GDH antigen or NAAT, then toxin EIA. Antibodies (IgM) have no diagnostic role.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (pseudomembranous colitis — GDH and toxin assay; IgM false), 2015 AIIMS (PCR for toxin genes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2018 NEET-PG (pseudomembranous colitis — GDH and toxin assay; IgM false), 2015 AIIMS (PCR for toxin genes)"
+    }
+  },
+  {
+    "id": "micr_q_32",
+    "questionNumber": 32,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A renal transplant recipient has a cavitating lung lesion and a brain abscess. Sputum shows thin, branching Gram-positive filaments that stain with modified Ziehl–Neelsen (1% H₂SO₄). The organism and treatment are",
+    "options": [
+      "Nocardia — cotrimoxazole",
+      "Actinomyces — penicillin",
+      "Mycobacterium tuberculosis — ATT",
+      "Streptomyces — surgery alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Nocardia is aerobic and partially acid-fast and spreads by blood to the brain. Actinomyces is anaerobic, non-acid-fast, part of the normal oral flora, and forms sulphur granules with draining sinuses at the jaw; it is treated with penicillin.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (partially acid-fast filaments — Nocardia, 3X), 2020 INI-CET / 2014 AIIMS (Actinomyces — oropharynx, 3X), 2020 INI-CET (acid-fast organisms)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (partially acid-fast filaments — Nocardia, 3X), 2020 INI-CET / 2014 AIIMS (Actinomyces — oropharynx, 3X), 2020 INI-CET (acid-fast organisms)"
+    }
+  },
+  {
+    "id": "micr_q_33",
+    "questionNumber": 33,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "In the NALC–NaOH method of processing sputum for mycobacterial culture, the role of NaOH is to",
+    "options": [
+      "Liquefy mucus by breaking disulphide bonds",
+      "Stain the bacilli",
+      "Neutralise acid",
+      "Decontaminate by killing normal flora, while tubercle bacilli survive because of their waxy wall"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "N-acetyl-L-cysteine (NALC) is the mucolytic. The 2024 assertion–reason question swapped these two roles, so its assertion was true and its reason false.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (assertion — NALC and NaOH processing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2024 INI-CET (assertion — NALC and NaOH processing)"
+    }
+  },
+  {
+    "id": "micr_q_34",
+    "questionNumber": 34,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "The cartridge-based NAAT (Xpert MTB/RIF) detects M. tuberculosis and, at the same time,",
+    "options": [
+      "Isoniazid resistance through katG",
+      "Rifampicin resistance through mutations in the 81-bp core region of rpoB",
+      "Fluoroquinolone resistance through gyrA",
+      "Pyrazinamide resistance"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Rifampicin resistance is a good marker of MDR-TB. Line probe assays detect isoniazid (katG, inhA) and second-line resistance. Urine LAM is a point-of-care test for advanced HIV.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (GeneXpert — TB and drug resistance), 2015 AIIMS (urine LAM)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2017 AIIMS (GeneXpert — TB and drug resistance), 2015 AIIMS (urine LAM)"
+    }
+  },
+  {
+    "id": "micr_q_35",
+    "questionNumber": 35,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Under the WHO 2021 definitions, extensively drug-resistant TB (XDR-TB) is MDR/RR-TB that is also resistant to",
+    "options": [
+      "Any fluoroquinolone plus at least one of bedaquiline or linezolid",
+      "Any injectable second-line drug",
+      "Ethambutol and pyrazinamide",
+      "Streptomycin only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "MDR-TB is resistance to at least rifampicin and isoniazid. Pre-XDR is MDR plus fluoroquinolone resistance. The older definition involving injectables has been dropped. Culturing XDR strains requires BSL-3.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (MDR-TB — R and H), 2022 INI-CET (XDR-TB needs BSL-3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2019 NEET-PG (MDR-TB — R and H), 2022 INI-CET (XDR-TB needs BSL-3)"
+    }
+  },
+  {
+    "id": "micr_q_36",
+    "questionNumber": 36,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "In lepromatous leprosy, bacilli are best shown on a slit-skin smear stained with",
+    "options": [
+      "Gram stain",
+      "Standard ZN with 20% H₂SO₄",
+      "Modified ZN with 5% H₂SO₄ decolourisation",
+      "India ink"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*M. leprae* is less acid-fast than *M. tuberculosis* and cannot be grown in artificial media; it grows in mouse footpads and armadillos. The bacteriological index (BI) and morphological index (MI) are reported.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (acid-fast organisms including M. leprae)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (acid-fast organisms including M. leprae)"
+    }
+  },
+  {
+    "id": "micr_q_37",
+    "questionNumber": 37,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A teenager has fever, purpuric rash and shock. CSF grows Gram-negative diplococci. The feature that separates this organism from N. gonorrhoeae is",
+    "options": [
+      "Oxidase positivity",
+      "Intracellular location",
+      "Fermentation of maltose as well as glucose",
+      "Growth on chocolate agar"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*N. meningitidis* ferments glucose and maltose; *N. gonorrhoeae* ferments glucose only. Its lipo-oligosaccharide (LOS) endotoxin drives purpura fulminans and Waterhouse–Friderichsen syndrome.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (meningococcal meningitis — ferments glucose and maltose, 3X), 2021 INI-CET (LOS)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (meningococcal meningitis — ferments glucose and maltose, 3X), 2021 INI-CET (LOS)"
+    }
+  },
+  {
+    "id": "micr_q_38",
+    "questionNumber": 38,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A 20-year-old has a third episode of meningococcal meningitis. The most likely underlying defect is a deficiency of",
+    "options": [
+      "Late complement components C5–C9 (membrane attack complex)",
+      "C1 esterase inhibitor",
+      "IgE",
+      "Myeloperoxidase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Neisseria are especially sensitive to MAC-mediated lysis. Eculizumab (anti-C5) carries the same risk, so patients are vaccinated. The MenACWY vaccines do **not** cover serogroup B.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (meningococcus with MAC deficiency), 2017 AIIMS (MCV-4 not protective against B)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2022 NEET-PG (meningococcus with MAC deficiency), 2017 AIIMS (MCV-4 not protective against B)"
+    }
+  },
+  {
+    "id": "micr_q_39",
+    "questionNumber": 39,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A man has purulent urethral discharge with Gram-negative intracellular diplococci. Because of widespread resistance, the current first-line treatment is",
+    "options": [
+      "Oral ciprofloxacin",
+      "Penicillin G",
+      "Tetracycline alone",
+      "Single-dose intramuscular ceftriaxone (with azithromycin or doxycycline for possible chlamydia)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Gonococci have become resistant to penicillin (PPNG), tetracycline and fluoroquinolones in turn. Culture uses Thayer–Martin (VCN) selective medium.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (penicillin-resistant gonococcus — ceftriaxone), 2023 INI-CET (drug resistance common in gonorrhoea), 2021 NEET-PG (Thayer–Martin, ceftriaxone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2024 INI-CET (penicillin-resistant gonococcus — ceftriaxone), 2023 INI-CET (drug resistance common in gonorrhoea), 2021 NEET-PG (Thayer–Martin, ceftriaxone)"
+    }
+  },
+  {
+    "id": "micr_q_40",
+    "questionNumber": 40,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "An organism grows on blood agar only as tiny colonies next to a Staphylococcus aureus streak, and needs both X factor (haemin) and V factor (NAD). It is",
+    "options": [
+      "H. ducreyi",
+      "H. influenzae",
+      "H. parainfluenzae",
+      "Bordetella pertussis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*S. aureus* releases V factor and lyses red cells to release X factor (satellitism). *H. parainfluenzae* needs only V factor; *H. ducreyi* needs X factor. Many *H. influenzae* strains make β-lactamase, so third-generation cephalosporins are used for meningitis. *(The 2019 NEET-PG stem labels this pattern \"H. ducreyi meningitis\"; satellitism and meningitis indicate H. influenzae.)*",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (satellitism — H. influenzae), 2016 AIIMS (H. influenzae media), 2014 AIIMS (cefotaxime — β-lactamase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2024 INI-CET (satellitism — H. influenzae), 2016 AIIMS (H. influenzae media), 2014 AIIMS (cefotaxime — β-lactamase)"
+    }
+  },
+  {
+    "id": "micr_q_41",
+    "questionNumber": 41,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Match each genital ulcer disease with its features.\n\n| Disease | Features |\n|---|---|\n| 1. Chancroid | a. Painless, indurated, clean-based single ulcer |\n| 2. Primary syphilis | b. Painless, beefy-red ulcer that bleeds on touch; Donovan bodies |\n| 3. Donovanosis | c. Painful, soft, ragged ulcer; \"school of fish\" pattern on Gram stain |\n| 4. Lymphogranuloma venereum | d. Small transient ulcer followed by inguinal buboes with the \"groove sign\" |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The organisms are *H. ducreyi*, *T. pallidum*, *Klebsiella granulomatis* (safety-pin Donovan bodies) and *C. trachomatis* serovars L1–L3.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (school of fish — chancroid), 2023 INI-CET (match — donovanosis, pinta), 2018 AIIMS (Donovan bodies), 2016 AIIMS (LGV incubation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2020 INI-CET (school of fish — chancroid), 2023 INI-CET (match — donovanosis, pinta), 2018 AIIMS (Donovan bodies), 2016 AIIMS (LGV incubation)"
+    }
+  },
+  {
+    "id": "micr_q_42",
+    "questionNumber": 42,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "After treatment of secondary syphilis, the response to therapy is best monitored with",
+    "options": [
+      "TPHA",
+      "FTA-ABS",
+      "Quantitative VDRL or RPR titres",
+      "Dark-field microscopy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Non-treponemal titres should fall at least four-fold after treatment. Treponemal tests (TPHA, FTA-ABS) usually stay positive for life, so they confirm diagnosis but not cure. Neurosyphilis is diagnosed by CSF VDRL. Syphilis can be transmitted by all blood components.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (palms and soles rash — serology), 2023 NEET-PG / 2018 AIIMS (CSF VDRL), 2017 AIIMS (screening in pregnancy — VDRL/RPR), 2023 INI-CET (syphilis in blood components)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2024 INI-CET (palms and soles rash — serology), 2023 NEET-PG / 2018 AIIMS (CSF VDRL), 2017 AIIMS (screening in pregnancy — VDRL/RPR), 2023 INI-CET (syphilis in blood components)"
+    }
+  },
+  {
+    "id": "micr_q_43",
+    "questionNumber": 43,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A sewage worker has fever, conjunctival suffusion, calf tenderness and jaundice. The gold-standard serological test is",
+    "options": [
+      "Widal test",
+      "Paul–Bunnell test",
+      "Weil–Felix test",
+      "Microscopic agglutination test"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Leptospirosis spreads through rodent urine. The organism grows in EMJH medium and is seen by dark-field microscopy (hooked ends, endoflagella). Weil disease adds jaundice and renal failure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (EMJH medium, 3X), 2022 NEET-PG / 2018 AIIMS (MAT), 2020 INI-CET (rodent urine), 2018 NEET-PG (leptospirosis case)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (EMJH medium, 3X), 2022 NEET-PG / 2018 AIIMS (MAT), 2020 INI-CET (rodent urine), 2018 NEET-PG (leptospirosis case)"
+    }
+  },
+  {
+    "id": "micr_q_44",
+    "questionNumber": 44,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A farmer has fever, a black necrotic eschar in the groin and lymphadenopathy. The Weil–Felix test agglutinates Proteus OX-K only. The vector is",
+    "options": [
+      "Body louse",
+      "Rat flea",
+      "Hard tick",
+      "Larval trombiculid mite (chigger)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The organism is *Orientia tsutsugamushi* (scrub typhus), and the drug of choice is doxycycline. OX-19 reacts in epidemic and murine typhus. Weil–Felix is a heterophile test; IgM ELISA is preferred today.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (scrub typhus vector — trombiculid mite), 2021 INI-CET (eschar — scrub typhus), 2020 INI-CET (match — Weil–Felix test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2022 INI-CET (scrub typhus vector — trombiculid mite), 2021 INI-CET (eschar — scrub typhus), 2020 INI-CET (match — Weil–Felix test)"
+    }
+  },
+  {
+    "id": "micr_q_45",
+    "questionNumber": 45,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Match each rickettsial disease with its vector.\n\n| Disease | Vector |\n|---|---|\n| 1. Epidemic typhus (R. prowazekii) | a. Hard tick |\n| 2. Endemic (murine) typhus (R. typhi) | b. Inhaled aerosol; no arthropod vector, no rash |\n| 3. Rocky Mountain spotted fever | c. Rat flea |\n| 4. Q fever (Coxiella burnetii) | d. Human body louse |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-a, 3-c, 4-b",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In epidemic typhus the rash spreads from the trunk outwards and spares the palms and soles. RMSF starts at the wrists and ankles and involves the palms and soles. Coxiella is very resistant and forms \"doughnut\" granulomas.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (body lice — R. prowazekii), 2014 AIIMS (obligate intracellular — Coxiella)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2018 NEET-PG (body lice — R. prowazekii), 2014 AIIMS (obligate intracellular — Coxiella)"
+    }
+  },
+  {
+    "id": "micr_q_46",
+    "questionNumber": 46,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Clusters of bacteria (morulae) are seen inside circulating neutrophils of a patient with fever after a tick bite. The organism is",
+    "options": [
+      "Ehrlichia chaffeensis",
+      "Anaplasma phagocytophilum",
+      "Babesia microti",
+      "Borrelia burgdorferi"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*Ehrlichia chaffeensis* forms morulae in **monocytes**. Both are obligate intracellular bacteria treated with doxycycline.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (inclusion body in neutrophils — Anaplasma), 2014 AIIMS (obligate intracellular — Ehrlichia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2021 INI-CET (inclusion body in neutrophils — Anaplasma), 2014 AIIMS (obligate intracellular — Ehrlichia)"
+    }
+  },
+  {
+    "id": "micr_q_47",
+    "questionNumber": 47,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A dairy farmer has undulant fever, sweating and arthralgia. The standard agglutination test is negative at low dilutions but positive at higher ones. Handling this culture needs",
+    "options": [
+      "BSL-1",
+      "BSL-2 only",
+      "BSL-3, because Brucella is a leading cause of laboratory-acquired infection",
+      "No precautions"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Brucellosis is acquired from unpasteurised milk and contact with animals. Prozone is common in serology, and blood or bone marrow culture is slow (Castañeda biphasic medium).",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (brucellosis — prozone), 2022 INI-CET (BSL-3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2019 NEET-PG (brucellosis — prozone), 2022 INI-CET (BSL-3)"
+    }
+  },
+  {
+    "id": "micr_q_48",
+    "questionNumber": 48,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "In cholera, the toxin that loosens tight junctions and increases paracellular leak is",
+    "options": [
+      "Zonula occludens toxin (Zot), which acts on occludins",
+      "Cholera toxin subunit A",
+      "Shiga toxin",
+      "Heat-stable enterotoxin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cholera toxin (B subunit binds GM1, A subunit ADP-ribosylates Gs) raises cAMP and opens CFTR, causing rice-water stools. Zot adds a paracellular leak. TCBS gives yellow colonies.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cholera — tight junction), 2022 INI-CET (occludins), 2014 AIIMS (zona occludens), 2019 NEET-PG (GM1 receptor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2024 INI-CET (cholera — tight junction), 2022 INI-CET (occludins), 2014 AIIMS (zona occludens), 2019 NEET-PG (GM1 receptor)"
+    }
+  },
+  {
+    "id": "micr_q_49",
+    "questionNumber": 49,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A man with cirrhosis develops septic shock with haemorrhagic bullae 36 hours after eating raw oysters. The organism is",
+    "options": [
+      "V. cholerae O1",
+      "Aeromonas hydrophila",
+      "V. parahaemolyticus",
+      "V. vulnificus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is a halophilic vibrio that causes fulminant sepsis in people with liver disease or iron overload, and wound infection after coral or seawater cuts. *V. parahaemolyticus* causes seafood gastroenteritis and is Kanagawa-positive (β-haemolysis on Wagatsuma agar).",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (coral cuts — V. vulnificus; halophilic vibrios), 2024 INI-CET / 2023 NEET-PG (Kanagawa — V. parahaemolyticus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2017 AIIMS (coral cuts — V. vulnificus; halophilic vibrios), 2024 INI-CET / 2023 NEET-PG (Kanagawa — V. parahaemolyticus)"
+    }
+  },
+  {
+    "id": "micr_q_50",
+    "questionNumber": 50,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Match each E. coli pathotype with its mechanism.\n\n| Pathotype | Mechanism |\n|---|---|\n| 1. ETEC | a. \"Stacked-brick\" aggregative adherence |\n| 2. EPEC | b. Shiga toxin; does not ferment sorbitol; causes HUS |\n| 3. EHEC O157:H7 | c. Heat-labile and heat-stable toxins; travellers' diarrhoea |\n| 4. EAEC | d. Attaching-and-effacing lesions (intimin); infant diarrhoea |",
+    "options": [
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "EHEC is isolated on sorbitol MacConkey agar (colourless colonies). EIEC invades the mucosa and causes shigella-like dysentery. \"H\" in O157:H7 refers to the flagellar antigen.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match — ETEC, EIEC, EPEC, EAEC), 2024 INI-CET (EHEC — HUS), 2021 NEET-PG (sorbitol MacConkey), 2016 AIIMS (EPEC effacement), 2023 NEET-PG (H antigen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2020 INI-CET (match — ETEC, EIEC, EPEC, EAEC), 2024 INI-CET (EHEC — HUS), 2021 NEET-PG (sorbitol MacConkey), 2016 AIIMS (EPEC effacement), 2023 NEET-PG (H antigen)"
+    }
+  },
+  {
+    "id": "micr_q_51",
+    "questionNumber": 51,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "The enteric pathogen with the LOWEST infective dose (10–100 organisms), which allows person-to-person spread in crèches, is",
+    "options": [
+      "Shigella",
+      "Vibrio cholerae",
+      "Salmonella Typhi",
+      "Campylobacter"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Shigella resists stomach acid. Cholera and non-typhoidal salmonella need doses of about 10⁶ or more. Shigella causes small-volume, frequent stools with pus and blood. Selenite F broth and XLD/DCA agar are used for isolation.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (Selenite F — shigellosis), 2017 AIIMS (shigella-like dysentery — EIEC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2019 NEET-PG (Selenite F — shigellosis), 2017 AIIMS (shigella-like dysentery — EIEC)"
+    }
+  },
+  {
+    "id": "micr_q_52",
+    "questionNumber": 52,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A traveller has had fever for 3 weeks and has already taken antibiotics. The most sensitive specimen for culturing Salmonella Typhi is",
+    "options": [
+      "Blood",
+      "Urine",
+      "Bone marrow aspirate",
+      "Stool"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Marrow culture stays positive even after antibiotics. Blood culture is the test of choice in week 1, Widal from week 2, and stool or urine culture in weeks 3–4. Chronic carriers harbour the organism in the gallbladder.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (typhoid — blood culture), 2020 INI-CET (match — Widal in week 2)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 NEET-PG (typhoid — blood culture), 2020 INI-CET (match — Widal in week 2)"
+    }
+  },
+  {
+    "id": "micr_q_53",
+    "questionNumber": 53,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A burns patient's wound grows an oxidase-positive, non-lactose-fermenting Gram-negative bacillus with a blue-green pigment and a grape-like odour. The pigment is",
+    "options": [
+      "Prodigiosin",
+      "Staphyloxanthin",
+      "Pyocyanin",
+      "Melanin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Pseudomonas aeruginosa* is a strict aerobe that also causes ecthyma gangrenosum, otitis externa and VAP. Its exotoxin A ADP-ribosylates EF-2, like diphtheria toxin.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (burns, obligate aerobe, oxidase positive — Pseudomonas)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2020 NEET-PG (burns, obligate aerobe, oxidase positive — Pseudomonas)"
+    }
+  },
+  {
+    "id": "micr_q_54",
+    "questionNumber": 54,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Ventilator-associated pneumonia grows a non-motile, oxidase-negative Gram-negative coccobacillus that is resistant to carbapenems. The most likely organism and a last-resort drug are",
+    "options": [
+      "Acinetobacter baumannii — colistin (polymyxin)",
+      "Klebsiella — penicillin",
+      "Pseudomonas — vancomycin",
+      "Moraxella — amoxicillin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Acinetobacter survives for long periods on dry hospital surfaces and develops resistance quickly. Colistin is nephrotoxic and neurotoxic.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (VAP — Acinetobacter), 2016 AIIMS pharm (Acinetobacter VAP — colistin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2015 AIIMS (VAP — Acinetobacter), 2016 AIIMS pharm (Acinetobacter VAP — colistin)"
+    }
+  },
+  {
+    "id": "micr_q_55",
+    "questionNumber": 55,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A smoker has atypical pneumonia with diarrhoea, confusion and hyponatraemia after an outbreak traced to a cooling tower. The fastest diagnostic test is",
+    "options": [
+      "Sputum Gram stain",
+      "Cold agglutinins",
+      "Blood culture",
+      "Urinary antigen for serogroup 1"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Legionella grows on BCYE agar (with cysteine and iron) and stains poorly with Gram stain. It is an intracellular organism of macrophages, so macrolides or fluoroquinolones are used.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (culture medium for Legionella — BCYE)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2022 NEET-PG (culture medium for Legionella — BCYE)"
+    }
+  },
+  {
+    "id": "micr_q_56",
+    "questionNumber": 56,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A child admitted with whooping cough should be placed under",
+    "options": [
+      "Contact precautions only",
+      "Droplet precautions",
+      "Airborne precautions in a negative-pressure room",
+      "No isolation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Particles larger than 5 µm travel about 1 metre (pertussis, meningococcus, influenza, diphtheria). Airborne isolation is for droplet nuclei (TB, measles, varicella). Contact isolation is for MRSA, *C. difficile* and VRE.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (droplet isolation — pertussis), 2018 AIIMS (contact isolation — MRSA), 2014 AIIMS (droplet nuclei — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2016 AIIMS (droplet isolation — pertussis), 2018 AIIMS (contact isolation — MRSA), 2014 AIIMS (droplet nuclei — T/F)"
+    }
+  },
+  {
+    "id": "micr_q_57",
+    "questionNumber": 57,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Four weeks after treatment to eradicate H. pylori, the test of choice to confirm cure is",
+    "options": [
+      "Urea breath test (or stool antigen), done off PPIs",
+      "Serum IgG antibody",
+      "Rapid urease test on any biopsy, even during PPI use",
+      "Culture"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Antibodies stay positive for months after eradication. PPIs suppress urease and cause false negatives, so they are stopped for 2 weeks before testing.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2018 AIIMS (urea breath test — H. pylori)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2023 NEET-PG / 2018 AIIMS (urea breath test — H. pylori)"
+    }
+  },
+  {
+    "id": "micr_q_58",
+    "questionNumber": 58,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Ascending flaccid paralysis two weeks after bloody diarrhoea is most often linked to infection with",
+    "options": [
+      "Shigella dysenteriae",
+      "Salmonella Typhimurium",
+      "Campylobacter jejuni, through molecular mimicry with nerve gangliosides",
+      "Clostridioides difficile"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Campylobacter grows at 42 °C in microaerophilic conditions (Skirrow medium) and has a comma or \"seagull\" shape. It is a leading cause of bacterial enteritis worldwide.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Campylobacter — 42 °C, microaerophilic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2017 AIIMS (Campylobacter — 42 °C, microaerophilic)"
+    }
+  },
+  {
+    "id": "micr_q_59",
+    "questionNumber": 59,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "The infectious, metabolically inactive, extracellular form of Chlamydia trachomatis is the",
+    "options": [
+      "Reticulate body",
+      "Elementary body",
+      "Inclusion body",
+      "Spore"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The elementary body enters cells and becomes the dividing reticulate body inside an inclusion. Neonatal chlamydial conjunctivitis appears at 5–14 days. An afebrile \"staccato cough\" pneumonia with eosinophilia follows at 4–12 weeks and is treated with oral erythromycin or azithromycin.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (neonatal conjunctivitis and pneumonitis — C. trachomatis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2021 INI-CET (neonatal conjunctivitis and pneumonitis — C. trachomatis)"
+    }
+  },
+  {
+    "id": "micr_q_60",
+    "questionNumber": 60,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A woman has a thin grey, fishy-smelling vaginal discharge. All of the following support bacterial vaginosis EXCEPT",
+    "options": [
+      "Clue cells on wet mount",
+      "A positive whiff test with KOH",
+      "Vaginal pH above 4.5",
+      "Many pus cells with pseudohyphae"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In bacterial vaginosis, lactobacilli are replaced by Gardnerella and anaerobes with little inflammation (Amsel criteria, Nugent score). Pseudohyphae point to candidiasis, which has a normal pH.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (epithelial cells studded with bacteria — Gardnerella)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2021 INI-CET (epithelial cells studded with bacteria — Gardnerella)"
+    }
+  },
+  {
+    "id": "micr_q_61",
+    "questionNumber": 61,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Mycoplasma pneumoniae is intrinsically resistant to β-lactams because it",
+    "options": [
+      "Produces ESBL",
+      "Has efflux pumps",
+      "Lives inside cells",
+      "Lacks a peptidoglycan cell wall (sterols in its membrane)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Mycoplasma forms \"fried-egg\" colonies, causes atypical pneumonia, and induces cold agglutinins (anti-I IgM). Ureaplasma is a urease-positive mollicute linked to urethritis and preterm birth.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (mollicute — Ureaplasma), 2017 AIIMS pharm (Mycoplasma resistant to β-lactams)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2020 INI-CET (mollicute — Ureaplasma), 2017 AIIMS pharm (Mycoplasma resistant to β-lactams)"
+    }
+  },
+  {
+    "id": "micr_q_62",
+    "questionNumber": 62,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "The repeated febrile relapses of louse-borne relapsing fever are caused by",
+    "options": [
+      "Reactivation from the liver",
+      "Antigenic variation of variable major outer-membrane proteins",
+      "New exposure to lice",
+      "Toxin release"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*Borrelia recurrentis* is seen in blood films taken during fever. Each new antigenic variant escapes existing antibody. *B. vincentii* with fusobacteria causes Vincent's angina.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (relapsing fever and Vincent's angina — Borrelia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2017 AIIMS (relapsing fever and Vincent's angina — Borrelia)"
+    }
+  },
+  {
+    "id": "micr_q_63",
+    "questionNumber": 63,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A Giemsa-stained aspirate from a tender bubo shows bipolar (\"safety-pin\") Gram-negative bacilli. The disease is transmitted to humans by the",
+    "options": [
+      "Human body louse",
+      "Rat flea, Xenopsylla cheopis",
+      "Sandfly",
+      "Hard tick"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The organism is *Yersinia pestis*. Blockage of the flea's gut makes it regurgitate bacilli while feeding. Bubonic plague may progress to septicaemic or pneumonic forms, the latter spreading person to person by droplets.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (rat reservoir, blackish limbs — Xenopsylla)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2020 NEET-PG (rat reservoir, blackish limbs — Xenopsylla)"
+    }
+  },
+  {
+    "id": "micr_q_64",
+    "questionNumber": 64,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A trekker develops a tender ulcer with an eschar and regional lymphadenopathy after skinning a wild rabbit. The organism is",
+    "options": [
+      "Francisella tularensis",
+      "Bacillus anthracis",
+      "Pasteurella multocida",
+      "Bartonella henselae"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ulceroglandular tularaemia follows contact with infected animals or a tick bite. Diagnosis is serological, since culture is hazardous for laboratory staff and needs BSL-3. *Pasteurella* follows cat and dog bites.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (category A agents), 2022 INI-CET (BSL-3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (category A agents), 2022 INI-CET (BSL-3)"
+    }
+  },
+  {
+    "id": "micr_q_65",
+    "questionNumber": 65,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A child has a painless, non-tender regional lymphadenopathy 2 weeks after being scratched by a kitten. Node biopsy shows stellate granulomas with central neutrophils. The organism is best shown by",
+    "options": [
+      "Gram stain",
+      "Ziehl–Neelsen stain",
+      "Warthin–Starry silver stain",
+      "India ink"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Bartonella henselae* causes cat-scratch disease. In immunocompromised patients the same organism causes bacillary angiomatosis. *B. bacilliformis* causes Oroya fever.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2016 AIIMS (stellate granuloma — cat scratch), 2023 INI-CET (match — Oroya fever)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2019 NEET-PG / 2016 AIIMS (stellate granuloma — cat scratch), 2023 INI-CET (match — Oroya fever)"
+    }
+  },
+  {
+    "id": "micr_q_66",
+    "questionNumber": 66,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "Match each selective or special medium with the organism it is used for.\n\n| Medium | Organism |\n|---|---|\n| 1. Thayer–Martin (VCN) | a. Corynebacterium diphtheriae |\n| 2. Potassium tellurite | b. Legionella pneumophila |\n| 3. Buffered charcoal yeast extract | c. Neisseria gonorrhoeae |\n| 4. Lowenstein–Jensen | d. Mycobacterium tuberculosis |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Selective media contain inhibitors (antibiotics, tellurite, dyes) that suppress normal flora. EMJH is used for leptospira and Skirrow medium for campylobacter.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (Thayer–Martin), 2022 NEET-PG (BCYE), 2023 INI-CET / 2014 AIIMS (EMJH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Bacteriology",
+      "basedOn": "2021 NEET-PG (Thayer–Martin), 2022 NEET-PG (BCYE), 2023 INI-CET / 2014 AIIMS (EMJH)"
+    }
+  },
+  {
+    "id": "micr_q_67",
+    "questionNumber": 67,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "CLED medium is preferred to MacConkey agar for urine culture because it",
+    "options": [
+      "Is selective for Gram-negative bacilli only",
+      "Contains antibiotics",
+      "Prevents swarming of Proteus and also supports Gram-positive cocci and yeasts",
+      "Allows anaerobic growth"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cystine Lactose Electrolyte Deficient medium is electrolyte-deficient, which stops *Proteus* swarming, and is non-selective, so enterococci, staphylococci and candida all grow and can be counted.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (CLED better than MacConkey), 2015 AIIMS (swarming — Proteus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2014 AIIMS (CLED better than MacConkey), 2015 AIIMS (swarming — Proteus)"
+    }
+  },
+  {
+    "id": "micr_q_68",
+    "questionNumber": 68,
+    "subject": "Microbiology",
+    "subTopic": "Bacteriology",
+    "sub_topic": "Bacteriology",
+    "stem": "A man who cleans fish tanks develops nodules spreading up the forearm along lymphatics. Biopsy culture is positive at 30 °C but not 37 °C. The organism is",
+    "options": [
+      "Mycobacterium marinum",
+      "Mycobacterium kansasii",
+      "Nocardia brasiliensis",
+      "Sporothrix schenckii"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "\"Fish-tank granuloma\" grows best at 30–33 °C, which is why it stays in cool skin. Nodular lymphangitis (sporotrichoid spread) is also caused by *Sporothrix*, *Nocardia brasiliensis* and *Leishmania*.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (nodules along lymphatics — Sporothrix, Nocardia, M. marinum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Bacteriology",
+      "basedOn": "2021 INI-CET (nodules along lymphatics — Sporothrix, Nocardia, M. marinum)"
+    }
+  },
+  {
+    "id": "micr_q_69",
+    "questionNumber": 69,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Match each hepatitis virus with its genome and route of spread.\n\n| Virus | Genome and route |\n|---|---|\n| 1. Hepatitis A | a. Partially double-stranded DNA; parenteral and sexual |\n| 2. Hepatitis B | b. Single-stranded RNA; faecal–oral; severe in pregnancy |\n| 3. Hepatitis C | c. Single-stranded RNA, picornavirus; faecal–oral |\n| 4. Hepatitis E | d. Single-stranded RNA, flavivirus; parenteral; often chronic |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hepatitis A and E are water-borne and never become chronic. Hepatitis E carries a high mortality (about 20%) in the third trimester of pregnancy. Hepatitis B and C are the two that cause chronic infection and hepatocellular carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (water-borne hepatitis), 2014 AIIMS (reverse transcriptase — HIV and HBV)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Virology",
+      "basedOn": "2023 INI-CET (water-borne hepatitis), 2014 AIIMS (reverse transcriptase — HIV and HBV)"
+    }
+  },
+  {
+    "id": "micr_q_70",
+    "questionNumber": 70,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A health worker's serology shows HBsAg negative, anti-HBs positive, total anti-HBc negative. This pattern means",
+    "options": [
+      "Past natural infection with recovery",
+      "Chronic carrier state",
+      "Acute hepatitis B",
+      "Successful vaccination"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The vaccine contains only HBsAg, so it produces anti-HBs without anti-HBc. Past infection gives anti-HBs **and** anti-HBc. Isolated total anti-HBc with nothing else suggests past infection with waned anti-HBs, as in the 2021 question.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (serology — past infection, 2X), 2021 INI-CET (subunit vaccine — HBsAg), 2018 NEET-PG (HBsAg + IgM anti-HBc — acute)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2021 INI-CET (serology — past infection, 2X), 2021 INI-CET (subunit vaccine — HBsAg), 2018 NEET-PG (HBsAg + IgM anti-HBc — acute)"
+    }
+  },
+  {
+    "id": "micr_q_71",
+    "questionNumber": 71,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "HBeAg positivity in a chronic hepatitis B carrier indicates",
+    "options": [
+      "Recovery",
+      "Immunity",
+      "Active viral replication and high infectivity",
+      "Co-infection with hepatitis D"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "HBeAg correlates with high HBV DNA. Mothers who are HBeAg positive have a much higher risk of transmitting infection perinatally, which is why newborns receive vaccine plus hepatitis B immunoglobulin within 12 hours.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (hepatitis serology), 2018 AIIMS (eye splash risk), 2018 AIIMS (HBV and HCV — inform spouse)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2021 INI-CET (hepatitis serology), 2018 AIIMS (eye splash risk), 2018 AIIMS (HBV and HCV — inform spouse)"
+    }
+  },
+  {
+    "id": "micr_q_72",
+    "questionNumber": 72,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The confirmatory test for active hepatitis C infection after a positive antibody screen is",
+    "options": [
+      "Repeat anti-HCV ELISA",
+      "HCV RNA by nucleic acid amplification",
+      "HCV core antigen by immunofluorescence",
+      "Liver biopsy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Antibody persists after spontaneous or treated clearance, so it cannot distinguish past from present infection. NAAT also confirms cure (sustained virological response) 12 weeks after direct-acting antivirals.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (NAAT for HCV — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2018 AIIMS (NAAT for HCV — T/F)"
+    }
+  },
+  {
+    "id": "micr_q_73",
+    "questionNumber": 73,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "An infant born to an HIV-positive mother is 4 months old. The appropriate test to establish whether the baby is infected is",
+    "options": [
+      "HIV antibody ELISA",
+      "Rapid antibody test",
+      "Western blot",
+      "HIV DNA PCR on dried blood spot"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Maternal IgG crosses the placenta and persists up to 18 months, so antibody tests cannot be interpreted before then. Virological tests (DNA or RNA PCR) are used at 6 weeks and repeated later.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (4-month-old of HIV mother — dried blood for PCR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2018 NEET-PG (4-month-old of HIV mother — dried blood for PCR)"
+    }
+  },
+  {
+    "id": "micr_q_74",
+    "questionNumber": 74,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "In a person on antiretroviral therapy, the single best marker of treatment success is",
+    "options": [
+      "CD4 count alone",
+      "Plasma HIV RNA viral load",
+      "p24 antigen",
+      "Weight gain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Viral load responds within weeks, while CD4 recovery is slower and more variable. \"Undetectable equals untransmittable\" is based on sustained viral suppression. High maternal viral load is the strongest predictor of vertical transmission.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (HAART monitored by viral load), 2018 AIIMS (vertical transmission — high RNA load)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2018 NEET-PG (HAART monitored by viral load), 2018 AIIMS (vertical transmission — high RNA load)"
+    }
+  },
+  {
+    "id": "micr_q_75",
+    "questionNumber": 75,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The HIV envelope glycoprotein that mediates fusion of the viral envelope with the host cell membrane is",
+    "options": [
+      "gp120",
+      "gp41",
+      "p24",
+      "Reverse transcriptase"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "gp120 binds CD4 and the co-receptor (CCR5 or CXCR4); gp41 then inserts its fusion peptide into the cell membrane. Enfuvirtide blocks gp41, and maraviroc blocks CCR5. p24 is the capsid antigen used in fourth-generation tests.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (structure permeating host membrane — gp41)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2022 INI-CET (structure permeating host membrane — gp41)"
+    }
+  },
+  {
+    "id": "micr_q_76",
+    "questionNumber": 76,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A 4-day-old neonate has vesicles, seizures and CSF showing lymphocytes with a normal glucose. The mother had painful genital ulcers near delivery. The best confirmatory test is",
+    "options": [
+      "Tzanck smear from a vesicle",
+      "Serum IgG for HSV",
+      "CSF PCR for HSV DNA",
+      "Viral culture of stool"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "PCR is sensitive, specific and fast. A Tzanck smear shows multinucleated giant cells but does not separate HSV from VZV or confirm CNS disease. Neonatal HSV is usually HSV-2 acquired during delivery, and acyclovir is started empirically.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (HSV encephalitis — CSF PCR), 2023 INI-CET (neonate with CNS signs — HSV-2), 2024 INI-CET (genital vesicles — acyclovir)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Virology",
+      "basedOn": "2023 NEET-PG (HSV encephalitis — CSF PCR), 2023 INI-CET (neonate with CNS signs — HSV-2), 2024 INI-CET (genital vesicles — acyclovir)"
+    }
+  },
+  {
+    "id": "micr_q_77",
+    "questionNumber": 77,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Herpes simplex virus establishes latency in",
+    "options": [
+      "Dorsal root and trigeminal sensory ganglia",
+      "B lymphocytes",
+      "Renal tubular epithelium",
+      "Monocytes"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "VZV also stays latent in sensory ganglia and reactivates as shingles in one dermatome. EBV remains latent in B cells (through CD21), and CMV in monocytes and marrow progenitors.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (herpes latency — dorsal root ganglion), 2021 NEET-PG (dermatomal vesicles — zoster), 2020 INI-CET (EBV receptor CD21)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2017 AIIMS (herpes latency — dorsal root ganglion), 2021 NEET-PG (dermatomal vesicles — zoster), 2020 INI-CET (EBV receptor CD21)"
+    }
+  },
+  {
+    "id": "micr_q_78",
+    "questionNumber": 78,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A woman at 14 weeks of pregnancy is exposed to a child with chickenpox. She has no history of varicella, and VZV IgG is negative. The correct action is",
+    "options": [
+      "Give varicella vaccine immediately",
+      "Terminate the pregnancy",
+      "Reassure, no action needed",
+      "Give varicella-zoster immunoglobulin as soon as possible"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "She is susceptible. The live attenuated vaccine is contraindicated in pregnancy. Varicella in the first 20 weeks can cause congenital varicella syndrome (limb hypoplasia, cicatricial scars, eye defects).",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (pregnant, VZV antibody negative — susceptible)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2019 NEET-PG (pregnant, VZV antibody negative — susceptible)"
+    }
+  },
+  {
+    "id": "micr_q_79",
+    "questionNumber": 79,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A renal transplant recipient develops fever, leucopenia and pneumonitis 2 months after transplantation. Biopsy shows large cells with intranuclear \"owl-eye\" inclusions. Treatment is",
+    "options": [
+      "Acyclovir",
+      "Ganciclovir or valganciclovir",
+      "Oseltamivir",
+      "Ribavirin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "CMV is the commonest cause of infection 1–4 months after transplantation. Monitoring is by quantitative CMV DNA PCR. Foscarnet is used for ganciclovir-resistant strains; it needs no activation by viral kinase.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2020 NEET-PG (CMV 1–4 months post-transplant), 2022 NEET-PG (owl-eye in urine), 2021 INI-CET (foscarnet — no thymidine kinase activation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2022 NEET-PG / 2020 NEET-PG (CMV 1–4 months post-transplant), 2022 NEET-PG (owl-eye in urine), 2021 INI-CET (foscarnet — no thymidine kinase activation)"
+    }
+  },
+  {
+    "id": "micr_q_80",
+    "questionNumber": 80,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The preferred specimen to confirm congenital CMV infection in a newborn within the first 3 weeks of life is",
+    "options": [
+      "Serum IgG",
+      "Cord blood culture",
+      "Saliva or urine PCR",
+      "CSF culture"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "CMV is shed in large amounts in urine and saliva. Testing must be done before 3 weeks of age; after that, a positive result cannot distinguish congenital from perinatal infection. Congenital CMV causes periventricular calcification and sensorineural deafness.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (best sample for CMV DNA PCR in neonate — urine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2016 AIIMS (best sample for CMV DNA PCR in neonate — urine)"
+    }
+  },
+  {
+    "id": "micr_q_81",
+    "questionNumber": 81,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "An adolescent has fever, sore throat, posterior cervical lymphadenopathy and atypical lymphocytes. The monospot test detects",
+    "options": [
+      "Specific IgM against viral capsid antigen",
+      "Heterophile antibodies that agglutinate horse or sheep red cells",
+      "Cold agglutinins",
+      "Viral DNA"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is the principle of the Paul–Bunnell test. It is often negative in young children and early in illness, when EBV-specific VCA IgM is used instead. Giving ampicillin produces a florid rash.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (Paul–Bunnell — heterophile antibody, 2X), 2014 AIIMS (EBV and nasopharyngeal carcinoma)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (Paul–Bunnell — heterophile antibody, 2X), 2014 AIIMS (EBV and nasopharyngeal carcinoma)"
+    }
+  },
+  {
+    "id": "micr_q_82",
+    "questionNumber": 82,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Oral hairy leukoplakia in a person with HIV presents as white plaques on the lateral tongue that cannot be scraped off. It is caused by",
+    "options": [
+      "Candida albicans",
+      "Epstein–Barr virus",
+      "Human papillomavirus",
+      "Herpes simplex virus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The key distinction is that oral candidiasis (pseudomembranous thrush) **can** be wiped off, leaving a raw surface. EBV is also linked to Burkitt lymphoma, nasopharyngeal carcinoma and post-transplant lymphoproliferative disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (white patches that cannot be wiped — EBV), 2024 INI-CET (odynophagia with plaques — candida)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2023 INI-CET (white patches that cannot be wiped — EBV), 2024 INI-CET (odynophagia with plaques — candida)"
+    }
+  },
+  {
+    "id": "micr_q_83",
+    "questionNumber": 83,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Match each virus with the tumour it is associated with.\n\n| Virus | Tumour |\n|---|---|\n| 1. HHV-8 | a. Cervical carcinoma |\n| 2. HPV 16 and 18 | b. Adult T-cell leukaemia/lymphoma |\n| 3. HTLV-1 | c. Hepatocellular carcinoma |\n| 4. Hepatitis B | d. Kaposi sarcoma |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "HHV-8 also causes primary effusion lymphoma and multicentric Castleman disease. HPV 6 and 11 are low-risk types causing genital warts, and the nonavalent vaccine covers 6, 11, 16, 18, 31, 33, 45, 52 and 58.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (HHV-8), 2024 INI-CET (HPV 16, 18), 2019 NEET-PG (HPV 6, 11 — warts), 2016 AIIMS (nonavalent vaccine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Virology",
+      "basedOn": "2016 AIIMS (HHV-8), 2024 INI-CET (HPV 16, 18), 2019 NEET-PG (HPV 6, 11 — warts), 2016 AIIMS (nonavalent vaccine)"
+    }
+  },
+  {
+    "id": "micr_q_84",
+    "questionNumber": 84,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A 3-day-old infant of a mother with no antenatal care has cataract, patent ductus arteriosus and sensorineural deafness. The virus responsible belongs to the family",
+    "options": [
+      "Herpesviridae",
+      "Matonaviridae (formerly Togaviridae)",
+      "Parvoviridae",
+      "Flaviviridae"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Congenital rubella syndrome gives the triad of cataract, deafness and PDA, and risk is highest in the first trimester. Diagnosis in the newborn is rubella IgM or PCR. The vaccine is live attenuated, so it is avoided in pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2018 AIIMS (congenital rubella triad), 2020 NEET-PG / 2017 AIIMS (rubella family)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2021 NEET-PG / 2018 AIIMS (congenital rubella triad), 2020 NEET-PG / 2017 AIIMS (rubella family)"
+    }
+  },
+  {
+    "id": "micr_q_85",
+    "questionNumber": 85,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A child has fever, coryza, conjunctivitis and small white spots on the buccal mucosa, followed by a rash spreading from behind the ears. A serious late complication of this infection is",
+    "options": [
+      "Subacute sclerosing panencephalitis",
+      "Reye syndrome",
+      "Guillain–Barré syndrome",
+      "Aplastic anaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "SSPE appears 7–10 years after measles, with raised measles antibody in CSF. Measles is a single-stranded, negative-sense, enveloped RNA paramyxovirus. Vitamin A reduces mortality.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (Koplik spots — measles, enveloped ssRNA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2019 NEET-PG (Koplik spots — measles, enveloped ssRNA)"
+    }
+  },
+  {
+    "id": "micr_q_86",
+    "questionNumber": 86,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A child with sickle cell disease develops a sudden fall in haemoglobin with a reticulocyte count near zero. The virus responsible attaches to",
+    "options": [
+      "CD21 on B cells",
+      "The P antigen (globoside) on erythroid progenitors",
+      "Sialic acid on respiratory epithelium",
+      "CD4"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Parvovirus B19 is a small, non-enveloped single-stranded DNA virus. It also causes erythema infectiosum (\"slapped cheek\"), arthropathy in adults and non-immune hydrops fetalis.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (aplastic crisis — parvovirus), 2022 NEET-PG / 2017 AIIMS (tropism for erythroid progenitors), 2022 INI-CET (slapped cheek, red cell aplasia), 2021 INI-CET (B19 features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2023 NEET-PG (aplastic crisis — parvovirus), 2022 NEET-PG / 2017 AIIMS (tropism for erythroid progenitors), 2022 INI-CET (slapped cheek, red cell aplasia), 2021 INI-CET (B19 features)"
+    }
+  },
+  {
+    "id": "micr_q_87",
+    "questionNumber": 87,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A 6-month-old has vomiting and profuse watery diarrhoea. Electron microscopy shows a wheel-shaped virus. The enterotoxin responsible acts by",
+    "options": [
+      "Raising cyclic AMP as cholera toxin does",
+      "Invading enterocytes",
+      "Acting as NSP4, a viral enterotoxin that raises intracellular calcium",
+      "Cleaving SNARE proteins"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Rotavirus is a double-stranded, segmented RNA virus. It is diagnosed by antigen detection in stool (ELISA or latex). Live oral rotavirus vaccine is part of the national schedule.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (NSP4 enterotoxin), 2019 NEET-PG (wheel-shaped virus), 2023 NEET-PG (antigen detection in stool)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2024 INI-CET / 2014 AIIMS (NSP4 enterotoxin), 2019 NEET-PG (wheel-shaped virus), 2023 NEET-PG (antigen detection in stool)"
+    }
+  },
+  {
+    "id": "micr_q_88",
+    "questionNumber": 88,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The commonest cause of outbreaks of acute gastroenteritis in adults, on cruise ships and in institutions, is",
+    "options": [
+      "Rotavirus",
+      "Adenovirus 40/41",
+      "Astrovirus",
+      "Norovirus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Norovirus is a non-enveloped, single-stranded RNA calicivirus with a very low infective dose and a short incubation (24–48 hours). Alcohol rubs are relatively ineffective against it, so hand washing and hypochlorite are used.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (commonest viral diarrhoea in adults — norovirus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2015 AIIMS (commonest viral diarrhoea in adults — norovirus)"
+    }
+  },
+  {
+    "id": "micr_q_89",
+    "questionNumber": 89,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Match each enterovirus with the illness it classically causes.\n\n| Virus | Illness |\n|---|---|\n| 1. Coxsackievirus A16 | a. Acute haemorrhagic conjunctivitis |\n| 2. Enterovirus 70 | b. Aseptic meningitis with a maculopapular rash |\n| 3. Coxsackievirus B | c. Hand, foot and mouth disease |\n| 4. Echovirus | d. Pleurodynia and myocarditis |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Enteroviruses are the commonest cause of aseptic meningitis, which gives lymphocytic CSF with normal or near-normal glucose. Enterovirus 71 causes hand, foot and mouth disease with neurological complications.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2016 AIIMS (hand foot mouth — Coxsackie A16), 2020 INI-CET (enterovirus 70), 2020 INI-CET (CSF picture — echovirus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Virology",
+      "basedOn": "2022 INI-CET / 2016 AIIMS (hand foot mouth — Coxsackie A16), 2020 INI-CET (enterovirus 70), 2020 INI-CET (CSF picture — echovirus)"
+    }
+  },
+  {
+    "id": "micr_q_90",
+    "questionNumber": 90,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The INCUBATION period of a disease is best defined as the interval between",
+    "options": [
+      "Exposure and the onset of the first symptoms",
+      "Exposure and the appearance of antibodies",
+      "The onset of symptoms and recovery",
+      "Infection in one case and the onset of symptoms in a second case"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option B is the window period, and option D is the serial interval. Useful figures: hepatitis A 15–45 days, varicella 14–21 days, measles about 10 days, and lymphogranuloma venereum 10–30 days.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — incubation periods), 2016 AIIMS (LGV incubation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2022 INI-CET (match — incubation periods), 2016 AIIMS (LGV incubation)"
+    }
+  },
+  {
+    "id": "micr_q_91",
+    "questionNumber": 91,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A patient has had fever for 6 days with retro-orbital pain and petechiae. NS1 antigen is now negative. The appropriate test is",
+    "options": [
+      "Repeat NS1 antigen",
+      "IgM capture ELISA (MAC-ELISA)",
+      "IgG ELISA alone",
+      "Viral culture"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "NS1 and RT-PCR are useful in the first 5 days. IgM appears from day 5 and is the test of choice after that, which is why an antibody ELISA is not helpful on day 3.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (fever >5 days, petechiae — IgM capture ELISA), 2015 AIIMS (ELISA not helpful at day 3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2023 INI-CET (fever >5 days, petechiae — IgM capture ELISA), 2015 AIIMS (ELISA not helpful at day 3)"
+    }
+  },
+  {
+    "id": "micr_q_92",
+    "questionNumber": 92,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Severe dengue on a second infection with a different serotype is explained by",
+    "options": [
+      "Direct cytopathic effect",
+      "Superantigen activity",
+      "Molecular mimicry",
+      "Antibody-dependent enhancement, in which non-neutralising antibody helps the virus enter Fc receptor-bearing cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Plasma leakage from increased capillary permeability, not bleeding alone, defines severe dengue. Warning signs include persistent vomiting, abdominal pain, mucosal bleeding and lethargy.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (ADE in dengue haemorrhagic fever), 2023 INI-CET (warning sign — vomiting)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2015 AIIMS (ADE in dengue haemorrhagic fever), 2023 INI-CET (warning sign — vomiting)"
+    }
+  },
+  {
+    "id": "micr_q_93",
+    "questionNumber": 93,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "In the transmission cycle of Japanese encephalitis, humans are",
+    "options": [
+      "The reservoir host",
+      "The amplifying host",
+      "Dead-end hosts, because viraemia is low and brief",
+      "The definitive host"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ardeid water birds are the natural reservoir, pigs are the amplifying host, and *Culex tritaeniorhynchus* is the vector, which is why cases cluster near rice fields and piggeries. A live attenuated vaccine (SA 14-14-2) is used in endemic districts.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match — JE hosts and vector), 2020 NEET-PG (humans are dead-end hosts), 2014 AIIMS (Culex, pigs, birds)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2021 INI-CET (match — JE hosts and vector), 2020 NEET-PG (humans are dead-end hosts), 2014 AIIMS (Culex, pigs, birds)"
+    }
+  },
+  {
+    "id": "micr_q_94",
+    "questionNumber": 94,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A patient bitten by a dog 2 months ago develops hydrophobia and aerophobia. The most appropriate antemortem test is",
+    "options": [
+      "Serum antibody alone",
+      "Brain biopsy",
+      "Blood culture",
+      "RT-PCR on saliva, with nuchal skin biopsy immunofluorescence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Corneal impression smears can also be used but are less sensitive. Negri bodies in hippocampal neurons are a postmortem finding. Rabies is essentially always fatal once symptoms begin, so post-exposure prophylaxis is what matters.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (corneal scraping — RT-PCR), 2020 INI-CET (most fatal virus — rabies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2015 AIIMS (corneal scraping — RT-PCR), 2020 INI-CET (most fatal virus — rabies)"
+    }
+  },
+  {
+    "id": "micr_q_95",
+    "questionNumber": 95,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "A person with a deep bite from a stray dog, who has never been vaccinated, should receive",
+    "options": [
+      "Vaccine alone",
+      "Rabies immunoglobulin infiltrated into the wound plus a full vaccine course, after washing with soap and water",
+      "Immunoglobulin alone",
+      "Observation of the dog for 10 days before any action"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is category III exposure. Washing for 15 minutes with soap and water is the single most effective first step. Previously vaccinated people need only two booster doses and no immunoglobulin.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (rabies fatality), 2015 AIIMS (rabies diagnosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2020 INI-CET (rabies fatality), 2015 AIIMS (rabies diagnosis)"
+    }
+  },
+  {
+    "id": "micr_q_96",
+    "questionNumber": 96,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Antigenic shift in influenza A is caused by",
+    "options": [
+      "Point mutations in the haemagglutinin gene",
+      "Reassortment of genome segments between two different strains infecting one cell",
+      "Recombination within a single gene",
+      "Host antibody pressure alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The influenza A genome has 8 segments, which allows reassortment and causes pandemics. Antigenic drift (point mutations) causes seasonal epidemics and requires annual vaccine updates. Oseltamivir inhibits neuraminidase.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (influenza life cycle), 2017 AIIMS (oseltamivir — neuraminidase inhibitor), 2015 AIIMS (bird flu drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Virology",
+      "basedOn": "2018 AIIMS (influenza life cycle), 2017 AIIMS (oseltamivir — neuraminidase inhibitor), 2015 AIIMS (bird flu drugs)"
+    }
+  },
+  {
+    "id": "micr_q_97",
+    "questionNumber": 97,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Nipah virus outbreaks in India are linked to",
+    "options": [
+      "Mosquito bites",
+      "Tick bites",
+      "Fruit bats, with contaminated date palm sap and person-to-person spread",
+      "Contaminated water supplies"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Pteropus* bats are the reservoir. Nipah causes encephalitis and respiratory illness with high mortality, and nosocomial transmission is well documented, so strict isolation and PPE are needed.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (fruit bats, encephalitis — Nipah)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (fruit bats, encephalitis — Nipah)"
+    }
+  },
+  {
+    "id": "micr_q_98",
+    "questionNumber": 98,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Which statement about Crimean–Congo haemorrhagic fever is correct?",
+    "options": [
+      "It is transmitted only by mosquitoes",
+      "It has never been reported from India",
+      "It is spread by Hyalomma ticks and by contact with blood of infected animals or patients",
+      "It is caused by a DNA virus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cases have been reported from Gujarat and Rajasthan. It is a segmented negative-sense RNA virus (Nairoviridae), and nosocomial outbreaks among health workers are well recognised. Ribavirin may be used.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (CCHF reported from India — T/F), 2014 AIIMS (haemorrhagic fever viruses)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2015 AIIMS (CCHF reported from India — T/F), 2014 AIIMS (haemorrhagic fever viruses)"
+    }
+  },
+  {
+    "id": "micr_q_99",
+    "questionNumber": 99,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "The vector of Zika, chikungunya and dengue in India is",
+    "options": [
+      "Culex quinquefasciatus",
+      "Anopheles stephensi",
+      "Mansonia",
+      "Aedes aegypti"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Aedes* is a daytime biter that breeds in clean stored water, so control focuses on removing household breeding sites. Zika in pregnancy causes microcephaly, and it can also be transmitted sexually.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (Zika vector — Aedes aegypti)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2019 NEET-PG (Zika vector — Aedes aegypti)"
+    }
+  },
+  {
+    "id": "micr_q_100",
+    "questionNumber": 100,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Which measure has NOT been shown to prevent COVID-19?",
+    "options": [
+      "Correctly worn masks",
+      "Vaccination",
+      "Ivermectin prophylaxis",
+      "Respiratory and cough etiquette"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Randomised trials showed no benefit from ivermectin, and it was removed from the national guidelines. SARS-CoV-2 is a positive-sense RNA virus diagnosed by RT-PCR, which needs a reverse transcription step.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (COVID preventive measures — not ivermectin), 2021 INI-CET (RNA viruses — RT-PCR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2024 INI-CET (COVID preventive measures — not ivermectin), 2021 INI-CET (RNA viruses — RT-PCR)"
+    }
+  },
+  {
+    "id": "micr_q_101",
+    "questionNumber": 101,
+    "subject": "Microbiology",
+    "subTopic": "Virology",
+    "sub_topic": "Virology",
+    "stem": "Which group is NOT conventionally classified as a \"high-risk\" group for HIV in India's national programme?",
+    "options": [
+      "Female sex workers",
+      "Men who have sex with men",
+      "People who inject drugs",
+      "Long-distance truck drivers"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Truck drivers and migrant workers are classified as \"bridge populations\", not core high-risk groups. Targeted interventions are directed at the three core groups plus transgender people.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (HIV high-risk group does not include truck drivers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Virology",
+      "basedOn": "2024 INI-CET (HIV high-risk group does not include truck drivers)"
+    }
+  },
+  {
+    "id": "micr_q_102",
+    "questionNumber": 102,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Which component is absent from the cell wall of Mucorales, which explains why the 1,3-β-D-glucan assay is negative in mucormycosis?",
+    "options": [
+      "Chitin",
+      "1,3-β-D-glucan",
+      "Ergosterol",
+      "Mannoprotein"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mucorales have chitin and chitosan but little β-glucan. Cryptococcus is also negative because of its thick capsule. The assay is useful for candida, aspergillus and *Pneumocystis*. Echinocandins, which block glucan synthesis, do not work against mucormycosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (layer absent in mucor), 2020 INI-CET (fungal cell wall), 2014 AIIMS (1,3 β-D-glucan — invasive candidiasis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mycology",
+      "basedOn": "2024 INI-CET (layer absent in mucor), 2020 INI-CET (fungal cell wall), 2014 AIIMS (1,3 β-D-glucan — invasive candidiasis)"
+    }
+  },
+  {
+    "id": "micr_q_103",
+    "questionNumber": 103,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A man with poorly controlled diabetes and recent steroid use has facial pain, black necrotic turbinates and orbital swelling. Biopsy shows broad, aseptate hyphae with wide-angle branching. First-line treatment is",
+    "options": [
+      "Fluconazole",
+      "Liposomal amphotericin B with urgent surgical debridement",
+      "Voriconazole alone",
+      "Caspofungin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mucormycosis is angioinvasive, causing thrombosis and infarction, so antifungals alone cannot reach devitalised tissue. Posaconazole and isavuconazole are step-down options. Voriconazole has no activity and may even predispose to it.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (post-COVID steroid, aseptate hyphae — mucor), 2021 NEET-PG (DOC amphotericin B), 2016 AIIMS (mucormycosis drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 INI-CET (post-COVID steroid, aseptate hyphae — mucor), 2021 NEET-PG (DOC amphotericin B), 2016 AIIMS (mucormycosis drugs)"
+    }
+  },
+  {
+    "id": "micr_q_104",
+    "questionNumber": 104,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A neutropenic patient after chemotherapy has a halo sign on CT chest. Galactomannan is positive. Biopsy would show",
+    "options": [
+      "Broad aseptate hyphae",
+      "Budding yeasts with a capsule",
+      "Septate hyphae with acute-angle (dichotomous) branching",
+      "Spherules with endospores"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Invasive aspergillosis. Galactomannan is a cell-wall antigen used for diagnosis and monitoring. Voriconazole is the drug of choice. *Aspergillus* also causes mycotic endocarditis and aspergilloma.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (galactomannan — invasive aspergillosis), 2022 INI-CET (GMS — septate dichotomous), 2018 NEET-PG / 2015 AIIMS (acute-angle branching)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mycology",
+      "basedOn": "2020 INI-CET (galactomannan — invasive aspergillosis), 2022 INI-CET (GMS — septate dichotomous), 2018 NEET-PG / 2015 AIIMS (acute-angle branching)"
+    }
+  },
+  {
+    "id": "micr_q_105",
+    "questionNumber": 105,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A germ tube test is performed by incubating yeast in serum at 37 °C for 2 hours. A positive result shows a filament with no constriction at its base, which identifies",
+    "options": [
+      "Candida albicans",
+      "Candida glabrata",
+      "Cryptococcus neoformans",
+      "Trichosporon"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The absence of a constriction separates a true germ tube from a pseudohypha. *C. albicans* also forms chlamydospores on cornmeal agar. CHROMagar separates species by colour, and *C. krusei* is intrinsically resistant to fluconazole.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (germ tube formation), 2022 NEET-PG (budding yeast with pseudohyphae), 2020 NEET-PG (candida CHROMagar)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2022 INI-CET (germ tube formation), 2022 NEET-PG (budding yeast with pseudohyphae), 2020 NEET-PG (candida CHROMagar)"
+    }
+  },
+  {
+    "id": "micr_q_106",
+    "questionNumber": 106,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A patient on broad-spectrum antibiotics with a central venous catheter grows budding yeasts from blood. Management includes",
+    "options": [
+      "Topical antifungal only",
+      "Observation, since it is a contaminant",
+      "Catheter removal plus an echinocandin",
+      "Oral nystatin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Candidaemia always needs treatment, with removal of the infected line and fundoscopy to exclude endophthalmitis. Echinocandins are first-line while the species is identified.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (CVC infection — Candida), 2022 INI-CET (C. krusei resistant to fluconazole)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2021 NEET-PG (CVC infection — Candida), 2022 INI-CET (C. krusei resistant to fluconazole)"
+    }
+  },
+  {
+    "id": "micr_q_107",
+    "questionNumber": 107,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "India ink preparation of CSF shows yeast cells with a wide clear halo. The best test for monitoring and confirming this infection is",
+    "options": [
+      "Cryptococcal capsular polysaccharide antigen (CrAg) in CSF and serum",
+      "Repeated India ink",
+      "Blood culture only",
+      "Serum IgM"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "CrAg latex agglutination or lateral flow assay is highly sensitive. The capsule is mucicarmine-positive. Treatment is amphotericin B with flucytosine, then fluconazole. Raised intracranial pressure needs repeated lumbar punctures.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (India ink — Cryptococcus), 2019 NEET-PG / 2018 AIIMS (mucicarmine stain), 2024 INI-CET (Cryptococcus — respiratory entry), 2020 INI-CET (Cryptococcus features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2014 AIIMS (India ink — Cryptococcus), 2019 NEET-PG / 2018 AIIMS (mucicarmine stain), 2024 INI-CET (Cryptococcus — respiratory entry), 2020 INI-CET (Cryptococcus features)"
+    }
+  },
+  {
+    "id": "micr_q_108",
+    "questionNumber": 108,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "The primary route by which Cryptococcus enters the human body is",
+    "options": [
+      "Inhalation of desiccated yeast cells from soil contaminated with bird droppings",
+      "Traumatic inoculation",
+      "Ingestion",
+      "Sexual contact"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Infection starts in the lung and may stay subclinical, then disseminates to the CNS when cell-mediated immunity falls. *C. neoformans* is linked to pigeon droppings; *C. gattii* to eucalyptus trees and affects immunocompetent people.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Cryptococcus causes respiratory infection — T/F), 2020 INI-CET (Cryptococcus characteristics)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2024 INI-CET (Cryptococcus causes respiratory infection — T/F), 2020 INI-CET (Cryptococcus characteristics)"
+    }
+  },
+  {
+    "id": "micr_q_109",
+    "questionNumber": 109,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Match each dimorphic fungus with its tissue form.\n\n| Fungus | Tissue form |\n|---|---|\n| 1. Histoplasma capsulatum | a. Spherule containing endospores |\n| 2. Blastomyces dermatitidis | b. Small intracellular yeasts within macrophages |\n| 3. Coccidioides immitis | c. Yeasts with a \"pilot wheel\" of multiple buds |\n| 4. Paracoccidioides brasiliensis | d. Broad-based budding yeast |",
+    "options": [
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dimorphic fungi grow as moulds at 25 °C and as yeasts (or spherules) at 37 °C. *Talaromyces marneffei* is the exception that divides by fission and produces a red pigment on culture.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (dimorphic fungi), 2018 NEET-PG / 2017 AIIMS (broad-based budding — blastomycosis), 2015 AIIMS (dimorphic examples), 2020 NEET-PG (Talaromyces)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mycology",
+      "basedOn": "2024 INI-CET (dimorphic fungi), 2018 NEET-PG / 2017 AIIMS (broad-based budding — blastomycosis), 2015 AIIMS (dimorphic examples), 2020 NEET-PG (Talaromyces)"
+    }
+  },
+  {
+    "id": "micr_q_110",
+    "questionNumber": 110,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "\"Desert rheumatism\" with fever, erythema nodosum and arthralgia after dust exposure in an endemic area is caused by",
+    "options": [
+      "Histoplasma",
+      "Blastomyces",
+      "Sporothrix",
+      "Coccidioides immitis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Arthroconidia in dry soil are inhaled and form spherules in tissue. Cultures are highly infectious for laboratory staff and need BSL-3. Most infections resolve without treatment.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (desert rheumatism — Coccidioides), 2024 INI-CET (dimorphic fungi)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 NEET-PG (desert rheumatism — Coccidioides), 2024 INI-CET (dimorphic fungi)"
+    }
+  },
+  {
+    "id": "micr_q_111",
+    "questionNumber": 111,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A gardener pricked by a rose thorn develops a nodule that ulcerates, followed by a chain of nodules along the lymphatics of the forearm. The organism and treatment are",
+    "options": [
+      "Sporothrix schenckii — itraconazole",
+      "Nocardia — penicillin",
+      "Candida — fluconazole",
+      "Cryptococcus — amphotericin B"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is lymphocutaneous sporotrichosis, acquired by traumatic inoculation. Culture shows rosette-like (flower-like) arrangements of conidia. Potassium iodide is a cheap alternative; amphotericin B is for disseminated disease.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (traumatic inoculation — Sporothrix), 2021 INI-CET (rosette-like conidia — sporotrichosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 NEET-PG (traumatic inoculation — Sporothrix), 2021 INI-CET (rosette-like conidia — sporotrichosis)"
+    }
+  },
+  {
+    "id": "micr_q_112",
+    "questionNumber": 112,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A farmer has a slowly growing warty plaque on the foot. Biopsy shows thick-walled, dark brown, septate cells that divide by splitting. These are",
+    "options": [
+      "Grains",
+      "Muriform (sclerotic or Medlar) bodies",
+      "Spherules",
+      "Asteroid bodies"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Chromoblastomycosis is caused by dematiaceous (pigmented) fungi such as *Fonsecaea*, *Cladosporium* and *Phialophora*. Phaeohyphomycosis, by contrast, shows pigmented hyphae rather than muriform cells.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (copper penny bodies, 2X), 2018 NEET-PG / 2016 AIIMS (chromoblastomycosis), 2021 INI-CET (Cladosporium)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mycology",
+      "basedOn": "2021 INI-CET (copper penny bodies, 2X), 2018 NEET-PG / 2016 AIIMS (chromoblastomycosis), 2021 INI-CET (Cladosporium)"
+    }
+  },
+  {
+    "id": "micr_q_113",
+    "questionNumber": 113,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A farmer has a swollen foot with multiple sinuses discharging granules. The key reason to distinguish eumycetoma from actinomycetoma is that",
+    "options": [
+      "Only eumycetoma causes sinuses",
+      "Actinomycetoma responds to antibacterials (cotrimoxazole with amikacin), whereas eumycetoma needs antifungals and often surgery",
+      "They are identical in treatment",
+      "Eumycetoma never involves bone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Actinomycetoma is caused by bacteria (*Nocardia*, *Actinomadura*, *Streptomyces*) and eumycetoma by true fungi (*Madurella*). Granule colour and microscopy of the grains guide the distinction.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (mycetoma caused by both bacteria and fungi), 2020 INI-CET (discharging sinuses on foot — mycetoma), 2018 NEET-PG (white granules — Nocardia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2021 NEET-PG (mycetoma caused by both bacteria and fungi), 2020 INI-CET (discharging sinuses on foot — mycetoma), 2018 NEET-PG (white granules — Nocardia)"
+    }
+  },
+  {
+    "id": "micr_q_114",
+    "questionNumber": 114,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A woman from south India has a friable, red, polypoid mass in the nose that bleeds easily. Histology shows large sporangia packed with endospores. The agent",
+    "options": [
+      "Grows readily on Sabouraud agar",
+      "Cannot be cultured on artificial media and is treated surgically with dapsone",
+      "Responds to fluconazole",
+      "Is a dematiaceous mould"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*Rhinosporidium seeberi* is now classified among aquatic protists (Mesomycetozoea), not true fungi. It is linked to bathing in stagnant ponds, and recurrence after excision is common.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (red polypoid nasal mass — Rhinosporidium), 2015 AIIMS (aquatic protistan protozoa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 INI-CET (red polypoid nasal mass — Rhinosporidium), 2015 AIIMS (aquatic protistan protozoa)"
+    }
+  },
+  {
+    "id": "micr_q_115",
+    "questionNumber": 115,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "The hair perforation test is used to separate",
+    "options": [
+      "Trichophyton rubrum from T. mentagrophytes",
+      "Microsporum from Epidermophyton",
+      "Candida from Cryptococcus",
+      "Aspergillus from Penicillium"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "*T. mentagrophytes* perforates hair and is urease-positive. *T. rubrum* does not perforate and produces a deep red pigment on the reverse of the colony with pencil-shaped macroconidia.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (hair perforation — T. mentagrophytes), 2020 NEET-PG (red pigment, pencil-shaped macroconidia — T. rubrum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2022 NEET-PG (hair perforation — T. mentagrophytes), 2020 NEET-PG (red pigment, pencil-shaped macroconidia — T. rubrum)"
+    }
+  },
+  {
+    "id": "micr_q_116",
+    "questionNumber": 116,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Which dermatophyte genus does NOT invade hair?",
+    "options": [
+      "Trichophyton",
+      "Microsporum",
+      "Epidermophyton",
+      "All three invade hair"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Epidermophyton floccosum* infects skin and nails only. *Microsporum* infects skin and hair but not nails. *Trichophyton* infects all three. Dermatophytes cause annular lesions with central clearing.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (annular lesions — Trichophyton, Epidermophyton, Microsporum), 2017 AIIMS (dermatophytosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2022 INI-CET (annular lesions — Trichophyton, Epidermophyton, Microsporum), 2017 AIIMS (dermatophytosis)"
+    }
+  },
+  {
+    "id": "micr_q_117",
+    "questionNumber": 117,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Scrapings from hypopigmented scaly macules on the trunk show short hyphae with clusters of round yeasts (\"spaghetti and meatballs\"). The organism is",
+    "options": [
+      "Malassezia furfur",
+      "Trichophyton rubrum",
+      "Candida albicans",
+      "Exophiala"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Pityriasis versicolor shows golden-yellow fluorescence under Wood's lamp. *Malassezia* is lipophilic, so culture needs olive oil overlay. In neonates on intravenous lipid it can cause catheter-related fungaemia.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (hair perforation test), 2020 NEET-PG (itch in axilla — T. rubrum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2022 NEET-PG (hair perforation test), 2020 NEET-PG (itch in axilla — T. rubrum)"
+    }
+  },
+  {
+    "id": "micr_q_118",
+    "questionNumber": 118,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A person with advanced HIV has progressive breathlessness with a normal-looking chest X-ray and marked desaturation on exertion. Silver stain of induced sputum shows crescent-shaped cysts. Treatment is",
+    "options": [
+      "Cotrimoxazole, with steroids if hypoxia is severe",
+      "Amphotericin B",
+      "Fluconazole",
+      "Itraconazole"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "*Pneumocystis jirovecii* cannot be cultured and is shown by GMS, toluidine blue or immunofluorescence. Prophylaxis is given when the CD4 count falls below 200. Infection does not confer lasting immunity.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (GMS crescent-shaped cysts — Pneumocystis), 2018 AIIMS (no lifelong immunity — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 NEET-PG (GMS crescent-shaped cysts — Pneumocystis), 2018 AIIMS (no lifelong immunity — T/F)"
+    }
+  },
+  {
+    "id": "micr_q_119",
+    "questionNumber": 119,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Match each antifungal with its mechanism.\n\n| Antifungal | Mechanism |\n|---|---|\n| 1. Amphotericin B | a. Inhibits 1,3-β-D-glucan synthase |\n| 2. Fluconazole | b. Converted to 5-fluorouracil, blocking nucleic acid synthesis |\n| 3. Caspofungin | c. Binds ergosterol and forms membrane pores |\n| 4. Flucytosine | d. Inhibits lanosterol 14-α-demethylase, blocking ergosterol synthesis |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Flucytosine does not act on microtubules; griseofulvin does. Terbinafine inhibits squalene epoxidase. Echinocandins have no activity against *Cryptococcus*, which has little glucan in its wall.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (flucytosine — microtubules, false), 2022 NEET-PG / 2017 AIIMS (amphotericin — pores), 2024 INI-CET (fungal wall components)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mycology",
+      "basedOn": "2023 INI-CET (flucytosine — microtubules, false), 2022 NEET-PG / 2017 AIIMS (amphotericin — pores), 2024 INI-CET (fungal wall components)"
+    }
+  },
+  {
+    "id": "micr_q_120",
+    "questionNumber": 120,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Voriconazole is given with a loading dose because",
+    "options": [
+      "It is poorly absorbed",
+      "A loading dose reaches steady-state concentrations quickly, which matters in invasive aspergillosis",
+      "It is renally cleared",
+      "It has a very short half-life"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Voriconazole shows non-linear kinetics and wide variability, so therapeutic drug monitoring is used. Visual disturbances and photosensitivity are characteristic side effects.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (voriconazole loading dose — T/F), 2022 NEET-PG (DOC invasive aspergillosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 INI-CET (voriconazole loading dose — T/F), 2022 NEET-PG (DOC invasive aspergillosis)"
+    }
+  },
+  {
+    "id": "micr_q_121",
+    "questionNumber": 121,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "Sabouraud dextrose agar is made selective for fungi mainly by",
+    "options": [
+      "A low pH (about 5.6) with added antibiotics such as chloramphenicol and cycloheximide",
+      "A high salt concentration",
+      "Added bile salts",
+      "Incubation at 42 °C"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cycloheximide suppresses saprophytic moulds but also inhibits *Cryptococcus* and some *Aspergillus*, so plates without it are set up in parallel. *Histoplasma* does grow on SDA, as the mould form at 25 °C.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Histoplasma does not grow on SDA — false, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2023 INI-CET (Histoplasma does not grow on SDA — false, 2X)"
+    }
+  },
+  {
+    "id": "micr_q_122",
+    "questionNumber": 122,
+    "subject": "Microbiology",
+    "subTopic": "Mycology",
+    "sub_topic": "Mycology",
+    "stem": "A potassium hydroxide (KOH) mount is used for skin, hair and nail samples because KOH",
+    "options": [
+      "Stains the fungus blue",
+      "Kills bacteria",
+      "Digests keratin and clears the background so hyphae become visible",
+      "Fixes the specimen permanently"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A 10–20% solution is used for skin and 40% for nails. Adding calcofluor white and viewing with fluorescence greatly increases sensitivity, and lactophenol cotton blue is used for culture mounts.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (saline versus iodine wet mount), 2024 INI-CET (laboratory methods)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mycology",
+      "basedOn": "2022 INI-CET (saline versus iodine wet mount), 2024 INI-CET (laboratory methods)"
+    }
+  },
+  {
+    "id": "micr_q_123",
+    "questionNumber": 123,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Late trophozoites and schizonts of Plasmodium falciparum are rarely seen in a peripheral smear because",
+    "options": [
+      "They are destroyed by the spleen",
+      "Infected red cells express knob proteins (PfEMP-1) and sequester in capillaries",
+      "They are too small to see",
+      "They develop in the liver"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cytoadherence to endothelium underlies cerebral malaria. The smear usually shows only ring forms and banana-shaped gametocytes. High parasitaemia with multiply-infected cells is another feature.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (assertion — sequestration, 2X), 2022 NEET-PG (crescent gametocytes), 2020 NEET-PG (ring forms)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (assertion — sequestration, 2X), 2022 NEET-PG (crescent gametocytes), 2020 NEET-PG (ring forms)"
+    }
+  },
+  {
+    "id": "micr_q_124",
+    "questionNumber": 124,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "The best method to confirm the species of malaria parasite is",
+    "options": [
+      "A rapid antigen test for HRP-2",
+      "Thick smear alone",
+      "A Giemsa-stained thin smear",
+      "Serology"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The thick film concentrates parasites and is better for detecting low parasitaemia; the thin film preserves red cell morphology, which is what allows speciation and parasite counting. HRP-2 tests detect only *P. falciparum* and stay positive for weeks after cure.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (best test for speciation — Giemsa thin smear)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2022 INI-CET (best test for speciation — Giemsa thin smear)"
+    }
+  },
+  {
+    "id": "micr_q_125",
+    "questionNumber": 125,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Which feature distinguishes P. vivax from P. falciparum on a smear?",
+    "options": [
+      "Banana-shaped gametocytes",
+      "Enlarged infected red cells with Schüffner's dots and all stages present",
+      "Multiply-infected red cells",
+      "Absence of ring forms"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*P. vivax* invades reticulocytes through the Duffy antigen, so parasitaemia stays low. Its hypnozoites cause relapses, which need primaquine or tafenoquine for radical cure after testing for G6PD deficiency.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (ring forms, schizonts, spherical gametocytes — P. vivax), 2021 NEET-PG / 2018 AIIMS (Anopheles vector)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2015 AIIMS (ring forms, schizonts, spherical gametocytes — P. vivax), 2021 NEET-PG / 2018 AIIMS (Anopheles vector)"
+    }
+  },
+  {
+    "id": "micr_q_126",
+    "questionNumber": 126,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Transfusion-transmitted malaria has a shorter incubation period than mosquito-borne malaria because",
+    "options": [
+      "Donor blood contains sporozoites",
+      "The dose of parasites is higher",
+      "The transfused blood contains erythrocytic stages, so the liver phase is bypassed",
+      "Immunity is suppressed"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "For the same reason, transfusion-transmitted *P. vivax* does not relapse: no hypnozoites are formed, so primaquine is unnecessary.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (shorter incubation — trophozoites in blood)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2015 AIIMS (shorter incubation — trophozoites in blood)"
+    }
+  },
+  {
+    "id": "micr_q_127",
+    "questionNumber": 127,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A traveller returning from Africa has cerebral malaria with altered sensorium. The correct treatment is",
+    "options": [
+      "Oral chloroquine",
+      "Intravenous artesunate",
+      "Oral artemether–lumefantrine",
+      "Primaquine alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Intravenous artesunate reduces mortality compared with quinine in severe malaria. Oral ACT is used only for uncomplicated malaria. Primaquine is given as a single low dose as a gametocytocide, but it is not the treatment for the acute attack.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (falciparum with seizures — IV artesunate), 2021 INI-CET / 2014 AIIMS (artemether–lumefantrine), 2023 INI-CET (primaquine not for uncomplicated malaria)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2022 INI-CET (falciparum with seizures — IV artesunate), 2021 INI-CET / 2014 AIIMS (artemether–lumefantrine), 2023 INI-CET (primaquine not for uncomplicated malaria)"
+    }
+  },
+  {
+    "id": "micr_q_128",
+    "questionNumber": 128,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A young man has fever with hepatosplenomegaly and pancytopenia. Amastigotes are seen inside macrophages. The most sensitive non-invasive field test is",
+    "options": [
+      "rK39 immunochromatographic strip test",
+      "Peripheral smear",
+      "Montenegro skin test",
+      "Blood culture"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Visceral leishmaniasis (kala-azar) is confirmed by rK39 or by splenic or bone marrow aspirate, with splenic aspirate the most sensitive but riskiest. Buffy coat improves yield from blood. Liposomal amphotericin B is first-line in India.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (LD bodies — rK39, 5X), 2021 INI-CET (buffy coat), 2021 INI-CET (Leishmania in Kupffer cells)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (LD bodies — rK39, 5X), 2021 INI-CET (buffy coat), 2021 INI-CET (Leishmania in Kupffer cells)"
+    }
+  },
+  {
+    "id": "micr_q_129",
+    "questionNumber": 129,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "The vector of visceral leishmaniasis in India is",
+    "options": [
+      "Anopheles culicifacies",
+      "Tsetse fly",
+      "Culex quinquefasciatus",
+      "Phlebotomus argentipes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The female sandfly breeds in cracks in mud walls, which is why indoor residual spraying is the main control measure. Humans are the only reservoir in the Indian form, which is why elimination is feasible.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (kinetoplast organism — Leishmania), 2021 INI-CET (LD bodies in buffy coat)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2023 NEET-PG (kinetoplast organism — Leishmania), 2021 INI-CET (LD bodies in buffy coat)"
+    }
+  },
+  {
+    "id": "micr_q_130",
+    "questionNumber": 130,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A person with HIV and a CD4 count of 60 has profuse watery diarrhoea. Modified acid-fast stain of stool shows 4–6 µm round oocysts. The organism is",
+    "options": [
+      "Cryptosporidium parvum",
+      "Cystoisospora belli",
+      "Cyclospora cayetanensis",
+      "Giardia lamblia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Size separates the coccidia: *Cryptosporidium* 4–6 µm, *Cyclospora* 8–10 µm (autofluorescent), *Cystoisospora* 20–30 µm and ellipsoidal. Cotrimoxazole treats the latter two; nitazoxanide plus immune reconstitution is used for cryptosporidiosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (4–6 µm Kinyoun-positive — Cryptosporidium, 4X), 2016 AIIMS (10–30 µm — Cystoisospora), 2017 AIIMS (DOC for Isospora)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (4–6 µm Kinyoun-positive — Cryptosporidium, 4X), 2016 AIIMS (10–30 µm — Cystoisospora), 2017 AIIMS (DOC for Isospora)"
+    }
+  },
+  {
+    "id": "micr_q_131",
+    "questionNumber": 131,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A man has right upper quadrant pain and a single large liver abscess containing \"anchovy sauce\" material. The most useful test is",
+    "options": [
+      "Stool microscopy for trophozoites",
+      "Serology for Entamoeba histolytica antibodies",
+      "Blood culture",
+      "Aspirate culture"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Stool microscopy is often negative in amoebic liver abscess because the bowel infection may have cleared. Pus is sterile on bacterial culture and contains few amoebae, since they lie at the abscess wall. Treatment is metronidazole followed by a luminal amoebicide.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (dysentery with right lobe liver abscess), 2020 NEET-PG / 2017 AIIMS (E. histolytica life cycle, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2022 INI-CET (dysentery with right lobe liver abscess), 2020 NEET-PG / 2017 AIIMS (E. histolytica life cycle, 4X)"
+    }
+  },
+  {
+    "id": "micr_q_132",
+    "questionNumber": 132,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Amoebic dysentery is distinguished from bacillary dysentery on stool examination by",
+    "options": [
+      "Abundant neutrophils in amoebic dysentery",
+      "Few pus cells with charcot-leyden crystals and red cell-containing trophozoites in amoebic dysentery",
+      "Absence of blood in amoebic dysentery",
+      "Presence of macrophages only in amoebic dysentery"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Amoebic stools are copious and foul with few leucocytes. Bacillary dysentery gives small-volume stools packed with neutrophils. Erythrophagocytosis by trophozoites identifies *E. histolytica* rather than the harmless *E. dispar*.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (high frequency low volume diarrhoea with leucocytes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2016 AIIMS (high frequency low volume diarrhoea with leucocytes)"
+    }
+  },
+  {
+    "id": "micr_q_133",
+    "questionNumber": 133,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A teenager develops fulminant meningoencephalitis days after swimming in a warm freshwater pond. CSF wet mount shows motile amoebae with blunt pseudopods. The organism and its portal of entry are",
+    "options": [
+      "Naegleria fowleri — through the cribriform plate from the nasal mucosa",
+      "Acanthamoeba — haematogenous from skin",
+      "Entamoeba histolytica — from the colon",
+      "Balamuthia — from the lung"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Primary amoebic meningoencephalitis is rapidly fatal; amphotericin B with miltefosine is used. *Acanthamoeba* causes a slower granulomatous encephalitis and keratitis in contact lens users, and has cyst and trophozoite forms.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (swimming, eruptive pseudopods — Naegleria), 2023 NEET-PG (contact lens keratitis — Acanthamoeba), 2023 INI-CET (two morphological forms)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2022 INI-CET (swimming, eruptive pseudopods — Naegleria), 2023 NEET-PG (contact lens keratitis — Acanthamoeba), 2023 INI-CET (two morphological forms)"
+    }
+  },
+  {
+    "id": "micr_q_134",
+    "questionNumber": 134,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A woman has a frothy, foul-smelling greenish vaginal discharge with a strawberry cervix. Wet mount shows jerky motile organisms. Treatment should",
+    "options": [
+      "Be given to the patient only",
+      "Be topical clotrimazole",
+      "Include the sexual partner, with oral metronidazole for both",
+      "Be deferred until culture"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Trichomoniasis is sexually transmitted, so untreated partners cause reinfection. The organism exists only as a trophozoite with no cyst stage, and vaginal pH is above 4.5.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (strawberry cervix — metronidazole), 2022 NEET-PG (twitching motility), 2018 AIIMS (pear-shaped trophozoites)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2021 INI-CET (strawberry cervix — metronidazole), 2022 NEET-PG (twitching motility), 2018 AIIMS (pear-shaped trophozoites)"
+    }
+  },
+  {
+    "id": "micr_q_135",
+    "questionNumber": 135,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A child has foul-smelling, fatty diarrhoea with abdominal bloating after a camping trip. Stool examination is negative three times. The next best test is",
+    "options": [
+      "Repeat stool microscopy a fourth time",
+      "Colonoscopy",
+      "Serology",
+      "Stool antigen detection (ELISA) or duodenal aspirate"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Giardia* is shed intermittently, so microscopy may miss it; the string (Entero-test) or duodenal aspirate improves yield. It causes malabsorption by covering the mucosa, and is common in IgA deficiency. Treatment is metronidazole or tinidazole.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (two morphological forms — Giardia), 2018 AIIMS (histology in diarrhoea — giardiasis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2023 INI-CET (two morphological forms — Giardia), 2018 AIIMS (histology in diarrhoea — giardiasis)"
+    }
+  },
+  {
+    "id": "micr_q_136",
+    "questionNumber": 136,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A pregnant woman's serology shows Toxoplasma IgG positive and IgM positive. The test that best establishes whether the infection is recent is",
+    "options": [
+      "Repeat IgM",
+      "IgG avidity testing",
+      "Sabin–Feldman dye test",
+      "Skin test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "IgM can persist for a year or more, so it cannot date the infection. High avidity IgG indicates infection more than 3–4 months earlier, which effectively excludes recent infection in early pregnancy. Amniotic fluid PCR confirms fetal infection.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (Sabin–Feldman dye test), 2023 NEET-PG / 2018 AIIMS (congenital toxoplasmosis triad)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (Sabin–Feldman dye test), 2023 NEET-PG / 2018 AIIMS (congenital toxoplasmosis triad)"
+    }
+  },
+  {
+    "id": "micr_q_137",
+    "questionNumber": 137,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "The infective stage of Toxoplasma gondii acquired from cat faeces is the",
+    "options": [
+      "Tachyzoite",
+      "Bradyzoite in tissue cysts",
+      "Sporulated oocyst",
+      "Merozoite"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cats are the definitive host. Oocysts need 1–5 days in the environment to sporulate, so daily litter changing reduces risk. Eating undercooked meat transmits bradyzoites. Congenital infection gives chorioretinitis, hydrocephalus and diffuse intracranial calcification.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (infective form in cat faeces — oocyst), 2023 NEET-PG / 2018 AIIMS (congenital triad)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2021 INI-CET (infective form in cat faeces — oocyst), 2023 NEET-PG / 2018 AIIMS (congenital triad)"
+    }
+  },
+  {
+    "id": "micr_q_138",
+    "questionNumber": 138,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Which parasite can complete its entire life cycle within one human host, causing hyperinfection in immunosuppressed patients?",
+    "options": [
+      "Ascaris lumbricoides",
+      "Necator americanus",
+      "Trichuris trichiura",
+      "Strongyloides stercoralis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Rhabditiform larvae can become infective filariform larvae inside the bowel and reinvade (autoinfection). Steroids or HTLV-1 infection trigger hyperinfection with Gram-negative sepsis. The female reproduces by parthenogenesis, and ivermectin is the drug of choice.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (rhabditiform larva, parthenogenesis, 5X), 2023 INI-CET (autoinfection), 2022 INI-CET (self-fertilisation), 2022 NEET-PG (larvae in BAL)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (rhabditiform larva, parthenogenesis, 5X), 2023 INI-CET (autoinfection), 2022 INI-CET (self-fertilisation), 2022 NEET-PG (larvae in BAL)"
+    }
+  },
+  {
+    "id": "micr_q_139",
+    "questionNumber": 139,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Which parasite is NOT a recognised cause of autoinfection?",
+    "options": [
+      "Enterobius vermicularis",
+      "Hymenolepis nana",
+      "Taenia solium",
+      "Ascaris lumbricoides"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Ascaris* eggs must embryonate in soil for 2–3 weeks before they are infective, so direct reinfection is impossible. *Enterobius* causes retroinfection, *H. nana* autoinfects in the gut, and *T. solium* eggs can cause internal autoinfection leading to cysticercosis.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (autoinfection — not ascaris), 2024 INI-CET (most ascariasis asymptomatic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2015 AIIMS (autoinfection — not ascaris), 2024 INI-CET (most ascariasis asymptomatic)"
+    }
+  },
+  {
+    "id": "micr_q_140",
+    "questionNumber": 140,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Match each helminth with its characteristic egg.\n\n| Helminth | Egg |\n|---|---|\n| 1. Trichuris trichiura | a. Plano-convex, flattened on one side |\n| 2. Enterobius vermicularis | b. Barrel-shaped with mucoid plugs at both poles |\n| 3. Ascaris lumbricoides | c. Hexacanth embryo with polar filaments |\n| 4. Hymenolepis nana | d. Round with a thick albuminous mamillated coat |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-a, 2-b, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-b, 2-a, 3-c, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hookworm eggs are oval, non-bile-stained, with a thin hyaline shell and a segmented ovum of four blastomeres. Pinworm eggs are collected on a cellophane tape swab in the morning.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — H. nana, Ascaris, hookworm, Taenia), 2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (barrel-shaped egg — Trichuris, 5X), 2023 INI-CET / 2018 NEET-PG (plano-convex egg — Enterobius), 2015 AIIMS (hookworm egg)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2024 INI-CET (match — H. nana, Ascaris, hookworm, Taenia), 2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (barrel-shaped egg — Trichuris, 5X), 2023 INI-CET / 2018 NEET-PG (plano-convex egg — Enterobius), 2015 AIIMS (hookworm egg)"
+    }
+  },
+  {
+    "id": "micr_q_141",
+    "questionNumber": 141,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Heavy whipworm infection in a child classically presents with",
+    "options": [
+      "Rectal prolapse with chronic bloody mucoid diarrhoea",
+      "Intestinal obstruction",
+      "Perianal itching alone",
+      "Megaloblastic anaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "*Trichuris trichiura* threads its thin anterior end into the colonic mucosa. Infection is acquired by ingesting embryonated eggs from contaminated food or water, with no larval migration through the lungs.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (rectal prolapse, barrel egg — route of infection, 5X)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (rectal prolapse, barrel egg — route of infection, 5X)"
+    }
+  },
+  {
+    "id": "micr_q_142",
+    "questionNumber": 142,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Pulmonary symptoms with transient infiltrates and eosinophilia (Löffler syndrome) occur in infections where larvae migrate through the lungs. Which worm does NOT do this?",
+    "options": [
+      "Ascaris lumbricoides",
+      "Ancylostoma duodenale",
+      "Strongyloides stercoralis",
+      "Enterobius vermicularis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pinworm larvae stay in the gut. The others follow a heart–lung migration, so pneumonitis is the commonest presentation during larval migration. Hookworm causes iron deficiency anaemia, and the Chandler index measures community hookworm load.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (larval migration — pneumonitis), 2016 AIIMS (Chandler index — hookworm), 2016 AIIMS (soil-transmitted helminths)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2015 AIIMS (larval migration — pneumonitis), 2016 AIIMS (Chandler index — hookworm), 2016 AIIMS (soil-transmitted helminths)"
+    }
+  },
+  {
+    "id": "micr_q_143",
+    "questionNumber": 143,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A man has a single large cyst in the right lobe of the liver. Aspirate shows brood capsules and protoscolices. The definitive host of this parasite is",
+    "options": [
+      "Humans",
+      "Sheep",
+      "The dog",
+      "The pig"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Echinococcus granulosus* lives in the dog's small intestine; humans and sheep are intermediate hosts. Treatment is albendazole with PAIR or surgery, taking care to avoid spillage, which can cause anaphylaxis and secondary cysts.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (brood capsules and protoscolices — Echinococcus), 2017 AIIMS (adult worm in dog)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2024 INI-CET (brood capsules and protoscolices — Echinococcus), 2017 AIIMS (adult worm in dog)"
+    }
+  },
+  {
+    "id": "micr_q_144",
+    "questionNumber": 144,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A man who eats undercooked pork develops seizures. CT shows multiple small cystic lesions with scolices. The parasite stage responsible is",
+    "options": [
+      "The adult tapeworm from eating cysticerci",
+      "The larval cysticercus, from ingesting Taenia solium eggs",
+      "The hydatid cyst",
+      "The sparganum"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Eating undercooked pork gives intestinal taeniasis; swallowing eggs (faeco-oral, including autoinfection) gives neurocysticercosis. Treatment uses albendazole with corticosteroids started first to limit inflammation, plus antiepileptics.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (neurocysticercosis — steroids then antiparasitic), 2015 AIIMS (autoinfection — T. solium)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2022 INI-CET (neurocysticercosis — steroids then antiparasitic), 2015 AIIMS (autoinfection — T. solium)"
+    }
+  },
+  {
+    "id": "micr_q_145",
+    "questionNumber": 145,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Which tapeworm competes for vitamin B₁₂ and can cause megaloblastic anaemia?",
+    "options": [
+      "Taenia saginata",
+      "Diphyllobothrium latum",
+      "Hymenolepis nana",
+      "Echinococcus granulosus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The fish tapeworm is acquired from raw or undercooked freshwater fish and is the longest human tapeworm. Praziquantel is the drug of choice, with B₁₂ replacement where needed.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (pernicious anaemia — D. latum), 2016 AIIMS (praziquantel for H. nana)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2015 AIIMS (pernicious anaemia — D. latum), 2016 AIIMS (praziquantel for H. nana)"
+    }
+  },
+  {
+    "id": "micr_q_146",
+    "questionNumber": 146,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Infection with Fasciola hepatica is acquired by",
+    "options": [
+      "Eating undercooked fish",
+      "Eating raw freshwater crabs",
+      "Eating aquatic plants such as watercress or water chestnut carrying metacercariae",
+      "Skin penetration by cercariae"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Snails are the first intermediate host. The flukes migrate to the bile ducts, causing right upper quadrant pain and eosinophilia. Triclabendazole is the drug of choice, unlike most other trematodes which respond to praziquantel.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (water calotrops — Fasciola), 2020 INI-CET / 2014 AIIMS (life cycle — metacercariae on plants), 2022 INI-CET / 2023 INI-CET (DOC triclabendazole)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2024 INI-CET (water calotrops — Fasciola), 2020 INI-CET / 2014 AIIMS (life cycle — metacercariae on plants), 2022 INI-CET / 2023 INI-CET (DOC triclabendazole)"
+    }
+  },
+  {
+    "id": "micr_q_147",
+    "questionNumber": 147,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Match each trematode with how it is acquired and the organ it affects.\n\n| Fluke | Acquisition and site |\n|---|---|\n| 1. Clonorchis sinensis | a. Skin penetration by cercariae; bladder (haematuria) |\n| 2. Paragonimus westermani | b. Raw freshwater fish; bile ducts, raises cholangiocarcinoma risk |\n| 3. Schistosoma haematobium | c. Skin penetration; mesenteric veins and liver |\n| 4. Schistosoma mansoni | d. Raw freshwater crab or crayfish; lung, mimics tuberculosis |",
+    "options": [
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "*Clonorchis* and *Opisthorchis* are proven causes of cholangiocarcinoma. *Paragonimus* produces rusty-brown sputum and is often misdiagnosed as tuberculosis. *S. haematobium* is linked to squamous carcinoma of the bladder.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Clonorchis — cholangiocarcinoma), 2020 NEET-PG / 2017 AIIMS (crab, rusty sputum — Paragonimus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2023 NEET-PG (Clonorchis — cholangiocarcinoma), 2020 NEET-PG / 2017 AIIMS (crab, rusty sputum — Paragonimus)"
+    }
+  },
+  {
+    "id": "micr_q_148",
+    "questionNumber": 148,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "Sheathed microfilariae with nuclei extending right up to the tip of the tail indicate",
+    "options": [
+      "Wuchereria bancrofti",
+      "Brugia malayi",
+      "Loa loa",
+      "Onchocerca volvulus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*B. malayi* has two separate terminal nuclei at the tail tip, whereas *W. bancrofti* has a tail free of nuclei. Both are sheathed and show nocturnal periodicity, so blood is collected at night. *Onchocerca* microfilariae are unsheathed and found in skin snips.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2014 AIIMS (two nuclei at tail tip — B. malayi, 4X), 2017 AIIMS (filarial species)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Parasitology",
+      "basedOn": "2019 NEET-PG / 2014 AIIMS (two nuclei at tail tip — B. malayi, 4X), 2017 AIIMS (filarial species)"
+    }
+  },
+  {
+    "id": "micr_q_149",
+    "questionNumber": 149,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "In onchocerciasis, the rationale for giving doxycycline along with ivermectin is that doxycycline",
+    "options": [
+      "Kills microfilariae directly",
+      "Kills Wolbachia endosymbionts, which sterilises and eventually kills the adult worms",
+      "Prevents secondary bacterial infection",
+      "Reduces ivermectin toxicity"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ivermectin kills microfilariae but not adults. Releasing *Wolbachia* from dying worms also drives the inflammatory Mazzotti reaction. Ivermectin is avoided where *Loa loa* is heavily present, because of encephalopathy.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (adult worms responsible in filarial disease), 2017 AIIMS (filarial species)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2018 AIIMS (adult worms responsible in filarial disease), 2017 AIIMS (filarial species)"
+    }
+  },
+  {
+    "id": "micr_q_150",
+    "questionNumber": 150,
+    "subject": "Microbiology",
+    "subTopic": "Parasitology",
+    "sub_topic": "Parasitology",
+    "stem": "A patient with filariasis develops acute lymphangitis that spreads from the groin down the limb. This \"retrograde\" spread is characteristic because",
+    "options": [
+      "The adult worms live in the lymphatics and lymph nodes, and inflammation travels away from them",
+      "Microfilariae block capillaries",
+      "Bacteria ascend from the skin",
+      "Venous thrombosis occurs first"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Bacterial lymphangitis spreads upwards (ascending) towards the nodes, whereas filarial lymphangitis spreads downwards. Repeated attacks with secondary bacterial infection lead to elephantiasis, which is managed by limb hygiene rather than antifilarials.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (adult worms responsible in filarial disease), 2017 AIIMS (filariasis species)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Parasitology",
+      "basedOn": "2018 AIIMS (adult worms responsible in filarial disease), 2017 AIIMS (filariasis species)"
+    }
+  }
+]

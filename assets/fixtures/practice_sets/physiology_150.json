@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "phys_q_1",
+    "questionNumber": 1,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "The surface tension of the alveolar lining fluid is LOWEST at",
+    "options": [
+      "The end of a normal inspiration",
+      "Total lung capacity",
+      "The end of expiration",
+      "The middle of inspiration"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "As the alveolus shrinks, surfactant molecules are packed more densely and surface tension falls sharply. This keeps small alveoli from collapsing. *Note: the 2024 INI-CET key says surface tension \"increases during expiration\"; standard texts (Guyton, Ganong) show it falls as alveolar area falls.*",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (surface tension during expiration), 2018 NEET-PG (RDS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2024 INI-CET (surface tension during expiration), 2018 NEET-PG (RDS)"
+    }
+  },
+  {
+    "id": "phys_q_2",
+    "questionNumber": 2,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "On the pressure–volume curve of an isolated lung, at the same transpulmonary pressure the lung volume is",
+    "options": [
+      "Greater during inflation than during deflation",
+      "Greater during deflation than during inflation",
+      "The same during inflation and deflation",
+      "Greater during inflation only if the lung is saline-filled"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is hysteresis. Surfactant is spread more effectively during deflation, so less pressure holds a given volume. A saline-filled lung has no air–liquid interface and shows almost no hysteresis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (hysteresis — surfactant, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2016 AIIMS (hysteresis — surfactant, 3X)"
+    }
+  },
+  {
+    "id": "phys_q_3",
+    "questionNumber": 3,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Two alveoli connected to the same airway have equal surface tension, but one has half the radius of the other. If there is no surfactant, air will",
+    "options": [
+      "Flow from the larger alveolus into the smaller one",
+      "Not move, because the surface tensions are equal",
+      "Flow from the smaller alveolus into the larger one",
+      "Flow out of both alveoli equally"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Laplace's law: P = 2T/r. The smaller radius gives a higher collapsing pressure, so the small alveolus empties into the large one. Surfactant prevents this by lowering T more in small alveoli.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Laplace law), 2018 NEET-PG (surface tension in RDS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2023 NEET-PG (Laplace law), 2018 NEET-PG (surface tension in RDS)"
+    }
+  },
+  {
+    "id": "phys_q_4",
+    "questionNumber": 4,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "At functional residual capacity with the glottis open and no muscle activity, which statement is correct?",
+    "options": [
+      "The inward elastic recoil of the lung equals the outward recoil of the chest wall",
+      "Intrapleural pressure is zero",
+      "Alveolar pressure is about −1 cm H₂O",
+      "The expiratory muscles are actively contracting"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "FRC is the relaxation volume of the respiratory system. Alveolar pressure is zero (atmospheric), and intrapleural pressure is about −5 cm H₂O, reflecting the two opposing recoils.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (chest wall and lung recoil balanced at FRC), 2019 NEET-PG / 2017 AIIMS (FRC — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2015 AIIMS (chest wall and lung recoil balanced at FRC), 2019 NEET-PG / 2017 AIIMS (FRC — 3X)"
+    }
+  },
+  {
+    "id": "phys_q_5",
+    "questionNumber": 5,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "In a patient with severe emphysema and a lot of trapped gas, which method will record the HIGHEST (truest) value of FRC?",
+    "options": [
+      "Helium dilution",
+      "Nitrogen washout",
+      "Simple spirometry",
+      "Body plethysmography"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Plethysmography measures all gas in the thorax, including gas trapped behind closed airways. Gas-dilution methods measure only communicating gas, so they underestimate. Spirometry cannot measure FRC at all, because FRC includes the residual volume.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (FRC measurement), 2021 INI-CET (FRC raised in COPD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Respiratory System",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (FRC measurement), 2021 INI-CET (FRC raised in COPD)"
+    }
+  },
+  {
+    "id": "phys_q_6",
+    "questionNumber": 6,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A spirometer contains 5 L of gas with 10% helium. A subject starts breathing from it at the end of a normal expiration. After equilibration, the helium concentration is 8%. The FRC is",
+    "options": [
+      "1.0 L",
+      "1.25 L",
+      "2.5 L",
+      "0.8 L"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Helium is conserved: C₁V₁ = C₂(V₁ + FRC). 0.10 × 5 = 0.08 × (5 + FRC), so 0.5 = 0.4 + 0.08 FRC, and FRC = 1.25 L.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (FRC measured after normal expiration), 2015 AIIMS calculation trend",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Respiratory System",
+      "basedOn": "2019 NEET-PG (FRC measured after normal expiration), 2015 AIIMS calculation trend"
+    }
+  },
+  {
+    "id": "phys_q_7",
+    "questionNumber": 7,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A patient has FEV₁ 2.0 L, FVC 2.4 L and a reduced total lung capacity. The pattern is",
+    "options": [
+      "Obstructive",
+      "Normal",
+      "Restrictive",
+      "Mixed, mainly obstructive"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "FEV₁/FVC is 83% (normal or high) while volumes are small. In obstruction the ratio falls below 0.7, as in bronchiectasis and COPD.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (FEV₁ 1.3 / FVC 3.9), 2024 INI-CET (FEV₁/FVC",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (FEV₁ 1.3 / FVC 3.9), 2024 INI-CET (FEV₁/FVC"
+    }
+  },
+  {
+    "id": "phys_q_8",
+    "questionNumber": 8,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "In emphysema, which of the following is DECREASED?",
+    "options": [
+      "Total lung capacity",
+      "Residual volume",
+      "Functional residual capacity",
+      "Diffusing capacity for CO (DLCO)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Destroyed alveolar walls reduce the surface for diffusion and the capillary bed. Loss of elastic recoil raises TLC, RV and FRC (hyperinflation).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (parameter increased in COPD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2021 INI-CET (parameter increased in COPD)"
+    }
+  },
+  {
+    "id": "phys_q_9",
+    "questionNumber": 9,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "DLCO is characteristically INCREASED in",
+    "options": [
+      "Pulmonary fibrosis",
+      "Anaemia",
+      "Diffuse alveolar haemorrhage",
+      "Pulmonary embolism"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Extra haemoglobin inside the alveoli soaks up the CO used in the test, so DLCO rises. Polycythaemia, left-to-right shunts and asthma can also raise it. Fibrosis, anaemia and embolism lower it.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (DLCO increased in polycythaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2014 AIIMS (DLCO increased in polycythaemia)"
+    }
+  },
+  {
+    "id": "phys_q_10",
+    "questionNumber": 10,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Tidal volume is 500 mL, arterial PCO₂ is 40 mmHg and mixed expired PCO₂ is 28 mmHg. The physiological dead space is",
+    "options": [
+      "120 mL",
+      "200 mL",
+      "300 mL",
+      "150 mL"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Bohr–Enghoff equation: V_D/V_T = (PaCO₂ − PECO₂)/PaCO₂ = (40 − 28)/40 = 0.3, so V_D = 0.3 × 500 = 150 mL. This matches the normal V_D/V_T of about 30%.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (normal V_D/V_T 30%), 2023 INI-CET (physiological dead space)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Respiratory System",
+      "basedOn": "2016 AIIMS (normal V_D/V_T 30%), 2023 INI-CET (physiological dead space)"
+    }
+  },
+  {
+    "id": "phys_q_11",
+    "questionNumber": 11,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Physiological dead space becomes much LARGER than anatomical dead space in",
+    "options": [
+      "Pulmonary embolism",
+      "Sleep",
+      "The supine position",
+      "Moderate exercise"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ventilated alveoli with no perfusion (V/Q → ∞) add alveolar dead space. Anatomical dead space is measured by Fowler's single-breath N₂ method; physiological dead space by the Bohr equation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (physiological dead space — poorly perfused alveoli), 2023 NEET-PG (V/Q infinity), 2020 INI-CET (Fowler's method)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2023 INI-CET (physiological dead space — poorly perfused alveoli), 2023 NEET-PG (V/Q infinity), 2020 INI-CET (Fowler's method)"
+    }
+  },
+  {
+    "id": "phys_q_12",
+    "questionNumber": 12,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Compared with the base of an upright lung, which value is HIGHER at the apex?",
+    "options": [
+      "Blood flow per unit volume",
+      "Ventilation per unit volume",
+      "Ventilation–perfusion ratio",
+      "Alveolar PCO₂"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Both ventilation and perfusion are lower at the apex, but perfusion falls far more. V/Q is therefore about 3 at the apex, giving a higher PAO₂ and lower PACO₂. This is why reactivated TB favours the apex.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2017 AIIMS (V/Q approaching infinity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2023 NEET-PG / 2017 AIIMS (V/Q approaching infinity)"
+    }
+  },
+  {
+    "id": "phys_q_13",
+    "questionNumber": 13,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A drowsy patient breathing room air has PaO₂ 55 mmHg, PaCO₂ 70 mmHg and an A–a O₂ gradient of 10 mmHg. The most likely cause is",
+    "options": [
+      "Pulmonary embolism",
+      "Lobar pneumonia",
+      "ARDS",
+      "Opioid overdose"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hypoxaemia with a normal A–a gradient means the lungs themselves are normal. The cause is either hypoventilation (here, with high CO₂) or a low inspired PO₂. V/Q mismatch, shunt and diffusion defects all widen the gradient.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (hypoxia with normal A–a gradient — hypoventilation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2021 INI-CET (hypoxia with normal A–a gradient — hypoventilation)"
+    }
+  },
+  {
+    "id": "phys_q_14",
+    "questionNumber": 14,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A patient at sea level breathing room air has PaCO₂ 80 mmHg (R = 0.8, PH₂O = 47 mmHg). The expected alveolar PO₂ is about",
+    "options": [
+      "100 mmHg",
+      "50 mmHg",
+      "70 mmHg",
+      "30 mmHg"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Alveolar gas equation: PAO₂ = FiO₂(PB − PH₂O) − PaCO₂/R = 0.21 × 713 − 80/0.8 ≈ 150 − 100 = 50 mmHg.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (hypoventilation), 2015 AIIMS (PiO₂ calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Respiratory System",
+      "basedOn": "2021 INI-CET (hypoventilation), 2015 AIIMS (PiO₂ calculation)"
+    }
+  },
+  {
+    "id": "phys_q_15",
+    "questionNumber": 15,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "At an altitude where barometric pressure is 380 mmHg, the PO₂ of humidified inspired air in the trachea is about",
+    "options": [
+      "80 mmHg",
+      "47 mmHg",
+      "70 mmHg",
+      "60 mmHg"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "PIO₂ = 0.21 × (380 − 47) = 0.21 × 333 ≈ 70 mmHg. Water vapour pressure stays at 47 mmHg at body temperature whatever the altitude.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (PiO₂ at altitude)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2015 AIIMS (PiO₂ at altitude)"
+    }
+  },
+  {
+    "id": "phys_q_16",
+    "questionNumber": 16,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "All of the following are part of acclimatisation to high altitude EXCEPT",
+    "options": [
+      "Increased red cell 2,3-BPG",
+      "Increased renal excretion of bicarbonate",
+      "Decreased erythropoietin secretion",
+      "Hypoxic pulmonary vasoconstriction"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hypoxia stabilises HIF and raises EPO, leading to polycythaemia. Hyperventilation causes respiratory alkalosis, which the kidney compensates by losing bicarbonate. Diffuse pulmonary vasoconstriction can cause high-altitude pulmonary oedema.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (high-altitude adaptations — 3X), 2016 AIIMS (mountain climbers)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (high-altitude adaptations — 3X), 2016 AIIMS (mountain climbers)"
+    }
+  },
+  {
+    "id": "phys_q_17",
+    "questionNumber": 17,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Arrange the events in a carotid body glomus cell in response to hypoxia.\n1. Opening of voltage-gated Ca²⁺ channels\n2. Inhibition of O₂-sensitive K⁺ channels\n3. Release of neurotransmitter onto afferent endings\n4. Depolarisation of the glomus cell",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "1 → 4 → 2 → 3"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hypoxia closes K⁺ channels and depolarises the cell. Ca²⁺ entry triggers release of transmitter (ATP, dopamine), which fires the carotid sinus nerve (IX) to the NTS. Peripheral chemoreceptors are most sensitive to hypoxia.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2017 AIIMS (chemoreceptors respond to hypoxia via K⁺ channels), 2023 INI-CET",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2022 NEET-PG / 2017 AIIMS (chemoreceptors respond to hypoxia via K⁺ channels), 2023 INI-CET"
+    }
+  },
+  {
+    "id": "phys_q_18",
+    "questionNumber": 18,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Central chemoreceptors on the ventral surface of the medulla are stimulated MAINLY by",
+    "options": [
+      "Low arterial PO₂",
+      "H⁺ ions crossing directly from arterial blood",
+      "Arterial K⁺",
+      "H⁺ ions formed in brain ECF from CO₂ that crosses the blood–brain barrier"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "CO₂ diffuses freely into the CSF and is hydrated to H⁺ and HCO₃⁻. H⁺ itself crosses poorly, and CSF has little buffering, so CO₂ is the strongest moment-to-moment drive to breathing. Hypoxia acts only on peripheral receptors.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (peripheral chemoreceptor most sensitive to hypoxia), 2024 INI-CET (pH change and PCO₂)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2023 INI-CET (peripheral chemoreceptor most sensitive to hypoxia), 2024 INI-CET (pH change and PCO₂)"
+    }
+  },
+  {
+    "id": "phys_q_19",
+    "questionNumber": 19,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Match each respiratory centre with its function.\n\n| Centre | Function |\n|---|---|\n| 1. Pre-Bötzinger complex | a. Cuts off inspiration (limits tidal volume) |\n| 2. Dorsal respiratory group | b. Generates the basic respiratory rhythm |\n| 3. Pneumotaxic centre | c. Prolongs inspiration (apneusis) |\n| 4. Apneustic centre | d. Inspiratory neurons that integrate vagal and IX afferents |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The ventral respiratory group is quiet in normal breathing and fires during forced expiration. The DRG lies in the nucleus tractus solitarius.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (rhythm generation — pre-Bötzinger), 2018 AIIMS (VRG in forced expiration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (rhythm generation — pre-Bötzinger), 2018 AIIMS (VRG in forced expiration)"
+    }
+  },
+  {
+    "id": "phys_q_20",
+    "questionNumber": 20,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Which of the following shifts the oxyhaemoglobin dissociation curve to the LEFT?",
+    "options": [
+      "Exercising muscle",
+      "Fever",
+      "Hypercapnia",
+      "Carbon monoxide"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "CO raises the O₂ affinity of the remaining haem sites, which hinders unloading. Other left shifters: HbF, low 2,3-BPG, alkalosis, hypothermia. \"CADET, face Right\" lists the right shifters: CO₂, Acid, 2,3-DPG, Exercise, Temperature.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (right shift — not HbF), 2018 AIIMS (H⁺ lowers affinity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2021 INI-CET (right shift — not HbF), 2018 AIIMS (H⁺ lowers affinity)"
+    }
+  },
+  {
+    "id": "phys_q_21",
+    "questionNumber": 21,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Blood stored for three weeks in a blood bank has",
+    "options": [
+      "Raised 2,3-BPG and a raised P₅₀",
+      "Low 2,3-BPG and a decreased P₅₀",
+      "Low 2,3-BPG and a raised P₅₀",
+      "Normal 2,3-BPG and a normal P₅₀"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Red cell glycolysis slows in storage, so 2,3-BPG is depleted. The curve shifts left, so transfused cells unload O₂ poorly for the first hours. 2,3-BPG normally binds the β-chains of deoxy-Hb.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (stored blood — left shift), 2023 INI-CET (2,3-BPG binds β globin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2020 INI-CET (stored blood — left shift), 2023 INI-CET (2,3-BPG binds β globin)"
+    }
+  },
+  {
+    "id": "phys_q_22",
+    "questionNumber": 22,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "In carbon monoxide poisoning, which value remains NORMAL?",
+    "options": [
+      "Arterial PO₂",
+      "Arterial O₂ content",
+      "True O₂ saturation of haemoglobin",
+      "P₅₀"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dissolved O₂ is unaffected, so carotid bodies are not stimulated and there is no hyperventilation. Content and true saturation fall, and P₅₀ falls (left shift). This is anaemic hypoxia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (CO — anaemic hypoxia), 2020 INI-CET / 2014 AIIMS (smoke-filled room)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2022 INI-CET (CO — anaemic hypoxia), 2020 INI-CET / 2014 AIIMS (smoke-filled room)"
+    }
+  },
+  {
+    "id": "phys_q_23",
+    "questionNumber": 23,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A patient has Hb 10 g/dL, SaO₂ 98% and PaO₂ 100 mmHg. The arterial O₂ content is about",
+    "options": [
+      "18.4 mL/dL",
+      "10.3 mL/dL",
+      "16.8 mL/dL",
+      "13.4 mL/dL"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Content = (1.34 × Hb × SaO₂) + (0.003 × PaO₂) = (1.34 × 10 × 0.98) + 0.3 = 13.1 + 0.3 ≈ 13.4 mL/dL.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (O₂ carrying capacity with Hb 14)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2015 AIIMS (O₂ carrying capacity with Hb 14)"
+    }
+  },
+  {
+    "id": "phys_q_24",
+    "questionNumber": 24,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "The Haldane effect describes the fact that",
+    "options": [
+      "Acidity lowers the O₂ affinity of haemoglobin",
+      "Deoxygenated blood can carry more CO₂ than oxygenated blood",
+      "Bicarbonate leaves red cells in exchange for chloride",
+      "CO binds haemoglobin with 240 times the affinity of O₂"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Deoxy-Hb buffers H⁺ better and forms more carbamino compounds, so CO₂ is loaded in the tissues and released in the lungs. Option A is the Bohr effect; option C is the chloride (Hamburger) shift.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (H⁺ and Hb affinity — Bohr), 2023 INI-CET (2,3-BPG binding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2018 AIIMS (H⁺ and Hb affinity — Bohr), 2023 INI-CET (2,3-BPG binding)"
+    }
+  },
+  {
+    "id": "phys_q_25",
+    "questionNumber": 25,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "The O₂ dissociation curve of myoglobin is hyperbolic rather than sigmoid because myoglobin",
+    "options": [
+      "Binds 2,3-BPG strongly",
+      "Has a P₅₀ higher than haemoglobin",
+      "Has a single haem with no cooperative binding",
+      "Contains ferric iron"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Myoglobin's P₅₀ is about 1–2 mmHg (very high affinity), so it releases O₂ only when tissue PO₂ is very low, for example in contracting muscle.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hyperbolic OHDC — myoglobin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2024 INI-CET (hyperbolic OHDC — myoglobin)"
+    }
+  },
+  {
+    "id": "phys_q_26",
+    "questionNumber": 26,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "Arrange the events of the cough reflex in sequence.\n1. Sudden opening of the glottis\n2. Deep inspiration of about 2.5 L\n3. Forceful contraction of the expiratory muscles\n4. Closure of the epiglottis and vocal cords",
+    "options": [
+      "2 → 3 → 4 → 1",
+      "4 → 2 → 3 → 1",
+      "2 → 4 → 1 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pressure rises above about 100 mmHg against the closed glottis, which then opens suddenly so air rushes out. The afferents are vagal; the internal laryngeal nerve supplies the supraglottic larynx.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mechanism of coughing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory System",
+      "basedOn": "2022 INI-CET (mechanism of coughing)"
+    }
+  },
+  {
+    "id": "phys_q_27",
+    "questionNumber": 27,
+    "subject": "Physiology",
+    "subTopic": "Respiratory System",
+    "sub_topic": "Respiratory System",
+    "stem": "A child with cystic fibrosis has a sweat chloride of 90 mmol/L. The high sweat chloride is due to",
+    "options": [
+      "Excessive Cl⁻ secretion by the secretory coil",
+      "Overactive ENaC in the sweat duct",
+      "Failure of CFTR-mediated Cl⁻ reabsorption in the sweat duct",
+      "Aldosterone deficiency"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In the sweat duct CFTR absorbs Cl⁻, so its loss leaves salty sweat. In the airways the opposite occurs: Cl⁻ secretion fails and Na⁺ absorption increases, giving thick, dehydrated mucus.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cystic fibrosis — chloride channel defect)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Respiratory System",
+      "basedOn": "2022 INI-CET (cystic fibrosis — chloride channel defect)"
+    }
+  },
+  {
+    "id": "phys_q_28",
+    "questionNumber": 28,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Match each phase of the ventricular muscle action potential with the main current.\n\n| Phase | Current |\n|---|---|\n| 1. Phase 0 | a. Inward rectifier K⁺ current (I_K1) |\n| 2. Phase 1 | b. L-type Ca²⁺ influx balanced by K⁺ efflux |\n| 3. Phase 2 | c. Fast Na⁺ influx |\n| 4. Phase 4 | d. Transient outward K⁺ current (I_to) |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Phase 3 repolarisation is due to delayed rectifier K⁺ currents (I_Kr, I_Ks). The long plateau underlies the long refractory period.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (ventricular AP sequence — 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG (ventricular AP sequence — 4X)"
+    }
+  },
+  {
+    "id": "phys_q_29",
+    "questionNumber": 29,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "The upstroke (phase 0) of the sinoatrial node action potential is produced by",
+    "options": [
+      "Fast voltage-gated Na⁺ channels",
+      "HCN (funny) channels",
+      "T-type Ca²⁺ channels",
+      "L-type Ca²⁺ channels"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Phase 4 slow depolarisation comes from I_f through HCN channels and then T-type Ca²⁺ channels. The slow L-type Ca²⁺ upstroke explains slow conduction in nodal tissue. Fast Na⁺ channels are inactivated at nodal potentials.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (HCN channels in rhythm generation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2015 AIIMS (HCN channels in rhythm generation)"
+    }
+  },
+  {
+    "id": "phys_q_30",
+    "questionNumber": 30,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Vagal stimulation slows the heart rate mainly by",
+    "options": [
+      "Blocking fast Na⁺ channels in the SA node",
+      "Opening ACh-activated K⁺ channels and reducing I_f",
+      "Increasing L-type Ca²⁺ current",
+      "Increasing cAMP in nodal cells"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "ACh acts on M₂ receptors (Gi). The βγ subunit opens GIRK (I_K-ACh), which hyperpolarises the cell, and lower cAMP flattens the phase 4 slope. This is how a rise in BP slows the heart via the baroreflex.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (SA node influenced by ACh in response to raised BP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2023 INI-CET (SA node influenced by ACh in response to raised BP)"
+    }
+  },
+  {
+    "id": "phys_q_31",
+    "questionNumber": 31,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Cardiac muscle cannot be tetanised because",
+    "options": [
+      "It has no troponin",
+      "It lacks T-tubules",
+      "Its absolute refractory period lasts almost until the end of mechanical contraction",
+      "It follows the all-or-none law"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The long Ca²⁺ plateau keeps the cell refractory through most of systole, so a new contraction cannot add onto the one in progress. This ensures the ventricle fills.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (properties of cardiac muscle — cannot be tetanised)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2023 INI-CET (properties of cardiac muscle — cannot be tetanised)"
+    }
+  },
+  {
+    "id": "phys_q_32",
+    "questionNumber": 32,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Match each pacemaker site with its intrinsic rate.\n\n| Site | Intrinsic rate (per min) |\n|---|---|\n| 1. SA node | a. 15–40 |\n| 2. AV junction | b. None (no automaticity) |\n| 3. Purkinje fibres | c. 60–100 |\n| 4. Ventricular myocardium | d. 40–60 |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The fastest pacemaker controls the heart by overdrive suppression. In complete heart block, a ventricular escape rhythm of 15–40/min takes over.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (match — SAN, AVN rates, ventricular myocardium)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2018 AIIMS (match — SAN, AVN rates, ventricular myocardium)"
+    }
+  },
+  {
+    "id": "phys_q_33",
+    "questionNumber": 33,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "An ECG shows a constant PR interval with sudden, unpredictable dropped beats and broad QRS complexes. The block is",
+    "options": [
+      "Mobitz type I (Wenckebach)",
+      "Mobitz type II",
+      "First-degree heart block",
+      "Complete heart block"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mobitz II is usually infranodal (His–Purkinje), so the QRS is often broad, and it carries a high risk of complete block. Mobitz I (progressive PR lengthening) is usually in the AV node and benign.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (progressive PR prolongation — Mobitz I, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2021 INI-CET (progressive PR prolongation — Mobitz I, 3X)"
+    }
+  },
+  {
+    "id": "phys_q_34",
+    "questionNumber": 34,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "During the cardiac cycle, ventricular volume is at its LOWEST",
+    "options": [
+      "At the end of isovolumetric contraction",
+      "At the end of rapid ejection",
+      "At the end of atrial systole",
+      "At the end of ejection, just before isovolumetric relaxation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is the end-systolic volume (about 50 mL). It stays the same through isovolumetric relaxation until the AV valves open. The c wave of the JVP occurs earlier, in isovolumetric contraction.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (c wave — isovolumetric contraction), 2020 INI-CET (ESV in exercise)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (c wave — isovolumetric contraction), 2020 INI-CET (ESV in exercise)"
+    }
+  },
+  {
+    "id": "phys_q_35",
+    "questionNumber": 35,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Intermittent \"cannon\" a waves in the JVP are characteristic of",
+    "options": [
+      "Tricuspid regurgitation",
+      "Atrial fibrillation",
+      "Constrictive pericarditis",
+      "Complete heart block"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "With AV dissociation, the atrium sometimes contracts against a closed tricuspid valve. Large but regular a waves suggest tricuspid stenosis or right ventricular hypertrophy; atrial fibrillation abolishes the a wave.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (large a wave — tricuspid stenosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2023 NEET-PG (large a wave — tricuspid stenosis)"
+    }
+  },
+  {
+    "id": "phys_q_36",
+    "questionNumber": 36,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "The cellular basis of the Frank–Starling mechanism is",
+    "options": [
+      "Increased sympathetic discharge with stretch",
+      "Better actin–myosin overlap and greater Ca²⁺ sensitivity of troponin C at longer sarcomere length",
+      "Opening of stretch-activated Na⁺ channels in the SA node",
+      "Increased heart rate with atrial stretch"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A higher end-diastolic volume stretches sarcomeres towards the optimal length (about 2.2 µm), so stroke volume rises with no change in contractility. Option D is the Bainbridge reflex.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (EDV vs force — length–tension relationship), 2014 AIIMS (preloaded muscle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2020 INI-CET (EDV vs force — length–tension relationship), 2014 AIIMS (preloaded muscle)"
+    }
+  },
+  {
+    "id": "phys_q_37",
+    "questionNumber": 37,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "The Bowditch (staircase, treppe) effect, in which contractility rises with heart rate, is explained by",
+    "options": [
+      "More time for diastolic filling",
+      "Release of catecholamines",
+      "Build-up of intracellular Ca²⁺ because there is less time to extrude it between beats",
+      "Reduced afterload"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "More action potentials per minute bring in more Ca²⁺ and Na⁺. The Na⁺–K⁺ pump and NCX lag behind, so SR Ca²⁺ stores and release increase.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Bowditch effect — 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2017 AIIMS (Bowditch effect — 2X)"
+    }
+  },
+  {
+    "id": "phys_q_38",
+    "questionNumber": 38,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "During moderate dynamic exercise in a healthy person, which of the following DECREASES?",
+    "options": [
+      "Systolic blood pressure",
+      "Pulse pressure",
+      "Cardiac output",
+      "Total peripheral resistance"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Metabolic vasodilatation in active muscle lowers TPR, so diastolic BP changes little. Stroke volume rises (end-systolic volume falls), and cardiac output, systolic BP and pulse pressure all rise.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (ESV during exercise decreases)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (ESV during exercise decreases)"
+    }
+  },
+  {
+    "id": "phys_q_39",
+    "questionNumber": 39,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "A subject's O₂ consumption is 250 mL/min. Arterial O₂ content is 20 mL/dL and mixed venous O₂ content is 15 mL/dL. The cardiac output is",
+    "options": [
+      "5 L/min",
+      "2.5 L/min",
+      "7.5 L/min",
+      "12.5 L/min"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Fick principle: CO = VO₂ / (CaO₂ − CvO₂) = 250 mL/min ÷ 50 mL/L = 5 L/min. Remember to convert mL/dL to mL/L.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (CO from O₂ contents), 2024 INI-CET (methods of measuring CO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2014 AIIMS (CO from O₂ contents), 2024 INI-CET (methods of measuring CO)"
+    }
+  },
+  {
+    "id": "phys_q_40",
+    "questionNumber": 40,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "A ventricle has an end-diastolic volume of 120 mL and an end-systolic volume of 50 mL. The ejection fraction is about",
+    "options": [
+      "42%",
+      "50%",
+      "58%",
+      "70%"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Stroke volume = 120 − 50 = 70 mL. EF = 70/120 ≈ 58%. The normal range is about 55–70%.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (cardiac index), 2020 INI-CET (ESV in exercise)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2016 AIIMS (cardiac index), 2020 INI-CET (ESV in exercise)"
+    }
+  },
+  {
+    "id": "phys_q_41",
+    "questionNumber": 41,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "If the radius of a blood vessel is halved and its length is doubled, with the pressure gradient unchanged, the flow becomes",
+    "options": [
+      "1/8 of the original",
+      "1/16 of the original",
+      "1/4 of the original",
+      "1/32 of the original"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Poiseuille: flow ∝ r⁴/L. Halving the radius gives (1/2)⁴ = 1/16; doubling the length halves it again, giving 1/32. Radius is the strongest determinant of flow.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (diameter and length doubled — flow ×8), 2021 INI-CET / 2014 AIIMS (increase vessel diameter)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular System",
+      "basedOn": "2021 INI-CET (diameter and length doubled — flow ×8), 2021 INI-CET / 2014 AIIMS (increase vessel diameter)"
+    }
+  },
+  {
+    "id": "phys_q_42",
+    "questionNumber": 42,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "After a unilateral nephrectomy, the total peripheral resistance",
+    "options": [
+      "Decreases, because there are fewer vessels",
+      "Is unchanged, because the circuits are in series",
+      "Halves",
+      "Increases, because a parallel circuit has been removed"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Organ circulations are arranged in parallel: 1/R_total = Σ 1/Rᵢ. Removing a parallel branch raises total resistance. Adding a parallel branch (for example opening muscle beds in exercise) lowers it.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (haemodynamics of flow), 2020 INI-CET (exercise)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular System",
+      "basedOn": "2021 INI-CET (haemodynamics of flow), 2020 INI-CET (exercise)"
+    }
+  },
+  {
+    "id": "phys_q_43",
+    "questionNumber": 43,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Loss of the Windkessel function of the aorta in a 75-year-old produces",
+    "options": [
+      "Higher systolic, lower or unchanged diastolic pressure, and a wider pulse pressure",
+      "Lower systolic and higher diastolic pressure",
+      "A narrow pulse pressure",
+      "Equal rises in systolic and diastolic pressure"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A stiff aorta cannot store part of the stroke volume during systole and release it in diastole. This causes isolated systolic hypertension. Elastic arteries (aorta, carotid) show the Windkessel effect; muscular arteries such as the radial do not.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Windkessel — not radial), 2021 INI-CET (high pulse pressure in elderly)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2022 INI-CET (Windkessel — not radial), 2021 INI-CET (high pulse pressure in elderly)"
+    }
+  },
+  {
+    "id": "phys_q_44",
+    "questionNumber": 44,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Arrange the steps of the baroreceptor reflex after a sudden rise in carotid sinus pressure.\n1. Increased firing in the glossopharyngeal (Hering's) nerve\n2. Increased vagal output and reduced output from the rostral ventrolateral medulla\n3. Stretch of the carotid sinus wall\n4. Excitation of the nucleus tractus solitarius",
+    "options": [
+      "3 → 4 → 1 → 2",
+      "3 → 1 → 4 → 2",
+      "1 → 3 → 4 → 2",
+      "3 → 1 → 2 → 4"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The NTS excites vagal neurons (nucleus ambiguus, dorsal motor nucleus) and, through the caudal ventrolateral medulla, inhibits the sympathetic RVLM. The result is bradycardia and vasodilatation. This is negative feedback.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (BP afferents go to NTS), 2018 AIIMS (carotid sinus — IX), 2016 AIIMS (negative feedback)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2022 INI-CET (BP afferents go to NTS), 2018 AIIMS (carotid sinus — IX), 2016 AIIMS (negative feedback)"
+    }
+  },
+  {
+    "id": "phys_q_45",
+    "questionNumber": 45,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Blood pressure falls by 20 mmHg. The baroreceptor system brings it back up by 15 mmHg, leaving an error of 5 mmHg. The gain of the system is",
+    "options": [
+      "3",
+      "4",
+      "0.75",
+      "15"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Gain = correction ÷ remaining error = 15 ÷ 5 = 3 (written −3 for negative feedback). The baroreflex has a modest gain of about 2; thermoregulation has a much higher gain of about 33.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (gain of baroreceptor system — 4)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2015 AIIMS (gain of baroreceptor system — 4)"
+    }
+  },
+  {
+    "id": "phys_q_46",
+    "questionNumber": 46,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "During the Valsalva manoeuvre, reflex bradycardia is seen in",
+    "options": [
+      "Phase I",
+      "Phase II",
+      "Phase III",
+      "Phase IV"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Phase I: BP rises as intrathoracic pressure is added to aortic pressure. Phase II: venous return falls, BP falls, and reflex tachycardia follows. Phase III: a brief further dip on release. Phase IV: BP overshoots into a vasoconstricted circulation, so the baroreflex slows the heart.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (rise in BP at start of Valsalva)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular System",
+      "basedOn": "2022 INI-CET (rise in BP at start of Valsalva)"
+    }
+  },
+  {
+    "id": "phys_q_47",
+    "questionNumber": 47,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "A patient with an acute inferior wall MI develops sudden bradycardia, hypotension and slow breathing. This reflex arises from",
+    "options": [
+      "Carotid sinus baroreceptors",
+      "Atrial stretch receptors (Bainbridge reflex)",
+      "Chemosensitive vagal C-fibre endings in the left ventricle (Bezold–Jarisch reflex)",
+      "A raised intracranial pressure response (Cushing reflex)"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "These receptors, concentrated in the inferoposterior wall, are activated by ischaemia, serotonin and veratridine. They produce the triad of bradycardia, hypotension and apnoea or hypopnoea.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Bezold–Jarisch triad), 2015 AIIMS (serotonin as mediator)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2024 INI-CET (Bezold–Jarisch triad), 2015 AIIMS (serotonin as mediator)"
+    }
+  },
+  {
+    "id": "phys_q_48",
+    "questionNumber": 48,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "A rapid intravenous infusion of saline raises the heart rate even though blood pressure rises slightly. This is because of",
+    "options": [
+      "The baroreceptor reflex",
+      "The Bezold–Jarisch reflex",
+      "The Bainbridge reflex, triggered by atrial stretch",
+      "The Cushing reflex"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Stretch receptors at the veno-atrial junctions send vagal afferents that raise sympathetic drive to the SA node. Direct stretch of the SA node also contributes.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (atrial volume and heart rate), 2021 NEET-PG (Bainbridge reflex)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2016 AIIMS (atrial volume and heart rate), 2021 NEET-PG (Bainbridge reflex)"
+    }
+  },
+  {
+    "id": "phys_q_49",
+    "questionNumber": 49,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "At rest, which organ has the HIGHEST arteriovenous O₂ difference?",
+    "options": [
+      "Kidney",
+      "Skin",
+      "Brain",
+      "Heart"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The myocardium extracts about 70–75% of delivered O₂ even at rest. More O₂ therefore has to come from more coronary flow. The kidney has one of the lowest A–V differences, because its high flow exceeds its metabolic needs.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (least A–V difference — kidney)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2024 INI-CET (least A–V difference — kidney)"
+    }
+  },
+  {
+    "id": "phys_q_50",
+    "questionNumber": 50,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "After a 1-litre haemorrhage, which hormone level FALLS?",
+    "options": [
+      "ADH",
+      "Angiotensin II",
+      "Atrial natriuretic peptide",
+      "Aldosterone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Reduced atrial stretch (low CVP) cuts ANP secretion. Reduced baroreceptor and volume receptor firing raises ADH, renin–angiotensin II–aldosterone and thirst.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (decrease in CVP — ↑ADH, AngII, thirst, ↓ANP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular System",
+      "basedOn": "2022 INI-CET (decrease in CVP — ↑ADH, AngII, thirst, ↓ANP)"
+    }
+  },
+  {
+    "id": "phys_q_51",
+    "questionNumber": 51,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "In a capillary, hydrostatic pressure is 30 mmHg, interstitial hydrostatic pressure is −3 mmHg, plasma oncotic pressure is 28 mmHg and interstitial oncotic pressure is 8 mmHg. The net filtration pressure is",
+    "options": [
+      "13 mmHg, outward",
+      "7 mmHg, outward",
+      "13 mmHg, inward",
+      "3 mmHg, outward"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "NFP = (Pc − Pi) − (πc − πi) = (30 − (−3)) − (28 − 8) = 33 − 20 = +13 mmHg. A positive value favours filtration.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (net filtration pressure calculation), Starling forces",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular System",
+      "basedOn": "2021 INI-CET (net filtration pressure calculation), Starling forces"
+    }
+  },
+  {
+    "id": "phys_q_52",
+    "questionNumber": 52,
+    "subject": "Physiology",
+    "subTopic": "Cardiovascular System",
+    "sub_topic": "Cardiovascular System",
+    "stem": "Catecholamines speed myocardial relaxation (positive lusitropy) mainly by phosphorylating",
+    "options": [
+      "Troponin T",
+      "Myosin light chain",
+      "Ryanodine receptor 2",
+      "Phospholamban"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "β₁ → cAMP → PKA phosphorylates phospholamban, which releases its brake on SERCA2a, so Ca²⁺ is pumped back into the SR faster. PKA also phosphorylates troponin I, lowering its Ca²⁺ sensitivity.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (lusitropy enhanced by catecholamines)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular System",
+      "basedOn": "2017 AIIMS (lusitropy enhanced by catecholamines)"
+    }
+  },
+  {
+    "id": "phys_q_53",
+    "questionNumber": 53,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Match each hormone with its receptor signalling mechanism.\n\n| Hormone | Mechanism |\n|---|---|\n| 1. Insulin | a. Receptor guanylyl cyclase (cGMP) |\n| 2. Growth hormone | b. Gq — IP₃/DAG — Ca²⁺ |\n| 3. Atrial natriuretic peptide | c. Receptor tyrosine kinase |\n| 4. TRH | d. JAK–STAT (cytokine receptor) |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prolactin, leptin, EPO and the cytokines also use JAK–STAT. Nitric oxide uses soluble guanylyl cyclase, whereas ANP and BNP use membrane-bound guanylyl cyclase.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — insulin, GH, ACh, T), 2021 INI-CET (leptin — JAK–STAT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2023 INI-CET (match — insulin, GH, ACh, T), 2021 INI-CET (leptin — JAK–STAT)"
+    }
+  },
+  {
+    "id": "phys_q_54",
+    "questionNumber": 54,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "For which hormone is the receptor located in the nucleus and bound to DNA even when no hormone is present?",
+    "options": [
+      "Cortisol",
+      "Triiodothyronine (T₃)",
+      "Aldosterone",
+      "Insulin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The thyroid hormone receptor (with RXR) sits on thyroid response elements. Hormone binding swaps co-repressors for co-activators. Glucocorticoid and mineralocorticoid receptors sit in the cytoplasm bound to heat-shock proteins and move to the nucleus after binding hormone.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (hormone with nuclear receptor — thyroxine), 2020 INI-CET (hormone crossing plasma membrane)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine System",
+      "basedOn": "2016 AIIMS (hormone with nuclear receptor — thyroxine), 2020 INI-CET (hormone crossing plasma membrane)"
+    }
+  },
+  {
+    "id": "phys_q_55",
+    "questionNumber": 55,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Arrange the steps of glucagon signalling in a hepatocyte.\n1. Activation of protein kinase A\n2. Activation of the Gs α subunit\n3. Glucagon binding to its G-protein-coupled receptor\n4. Activation of adenylyl cyclase and a rise in cAMP",
+    "options": [
+      "3 → 4 → 2 → 1",
+      "3 → 2 → 4 → 1",
+      "2 → 3 → 4 → 1",
+      "3 → 2 → 1 → 4"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Gs exchanges GDP for GTP, its α subunit activates adenylyl cyclase, and cAMP activates PKA. PKA then phosphorylates enzymes of glycogenolysis and gluconeogenesis. β₂ receptors use the same pathway.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (sequence — adenylyl cyclase → cAMP → PKA), 2022 NEET-PG (β₂ via adenylate cyclase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2022 INI-CET (sequence — adenylyl cyclase → cAMP → PKA), 2022 NEET-PG (β₂ via adenylate cyclase)"
+    }
+  },
+  {
+    "id": "phys_q_56",
+    "questionNumber": 56,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "After the pituitary stalk is cut in a road traffic accident, which anterior pituitary hormone RISES?",
+    "options": [
+      "Growth hormone",
+      "Prolactin",
+      "ACTH",
+      "TSH"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Prolactin is under mainly tonic inhibitory control by hypothalamic dopamine. Cutting the stalk removes that inhibition, while the hormones that depend on stimulatory releasing hormones fall.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (hormones under inhibitory hypothalamic control — GH, prolactin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (hormones under inhibitory hypothalamic control — GH, prolactin)"
+    }
+  },
+  {
+    "id": "phys_q_57",
+    "questionNumber": 57,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Growth hormone secretion is increased by all of the following EXCEPT",
+    "options": [
+      "Deep (N3) sleep",
+      "Exercise",
+      "Hypoglycaemia",
+      "Hyperglycaemia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A glucose load suppresses GH; failure to suppress during an oral glucose tolerance test confirms acromegaly. Fasting, arginine, ghrelin and stress all raise GH.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (hormone elevated in exercise and sleep — GH), 2022 INI-CET (acromegaly)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2016 AIIMS (hormone elevated in exercise and sleep — GH), 2022 INI-CET (acromegaly)"
+    }
+  },
+  {
+    "id": "phys_q_58",
+    "questionNumber": 58,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Which action of growth hormone is DIRECT and not mediated by IGF-1?",
+    "options": [
+      "Proliferation of chondrocytes in the growth plate",
+      "Increased lipolysis and a rise in blood glucose",
+      "Linear bone growth",
+      "Protein synthesis in skeletal muscle"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "GH's metabolic, anti-insulin actions are direct. Its growth-promoting actions are largely through IGF-1, which is made mainly in the liver and is structurally similar to proinsulin and insulin.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (IGF-1 mainly from liver), 2024 INI-CET (IGF similar to insulin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Endocrine System",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (IGF-1 mainly from liver), 2024 INI-CET (IGF similar to insulin)"
+    }
+  },
+  {
+    "id": "phys_q_59",
+    "questionNumber": 59,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "The major hormonal regulator of fetal growth is",
+    "options": [
+      "Growth hormone",
+      "IGF-2",
+      "Thyroxine",
+      "Prolactin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fetal growth depends on insulin, IGF-2 (and IGF-1) and nutrient supply. Fetal GH receptors are scarce, so babies lacking GH have near-normal birth length.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (hormone with no significant role in in-utero growth — GH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2021 INI-CET (hormone with no significant role in in-utero growth — GH)"
+    }
+  },
+  {
+    "id": "phys_q_60",
+    "questionNumber": 60,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Leptin reduces food intake by acting on the arcuate nucleus to",
+    "options": [
+      "Stimulate NPY/AgRP neurons",
+      "Stimulate POMC (α-MSH) neurons and inhibit NPY/AgRP neurons",
+      "Inhibit POMC neurons",
+      "Stimulate orexin neurons"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "α-MSH acting on MC4 receptors produces satiety. Leptin also signals energy sufficiency and has a permissive role in the onset of puberty (via kisspeptin/GnRH).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (leptin permissive for puberty — 3X), 2021 INI-CET (leptin — JAK–STAT)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (leptin permissive for puberty — 3X), 2021 INI-CET (leptin — JAK–STAT)"
+    }
+  },
+  {
+    "id": "phys_q_61",
+    "questionNumber": 61,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "ADH increases the permeability to urea of the",
+    "options": [
+      "Proximal convoluted tubule",
+      "Thick ascending limb",
+      "Inner medullary collecting duct",
+      "Cortical collecting duct"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Through V₂ receptors and cAMP, ADH inserts aquaporin-2 into the principal cells. In the inner medulla it also activates urea transporters UT-A1/A3, which feeds urea recycling and helps build the medullary gradient.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mechanism of ADH — water and urea), 2018 AIIMS (aquaporin-2)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2024 INI-CET (mechanism of ADH — water and urea), 2018 AIIMS (aquaporin-2)"
+    }
+  },
+  {
+    "id": "phys_q_62",
+    "questionNumber": 62,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "In SIADH, urine flow eventually increases despite persistently high ADH (\"vasopressin escape\"). This is mainly because of",
+    "options": [
+      "Downregulation of aquaporin-2 expression in the collecting duct",
+      "Upregulation of V₂ receptors",
+      "Increased ADH degradation",
+      "A fall in GFR"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Volume expansion also causes natriuresis (ANP, pressure natriuresis). Together these limit water retention, which is why SIADH patients are euvolaemic without oedema.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (vasopressin escape — 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine System",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (vasopressin escape — 2X)"
+    }
+  },
+  {
+    "id": "phys_q_63",
+    "questionNumber": 63,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "In a water deprivation test, urine osmolality stays below 300 mOsm/kg and does not rise after desmopressin. The diagnosis is",
+    "options": [
+      "Central diabetes insipidus",
+      "Nephrogenic diabetes insipidus",
+      "Primary polydipsia",
+      "SIADH"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The collecting duct cannot respond (V₂ receptor or aquaporin-2 defect, or lithium). In central DI, urine concentrates after desmopressin. In primary polydipsia, urine concentrates with dehydration alone.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (impaired aquaporin — nephrogenic DI)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2021 NEET-PG (impaired aquaporin — nephrogenic DI)"
+    }
+  },
+  {
+    "id": "phys_q_64",
+    "questionNumber": 64,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "The zona glomerulosa cannot synthesise cortisol because it lacks",
+    "options": [
+      "Aldosterone synthase (CYP11B2)",
+      "21-hydroxylase",
+      "11β-hydroxylase",
+      "17α-hydroxylase"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Without 17α-hydroxylation, pregnenolone can only go down the mineralocorticoid pathway. Aldosterone synthase is expressed only in the glomerulosa, so only that zone can make aldosterone.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — zones and hormones), 2022 INI-CET (zona glomerulosa — electrolyte balance), 2015 AIIMS (pregnenolone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine System",
+      "basedOn": "2024 INI-CET (match — zones and hormones), 2022 INI-CET (zona glomerulosa — electrolyte balance), 2015 AIIMS (pregnenolone)"
+    }
+  },
+  {
+    "id": "phys_q_65",
+    "questionNumber": 65,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Months after bilateral adrenalectomy, a patient develops progressive skin darkening. The pigmentation is due to",
+    "options": [
+      "Excess aldosterone",
+      "Excess cortisol replacement",
+      "Increased POMC-derived ACTH and MSH acting on melanocortin-1 receptors",
+      "Low catecholamines"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Loss of cortisol feedback drives POMC processing. ACTH shares its MSH sequence and stimulates melanocytes (Nelson's syndrome when a corticotroph tumour enlarges).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (adrenalectomy — pigmentation and fatigue)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2023 INI-CET (adrenalectomy — pigmentation and fatigue)"
+    }
+  },
+  {
+    "id": "phys_q_66",
+    "questionNumber": 66,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "All of the following stimulate catecholamine secretion from the adrenal medulla EXCEPT",
+    "options": [
+      "Hypoglycaemia",
+      "Haemorrhage",
+      "Cold exposure",
+      "Hyperglycaemia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Medullary secretion is driven by preganglionic sympathetic (ACh, nicotinic) discharge during stress: exercise, standing up, hypoglycaemia, haemorrhage, cold and smoking. About 80% of the output is epinephrine.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (adrenal medulla secretes in response to … not hyperglycaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2024 INI-CET (adrenal medulla secretes in response to … not hyperglycaemia)"
+    }
+  },
+  {
+    "id": "phys_q_67",
+    "questionNumber": 67,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "An asthmatic develops hypokalaemia after repeated salbutamol nebulisation. The mechanism is",
+    "options": [
+      "β₂-mediated stimulation of Na⁺–K⁺ ATPase, shifting K⁺ into cells",
+      "Increased renal K⁺ secretion caused by aldosterone",
+      "K⁺ loss through the gut",
+      "Inhibition of insulin release"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The same shift explains the low K⁺ after epinephrine release during stress. Insulin also drives K⁺ into cells, which is why insulin with glucose is used to treat hyperkalaemia.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (ECF K⁺ decreased by epinephrine), 2017 AIIMS (insulin and K⁺ — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2023 NEET-PG (ECF K⁺ decreased by epinephrine), 2017 AIIMS (insulin and K⁺ — T/F)"
+    }
+  },
+  {
+    "id": "phys_q_68",
+    "questionNumber": 68,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Match each glucose transporter with its main site and feature.\n\n| Transporter | Site and feature |\n|---|---|\n| 1. GLUT1 | a. Skeletal muscle and adipose tissue — insulin-dependent |\n| 2. GLUT2 | b. RBCs and blood–brain barrier — basal uptake |\n| 3. GLUT4 | c. Enterocyte apical membrane — fructose |\n| 4. GLUT5 | d. β-cells and hepatocytes — low affinity, glucose sensor |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Insulin moves GLUT4 from vesicles to the membrane, so insulin-dependent glucose uptake occurs in adipose tissue and muscle. Exercise also recruits GLUT4 without insulin, which improves insulin resistance.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (insulin-dependent glucose transport), 2023 NEET-PG (GLUT4 and insulin resistance)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2023 INI-CET (insulin-dependent glucose transport), 2023 NEET-PG (GLUT4 and insulin resistance)"
+    }
+  },
+  {
+    "id": "phys_q_69",
+    "questionNumber": 69,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Arrange the steps of glucose-stimulated insulin secretion from a β-cell.\n1. Closure of ATP-sensitive K⁺ channels\n2. Glucose entry through GLUT2 and glycolysis, raising ATP\n3. Ca²⁺ influx through voltage-gated channels and exocytosis\n4. Depolarisation of the β-cell membrane",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "1 → 2 → 4 → 3",
+      "2 → 1 → 3 → 4",
+      "2 → 1 → 4 → 3"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sulfonylureas act by closing the K_ATP channel (SUR1 subunit); diazoxide opens it. Insulin and C-peptide are released in equal (equimolar) amounts.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (C-peptide in proinsulin), 2023 INI-CET (insulin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (C-peptide in proinsulin), 2023 INI-CET (insulin)"
+    }
+  },
+  {
+    "id": "phys_q_70",
+    "questionNumber": 70,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "A non-diabetic nurse has recurrent hypoglycaemia with very high serum insulin but a suppressed C-peptide. The most likely cause is",
+    "options": [
+      "Exogenous insulin injection",
+      "Insulinoma",
+      "Sulfonylurea ingestion",
+      "Non-islet cell tumour hypoglycaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "C-peptide is cleaved from proinsulin and released with endogenous insulin. Commercial insulin contains none, so C-peptide is suppressed. Insulinoma and sulfonylureas raise both insulin and C-peptide.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (C-peptide in proinsulin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (C-peptide in proinsulin)"
+    }
+  },
+  {
+    "id": "phys_q_71",
+    "questionNumber": 71,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Most of the circulating T₃ is produced by",
+    "options": [
+      "Secretion from the thyroid follicle",
+      "Peripheral 5′-deiodination of T₄",
+      "Conversion of reverse T₃",
+      "Release from TBG"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "About 80% of T₃ comes from T₄ in liver, kidney and muscle (deiodinases D1 and D2). T₄ binds TBG with higher affinity than T₃, so T₄ has the longer half-life.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (T₄ has greater affinity for TBG), 2020 INI-CET (thyroxine crosses membrane)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2017 AIIMS (T₄ has greater affinity for TBG), 2020 INI-CET (thyroxine crosses membrane)"
+    }
+  },
+  {
+    "id": "phys_q_72",
+    "questionNumber": 72,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Iodide is transported from the thyroid follicular cell into the colloid by",
+    "options": [
+      "Na⁺–I⁻ symporter on the basolateral membrane",
+      "Pendrin on the apical membrane",
+      "Thyroid peroxidase",
+      "Megalin-mediated endocytosis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The Na⁺–I⁻ symporter (NIS) traps iodide at the basolateral side. Pendrin (a Cl⁻/I⁻ exchanger) moves it into the colloid, where TPO oxidises and organifies it. Pendred syndrome is goitre with sensorineural deafness.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (iodine transport — sodium–iodide symporter)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Endocrine System",
+      "basedOn": "2019 NEET-PG (iodine transport — sodium–iodide symporter)"
+    }
+  },
+  {
+    "id": "phys_q_73",
+    "questionNumber": 73,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Parathyroid hormone increases urinary phosphate excretion by",
+    "options": [
+      "Inhibiting NaPi-IIa cotransporters in the proximal tubule",
+      "Stimulating phosphate secretion in the collecting duct",
+      "Raising GFR",
+      "Inhibiting TRPV5 in the distal tubule"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "PTH also increases Ca²⁺ reabsorption in the distal tubule (TRPV5, the opposite of option D), stimulates renal 1α-hydroxylase, and raises bone resorption via RANKL on osteoblasts, which activates osteoclasts.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (PTH raises Ca — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (PTH raises Ca — 3X)"
+    }
+  },
+  {
+    "id": "phys_q_74",
+    "questionNumber": 74,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Inhibin, secreted by Sertoli cells, selectively inhibits the secretion of",
+    "options": [
+      "LH",
+      "FSH",
+      "GnRH",
+      "Testosterone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "FSH acts on Sertoli cells (ABP, inhibin); LH acts on Leydig cells (testosterone). Testosterone feeds back mainly on LH and GnRH. SHBG binds testosterone more tightly than oestradiol.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (testosterone — Leydig cells), 2015 AIIMS (SHBG — testosterone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (testosterone — Leydig cells), 2015 AIIMS (SHBG — testosterone)"
+    }
+  },
+  {
+    "id": "phys_q_75",
+    "questionNumber": 75,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "Although prolactin rises throughout pregnancy, milk secretion does not begin until after delivery because",
+    "options": [
+      "Prolactin receptors appear only after birth",
+      "Oxytocin is absent during pregnancy",
+      "High oestrogen and progesterone block prolactin's action on the breast",
+      "Dopamine levels are high in pregnancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "When the placenta is delivered, steroid levels fall abruptly and lactogenesis starts. Prolactin peaks in late pregnancy and the first postpartum week.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (prolactin high 1 week after delivery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2021 NEET-PG (prolactin high 1 week after delivery)"
+    }
+  },
+  {
+    "id": "phys_q_76",
+    "questionNumber": 76,
+    "subject": "Physiology",
+    "subTopic": "Endocrine System",
+    "sub_topic": "Endocrine System",
+    "stem": "A woman with rapidly progressive hirsutism has a markedly raised DHEA-S with normal testosterone. The most likely source of the androgen is the",
+    "options": [
+      "Ovary",
+      "Adrenal cortex (zona reticularis)",
+      "Peripheral fat",
+      "Pituitary"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In women, DHEA-S comes almost entirely from the adrenal, which makes it a marker of adrenal androgen excess (tumour or CAH). A disproportionate rise in testosterone points to the ovary.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (hormone exclusively secreted by adrenal in females — DHEA-S)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine System",
+      "basedOn": "2020 INI-CET (hormone exclusively secreted by adrenal in females — DHEA-S)"
+    }
+  },
+  {
+    "id": "phys_q_77",
+    "questionNumber": 77,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each cutaneous receptor with its principal function.\n\n| Receptor | Function |\n|---|---|\n| 1. Meissner corpuscle | a. Skin stretch; slowly adapting |\n| 2. Merkel disc | b. High-frequency vibration; rapidly adapting |\n| 3. Pacinian corpuscle | c. Static touch and two-point discrimination; slowly adapting |\n| 4. Ruffini ending | d. Flutter and light moving touch; rapidly adapting |",
+    "options": [
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-b, 3-c, 4-a",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Pacinian corpuscles respond best at about 200–300 Hz and Meissner corpuscles at about 30–50 Hz. Merkel discs give the sustained, fine spatial detail used in reading Braille.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (static two-point — Merkel), 2022 NEET-PG (fast vibration — Pacinian), 2021 INI-CET (Meissner, Pacinian)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (static two-point — Merkel), 2022 NEET-PG (fast vibration — Pacinian), 2021 INI-CET (Meissner, Pacinian)"
+    }
+  },
+  {
+    "id": "phys_q_78",
+    "questionNumber": 78,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "When excessive tension develops in a contracting muscle, the muscle suddenly relaxes. The receptor and pathway responsible are",
+    "options": [
+      "Muscle spindle — Ia afferents exciting the agonist",
+      "Golgi tendon organ — Ib afferents producing autogenic inhibition",
+      "Muscle spindle — group II afferents",
+      "Joint receptors — Aβ afferents"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "GTOs lie in series with the muscle fibres and signal tension. Through inhibitory interneurons they relax the same muscle. Spindles lie in parallel and signal length.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (GTO responds to tension — 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (GTO responds to tension — 4X)"
+    }
+  },
+  {
+    "id": "phys_q_79",
+    "questionNumber": 79,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "During a voluntary contraction, γ motor neurons fire together with α motor neurons. The purpose of this α–γ co-activation is to",
+    "options": [
+      "Directly increase the force of contraction",
+      "Activate Golgi tendon organs",
+      "Keep the muscle spindle sensitive while the muscle shortens",
+      "Produce reciprocal inhibition of the antagonist"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "γ (Aγ) efferents contract the intrafusal fibres, so the spindle does not go slack and keeps reporting length. Increased γ drive also explains the Jendrassik manoeuvre and decerebrate rigidity.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (spindle supplied by Aγ fibres)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (spindle supplied by Aγ fibres)"
+    }
+  },
+  {
+    "id": "phys_q_80",
+    "questionNumber": 80,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "According to the Weber–Fechner law, the perceived intensity of a sensation is proportional to",
+    "options": [
+      "The logarithm of the stimulus intensity",
+      "The square of the stimulus intensity",
+      "The stimulus intensity in a linear way",
+      "The duration of the stimulus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A just-noticeable difference is a constant fraction of the baseline (ΔI/I = constant). Stevens' power law is the modern alternative. *The 2022 INI-CET key's \"directly proportional to intensity\" is an oversimplification.*",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (Weber–Fechner — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (Weber–Fechner — 3X)"
+    }
+  },
+  {
+    "id": "phys_q_81",
+    "questionNumber": 81,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Rubbing a bruised shin relieves the pain because large Aβ fibres activate inhibitory interneurons located in",
+    "options": [
+      "The periaqueductal grey",
+      "The substantia gelatinosa (lamina II) of the dorsal horn",
+      "The ventral posterolateral thalamus",
+      "The anterior horn"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is Melzack and Wall's gate control theory, which is also the basis of TENS. The PAG works through descending pathways, not the segmental gate.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (massage — substantia gelatinosa), 2021 INI-CET (TENS — gate control), 2020 INI-CET (PAG)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2017 AIIMS (massage — substantia gelatinosa), 2021 INI-CET (TENS — gate control), 2020 INI-CET (PAG)"
+    }
+  },
+  {
+    "id": "phys_q_82",
+    "questionNumber": 82,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Arrange the descending pain-inhibitory pathway in sequence.\n1. Nucleus raphe magnus (serotonergic) in the rostral ventromedial medulla\n2. Enkephalin-releasing interneurons in the dorsal horn\n3. Periaqueductal grey of the midbrain\n4. Reduced substance P release from primary nociceptive afferents",
+    "options": [
+      "1 → 3 → 2 → 4",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 2 → 4",
+      "3 → 1 → 4 → 2"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The opioid-sensitive PAG drives the raphe nuclei, whose fibres descend in the dorsolateral funiculus. Enkephalin then acts presynaptically on C and Aδ terminals and postsynaptically on dorsal horn neurons.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (PAG relieves pain), 2021 INI-CET (gate control)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2020 INI-CET (PAG relieves pain), 2021 INI-CET (gate control)"
+    }
+  },
+  {
+    "id": "phys_q_83",
+    "questionNumber": 83,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient with sunburn finds that the light touch of a cotton shirt is painful. This phenomenon is",
+    "options": [
+      "Hyperalgesia",
+      "Allodynia",
+      "Hyperpathia",
+      "Referred pain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Allodynia is pain from a stimulus that is normally painless. Hyperalgesia is an exaggerated response to a stimulus that is normally painful. Both result from inflammatory sensitisation (carrageenan is used experimentally to induce inflammatory pain).",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (sunburn and lukewarm water — allodynia), 2024 INI-CET (carrageenan — inflammatory pain)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 NEET-PG (sunburn and lukewarm water — allodynia), 2024 INI-CET (carrageenan — inflammatory pain)"
+    }
+  },
+  {
+    "id": "phys_q_84",
+    "questionNumber": 84,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Which nerve fibres are MOST susceptible to hypoxia?",
+    "options": [
+      "Aα fibres",
+      "B fibres",
+      "C fibres",
+      "Aδ fibres"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ganong's order of susceptibility: hypoxia B",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (Saturday night palsy — type A), 2017 AIIMS (fibres and local anaesthetic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 NEET-PG (Saturday night palsy — type A), 2017 AIIMS (fibres and local anaesthetic)"
+    }
+  },
+  {
+    "id": "phys_q_85",
+    "questionNumber": 85,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "During the \"chill\" phase at the onset of fever, the patient shivers and has cold peripheries because",
+    "options": [
+      "The hypothalamic set point has risen above the current core temperature",
+      "The set point has fallen",
+      "Sweating centres are paralysed",
+      "Thyroxine secretion has risen sharply"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Pyrogens (IL-1, IL-6, TNF) induce PGE₂, which acts on the preoptic area and raises the set point. The body then conserves and produces heat until core temperature reaches the new set point. When the fever breaks (\"crisis\"), sweating and vasodilatation follow.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (preoptic nucleus in fever), 2021 NEET-PG (raised set point — shivering)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (preoptic nucleus in fever), 2021 NEET-PG (raised set point — shivering)"
+    }
+  },
+  {
+    "id": "phys_q_86",
+    "questionNumber": 86,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The feature that best distinguishes heat stroke from heat exhaustion is",
+    "options": [
+      "Core temperature above 40°C with CNS dysfunction, often with hot, dry skin",
+      "Profuse sweating",
+      "Tachycardia",
+      "Muscle cramps"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In classic heat stroke, thermoregulation fails and sweating stops. In heat exhaustion, sweating continues, mentation is preserved, and the problem is mainly salt and water depletion.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (heat stroke — sweating not seen, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (heat stroke — sweating not seen, 4X)"
+    }
+  },
+  {
+    "id": "phys_q_87",
+    "questionNumber": 87,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each EEG pattern with its state.\n\n| EEG pattern | State |\n|---|---|\n| 1. Alpha rhythm (8–13 Hz) | a. Stage N3 (deep sleep) |\n| 2. Sleep spindles and K complexes | b. REM sleep |\n| 3. High-amplitude delta waves | c. Awake, relaxed, eyes closed |\n| 4. Low-voltage, fast \"sawtooth\" waves | d. Stage N2 |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Alpha waves are blocked by opening the eyes (alpha block). Stage N2 takes up about half of total sleep time.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (K complexes — N2), 2020 INI-CET (alpha reduced on eye opening)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (K complexes — N2), 2020 INI-CET (alpha reduced on eye opening)"
+    }
+  },
+  {
+    "id": "phys_q_88",
+    "questionNumber": 88,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Which feature is characteristic of REM sleep?",
+    "options": [
+      "Predominant delta waves",
+      "Atonia of skeletal muscles except the extraocular muscles and diaphragm",
+      "Lowest cerebral O₂ consumption of the night",
+      "Sleepwalking and night terrors"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "REM sleep has vivid dreams, irregular heart rate and breathing, penile tumescence and raised brain metabolism. Sleepwalking and night terrors arise from N3. Polysomnography records EEG, EOG, EMG and oximetry.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (EEG sleep stages), 2016 AIIMS (polysomnography)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (EEG sleep stages), 2016 AIIMS (polysomnography)"
+    }
+  },
+  {
+    "id": "phys_q_89",
+    "questionNumber": 89,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "\"Sleep pressure\" that builds up during prolonged wakefulness is mainly due to the accumulation of",
+    "options": [
+      "Melatonin",
+      "Orexin",
+      "Adenosine",
+      "Histamine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Adenosine from ATP breakdown builds up and acts on A₁/A₂A receptors to promote sleep. Caffeine blocks these receptors and promotes wakefulness. Orexin and histamine are wake-promoting.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (caffeine blocks adenosine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 NEET-PG (caffeine blocks adenosine)"
+    }
+  },
+  {
+    "id": "phys_q_90",
+    "questionNumber": 90,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The output of the cerebellar cortex is carried by Purkinje cells, which are",
+    "options": [
+      "Excitatory (glutamate) to the thalamus",
+      "Inhibitory (GABA) to the deep cerebellar and vestibular nuclei",
+      "Excitatory to the inferior olive",
+      "Inhibitory directly to the motor cortex"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Purkinje cells are the sole output of the cortex. They receive climbing fibres from the inferior olive and mossy fibres via granule cells. Excitatory signals leave the cerebellum only from the deep nuclei.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Purkinje projects to deep nuclei; inferior olive fibres), 2019 NEET-PG (Purkinje cells)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2020 INI-CET (Purkinje projects to deep nuclei; inferior olive fibres), 2019 NEET-PG (Purkinje cells)"
+    }
+  },
+  {
+    "id": "phys_q_91",
+    "questionNumber": 91,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "In Parkinson's disease, loss of nigrostriatal dopamine leads to",
+    "options": [
+      "Decreased GPi output and disinhibition of the thalamus",
+      "Decreased subthalamic nucleus activity",
+      "Increased GPi/SNr output, causing excessive inhibition of the thalamus",
+      "Increased activity of the direct pathway"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Dopamine excites the direct pathway (D₁) and inhibits the indirect pathway (D₂). Losing it shifts the balance towards the indirect pathway, producing hypokinesia. Lesions of the subthalamic nucleus do the opposite, giving hemiballismus.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (hemiballismus — subthalamic nucleus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 NEET-PG (hemiballismus — subthalamic nucleus)"
+    }
+  },
+  {
+    "id": "phys_q_92",
+    "questionNumber": 92,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Which finding indicates an upper motor neuron lesion rather than a lower motor neuron lesion?",
+    "options": [
+      "Fasciculations",
+      "Marked early muscle wasting",
+      "Hypotonia",
+      "Clasp-knife spasticity with an extensor plantar response"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "UMN lesions cause spasticity, hyperreflexia, clonus and a Babinski sign, with only disuse wasting. LMN lesions cause flaccidity, early atrophy, fasciculations and areflexia.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (LMN lesion features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (LMN lesion features)"
+    }
+  },
+  {
+    "id": "phys_q_93",
+    "questionNumber": 93,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Decerebrate rigidity in an experimental animal (transection between the colliculi) is abolished by",
+    "options": [
+      "Cutting the dorsal roots of the affected limbs",
+      "Removing the cerebral cortex",
+      "Stimulating the red nucleus",
+      "Giving a dopamine agonist"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Decerebrate rigidity is \"γ rigidity\": the vestibulospinal and reticulospinal pathways are released from inhibition and increase γ drive, which works through the spindle (Ia) loop. Decorticate rigidity is less severe because the red nucleus pathway is preserved.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (decorticate less than decerebrate), 2018 AIIMS (decorticate rigidity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2019 NEET-PG (decorticate less than decerebrate), 2018 AIIMS (decorticate rigidity)"
+    }
+  },
+  {
+    "id": "phys_q_94",
+    "questionNumber": 94,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Arrange the steps of phototransduction in a rod when light falls on it.\n1. Closure of cGMP-gated Na⁺ channels and hyperpolarisation\n2. Isomerisation of 11-cis-retinal to all-trans-retinal\n3. Activation of phosphodiesterase, which hydrolyses cGMP\n4. Activation of transducin (Gt)",
+    "options": [
+      "2 → 4 → 3 → 1",
+      "4 → 2 → 3 → 1",
+      "2 → 3 → 4 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Rhodopsin sits in the discs of the outer segment. In darkness, cGMP keeps Na⁺ channels open (the \"dark current\"), so the rod is depolarised and releases glutamate continuously. Light reduces that release.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (discs in outer segment of photoreceptor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (discs in outer segment of photoreceptor)"
+    }
+  },
+  {
+    "id": "phys_q_95",
+    "questionNumber": 95,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The endocochlear potential of about +80 mV is generated by",
+    "options": [
+      "Outer hair cells",
+      "Tectorial membrane",
+      "Stria vascularis",
+      "Spiral ganglion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The stria secretes K⁺ into the endolymph. The large driving force for K⁺ entry through hair-cell transduction channels makes the cochlea very sensitive. Loop diuretics can reduce this potential (ototoxicity).",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (endocochlear potential +85 mV)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2014 AIIMS (endocochlear potential +85 mV)"
+    }
+  },
+  {
+    "id": "phys_q_96",
+    "questionNumber": 96,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "About 95% of the afferent fibres of the spiral ganglion synapse on the",
+    "options": [
+      "Outer hair cells",
+      "Inner hair cells",
+      "Pillar cells",
+      "Hensen's cells"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Inner hair cells are the true sensory receptors. Outer hair cells receive mainly efferent fibres and act as the \"cochlear amplifier\" through the motor protein prestin; they are the source of otoacoustic emissions.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (spiral ganglion processes end at inner hair cells)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2016 AIIMS (spiral ganglion processes end at inner hair cells)"
+    }
+  },
+  {
+    "id": "phys_q_97",
+    "questionNumber": 97,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each taste quality with its transduction mechanism.\n\n| Taste | Mechanism |\n|---|---|\n| 1. Sour | a. ENaC channels |\n| 2. Salty | b. T2R G-protein receptors (gustducin) |\n| 3. Bitter | c. T1R1/T1R3 heterodimer |\n| 4. Umami | d. H⁺-permeable channels (PKD2L1/TRPP3, OTOP1) |",
+    "options": [
+      "1-d, 2-b, 3-a, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b",
+      "1-d, 2-a, 3-b, 4-c"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sweet uses T1R2/T1R3. Bitter compounds are typically alkaloids and plant toxins. Filiform papillae carry no taste buds.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (sour — TRPP3), 2023 INI-CET (bitter — alkaloids), 2023 NEET-PG (filiform papillae)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2020 NEET-PG (sour — TRPP3), 2023 INI-CET (bitter — alkaloids), 2023 NEET-PG (filiform papillae)"
+    }
+  },
+  {
+    "id": "phys_q_98",
+    "questionNumber": 98,
+    "subject": "Physiology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "An intense, steady pressure on a limb is applied for a long time. The first modality lost, and the last to be lost, are",
+    "options": [
+      "Pain first; proprioception last",
+      "Proprioception and touch first; pain last",
+      "Temperature first; touch last",
+      "All lost together"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Large myelinated A fibres are most susceptible to pressure, and thin unmyelinated C fibres are least. This is why tingling and numbness come before pain fails in a compression palsy (for example, Saturday night palsy).",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (Saturday night palsy — type A fibres)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 NEET-PG (Saturday night palsy — type A fibres)"
+    }
+  },
+  {
+    "id": "phys_q_99",
+    "questionNumber": 99,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "ICF K⁺ is 140 mmol/L and ECF K⁺ is 4 mmol/L. Taking 61 mV for 2.3RT/F at 37°C, the K⁺ equilibrium potential is about",
+    "options": [
+      "−94 mV",
+      "−61 mV",
+      "+94 mV",
+      "−70 mV"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Nernst: E = 61 × log([out]/[in]) = 61 × log(4/140) = 61 × (−1.54) ≈ −94 mV. The resting membrane potential (−70 to −90 mV) lies close to E_K because the resting membrane is most permeable to K⁺.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Cl⁻ equilibrium potential calculation), 2014 AIIMS (Nernst equation), 2023 NEET-PG (K⁺ and RMP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2022 INI-CET (Cl⁻ equilibrium potential calculation), 2014 AIIMS (Nernst equation), 2023 NEET-PG (K⁺ and RMP)"
+    }
+  },
+  {
+    "id": "phys_q_100",
+    "questionNumber": 100,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "ECF Ca²⁺ is 2 mmol/L and cytosolic free Ca²⁺ is 0.0002 mmol/L. Using 61 mV for 2.3RT/F, the Ca²⁺ equilibrium potential is about",
+    "options": [
+      "+244 mV",
+      "+122 mV",
+      "−122 mV",
+      "+61 mV"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "E = (61/z) × log(out/in) = (61/2) × log(10⁴) = 30.5 × 4 = +122 mV. Forgetting the valence z = 2 gives the trap answer of +244 mV.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (equilibrium potential calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Physiology",
+      "basedOn": "2022 INI-CET (equilibrium potential calculation)"
+    }
+  },
+  {
+    "id": "phys_q_101",
+    "questionNumber": 101,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "After a crush injury, plasma K⁺ rises to 8 mmol/L. The effect on skeletal and cardiac muscle cells is",
+    "options": [
+      "The RMP becomes more negative, so excitability falls",
+      "The RMP is unchanged",
+      "The RMP becomes more negative, so excitability rises",
+      "The RMP becomes less negative; sustained depolarisation inactivates Na⁺ channels, so excitability eventually falls"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A raised ECF K⁺ shrinks the K⁺ gradient, so E_K and the RMP move towards zero. Mild hyperkalaemia increases excitability; severe hyperkalaemia causes paralysis and cardiac arrest.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (muscle injury and high K⁺ — RMP more positive)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2023 NEET-PG (muscle injury and high K⁺ — RMP more positive)"
+    }
+  },
+  {
+    "id": "phys_q_102",
+    "questionNumber": 102,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Match each event of the nerve action potential with its ionic basis.\n\n| Event | Ionic basis |\n|---|---|\n| 1. Depolarisation | a. Slow closure of voltage-gated K⁺ channels |\n| 2. Repolarisation | b. Inactivation gates of Na⁺ channels closed |\n| 3. After-hyperpolarisation | c. Na⁺ influx through voltage-gated channels (activation gates open) |\n| 4. Absolute refractory period | d. Na⁺ channel inactivation plus K⁺ efflux |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Na⁺ conductance rises sharply first, then K⁺ conductance rises more slowly. During the relative refractory period some Na⁺ channels have recovered, so a stronger stimulus can fire the cell.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — depolarisation/repolarisation, 3X), 2016 AIIMS (absolute refractoriness — Na⁺ inactivation gates)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2023 INI-CET (match — depolarisation/repolarisation, 3X), 2016 AIIMS (absolute refractoriness — Na⁺ inactivation gates)"
+    }
+  },
+  {
+    "id": "phys_q_103",
+    "questionNumber": 103,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "In multiple sclerosis, conduction slows or fails in demyelinated axons mainly because",
+    "options": [
+      "The internodal membrane has very few Na⁺ channels, so current leaks out and cannot reach threshold at the next active site",
+      "Axon diameter decreases",
+      "Na⁺ channel density at the nodes increases",
+      "Temperature sensitivity is reduced"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Myelin raises membrane resistance and lowers capacitance, which allows saltatory conduction. Once it is lost, the high-capacitance, leaky internode cannot regenerate the impulse. Heat worsens the block (Uhthoff's phenomenon).",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (slow conduction in MS — loss of myelin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2022 NEET-PG (slow conduction in MS — loss of myelin)"
+    }
+  },
+  {
+    "id": "phys_q_104",
+    "questionNumber": 104,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Match each nerve fibre type (Erlanger–Gasser) with its function.\n\n| Fibre | Function |\n|---|---|\n| 1. Aα | a. Preganglionic autonomic |\n| 2. Aδ | b. Slow (dull) pain and postganglionic sympathetic |\n| 3. B | c. Proprioception and somatic motor |\n| 4. C | d. Fast (sharp) pain and cold |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Conduction velocity falls from Aα (70–120 m/s) to C (0.5–2 m/s). C fibres are the only unmyelinated group, which is why postganglionic autonomic fibres are the slowest.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (proprioception A-α; pain A-δ), 2019 NEET-PG / 2018 AIIMS (slowest — C fibres)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2014 AIIMS (proprioception A-α; pain A-δ), 2019 NEET-PG / 2018 AIIMS (slowest — C fibres)"
+    }
+  },
+  {
+    "id": "phys_q_105",
+    "questionNumber": 105,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Tetanus toxin produces spastic paralysis, whereas botulinum toxin produces flaccid paralysis, because tetanus toxin",
+    "options": [
+      "Cleaves SNAP-25 at the neuromuscular junction",
+      "Blocks nicotinic receptors",
+      "Travels back to the spinal cord and blocks glycine/GABA release from inhibitory interneurons",
+      "Opens presynaptic Ca²⁺ channels"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Both toxins are proteases that cleave SNARE proteins. Tetanus toxin cleaves synaptobrevin (VAMP) in Renshaw and other inhibitory interneurons. Botulinum toxin acts peripherally at cholinergic terminals.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (tetanus toxin — synaptobrevin), 2018 NEET-PG (inhibiting vesicle release)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2024 INI-CET (tetanus toxin — synaptobrevin), 2018 NEET-PG (inhibiting vesicle release)"
+    }
+  },
+  {
+    "id": "phys_q_106",
+    "questionNumber": 106,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "3,4-Diaminopyridine improves strength in Lambert–Eaton syndrome by",
+    "options": [
+      "Inhibiting acetylcholinesterase",
+      "Stimulating nicotinic receptors directly",
+      "Increasing ACh synthesis",
+      "Blocking presynaptic K⁺ channels, which prolongs the action potential and increases Ca²⁺ entry"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A longer depolarisation keeps the remaining P/Q-type Ca²⁺ channels open longer, so more ACh vesicles are released.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (increase ACh release by blocking presynaptic K⁺ channels)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Physiology",
+      "basedOn": "2024 INI-CET (increase ACh release by blocking presynaptic K⁺ channels)"
+    }
+  },
+  {
+    "id": "phys_q_107",
+    "questionNumber": 107,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Arrange the events of neuromuscular transmission in sequence.\n1. ACh binds nicotinic receptors and an end-plate potential develops\n2. Voltage-gated Ca²⁺ channels open in the nerve terminal\n3. A muscle action potential spreads along the sarcolemma\n4. SNARE-mediated exocytosis of ACh vesicles",
+    "options": [
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 4 → 3 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The end-plate potential is always above threshold (a high safety factor). Acetylcholinesterase ends transmission within milliseconds.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (sequence of events at NMJ)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2020 NEET-PG (sequence of events at NMJ)"
+    }
+  },
+  {
+    "id": "phys_q_108",
+    "questionNumber": 108,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "A smoker has proximal weakness that improves with repeated effort, a dry mouth and depressed reflexes. The antibodies are most likely directed against",
+    "options": [
+      "Postsynaptic nicotinic ACh receptors",
+      "Muscle-specific kinase (MuSK)",
+      "Presynaptic P/Q-type voltage-gated Ca²⁺ channels",
+      "Acetylcholinesterase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is Lambert–Eaton syndrome, often with small cell lung cancer. Repeated activity builds up presynaptic Ca²⁺, so strength improves. Myasthenia gravis (nicotinic receptor antibodies) worsens with use and later in the day.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (myasthenia gravis), 2018 NEET-PG (preventing Ca²⁺ influx)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2023 NEET-PG (myasthenia gravis), 2018 NEET-PG (preventing Ca²⁺ influx)"
+    }
+  },
+  {
+    "id": "phys_q_109",
+    "questionNumber": 109,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Facilitated diffusion differs from simple diffusion because facilitated diffusion",
+    "options": [
+      "Shows saturation kinetics with a maximum transport rate",
+      "Requires ATP hydrolysis",
+      "Can move solute against its gradient",
+      "Has a rate that rises linearly with concentration at all levels"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Carrier-mediated transport also shows specificity and competitive inhibition. Glucose entry by GLUT transporters is the classic example. Neither form of diffusion uses ATP.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (saturation curve — glucose), 2014 AIIMS, 2020 NEET-PG (facilitated diffusion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2022 INI-CET (saturation curve — glucose), 2014 AIIMS, 2020 NEET-PG (facilitated diffusion)"
+    }
+  },
+  {
+    "id": "phys_q_110",
+    "questionNumber": 110,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Glucose-containing oral rehydration solution works in cholera because",
+    "options": [
+      "Glucose inhibits the cholera toxin",
+      "Glucose closes CFTR channels",
+      "Glucose is absorbed by facilitated diffusion that does not need Na⁺",
+      "Na⁺–glucose cotransport by SGLT1 stays intact and draws water with it"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cholera toxin raises cAMP and opens CFTR (Cl⁻ secretion), but SGLT1 is unaffected. This is secondary active transport, powered by the Na⁺ gradient created by the basolateral Na⁺–K⁺ ATPase.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (glucose absorption — SGLT1, 5X)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (glucose absorption — SGLT1, 5X)"
+    }
+  },
+  {
+    "id": "phys_q_111",
+    "questionNumber": 111,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "A consequence of the Gibbs–Donnan equilibrium across the cell membrane is that",
+    "options": [
+      "The concentrations of each diffusible ion are equal on both sides",
+      "The products of diffusible cation and anion concentrations are equal on both sides, and there are slightly more osmotically active particles inside",
+      "Intracellular proteins move out of the cell",
+      "The membrane potential becomes zero"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "[K⁺]ᵢ[Cl⁻]ᵢ = [K⁺]ₒ[Cl⁻]ₒ. Impermeant anionic proteins inside the cell create the imbalance, and the Na⁺–K⁺ pump stops the resulting osmotic swelling.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Gibbs–Donnan — intracellular proteins), 2022 INI-CET (assertion on proteins and RMP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Physiology",
+      "basedOn": "2020 INI-CET (Gibbs–Donnan — intracellular proteins), 2022 INI-CET (assertion on proteins and RMP)"
+    }
+  },
+  {
+    "id": "phys_q_112",
+    "questionNumber": 112,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "100 mg of inulin is injected intravenously. By the time of equilibrium, 10 mg has been excreted, and the plasma concentration is 0.6 mg/dL. The ECF volume is",
+    "options": [
+      "15 L",
+      "16.7 L",
+      "14 L",
+      "13.5 L"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Volume = amount remaining ÷ concentration = (100 − 10) mg ÷ 6 mg/L = 15 L. Converting 0.6 mg/dL to 6 mg/L is the step most often missed. Ignoring excretion gives the trap answer of 16.7 L.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (mannitol — ECF volume 14 L)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Physiology",
+      "basedOn": "2021 INI-CET (mannitol — ECF volume 14 L)"
+    }
+  },
+  {
+    "id": "phys_q_113",
+    "questionNumber": 113,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "15 mg of Evans blue is injected. The plasma concentration after mixing is 5 mg/L, and the haematocrit is 40%. The total blood volume is",
+    "options": [
+      "3 L",
+      "4.2 L",
+      "5 L",
+      "7.5 L"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Plasma volume = 15 ÷ 5 = 3 L. Blood volume = plasma volume ÷ (1 − Hct) = 3 ÷ 0.6 = 5 L.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (plasma volume from haematocrit), 2021 INI-CET (I-125 albumin — plasma volume)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2015 AIIMS (plasma volume from haematocrit), 2021 INI-CET (I-125 albumin — plasma volume)"
+    }
+  },
+  {
+    "id": "phys_q_114",
+    "questionNumber": 114,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Match each body fluid compartment with the indicator used to measure it.\n\n| Compartment | Indicator |\n|---|---|\n| 1. Total body water | a. Inulin or mannitol |\n| 2. ECF | b. ⁵¹Cr-labelled red cells |\n| 3. Plasma volume | c. Deuterium oxide or antipyrine |\n| 4. Red cell volume | d. Evans blue or ¹²⁵I-albumin |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "ICF and interstitial fluid cannot be measured directly. They are calculated: ICF = TBW − ECF; interstitial fluid = ECF − plasma.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (I-125 albumin — plasma volume; mannitol — ECF)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2021 INI-CET (I-125 albumin — plasma volume; mannitol — ECF)"
+    }
+  },
+  {
+    "id": "phys_q_115",
+    "questionNumber": 115,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Which of the following is an example of POSITIVE feedback?",
+    "options": [
+      "The baroreceptor reflex",
+      "Cortisol suppressing ACTH",
+      "Shivering in the cold",
+      "The LH surge triggered by rising oestradiol before ovulation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Other positive feedback loops include oxytocin during labour (Ferguson reflex), the clotting cascade and the Na⁺ influx during the AP upstroke. Most homeostatic loops are negative. Salivating in anticipation of food is feedforward.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (baroreceptor — negative feedback), 2020 INI-CET / 2014 AIIMS (feedforward)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2020 INI-CET (baroreceptor — negative feedback), 2020 INI-CET / 2014 AIIMS (feedforward)"
+    }
+  },
+  {
+    "id": "phys_q_116",
+    "questionNumber": 116,
+    "subject": "Physiology",
+    "subTopic": "Blood",
+    "sub_topic": "Blood",
+    "stem": "A patient with microcytic anaemia has normal ferritin and HbA₂ of 5.2%. The most likely diagnosis is",
+    "options": [
+      "Iron-deficiency anaemia",
+      "β-thalassaemia trait",
+      "α-thalassaemia trait",
+      "Anaemia of chronic disease"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "When β-chain production falls, more δ chains pair with α chains, raising HbA₂ (α₂δ₂) above 3.5%. Iron deficiency can falsely lower HbA₂; α-thalassaemia trait has normal HbA₂.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (HbA₂ raised in thalassaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood",
+      "basedOn": "2016 AIIMS (HbA₂ raised in thalassaemia)"
+    }
+  },
+  {
+    "id": "phys_q_117",
+    "questionNumber": 117,
+    "subject": "Physiology",
+    "subTopic": "Blood",
+    "sub_topic": "Blood",
+    "stem": "A patient's red cells are not agglutinated by anti-A, anti-B or anti-H. The patient's serum agglutinates group O red cells. The blood group is",
+    "options": [
+      "Group O, Rh negative",
+      "Group AB",
+      "Bombay phenotype (Oh)",
+      "Para-Bombay"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "With no H antigen, A and B antigens cannot be made either. The serum carries anti-A, anti-B and anti-H, so these patients can receive only Bombay blood. Normal group O cells are rich in H antigen.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (no agglutination with anti-A, anti-B — O+)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Blood",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (no agglutination with anti-A, anti-B — O+)"
+    }
+  },
+  {
+    "id": "phys_q_118",
+    "questionNumber": 118,
+    "subject": "Physiology",
+    "subTopic": "General Physiology",
+    "sub_topic": "General Physiology",
+    "stem": "Match each plasma protein with the substance it carries.\n\n| Protein | Substance carried |\n|---|---|\n| 1. Transthyretin (prealbumin) | a. Free haem |\n| 2. Haptoglobin | b. Copper |\n| 3. Haemopexin | c. Thyroxine and retinol-binding protein |\n| 4. Ceruloplasmin | d. Free haemoglobin |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Haptoglobin falls in intravascular haemolysis because haemoglobin–haptoglobin complexes are rapidly cleared. Albumin carries free fatty acids, bilirubin and many drugs.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — prealbumin, albumin, haptoglobin, haemopexin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Physiology",
+      "basedOn": "2024 INI-CET (match — prealbumin, albumin, haptoglobin, haemopexin)"
+    }
+  },
+  {
+    "id": "phys_q_119",
+    "questionNumber": 119,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Glomerular capillary hydrostatic pressure is 55 mmHg, Bowman's capsule pressure is 15 mmHg and glomerular capillary oncotic pressure is 30 mmHg. The net filtration pressure is",
+    "options": [
+      "10 mmHg",
+      "40 mmHg",
+      "70 mmHg",
+      "25 mmHg"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "NFP = P_GC − P_BS − π_GC (+ π_BS, which is about 0) = 55 − 15 − 30 = 10 mmHg. Oncotic pressure rises along the glomerular capillary, so filtration falls from the afferent to the efferent end.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (net filtration pressure calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2021 INI-CET (net filtration pressure calculation)"
+    }
+  },
+  {
+    "id": "phys_q_120",
+    "questionNumber": 120,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Angiotensin II preferentially constricts the efferent arteriole. The effect on filtration fraction is that it",
+    "options": [
+      "Falls, because GFR falls more than RPF",
+      "Is unchanged",
+      "Rises, because GFR is maintained while RPF falls",
+      "Falls, because RPF rises"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "FF = GFR/RPF. Efferent constriction raises glomerular pressure, so GFR is maintained or rises a little, while plasma flow falls. This is why ACE inhibitors can drop GFR in bilateral renal artery stenosis.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (efferent constriction — GFR stable or rises), 2020 INI-CET / 2014 AIIMS (factors increasing GFR, 5X)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2015 AIIMS (efferent constriction — GFR stable or rises), 2020 INI-CET / 2014 AIIMS (factors increasing GFR, 5X)"
+    }
+  },
+  {
+    "id": "phys_q_121",
+    "questionNumber": 121,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "In tubuloglomerular feedback, increased NaCl delivery to the macula densa causes",
+    "options": [
+      "Constriction of the afferent arteriole, mediated by adenosine, and reduced renin release",
+      "Dilatation of the afferent arteriole",
+      "Constriction of the efferent arteriole and increased renin",
+      "Increased GFR"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Macula densa cells sense NaCl through NKCC2 and release ATP/adenosine (A₁ receptors). The macula densa sits where the thick ascending limb meets the early distal tubule, beside its own glomerulus. TGF stabilises GFR.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2015 AIIMS (TGF — GFR), 2023 INI-CET (macula densa location)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2021 NEET-PG / 2015 AIIMS (TGF — GFR), 2023 INI-CET (macula densa location)"
+    }
+  },
+  {
+    "id": "phys_q_122",
+    "questionNumber": 122,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Angiotensin II–induced contraction of mesangial cells reduces GFR mainly by",
+    "options": [
+      "Raising Bowman's capsule pressure",
+      "Raising plasma oncotic pressure",
+      "Reducing the filtration coefficient (K_f) by shrinking the capillary surface area",
+      "Increasing renal blood flow"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mesangial cells are contractile and phagocytic, and the extraglomerular mesangial (lacis) cells belong to the juxtaglomerular apparatus. Agents such as ANP relax them and raise K_f.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match — mesangial cell contraction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2021 INI-CET (match — mesangial cell contraction)"
+    }
+  },
+  {
+    "id": "phys_q_123",
+    "questionNumber": 123,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Urine creatinine is 120 mg/dL, plasma creatinine is 1.2 mg/dL and urine flow is 1 mL/min. The creatinine clearance is",
+    "options": [
+      "144 mL/min",
+      "10 mL/min",
+      "100 mL/min",
+      "1000 mL/min"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "C = (U × V)/P = (120 × 1)/1.2 = 100 mL/min. Creatinine clearance slightly overestimates GFR because a small amount of creatinine is secreted by the tubule.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (requirements for creatinine clearance), 2018 AIIMS (GFR markers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2022 INI-CET (requirements for creatinine clearance), 2018 AIIMS (GFR markers)"
+    }
+  },
+  {
+    "id": "phys_q_124",
+    "questionNumber": 124,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Arrange these substances by renal clearance, from highest to lowest.\n1. Urea\n2. Glucose (normal plasma level)\n3. Para-aminohippuric acid (PAH)\n4. Inulin",
+    "options": [
+      "4 → 3 → 1 → 2",
+      "3 → 1 → 4 → 2",
+      "3 → 4 → 2 → 1",
+      "3 → 4 → 1 → 2"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "PAH is filtered and secreted (clearance ≈ RPF, about 625 mL/min). Inulin is only filtered (clearance = GFR, about 125). Urea is partly reabsorbed (about 50–70). Glucose is fully reabsorbed (0).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (maximum clearance — PAH > inulin > bicarbonate > glucose)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2020 NEET-PG (maximum clearance — PAH > inulin > bicarbonate > glucose)"
+    }
+  },
+  {
+    "id": "phys_q_125",
+    "questionNumber": 125,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Glucose begins to appear in the urine at a plasma level of about 200 mg/dL, although the tubular maximum is not reached until about 300 mg/dL. This difference is called",
+    "options": [
+      "The renal threshold",
+      "Glomerulotubular balance",
+      "Splay, caused by nephron heterogeneity",
+      "Tubuloglomerular feedback"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Some nephrons saturate earlier than others, and transporter binding is not infinitely tight, so the titration curve is rounded rather than sharp.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (glucose absorbed in S3), 2018 AIIMS (SGLT2 in PCT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2016 AIIMS (glucose absorbed in S3), 2018 AIIMS (SGLT2 in PCT)"
+    }
+  },
+  {
+    "id": "phys_q_126",
+    "questionNumber": 126,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Gliflozins block the transporter responsible for about 90% of filtered glucose reabsorption. It is",
+    "options": [
+      "SGLT2 in the S1–S2 segments of the PCT, which is low-affinity and high-capacity",
+      "SGLT1 in the S3 segment, which is high-affinity and low-capacity",
+      "GLUT2 on the apical membrane",
+      "GLUT4 in the collecting duct"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "SGLT2 moves 1 Na⁺ per glucose; SGLT1 (S3) moves 2 Na⁺ and mops up the remaining roughly 10%. Glucose leaves the cell basolaterally through GLUT2.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (apical PCT transporter — SGLT2), 2016 AIIMS (10% absorbed in S3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2018 AIIMS (apical PCT transporter — SGLT2), 2016 AIIMS (10% absorbed in S3)"
+    }
+  },
+  {
+    "id": "phys_q_127",
+    "questionNumber": 127,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Which transporter is NOT present on the apical membrane of the early proximal tubule?",
+    "options": [
+      "Na⁺–H⁺ exchanger (NHE3)",
+      "Na⁺–glucose cotransporter",
+      "Na⁺–phosphate cotransporter",
+      "Na⁺–K⁺–2Cl⁻ cotransporter (NKCC2)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "NKCC2 is found in the thick ascending limb, the target of loop diuretics. Fluid leaving the PCT is isotonic, because water follows solute in proportion.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Na⁺ transporters in early PCT), 2024 INI-CET (fluid leaving PCT isotonic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2023 INI-CET (Na⁺ transporters in early PCT), 2024 INI-CET (fluid leaving PCT isotonic)"
+    }
+  },
+  {
+    "id": "phys_q_128",
+    "questionNumber": 128,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Loop diuretics increase urinary Ca²⁺ and Mg²⁺ excretion because they",
+    "options": [
+      "Block a Ca²⁺-specific channel",
+      "Increase PTH",
+      "Abolish the lumen-positive potential created by K⁺ recycling through ROMK, which drives paracellular Ca²⁺ and Mg²⁺ reabsorption",
+      "Stimulate the Ca²⁺-sensing receptor"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "NKCC2 brings in K⁺, which leaks back into the lumen through ROMK, making it positive. That positive charge drives divalent cations through paracellin (claudin-16). Thiazides, by contrast, lower urinary Ca²⁺.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (lumen-positive gradient — K⁺ recycling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2022 INI-CET (lumen-positive gradient — K⁺ recycling)"
+    }
+  },
+  {
+    "id": "phys_q_129",
+    "questionNumber": 129,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Match each tubular site with the osmolality of its fluid when ADH is absent.\n\n| Site | Osmolality (mOsm/kg) |\n|---|---|\n| 1. End of the proximal tubule | a. About 1200 |\n| 2. Tip of a juxtamedullary loop | b. About 100 |\n| 3. Early distal tubule | c. About 300 |\n| 4. Final urine (no ADH) | d. About 50 |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-b, 3-a, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The thick ascending limb (the \"diluting segment\") pumps out solute but is impermeable to water. The thin descending limb is permeable to water, so its fluid concentrates towards the tip.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fluid leaving PCT — isotonic), 2020 INI-CET (diluting segment), 2019 NEET-PG (descending thin limb permeable)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2024 INI-CET (fluid leaving PCT — isotonic), 2020 INI-CET (diluting segment), 2019 NEET-PG (descending thin limb permeable)"
+    }
+  },
+  {
+    "id": "phys_q_130",
+    "questionNumber": 130,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "The vasa recta preserve the medullary osmotic gradient mainly because",
+    "options": [
+      "They actively pump NaCl into the interstitium",
+      "They are impermeable to water",
+      "Their slow flow and hairpin shape let them act as countercurrent exchangers",
+      "They carry most of the renal blood flow"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Solute entering the descending vasa recta leaves again in the ascending limb, so little is washed out. The loop of Henle is the countercurrent multiplier. Medullary blood flow is less than 10% of renal blood flow.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (vasa recta — urine concentration), 2024 INI-CET / 2014 AIIMS (countercurrent sites)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2015 AIIMS (vasa recta — urine concentration), 2024 INI-CET / 2014 AIIMS (countercurrent sites)"
+    }
+  },
+  {
+    "id": "phys_q_131",
+    "questionNumber": 131,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "In chronic metabolic acidosis, the main ADAPTIVE increase in renal acid excretion is through",
+    "options": [
+      "Titratable acid (phosphate buffer)",
+      "Free H⁺ in the urine",
+      "Bicarbonate secretion",
+      "Ammonium, from increased glutamine metabolism in the PCT"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Phosphate buffer supply is limited by dietary intake, whereas ammoniagenesis can increase several-fold over days. Urine pH cannot fall below about 4.5, so free H⁺ excretion is negligible.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (compensation for pH change), 2017 AIIMS (normal H⁺ concentration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2024 INI-CET (compensation for pH change), 2017 AIIMS (normal H⁺ concentration)"
+    }
+  },
+  {
+    "id": "phys_q_132",
+    "questionNumber": 132,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "A patient with diabetic ketoacidosis has HCO₃⁻ 12 mmol/L. Using Winter's formula, the expected PaCO₂ with appropriate respiratory compensation is about",
+    "options": [
+      "40 mmHg",
+      "18 mmHg",
+      "26 mmHg",
+      "32 mmHg"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Expected PaCO₂ = 1.5 × HCO₃⁻ + 8 (± 2) = 18 + 8 = 26 mmHg. A measured PaCO₂ well above this means a coexisting respiratory acidosis. The compensation is Kussmaul breathing.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pH 7.4 → 7.3, PCO₂ will reduce)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2024 INI-CET (pH 7.4 → 7.3, PCO₂ will reduce)"
+    }
+  },
+  {
+    "id": "phys_q_133",
+    "questionNumber": 133,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "With plasma HCO₃⁻ fixed at 24 mmol/L, PaCO₂ acutely doubles from 40 to 80 mmHg (pK′ = 6.1, CO₂ solubility = 0.03). The pH will be about",
+    "options": [
+      "7.1",
+      "7.2",
+      "7.0",
+      "7.3"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "pH = 6.1 + log[24 ÷ (0.03 × 80)] = 6.1 + log(10) = 7.1. At PaCO₂ 40 the ratio is 20:1, giving pH 7.4. In real acute respiratory acidosis HCO₃⁻ rises slightly, so the measured pH is a little higher.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pH and PCO₂ relationship), 2023 NEET-PG (respiratory alkalosis — tetany)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Renal System",
+      "basedOn": "2024 INI-CET (pH and PCO₂ relationship), 2023 NEET-PG (respiratory alkalosis — tetany)"
+    }
+  },
+  {
+    "id": "phys_q_134",
+    "questionNumber": 134,
+    "subject": "Physiology",
+    "subTopic": "Renal System",
+    "sub_topic": "Renal System",
+    "stem": "Erythropoietin is produced mainly by",
+    "options": [
+      "Peritubular interstitial fibroblasts of the renal cortex, under HIF control",
+      "Juxtaglomerular cells",
+      "Hepatocytes in adults",
+      "Podocytes"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "About 85–90% of EPO comes from the kidney and the rest from the liver; in the fetus the liver is the main source. Hypoxia stabilises HIF-2α, which switches on the EPO gene.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (EPO secreted by liver and kidney), 2016 AIIMS (EPO value)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal System",
+      "basedOn": "2024 INI-CET (EPO secreted by liver and kidney), 2016 AIIMS (EPO value)"
+    }
+  },
+  {
+    "id": "phys_q_135",
+    "questionNumber": 135,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "After resection of the terminal 100 cm of ileum for Crohn's disease, which complication is LEAST expected as a direct result?",
+    "options": [
+      "Vitamin B₁₂ deficiency",
+      "Bile acid diarrhoea",
+      "Cholesterol gallstones",
+      "Iron-deficiency anaemia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Iron is absorbed in the duodenum and upper jejunum. The terminal ileum absorbs B₁₂–intrinsic factor (via cubilin) and conjugated bile salts. Losing the bile salt pool causes fat malabsorption and lithogenic bile; colonic bile acids cause secretory diarrhoea.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (ileal resection — B₁₂ deficiency, 3X), 2022 NEET-PG (B₁₂ deficiency)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (ileal resection — B₁₂ deficiency, 3X), 2022 NEET-PG (B₁₂ deficiency)"
+    }
+  },
+  {
+    "id": "phys_q_136",
+    "questionNumber": 136,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "Gastrin stimulates gastric acid secretion MAINLY by",
+    "options": [
+      "Releasing histamine from enterochromaffin-like (ECL) cells",
+      "Acting directly on H₂ receptors on parietal cells",
+      "Inhibiting somatostatin release from D cells",
+      "Increasing vagal ACh release"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Gastrin acts on CCK₂ receptors on ECL cells; the histamine they release acts on H₂ receptors on parietal cells (cAMP). Gastrin and ACh also act directly on parietal cells (Ca²⁺ pathway), with potentiation between all three.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric acid increased by gastrin, histamine, ACh)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2022 INI-CET (gastric acid increased by gastrin, histamine, ACh)"
+    }
+  },
+  {
+    "id": "phys_q_137",
+    "questionNumber": 137,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "When antral pH falls below about 3, further gastrin release is switched off mainly through",
+    "options": [
+      "Secretin release",
+      "Somatostatin from antral D cells",
+      "GIP from K cells",
+      "Reduced vagal tone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is paracrine negative feedback. Acid also reaching the duodenum releases secretin, which inhibits gastrin and acid and stimulates pancreatic bicarbonate.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric acid regulation), 2020 NEET-PG (paracrine signalling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2022 INI-CET (gastric acid regulation), 2020 NEET-PG (paracrine signalling)"
+    }
+  },
+  {
+    "id": "phys_q_138",
+    "questionNumber": 138,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "Match each GI hormone with its cell of origin and main action.\n\n| Hormone | Cell and action |\n|---|---|\n| 1. CCK | a. I cells (duodenum, jejunum) — gallbladder contraction and pancreatic enzymes |\n| 2. Secretin | b. M cells — initiates the migrating motor complex |\n| 3. GIP | c. S cells — pancreatic HCO₃⁻ secretion |\n| 4. Motilin | d. K cells — glucose-dependent insulin release |",
+    "options": [
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-d, 3-c, 4-b",
+      "1-a, 2-c, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "GIP and GLP-1 (from L cells) are the incretins, which explains why oral glucose releases more insulin than intravenous glucose.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (CCK — I cells of duodenum and jejunum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2023 INI-CET (CCK — I cells of duodenum and jejunum)"
+    }
+  },
+  {
+    "id": "phys_q_139",
+    "questionNumber": 139,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "Erythromycin in low doses is used as a prokinetic for gastroparesis because it",
+    "options": [
+      "Blocks D₂ receptors",
+      "Is a 5-HT₄ agonist",
+      "Increases gastrin",
+      "Acts as a motilin receptor agonist and triggers migrating motor complexes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In the fasting state, MMCs sweep from the stomach to the ileum about every 90–120 minutes, clearing residue (the \"housekeeper\"). Eating abolishes them.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (migrating motor complexes recur every 90 min)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2016 AIIMS (migrating motor complexes recur every 90 min)"
+    }
+  },
+  {
+    "id": "phys_q_140",
+    "questionNumber": 140,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "Arrange these parts of the gut by basal slow-wave frequency, from highest to lowest.\n1. Stomach\n2. Ileum\n3. Duodenum\n4. Jejunum",
+    "options": [
+      "4 → 3 → 2 → 1",
+      "3 → 2 → 4 → 1",
+      "3 → 4 → 2 → 1",
+      "1 → 2 → 4 → 3"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Duodenum about 12/min, jejunum about 11, ileum about 8–9, stomach about 3. The interstitial cells of Cajal generate the slow waves; spikes on top of them trigger contraction. The falling gradient along the small bowel helps move contents onward.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (least slow-wave frequency — stomach), 2017 AIIMS (slow waves by ICC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2021 INI-CET (least slow-wave frequency — stomach), 2017 AIIMS (slow waves by ICC)"
+    }
+  },
+  {
+    "id": "phys_q_141",
+    "questionNumber": 141,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "In the peristaltic reflex, contraction of the circular muscle ORAL (behind) to a bolus is mediated by",
+    "options": [
+      "Acetylcholine and substance P",
+      "VIP and nitric oxide",
+      "Noradrenaline",
+      "Somatostatin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is the \"law of the intestine\": excitatory neurons contract the gut behind the bolus, while inhibitory VIP/NO neurons relax the gut ahead of it (the anal side).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (VIP anterograde to bolus), 2014 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (VIP anterograde to bolus), 2014 AIIMS"
+    }
+  },
+  {
+    "id": "phys_q_142",
+    "questionNumber": 142,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "The submucosal (Meissner's) plexus mainly regulates",
+    "options": [
+      "The force of peristaltic contractions",
+      "Local secretion, absorption and mucosal blood flow",
+      "Tone of the external anal sphincter",
+      "Swallowing"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The myenteric (Auerbach's) plexus, between the longitudinal and circular muscle layers, controls motility. In Hirschsprung disease, ganglion cells are absent from both plexuses.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (myenteric plexus location)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2024 INI-CET (myenteric plexus location)"
+    }
+  },
+  {
+    "id": "phys_q_143",
+    "questionNumber": 143,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "The most potent stimulus for slowing gastric emptying is",
+    "options": [
+      "Protein in the stomach",
+      "Distension of the antrum",
+      "Water in the duodenum",
+      "Fat in the duodenum, acting mainly through CCK"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Duodenal fat, acid (via secretin) and hyperosmolar chyme all slow emptying, through hormones and the neural enterogastric reflex. This matches gastric emptying to the duodenum's capacity to digest and absorb.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (enterogastric reflex), 2023 INI-CET (CCK)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2021 NEET-PG (enterogastric reflex), 2023 INI-CET (CCK)"
+    }
+  },
+  {
+    "id": "phys_q_144",
+    "questionNumber": 144,
+    "subject": "Physiology",
+    "subTopic": "Gastrointestinal System",
+    "sub_topic": "Gastrointestinal System",
+    "stem": "Arrange the events of vomiting in sequence.\n1. Antiperistalsis carrying small-intestinal contents back into the stomach\n2. Deep inspiration with closure of the glottis and elevation of the soft palate\n3. Strong contraction of the diaphragm and abdominal muscles\n4. Relaxation of the lower oesophageal sphincter and expulsion",
+    "options": [
+      "1 → 2 → 3 → 4",
+      "2 → 1 → 3 → 4",
+      "1 → 3 → 2 → 4",
+      "2 → 3 → 1 → 4"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Antiperistalsis may begin minutes before vomiting (Guyton). The closed glottis and raised palate protect the airway and nasopharynx while abdominal squeezing provides the expulsive force. The vomiting centre is in the medulla, with the chemoreceptor trigger zone in the area postrema.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (arrange events during vomiting)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal System",
+      "basedOn": "2020 INI-CET (arrange events during vomiting)"
+    }
+  },
+  {
+    "id": "phys_q_145",
+    "questionNumber": 145,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "During isotonic shortening of a skeletal muscle fibre, which part of the sarcomere stays the SAME length?",
+    "options": [
+      "I band",
+      "A band",
+      "H zone",
+      "Distance between Z lines"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The A band equals the length of the thick filaments, which do not shorten; the thin filaments slide over them. The I band and H zone narrow. From the edge to the centre of a sarcomere: Z line → I band → A band → H zone → M line.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (arrange sarcomere parts), 2018 AIIMS (lighter area — I band)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Muscle Physiology",
+      "basedOn": "2021 INI-CET (arrange sarcomere parts), 2018 AIIMS (lighter area — I band)"
+    }
+  },
+  {
+    "id": "phys_q_146",
+    "questionNumber": 146,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "Starting from the rigor (attached) state, arrange the steps of the cross-bridge cycle.\n1. Hydrolysis of ATP re-cocks the myosin head\n2. Release of Pᵢ triggers the power stroke\n3. ATP binds the myosin head, which detaches from actin\n4. Release of ADP returns the head to the rigor state",
+    "options": [
+      "1 → 3 → 2 → 4",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 2 → 4",
+      "2 → 3 → 1 → 4"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Detachment needs ATP binding, not hydrolysis. Without ATP the heads stay locked to actin, which is rigor mortis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (detachment of myosin head — ATP binding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Muscle Physiology",
+      "basedOn": "2020 INI-CET (detachment of myosin head — ATP binding)"
+    }
+  },
+  {
+    "id": "phys_q_147",
+    "questionNumber": 147,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "Vascular smooth muscle maintains tone for long periods using very little ATP because of",
+    "options": [
+      "The latch-bridge state, in which dephosphorylated myosin stays attached to actin",
+      "Tetanic fusion",
+      "Phosphocreatine stores",
+      "Lack of myosin ATPase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Myosin light-chain phosphatase dephosphorylates attached cross-bridges, which then detach very slowly, so force is kept with little cycling. In smooth muscle, Ca²⁺–calmodulin activates myosin light-chain kinase (there is no troponin).",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (latch-bridge mechanism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Muscle Physiology",
+      "basedOn": "2018 AIIMS (latch-bridge mechanism)"
+    }
+  },
+  {
+    "id": "phys_q_148",
+    "questionNumber": 148,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "An isolated skeletal muscle keeps contracting for a while in a Ca²⁺-free bath, whereas cardiac muscle stops almost at once. The reason is that in skeletal muscle",
+    "options": [
+      "Troponin binds Mg²⁺ instead of Ca²⁺",
+      "Ca²⁺ is not needed for contraction",
+      "Ca²⁺-induced Ca²⁺ release is stronger",
+      "The dihydropyridine receptor acts as a voltage sensor mechanically linked to RyR1, releasing Ca²⁺ from the SR without needing extracellular Ca²⁺"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In cardiac muscle, Ca²⁺ entering through L-type channels triggers RyR2 (Ca²⁺-induced Ca²⁺ release), so extracellular Ca²⁺ is essential.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — extracellular Ca²⁺ not important for skeletal contraction), 2023 INI-CET (latent period — excitation–contraction coupling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Muscle Physiology",
+      "basedOn": "2022 INI-CET (match — extracellular Ca²⁺ not important for skeletal contraction), 2023 INI-CET (latent period — excitation–contraction coupling)"
+    }
+  },
+  {
+    "id": "phys_q_149",
+    "questionNumber": 149,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "Shortly after halothane and succinylcholine are given, a patient develops muscle rigidity, rising end-tidal CO₂ and hyperthermia. The defective protein is most commonly",
+    "options": [
+      "The dystrophin complex",
+      "Ryanodine receptor 1 (RyR1)",
+      "Acetylcholinesterase",
+      "The skeletal muscle Na⁺ channel"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is malignant hyperthermia. A mutant RyR1 lets Ca²⁺ leak uncontrollably from the SR, driving continuous contraction and hypermetabolism. Dantrolene blocks RyR1.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (skeletal muscle Ca²⁺ release), 2016 AIIMS (energy for exercising muscle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Muscle Physiology",
+      "basedOn": "2022 INI-CET (skeletal muscle Ca²⁺ release), 2016 AIIMS (energy for exercising muscle)"
+    }
+  },
+  {
+    "id": "phys_q_150",
+    "questionNumber": 150,
+    "subject": "Physiology",
+    "subTopic": "Muscle Physiology",
+    "sub_topic": "Muscle Physiology",
+    "stem": "As the force of a voluntary contraction is gradually increased, motor units are recruited",
+    "options": [
+      "From the smallest (slow, fatigue-resistant) to the largest (fast, fatigable)",
+      "From the largest to the smallest",
+      "At random",
+      "All at once, with force graded only by firing rate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is Henneman's size principle: small motor neurons have high input resistance and reach threshold first. Force is graded by both recruitment and rate coding. For the first few seconds of intense effort, ATP is regenerated from phosphocreatine.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (spindle innervation), 2016 AIIMS (phosphocreatine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Muscle Physiology",
+      "basedOn": "2024 INI-CET (spindle innervation), 2016 AIIMS (phosphocreatine)"
+    }
+  }
+]

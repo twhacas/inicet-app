@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "psm_q_1",
+    "questionNumber": 1,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Which of the following is a measure of DISPERSION rather than of central tendency?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Standard deviation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Measures of central tendency are mean, median and mode. Measures of dispersion are range, variance, standard deviation, coefficient of variation and interquartile range. Percentiles and quartiles are measures of location (position).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mean and median are measures of dispersion — false), 2024 INI-CET (centiles and quartiles — measure of location)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET (mean and median are measures of dispersion — false), 2024 INI-CET (centiles and quartiles — measure of location)"
+    }
+  },
+  {
+    "id": "psm_q_2",
+    "questionNumber": 2,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The measure of central tendency LEAST affected by extreme values is the",
+    "options": [
+      "Mean",
+      "Geometric mean",
+      "Standard deviation",
+      "Mode"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The mode depends only on the commonest value. The median is also resistant and is preferred for skewed data such as income or length of stay, while the mean is pulled towards the tail.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (mode is least affected by extreme values)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (mode is least affected by extreme values)"
+    }
+  },
+  {
+    "id": "psm_q_3",
+    "questionNumber": 3,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The ages of eight patients are 2, 3, 4, 4, 5, 6, 7 and 8 years. The median is",
+    "options": [
+      "4.5 years",
+      "4 years",
+      "5 years",
+      "4.875 years"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "With an even number of observations the median is the average of the two middle values after ordering: (4 + 5)/2 = 4.5. The mode here is 4 and the mean is 4.875.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (median age of 2,3,5,4,4,7,8,6)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 NEET-PG (median age of 2,3,5,4,4,7,8,6)"
+    }
+  },
+  {
+    "id": "psm_q_4",
+    "questionNumber": 4,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Standard deviation is calculated using which formula concept?",
+    "options": [
+      "The arithmetic mean of the deviations",
+      "The root mean square of the deviations from the mean",
+      "The range divided by four",
+      "The difference between quartiles"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Deviations are squared (so they do not cancel), averaged, and the square root taken, which returns the result to the original units. Variance is the square of the standard deviation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (root mean square formula — standard deviation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (root mean square formula — standard deviation)"
+    }
+  },
+  {
+    "id": "psm_q_5",
+    "questionNumber": 5,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Two datasets measure blood pressure and vitamin D. To compare which is more variable when the units differ, the appropriate measure is the",
+    "options": [
+      "Standard deviation",
+      "Variance",
+      "Coefficient of variation",
+      "Standard error"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "CV = (SD ÷ mean) × 100, which is unitless and therefore comparable across variables with different units or very different means. Comparing raw standard deviations across different units is invalid.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (variation compared with another dataset — coefficient of variation), 2024 INI-CET (BP and vitamin D variance comparison)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 NEET-PG (variation compared with another dataset — coefficient of variation), 2024 INI-CET (BP and vitamin D variance comparison)"
+    }
+  },
+  {
+    "id": "psm_q_6",
+    "questionNumber": 6,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a normal distribution the mean, median and mode",
+    "options": [
+      "Are all zero in every case",
+      "Differ by one standard deviation",
+      "Are all equal, and the curve is symmetrical about them",
+      "Cannot be compared"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In the **standard** normal distribution the mean is 0 and the standard deviation is 1, but that is a special case; a general normal curve has any mean. The total area under the curve is 1.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (normal distribution curve — SD 1, AUC 1, mean median mode 0, bell shaped)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (normal distribution curve — SD 1, AUC 1, mean median mode 0, bell shaped)"
+    }
+  },
+  {
+    "id": "psm_q_7",
+    "questionNumber": 7,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a normal distribution with a mean of 200 and a standard deviation of 20, approximately 95% of values lie between",
+    "options": [
+      "180 and 220",
+      "160 and 240",
+      "140 and 260",
+      "190 and 210"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mean ± 1 SD covers 68.3%, ± 2 SD covers 95.4% and ± 3 SD covers 99.7%. The precise 95% limits are ± 1.96 SD. The 2023 question asked the 68% range, which is 180–220.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (median 200, SD 20 — 68% between 180 and 220), 2022 INI-CET (mean ± 1 SD = 68.3%)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 NEET-PG (median 200, SD 20 — 68% between 180 and 220), 2022 INI-CET (mean ± 1 SD = 68.3%)"
+    }
+  },
+  {
+    "id": "psm_q_8",
+    "questionNumber": 8,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The standard error of the mean",
+    "options": [
+      "Increases as the sample size increases",
+      "Is independent of sample size",
+      "Is inversely proportional to the square root of the sample size",
+      "Equals the standard deviation"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "SEM = SD ÷ √n, so quadrupling the sample halves the standard error. Note that it is inverse to the **square root** of n, not to n itself, which makes the 2024 statement imprecise as written.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (standard error is inverse of sample size — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET (standard error is inverse of sample size — true)"
+    }
+  },
+  {
+    "id": "psm_q_9",
+    "questionNumber": 9,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A researcher takes every possible sample from a population and plots the means. The resulting distribution is the",
+    "options": [
+      "Poisson distribution",
+      "Population distribution",
+      "Binomial distribution",
+      "Sampling distribution of the mean"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "By the central limit theorem it approaches normality as sample size grows, even when the underlying population is not normal. Its standard deviation is the standard error.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (all possible samples plotted — sampling distribution, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (all possible samples plotted — sampling distribution, 3X)"
+    }
+  },
+  {
+    "id": "psm_q_10",
+    "questionNumber": 10,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Rejecting the null hypothesis when it is in fact true is",
+    "options": [
+      "Type I (alpha) error",
+      "Type II (beta) error",
+      "Power",
+      "Confounding"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A type I error is a false positive conclusion — finding an association that does not exist. A type II error is failing to detect a real association, and power is 1 − beta, conventionally set at 80% or more.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (significant correlation where none truly exists — type I error, 4X), 2022 INI-CET (incorrectly rejecting null hypothesis)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (significant correlation where none truly exists — type I error, 4X), 2022 INI-CET (incorrectly rejecting null hypothesis)"
+    }
+  },
+  {
+    "id": "psm_q_11",
+    "questionNumber": 11,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A trial comparing a new drug with an old drug reports a p value of 0.4. The correct interpretation is that",
+    "options": [
+      "The drugs are proven equally effective",
+      "The new drug is better",
+      "The study had a type I error",
+      "There is insufficient evidence of a difference, which is not the same as proving equivalence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Absence of evidence is not evidence of absence. Demonstrating equivalence requires a formally designed equivalence or non-inferiority trial with a predefined margin, not a non-significant superiority test.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (new drug as effective as old, p = 0.4 — insufficient data to comment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2022 NEET-PG (new drug as effective as old, p = 0.4 — insufficient data to comment)"
+    }
+  },
+  {
+    "id": "psm_q_12",
+    "questionNumber": 12,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A 95% confidence interval for a relative risk that includes the value 1 means the result is",
+    "options": [
+      "Statistically significant",
+      "Not statistically significant at the 5% level",
+      "Clinically important",
+      "Affected by a type II error only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The null value is 1 for ratios (relative risk, odds ratio) and 0 for differences (risk difference, mean difference). A confidence interval also conveys precision, which a p value alone does not.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (confidence limits touching the null value — becomes insignificant, true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (confidence limits touching the null value — becomes insignificant, true)"
+    }
+  },
+  {
+    "id": "psm_q_13",
+    "questionNumber": 13,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Which test is used to assess whether continuous data are normally distributed?",
+    "options": [
+      "Mantel–Haenszel test",
+      "Chi-square test",
+      "Shapiro–Wilk test",
+      "McNemar test"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Normality is also assessed graphically with a histogram, Q-Q plot or box-and-whisker plot. The Mantel–Haenszel test pools stratified categorical data and adjusts for confounding; it does not test normality.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (normalcy of data — box whisker, histogram, Shapiro–Wilk, not Mantel–Haenszel)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (normalcy of data — box whisker, histogram, Shapiro–Wilk, not Mantel–Haenszel)"
+    }
+  },
+  {
+    "id": "psm_q_14",
+    "questionNumber": 14,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The chi-square test CANNOT be used to analyse the relationship between",
+    "options": [
+      "Smoking status and lung cancer",
+      "Blood group and disease occurrence",
+      "Heart rate in beats per minute and age in years",
+      "Sex and vaccination uptake"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Chi-square requires both variables to be categorical. Two continuous variables are analysed by correlation or regression. Chi-square also needs expected cell counts of at least 5, otherwise Fisher exact test is used.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (chi-square cannot analyse heart rate and age — quantitative data)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (chi-square cannot analyse heart rate and age — quantitative data)"
+    }
+  },
+  {
+    "id": "psm_q_15",
+    "questionNumber": 15,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Two scatter diagrams are drawn. Graph A shows points clustered tightly along a line and Graph B shows widely scattered points. Correlation is stronger in",
+    "options": [
+      "Graph A",
+      "Graph B",
+      "Both equally",
+      "Cannot be determined from scatter alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Less scatter about the line means a correlation coefficient closer to +1 or −1. The scatter plot is also the standard way of detecting a non-linear relationship, which a correlation coefficient alone would miss.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (less scattering — correlation more in Graph A, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (less scattering — correlation more in Graph A, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_16",
+    "questionNumber": 16,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Two radiologists independently report 100 radiographs, and the kappa value is 0.71. This indicates",
+    "options": [
+      "Poor agreement",
+      "Slight agreement",
+      "Substantial (good) agreement",
+      "Perfect agreement"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Landis and Koch: below 0.20 poor, 0.21–0.40 fair, 0.41–0.60 moderate, 0.61–0.80 substantial, above 0.80 almost perfect. Kappa measures agreement **beyond chance**, which is why it is preferred to raw percentage agreement.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (kappa 0.71 — good interpretation), 2024 INI-CET (degree of agreement calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (kappa 0.71 — good interpretation), 2024 INI-CET (degree of agreement calculation)"
+    }
+  },
+  {
+    "id": "psm_q_17",
+    "questionNumber": 17,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Of 1000 people screened, 50 are truly diseased. A test is positive in 40 of the diseased and in 100 of the non-diseased. The sensitivity is",
+    "options": [
+      "29%",
+      "89%",
+      "40%",
+      "80%"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sensitivity = true positives ÷ all diseased = 40/50 = 80%. Specificity = 850/950 ≈ 89%. Keeping the denominators straight — disease status for sensitivity and specificity, test result for predictive values — is the whole skill here.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2017 AIIMS (screening test sensitivity calculation, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 NEET-PG / 2017 AIIMS (screening test sensitivity calculation, 3X)"
+    }
+  },
+  {
+    "id": "psm_q_18",
+    "questionNumber": 18,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A test has sensitivity 50%, specificity 90%, and is applied to 1000 people with a disease prevalence of 20%. The positive predictive value is about",
+    "options": [
+      "50%",
+      "56%",
+      "90%",
+      "20%"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Diseased = 200, so true positives = 100. Non-diseased = 800, so false positives = 80. PPV = 100 ÷ 180 ≈ 56%. PPV is the predictive measure most sensitive to prevalence, which is why screening a low-prevalence population yields many false positives.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sensitivity 50%, specificity 90%, prevalence 20% — PPV 56%), 2022 INI-CET (most affected by prevalence — PPV)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (sensitivity 50%, specificity 90%, prevalence 20% — PPV 56%), 2022 INI-CET (most affected by prevalence — PPV)"
+    }
+  },
+  {
+    "id": "psm_q_19",
+    "questionNumber": 19,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Using two tests in SERIES (both must be positive to call the result positive) results in",
+    "options": [
+      "Increased sensitivity and decreased specificity",
+      "Decreased sensitivity and increased specificity",
+      "Both increased",
+      "Both decreased"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Series testing raises the bar, so fewer false positives but more false negatives. Tests in **parallel** (either positive counts as positive) do the opposite, raising sensitivity at the cost of specificity.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (test in series — decreased sensitivity, increased specificity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (test in series — decreased sensitivity, increased specificity)"
+    }
+  },
+  {
+    "id": "psm_q_20",
+    "questionNumber": 20,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "With the old treatment 36 of 120 patients die, and with the new treatment 26 of 130 die. The number needed to treat to prevent one death is",
+    "options": [
+      "15",
+      "20",
+      "5",
+      "10"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Old risk = 36/120 = 0.30; new risk = 26/130 = 0.20. Absolute risk reduction = 0.10, and NNT = 1 ÷ ARR = 10. NNT must always be derived from the **absolute**, never the relative, risk reduction.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (36/120 versus 26/130 — how many to treat to avert one death)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (36/120 versus 26/130 — how many to treat to avert one death)"
+    }
+  },
+  {
+    "id": "psm_q_21",
+    "questionNumber": 21,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a trial, 10 of 200 patients given an antibiotic develop pneumonia, compared with 15 of 200 given placebo. The relative risk is",
+    "options": [
+      "0.67",
+      "1.5",
+      "0.05",
+      "0.025"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "RR = (10/200) ÷ (15/200) = 0.05 ÷ 0.075 = 0.67, a 33% relative risk reduction. The odds ratio here would be (10/190) ÷ (15/185) ≈ 0.65, close to the RR because the outcome is uncommon.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET (200 given antibiotics with 10 VAP versus 200 placebo with 15 VAP — OR and RR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2023 INI-CET (200 given antibiotics with 10 VAP versus 200 placebo with 15 VAP — OR and RR)"
+    }
+  },
+  {
+    "id": "psm_q_22",
+    "questionNumber": 22,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The odds ratio approximates the relative risk when",
+    "options": [
+      "The sample is large",
+      "The outcome is rare in the population studied",
+      "The study is randomised",
+      "The exposure is rare"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is why the odds ratio is an acceptable estimate of relative risk in case-control studies of uncommon diseases. When the outcome is common, the odds ratio exaggerates the relative risk.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET (OR and RR calculation from a 2 × 2 table)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2023 INI-CET (OR and RR calculation from a 2 × 2 table)"
+    }
+  },
+  {
+    "id": "psm_q_23",
+    "questionNumber": 23,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The best diagram to show the change in incidence of a disease over a period of time is a",
+    "options": [
+      "Pie chart",
+      "Histogram",
+      "Line diagram",
+      "Pictogram"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Line diagrams show trends over time. Histograms show the distribution of continuous data, bar charts compare discrete categories, pie charts show proportions of a whole, and scatter diagrams show the relationship between two quantitative variables.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (change in incidence over time — line diagram)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (change in incidence over time — line diagram)"
+    }
+  },
+  {
+    "id": "psm_q_24",
+    "questionNumber": 24,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A diagram in which several bars each divided into coloured segments compare the composition of groups is a",
+    "options": [
+      "Frequency polygon",
+      "Histogram",
+      "Component (stacked) bar chart",
+      "Scatter diagram"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Bars in a bar chart are separated by gaps because the categories are discrete; histogram bars touch because the variable is continuous. That distinction is itself a favourite question.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (multiple bars each divided into components — component bar chart)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 NEET-PG (multiple bars each divided into components — component bar chart)"
+    }
+  },
+  {
+    "id": "psm_q_25",
+    "questionNumber": 25,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "A cause-and-effect diagram used in qualitative analysis of a health problem, grouping contributing factors into branches, is the",
+    "options": [
+      "Venn diagram",
+      "Pareto chart",
+      "Gantt chart",
+      "Ishikawa (fish-bone) diagram"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is a quality-improvement tool for root-cause analysis. A Pareto chart ranks causes by frequency to identify the few that matter most, and a Gantt chart schedules activities against time.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (qualitative study of health problems — Ishikawa/fish-bone diagram)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (qualitative study of health problems — Ishikawa/fish-bone diagram)"
+    }
+  },
+  {
+    "id": "psm_q_26",
+    "questionNumber": 26,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Statistically combining the quantitative results of several studies into a single pooled estimate is",
+    "options": [
+      "Meta-analysis",
+      "A systematic review without pooling",
+      "A narrative review",
+      "Sensitivity analysis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A systematic review is the structured search and appraisal; meta-analysis is the optional statistical pooling step. A systematic review with meta-analysis sits at the top of the hierarchy of evidence, above the individual randomised trial.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (integrating discrete quantitative data with statistical tests — meta-analysis), 2024 INI-CET / 2020 INI-CET (best in hierarchy of evidence — meta-analysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (integrating discrete quantitative data with statistical tests — meta-analysis), 2024 INI-CET / 2020 INI-CET (best in hierarchy of evidence — meta-analysis)"
+    }
+  },
+  {
+    "id": "psm_q_27",
+    "questionNumber": 27,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a forest plot of a meta-analysis, the size of each square (box) represents",
+    "options": [
+      "The weight of that study, usually its sample size or inverse variance",
+      "The p value of that study",
+      "The risk of bias",
+      "The publication year"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The horizontal line is the confidence interval and the diamond is the pooled estimate. A funnel plot, by contrast, is used to look for publication bias, and asymmetry suggests small negative studies are missing.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2020 INI-CET (hierarchy of evidence — meta-analysis), 2022 INI-CET (meta-analysis definition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2020 INI-CET (hierarchy of evidence — meta-analysis), 2022 INI-CET (meta-analysis definition)"
+    }
+  },
+  {
+    "id": "psm_q_28",
+    "questionNumber": 28,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Arrange the steps of designing a research study in the correct sequence.\n1. Selecting the study setting and population\n2. Framing the research objective\n3. Choosing the study design\n4. Formulating the research question",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "4 → 2 → 3 → 1",
+      "1 → 4 → 2 → 3"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The question comes first, then objectives, then the setting and population in which they will be answered, and finally the design and methods. Sample size calculation and the analysis plan follow, before any data are collected.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (arrange — setting research question, objective, study setting, design)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (arrange — setting research question, objective, study setting, design)"
+    }
+  },
+  {
+    "id": "psm_q_29",
+    "questionNumber": 29,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a double-blind trial",
+    "options": [
+      "Only the participants are unaware of the allocation",
+      "Only the investigators are unaware",
+      "Both participants and investigators assessing outcomes are unaware",
+      "Nobody is aware, including the data analyst"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Double blinding is the ideal because it minimises both performance and assessment bias. Triple blinding extends it to the analyst or data monitoring committee. Where blinding is impossible, blinded outcome assessment is still attempted.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (double blinding — subject and investigator blind), 2023 INI-CET (ideal way of blinding — double blinding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET (double blinding — subject and investigator blind), 2023 INI-CET (ideal way of blinding — double blinding)"
+    }
+  },
+  {
+    "id": "psm_q_30",
+    "questionNumber": 30,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The purpose of randomisation in a controlled trial is to",
+    "options": [
+      "Guarantee equal group sizes",
+      "Distribute known and unknown confounders equally between groups",
+      "Eliminate measurement error",
+      "Ensure blinding"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is randomisation's unique strength — no observational method can balance **unknown** confounders. Confounding can also be reduced by matching, restriction, stratification and, at analysis, multivariable adjustment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (confounding decreased by matching, randomisation, restriction, stratification, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (confounding decreased by matching, randomisation, restriction, stratification, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_31",
+    "questionNumber": 31,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The strongest level in the hierarchy of evidence for a question of treatment effectiveness is",
+    "options": [
+      "A cohort study",
+      "A single large randomised controlled trial",
+      "Expert opinion",
+      "A well-conducted systematic review with meta-analysis of randomised trials"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The order below it is randomised trial, cohort, case-control, cross-sectional, case series and finally expert opinion. The hierarchy applies to effectiveness questions; for prognosis or rare harms other designs may be more appropriate.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET / 2020 INI-CET (best in hierarchy of evidence — meta-analysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2024 INI-CET / 2023 INI-CET / 2020 INI-CET (best in hierarchy of evidence — meta-analysis)"
+    }
+  },
+  {
+    "id": "psm_q_32",
+    "questionNumber": 32,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "The phase of a clinical trial that first establishes efficacy against a comparator in a large multicentre population is",
+    "options": [
+      "Phase 1",
+      "Phase 2",
+      "Phase 3",
+      "Phase 4"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Phase 1 tests safety and pharmacokinetics in a small number of volunteers, phase 2 explores efficacy and dose in a few hundred patients, and phase 4 is post-marketing surveillance which detects rare adverse effects after licensing.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG pharmacology (phase 3 trial, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG pharmacology (phase 3 trial, 3X)"
+    }
+  },
+  {
+    "id": "psm_q_33",
+    "questionNumber": 33,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "In a PHC, 40 patients need amlodipine and 10 need lisinopril each month, and supplies arrive monthly. Ordering with a reorder factor of 2 means holding",
+    "options": [
+      "One month's stock only",
+      "Twice the monthly consumption, to cover lead time and buffer",
+      "Half a month's stock",
+      "A year's stock"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The reorder level allows for consumption during the lead time plus a safety buffer, so that stock does not run out before the next delivery. Underestimating it is the commonest cause of stock-outs at peripheral facilities.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (PHC drug ordering — 3000 and reorder factor 2)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Biostatistics",
+      "basedOn": "2023 INI-CET (PHC drug ordering — 3000 and reorder factor 2)"
+    }
+  },
+  {
+    "id": "psm_q_34",
+    "questionNumber": 34,
+    "subject": "PSM",
+    "subTopic": "Biostatistics",
+    "sub_topic": "Biostatistics",
+    "stem": "Descriptive statistics, as distinct from inferential statistics, are concerned with",
+    "options": [
+      "Calculating p values",
+      "Testing hypotheses about a population",
+      "Estimating confidence intervals",
+      "Summarising and presenting the data actually collected"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Descriptive statistics cover measures of central tendency, dispersion and graphical display. Inferential statistics generalise from sample to population through estimation and hypothesis testing.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (methods to describe collection of data — descriptive statistics)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biostatistics",
+      "basedOn": "2022 INI-CET (methods to describe collection of data — descriptive statistics)"
+    }
+  },
+  {
+    "id": "psm_q_35",
+    "questionNumber": 35,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "A longitudinal, observational, analytical study that follows exposed and unexposed groups forward in time is a",
+    "options": [
+      "Cohort study",
+      "Case-control study",
+      "Cross-sectional study",
+      "Ecological study"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It measures incidence and therefore yields relative risk and attributable risk directly. It is the design of choice for rare exposures and for studying multiple outcomes of one exposure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET (longitudinal, follow-up, observational, analytical — cohort study, asked repeatedly)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET / 2023 INI-CET (longitudinal, follow-up, observational, analytical — cohort study, asked repeatedly)"
+    }
+  },
+  {
+    "id": "psm_q_36",
+    "questionNumber": 36,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "To study the circadian variation of fat content in the expressed milk of mothers of preterm infants, the appropriate design is a",
+    "options": [
+      "Prospective cohort study",
+      "Case-control study",
+      "Randomised controlled trial",
+      "Ecological study"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Repeated measurement over time in a defined group with no assigned intervention is longitudinal observation. A trial would require allocating an exposure, which is neither possible nor relevant here.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (circadian variation of milk fat — prospective cohort, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (circadian variation of milk fat — prospective cohort, 3X)"
+    }
+  },
+  {
+    "id": "psm_q_37",
+    "questionNumber": 37,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The design in which each case serves as his or her own control, comparing a period just before an event with an earlier period, is a",
+    "options": [
+      "Nested case-control study",
+      "Case-crossover study",
+      "Case series",
+      "Matched case-control study"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Because the person is their own control, all stable individual characteristics are automatically controlled. It suits transient exposures with short-term effects, such as a drug taken hours before a myocardial infarction.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (case is his own control — case-crossover study)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (case is his own control — case-crossover study)"
+    }
+  },
+  {
+    "id": "psm_q_38",
+    "questionNumber": 38,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "A researcher compares hospital records of COPD cases with smoking data from taxation records at the district level. This is",
+    "options": [
+      "A case-control study",
+      "A cohort study",
+      "An ecological study",
+      "A cross-sectional study"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Exposure and outcome are measured at group rather than individual level. Its weakness is the ecological fallacy: a group-level association may not hold for individuals. It is cheap and useful for generating hypotheses.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (hospital and taxation records for COPD and smoking — ecological study)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 NEET-PG (hospital and taxation records for COPD and smoking — ecological study)"
+    }
+  },
+  {
+    "id": "psm_q_39",
+    "questionNumber": 39,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "In a case-control study of childhood leukaemia suspected to be caused by a chemical in the water supply, the most appropriate controls are",
+    "options": [
+      "Healthy children from a distant unexposed community",
+      "Children from the same community without leukaemia, with the same opportunity for exposure",
+      "Children with other cancers from a referral hospital",
+      "Adults from the same community"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Controls must come from the same source population as the cases so that they represent the exposure distribution of the population that produced the cases. Choosing unexposed controls would guarantee a spurious association.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (controls in case-control study of ALL and water chemical)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2023 NEET-PG (controls in case-control study of ALL and water chemical)"
+    }
+  },
+  {
+    "id": "psm_q_40",
+    "questionNumber": 40,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Which measure can be obtained from a case-control study but NOT from it directly?",
+    "options": [
+      "Odds ratio",
+      "Incidence of disease in the exposed",
+      "Exposure frequency in cases",
+      "Exposure frequency in controls"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Because sampling is based on disease status, incidence and therefore relative risk and attributable risk cannot be measured. A cohort study provides those. The odds ratio is the case-control measure of association.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cohort study definition), 2023 NEET-PG (case-control controls)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (cohort study definition), 2023 NEET-PG (case-control controls)"
+    }
+  },
+  {
+    "id": "psm_q_41",
+    "questionNumber": 41,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "A study that measures exposure and disease at the same point in time yields",
+    "options": [
+      "Number needed to treat",
+      "Incidence and relative risk",
+      "Attributable risk",
+      "Prevalence, and cannot establish temporality"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A cross-sectional (prevalence) survey is quick and useful for planning services, but cannot say which came first. It is subject to length-bias: cases of long duration are over-represented.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cohort study), 2023 NEET-PG (study designs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (cohort study), 2023 NEET-PG (study designs)"
+    }
+  },
+  {
+    "id": "psm_q_42",
+    "questionNumber": 42,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Prevalence of a chronic disease will INCREASE if",
+    "options": [
+      "Treatment prolongs survival without curing",
+      "Case fatality rises",
+      "Incidence falls",
+      "Patients emigrate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prevalence is approximately incidence × duration. Effective treatment that cures reduces prevalence, while treatment that merely prolongs life increases it — the pattern seen with antiretroviral therapy for HIV.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (prevalence and PPV), 2024 INI-CET (incidence trends)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2022 INI-CET (prevalence and PPV), 2024 INI-CET (incidence trends)"
+    }
+  },
+  {
+    "id": "psm_q_43",
+    "questionNumber": 43,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "A test with very high SENSITIVITY is most useful to",
+    "options": [
+      "Rule out disease when the result is negative",
+      "Confirm disease when the result is positive",
+      "Estimate prevalence",
+      "Measure incidence"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "\"SnNout\": a sensitive test, when negative, rules out. A highly specific test, when positive, rules in (\"SpPin\"). *The 2022 key, which states that a highly sensitive positive result means the patient has the disease, reverses this.*",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2017 AIIMS (sensitivity very high means if positive the patient has disease, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2022 NEET-PG / 2017 AIIMS (sensitivity very high means if positive the patient has disease, 3X)"
+    }
+  },
+  {
+    "id": "psm_q_44",
+    "questionNumber": 44,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Screening offered only to family members of patients with hypertension and diabetes is",
+    "options": [
+      "Mass screening",
+      "Selective (targeted) screening",
+      "Opportunistic screening",
+      "Multiphasic screening"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Targeting a high-risk group raises the pre-test probability and therefore the positive predictive value. Multiphasic screening applies several tests at one visit; opportunistic screening is done when a person attends for another reason.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (screening family members of hypertensives and diabetics — selective screening)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (screening family members of hypertensives and diabetics — selective screening)"
+    }
+  },
+  {
+    "id": "psm_q_45",
+    "questionNumber": 45,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Arrange the stages of the natural history of disease in order.\n1. Clinical disease\n2. Susceptibility (pre-pathogenesis)\n3. Subclinical (presymptomatic) disease\n4. Onset of symptoms",
+    "options": [
+      "2 → 4 → 3 → 1",
+      "2 → 3 → 4 → 1",
+      "3 → 2 → 4 → 1",
+      "2 → 3 → 1 → 4"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Screening acts in the subclinical phase, between the point at which the disease is detectable and the onset of symptoms — the detectable pre-clinical phase. A longer such phase makes a disease more suitable for screening.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (complete the sequence — subclinical disease, onset of symptoms, clinical disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (complete the sequence — subclinical disease, onset of symptoms, clinical disease)"
+    }
+  },
+  {
+    "id": "psm_q_46",
+    "questionNumber": 46,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Lead time bias in a screening programme means that",
+    "options": [
+      "Volunteers are healthier than non-volunteers",
+      "Slowly growing tumours are over-detected",
+      "Survival appears longer only because diagnosis was made earlier, without any change in the date of death",
+      "The test is poorly reproducible"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Length bias is the over-detection of slowly progressive disease, and healthy-volunteer bias is the self-selection of fitter participants. All three make screening look better than it is, so mortality, not survival, is the correct outcome measure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (selective screening), 2023 INI-CET (screening programmes for breast and cervical cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (selective screening), 2023 INI-CET (screening programmes for breast and cervical cancer)"
+    }
+  },
+  {
+    "id": "psm_q_47",
+    "questionNumber": 47,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Recommended population screening in India includes",
+    "options": [
+      "Mammography for women under 30 and PSA for all men",
+      "Visual inspection with acetic acid or Pap smear for cervical cancer, and clinical breast examination",
+      "Chest radiography for all adults",
+      "CT colonography for all over 40"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Under the national NCD programme, screening for the three common cancers (oral, breast, cervical) begins at age 30 and uses low-cost tests feasible at peripheral level. Mammography is not used for population screening in India.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (breast and cervical cancer screening — mammography over 40 and Pap smear)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 INI-CET (breast and cervical cancer screening — mammography over 40 and Pap smear)"
+    }
+  },
+  {
+    "id": "psm_q_48",
+    "questionNumber": 48,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The incubation period of a disease ranges from 2 to 14 days with a median of 10 days. The quarantine period should be",
+    "options": [
+      "10 days",
+      "12 days",
+      "21 days",
+      "14 days"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Quarantine is based on the **maximum** incubation period, counted from the last exposure, because a contact may still become infectious at the extreme of the range. Isolation, by contrast, applies to a case and lasts through the period of communicability.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (incubation 2–14 days, median 10 — quarantine 14 days)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 NEET-PG (incubation 2–14 days, median 10 — quarantine 14 days)"
+    }
+  },
+  {
+    "id": "psm_q_49",
+    "questionNumber": 49,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The difference between isolation and quarantine is that quarantine applies to",
+    "options": [
+      "The environment",
+      "Confirmed cases",
+      "Carriers only",
+      "Apparently well contacts who may be incubating the infection"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Isolation separates a known case to prevent transmission. The distinction became widely familiar during COVID-19 and is regularly examined.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (quarantine period), 2023 NEET-PG (isolate for 6 days in chickenpox)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 NEET-PG (quarantine period), 2023 NEET-PG (isolate for 6 days in chickenpox)"
+    }
+  },
+  {
+    "id": "psm_q_50",
+    "questionNumber": 50,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Health education about hand washing is an example of",
+    "options": [
+      "Health promotion",
+      "Specific protection",
+      "Early diagnosis and treatment",
+      "Disability limitation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Both belong to primary prevention, but health promotion is non-specific (education, nutrition, sanitation, lifestyle), while specific protection is directed at one agent (immunisation, chemoprophylaxis, fortification, protective equipment).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hand washing education as specific protection — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2022 INI-CET (hand washing education as specific protection — false)"
+    }
+  },
+  {
+    "id": "psm_q_51",
+    "questionNumber": 51,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Rehabilitation of a patient after a stroke is which level of prevention?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Primordial"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Tertiary prevention comprises disability limitation and rehabilitation. Primordial prevention acts before risk factors appear, typically through policy and childhood habits — for example preventing the uptake of smoking.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (levels of prevention — health education as specific protection)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2022 INI-CET (levels of prevention — health education as specific protection)"
+    }
+  },
+  {
+    "id": "psm_q_52",
+    "questionNumber": 52,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The components of the Human Development Index are",
+    "options": [
+      "Life expectancy at birth, education and gross national income per capita",
+      "Infant mortality, literacy and life expectancy at age 1",
+      "Maternal mortality, literacy and income",
+      "Birth rate, death rate and growth rate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option B describes the Physical Quality of Life Index, which notably uses life expectancy at age 1 and excludes income altogether — the distinction between the two indices is the point of the question.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 NEET-PG (HDI components), 2023 NEET-PG (PQLI — IMR, literacy, life expectancy at age 1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET / 2022 NEET-PG (HDI components), 2023 NEET-PG (PQLI — IMR, literacy, life expectancy at age 1)"
+    }
+  },
+  {
+    "id": "psm_q_53",
+    "questionNumber": 53,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Standardised mortality ratio adjusts crude death rates for differences in",
+    "options": [
+      "Sex distribution only",
+      "Age structure of the populations compared",
+      "Income",
+      "Geography"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Direct standardisation applies the age-specific rates to a standard population; indirect standardisation gives the SMR. *The 2024 statement describing adjustment to a standard **sex** distribution is therefore false as written.*",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (standardised age mortality ratio adjusted to standard sex distribution — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (standardised age mortality ratio adjusted to standard sex distribution — false)"
+    }
+  },
+  {
+    "id": "psm_q_54",
+    "questionNumber": 54,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Maternal mortality RATIO is expressed as maternal deaths per",
+    "options": [
+      "100,000 women of reproductive age",
+      "1,000 live births",
+      "100,000 live births",
+      "1,000 total births"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Maternal mortality **rate** uses women of reproductive age as the denominator, which is what the 2024 question described. The ratio, with live births as denominator, is the indicator used for international comparison and in SDG reporting.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (maternal deaths ÷ women of reproductive age — maternal mortality rate, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (maternal deaths ÷ women of reproductive age — maternal mortality rate, 4X)"
+    }
+  },
+  {
+    "id": "psm_q_55",
+    "questionNumber": 55,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The infant mortality rate is defined as deaths under 1 year of age per",
+    "options": [
+      "1,000 children under 5",
+      "1,000 mid-year population",
+      "100,000 live births",
+      "1,000 live births in the same year"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Neonatal mortality covers the first 28 days, perinatal mortality combines stillbirths with first-week deaths, and under-5 mortality is expressed per 1,000 live births. IMR is the most sensitive single index of a population's health and development.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (maternal mortality rate formula), 2023 NEET-PG (PQLI includes IMR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (maternal mortality rate formula), 2023 NEET-PG (PQLI includes IMR)"
+    }
+  },
+  {
+    "id": "psm_q_56",
+    "questionNumber": 56,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Which measure is a RATIO rather than a rate?",
+    "options": [
+      "Crude birth rate",
+      "Sex ratio",
+      "Incidence rate",
+      "Case fatality rate"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In a ratio the numerator is not part of the denominator. A rate has the numerator contained in the denominator and includes a time element. A proportion is a ratio expressed as a fraction of the whole.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (maternal mortality rate versus ratio), 2023 NEET-PG (demographic indicators)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (maternal mortality rate versus ratio), 2023 NEET-PG (demographic indicators)"
+    }
+  },
+  {
+    "id": "psm_q_57",
+    "questionNumber": 57,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "Arrange the stages of the demographic cycle in order.\n1. Late expanding\n2. High stationary\n3. Low stationary\n4. Early expanding",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "High stationary has high birth and death rates; early expanding has falling deaths with high births (fastest growth); late expanding has falling births; low stationary has both low. A fifth \"declining\" stage is seen in some developed countries. India is in the late expanding stage.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (sequence of demographic cycle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 NEET-PG (sequence of demographic cycle)"
+    }
+  },
+  {
+    "id": "psm_q_58",
+    "questionNumber": 58,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "A disease occurring at a consistently expected level in a defined geographical area is",
+    "options": [
+      "Epidemic",
+      "Endemic",
+      "Pandemic",
+      "Sporadic"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "An epidemic is occurrence clearly in excess of the expected; a pandemic is an epidemic crossing international boundaries; sporadic cases are scattered and irregular. Hyperendemic means persistently high incidence affecting all age groups.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (incidence over time), 2023 NEET-PG (outbreak investigation concepts)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (incidence over time), 2023 NEET-PG (outbreak investigation concepts)"
+    }
+  },
+  {
+    "id": "psm_q_59",
+    "questionNumber": 59,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "In investigating a food-borne outbreak, the food item most likely responsible is identified by",
+    "options": [
+      "The food with the shortest incubation period",
+      "The food eaten by the largest number of people",
+      "The highest attack rate among those who ate it, together with a low rate among those who did not",
+      "The most expensive item"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A food-specific attack rate table compares both groups, and the difference between the two rates points to the vehicle. An epidemic curve with a single sharp peak indicates a point-source outbreak.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (incidence plotting), 2023 NEET-PG (outbreak study designs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET (incidence plotting), 2023 NEET-PG (outbreak study designs)"
+    }
+  },
+  {
+    "id": "psm_q_60",
+    "questionNumber": 60,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "The incremental cost-effectiveness ratio (ICER) is used in",
+    "options": [
+      "Burden of disease estimation",
+      "Cost-benefit analysis",
+      "Cost minimisation",
+      "Cost-effectiveness analysis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "ICER is the extra cost per extra unit of health gained, often per QALY. Cost-benefit analysis expresses **both** costs and consequences in money. Cost-utility analysis is the variant using QALYs or DALYs.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ICER used in CEA), 2022 NEET-PG (monetary benefit measured in cost-benefit analysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 INI-CET (ICER used in CEA), 2022 NEET-PG (monetary benefit measured in cost-benefit analysis)"
+    }
+  },
+  {
+    "id": "psm_q_61",
+    "questionNumber": 61,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "One DALY represents",
+    "options": [
+      "One year of healthy life lost",
+      "One death averted",
+      "One year of treatment",
+      "One quality-adjusted year gained"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "DALYs combine years of life lost from premature death with years lived with disability, so they measure burden. QALYs measure health gained and are used in economic evaluation of interventions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ICER and CEA), 2022 NEET-PG (cost-benefit analysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Epidemiology",
+      "basedOn": "2023 INI-CET (ICER and CEA), 2022 NEET-PG (cost-benefit analysis)"
+    }
+  },
+  {
+    "id": "psm_q_62",
+    "questionNumber": 62,
+    "subject": "PSM",
+    "subTopic": "Epidemiology",
+    "sub_topic": "Epidemiology",
+    "stem": "In a 2 × 2 table, \"attributable risk percentage\" in the exposed expresses",
+    "options": [
+      "The proportion of disease among the exposed that is due to the exposure",
+      "The proportion of the whole population's disease due to the exposure",
+      "The odds of exposure",
+      "The number needed to treat"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It equals (RR − 1)/RR × 100. The **population** attributable risk uses the population exposure prevalence and guides public health priority, since a weak risk factor that is very common may matter more than a strong rare one.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET (OR and RR from a 2 × 2 table)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Epidemiology",
+      "basedOn": "2024 INI-CET / 2023 INI-CET (OR and RR from a 2 × 2 table)"
+    }
+  },
+  {
+    "id": "psm_q_63",
+    "questionNumber": 63,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "A water-BASED disease, as distinct from a water-borne one, is",
+    "options": [
+      "Hepatitis A",
+      "Cholera",
+      "Typhoid",
+      "Guinea worm disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Water-borne diseases are transmitted by drinking contaminated water (cholera, typhoid, hepatitis A and E). Water-based diseases require an aquatic intermediate host (guinea worm, schistosomiasis). Water-washed diseases relate to scarcity for hygiene, and water-related vector-borne diseases to breeding sites.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (water-based disease — hepatitis A)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (water-based disease — hepatitis A)"
+    }
+  },
+  {
+    "id": "psm_q_64",
+    "questionNumber": 64,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Match each vector with the disease it transmits.\n\n| Vector | Disease |\n|---|---|\n| 1. Culex quinquefasciatus | a. Scrub typhus |\n| 2. Xenopsylla cheopis | b. Bancroftian filariasis and Japanese encephalitis |\n| 3. Trombiculid mite | c. Kala-azar |\n| 4. Phlebotomus argentipes | d. Plague |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ticks transmit *Babesia*, *Anaplasma*, *Ehrlichia* and Crimean–Congo haemorrhagic fever. *Aedes aegypti* transmits dengue, chikungunya, Zika and yellow fever.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tick transmits Babesia, Anaplasma, Ehrlichia), 2023 NEET-PG (buboes — Xenopsylla), 2022 INI-CET (JE — Culex)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 INI-CET (tick transmits Babesia, Anaplasma, Ehrlichia), 2023 NEET-PG (buboes — Xenopsylla), 2022 INI-CET (JE — Culex)"
+    }
+  },
+  {
+    "id": "psm_q_65",
+    "questionNumber": 65,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Mosquito larvae lying PARALLEL to the water surface, without a siphon tube, belong to",
+    "options": [
+      "Mansonia",
+      "Culex",
+      "Aedes",
+      "Anopheles"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Anopheles* larvae lie horizontally because they have no siphon; *Culex* and *Aedes* hang at an angle. The adult *Anopheles* also rests at an angle to the surface, while *Culex* rests parallel to it. *Mansonia* larvae attach to plant roots.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (larvae parallel to water surface — Anopheles)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (larvae parallel to water surface — Anopheles)"
+    }
+  },
+  {
+    "id": "psm_q_66",
+    "questionNumber": 66,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "In the Japanese encephalitis cycle, pigs are the",
+    "options": [
+      "Reservoir host",
+      "Amplifier host",
+      "Dead-end host",
+      "Vector"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ardeid water birds are the natural reservoir, pigs amplify the virus to levels that infect mosquitoes, and humans are incidental dead-end hosts with viraemia too low to infect a mosquito. Control includes pig segregation and live attenuated SA 14-14-2 vaccine.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — Culex vector, pig amplifier, man dead-end host), 2023 NEET-PG (humans are dead-end hosts)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 INI-CET (match — Culex vector, pig amplifier, man dead-end host), 2023 NEET-PG (humans are dead-end hosts)"
+    }
+  },
+  {
+    "id": "psm_q_67",
+    "questionNumber": 67,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "The dose of DDT used for residual spraying to control fleas is",
+    "options": [
+      "1 g/m²",
+      "2 g/m²",
+      "5 g/m²",
+      "10 g/m²"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "For malaria vector control the dose is 1 g/m², applied at 10% suspension. Dosage questions in entomology are asked verbatim, so the figures are worth memorising alongside the spray cycle.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (dose of DDT to control fleas — 2 g/m²)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 INI-CET (dose of DDT to control fleas — 2 g/m²)"
+    }
+  },
+  {
+    "id": "psm_q_68",
+    "questionNumber": 68,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "A soldier has fever, myalgia and a rash that spares the palms and soles, with body louse infestation. The organism is",
+    "options": [
+      "Rickettsia prowazekii",
+      "Rickettsia rickettsii",
+      "Orientia tsutsugamushi",
+      "Coxiella burnetii"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Epidemic typhus spreads through the body louse in crowded, cold conditions, and the rash spreads centrifugally from the trunk sparing palms and soles. Rocky Mountain spotted fever does the reverse. Doxycycline is the treatment, and delousing the control measure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (louse infestation with rash sparing palms and soles — R. prowazekii, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG (louse infestation with rash sparing palms and soles — R. prowazekii, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_69",
+    "questionNumber": 69,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "A child has fever, headache and a pleomorphic rash sparing the palms and soles. The appropriate isolation period is",
+    "options": [
+      "14 days from onset",
+      "Until all lesions crust, about 6 days after the last crop of vesicles appears",
+      "21 days from exposure",
+      "No isolation needed"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Chickenpox is communicable from 1–2 days before the rash until all lesions crust. The pleomorphic rash, with lesions at different stages in the same area, distinguishes it from smallpox, where lesions were monomorphic.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pleomorphic rash sparing palms and soles — isolate for 6 days)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 NEET-PG (pleomorphic rash sparing palms and soles — isolate for 6 days)"
+    }
+  },
+  {
+    "id": "psm_q_70",
+    "questionNumber": 70,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Under the national programme, the diagnostic test a community health worker uses for malaria at village level is",
+    "options": [
+      "A rapid diagnostic test detecting HRP-2 antigen",
+      "Thick and thin smear microscopy",
+      "PCR",
+      "Serology"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "RDTs need no laboratory and give a result in minutes, allowing treatment at the point of care. HRP-2 detects only *P. falciparum* and can stay positive for weeks after cure, so it is unsuitable for monitoring response.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (investigation by health worker at community level — HRP-2 antigen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (investigation by health worker at community level — HRP-2 antigen)"
+    }
+  },
+  {
+    "id": "psm_q_71",
+    "questionNumber": 71,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Which drug is NOT used in the treatment of falciparum malaria under the national programme?",
+    "options": [
+      "Artesunate",
+      "Sulfadoxine–pyrimethamine",
+      "Primaquine as a single gametocytocidal dose",
+      "Chloroquine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Resistance made chloroquine obsolete for falciparum malaria; it is retained for *P. vivax*. The national regimen is artemisinin combination therapy, with artesunate–sulfadoxine–pyrimethamine in most of India and artemether–lumefantrine in the north-east.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (drug not used in falciparum malaria — chloroquine), 2021 INI-CET / 2014 AIIMS (north-eastern state — artemether–lumefantrine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (drug not used in falciparum malaria — chloroquine), 2021 INI-CET / 2014 AIIMS (north-eastern state — artemether–lumefantrine)"
+    }
+  },
+  {
+    "id": "psm_q_72",
+    "questionNumber": 72,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "A patient has cough and weight loss for a month, two negative sputum smears, and a chest radiograph suggesting tuberculosis. The next step is",
+    "options": [
+      "Start empirical antitubercular treatment",
+      "Nucleic acid amplification testing (CBNAAT/Xpert) on sputum",
+      "Repeat smears after a month",
+      "Start broad-spectrum antibiotics only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Molecular testing is now the recommended initial diagnostic for all presumptive tuberculosis under the National TB Elimination Programme, because it detects smear-negative disease and rifampicin resistance at the same time.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (sputum smears negative with CXR suggestive — ask for CBNAAT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 NEET-PG (sputum smears negative with CXR suggestive — ask for CBNAAT)"
+    }
+  },
+  {
+    "id": "psm_q_73",
+    "questionNumber": 73,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Under the Integrated Disease Surveillance Programme, which statement is correct?",
+    "options": [
+      "Tuberculosis is excluded from IDSP reporting",
+      "IDSP includes both communicable and selected non-communicable conditions and syndromic reporting",
+      "IDSP reports only from tertiary hospitals",
+      "IDSP replaced all national programmes"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "IDSP uses P, L and S forms (presumptive, laboratory and syndromic) reported weekly from peripheral units, with the aim of early outbreak detection. Tuberculosis is included, so the 2022 statement excluding it was false.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (TB is not a part of IDSP — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 INI-CET (TB is not a part of IDSP — false)"
+    }
+  },
+  {
+    "id": "psm_q_74",
+    "questionNumber": 74,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "The SAFE strategy for trachoma elimination comprises",
+    "options": [
+      "Surgery, Azithromycin, Fluorescein and Eye care",
+      "Screening, Antibiotics, Follow-up and Education",
+      "Surgery for trichiasis, Antibiotics, Facial cleanliness and Environmental improvement",
+      "Sanitation, Awareness, Food and Education"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mass azithromycin administration is the antibiotic component. India was validated as having eliminated trachoma as a public health problem in 2024, so the strategy is now asked historically as well as operationally.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2022 INI-CET (SAFE strategy in trachoma, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 INI-CET / 2022 INI-CET (SAFE strategy in trachoma, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_75",
+    "questionNumber": 75,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "In the syndromic management of sexually transmitted infections, a patient with vaginal discharge and cervical erosion receives",
+    "options": [
+      "The blue kit",
+      "The green kit",
+      "The white kit",
+      "The grey kit"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The colour-coded kits run from kit 1 (grey, urethral and vaginal discharge) through kit 2 (green, vaginitis), kit 3 (white, genital ulcer — syphilis and chancroid), kit 4 (blue, genital ulcer — herpes), kit 5 (red), kit 6 (yellow, lower abdominal pain) and kit 7 (black, inguinal bubo).",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (minimal vaginal discharge with cervical erosion — grey kit), 2024 INI-CET (match — syndromic STI management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 NEET-PG (minimal vaginal discharge with cervical erosion — grey kit), 2024 INI-CET (match — syndromic STI management)"
+    }
+  },
+  {
+    "id": "psm_q_76",
+    "questionNumber": 76,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "High-risk groups under HIV sentinel surveillance in India include all EXCEPT",
+    "options": [
+      "Female sex workers",
+      "Men who have sex with men",
+      "People who inject drugs",
+      "Long-distance truck drivers"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Truck drivers and migrant workers are classified as bridge populations rather than core high-risk groups. Sentinel surveillance also monitors antenatal clinic attendees as a proxy for the general population.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (HIV sentinel surveillance high-risk groups — not truck drivers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (HIV sentinel surveillance high-risk groups — not truck drivers)"
+    }
+  },
+  {
+    "id": "psm_q_77",
+    "questionNumber": 77,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "SPARSH, the leprosy awareness campaign under the national programme, is aimed primarily at",
+    "options": [
+      "Reducing stigma and promoting early self-reporting",
+      "Mass drug administration",
+      "Vector control",
+      "Vaccination"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Stigma is the main barrier to early detection, and Grade 2 disability at diagnosis is the key programme indicator. Leprosy Case Detection Campaigns provide the active search component.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (SAPNA/SPARSH programme related to leprosy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 NEET-PG (SAPNA/SPARSH programme related to leprosy)"
+    }
+  },
+  {
+    "id": "psm_q_78",
+    "questionNumber": 78,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Which category of the CDC bioterrorism classification contains emerging agents whose potential impact is not yet fully known?",
+    "options": [
+      "Category A",
+      "Category B",
+      "Category C",
+      "Category D"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "There is no category D, which is why the 2023 statement was false. Category A agents are the highest priority (anthrax, plague, botulinum toxin, tularaemia, smallpox, viral haemorrhagic fevers); category B are moderately easy to disseminate.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (CDC category D includes re-emerging diseases — false), 2018 NEET-PG / 2017 AIIMS (category A agents)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2023 INI-CET (CDC category D includes re-emerging diseases — false), 2018 NEET-PG / 2017 AIIMS (category A agents)"
+    }
+  },
+  {
+    "id": "psm_q_79",
+    "questionNumber": 79,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Preventive measures that reduce transmission of COVID-19 include all EXCEPT",
+    "options": [
+      "Correctly worn masks",
+      "Vaccination",
+      "Respiratory and cough etiquette",
+      "Ivermectin prophylaxis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Randomised trials showed no benefit, and it was withdrawn from the national guidelines. The question illustrates a recurring examination theme: distinguishing measures with evidence from those adopted during the early pandemic.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (COVID-19 controlled by mask, cough etiquette, vaccination — not ivermectin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (COVID-19 controlled by mask, cough etiquette, vaccination — not ivermectin)"
+    }
+  },
+  {
+    "id": "psm_q_80",
+    "questionNumber": 80,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "The commonest reason a disease is designated \"notifiable\" is that",
+    "options": [
+      "It is always fatal",
+      "Prompt reporting allows public health action to interrupt transmission",
+      "It requires hospital admission",
+      "It has no treatment"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Internationally notifiable conditions under the International Health Regulations include smallpox, poliomyelitis due to wild virus, human influenza of a new subtype and SARS. Individual states in India notify additional diseases.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (IDSP reporting), 2023 INI-CET (bioterrorism categories)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 INI-CET (IDSP reporting), 2023 INI-CET (bioterrorism categories)"
+    }
+  },
+  {
+    "id": "psm_q_81",
+    "questionNumber": 81,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "Herd immunity is LEAST relevant to the control of",
+    "options": [
+      "Measles",
+      "Poliomyelitis",
+      "Diphtheria",
+      "Tetanus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "*Clostridium tetani* spores live in soil, so there is no person-to-person transmission to interrupt and no herd protection — each individual must be immunised. Herd immunity only operates where humans are the reservoir.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (vaccination contraindications), 2024 INI-CET (COVID control measures)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infectious Diseases",
+      "basedOn": "2022 INI-CET (vaccination contraindications), 2024 INI-CET (COVID control measures)"
+    }
+  },
+  {
+    "id": "psm_q_82",
+    "questionNumber": 82,
+    "subject": "PSM",
+    "subTopic": "Infectious Diseases",
+    "sub_topic": "Infectious Diseases",
+    "stem": "The attack rate in an outbreak is best described as",
+    "options": [
+      "The case fatality rate",
+      "A prevalence measure",
+      "A cumulative incidence over the limited period of the outbreak, usually expressed as a percentage",
+      "The secondary infection rate"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The secondary attack rate, calculated among contacts of a primary case excluding that case, measures infectivity and is used to assess household transmission.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (incidence over time), 2023 NEET-PG (quarantine and isolation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Infectious Diseases",
+      "basedOn": "2024 INI-CET (incidence over time), 2023 NEET-PG (quarantine and isolation)"
+    }
+  },
+  {
+    "id": "psm_q_83",
+    "questionNumber": 83,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Which component is NOT part of the RMNCH+A strategy?",
+    "options": [
+      "Adolescent health",
+      "Newborn care",
+      "Geriatric care",
+      "Family planning"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "RMNCH+A covers Reproductive, Maternal, Newborn, Child and Adolescent health, with Nutrition added as RMNCH+A+N. Older people are covered by the separate National Programme for Health Care of the Elderly.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not included in RMNCHA+N — geriatric care)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2024 INI-CET (not included in RMNCHA+N — geriatric care)"
+    }
+  },
+  {
+    "id": "psm_q_84",
+    "questionNumber": 84,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Anaemia Mukt Bharat is structured around",
+    "options": [
+      "Four age groups only",
+      "Three interventions and three target groups",
+      "Ten interventions",
+      "Six interventions, six beneficiary groups and six institutional mechanisms"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The \"6 × 6 × 6\" framework is the memorable structure. Interventions include prophylactic iron and folic acid, deworming, behaviour change, testing and treatment, fortification, and addressing non-nutritional causes such as malaria and fluorosis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Anaemia Mukt Bharat — 6 interventions, 6 beneficiary groups, 6 institutional mechanisms)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (Anaemia Mukt Bharat — 6 interventions, 6 beneficiary groups, 6 institutional mechanisms)"
+    }
+  },
+  {
+    "id": "psm_q_85",
+    "questionNumber": 85,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Under Anaemia Mukt Bharat, a non-pregnant adolescent girl receives weekly iron and folic acid supplementation of",
+    "options": [
+      "60 mg elemental iron with 500 µg folic acid",
+      "100 mg iron with 500 µg folic acid",
+      "20 mg iron with 100 µg folic acid",
+      "45 mg iron with 400 µg folic acid"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Children aged 6–59 months receive biweekly syrup, and 5–9 year olds a weekly pink tablet containing 45 mg iron. Pregnant and lactating women receive daily supplementation of 60 mg iron with 500 µg folic acid.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (Anaemia Mukt Bharat — young girl given 60 mg iron and 500 µg folic acid weekly, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (Anaemia Mukt Bharat — young girl given 60 mg iron and 500 µg folic acid weekly, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_86",
+    "questionNumber": 86,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "The mid-day meal for a primary school child is designed to supply",
+    "options": [
+      "One-third of the daily calorie requirement and half the daily protein requirement",
+      "Half the calories and one-third of the protein",
+      "All the daily requirements",
+      "One-quarter of both"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The scheme (now PM POSHAN) aims to supply about 450 kcal and 12 g protein for primary and 700 kcal and 20 g for upper primary children, along with improving enrolment and attendance.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (mid-day meal — proteins ½ and carbohydrates ⅓ of total daily requirement)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (mid-day meal — proteins ½ and carbohydrates ⅓ of total daily requirement)"
+    }
+  },
+  {
+    "id": "psm_q_87",
+    "questionNumber": 87,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "LaQshya is a national initiative aimed at improving",
+    "options": [
+      "Tuberculosis notification",
+      "Adolescent nutrition",
+      "Quality of care in labour rooms and maternity operation theatres",
+      "Immunisation coverage"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Related initiatives are Kayakalp (cleanliness in public facilities), SUMAN (assured maternity services) and Musqan (child-friendly quality care). Programme-name matching is a recurring format.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (better labour room practices — LaQshya)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2022 INI-CET (better labour room practices — LaQshya)"
+    }
+  },
+  {
+    "id": "psm_q_88",
+    "questionNumber": 88,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Under Rashtriya Bal Swasthya Karyakram, which condition is NOT screened for at birth?",
+    "options": [
+      "Neural tube defects",
+      "Cleft lip and palate",
+      "Developmental dysplasia of the hip",
+      "Congenital glaucoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "RBSK screens for the \"4 Ds\": Defects at birth, Deficiencies, Diseases and Developmental delays including disability, covering 30 conditions. Congenital cataract is included among the birth defects screened, but congenital glaucoma is not on the birth list.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (under RBSK, disease not screened at birth — congenital glaucoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2022 INI-CET (under RBSK, disease not screened at birth — congenital glaucoma)"
+    }
+  },
+  {
+    "id": "psm_q_89",
+    "questionNumber": 89,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "HEADSS assessment is a structured psychosocial interview used for",
+    "options": [
+      "Pregnant women",
+      "Neonates",
+      "Older adults",
+      "Adolescents"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It covers Home, Education and employment, Activities, Drugs, Sexuality, and Suicide or depression. It supports the adolescent health component of RMNCH+A, delivered through Rashtriya Kishor Swasthya Karyakram and adolescent-friendly health clinics.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (HEADSS assessment — adolescents)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (HEADSS assessment — adolescents)"
+    }
+  },
+  {
+    "id": "psm_q_90",
+    "questionNumber": 90,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "In an eye camp model, patients identified in the community are brought to a base hospital for cataract surgery rather than being operated in the camp because",
+    "options": [
+      "Operating-theatre conditions and follow-up are safer at the base hospital",
+      "It is cheaper",
+      "Camps cannot identify patients",
+      "Surgery is not needed"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Outbreaks of post-operative endophthalmitis in camp settings prompted this shift. The camp now screens and refers, which is the model endorsed under the National Programme for Control of Blindness and Visual Impairment.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cataract patients selected in community and asked to come to base hospital — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (cataract patients selected in community and asked to come to base hospital — true)"
+    }
+  },
+  {
+    "id": "psm_q_91",
+    "questionNumber": 91,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Under the national programme, blindness is currently defined as presenting visual acuity in the better eye of less than",
+    "options": [
+      "6/60",
+      "6/18",
+      "3/60",
+      "1/60"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The definition was revised from 6/60 to 3/60 to align with WHO, and it uses **presenting** rather than best-corrected vision so that uncorrected refractive error is captured. Economic blindness and social blindness are older terms based on 6/60 and 3/60.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET ophthalmology (definition of blindness according to NPCB — presenting vision",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Programmes",
+      "basedOn": "2024 INI-CET ophthalmology (definition of blindness according to NPCB — presenting vision"
+    }
+  },
+  {
+    "id": "psm_q_92",
+    "questionNumber": 92,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "A 45-year-old man has blood pressure of 148/94 and 152/98 mmHg on two separate occasions, with no other risk factors. Under the national NCD programme the next step is",
+    "options": [
+      "Reassure and review in a year",
+      "Start lifestyle measures and an antihypertensive, with follow-up in about a month",
+      "Admit for investigation",
+      "Start two drugs immediately"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Two readings in the stage 1 range on separate occasions establish hypertension. The population-based screening component of the NCD programme covers hypertension, diabetes and three cancers from age 30.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (BP 148/94 and 152/98 — start amlodipine 5 mg and follow up after 1 month)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (BP 148/94 and 152/98 — start amlodipine 5 mg and follow up after 1 month)"
+    }
+  },
+  {
+    "id": "psm_q_93",
+    "questionNumber": 93,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "The most economical approach to mass supplementation for nutritional anaemia at population level is",
+    "options": [
+      "Blood transfusion",
+      "Parenteral iron for all",
+      "Weekly iron and folic acid supplementation with food fortification",
+      "Erythropoietin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fortification of staples (double fortified salt, fortified rice and wheat flour) reaches whole populations at very low cost. Vitamin C aids absorption and zinc is co-supplemented in some formulations.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (economical method of mass drug administration — ferrous fumarate with vitamin C and zinc)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Programmes",
+      "basedOn": "2024 INI-CET (economical method of mass drug administration — ferrous fumarate with vitamin C and zinc)"
+    }
+  },
+  {
+    "id": "psm_q_94",
+    "questionNumber": 94,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "School health services in India are delivered primarily through",
+    "options": [
+      "Medical colleges",
+      "District hospitals only",
+      "Private practitioners",
+      "The primary health centre and its medical officer"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The Ayushman Bharat School Health and Wellness Ambassador initiative adds trained teachers delivering health promotion. Seeds and manure for school gardens under the school health programme were historically supported by UNICEF.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (school health care delivered through PHC), 2023 NEET-PG (seeds and manure supply — UNICEF)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 NEET-PG (school health care delivered through PHC), 2023 NEET-PG (seeds and manure supply — UNICEF)"
+    }
+  },
+  {
+    "id": "psm_q_95",
+    "questionNumber": 95,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "A health worker at a subcentre is expected to maintain a register of approximately how many infants?",
+    "options": [
+      "20",
+      "50",
+      "100",
+      "500"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A subcentre serves about 5,000 people in the plains (3,000 in hilly and tribal areas), which yields roughly 100 infants and 100–120 pregnancies a year. These denominators underpin all workload norms.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (infants registered with a subcentre health worker — 100)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (infants registered with a subcentre health worker — 100)"
+    }
+  },
+  {
+    "id": "psm_q_96",
+    "questionNumber": 96,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "The functions of an ASHA include all of the following EXCEPT",
+    "options": [
+      "Accompanying pregnant women to the health facility",
+      "Counselling on contraception and nutrition",
+      "Mobilising the community for immunisation sessions",
+      "Performing deliveries independently at home"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The ASHA is an honorary activist and link worker, not a skilled birth attendant; the ANM or a skilled attendant conducts deliveries. ASHAs receive performance-based incentives and are now also central to NCD screening and follow-up.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (function of ASHA — accompany pregnant female, education about contraception)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2024 INI-CET (function of ASHA — accompany pregnant female, education about contraception)"
+    }
+  },
+  {
+    "id": "psm_q_97",
+    "questionNumber": 97,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "A health and wellness centre under Ayushman Bharat is designed to deliver",
+    "options": [
+      "Comprehensive primary health care, expanded from the earlier selective package",
+      "Tertiary care only",
+      "Hospital insurance",
+      "Medical education"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The twelve service packages extend beyond maternal and child health to NCDs, mental health, oral, eye, ENT and elderly care. The second pillar of Ayushman Bharat, PM-JAY, provides hospital insurance cover.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (subcentre workload), 2024 INI-CET (ASHA functions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Programmes",
+      "basedOn": "2023 INI-CET (subcentre workload), 2024 INI-CET (ASHA functions)"
+    }
+  },
+  {
+    "id": "psm_q_98",
+    "questionNumber": 98,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Under the Janani Suraksha Yojana and Janani Shishu Suraksha Karyakram, the entitlement for a pregnant woman delivering in a public facility includes",
+    "options": [
+      "Cash only",
+      "Cash assistance and free delivery, drugs, diagnostics, diet and transport with no out-of-pocket expense",
+      "Free transport only",
+      "Free drugs only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "JSY provides the conditional cash transfer to promote institutional delivery, and JSSK guarantees zero-expense care including caesarean section and sick newborn care up to one year.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (LaQshya), 2024 INI-CET (RMNCH+A components)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2022 INI-CET (LaQshya), 2024 INI-CET (RMNCH+A components)"
+    }
+  },
+  {
+    "id": "psm_q_99",
+    "questionNumber": 99,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Under the National Tuberculosis Elimination Programme, the nutritional support scheme providing direct benefit transfer to patients is",
+    "options": [
+      "POSHAN Abhiyaan",
+      "Anaemia Mukt Bharat",
+      "Mission Indradhanush",
+      "Nikshay Poshan Yojana"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It provides a monthly sum for the duration of treatment, delivered through the Nikshay portal used for case notification. Notification of tuberculosis by all providers, including the private sector, is mandatory.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (CBNAAT in TB diagnosis), 2022 INI-CET (IDSP and TB)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2022 NEET-PG (CBNAAT in TB diagnosis), 2022 INI-CET (IDSP and TB)"
+    }
+  },
+  {
+    "id": "psm_q_100",
+    "questionNumber": 100,
+    "subject": "PSM",
+    "subTopic": "Programmes",
+    "sub_topic": "Programmes",
+    "stem": "Mission Indradhanush was launched specifically to",
+    "options": [
+      "Screen for cancers",
+      "Introduce new vaccines",
+      "Eliminate leprosy",
+      "Reach unvaccinated and partially vaccinated children in low-coverage areas"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It uses intensified catch-up rounds in identified districts and urban slums, and Intensified Mission Indradhanush targets the hardest-to-reach pockets. It addresses coverage rather than adding antigens.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vaccination and cold chain questions), 2023 NEET-PG (vaccine use decisions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Programmes",
+      "basedOn": "2024 INI-CET (vaccination and cold chain questions), 2023 NEET-PG (vaccine use decisions)"
+    }
+  },
+  {
+    "id": "psm_q_101",
+    "questionNumber": 101,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "The tool that indicates whether a vaccine vial has been exposed to cumulative heat over time is the",
+    "options": [
+      "Vaccine vial monitor",
+      "Freeze watch indicator",
+      "Shake test",
+      "Cold chain monitor card"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The VVM square darkens irreversibly with cumulative heat exposure; the vial is discarded once the square is as dark as or darker than the surrounding circle. It is the only tool that indicates heat exposure at any point in the chain.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (parameter for vaccine heat sensitivity — VVM, 2X), 2024 INI-CET (VVM indicates exposure at any time, true)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (parameter for vaccine heat sensitivity — VVM, 2X), 2024 INI-CET (VVM indicates exposure at any time, true)"
+    }
+  },
+  {
+    "id": "psm_q_102",
+    "questionNumber": 102,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "The shake test is used to detect whether a vaccine has been",
+    "options": [
+      "Heated",
+      "Frozen, which damages adsorbed vaccines irreversibly",
+      "Diluted",
+      "Contaminated"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Freeze-sensitive vaccines are the adsorbed ones — DPT, hepatitis B, pentavalent, Td and typhoid. A frozen vial shows rapid sedimentation with flaky deposits. Freezing damage is irreversible, which is why these are never stored at the bottom of an ice-lined refrigerator.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (vaccine kept at the lowest level in ILR — OPV), 2024 INI-CET (VVM and heat exposure)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2023 NEET-PG (vaccine kept at the lowest level in ILR — OPV), 2024 INI-CET (VVM and heat exposure)"
+    }
+  },
+  {
+    "id": "psm_q_103",
+    "questionNumber": 103,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "In an ice-lined refrigerator, which vaccine is placed at the BOTTOM (coldest part)?",
+    "options": [
+      "DPT",
+      "Hepatitis B",
+      "Oral polio vaccine",
+      "Pentavalent vaccine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The most heat-sensitive but freeze-tolerant vaccines (OPV, measles-rubella, BCG) go at the bottom, and the freeze-sensitive adsorbed vaccines on the upper shelves away from the lining. OPV is the most heat-sensitive vaccine in the programme.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (vaccine at lowest level in ILR — OPV)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2023 NEET-PG (vaccine at lowest level in ILR — OPV)"
+    }
+  },
+  {
+    "id": "psm_q_104",
+    "questionNumber": 104,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "A live attenuated vaccine should be AVOIDED in",
+    "options": [
+      "Asthma on inhaled steroids",
+      "Isolated complement deficiency",
+      "Severe combined immunodeficiency",
+      "Sickle cell disease"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Live vaccines can cause disseminated infection where cell-mediated immunity is absent. Complement deficiency is **not** a contraindication — indeed those patients especially need meningococcal and pneumococcal vaccines.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vaccine contraindicated in SCID — MMR), 2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (repeated infections since 9 months — avoid MMR, 7X), 2022 INI-CET (vaccination not contraindicated in complement deficiency)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Vaccination",
+      "basedOn": "2024 INI-CET (vaccine contraindicated in SCID — MMR), 2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (repeated infections since 9 months — avoid MMR, 7X), 2022 INI-CET (vaccination not contraindicated in complement deficiency)"
+    }
+  },
+  {
+    "id": "psm_q_105",
+    "questionNumber": 105,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "A child had fever above 40 °C and inconsolable crying after the first dose of DPT at 6 weeks, and now attends at 10 weeks. The appropriate action is",
+    "options": [
+      "Give only oral polio vaccine",
+      "Repeat full DPT",
+      "Omit all further doses",
+      "Give DT (or an acellular pertussis-containing vaccine), omitting whole-cell pertussis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Those reactions are attributed to the pertussis component. True contraindications to further pertussis are anaphylaxis and encephalopathy within 7 days; fever and prolonged crying are precautions rather than absolute bars in current practice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (DPT with fever over 40 °C and inconsolable cry — give DT, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (DPT with fever over 40 °C and inconsolable cry — give DT, 4X)"
+    }
+  },
+  {
+    "id": "psm_q_106",
+    "questionNumber": 106,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Hepatitis B vaccine is an example of a",
+    "options": [
+      "Recombinant subunit vaccine",
+      "Live attenuated vaccine",
+      "Toxoid",
+      "Killed whole-cell vaccine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It contains HBsAg produced in yeast. Toxoids are tetanus and diphtheria; polysaccharide conjugates include Hib and pneumococcal conjugate; live attenuated include BCG, OPV, measles-rubella, rotavirus and JE SA 14-14-2.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (hepatitis B — recombinant vaccine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2023 INI-CET (hepatitis B — recombinant vaccine)"
+    }
+  },
+  {
+    "id": "psm_q_107",
+    "questionNumber": 107,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Which is an example of PASSIVE immunity?",
+    "options": [
+      "Tetanus toxoid",
+      "BCG vaccine",
+      "Antitetanus immunoglobulin",
+      "Recovery from measles"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Passive immunity is immediate but short-lived and leaves no memory; it includes antitoxins, monoclonal antibodies, and maternal IgG and secretory IgA in breast milk. Toxoids and live vaccines produce active immunity.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (passive immunity — antitoxin, monoclonal antibody, IgA, not toxoid), 2024 INI-CET (toxoid — active immunity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2023 INI-CET (passive immunity — antitoxin, monoclonal antibody, IgA, not toxoid), 2024 INI-CET (toxoid — active immunity)"
+    }
+  },
+  {
+    "id": "psm_q_108",
+    "questionNumber": 108,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "A vial of pentavalent vaccine and a vial of measles-rubella vaccine were both opened 3 hours ago at a session, with the cold chain intact. The correct action is",
+    "options": [
+      "Use both for the remainder of the session",
+      "Use the pentavalent vaccine and discard the measles-rubella vaccine",
+      "Discard both",
+      "Use the measles-rubella vaccine and discard the pentavalent"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Under the multi-dose vial policy, opened vials of liquid vaccines without a preservative risk — pentavalent, DPT, hepatitis B, Td, OPV — may be used for up to 28 days. Reconstituted vaccines (BCG, measles-rubella, JE) must be discarded within 4 hours.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (opened pentavalent and MR with intact cold chain — use pentavalent, discard MR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Vaccination",
+      "basedOn": "2023 NEET-PG (opened pentavalent and MR with intact cold chain — use pentavalent, discard MR)"
+    }
+  },
+  {
+    "id": "psm_q_109",
+    "questionNumber": 109,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Japanese encephalitis vaccine under the national programme is characterised by",
+    "options": [
+      "Not being given below 9 months of age, with a second dose at 16–24 months",
+      "Being given at birth",
+      "Requiring three primary doses",
+      "Being a killed vaccine only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The live attenuated SA 14-14-2 vaccine is given in endemic districts, alongside campaign-mode catch-up rounds. It is co-administered with measles-rubella at 9 months.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (JE vaccine — not below 6 months, two primary doses, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (JE vaccine — not below 6 months, two primary doses, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_110",
+    "questionNumber": 110,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "The vaccine given to class 5 (10-year-old) children under the school health programme is",
+    "options": [
+      "DPT",
+      "Td",
+      "BCG",
+      "MMR"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Td replaced TT in the national schedule to maintain diphtheria immunity. It is given at 10 and 16 years, and to pregnant women. The reduced-dose diphtheria component is used because reactions are commoner in older children.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (vaccine to class 5 children under school health programme — Td)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2022 NEET-PG (vaccine to class 5 children under school health programme — Td)"
+    }
+  },
+  {
+    "id": "psm_q_111",
+    "questionNumber": 111,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Typhoid vaccination is recommended by WHO in an endemic area during a disaster primarily because",
+    "options": [
+      "It replaces the need for safe water",
+      "It is the only available control measure",
+      "It gives lifelong immunity",
+      "Vaccines are a cost-effective component of prevention where disease risk is already high"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Vaccination supplements, never replaces, safe water, sanitation and food hygiene. Typhoid conjugate vaccine is now preferred and can be given from 6 months. Cholera vaccination follows similar reasoning in outbreak settings.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (assertion — WHO recommends typhoid vaccine in endemic areas during disaster)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Vaccination",
+      "basedOn": "2024 INI-CET (assertion — WHO recommends typhoid vaccine in endemic areas during disaster)"
+    }
+  },
+  {
+    "id": "psm_q_112",
+    "questionNumber": 112,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "The cold chain temperature for storing most vaccines at a peripheral facility is",
+    "options": [
+      "Room temperature",
+      "−20 °C",
+      "−70 °C",
+      "+2 °C to +8 °C"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Deep-freeze storage at −20 °C is used for OPV at regional and state level. Ice packs must be conditioned (sweating) before being placed in a vaccine carrier, so that freeze-sensitive vaccines are not damaged in transit.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (VVM and heat sensitivity), 2023 NEET-PG (ILR vaccine placement)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2024 INI-CET (VVM and heat sensitivity), 2023 NEET-PG (ILR vaccine placement)"
+    }
+  },
+  {
+    "id": "psm_q_113",
+    "questionNumber": 113,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Which statement about BCG vaccine is correct?",
+    "options": [
+      "It is given intradermally at birth and reliably prevents severe disseminated tuberculosis in children",
+      "It is given subcutaneously",
+      "It prevents pulmonary tuberculosis in adults effectively",
+      "It is a killed vaccine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Its protection against childhood miliary disease and tuberculous meningitis is good, but against adult pulmonary tuberculosis it is variable. The dose is 0.1 mL (0.05 mL under 1 month), given over the left upper arm.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (vaccine types), 2024 INI-CET (live vaccine contraindications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Vaccination",
+      "basedOn": "2023 INI-CET (vaccine types), 2024 INI-CET (live vaccine contraindications)"
+    }
+  },
+  {
+    "id": "psm_q_114",
+    "questionNumber": 114,
+    "subject": "PSM",
+    "subTopic": "Vaccination",
+    "sub_topic": "Vaccination",
+    "stem": "Immunisation coverage evaluation in a district is classically carried out using",
+    "options": [
+      "A census of all children",
+      "Thirty-cluster sampling of 7 children aged 12–23 months per cluster",
+      "Hospital records only",
+      "Simple random sampling of 100 children"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The WHO 30 × 7 design gives a coverage estimate within about ±10% with modest effort. The 12–23 month age group is chosen because those children should have completed the primary schedule.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sampling distribution), 2023 NEET-PG (vaccine session practice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Vaccination",
+      "basedOn": "2024 INI-CET (sampling distribution), 2023 NEET-PG (vaccine session practice)"
+    }
+  },
+  {
+    "id": "psm_q_115",
+    "questionNumber": 115,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "The reference Indian adult woman is defined as",
+    "options": [
+      "18–30 years, 60 kg",
+      "25–45 years, 50 kg",
+      "19–39 years, 55 kg, with a body mass index of about 20.75 kg/m²",
+      "20–40 years, 45 kg"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The reference man of the same age weighs 65 kg. These reference bodies underpin the ICMR recommended dietary allowances, which are expressed for sedentary, moderate and heavy activity.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (reference Indian female — 19–39 years, 55 kg, BMI 20.75)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (reference Indian female — 19–39 years, 55 kg, BMI 20.75)"
+    }
+  },
+  {
+    "id": "psm_q_116",
+    "questionNumber": 116,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Recommended dietary allowance is best defined as the intake sufficient to meet the needs of",
+    "options": [
+      "Patients with disease",
+      "Half the population",
+      "The average individual",
+      "Nearly all healthy individuals in a given age and sex group"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "RDA is set at the estimated average requirement plus two standard deviations, covering about 97.5% of the group. The EAR, which meets the needs of half the group, is the figure used to assess the adequacy of a population's intake.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (average daily nutrient intake sufficient for nearly all healthy individuals — RDA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2023 NEET-PG (average daily nutrient intake sufficient for nearly all healthy individuals — RDA)"
+    }
+  },
+  {
+    "id": "psm_q_117",
+    "questionNumber": 117,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Compared with pregnancy, lactation requires a greater intake of",
+    "options": [
+      "Calcium, vitamin A and vitamin C",
+      "Iron and folic acid only",
+      "Iodine only",
+      "No additional nutrients"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Milk output drives the extra demand for calcium and water-soluble vitamins, and the energy requirement rises by about 600 kcal a day in the first six months. Iron requirement, by contrast, is higher in pregnancy than in lactation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (lactating female needs more calcium, vitamin A and C than pregnant woman)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (lactating female needs more calcium, vitamin A and C than pregnant woman)"
+    }
+  },
+  {
+    "id": "psm_q_118",
+    "questionNumber": 118,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Severe acute malnutrition in a child aged 6–59 months is diagnosed by",
+    "options": [
+      "Weight-for-height below −3 SD, mid-upper arm circumference below 11.5 cm, or bilateral pedal oedema",
+      "Weight-for-age below −2 SD alone",
+      "Height-for-age below −3 SD",
+      "Any weight loss"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Any one criterion suffices. Weight-for-height measures wasting (acute), height-for-age measures stunting (chronic) and weight-for-age measures underweight, which conflates the two.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (criteria for severe acute malnutrition — low weight for height, pedal oedema, MUAC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (criteria for severe acute malnutrition — low weight for height, pedal oedema, MUAC)"
+    }
+  },
+  {
+    "id": "psm_q_119",
+    "questionNumber": 119,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "On the WHO growth chart used in India, a child whose weight-for-age falls in the YELLOW zone is",
+    "options": [
+      "Severely undernourished, requiring admission",
+      "Normal",
+      "Moderately undernourished, and the mother is counselled on feeding practices",
+      "Overweight"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Green indicates normal growth, yellow moderate undernutrition needing counselling and follow-up, and red severe undernutrition needing referral. The **direction** of the growth curve matters more than any single point.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (weight for age in yellow zone — moderately undernourished, advise feeding practices)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2023 NEET-PG (weight for age in yellow zone — moderately undernourished, advise feeding practices)"
+    }
+  },
+  {
+    "id": "psm_q_120",
+    "questionNumber": 120,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Farmers in some parts of India develop spastic paraplegia with a crossed-leg gait after prolonged consumption of a particular pulse. The condition and its preventive measure are",
+    "options": [
+      "Beriberi, prevented by thiamine",
+      "Fluorosis, prevented by defluoridation",
+      "Pellagra, prevented by niacin",
+      "Lathyrism, prevented by removing Lathyrus sativus from the diet and by parboiling or steeping"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The toxin is BOAA (β-oxalyl-amino-alanine). Steeping in hot water, parboiling, genetic development of low-toxin varieties and a legal ban on sale are the control measures. *The 2022 key naming vitamin C is not the standard answer.*",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (farmers with crossed gait using a stick — vitamin C for lathyrism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nutrition",
+      "basedOn": "2022 NEET-PG (farmers with crossed gait using a stick — vitamin C for lathyrism)"
+    }
+  },
+  {
+    "id": "psm_q_121",
+    "questionNumber": 121,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "In the Indian diet, thiamine is derived mainly from",
+    "options": [
+      "Cereals — rice, wheat, jowar and bajra",
+      "Milk and milk products",
+      "Green leafy vegetables",
+      "Fruits"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Because cereals supply most of it, polishing rice and repeated washing remove much of the thiamine, which is the basis of beriberi in rice-eating populations. Parboiling retains it by driving it into the grain.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (thiamine in India primarily derived from rice, wheat, jowar and bajra)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2023 NEET-PG (thiamine in India primarily derived from rice, wheat, jowar and bajra)"
+    }
+  },
+  {
+    "id": "psm_q_122",
+    "questionNumber": 122,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "A high-fat therapeutic diet, as used in a ketogenic regimen, derives most of its energy from fat. A typical prescription provides about",
+    "options": [
+      "200 kcal from fat",
+      "800–1000 kcal from fat",
+      "2500 kcal from fat",
+      "No fat"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fat yields 9 kcal/g against 4 kcal/g for carbohydrate and protein. Visible fat intake in the Indian diet is recommended at about 20–30 g a day, with attention to the ratio of saturated to polyunsaturated fatty acids.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (high fat intake diet should contain 800–1000 kcal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (high fat intake diet should contain 800–1000 kcal)"
+    }
+  },
+  {
+    "id": "psm_q_123",
+    "questionNumber": 123,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Food fortification differs from supplementation in that fortification",
+    "options": [
+      "Is used only in hospitals",
+      "Requires daily tablets",
+      "Adds nutrients to a commonly eaten food during processing, reaching the population without changing behaviour",
+      "Applies only to infants"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Indian examples are iodised salt, double fortified salt with iron, fortified rice under the public distribution system, and vitamin A and D fortified oil and milk. The FSSAI \"+F\" logo identifies fortified foods.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (economical mass supplementation), 2023 NEET-PG (RDA definition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (economical mass supplementation), 2023 NEET-PG (RDA definition)"
+    }
+  },
+  {
+    "id": "psm_q_124",
+    "questionNumber": 124,
+    "subject": "PSM",
+    "subTopic": "Nutrition",
+    "sub_topic": "Nutrition",
+    "stem": "Universal salt iodisation requires iodine content at the point of consumption of at least",
+    "options": [
+      "50 ppm",
+      "5 ppm",
+      "30 ppm",
+      "15 parts per million"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "At production the requirement is 30 ppm, allowing for loss in transit and storage. Goitre prevalence above 10% in school-age children defines an endemic area, and urinary iodine is used to monitor population status.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mass supplementation), 2023 NEET-PG (nutrient requirements)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nutrition",
+      "basedOn": "2024 INI-CET (mass supplementation), 2023 NEET-PG (nutrient requirements)"
+    }
+  },
+  {
+    "id": "psm_q_125",
+    "questionNumber": 125,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The Pearl index expresses contraceptive failure as the number of failures per",
+    "options": [
+      "100 woman-years of exposure",
+      "1,000 women",
+      "100 cycles",
+      "1,000 live births"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A lower index means a more effective method. Its weakness is that it assumes a constant failure rate over time, so life-table methods are preferred for long-term comparison.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (failure rate per 100 women years of exposure — Pearl index)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2024 INI-CET (failure rate per 100 women years of exposure — Pearl index)"
+    }
+  },
+  {
+    "id": "psm_q_126",
+    "questionNumber": 126,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "A postpartum intrauterine contraceptive device should be inserted within",
+    "options": [
+      "7 days",
+      "48 hours of delivery, or after 6 weeks",
+      "2 weeks",
+      "24 hours only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Insertion between 48 hours and 6 weeks carries a higher risk of perforation and expulsion as the uterus involutes. Post-placental insertion within 10 minutes of placental delivery has the lowest expulsion rate.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (PPIUCD inserted within 48 hours of normal delivery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 NEET-PG (PPIUCD inserted within 48 hours of normal delivery)"
+    }
+  },
+  {
+    "id": "psm_q_127",
+    "questionNumber": 127,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The key features of kangaroo mother care include all EXCEPT",
+    "options": [
+      "Continuous skin-to-skin contact",
+      "Exclusive or predominant breastfeeding",
+      "Early discharge with follow-up and support to the mother",
+      "Routine incubator care alongside"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "KMC substitutes for incubator care in stable low-birth-weight babies. It improves thermoregulation, breastfeeding, weight gain and survival, and reduces infection — one of the best-evidenced low-cost newborn interventions.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (key features of KMC — skin to skin, prevention of infection, early discharge, support to mother)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 INI-CET (key features of KMC — skin to skin, prevention of infection, early discharge, support to mother)"
+    }
+  },
+  {
+    "id": "psm_q_128",
+    "questionNumber": 128,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The total fertility rate is defined as the average number of children",
+    "options": [
+      "Born alive to women aged 15–45 in one year",
+      "Born per 1,000 population in a year",
+      "A woman would bear if she experienced current age-specific fertility rates throughout her reproductive life",
+      "Surviving to age 5"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Replacement-level fertility is a TFR of about 2.1. India's TFR has fallen to about 2.0, below replacement, which is why population momentum rather than high fertility now drives growth.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (demographic cycle), 2024 INI-CET (Pearl index)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Mch And Demography",
+      "basedOn": "2023 NEET-PG (demographic cycle), 2024 INI-CET (Pearl index)"
+    }
+  },
+  {
+    "id": "psm_q_129",
+    "questionNumber": 129,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The couple protection rate refers to the percentage of eligible couples",
+    "options": [
+      "Attending a clinic",
+      "Who have completed their family",
+      "Using sterilisation only",
+      "Effectively protected by any approved contraceptive method"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "An eligible couple is one in which the wife is of reproductive age. A couple protection rate of about 60% is needed to approach replacement-level fertility.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Pearl index), 2023 NEET-PG (demographic cycle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2024 INI-CET (Pearl index), 2023 NEET-PG (demographic cycle)"
+    }
+  },
+  {
+    "id": "psm_q_130",
+    "questionNumber": 130,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "Under the national programme, the recommended number of antenatal visits and the schedule are",
+    "options": [
+      "At least four visits, with the first in the first trimester",
+      "Two visits only",
+      "Eight visits in the third trimester",
+      "One visit at term"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "WHO now recommends eight contacts, and India's Pradhan Mantri Surakshit Matritva Abhiyan provides a guaranteed free check-up on the 9th of every month for second and third trimester women at public facilities.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (LaQshya), 2023 INI-CET (subcentre workload norms)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 INI-CET (LaQshya), 2023 INI-CET (subcentre workload norms)"
+    }
+  },
+  {
+    "id": "psm_q_131",
+    "questionNumber": 131,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "Low birth weight is defined as a birth weight below",
+    "options": [
+      "2,000 g",
+      "2,500 g regardless of gestational age",
+      "1,500 g",
+      "3,000 g"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Very low birth weight is below 1,500 g and extremely low below 1,000 g. In India most low birth weight is due to intrauterine growth restriction rather than preterm birth, reflecting maternal undernutrition and anaemia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (KMC features), 2023 NEET-PG (growth chart interpretation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 INI-CET (KMC features), 2023 NEET-PG (growth chart interpretation)"
+    }
+  },
+  {
+    "id": "psm_q_132",
+    "questionNumber": 132,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "Exclusive breastfeeding is recommended for the first",
+    "options": [
+      "3 months",
+      "4 months",
+      "6 months, with continued breastfeeding to 2 years alongside complementary feeds",
+      "12 months with no other food"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Exclusive means no other food or drink, not even water, though medicines and vitamins are permitted. The Infant Milk Substitutes Act restricts the promotion of formula to protect this practice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (KMC and breastfeeding), 2023 NEET-PG (feeding advice for undernutrition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 INI-CET (KMC and breastfeeding), 2023 NEET-PG (feeding advice for undernutrition)"
+    }
+  },
+  {
+    "id": "psm_q_133",
+    "questionNumber": 133,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The under-five mortality rate is preferred to the infant mortality rate as an indicator of child health because it",
+    "options": [
+      "Is less affected by registration quality",
+      "Is easier to measure",
+      "Excludes neonatal deaths",
+      "Captures deaths from malnutrition and infection that continue beyond infancy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is the headline SDG child survival indicator. In India the neonatal period now accounts for the majority of under-five deaths, which has shifted programme emphasis towards facility-based newborn care.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (maternal mortality indicators), 2023 NEET-PG (PQLI includes IMR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2024 INI-CET (maternal mortality indicators), 2023 NEET-PG (PQLI includes IMR)"
+    }
+  },
+  {
+    "id": "psm_q_134",
+    "questionNumber": 134,
+    "subject": "PSM",
+    "subTopic": "Mch And Demography",
+    "sub_topic": "Mch And Demography",
+    "stem": "The Janani Shishu Suraksha Karyakram entitles a sick newborn to free care up to the age of",
+    "options": [
+      "1 year",
+      "28 days",
+      "6 months",
+      "5 years"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The entitlement covers free treatment, drugs, diagnostics, diet, blood and referral transport with no out-of-pocket expenditure, for both the mother and the sick infant up to one year.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (LaQshya), 2024 INI-CET (RMNCH+A components)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mch And Demography",
+      "basedOn": "2022 INI-CET (LaQshya), 2024 INI-CET (RMNCH+A components)"
+    }
+  },
+  {
+    "id": "psm_q_135",
+    "questionNumber": 135,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "Under the Bio-Medical Waste Management Rules, used latex gloves are discarded in the",
+    "options": [
+      "Red bag",
+      "Yellow bag",
+      "Black bag",
+      "White puncture-proof container"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Red is for contaminated recyclable waste — tubing, catheters, syringes without needles, gloves — treated by autoclaving or microwaving then sent for recycling. Yellow takes anatomical, soiled and pharmaceutical waste for incineration.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (latex gloves — red bag, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2023 INI-CET / 2015 AIIMS (latex gloves — red bag, 2X)"
+    }
+  },
+  {
+    "id": "psm_q_136",
+    "questionNumber": 136,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "Paper wrappers and other uncontaminated general waste go into the",
+    "options": [
+      "Yellow bag",
+      "Red bag",
+      "Black bin, as general municipal waste",
+      "Blue container"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Correct segregation at the point of generation keeps the volume of infectious waste small. Mixing general waste into infectious streams multiplies treatment cost and is the commonest audit failure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (paper/wrapper discarded in black bin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Waste And Environment",
+      "basedOn": "2023 INI-CET (paper/wrapper discarded in black bin)"
+    }
+  },
+  {
+    "id": "psm_q_137",
+    "questionNumber": 137,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "A used pacemaker or other metallic implant is discarded in",
+    "options": [
+      "The black bin",
+      "The red bag",
+      "The yellow bag",
+      "A blue cardboard box for glassware and metallic implants"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The white translucent puncture-proof container is for sharps — needles, blades and broken glass ampoules. Needles are destroyed at the point of use with a needle destroyer rather than recapped.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pacemaker discarded in blue cardboard box)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2022 INI-CET (pacemaker discarded in blue cardboard box)"
+    }
+  },
+  {
+    "id": "psm_q_138",
+    "questionNumber": 138,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "The first step on discovering a spill of blood on the floor of a ward is to",
+    "options": [
+      "Cover it with an absorbent material, then apply 1% sodium hypochlorite before removal",
+      "Wipe it with dry gauze immediately",
+      "Pour alcohol over it",
+      "Call the municipal authority"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Containing the spill first prevents aerosolisation and spread. Personal protective equipment is worn throughout, and the material is then discarded as infectious waste in the yellow bag.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (next step in accidental blood spill — cover with absorbable object), 2023 NEET-PG (disinfectant for blood spill — sodium hypochlorite)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2024 INI-CET (next step in accidental blood spill — cover with absorbable object), 2023 NEET-PG (disinfectant for blood spill — sodium hypochlorite)"
+    }
+  },
+  {
+    "id": "psm_q_139",
+    "questionNumber": 139,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "A broken thermometer spills mercury on the ward floor. The correct action is to",
+    "options": [
+      "Sweep it with a broom",
+      "Collect the droplets with stiff paper or cardboard into a container of water, and never use a vacuum cleaner",
+      "Vacuum it immediately",
+      "Wash it down the drain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Water covers the mercury and limits vaporisation. Vacuuming or sweeping disperses droplets and generates toxic vapour. Powdered sulphur may be used to amalgamate residual droplets, and the area must be ventilated.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mercury spill — collect using paper/cardboard and put in water)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2024 INI-CET (mercury spill — collect using paper/cardboard and put in water)"
+    }
+  },
+  {
+    "id": "psm_q_140",
+    "questionNumber": 140,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "For trench-type sanitary landfilling 2 metres deep, the land required for a population of 10,000 is about",
+    "options": [
+      "0.1 acre per year",
+      "5 acres per year",
+      "1 acre per year",
+      "10 acres per year"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In the trench method, refuse is placed in a trench 2–3 m deep and covered with 20–30 cm of earth; chemical and bacterial decomposition completes in about 4–6 months, producing stable humus.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (trench sanitary landfilling — 1 acre for 10,000 population)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Waste And Environment",
+      "basedOn": "2022 NEET-PG (trench sanitary landfilling — 1 acre for 10,000 population)"
+    }
+  },
+  {
+    "id": "psm_q_141",
+    "questionNumber": 141,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "The disinfectant action of bleaching powder in water treatment is due to",
+    "options": [
+      "Elemental chlorine gas",
+      "Calcium hydroxide",
+      "Chloramine only",
+      "Hypochlorous acid"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hypochlorous acid is the active germicidal species and acts best at acidic to neutral pH. Free residual chlorine of 0.5 mg/L after one hour of contact is the standard, and the break-point chlorination curve underlies the horrock's apparatus test.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2022 NEET-PG (active disinfectant property of bleaching powder — hypochlorous acid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2023 NEET-PG / 2022 NEET-PG (active disinfectant property of bleaching powder — hypochlorous acid)"
+    }
+  },
+  {
+    "id": "psm_q_142",
+    "questionNumber": 142,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "Low air velocity and the cooling power of air are measured with a",
+    "options": [
+      "Kata thermometer",
+      "Sling psychrometer",
+      "Globe thermometer",
+      "Anemometer"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It measures cooling power, integrating air temperature and movement. A sling psychrometer gives humidity, a globe thermometer radiant heat, and the wet bulb globe temperature index combines all three to assess heat stress.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (low wind velocity and cooling power of air — Kata thermometer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2023 NEET-PG (low wind velocity and cooling power of air — Kata thermometer)"
+    }
+  },
+  {
+    "id": "psm_q_143",
+    "questionNumber": 143,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "Under the Employees' State Insurance Act, extended sickness benefit for tuberculosis is payable for up to",
+    "options": [
+      "6 months",
+      "2 years",
+      "1 year",
+      "3 years"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ordinary sickness benefit lasts 91 days a year at about 70% of wages; extended benefit for 34 specified long-term diseases including tuberculosis runs up to 2 years at a higher rate. Disablement and dependants' benefits are separate.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (extended sickness benefit for TB under ESI — 2 years)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Waste And Environment",
+      "basedOn": "2022 NEET-PG (extended sickness benefit for TB under ESI — 2 years)"
+    }
+  },
+  {
+    "id": "psm_q_144",
+    "questionNumber": 144,
+    "subject": "PSM",
+    "subTopic": "Waste And Environment",
+    "sub_topic": "Waste And Environment",
+    "stem": "Long-term benzene exposure in an occupational setting is most strongly associated with",
+    "options": [
+      "Mesothelioma",
+      "Silicosis",
+      "Acute myeloid leukaemia and aplastic anaemia",
+      "Bladder carcinoma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Asbestos causes mesothelioma and bronchogenic carcinoma, silica causes silicosis with a raised tuberculosis risk, and aromatic amines cause bladder cancer. These occupational pairings recur in both PSM and Pathology.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (benzene exposure leads to blood cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Waste And Environment",
+      "basedOn": "2023 NEET-PG (benzene exposure leads to blood cancer)"
+    }
+  },
+  {
+    "id": "psm_q_145",
+    "questionNumber": 145,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "In mass-casualty triage, a victim with an immediately life-threatening but salvageable injury is tagged",
+    "options": [
+      "Black",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Red means first priority, yellow second (can wait a short time), green third (ambulatory, \"walking wounded\") and black dead or expectant. Triage is based on severity **and** likelihood of survival, so the aim is the greatest good for the greatest number.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (immediate life-threatening injuries — red), 2023 INI-CET (triage based on severity and likelihood of survival), 2022 NEET-PG (green — ambulatory patients)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Health Systems",
+      "basedOn": "2024 INI-CET (immediate life-threatening injuries — red), 2023 INI-CET (triage based on severity and likelihood of survival), 2022 NEET-PG (green — ambulatory patients)"
+    }
+  },
+  {
+    "id": "psm_q_146",
+    "questionNumber": 146,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "Development of a community programme is most likely to succeed when it is based on",
+    "options": [
+      "The community's felt needs",
+      "The expert's assessment alone",
+      "National averages",
+      "Available funding alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Felt needs generate participation and sustainability. Where a real need is not yet felt, health education is used to convert it into a felt need before the intervention is launched.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (contribution to development of community — felt needs), 2022 INI-CET (motivation precedes action)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Health Systems",
+      "basedOn": "2024 INI-CET (contribution to development of community — felt needs), 2022 INI-CET (motivation precedes action)"
+    }
+  },
+  {
+    "id": "psm_q_147",
+    "questionNumber": 147,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "Different people attaching different meanings to the same word is which type of communication barrier?",
+    "options": [
+      "Physiological barrier",
+      "Semantic barrier",
+      "Psychological barrier",
+      "Environmental barrier"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Semantic barriers arise from language, jargon, dialect and translation. Physiological barriers include deafness and poor vision; psychological barriers include emotion, prejudice and low attention; environmental barriers include noise and distance.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (different interpretation of words — semantic barrier), 2024 INI-CET (effective doctor–patient communication requires understanding cultural patterns)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Health Systems",
+      "basedOn": "2023 NEET-PG (different interpretation of words — semantic barrier), 2024 INI-CET (effective doctor–patient communication requires understanding cultural patterns)"
+    }
+  },
+  {
+    "id": "psm_q_148",
+    "questionNumber": 148,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "The best method of assessing whether a health worker gives an injection correctly is",
+    "options": [
+      "Self-reported confidence",
+      "A written test",
+      "Structured observation using a checklist",
+      "A group discussion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Skills are assessed by observation of performance, not by testing knowledge. This mirrors the educational principle that the assessment method must match the domain — knowledge by written test, skill by observation, attitude by behaviour over time.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (best way to assess correct injection technique — structured observation and checklist)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Health Systems",
+      "basedOn": "2023 INI-CET (best way to assess correct injection technique — structured observation and checklist)"
+    }
+  },
+  {
+    "id": "psm_q_149",
+    "questionNumber": 149,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "Management by objectives is a technique derived from",
+    "options": [
+      "Epidemiology",
+      "Operations research",
+      "Cost accounting",
+      "Behavioural science, emphasising participative goal setting and review"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Supervisor and subordinate jointly set measurable objectives and review attainment. Related planning tools are PERT and CPM for scheduling, systems analysis, and cost–benefit and cost-effectiveness analysis for choosing between options.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (technique based on behavioural sciences — management by objective)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Health Systems",
+      "basedOn": "2023 NEET-PG (technique based on behavioural sciences — management by objective)"
+    }
+  },
+  {
+    "id": "psm_q_150",
+    "questionNumber": 150,
+    "subject": "PSM",
+    "subTopic": "Health Systems",
+    "sub_topic": "Health Systems",
+    "stem": "As the medical officer of a primary health centre posted in a seismically active area, the action that is NOT appropriate is",
+    "options": [
+      "Relying on loudspeaker announcements as the sole basis for action during an earthquake",
+      "Preparing a hospital disaster plan with a mass-casualty protocol",
+      "Training staff in triage and conducting drills",
+      "Identifying and stocking essential drugs and supplies in advance"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Disaster preparedness rests on a written plan, trained staff, drills, stockpiles and a defined chain of command. Depending on ad hoc public announcements, which may be absent or wrong, is the opposite of preparedness.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (medical officer in seismic area — what not to do), 2024 INI-CET (triage categories)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Health Systems",
+      "basedOn": "2023 NEET-PG (medical officer in seismic area — what not to do), 2024 INI-CET (triage categories)"
+    }
+  }
+]

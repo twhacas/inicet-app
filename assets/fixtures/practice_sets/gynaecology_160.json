@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "gyn_q_1",
+    "questionNumber": 1,
+    "subject": "Gynaecology",
+    "subTopic": "Anatomy",
+    "sub_topic": "Anatomy",
+    "stem": "Anteversion of the uterus is maintained chiefly by",
+    "options": [
+      "The broad ligament alone",
+      "The round and uterosacral ligaments",
+      "The cardinal ligament of Mackenrodt",
+      "The ovarian ligament"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Round ligaments pull the fundus forwards and uterosacral ligaments pull the cervix backwards, producing both anteversion and anteflexion. The cardinal and uterosacral ligaments provide the main **support** against descent, which is a separate function.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2014 AIIMS (anteversion of uterus maintained by round and uterosacral ligaments, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anatomy",
+      "basedOn": "2022 NEET-PG / 2014 AIIMS (anteversion of uterus maintained by round and uterosacral ligaments, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_2",
+    "questionNumber": 2,
+    "subject": "Gynaecology",
+    "subTopic": "Anatomy",
+    "sub_topic": "Anatomy",
+    "stem": "The primary supports of the uterus are",
+    "options": [
+      "The broad ligament and infundibulopelvic ligament",
+      "The round ligament and ovarian ligament",
+      "The pelvic diaphragm, urogenital diaphragm and perineal body",
+      "The peritoneum of the pouch of Douglas"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Levator ani is the single most important muscular support. The broad and round ligaments are only secondary supports, which is why they are never relied on in prolapse repair.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (supports of the uterus — urogenital diaphragm, pelvic diaphragm, perineal body)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anatomy",
+      "basedOn": "2017 AIIMS (supports of the uterus — urogenital diaphragm, pelvic diaphragm, perineal body)"
+    }
+  },
+  {
+    "id": "gyn_q_3",
+    "questionNumber": 3,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "Remnants of the Wolffian (mesonephric) duct in the female are found in the",
+    "options": [
+      "Posterior vaginal wall only",
+      "Ovarian cortex",
+      "Uterine fundus",
+      "Broad ligament, as the epoophoron and paroophoron"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Gartner duct cysts in the anterolateral vaginal wall are the other classic remnant. The Müllerian ducts form the tubes, uterus, cervix and upper vagina, while the lower vagina derives from the urogenital sinus.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (remnant of Wolffian duct located in the broad ligament)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Embryology",
+      "basedOn": "2019 NEET-PG (remnant of Wolffian duct located in the broad ligament)"
+    }
+  },
+  {
+    "id": "gyn_q_4",
+    "questionNumber": 4,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "The gene for Müllerian inhibiting substance is located on chromosome",
+    "options": [
+      "X",
+      "11",
+      "19",
+      "Y"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The AMH gene sits on 19p13.3, while its receptor gene is on chromosome 12. **SRY** is on the Y chromosome and switches on testis determination; AMH, secreted by Sertoli cells, then causes Müllerian regression.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2020 INI-CET (Müllerian inhibiting substance gene — chromosome 19, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Embryology",
+      "basedOn": "2023 NEET-PG / 2020 INI-CET (Müllerian inhibiting substance gene — chromosome 19, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_5",
+    "questionNumber": 5,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "Testosterone secretion by the fetal testis in early gestation is driven by",
+    "options": [
+      "Fetal LH",
+      "Placental hCG",
+      "Fetal ACTH",
+      "Maternal oestrogen"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "hCG acts on the LH receptor of fetal Leydig cells before the fetal pituitary is functional, which is why hCG can be used therapeutically to stimulate testosterone. Fetal LH takes over in the second half of pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (release of testosterone from embryonic testes due to hCG from placenta)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Embryology",
+      "basedOn": "2018 NEET-PG (release of testosterone from embryonic testes due to hCG from placenta)"
+    }
+  },
+  {
+    "id": "gyn_q_6",
+    "questionNumber": 6,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "A unicornuate uterus with a non-communicating rudimentary horn is best diagnosed by",
+    "options": [
+      "Hysterosalpingography alone",
+      "Combined hysteroscopy with laparoscopy, or three-dimensional ultrasound/MRI",
+      "Transabdominal ultrasound alone",
+      "Saline infusion sonography alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hysterosalpingography outlines only the cavity, so a non-communicating horn is invisible to it. Hysteroscopy shows the internal contour and laparoscopy the external, and together they classify a Müllerian anomaly completely.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (investigation for unicornuate uterus — HSG and laparoscopy), 2022 NEET-PG (best investigation to identify Müllerian anomaly — hysteroscopy plus laparoscopy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Embryology",
+      "basedOn": "2022 INI-CET (investigation for unicornuate uterus — HSG and laparoscopy), 2022 NEET-PG (best investigation to identify Müllerian anomaly — hysteroscopy plus laparoscopy)"
+    }
+  },
+  {
+    "id": "gyn_q_7",
+    "questionNumber": 7,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "Hysterosalpingography shows two uterine horns separated by a **narrow** angle with a single external contour. The diagnosis is",
+    "options": [
+      "Bicornuate uterus",
+      "Uterus didelphys",
+      "Septate uterus",
+      "Arcuate uterus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A narrow intercornual angle, usually under 75 degrees, with a single fundal outline is a septate uterus and is treated by hysteroscopic septoplasty. A **wide** angle with a fundal cleft indicates a bicornuate uterus, which needs no hysteroscopic repair.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2014 AIIMS (HSG showing two horns with narrow angle — septate uterus, 3X), 2018 NEET-PG (wide angle — uterine didelphys)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Embryology",
+      "basedOn": "2018 NEET-PG / 2014 AIIMS (HSG showing two horns with narrow angle — septate uterus, 3X), 2018 NEET-PG (wide angle — uterine didelphys)"
+    }
+  },
+  {
+    "id": "gyn_q_8",
+    "questionNumber": 8,
+    "subject": "Gynaecology",
+    "subTopic": "Embryology",
+    "sub_topic": "Embryology",
+    "stem": "Management of a septate uterus with recurrent pregnancy loss is",
+    "options": [
+      "No intervention is ever indicated",
+      "Strassman metroplasty",
+      "Tompkins abdominal metroplasty",
+      "Hysteroscopic septal resection"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is day-care surgery with no uterine scar, so vaginal delivery remains possible. Abdominal metroplasty is reserved for a bicornuate or didelphys uterus and leaves a scar that mandates caesarean section.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (management of septate uterus — hysteroscopic septoplasty, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Embryology",
+      "basedOn": "2020 NEET-PG (management of septate uterus — hysteroscopic septoplasty, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_9",
+    "questionNumber": 9,
+    "subject": "Gynaecology",
+    "subTopic": "Anatomy",
+    "sub_topic": "Anatomy",
+    "stem": "The mitochondrial sheath of a spermatozoon lies in the",
+    "options": [
+      "Acrosome",
+      "Head",
+      "Middle piece",
+      "Principal piece of the tail"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It supplies ATP for flagellar motion. The head carries the nucleus and acrosome, and the tail's principal piece has the fibrous sheath. Sperm mitochondria are degraded after fertilisation, which is why mitochondrial inheritance is maternal.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mitochondrial sheath found in the middle piece of sperm)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anatomy",
+      "basedOn": "2024 INI-CET (mitochondrial sheath found in the middle piece of sperm)"
+    }
+  },
+  {
+    "id": "gyn_q_10",
+    "questionNumber": 10,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The primary oocyte remains arrested from fetal life until the LH surge at the",
+    "options": [
+      "Metaphase of meiosis II",
+      "Diplotene stage of prophase I",
+      "Pachytene stage",
+      "Anaphase of meiosis I"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This dictyate arrest can last 50 years, which is thought to explain the rising aneuploidy rate with maternal age. Meiosis I completes at ovulation and meiosis II only on fertilisation.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (primary oocyte is arrested in diplotene)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2021 INI-CET (primary oocyte is arrested in diplotene)"
+    }
+  },
+  {
+    "id": "gyn_q_11",
+    "questionNumber": 11,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The most potent naturally occurring oestrogen is",
+    "options": [
+      "Oestrone",
+      "Oestradiol",
+      "Oestriol",
+      "Ethinyl oestradiol"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Potency runs oestradiol",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (most potent natural oestrogen — oestradiol), 2024 INI-CET obstetrics (most potent natural oestrogen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2021 INI-CET (most potent natural oestrogen — oestradiol), 2024 INI-CET obstetrics (most potent natural oestrogen)"
+    }
+  },
+  {
+    "id": "gyn_q_12",
+    "questionNumber": 12,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The hormone responsible for growth of the ovarian follicle in the early follicular phase, and the hormone predominant after day 14, are respectively",
+    "options": [
+      "FSH and oestrogen",
+      "LH and oestrogen",
+      "FSH and progesterone",
+      "Progesterone and LH"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "FSH recruits and grows follicles; after ovulation the corpus luteum makes progesterone, which dominates the luteal phase. Its withdrawal when the corpus luteum fails triggers menstruation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (hormone for follicular growth in early follicular phase — FSH), 2020 NEET-PG (hormone predominantly secreted after day 14 — progesterone, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2020 INI-CET (hormone for follicular growth in early follicular phase — FSH), 2020 NEET-PG (hormone predominantly secreted after day 14 — progesterone, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_13",
+    "questionNumber": 13,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Corkscrew or sawtooth endometrial glands on histology indicate",
+    "options": [
+      "Endometrial hyperplasia",
+      "Unopposed oestrogen effect",
+      "Atrophic endometrium",
+      "Progesterone effect from the corpus luteum, that is, secretory endometrium"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Subnuclear vacuolation appears about 36 hours after ovulation and is the earliest histological evidence of it. Proliferative endometrium under oestrogen instead shows straight tubular glands with mitoses.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (corkscrew glands in endometrium due to progesterone from corpus luteum), 2018 NEET-PG (day 20 corresponds to luteal phase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2022 INI-CET (corkscrew glands in endometrium due to progesterone from corpus luteum), 2018 NEET-PG (day 20 corresponds to luteal phase)"
+    }
+  },
+  {
+    "id": "gyn_q_14",
+    "questionNumber": 14,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The fetal adrenal gland predominantly secretes",
+    "options": [
+      "Aldosterone",
+      "Cortisol throughout gestation",
+      "DHEAS, which the placenta aromatises to oestriol",
+      "Adrenaline"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The fetal zone of the adrenal is large and lacks 3-beta-hydroxysteroid dehydrogenase, so it makes the sulphated androgen rather than cortisol. Maternal oestriol therefore reflects fetal adrenal and placental function together.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (fetal adrenal gland secretes DHEAS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Physiology",
+      "basedOn": "2020 INI-CET (fetal adrenal gland secretes DHEAS)"
+    }
+  },
+  {
+    "id": "gyn_q_15",
+    "questionNumber": 15,
+    "subject": "Gynaecology",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Deficiency of which micronutrient causes hypogonadism and delayed sexual maturation?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Iodine",
+      "Selenium"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Zinc is needed for gonadotrophin action and spermatogenesis, and deficiency also causes acrodermatitis enteropathica, poor wound healing and impaired taste. Selenium deficiency affects sperm motility but does not delay puberty.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (micronutrient deficiency leading to hypogonadism and delayed sexual maturity — zinc)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2020 INI-CET (micronutrient deficiency leading to hypogonadism and delayed sexual maturity — zinc)"
+    }
+  },
+  {
+    "id": "gyn_q_16",
+    "questionNumber": 16,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "A 14-year-old has acute urinary retention, cyclical lower abdominal pain and a tense bluish bulge at the introitus. The diagnosis and treatment are",
+    "options": [
+      "Transverse vaginal septum; abdominoperineal pull-through",
+      "Imperforate hymen; cruciate incision and drainage of haematocolpos",
+      "Müllerian agenesis; vaginoplasty",
+      "Labial adhesions; topical oestrogen"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A bulging blue membrane visible at the introitus is the distinguishing sign — a transverse septum lies higher and is not visible externally. The karyotype is 46,XX and secondary sexual characteristics are normal.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (acute retention, cyclical pain, tense blue bulge — imperforate hymen, 4X), 2021 NEET-PG (karyotype of imperforate hymen — 46,XX)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (acute retention, cyclical pain, tense blue bulge — imperforate hymen, 4X), 2021 NEET-PG (karyotype of imperforate hymen — 46,XX)"
+    }
+  },
+  {
+    "id": "gyn_q_17",
+    "questionNumber": 17,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "A 19-year-old has primary amenorrhoea with normal breast and pubic hair development and a blind vaginal pouch with an absent uterus on imaging. The next investigation is",
+    "options": [
+      "Serum prolactin",
+      "Serum FSH",
+      "Karyotype, to separate Müllerian agenesis from androgen insensitivity",
+      "Thyroid function tests"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Both present identically on inspection. MRKH is 46,XX with normal ovaries, normal pubic hair and a normal female testosterone; complete androgen insensitivity is 46,XY with sparse pubic hair and male-range testosterone. Renal tract imaging is also needed in MRKH.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (primary amenorrhoea, breast and pubic hair present, blind vagina — Müllerian agenesis, 3X), 2022 INI-CET (match karyotypes — MRKH 46,XX; AIS 46,XY)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Amenorrhoea",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (primary amenorrhoea, breast and pubic hair present, blind vagina — Müllerian agenesis, 3X), 2022 INI-CET (match karyotypes — MRKH 46,XX; AIS 46,XY)"
+    }
+  },
+  {
+    "id": "gyn_q_18",
+    "questionNumber": 18,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "A 17-year-old has primary amenorrhoea, normal breast development, **absent** axillary and pubic hair and bilateral inguinal swellings. The diagnosis is",
+    "options": [
+      "5-alpha reductase deficiency",
+      "Müllerian agenesis",
+      "Turner syndrome",
+      "Complete androgen insensitivity syndrome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Absent sexual hair with normal breasts is the giveaway: androgen receptors fail, so no androgen-dependent hair grows, while peripheral aromatisation of testosterone gives breast development. The inguinal swellings are testes, removed after puberty because of malignancy risk.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (primary amenorrhoea, no axillary hair, bilateral inguinal swellings — androgen insensitivity, 3X), 2016 AIIMS (partial AIS, 2X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Amenorrhoea",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (primary amenorrhoea, no axillary hair, bilateral inguinal swellings — androgen insensitivity, 3X), 2016 AIIMS (partial AIS, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_19",
+    "questionNumber": 19,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "A 15-year-old reared as a female has primary amenorrhoea, prepubertal breasts, virilisation at puberty and a 46,XY karyotype with normal testosterone and a raised testosterone-to-DHT ratio. The diagnosis is",
+    "options": [
+      "Congenital adrenal hyperplasia",
+      "Complete androgen insensitivity syndrome",
+      "5-alpha reductase deficiency",
+      "Swyer syndrome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Testosterone cannot be converted to dihydrotestosterone, so the external genitalia are undervirilised at birth but testosterone-dependent changes occur at puberty. It is a **male pseudohermaphroditism**; internal ducts are male and Müllerian structures absent.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (primary amenorrhoea with prepubertal development — 5-alpha reductase deficiency, 2X), 2024 INI-CET (5-alpha reductase deficiency — male pseudohermaphrodite)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Amenorrhoea",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG (primary amenorrhoea with prepubertal development — 5-alpha reductase deficiency, 2X), 2024 INI-CET (5-alpha reductase deficiency — male pseudohermaphrodite)"
+    }
+  },
+  {
+    "id": "gyn_q_20",
+    "questionNumber": 20,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "Congenital adrenal hyperplasia in a 46,XX infant produces",
+    "options": [
+      "Male pseudohermaphroditism",
+      "Female pseudohermaphroditism, with ambiguous external genitalia and normal ovaries and uterus",
+      "True hermaphroditism",
+      "Gonadal dysgenesis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "21-hydroxylase deficiency is commonest, shunting precursors to androgens. The salt-wasting form presents in the neonatal period with hyponatraemia, hyperkalaemia and shock, and 17-hydroxyprogesterone is markedly raised.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2018 AIIMS (congenital adrenal hyperplasia — female pseudohermaphroditism, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Dsd",
+      "basedOn": "2023 NEET-PG / 2018 AIIMS (congenital adrenal hyperplasia — female pseudohermaphroditism, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_21",
+    "questionNumber": 21,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "The commonest karyotype in true hermaphroditism (ovotesticular DSD) is",
+    "options": [
+      "46,XY",
+      "46,XX",
+      "45,X/46,XY",
+      "47,XXY"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "About 60 to 80% of cases are 46,XX, with both ovarian and testicular tissue present, often as an ovotestis. Note that the source compilation gives contradictory karyotypes for this entity in different years; standard texts give 46,XX as commonest.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (true hermaphrodite — 46,XX with testes and ovaries), 2016 AIIMS (same entity recorded as 46,XY — contradictory)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Dsd",
+      "basedOn": "2023 NEET-PG (true hermaphrodite — 46,XX with testes and ovaries), 2016 AIIMS (same entity recorded as 46,XY — contradictory)"
+    }
+  },
+  {
+    "id": "gyn_q_22",
+    "questionNumber": 22,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "A 14-year-old has absent thelarche, a present uterus, high FSH and a 46,XY karyotype. The diagnosis is",
+    "options": [
+      "Complete androgen insensitivity",
+      "Turner syndrome",
+      "Swyer syndrome (complete gonadal dysgenesis)",
+      "Kallmann syndrome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Streak gonads make neither AMH nor testosterone, so Müllerian structures persist and a uterus is present despite the XY karyotype. Gonadectomy is required because of dysgerminoma risk, and oestrogen is given to induce puberty.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (absent thelarche, uterus present, high FSH, XY karyotype — Swyer syndrome), 2022 INI-CET (match karyotypes — Swyer 46,XY)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Dsd",
+      "basedOn": "2020 INI-CET (absent thelarche, uterus present, high FSH, XY karyotype — Swyer syndrome), 2022 INI-CET (match karyotypes — Swyer 46,XY)"
+    }
+  },
+  {
+    "id": "gyn_q_23",
+    "questionNumber": 23,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "Complete gonadal dysgenesis with a 46,XY karyotype is most often caused by",
+    "options": [
+      "An AMH receptor defect",
+      "Complete deletion of the Y chromosome",
+      "Trisomy of the X chromosome",
+      "A point mutation in the SRY gene"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A non-functional SRY protein cannot initiate testis determination, so bilateral streak gonads form. A woman with pure gonadal dysgenesis has a normal uterus and can carry a pregnancy by **ovum donation**.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (complete gonadal dysgenesis caused by point mutation in SRY gene), 2017 AIIMS (pure gonadal dysgenesis can become fertile by ovum donation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Dsd",
+      "basedOn": "2021 INI-CET (complete gonadal dysgenesis caused by point mutation in SRY gene), 2017 AIIMS (pure gonadal dysgenesis can become fertile by ovum donation)"
+    }
+  },
+  {
+    "id": "gyn_q_24",
+    "questionNumber": 24,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "Features of Turner syndrome include all EXCEPT",
+    "options": [
+      "Widely spaced nipples with a shield chest",
+      "Webbed neck",
+      "Tall stature with long limbs",
+      "A short fourth metacarpal"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Turner syndrome causes **short** stature; tall stature with long limbs describes Klinefelter syndrome. Cubitus valgus, a low posterior hairline, coarctation and horseshoe kidney complete the picture, with streak gonads and primary amenorrhoea.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (features of Turner syndrome — webbed neck, widely spaced nipples, short fourth metacarpal), 2018 NEET-PG (karyotype XO — Turner)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Dsd",
+      "basedOn": "2024 INI-CET (features of Turner syndrome — webbed neck, widely spaced nipples, short fourth metacarpal), 2018 NEET-PG (karyotype XO — Turner)"
+    }
+  },
+  {
+    "id": "gyn_q_25",
+    "questionNumber": 25,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "The workup of a girl with mosaic Turner syndrome includes all EXCEPT",
+    "options": [
+      "Echocardiography",
+      "Antinuclear antibody",
+      "Audiometry",
+      "Glucose tolerance test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Screening targets the recognised associations: bicuspid valve and coarctation, sensorineural and conductive deafness, glucose intolerance, hypothyroidism and renal anomalies. Autoimmune thyroid disease is screened by TSH, not by ANA.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (investigations in mosaic Turner — GTT, audiometry, echocardiography, not ANA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Dsd",
+      "basedOn": "2023 INI-CET (investigations in mosaic Turner — GTT, audiometry, echocardiography, not ANA)"
+    }
+  },
+  {
+    "id": "gyn_q_26",
+    "questionNumber": 26,
+    "subject": "Gynaecology",
+    "subTopic": "Dsd",
+    "sub_topic": "Dsd",
+    "stem": "Gynaecomastia, long limbs and a 47,XXY karyotype indicate",
+    "options": [
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Noonan syndrome",
+      "Kallmann syndrome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Small firm testes, azoospermia, raised FSH and LH with low testosterone, and a raised oestradiol-to-testosterone ratio explain the gynaecomastia. It is the commonest genetic cause of male infertility.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (gynaecomastia, long arms, 47,XXY — Klinefelter syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Dsd",
+      "basedOn": "2020 INI-CET (gynaecomastia, long arms, 47,XXY — Klinefelter syndrome)"
+    }
+  },
+  {
+    "id": "gyn_q_27",
+    "questionNumber": 27,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "Primary amenorrhoea with anosmia is characteristic of",
+    "options": [
+      "Asherman syndrome",
+      "Sheehan syndrome",
+      "Kallmann syndrome",
+      "Turner syndrome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Failed migration of GnRH neurones from the olfactory placode gives hypogonadotrophic hypogonadism with anosmia. FSH, LH and oestradiol are all low, and pulsatile GnRH or gonadotrophins can induce ovulation.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (anosmia commonly associated with Kallmann syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2021 INI-CET (anosmia commonly associated with Kallmann syndrome)"
+    }
+  },
+  {
+    "id": "gyn_q_28",
+    "questionNumber": 28,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "An athlete with a low BMI has secondary amenorrhoea with low FSH and LH. The diagnosis and first-line management are",
+    "options": [
+      "Asherman syndrome; hysteroscopic adhesiolysis",
+      "Premature ovarian insufficiency; hormone replacement",
+      "PCOS; combined oral contraceptive",
+      "Functional hypogonadotrophic hypogonadism; restore energy balance and weight"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Energy deficit suppresses GnRH pulsatility. It is part of the female athlete triad with low bone density and disordered eating. Premature ovarian insufficiency would instead show a **high** FSH.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (athlete, low BMI, secondary amenorrhoea, low FSH and LH — hypogonadotrophic hypogonadism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2024 INI-CET (athlete, low BMI, secondary amenorrhoea, low FSH and LH — hypogonadotrophic hypogonadism)"
+    }
+  },
+  {
+    "id": "gyn_q_29",
+    "questionNumber": 29,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "A woman has amenorrhoea and failure to lactate after a delivery complicated by severe haemorrhage. The expected hormone profile is",
+    "options": [
+      "Normal LH, normal FSH and normal oestradiol",
+      "High LH, high FSH and low oestradiol",
+      "Low LH, low FSH and low oestradiol",
+      "High prolactin with low FSH"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Sheehan syndrome is postpartum pituitary necrosis, so all trophic hormones fall. Asherman syndrome, by contrast, gives **normal** gonadotrophins and oestradiol because the defect is in the endometrium, not the axis.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (blood loss, failure to lactate, amenorrhoea — Sheehan syndrome, 2X), 2020 INI-CET (match hormone levels — Sheehan decreased LH/FSH/E2, Asherman normal)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Amenorrhoea",
+      "basedOn": "2021 NEET-PG (blood loss, failure to lactate, amenorrhoea — Sheehan syndrome, 2X), 2020 INI-CET (match hormone levels — Sheehan decreased LH/FSH/E2, Asherman normal)"
+    }
+  },
+  {
+    "id": "gyn_q_30",
+    "questionNumber": 30,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "Amenorrhoea 3 months after a spontaneous abortion that required curettage is most likely due to",
+    "options": [
+      "Premature ovarian insufficiency",
+      "Intrauterine adhesions (Asherman syndrome)",
+      "Hyperprolactinaemia",
+      "PCOS"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Puerperal or post-abortal curettage is the classic cause. Hypomenorrhoea or amenorrhoea follows, with a negative progesterone challenge but a positive response to combined oestrogen and progestogen. Hysteroscopic adhesiolysis is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (amenorrhoea after spontaneous abortion — uterine synechiae), 2021 INI-CET (commonest feature of Asherman syndrome — amenorrhoea), 2018 AIIMS (hypomenorrhoea, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2021 INI-CET (amenorrhoea after spontaneous abortion — uterine synechiae), 2021 INI-CET (commonest feature of Asherman syndrome — amenorrhoea), 2018 AIIMS (hypomenorrhoea, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_31",
+    "questionNumber": 31,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "Secondary amenorrhoea is defined as",
+    "options": [
+      "Failure to attain menarche by 15 years",
+      "Absence of menstruation for 6 months, or for three previous cycle lengths, in a woman who has menstruated before",
+      "Absence of menstruation for 3 months in any woman",
+      "Cycles longer than 35 days"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Primary amenorrhoea is failure to menstruate by 15 years with normal secondary sexual characteristics, or by 13 years with none. Option D describes oligomenorrhoea.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (classify into primary and secondary amenorrhoea), 2020 INI-CET (Tanner stage 1 breast at 14 — primary amenorrhoea, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2022 INI-CET (classify into primary and secondary amenorrhoea), 2020 INI-CET (Tanner stage 1 breast at 14 — primary amenorrhoea, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_32",
+    "questionNumber": 32,
+    "subject": "Gynaecology",
+    "subTopic": "Puberty",
+    "sub_topic": "Puberty",
+    "stem": "The first sign of puberty in a girl, and the hormone with a permissive role in its onset, are",
+    "options": [
+      "Menarche, and growth hormone",
+      "Pubarche, and insulin",
+      "Thelarche, and leptin",
+      "Growth spurt, and thyroxine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Leptin from adipose tissue signals adequate energy stores to the hypothalamus, permitting GnRH pulsatility. The sequence is thelarche, pubarche, growth spurt, then menarche. Pubic and axillary hair are **androgen**, not oestrogen, dependent.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hormone having a permissive role in puberty — leptin), 2018 AIIMS (first sign of puberty — thelarche), 2018 NEET-PG (hair growth is not oestrogen dependent)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Puberty",
+      "basedOn": "2024 INI-CET (hormone having a permissive role in puberty — leptin), 2018 AIIMS (first sign of puberty — thelarche), 2018 NEET-PG (hair growth is not oestrogen dependent)"
+    }
+  },
+  {
+    "id": "gyn_q_33",
+    "questionNumber": 33,
+    "subject": "Gynaecology",
+    "subTopic": "Puberty",
+    "sub_topic": "Puberty",
+    "stem": "The drug of choice for central precocious puberty in a girl is",
+    "options": [
+      "An aromatase inhibitor",
+      "A pulsatile GnRH agonist",
+      "A GnRH antagonist",
+      "A continuous GnRH agonist"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Continuous exposure downregulates pituitary GnRH receptors and suppresses gonadotrophins, whereas **pulsatile** delivery stimulates them. The same principle underlies agonist use in endometriosis, fibroids and prostate cancer.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (DOC for precocious puberty — GnRH analogues), 2020 INI-CET (continuous GnRH useful in precocious puberty, prostate cancer, endometriosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Puberty",
+      "basedOn": "2014 AIIMS (DOC for precocious puberty — GnRH analogues), 2020 INI-CET (continuous GnRH useful in precocious puberty, prostate cancer, endometriosis)"
+    }
+  },
+  {
+    "id": "gyn_q_34",
+    "questionNumber": 34,
+    "subject": "Gynaecology",
+    "subTopic": "Amenorrhoea",
+    "sub_topic": "Amenorrhoea",
+    "stem": "Premature ovarian insufficiency is diagnosed by",
+    "options": [
+      "A low AMH alone",
+      "A single FSH above 20 IU/L",
+      "A serum FSH above 40 IU/L on two occasions with amenorrhoea before 40 years",
+      "Amenorrhoea for 3 months at any age"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Causes include Turner mosaicism, fragile X premutation, autoimmune disease, chemotherapy and radiotherapy. Hormone replacement is given until the natural age of menopause to protect bone and cardiovascular health.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (diagnostic of premature menopause — serum FSH >40)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amenorrhoea",
+      "basedOn": "2018 AIIMS (diagnostic of premature menopause — serum FSH >40)"
+    }
+  },
+  {
+    "id": "gyn_q_35",
+    "questionNumber": 35,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "The WHO-recommended dedicated emergency contraceptive pill regimen is",
+    "options": [
+      "Levonorgestrel 0.75 mg as a single dose",
+      "Levonorgestrel 1.5 mg as a single dose",
+      "Ethinyl oestradiol 100 micrograms twice",
+      "Mifepristone 200 mg"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is most effective within 72 hours and works mainly by delaying ovulation, so it fails if ovulation has already occurred. Efficacy is reduced at higher body weight, where ulipristal or a copper IUD is preferable.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (WHO recommended emergency contraception — LNG 1.5 mg, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2024 INI-CET (WHO recommended emergency contraception — LNG 1.5 mg, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_36",
+    "questionNumber": 36,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "The dose of ulipristal acetate for emergency contraception, and its mechanism, are",
+    "options": [
+      "10 mg orally; progesterone receptor agonism",
+      "30 mg orally; selective progesterone receptor modulation",
+      "1.5 mg orally; oestrogen antagonism",
+      "200 mg orally; antiprogestin abortifacient action"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It remains effective up to 120 hours and outperforms levonorgestrel close to ovulation. Starting a progestogen-containing contraceptive within 5 days afterwards can blunt its effect, so initiation is delayed.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (dose of ulipristal acetate — 30 mg), 2016 AIIMS (ulipristal is a selective progesterone receptor modulator)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2023 NEET-PG (dose of ulipristal acetate — 30 mg), 2016 AIIMS (ulipristal is a selective progesterone receptor modulator)"
+    }
+  },
+  {
+    "id": "gyn_q_37",
+    "questionNumber": 37,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A woman presents 5 days after a single episode of unprotected intercourse and wants the most effective contraception. The best option is",
+    "options": [
+      "Combined oral contraceptive pills",
+      "Levonorgestrel 1.5 mg",
+      "A copper intrauterine device",
+      "Reassurance only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is effective up to 5 days after intercourse or up to 5 days after the earliest estimated ovulation, has the lowest failure rate of any emergency method and then provides ongoing contraception. Oral methods lose efficacy by day 5.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (contraception after 5 days of unprotected intercourse — copper IUD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2015 AIIMS (contraception after 5 days of unprotected intercourse — copper IUD)"
+    }
+  },
+  {
+    "id": "gyn_q_38",
+    "questionNumber": 38,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Which drug is NOT used as a postcoital contraceptive?",
+    "options": [
+      "Mifepristone",
+      "Levonorgestrel",
+      "Ulipristal acetate",
+      "Danazol"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Danazol is an androgenic agent used for endometriosis, not contraception. Centchroman (ormeloxifene) and the Yuzpe combined regimen are the other recognised postcoital methods.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (not used as an emergency contraceptive — danazol), 2016 AIIMS (not used as postcoital contraception — desogestrel)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2020 NEET-PG (not used as an emergency contraceptive — danazol), 2016 AIIMS (not used as postcoital contraception — desogestrel)"
+    }
+  },
+  {
+    "id": "gyn_q_39",
+    "questionNumber": 39,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Examples of long-acting reversible contraception include all EXCEPT",
+    "options": [
+      "The intrauterine device",
+      "The subdermal implant",
+      "Tubal ligation",
+      "Injectable depot medroxyprogesterone acetate"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Sterilisation is permanent, not reversible. LARC methods are user-independent after insertion, which is why their typical-use failure rates are far closer to their perfect-use rates than the pill's.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (examples of LARC — implants, IUD, injectables; tubal ligation is not LARC, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2020 INI-CET (examples of LARC — implants, IUD, injectables; tubal ligation is not LARC, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_40",
+    "questionNumber": 40,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "The mechanism of action of depot medroxyprogesterone acetate includes",
+    "options": [
+      "Endometrial thinning only",
+      "Inhibition of ovulation, endometrial thinning and thickening of cervical mucus",
+      "A spermicidal action",
+      "Blocking implantation only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Its characteristic drawbacks are irregular bleeding then amenorrhoea, delayed return of fertility of up to 9 months, weight gain and reversible loss of bone mineral density.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (mechanism of DMPA — inhibition of ovulation, endometrial thinning, cervical mucus, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (mechanism of DMPA — inhibition of ovulation, endometrial thinning, cervical mucus, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_41",
+    "questionNumber": 41,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A woman on three-monthly DMPA presents 14 days after her due date for the next injection. The correct action is",
+    "options": [
+      "Refuse until the next menstrual period",
+      "Give the injection with no need for backup contraception",
+      "Give the injection with 7 days of backup contraception",
+      "Switch to oral contraceptives"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "DMPA has a grace period of 2 weeks beyond the 13-week interval, because ovarian suppression persists. Beyond that, pregnancy is excluded and backup cover is advised for 7 days.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (DMPA given 14 days late — give DMPA, no backup needed)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2022 INI-CET (DMPA given 14 days late — give DMPA, no backup needed)"
+    }
+  },
+  {
+    "id": "gyn_q_42",
+    "questionNumber": 42,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Low-dose progestogen-only pills work mainly by",
+    "options": [
+      "Acting as a spermicide",
+      "Completely abolishing ovulation in all users",
+      "Thickening cervical mucus and thinning the endometrium, without consistently inhibiting ovulation",
+      "Blocking fertilisation in the tube"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ovulation is suppressed in only about half of cycles, which is why the pill must be taken at the same time daily and the window for a missed pill is narrow. Desogestrel-containing versions inhibit ovulation more reliably.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (low-dose progesterone totally stops ovulation — false, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (low-dose progesterone totally stops ovulation — false, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_43",
+    "questionNumber": 43,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "An absolute contraindication to combined oral contraceptives is",
+    "options": [
+      "Mild iron-deficiency anaemia",
+      "Well-controlled hypertension at age 25",
+      "A family history of breast cancer",
+      "A history of deep vein thrombosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Oestrogen is prothrombotic. Migraine with aura, smoking above age 35, current breast cancer, active liver disease and uncontrolled hypertension are the other category 4 conditions. Progestogen-only methods remain available to these women.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (absolute contraindication of OCPs — DVT, 2X), 2024 INI-CET (contraceptive avoided with history of DVT)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (absolute contraindication of OCPs — DVT, 2X), 2024 INI-CET (contraceptive avoided with history of DVT)"
+    }
+  },
+  {
+    "id": "gyn_q_44",
+    "questionNumber": 44,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Combined oral contraceptives reduce the risk of all EXCEPT",
+    "options": [
+      "Ovarian carcinoma",
+      "Endometrial carcinoma",
+      "Sexually transmitted infection",
+      "Ectopic pregnancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Only barrier methods reduce infection risk. The pill also reduces benign breast disease, functional ovarian cysts, dysmenorrhoea and iron-deficiency anaemia, while slightly raising cervical cancer and venous thrombosis risk.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (oral contraceptives prevent endometrial cancer, ovarian cancer, ectopic pregnancy but not HIV, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (oral contraceptives prevent endometrial cancer, ovarian cancer, ectopic pregnancy but not HIV, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_45",
+    "questionNumber": 45,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A woman on a combined pill has no withdrawal bleed at the end of her first strip. The correct advice is",
+    "options": [
+      "Stop the pill permanently",
+      "Attend for a pregnancy test before continuing",
+      "Ignore it, as it is always normal",
+      "Double the next strip"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Absent withdrawal bleeding is often simply endometrial atrophy and is harmless, but pregnancy must be excluded first — especially after a first cycle, when adherence is least established.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Mala-N with no withdrawal bleeding after first strip — check for pregnancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2021 INI-CET (Mala-N with no withdrawal bleeding after first strip — check for pregnancy)"
+    }
+  },
+  {
+    "id": "gyn_q_46",
+    "questionNumber": 46,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A woman has missed four combined oral contraceptive pills in the past 2 weeks. The correct advice is",
+    "options": [
+      "Stop the pack and wait for a period",
+      "Take the most recent missed pill now, continue the pack, and use barrier contraception for 7 days, considering emergency contraception",
+      "Take all four missed pills together",
+      "No action is needed"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Missing two or more pills risks escape ovulation, and the first week of the pack is the most vulnerable. Only the latest missed pill is taken; the rest are discarded to avoid nausea.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (missed four OCPs in last 2 weeks — continue packet, barrier contraception)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2021 NEET-PG (missed four OCPs in last 2 weeks — continue packet, barrier contraception)"
+    }
+  },
+  {
+    "id": "gyn_q_47",
+    "questionNumber": 47,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "The correct timings for intrauterine device insertion include all EXCEPT",
+    "options": [
+      "Within 48 hours of delivery",
+      "Immediately after placental delivery",
+      "Between 48 hours and 4 weeks postpartum",
+      "Within the first 5 to 7 days of the menstrual cycle"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This window is specifically avoided because the expulsion and perforation risk is highest while the uterus is involuting. Insertion is either within 48 hours or deferred to 6 weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (correct timing of IUD insertion — immediate postpartum, up to 48 hours, within 5–7 days of menses), 2022 NEET-PG (earliest IUCD placement after normal delivery — within 48 hours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Contraception",
+      "basedOn": "2024 INI-CET (correct timing of IUD insertion — immediate postpartum, up to 48 hours, within 5–7 days of menses), 2022 NEET-PG (earliest IUCD placement after normal delivery — within 48 hours)"
+    }
+  },
+  {
+    "id": "gyn_q_48",
+    "questionNumber": 48,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A contraindication to copper intrauterine device insertion is",
+    "options": [
+      "Age over 35 years",
+      "Nulliparity",
+      "A history of caesarean section",
+      "Active pelvic inflammatory disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pregnancy, undiagnosed abnormal bleeding, genital malignancy, a distorted cavity and Wilson disease are the others, and insertion is avoided until hCG normalises after molar pregnancy. Heavy menstrual bleeding is a **relative** caution, since copper worsens it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (absolute contraindication for CuT — menorrhagia, questionable), 2019 NEET-PG (contraindication of Cu-T — post-molar evacuation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2022 INI-CET (absolute contraindication for CuT — menorrhagia, questionable), 2019 NEET-PG (contraindication of Cu-T — post-molar evacuation)"
+    }
+  },
+  {
+    "id": "gyn_q_49",
+    "questionNumber": 49,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A pregnant woman has an intrauterine device in situ with the threads clearly visible at the cervix. The correct action is",
+    "options": [
+      "Remove it hysteroscopically",
+      "Leave it in place throughout pregnancy",
+      "Remove it gently by traction on the threads",
+      "Terminate the pregnancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Leaving a device in situ raises the risk of miscarriage, septic abortion, preterm birth and chorioamnionitis. If the threads are not visible, it is left alone and located after delivery, since blind instrumentation is more dangerous.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pregnant woman with IUCD and visible threads — remove gently)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2023 NEET-PG (pregnant woman with IUCD and visible threads — remove gently)"
+    }
+  },
+  {
+    "id": "gyn_q_50",
+    "questionNumber": 50,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Tubal sterilisation is performed at the isthmus because",
+    "options": [
+      "It is the widest part of the tube",
+      "The muscle thickness is uniform there, giving secure occlusion",
+      "It is the commonest site of ectopic implantation",
+      "It is the most accessible part at laparotomy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The isthmus is narrow with a uniform wall, so a ring or clip occludes it reliably. The ampulla is wide and thin-walled and is also the commonest ectopic site, making it unsuitable.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (tubectomy done at the isthmus because of uniform muscle thickness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2023 NEET-PG (tubectomy done at the isthmus because of uniform muscle thickness)"
+    }
+  },
+  {
+    "id": "gyn_q_51",
+    "questionNumber": 51,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Fimbriectomy as a method of female sterilisation is known as the",
+    "options": [
+      "Pomeroy technique",
+      "Kroener technique",
+      "Madlener technique",
+      "Irving technique"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Pomeroy excises a loop of isthmus and is the commonest open technique; Madlener crushes and ligates without excision and has the highest failure rate; Irving buries the proximal stump in the myometrium and has the lowest.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (fimbriectomy — Kroener), 2020 NEET-PG (tubal ring applicator used in laparoscopic sterilisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Contraception",
+      "basedOn": "2022 NEET-PG (fimbriectomy — Kroener), 2020 NEET-PG (tubal ring applicator used in laparoscopic sterilisation)"
+    }
+  },
+  {
+    "id": "gyn_q_52",
+    "questionNumber": 52,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "If 8 of 20 women using a contraceptive conceive over 24 months of use, the Pearl index is",
+    "options": [
+      "40 per hundred woman-years",
+      "400 per hundred woman-years",
+      "20 per hundred woman-years",
+      "8 per hundred woman-years"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Pearl index = (pregnancies × 1200) ÷ total months of exposure = (8 × 1200) ÷ (20 × 24) = 9600 ÷ 480 = 20. Note that the source compilation records 400 for this calculation, which is incorrect — the arithmetic above is the standard formula.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (calculate Pearl index — source answer of 400 HWY is erroneous)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Contraception",
+      "basedOn": "2017 AIIMS (calculate Pearl index — source answer of 400 HWY is erroneous)"
+    }
+  },
+  {
+    "id": "gyn_q_53",
+    "questionNumber": 53,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "A woman is 18 months postpartum, breastfeeding, with heavy irregular bleeding. The most appropriate contraceptive is",
+    "options": [
+      "A copper intrauterine device as first choice",
+      "Lactational amenorrhoea method alone",
+      "No contraception is needed while breastfeeding",
+      "A progestogen-only or combined pill as appropriate, since lactational amenorrhoea no longer provides cover"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The lactational amenorrhoea method is only reliable for 6 months, with full breastfeeding and continuing amenorrhoea — all three conditions. A copper device would worsen the heavy bleeding.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (18 months postpartum, breastfeeding, heavy irregular bleeding — Mala-N)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2019 NEET-PG (18 months postpartum, breastfeeding, heavy irregular bleeding — Mala-N)"
+    }
+  },
+  {
+    "id": "gyn_q_54",
+    "questionNumber": 54,
+    "subject": "Gynaecology",
+    "subTopic": "Contraception",
+    "sub_topic": "Contraception",
+    "stem": "Which statement about vasectomy is TRUE?",
+    "options": [
+      "It reduces testosterone production",
+      "It is effective immediately",
+      "Azoospermia takes about 3 months or 20 ejaculations, so alternative contraception is needed meanwhile",
+      "It cannot be performed without a scalpel"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Sperm already stored distal to the occlusion must be cleared, and a post-procedure semen analysis confirms success. No-scalpel vasectomy has fewer complications than the conventional approach.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (vasectomy characteristics — laser method has fewer complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Contraception",
+      "basedOn": "2018 AIIMS (vasectomy characteristics — laser method has fewer complications)"
+    }
+  },
+  {
+    "id": "gyn_q_55",
+    "questionNumber": 55,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "A couple has been unable to conceive after 6 months of regular unprotected intercourse. The correct step is",
+    "options": [
+      "Begin a full infertility workup now",
+      "Reassure and review after a further 6 months, unless there is a specific risk factor",
+      "Refer directly for IVF",
+      "Start clomiphene empirically"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Infertility is defined at 12 months, by which time about 85% of couples conceive. Earlier investigation is justified at age 35 or above, or with known tubal, ovulatory or male factor disease.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (unable to conceive after 6 months — reassure and review after 6 months)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2020 NEET-PG (unable to conceive after 6 months — reassure and review after 6 months)"
+    }
+  },
+  {
+    "id": "gyn_q_56",
+    "questionNumber": 56,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Normal semen parameters by the current WHO reference values include",
+    "options": [
+      "Volume 5 mL, progressive motility 60%, morphology 50%",
+      "Volume 1.4 mL, progressive motility 30%, normal morphology 4%",
+      "Volume 1.4 mL, progressive motility 10%, morphology 1%",
+      "Volume 0.5 mL, progressive motility 30%, morphology 4%"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These are 5th-centile lower reference limits, not thresholds of normality. The concentration limit is about 15 to 16 million/mL depending on the WHO edition, so read the stem for which edition is intended.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (normal semen as per WHO, 2X), 2023 INI-CET (normal sperm morphology in at least 4%)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2024 INI-CET / 2014 AIIMS (normal semen as per WHO, 2X), 2023 INI-CET (normal sperm morphology in at least 4%)"
+    }
+  },
+  {
+    "id": "gyn_q_57",
+    "questionNumber": 57,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "A semen analysis shows a count of 25 million/mL, volume 1.5 mL, motility 15% and normal morphology 50%. The abnormality is",
+    "options": [
+      "Teratospermia",
+      "Oligospermia",
+      "Asthenospermia",
+      "Azoospermia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Only motility is below the reference limit, and asthenospermia means reduced motility. Oligospermia is a low count, teratospermia abnormal morphology, and azoospermia no sperm at all.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (semen analysis with low motility — asthenospermia), 2024 INI-CET (Kartagener syndrome causes asthenospermia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2017 AIIMS (semen analysis with low motility — asthenospermia), 2024 INI-CET (Kartagener syndrome causes asthenospermia)"
+    }
+  },
+  {
+    "id": "gyn_q_58",
+    "questionNumber": 58,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Male infertility in Kartagener syndrome is due to",
+    "options": [
+      "Retrograde ejaculation",
+      "Azoospermia from vasal agenesis",
+      "Obstruction of the ejaculatory duct",
+      "Asthenospermia from a dynein arm defect in the sperm flagellum"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The same ciliary defect causes bronchiectasis, chronic sinusitis and situs inversus. Sperm are present and structurally normal but immotile, so ICSI can achieve fertilisation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (male infertility in Kartagener syndrome — asthenospermia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2024 INI-CET (male infertility in Kartagener syndrome — asthenospermia)"
+    }
+  },
+  {
+    "id": "gyn_q_59",
+    "questionNumber": 59,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Absent fructose in the seminal fluid of an azoospermic man indicates",
+    "options": [
+      "Hypogonadotrophic hypogonadism",
+      "Primary testicular failure",
+      "Congenital absence of the seminal vesicles or ejaculatory duct obstruction",
+      "Retrograde ejaculation"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fructose is the marker of seminal vesicle secretion. Congenital bilateral absence of the vas deferens is associated with CFTR mutations, so cystic fibrosis screening is offered before ICSI.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (absent fructose in seminal fluid — absent seminal vesicles or ejaculatory duct obstruction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infertility",
+      "basedOn": "2022 INI-CET (absent fructose in seminal fluid — absent seminal vesicles or ejaculatory duct obstruction)"
+    }
+  },
+  {
+    "id": "gyn_q_60",
+    "questionNumber": 60,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "In a man with azoospermia, the test that best separates testicular failure from obstruction is",
+    "options": [
+      "Serum testosterone",
+      "Serum FSH",
+      "Serum prolactin",
+      "Scrotal ultrasound"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A high FSH with small testes indicates non-obstructive failure of spermatogenesis, whereas a normal FSH with normal testicular volume suggests obstruction, which is surgically correctable or amenable to sperm retrieval.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (azoospermia — next step to differentiate testicular failure from obstruction is serum FSH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2023 INI-CET (azoospermia — next step to differentiate testicular failure from obstruction is serum FSH)"
+    }
+  },
+  {
+    "id": "gyn_q_61",
+    "questionNumber": 61,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Hypogonadotrophic hypogonadism in a man is characterised by",
+    "options": [
+      "Azoospermia with high FSH and LH",
+      "Azoospermia or severe oligospermia with low FSH, LH and testosterone",
+      "Normal FSH with high testosterone",
+      "High prolactin with high testosterone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is one of the few treatable causes of male infertility, responding to hCG with FSH or to pulsatile GnRH. A **high** FSH and LH with low testosterone instead indicates primary testicular failure.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hypogonadotrophic hypogonadism — azoospermia, low FSH and LH, low testosterone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2022 INI-CET (hypogonadotrophic hypogonadism — azoospermia, low FSH and LH, low testosterone)"
+    }
+  },
+  {
+    "id": "gyn_q_62",
+    "questionNumber": 62,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Ovulation is best confirmed by measuring serum progesterone on",
+    "options": [
+      "Day 3",
+      "Day 14",
+      "Day 21 of a 28-day cycle, or 7 days before the expected period",
+      "Day 28"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is mid-luteal, when progesterone peaks; a value above about 3 ng/mL confirms ovulation. In an irregular cycle, timing from the **expected period** rather than from day 1 is what makes the test valid.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ovulation confirmed by progesterone levels on day 21)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2023 INI-CET (ovulation confirmed by progesterone levels on day 21)"
+    }
+  },
+  {
+    "id": "gyn_q_63",
+    "questionNumber": 63,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "The best marker of ovarian reserve, and the value indicating a low reserve, are",
+    "options": [
+      "LH-to-FSH ratio, above 2",
+      "Day 3 FSH, below 5 IU/L",
+      "Serum oestradiol, above 80 pg/mL",
+      "Anti-Müllerian hormone, below about 1 ng/mL"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "AMH comes from small antral follicles, is cycle-independent and falls early. The antral follicle count on ultrasound is the imaging equivalent. Neither predicts natural fertility well — they predict response to stimulation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (indicator of ovarian reserve — AMH), 2019 NEET-PG / 2014 AIIMS (AMH in low ovarian reserve — less than 1, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2024 INI-CET (indicator of ovarian reserve — AMH), 2019 NEET-PG / 2014 AIIMS (AMH in low ovarian reserve — less than 1, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_64",
+    "questionNumber": 64,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Unexplained infertility accounts for approximately what proportion of couples?",
+    "options": [
+      "50%",
+      "5%",
+      "30%",
+      "70%"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Roughly, male factor accounts for 30 to 40%, ovulatory and tubal factors for a similar share, and about a third remains unexplained after a normal semen analysis, confirmed ovulation and patent tubes.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (percentage of couples attributable to unexplained infertility — 30%)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2024 INI-CET (percentage of couples attributable to unexplained infertility — 30%)"
+    }
+  },
+  {
+    "id": "gyn_q_65",
+    "questionNumber": 65,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Hysterosalpingography shows bilateral dilated tubes with no spill of contrast into the peritoneal cavity. The diagnosis is",
+    "options": [
+      "Genital tuberculosis",
+      "Bilateral hydrosalpinx",
+      "Cornual block",
+      "Normal study"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hydrosalpinx markedly reduces IVF success, so salpingectomy before IVF improves implantation rates. A **beaded** tube with clubbed fimbriae and calcification instead suggests genital tuberculosis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (HSG with bilateral dilated tubes and no spill — bilateral hydrosalpinx, 2X), 2016 AIIMS (beaded appearance with clubbed fimbriae — genital TB)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2018 NEET-PG (HSG with bilateral dilated tubes and no spill — bilateral hydrosalpinx, 2X), 2016 AIIMS (beaded appearance with clubbed fimbriae — genital TB)"
+    }
+  },
+  {
+    "id": "gyn_q_66",
+    "questionNumber": 66,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "An 18-year-old has 6 months of amenorrhoea, low-grade fever, weight loss and a pelvic mass, with tubercles seen on the peritoneum at laparoscopy. The diagnosis is",
+    "options": [
+      "Ovarian carcinoma",
+      "Genital tuberculosis with a tubo-ovarian mass",
+      "Endometriosis",
+      "Pyogenic pelvic abscess"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is an important cause of infertility and amenorrhoea in India, spreading haematogenously to the tubes first. Endometrial sampling in the premenstrual phase for histology and nucleic acid testing establishes the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (amenorrhoea, fever, weight loss, pelvic mass — pelvic TB with tubo-ovarian mass, 3X), 2021 NEET-PG (tubercles on peritoneum — pelvic TB)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2019 NEET-PG (amenorrhoea, fever, weight loss, pelvic mass — pelvic TB with tubo-ovarian mass, 3X), 2021 NEET-PG (tubercles on peritoneum — pelvic TB)"
+    }
+  },
+  {
+    "id": "gyn_q_67",
+    "questionNumber": 67,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "A woman with primary infertility has bilateral cornual block from intramural fibroids. The best management is",
+    "options": [
+      "Uterine artery embolisation",
+      "Hysteroscopic myomectomy",
+      "Laparoscopic myomectomy",
+      "IVF without treating the fibroids"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "An intramural fibroid lies within the myometrium and is not accessible hysteroscopically, which only reaches submucosal lesions. Embolisation impairs endometrial perfusion and is avoided when fertility is desired.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (primary infertility with bilateral cornual block from intramural fibroids — laparoscopic myomectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Infertility",
+      "basedOn": "2022 NEET-PG (primary infertility with bilateral cornual block from intramural fibroids — laparoscopic myomectomy)"
+    }
+  },
+  {
+    "id": "gyn_q_68",
+    "questionNumber": 68,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "During controlled ovarian stimulation a woman has eight follicles and a rising oestradiol. The appropriate step is",
+    "options": [
+      "Convert to intrauterine insemination",
+      "Cancel the cycle",
+      "Continue stimulation for another week",
+      "Trigger and retrieve the oocytes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Eight follicles with an appropriate oestradiol is a satisfactory, not excessive, response. A far greater follicle number with a very high oestradiol would raise hyperstimulation risk and prompt a GnRH-agonist trigger with freeze-all.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (induced ovulation with 8 follicles and rising oestradiol — retrieve follicles)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2020 INI-CET (induced ovulation with 8 follicles and rising oestradiol — retrieve follicles)"
+    }
+  },
+  {
+    "id": "gyn_q_69",
+    "questionNumber": 69,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "GnRH **antagonists** in assisted reproduction are used for",
+    "options": [
+      "Luteal phase support",
+      "Inducing ovulation directly",
+      "Preventing a premature LH surge during controlled ovarian stimulation",
+      "Endometrial preparation"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Antagonists suppress gonadotrophins immediately with no flare, so they are given late in stimulation; agonists must be started earlier because they first stimulate before downregulating.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (competitive GnRH antagonists used in advanced prostate cancer and controlled ovarian stimulation in IVF)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2020 INI-CET (competitive GnRH antagonists used in advanced prostate cancer and controlled ovarian stimulation in IVF)"
+    }
+  },
+  {
+    "id": "gyn_q_70",
+    "questionNumber": 70,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Ovarian hyperstimulation syndrome is characterised by",
+    "options": [
+      "Small ovaries with dehydration alone",
+      "Enlarged ovaries with ascites, haemoconcentration and a risk of thrombosis",
+      "Ovarian torsion only",
+      "Hypocoagulability with bleeding"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "VEGF-driven capillary leak moves fluid into the peritoneum, so the patient is intravascularly depleted despite ascites. Management is fluids, thromboprophylaxis and paracentesis; hCG trigger and pregnancy worsen it.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (ovulation induction with multiple follicles), 2020 INI-CET (GnRH antagonists in IVF)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2020 INI-CET (ovulation induction with multiple follicles), 2020 INI-CET (GnRH antagonists in IVF)"
+    }
+  },
+  {
+    "id": "gyn_q_71",
+    "questionNumber": 71,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "The Rotterdam criteria for polycystic ovary syndrome comprise",
+    "options": [
+      "Obesity, insulin resistance and hirsutism",
+      "Oligo- or anovulation, clinical or biochemical hyperandrogenism, and polycystic ovarian morphology — any two of three",
+      "Amenorrhoea with a raised LH-to-FSH ratio",
+      "Acanthosis nigricans with raised testosterone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Obesity and insulin resistance are common **associations**, not criteria — the usual trap. Other causes of hyperandrogenism, such as congenital adrenal hyperplasia, Cushing syndrome and an androgen-secreting tumour, must be excluded.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Rotterdam criteria includes hirsutism and delayed cycles, not obesity or insulin resistance), 2015 AIIMS (criteria for diagnosis of PCOS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2024 INI-CET (Rotterdam criteria includes hirsutism and delayed cycles, not obesity or insulin resistance), 2015 AIIMS (criteria for diagnosis of PCOS)"
+    }
+  },
+  {
+    "id": "gyn_q_72",
+    "questionNumber": 72,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "A 35-year-old nulliparous woman has oligomenorrhoea, infertility and bilaterally enlarged ovaries with multiple small peripheral follicles. The ultrasound criterion for polycystic morphology is",
+    "options": [
+      "A single follicle above 25 mm",
+      "5 or more follicles per ovary",
+      "20 or more follicles of 2 to 9 mm per ovary, or an ovarian volume above 10 mL",
+      "An ovarian volume above 5 mL"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The follicle threshold was raised from 12 to 20 with modern high-frequency transducers. Ultrasound morphology should not be used for diagnosis within 8 years of menarche, because multifollicular ovaries are normal in adolescence.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (nulliparous, oligomenorrhoea, infertility, enlarged ovaries — PCOS, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Pcos",
+      "basedOn": "2024 INI-CET (nulliparous, oligomenorrhoea, infertility, enlarged ovaries — PCOS, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_73",
+    "questionNumber": 73,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "The first-line management for an obese woman with PCOS who wants to conceive is",
+    "options": [
+      "Laparoscopic ovarian drilling as the first step",
+      "Immediate IVF",
+      "Combined oral contraceptive pills",
+      "Weight reduction with folic acid and a trial of spontaneous conception, then ovulation induction if it fails"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A 5 to 10% weight loss alone restores ovulation in many women and improves response to subsequent treatment. Drilling is a later option, and the combined pill would prevent the pregnancy being sought.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (PCOS with BMI 33 and infertility — weight loss, folic acid, trial of spontaneous conception, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2022 INI-CET (PCOS with BMI 33 and infertility — weight loss, folic acid, trial of spontaneous conception, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_74",
+    "questionNumber": 74,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "The first-line agent for ovulation induction in PCOS is now",
+    "options": [
+      "Gonadotrophins",
+      "Clomiphene citrate",
+      "Letrozole",
+      "Metformin alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Letrozole gave higher live-birth rates than clomiphene in the PPCOS II trial. Its half-life is about 48 hours, short enough that it has cleared before implantation, which is the basis of its safety argument.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (treatment for infertility in PCOS — letrozole, clomiphene, laparoscopic ovarian drilling), 2024 INI-CET (half-life of letrozole — 48 hours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2023 INI-CET (treatment for infertility in PCOS — letrozole, clomiphene, laparoscopic ovarian drilling), 2024 INI-CET (half-life of letrozole — 48 hours)"
+    }
+  },
+  {
+    "id": "gyn_q_75",
+    "questionNumber": 75,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "Clomiphene citrate",
+    "options": [
+      "Reliably produces a single follicle",
+      "Commonly causes multifollicular development, so cycles need monitoring",
+      "Acts as an oestrogen agonist at the hypothalamus",
+      "Is contraindicated in anovulatory infertility"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It blocks hypothalamic oestrogen receptors, removing negative feedback and raising FSH, which recruits several follicles — hence a multiple pregnancy rate of about 8%. Its antioestrogenic effect on cervical mucus and endometrium is a drawback.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (clomiphene citrate causes monofollicular development — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2022 INI-CET (clomiphene citrate causes monofollicular development — false)"
+    }
+  },
+  {
+    "id": "gyn_q_76",
+    "questionNumber": 76,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "A woman with PCOS, hirsutism and **no** desire for pregnancy is best treated with",
+    "options": [
+      "Letrozole",
+      "A combined oral contraceptive with an antiandrogen",
+      "Clomiphene citrate",
+      "Laparoscopic ovarian drilling"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The pill raises sex hormone binding globulin and lowers free testosterone; spironolactone, cyproterone acetate or finasteride adds receptor blockade. Antiandrogens are teratogenic, so effective contraception must accompany them.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (obese, irregular cycles, hirsutism score 6 — OCPs and antiandrogens), 2023 INI-CET (PCOS with hirsutism and infertility — OCPs will not be used)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2022 INI-CET (obese, irregular cycles, hirsutism score 6 — OCPs and antiandrogens), 2023 INI-CET (PCOS with hirsutism and infertility — OCPs will not be used)"
+    }
+  },
+  {
+    "id": "gyn_q_77",
+    "questionNumber": 77,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "Why are combined oral contraceptives inappropriate for a woman with PCOS who presents with **infertility**?",
+    "options": [
+      "They raise free testosterone",
+      "They worsen hirsutism",
+      "They suppress ovulation, which is the opposite of the treatment goal",
+      "They cause ovarian hyperstimulation"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is the recurring trap in PCOS questions: the correct drug depends entirely on whether the woman wants to conceive. The pill is right for cycle control and hirsutism and wrong for infertility.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (PCOS with hirsutism and infertility — which drug will not be used: OCPs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2023 INI-CET (PCOS with hirsutism and infertility — which drug will not be used: OCPs)"
+    }
+  },
+  {
+    "id": "gyn_q_78",
+    "questionNumber": 78,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "Metformin in PCOS is principally useful for",
+    "options": [
+      "Preventing endometrial carcinoma",
+      "Inducing ovulation more effectively than letrozole",
+      "Treating hirsutism directly",
+      "Improving insulin sensitivity and metabolic parameters, with modest effects on cycle regularity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is an adjunct, not a first-line ovulation induction agent. Women with PCOS need screening for glucose intolerance, dyslipidaemia, obstructive sleep apnoea and metabolic syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Rotterdam criteria and insulin resistance), 2023 INI-CET (treatment for infertility in PCOS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2024 INI-CET (Rotterdam criteria and insulin resistance), 2023 INI-CET (treatment for infertility in PCOS)"
+    }
+  },
+  {
+    "id": "gyn_q_79",
+    "questionNumber": 79,
+    "subject": "Gynaecology",
+    "subTopic": "Pcos",
+    "sub_topic": "Pcos",
+    "stem": "Long-term endometrial protection is required in PCOS because",
+    "options": [
+      "Progesterone levels are persistently high",
+      "Oestrogen levels are low",
+      "Chronic anovulation gives unopposed oestrogen, raising the risk of endometrial hyperplasia and carcinoma",
+      "The endometrium becomes atrophic"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "No corpus luteum means no progesterone to oppose oestrogen. A withdrawal bleed at least every 3 to 4 months, with a progestogen, the combined pill or a levonorgestrel intrauterine system, protects the endometrium.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Rotterdam criteria), 2024 INI-CET (endometrial hyperplasia management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pcos",
+      "basedOn": "2024 INI-CET (Rotterdam criteria), 2024 INI-CET (endometrial hyperplasia management)"
+    }
+  },
+  {
+    "id": "gyn_q_80",
+    "questionNumber": 80,
+    "subject": "Gynaecology",
+    "subTopic": "Aub",
+    "sub_topic": "Aub",
+    "stem": "The commonest cause of pubertal menorrhagia is",
+    "options": [
+      "A coagulation disorder",
+      "Anovulatory cycles from an immature hypothalamic–pituitary–ovarian axis",
+      "Uterine fibroid",
+      "Endometrial polyp"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cycles are commonly anovulatory for the first 1 to 2 years after menarche. Von Willebrand disease is the important second consideration and should be excluded when bleeding is heavy from the very first period.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (commonest cause of pubertal menorrhagia — anovulation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aub",
+      "basedOn": "2020 INI-CET (commonest cause of pubertal menorrhagia — anovulation)"
+    }
+  },
+  {
+    "id": "gyn_q_81",
+    "questionNumber": 81,
+    "subject": "Gynaecology",
+    "subTopic": "Aub",
+    "sub_topic": "Aub",
+    "stem": "A 35-year-old has 6 months of heavy menstrual bleeding with a normal examination and a normal ultrasound. The appropriate management is",
+    "options": [
+      "Immediate hysterectomy",
+      "Medical therapy, with a levonorgestrel intrauterine system or tranexamic acid",
+      "Dilatation and curettage as treatment",
+      "Uterine artery embolisation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The levonorgestrel system is the most effective medical option and reduces loss by up to 90%. Curettage is diagnostic, not therapeutic. Endometrial sampling is still indicated above 40 years or with risk factors.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (excessive bleeding for 6 months with normal USG — hormonal therapy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aub",
+      "basedOn": "2021 NEET-PG (excessive bleeding for 6 months with normal USG — hormonal therapy)"
+    }
+  },
+  {
+    "id": "gyn_q_82",
+    "questionNumber": 82,
+    "subject": "Gynaecology",
+    "subTopic": "Aub",
+    "sub_topic": "Aub",
+    "stem": "The PALM-COEIN classification of abnormal uterine bleeding groups which causes as structural?",
+    "options": [
+      "Iatrogenic and not-yet-classified causes",
+      "Coagulopathy, ovulatory dysfunction and endometrial causes",
+      "Polyp, adenomyosis, leiomyoma and malignancy",
+      "Only leiomyoma and malignancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "PALM are the structural, imaging- or histology-diagnosable causes; COEIN — coagulopathy, ovulatory dysfunction, endometrial, iatrogenic, not yet classified — are the non-structural ones.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (heavy bleeding with normal USG), 2024 INI-CET (endometrial hyperplasia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Aub",
+      "basedOn": "2021 NEET-PG (heavy bleeding with normal USG), 2024 INI-CET (endometrial hyperplasia)"
+    }
+  },
+  {
+    "id": "gyn_q_83",
+    "questionNumber": 83,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "Hysteroscopy shows a solid irregular mass projecting into the cavity in a 32-year-old with irregular bleeding. The diagnosis is",
+    "options": [
+      "Endometrial carcinoma",
+      "Endometrial polyp",
+      "Adenomyosis",
+      "Submucosal fibroid"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A submucosal fibroid is solid, broad-based and irregular, and causes bleeding and infertility out of proportion to its size. A polyp is softer with a narrow stalk and a central feeding vessel.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (hysteroscopy showing solid irregular mass — submucosal fibroid, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (hysteroscopy showing solid irregular mass — submucosal fibroid, 4X)"
+    }
+  },
+  {
+    "id": "gyn_q_84",
+    "questionNumber": 84,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "Hysterosalpingography shows a smooth filling defect with a narrow central stalk, and hysteroscopy shows a lesion with a single feeding vessel. The diagnosis is",
+    "options": [
+      "Intrauterine adhesion",
+      "Submucosal fibroid",
+      "Endometrial polyp",
+      "Retained products"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Polyps are treated hysteroscopically, which both removes and provides histology. Tamoxifen use is a recognised risk factor, and polyps are a cause of intermenstrual and postmenopausal bleeding.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (HSG with smooth filling defect and narrow stalk — endometrial polyp), 2018 NEET-PG / 2014 AIIMS (lesion with feeding vessel — endometrial polyp, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2016 AIIMS (HSG with smooth filling defect and narrow stalk — endometrial polyp), 2018 NEET-PG / 2014 AIIMS (lesion with feeding vessel — endometrial polyp, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_85",
+    "questionNumber": 85,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "Hysteroscopic resection is appropriate for",
+    "options": [
+      "An intramural fibroid",
+      "An endometrial polyp or a submucosal fibroid",
+      "A subserosal fibroid",
+      "A broad ligament fibroid"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hysteroscopy can only reach lesions that project into the cavity. Advantages over open myomectomy are less pain, less bleeding, earlier ambulation and no uterine scar.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (hysteroscopic treatment can be done in polyp), 2020 NEET-PG / 2018 AIIMS (advantages of hysteroscopic myomectomy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2023 NEET-PG (hysteroscopic treatment can be done in polyp), 2020 NEET-PG / 2018 AIIMS (advantages of hysteroscopic myomectomy, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_86",
+    "questionNumber": 86,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "During hysteroscopic myomectomy a fluid deficit of 2,000 mL of 1.5% glycine accumulates. The immediate risk is",
+    "options": [
+      "Hypernatraemia",
+      "Dilutional hyponatraemia with pulmonary and cerebral oedema",
+      "Hyperkalaemia",
+      "Metabolic alkalosis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Glycine is hypo-osmolar and also metabolises to ammonia, causing encephalopathy and transient visual disturbance. The procedure is stopped and the deficit treated; **normal saline** is used instead when bipolar energy allows it.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (fluid deficit of 2,000 mL during hysteroscopy — pulmonary oedema), 2020 NEET-PG (distension media with bipolar cautery — normal saline), 2024 INI-CET (1.5% glycine during myomectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Fibroid",
+      "basedOn": "2019 NEET-PG (fluid deficit of 2,000 mL during hysteroscopy — pulmonary oedema), 2020 NEET-PG (distension media with bipolar cautery — normal saline), 2024 INI-CET (1.5% glycine during myomectomy)"
+    }
+  },
+  {
+    "id": "gyn_q_87",
+    "questionNumber": 87,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "A 45-year-old multiparous woman has an asymptomatic 14-week-size fibroid uterus. The appropriate management is",
+    "options": [
+      "Myomectomy",
+      "Immediate hysterectomy",
+      "Expectant management with periodic review",
+      "GnRH agonist for 2 years"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Asymptomatic fibroids need no intervention and regress after menopause. Size alone is no longer an indication for surgery; symptoms, pressure effects, infertility or rapid growth raising suspicion of sarcoma are.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (45-year-old multiparous with 14-week-size fibroid — expectant management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2021 INI-CET (45-year-old multiparous with 14-week-size fibroid — expectant management)"
+    }
+  },
+  {
+    "id": "gyn_q_88",
+    "questionNumber": 88,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "A fibroid derives its blood supply from",
+    "options": [
+      "The internal pudendal artery",
+      "The ovarian artery",
+      "The inferior epigastric artery",
+      "The uterine artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is the rationale for uterine artery embolisation, which infarcts fibroids while the uterus survives on collateral flow. Embolisation is avoided when future fertility is desired.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (uterine myoma derives blood supply from uterine artery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2016 AIIMS (uterine myoma derives blood supply from uterine artery)"
+    }
+  },
+  {
+    "id": "gyn_q_89",
+    "questionNumber": 89,
+    "subject": "Gynaecology",
+    "subTopic": "Fibroid",
+    "sub_topic": "Fibroid",
+    "stem": "A woman at 28 weeks of pregnancy with a known fibroid has fever, acute abdominal pain, local tenderness and mild leucocytosis. The diagnosis is",
+    "options": [
+      "Appendicitis",
+      "Placental abruption",
+      "Red (carneous) degeneration of the fibroid",
+      "Torsion of the fibroid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Rapid growth outstrips the blood supply, causing haemorrhagic infarction. It is managed conservatively with analgesia and rest — surgery during pregnancy risks severe haemorrhage. Hyaline degeneration is the commonest type overall.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (28-week POG, fever, acute pain, leucocytosis — red degeneration), 2017 AIIMS (fibroid in pregnancy may show carneous degeneration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Fibroid",
+      "basedOn": "2020 INI-CET (28-week POG, fever, acute pain, leucocytosis — red degeneration), 2017 AIIMS (fibroid in pregnancy may show carneous degeneration)"
+    }
+  },
+  {
+    "id": "gyn_q_90",
+    "questionNumber": 90,
+    "subject": "Gynaecology",
+    "subTopic": "Endometriosis",
+    "sub_topic": "Endometriosis",
+    "stem": "A 38-year-old has infertility, dysmenorrhoea, dyspareunia and a fixed retroverted uterus. The first investigation is",
+    "options": [
+      "Serum CA-125",
+      "Transvaginal ultrasound",
+      "Diagnostic laparoscopy as the first step",
+      "Hysterosalpingography"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It detects endometriomas and deep disease non-invasively and is the appropriate first step. Laparoscopy with histology remains the diagnostic gold standard, and CA-125 is too non-specific to be a screening test.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (infertility, dysmenorrhoea, dyspareunia, retroverted uterus — TVS for endometriosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometriosis",
+      "basedOn": "2023 INI-CET (infertility, dysmenorrhoea, dyspareunia, retroverted uterus — TVS for endometriosis)"
+    }
+  },
+  {
+    "id": "gyn_q_91",
+    "questionNumber": 91,
+    "subject": "Gynaecology",
+    "subTopic": "Endometriosis",
+    "sub_topic": "Endometriosis",
+    "stem": "Symptoms of endometriosis include all EXCEPT",
+    "options": [
+      "Secondary dysmenorrhoea",
+      "Irregular vaginal bleeding with profuse discharge",
+      "Deep dyspareunia",
+      "Infertility"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Endometriosis characteristically gives cyclical pain, not irregular bleeding or discharge. Cyclical dyschezia, dysuria or haemoptysis occur when deposits involve bowel, bladder or lung.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (symptoms of endometriosis — dysmenorrhoea and infertility, not irregular bleeding or discharge)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometriosis",
+      "basedOn": "2021 INI-CET (symptoms of endometriosis — dysmenorrhoea and infertility, not irregular bleeding or discharge)"
+    }
+  },
+  {
+    "id": "gyn_q_92",
+    "questionNumber": 92,
+    "subject": "Gynaecology",
+    "subTopic": "Endometriosis",
+    "sub_topic": "Endometriosis",
+    "stem": "A painful black nodule at an episiotomy scar that enlarges and becomes tender during menstruation is",
+    "options": [
+      "A sebaceous cyst",
+      "A keloid",
+      "Scar endometriosis",
+      "A vulval malignancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cyclical symptoms tied to menstruation are the diagnostic clue, arising from implantation of endometrial tissue at surgery. Wide local excision is curative. Caesarean scars are the commonest site.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (painful black nodular mass at episiotomy scar increasing during menstruation — endometriosis), 2021 NEET-PG (chocolate cyst)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometriosis",
+      "basedOn": "2023 NEET-PG (painful black nodular mass at episiotomy scar increasing during menstruation — endometriosis), 2021 NEET-PG (chocolate cyst)"
+    }
+  },
+  {
+    "id": "gyn_q_93",
+    "questionNumber": 93,
+    "subject": "Gynaecology",
+    "subTopic": "Endometriosis",
+    "sub_topic": "Endometriosis",
+    "stem": "Which drug is NOT used in the treatment of endometriosis?",
+    "options": [
+      "Dienogest",
+      "Danazol",
+      "A GnRH agonist",
+      "Oestradiol"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Endometriosis is oestrogen-dependent, so oestrogen would stimulate it. Treatment suppresses oestrogen or opposes it: progestogens, combined pills, GnRH agonists with add-back therapy, danazol and aromatase inhibitors.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (drug not given in endometriosis — oestradiol)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometriosis",
+      "basedOn": "2020 INI-CET (drug not given in endometriosis — oestradiol)"
+    }
+  },
+  {
+    "id": "gyn_q_94",
+    "questionNumber": 94,
+    "subject": "Gynaecology",
+    "subTopic": "Endometriosis",
+    "sub_topic": "Endometriosis",
+    "stem": "A 45-year-old has dysmenorrhoea, dyspareunia and menorrhagia with a diffusely bulky tender uterus and normal endometrial histology. The diagnosis is",
+    "options": [
+      "Submucosal fibroid",
+      "Endometriosis",
+      "Adenomyosis",
+      "Chronic pelvic inflammatory disease"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Endometrial glands lie within the myometrium, so the uterus is globular, tender and symmetrically enlarged, with junctional zone thickening on MRI. It typically affects older multiparous women, unlike endometriosis.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2015 AIIMS (dysmenorrhoea, dyspareunia, menorrhagia, normal endometrial histology — adenomyosis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometriosis",
+      "basedOn": "2019 NEET-PG / 2015 AIIMS (dysmenorrhoea, dyspareunia, menorrhagia, normal endometrial histology — adenomyosis, 3X)"
+    }
+  },
+  {
+    "id": "gyn_q_95",
+    "questionNumber": 95,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "Profuse green frothy offensive discharge with pruritus and a strawberry cervix indicates",
+    "options": [
+      "Bacterial vaginosis, treated with clindamycin",
+      "*Trichomonas vaginalis*, treated with metronidazole including the partner",
+      "Vulvovaginal candidiasis, treated with fluconazole",
+      "Gonorrhoea, treated with ceftriaxone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Motile flagellated trophozoites are seen on wet mount, and the vaginal pH exceeds 4.5. It is the only one of these that is sexually transmitted and therefore requires partner treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2015 AIIMS (green frothy discharge with strawberry cervix — *Trichomonas*, 3X), 2021 INI-CET (treatment — metronidazole)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG / 2015 AIIMS (green frothy discharge with strawberry cervix — *Trichomonas*, 3X), 2021 INI-CET (treatment — metronidazole)"
+    }
+  },
+  {
+    "id": "gyn_q_96",
+    "questionNumber": 96,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "The microscopic finding in bacterial vaginosis is",
+    "options": [
+      "Motile flagellated organisms",
+      "Clue cells — vaginal epithelial cells studded with adherent coccobacilli",
+      "Pseudohyphae with budding yeast",
+      "Intracellular Gram-negative diplococci"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Amsel criteria require three of four: thin homogeneous discharge, pH above 4.5, a positive whiff test with potassium hydroxide, and clue cells. The Nugent score is the Gram-stain scoring system used for research and confirmation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (microscopic finding in *Gardnerella* — clue cells, 2X), 2022 NEET-PG (Nugent score is done for bacterial vaginosis), 2020 INI-CET (positive whiff test — bacterial vaginosis)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2024 INI-CET (microscopic finding in *Gardnerella* — clue cells, 2X), 2022 NEET-PG (Nugent score is done for bacterial vaginosis), 2020 INI-CET (positive whiff test — bacterial vaginosis)"
+    }
+  },
+  {
+    "id": "gyn_q_97",
+    "questionNumber": 97,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "The drug of choice for bacterial vaginosis in pregnancy is",
+    "options": [
+      "Doxycycline",
+      "Fluconazole",
+      "Metronidazole",
+      "Ciprofloxacin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Oral metronidazole is considered safe in pregnancy and treating bacterial vaginosis reduces preterm birth risk in symptomatic women. Doxycycline and fluoroquinolones are avoided in pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (DOC for bacterial vaginosis in pregnancy — metronidazole)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2023 INI-CET (DOC for bacterial vaginosis in pregnancy — metronidazole)"
+    }
+  },
+  {
+    "id": "gyn_q_98",
+    "questionNumber": 98,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "A 28-year-old has profuse white discharge without pruritus or odour, normal lactobacilli and a normal pH, 13 days after her last period. The diagnosis is",
+    "options": [
+      "Chlamydial cervicitis",
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Physiological discharge at mid-cycle"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Peri-ovulatory oestrogen makes cervical mucus copious, clear and stretchy. Normal lactobacilli with a normal pH and no symptoms exclude infection, and reassurance is all that is required.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (profuse white discharge, no pruritus, LMP 13 days back — physiological discharge), 2022 INI-CET (yellowish discharge on OCPs with normal lactobacilli — increased normal discharge)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2023 NEET-PG (profuse white discharge, no pruritus, LMP 13 days back — physiological discharge), 2022 INI-CET (yellowish discharge on OCPs with normal lactobacilli — increased normal discharge)"
+    }
+  },
+  {
+    "id": "gyn_q_99",
+    "questionNumber": 99,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "A woman with multiple sexual partners has lower abdominal pain, intermenstrual bleeding and cervical motion tenderness. The likely organisms are",
+    "options": [
+      "*Trichomonas* and *Lactobacillus*",
+      "*Candida albicans* and *Gardnerella*",
+      "*Neisseria gonorrhoeae* and *Chlamydia trachomatis*",
+      "*Mycobacterium tuberculosis* alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Treatment is empirical and covers both plus anaerobes — typically ceftriaxone with doxycycline and metronidazole — because delay causes tubal damage. Partner treatment is essential.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (multiple sexual partners, lower abdominal pain, intermenstrual bleeding — *Neisseria gonorrhoeae*)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2021 NEET-PG (multiple sexual partners, lower abdominal pain, intermenstrual bleeding — *Neisseria gonorrhoeae*)"
+    }
+  },
+  {
+    "id": "gyn_q_100",
+    "questionNumber": 100,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "Chronic pelvic inflammatory disease can cause all EXCEPT",
+    "options": [
+      "Ectopic pregnancy",
+      "Pyometra",
+      "Infertility",
+      "Tubal damage with hydrosalpinx"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Pyometra results from cervical stenosis with obstructed drainage, typically in elderly women or after radiotherapy or malignancy, rather than from ascending tubal infection. Chronic pelvic pain and dyspareunia complete the PID sequelae.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (chronic PID causes ectopic pregnancy, infertility, tubal defects but not pyometra, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (chronic PID causes ectopic pregnancy, infertility, tubal defects but not pyometra, 4X)"
+    }
+  },
+  {
+    "id": "gyn_q_101",
+    "questionNumber": 101,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "A tender fluctuant swelling with surrounding erythema at the posterolateral introitus is",
+    "options": [
+      "An inguinal hernia",
+      "A Skene duct cyst",
+      "A Gartner duct cyst",
+      "A Bartholin abscess"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The gland lies in the posterior third of the labium majus. Marsupialisation is preferred to simple incision because it reduces recurrence; a Bartholin mass in a woman over 40 needs biopsy to exclude carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pain and swelling in perineal area with redness around labia — Bartholin abscess)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2023 NEET-PG (pain and swelling in perineal area with redness around labia — Bartholin abscess)"
+    }
+  },
+  {
+    "id": "gyn_q_102",
+    "questionNumber": 102,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "Curettage is contraindicated in",
+    "options": [
+      "Abnormal uterine bleeding in a 45-year-old",
+      "Postmenopausal bleeding",
+      "Suspected retained products of conception",
+      "Acute pelvic inflammatory disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Instrumentation during acute infection spreads organisms into the tubes and peritoneum. Treatment is antibiotics first, with any necessary sampling deferred until the infection has settled.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (curettage is not done in acute PID)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2018 NEET-PG (curettage is not done in acute PID)"
+    }
+  },
+  {
+    "id": "gyn_q_103",
+    "questionNumber": 103,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "A tubo-ovarian abscess that fails to respond to 48 to 72 hours of intravenous antibiotics should be managed by",
+    "options": [
+      "Observation alone",
+      "Continuing the same antibiotics for 14 days",
+      "Immediate total abdominal hysterectomy with bilateral salpingo-oophorectomy in all cases",
+      "Image-guided drainage, with surgery if that fails"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fertility-sparing drainage is attempted first in young women. Rupture causes generalised peritonitis and is a surgical emergency. Fitz-Hugh–Curtis syndrome is perihepatic adhesion from the same ascending infection.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (PID organisms), 2019 NEET-PG (tubo-ovarian mass)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2021 NEET-PG (PID organisms), 2019 NEET-PG (tubo-ovarian mass)"
+    }
+  },
+  {
+    "id": "gyn_q_104",
+    "questionNumber": 104,
+    "subject": "Gynaecology",
+    "subTopic": "Infections",
+    "sub_topic": "Infections",
+    "stem": "Vulvovaginal candidiasis characteristically shows",
+    "options": [
+      "Purulent cervical discharge with contact bleeding",
+      "Thin grey discharge with pH above 4.5",
+      "Frothy green discharge with a strawberry cervix",
+      "Thick curdy white discharge with pruritus, a normal or low vaginal pH, and pseudohyphae on microscopy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pregnancy, diabetes, antibiotics and immunosuppression predispose. Candidiasis is the one common vaginal infection with a **normal** pH, which is the quickest way to separate it from the others.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (clue cells in *Gardnerella*), 2022 INI-CET (vaginal discharge evaluation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infections",
+      "basedOn": "2024 INI-CET (clue cells in *Gardnerella*), 2022 INI-CET (vaginal discharge evaluation)"
+    }
+  },
+  {
+    "id": "gyn_q_105",
+    "questionNumber": 105,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "The commonest high-risk HPV genotypes in cervical carcinoma, and the viral protein used in the vaccine, are",
+    "options": [
+      "31 and 33; the L2 protein",
+      "6 and 11; the L1 capsid protein",
+      "16 and 18; the E6 oncoprotein",
+      "16 and 18; the L1 capsid protein"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "L1 self-assembles into non-infectious virus-like particles, so the vaccine carries no viral DNA. Types 6 and 11 cause genital warts and are covered by the quadrivalent and nonavalent vaccines.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (part of HPV virus used in vaccine — L1 capsid protein, 3X), 2020 INI-CET (commonest HPV strains — 16, 18), 2024 INI-CET (vaccine names — Cervarix, Gardasil)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2020 INI-CET (part of HPV virus used in vaccine — L1 capsid protein, 3X), 2020 INI-CET (commonest HPV strains — 16, 18), 2024 INI-CET (vaccine names — Cervarix, Gardasil)"
+    }
+  },
+  {
+    "id": "gyn_q_106",
+    "questionNumber": 106,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "HPV causes malignant transformation because",
+    "options": [
+      "E2 drives unchecked proliferation",
+      "E6 inactivates Rb and E7 degrades p53",
+      "L1 integrates into host DNA",
+      "E6 degrades p53 and E7 inactivates the retinoblastoma protein"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Losing both checkpoints removes apoptosis and cell-cycle control. Integration of viral DNA disrupts E2, which normally represses E6 and E7, so their expression rises further.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (HPV inhibits RB gene through E7)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cervical Cancer",
+      "basedOn": "2022 INI-CET (HPV inhibits RB gene through E7)"
+    }
+  },
+  {
+    "id": "gyn_q_107",
+    "questionNumber": 107,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "High-risk HPV is NOT implicated in",
+    "options": [
+      "Anal carcinoma",
+      "Cervical carcinoma",
+      "Vulval carcinoma",
+      "Laryngeal papillomatosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Recurrent respiratory papillomatosis is caused by **low-risk** types 6 and 11, acquired at delivery. High-risk types cause cervical, vulval, vaginal, anal, penile and oropharyngeal carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (high-risk HPV does not cause laryngeal papillomatosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2020 INI-CET (high-risk HPV does not cause laryngeal papillomatosis)"
+    }
+  },
+  {
+    "id": "gyn_q_108",
+    "questionNumber": 108,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "The WHO-recommended HPV vaccination schedule for girls under 15 years is",
+    "options": [
+      "Four doses",
+      "Three doses at 0, 1 and 6 months in all cases",
+      "A single dose only after age 15",
+      "One or two doses"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Younger recipients mount a stronger immune response, so fewer doses suffice; three doses are reserved for those vaccinated at 15 or above and the immunocompromised. The target age is 9 to 14 years, before sexual debut.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (HPV vaccine dose for women under 15 according to WHO — 1 or 2 doses)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2021 INI-CET (HPV vaccine dose for women under 15 according to WHO — 1 or 2 doses)"
+    }
+  },
+  {
+    "id": "gyn_q_109",
+    "questionNumber": 109,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "For cervical cancer screening in a low-resource setting, the WHO now recommends",
+    "options": [
+      "Colposcopy for all women from age 30",
+      "Pap smear every 3 years from age 21",
+      "Annual Pap smears from age 18",
+      "HPV DNA testing as the primary screen, with visual inspection with acetic acid where that is unavailable"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "HPV testing is more sensitive and reproducible than cytology and allows screening every 5 to 10 years, with screen-and-treat in a single visit. Note that the source compilation gives \"Pap every 3 years from 21\" here, which is the older high-resource protocol, not the low-resource recommendation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cervical cancer screening in low-resource countries — source answer questionable, 2X), 2018 AIIMS (HPV test 5-yearly in women aged 30–65)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cervical Cancer",
+      "basedOn": "2023 INI-CET (cervical cancer screening in low-resource countries — source answer questionable, 2X), 2018 AIIMS (HPV test 5-yearly in women aged 30–65)"
+    }
+  },
+  {
+    "id": "gyn_q_110",
+    "questionNumber": 110,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "The instruments used to take a conventional Pap smear, and the fixative, are",
+    "options": [
+      "Sims curette; glutaraldehyde",
+      "Volsellum forceps; formalin",
+      "Uterine sound; normal saline",
+      "Ayre spatula with an endocervical brush; 95% ethyl alcohol"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The sample must come from the transformation zone, where metaplasia and dysplasia occur. Liquid-based cytology has largely replaced the conventional smear because it reduces unsatisfactory samples.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Ayre spatula and endocervical brush used in Pap smear), 2021 INI-CET (fixative in Pap smear — ethyl alcohol), 2021 INI-CET (steps of taking a Pap smear, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2023 INI-CET (Ayre spatula and endocervical brush used in Pap smear), 2021 INI-CET (fixative in Pap smear — ethyl alcohol), 2021 INI-CET (steps of taking a Pap smear, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_111",
+    "questionNumber": 111,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "A Pap smear reports high-grade squamous intraepithelial lesion. The next step is",
+    "options": [
+      "HPV testing alone",
+      "Repeat the smear in 1 year",
+      "Proceed directly to hysterectomy",
+      "Colposcopy with directed biopsy and endocervical assessment"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cytology is only a screening test, so histology must establish the grade before treatment. A \"see-and-treat\" LEEP is acceptable in some settings when the colposcopic appearance is clearly high grade.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (next line if Pap smear shows HSIL — colpobiopsy with endocervical curettage, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2015 AIIMS (next line if Pap smear shows HSIL — colpobiopsy with endocervical curettage, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_112",
+    "questionNumber": 112,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "CIN 3 confirmed on colposcopic biopsy in a 32-year-old is treated by",
+    "options": [
+      "Observation with annual cytology",
+      "Cryotherapy alone",
+      "Simple hysterectomy",
+      "Large loop excision of the transformation zone (LEEP/LLETZ)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Excision provides histology of the whole lesion and excludes occult invasion, which ablation cannot. It is performed only on the cervix, and a deeper excision raises the risk of later preterm birth and cervical stenosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CIN-3 on colposcopic biopsy — LEEP), 2017 AIIMS (true about LLETZ — only on cervix, larger loop excises a bigger cone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2024 INI-CET (CIN-3 on colposcopic biopsy — LEEP), 2017 AIIMS (true about LLETZ — only on cervix, larger loop excises a bigger cone)"
+    }
+  },
+  {
+    "id": "gyn_q_113",
+    "questionNumber": 113,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "A 35-year-old has postcoital bleeding with a hypertrophied cervix and a normal vagina. The appropriate step is",
+    "options": [
+      "Reassurance",
+      "Pap smear alone and review in a year",
+      "Endometrial biopsy",
+      "Colposcopy with four-quadrant directed biopsy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Postcoital bleeding with an abnormal cervix is a symptom of possible invasive disease, where cytology can be falsely negative because of necrosis and inflammation. A visible lesion is always biopsied regardless of the smear.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (postcoital bleeding with hypertrophied cervix — four-quadrant biopsy by colposcopy, 2X), 2023 NEET-PG (cervical erosion — liquid cytology, HPV testing, cervical biopsy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2023 INI-CET (postcoital bleeding with hypertrophied cervix — four-quadrant biopsy by colposcopy, 2X), 2023 NEET-PG (cervical erosion — liquid cytology, HPV testing, cervical biopsy, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_114",
+    "questionNumber": 114,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "Hydronephrosis caused by cervical carcinoma places the tumour at FIGO stage",
+    "options": [
+      "IB",
+      "IIA",
+      "IVA",
+      "IIIB"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hydronephrosis or a non-functioning kidney from tumour defines IIIB regardless of apparent tumour size. Stage IIIC was added for nodal disease, IVA invades bladder or rectal mucosa and IVB is distant spread.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (hydronephrosis in cervical cancer — stage 3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2020 NEET-PG (hydronephrosis in cervical cancer — stage 3)"
+    }
+  },
+  {
+    "id": "gyn_q_115",
+    "questionNumber": 115,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "Stage III cervical carcinoma involves",
+    "options": [
+      "The cervix alone",
+      "The upper two-thirds of the vagina only",
+      "The bladder mucosa",
+      "The lower third of the vagina or extension to the pelvic wall"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Lower vaginal involvement is IIIA and pelvic sidewall extension or hydronephrosis is IIIB. Cervical cancer staging is primarily **clinical**, though imaging and nodal status are now incorporated.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (stage 3 cervical cancer involves lower vagina and pelvic walls)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2017 AIIMS (stage 3 cervical cancer involves lower vagina and pelvic walls)"
+    }
+  },
+  {
+    "id": "gyn_q_116",
+    "questionNumber": 116,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "A necrotic cervical growth with lateral parametrial involvement reaching the pelvic wall is treated by",
+    "options": [
+      "LEEP",
+      "Radical hysterectomy",
+      "Simple hysterectomy",
+      "Concurrent chemoradiation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Surgery is confined to stage IB to IIA; once the parametrium is involved, cisplatin-based chemoradiation with brachytherapy is standard. Radiation intensity falls with the square of the distance from the source, which underlies brachytherapy dosimetry.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (necrotising cervical growth with lateral parametrium involvement — chemoradiation), 2022 NEET-PG (true regarding chemoradiation — inverse square law)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2023 NEET-PG (necrotising cervical growth with lateral parametrium involvement — chemoradiation), 2022 NEET-PG (true regarding chemoradiation — inverse square law)"
+    }
+  },
+  {
+    "id": "gyn_q_117",
+    "questionNumber": 117,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "Why is a Pap smear still indicated in a woman with recurrent trichomoniasis?",
+    "options": [
+      "Because the smear is the best diagnostic test for trichomoniasis",
+      "Because the smear treats the infection",
+      "Because *Trichomonas* causes cervical cancer directly",
+      "Because she is at risk of cervical neoplasia and needs screening, not because the infection itself is detected"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Recurrent sexually transmitted infection marks exposure risk for HPV. Inflammation can obscure cytology, so treating the infection before repeating the smear improves sample adequacy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (importance of Pap smear in recurrent trichomoniasis — screening for cervical cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cervical Cancer",
+      "basedOn": "2022 INI-CET (importance of Pap smear in recurrent trichomoniasis — screening for cervical cancer)"
+    }
+  },
+  {
+    "id": "gyn_q_118",
+    "questionNumber": 118,
+    "subject": "Gynaecology",
+    "subTopic": "Cervical Cancer",
+    "sub_topic": "Cervical Cancer",
+    "stem": "Cervical cytology stained to show small blue cells against a blue background has most likely used",
+    "options": [
+      "Acetic acid",
+      "Papanicolaou stain",
+      "Lugol iodine",
+      "Toluidine blue"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Toluidine blue is a metachromatic nuclear stain, used in the Collins test on the vulva to highlight areas of high nuclear activity for biopsy. Lugol iodine underlies the Schiller test, where dysplastic epithelium fails to stain.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cervical smear showing small blue cells with blue background — toluidine blue)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cervical Cancer",
+      "basedOn": "2024 INI-CET (cervical smear showing small blue cells with blue background — toluidine blue)"
+    }
+  },
+  {
+    "id": "gyn_q_119",
+    "questionNumber": 119,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 35-year-old has an adnexal mass with a raised LDH and a solid, fleshy cut surface on gross examination. The diagnosis is",
+    "options": [
+      "Granulosa cell tumour",
+      "Mature cystic teratoma",
+      "Serous cystadenocarcinoma",
+      "Dysgerminoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is the commonest malignant germ cell tumour, the ovarian counterpart of seminoma, markedly radiosensitive and chemosensitive. It arises in dysgenetic gonads, which is why gonadectomy is advised in Swyer syndrome.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (adnexal mass with raised LDH and solid gross appearance — dysgerminoma, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (adnexal mass with raised LDH and solid gross appearance — dysgerminoma, 4X)"
+    }
+  },
+  {
+    "id": "gyn_q_120",
+    "questionNumber": 120,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "Examples of ovarian germ cell tumours include all EXCEPT",
+    "options": [
+      "Choriocarcinoma",
+      "Dysgerminoma",
+      "Yolk sac tumour",
+      "Granulosa cell tumour"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Granulosa cell tumour is a **sex cord–stromal** tumour, producing oestrogen and causing precocious puberty or postmenopausal bleeding, with inhibin as its marker and Call–Exner bodies on histology.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (germ cell tumours — dysgerminoma, yolk sac tumour, choriocarcinoma, not granulosa cell tumour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2024 INI-CET (germ cell tumours — dysgerminoma, yolk sac tumour, choriocarcinoma, not granulosa cell tumour)"
+    }
+  },
+  {
+    "id": "gyn_q_121",
+    "questionNumber": 121,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 20-year-old has a solid-cystic ovarian mass. The tumour markers to request are",
+    "options": [
+      "AFP, beta-hCG, LDH and CA-125",
+      "CA-125 alone",
+      "CEA and CA 19-9 only",
+      "Inhibin alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Germ cell tumours dominate in this age group: AFP for yolk sac tumour, beta-hCG for choriocarcinoma, LDH for dysgerminoma. CA-125 is far less useful in young women because endometriosis and infection raise it.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (20-year-old with solid cystic ovarian mass — AFP, hCG, LDH, CA-125)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2023 NEET-PG (20-year-old with solid cystic ovarian mass — AFP, hCG, LDH, CA-125)"
+    }
+  },
+  {
+    "id": "gyn_q_122",
+    "questionNumber": 122,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "An ovarian tumour containing hair, teeth and sebaceous material is",
+    "options": [
+      "A mature cystic teratoma",
+      "An immature teratoma",
+      "A struma ovarii",
+      "A Brenner tumour"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A dermoid cyst is the commonest ovarian tumour in young women and the commonest to undergo **torsion**. Rare complications are malignant transformation, usually squamous, and anti-NMDA receptor encephalitis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (ovarian tumour showing hair, teeth and sebaceous glands — mature teratoma, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (ovarian tumour showing hair, teeth and sebaceous glands — mature teratoma, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_123",
+    "questionNumber": 123,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A virilising ovarian tumour containing Reinke crystals on histology is",
+    "options": [
+      "A Leydig (hilus) cell tumour",
+      "A granulosa cell tumour",
+      "A dysgerminoma",
+      "A serous cystadenoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Reinke crystals are specific to Leydig cells. Sertoli–Leydig cell tumour (arrhenoblastoma) is the other classic virilising tumour, causing hirsutism, clitoromegaly and deepening of the voice.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Reinke crystals found in Leydig cell tumour), 2022 INI-CET (virilising ovarian tumour — arrhenoblastoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2023 INI-CET (Reinke crystals found in Leydig cell tumour), 2022 INI-CET (virilising ovarian tumour — arrhenoblastoma)"
+    }
+  },
+  {
+    "id": "gyn_q_124",
+    "questionNumber": 124,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "Clear cell carcinoma of the ovary belongs to which class?",
+    "options": [
+      "Epithelial",
+      "Germ cell",
+      "Sex cord–stromal",
+      "Metastatic"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Epithelial tumours — serous, mucinous, endometrioid, clear cell and Brenner — make up about 90% of ovarian malignancy. Clear cell and endometrioid types arise in endometriosis, and clear cell is associated with hypercalcaemia and thrombosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (clear cell carcinoma of ovary belongs to the epithelial class)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2021 INI-CET (clear cell carcinoma of ovary belongs to the epithelial class)"
+    }
+  },
+  {
+    "id": "gyn_q_125",
+    "questionNumber": 125,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "Bilateral ovarian masses with smooth surfaces showing mucin-secreting signet ring cells indicate",
+    "options": [
+      "Krukenberg tumour, usually from a gastric primary",
+      "Primary mucinous cystadenocarcinoma",
+      "Serous cystadenocarcinoma",
+      "Endometrioid carcinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Bilaterality with an intact capsule and signet ring cells in a reactive stroma is the hallmark of metastasis. Upper gastrointestinal endoscopy is required to find the primary, which may be small.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (bilateral ovarian mass with signet ring cells — Krukenberg tumour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2018 AIIMS (bilateral ovarian mass with signet ring cells — Krukenberg tumour)"
+    }
+  },
+  {
+    "id": "gyn_q_126",
+    "questionNumber": 126,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 26-year-old has a 3 cm unilocular simple ovarian cyst found incidentally, with mild pain and a last period 3 weeks ago. The management is",
+    "options": [
+      "Observation with a repeat ultrasound in 6 to 12 weeks",
+      "Immediate laparoscopic cystectomy",
+      "Oophorectomy",
+      "Aspiration under ultrasound guidance"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A simple unilocular cyst under 5 cm in a premenopausal woman is almost always a functional follicular or corpus luteum cyst and resolves spontaneously. Aspiration risks spillage and offers no histology.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (mild pain, palpable mass, LMP 3 weeks back — observe and follow up after 2–3 months, 3X), 2020 INI-CET (unilocular cyst — repeat ultrasound after 6–12 weeks)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2022 INI-CET / 2015 AIIMS (mild pain, palpable mass, LMP 3 weeks back — observe and follow up after 2–3 months, 3X), 2020 INI-CET (unilocular cyst — repeat ultrasound after 6–12 weeks)"
+    }
+  },
+  {
+    "id": "gyn_q_127",
+    "questionNumber": 127,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 65-year-old with ovarian carcinoma has omental caking, peritoneal deposits and gross ascites. The appropriate management is",
+    "options": [
+      "Neoadjuvant chemotherapy followed by interval debulking surgery",
+      "Primary radical debulking surgery regardless of disease extent",
+      "Radiotherapy",
+      "Palliative care alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Extensive upper abdominal disease makes optimal primary cytoreduction unlikely, and neoadjuvant platinum–taxane chemotherapy gives equivalent survival with less morbidity. Complete cytoreduction remains the strongest prognostic factor.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ovarian cancer with omental caking and peritoneal metastasis — chemotherapy followed by debulking)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2024 INI-CET (ovarian cancer with omental caking and peritoneal metastasis — chemotherapy followed by debulking)"
+    }
+  },
+  {
+    "id": "gyn_q_128",
+    "questionNumber": 128,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 37-year-old whose mother and sister had breast cancer should be offered",
+    "options": [
+      "Genetic counselling with BRCA testing",
+      "Immediate bilateral salpingo-oophorectomy",
+      "Annual CA-125 alone",
+      "No action"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Counselling precedes testing because the result carries implications for relatives and for irreversible risk-reducing surgery. *BRCA1* carries the higher ovarian risk, and risk-reducing salpingo-oophorectomy is usually offered from 35 to 40 years.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (family history of breast cancer — genetic counselling for BRCA testing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2020 INI-CET (family history of breast cancer — genetic counselling for BRCA testing)"
+    }
+  },
+  {
+    "id": "gyn_q_129",
+    "questionNumber": 129,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "The residual risk of malignancy after risk-reducing bilateral salpingo-oophorectomy in a genetically high-risk woman is about",
+    "options": [
+      "1 to 4%, from primary peritoneal carcinoma",
+      "Zero",
+      "25%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The peritoneum shares the coelomic origin of ovarian epithelium, so it remains at risk. This is also why high-grade serous carcinoma is now thought to arise largely in the fallopian tube fimbria.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (risk of malignancy after prophylactic BSO in genetic risk — 4%)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2014 AIIMS (risk of malignancy after prophylactic BSO in genetic risk — 4%)"
+    }
+  },
+  {
+    "id": "gyn_q_130",
+    "questionNumber": 130,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "Nulliparity is a risk factor for ovarian tumours because",
+    "options": [
+      "More lifetime ovulations mean more repeated epithelial repair",
+      "Oestrogen levels are lower",
+      "Progesterone exposure is higher",
+      "Gonadotrophin levels are lower"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The incessant ovulation hypothesis also explains why pregnancy, lactation and oral contraceptives are protective. Early menarche and late menopause increase risk for the same reason.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (nulliparity has risk of progression to borderline ovarian tumours — true), 2020 INI-CET (oral contraceptives prevent ovarian cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2023 INI-CET (nulliparity has risk of progression to borderline ovarian tumours — true), 2020 INI-CET (oral contraceptives prevent ovarian cancer)"
+    }
+  },
+  {
+    "id": "gyn_q_131",
+    "questionNumber": 131,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "A 70-year-old presents with postmenopausal bleeding. The appropriate first steps are",
+    "options": [
+      "Transvaginal ultrasound followed by endometrial sampling",
+      "Reassurance, as atrophy is the commonest cause",
+      "Pap smear alone",
+      "CT of the abdomen"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Postmenopausal bleeding is cancer until proven otherwise, even though atrophy is the commonest cause. Cervical cytology does not sample the endometrium and cannot exclude the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (70-year-old with bleeding per vaginam — USG followed by endometrial sampling, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (70-year-old with bleeding per vaginam — USG followed by endometrial sampling, 3X)"
+    }
+  },
+  {
+    "id": "gyn_q_132",
+    "questionNumber": 132,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "The endometrial thickness above which sampling is indicated in a woman with postmenopausal bleeding is",
+    "options": [
+      "4 mm",
+      "10 mm",
+      "16 mm",
+      "2 mm"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A thickness of 4 mm or less has a very high negative predictive value. Note that the threshold applies to a woman **with bleeding**; persistent or recurrent bleeding warrants sampling whatever the thickness.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (cutoff for performing endometrial biopsy in postmenopausal bleeding — 4 mm)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2020 INI-CET (cutoff for performing endometrial biopsy in postmenopausal bleeding — 4 mm)"
+    }
+  },
+  {
+    "id": "gyn_q_133",
+    "questionNumber": 133,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "Endometrial hyperplasia **without** atypia is managed by",
+    "options": [
+      "A levonorgestrel intrauterine system, or medroxyprogesterone acetate for 3 to 6 months, with repeat sampling",
+      "Total hysterectomy in all cases",
+      "Observation with no treatment",
+      "Radiotherapy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Progression risk without atypia is under 5%, so medical treatment is appropriate. **Atypical** hyperplasia carries a high risk of concurrent carcinoma and is treated by hysterectomy unless fertility must be preserved.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (management of endometrial hyperplasia without atypia — LNG-IUD or medroxyprogesterone for 3–6 months), 2024 INI-CET (simple endometrial hyperplasia — hysterectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2018 AIIMS (management of endometrial hyperplasia without atypia — LNG-IUD or medroxyprogesterone for 3–6 months), 2024 INI-CET (simple endometrial hyperplasia — hysterectomy)"
+    }
+  },
+  {
+    "id": "gyn_q_134",
+    "questionNumber": 134,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "Type II endometrial carcinoma comprises which histological subtypes?",
+    "options": [
+      "Serous, clear cell and carcinosarcoma",
+      "Endometrioid only",
+      "Mucinous and endometrioid",
+      "Squamous cell carcinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Type II tumours are oestrogen-independent, arise in atrophic endometrium in older women, carry p53 mutations and have a poor prognosis. Type I is endometrioid, oestrogen-driven and associated with PTEN mutation and obesity.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2016 AIIMS (type 2 endometrial cancer histology — serous, papillary, clear cell, not endometrioid, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2018 NEET-PG / 2016 AIIMS (type 2 endometrial cancer histology — serous, papillary, clear cell, not endometrioid, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_135",
+    "questionNumber": 135,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "Tamoxifen increases the risk of",
+    "options": [
+      "Endometrial carcinoma, through partial oestrogen agonism in the uterus",
+      "Cervical carcinoma",
+      "Ovarian carcinoma",
+      "Osteoporosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It antagonises oestrogen in the breast but acts as an agonist in endometrium and bone, so it also **protects** bone. Abnormal bleeding on tamoxifen always requires endometrial assessment; routine screening is not recommended.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tamoxifen increases risk of endometrial cancer), 2023 INI-CET (contraception for 3 months after tamoxifen, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2023 INI-CET (tamoxifen increases risk of endometrial cancer), 2023 INI-CET (contraception for 3 months after tamoxifen, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_136",
+    "questionNumber": 136,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "The commonest risk factor cluster for type I endometrial carcinoma is",
+    "options": [
+      "Obesity, nulliparity, late menopause, PCOS and unopposed oestrogen",
+      "Multiparity and early menopause",
+      "Smoking and combined oral contraceptive use",
+      "Low body weight with early menarche"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Adipose aromatisation of androgens to oestrone supplies the unopposed oestrogen. Lynch syndrome is the key hereditary cause. Smoking and combined contraceptives are, unusually, **protective** against this cancer.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (endometrial hyperplasia), 2020 INI-CET (oral contraceptives prevent endometrial cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2024 INI-CET (endometrial hyperplasia), 2020 INI-CET (oral contraceptives prevent endometrial cancer)"
+    }
+  },
+  {
+    "id": "gyn_q_137",
+    "questionNumber": 137,
+    "subject": "Gynaecology",
+    "subTopic": "Vulva",
+    "sub_topic": "Vulva",
+    "stem": "A 76-year-old has a 2 × 3 cm non-healing ulcer on the labia majora with no palpable groin nodes. The treatment is",
+    "options": [
+      "Wide local excision or radical vulvectomy with inguinofemoral node assessment",
+      "Topical steroids",
+      "Antibiotics alone",
+      "Observation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Clinically negative groins do not exclude nodal metastasis, so the nodes must be assessed. Vulval carcinoma peaks at 65 to 85 years, is usually squamous, and any persistent vulval lesion in an older woman needs biopsy.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (non-healing ulcer on labia majora — radical vulvectomy with bilateral node dissection), 2020 INI-CET (commonest age group for vulval cancer — 65–85 years), 2024 INI-CET (cauliflower-like vulval mass)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vulva",
+      "basedOn": "2020 INI-CET (non-healing ulcer on labia majora — radical vulvectomy with bilateral node dissection), 2020 INI-CET (commonest age group for vulval cancer — 65–85 years), 2024 INI-CET (cauliflower-like vulval mass)"
+    }
+  },
+  {
+    "id": "gyn_q_138",
+    "questionNumber": 138,
+    "subject": "Gynaecology",
+    "subTopic": "Vulva",
+    "sub_topic": "Vulva",
+    "stem": "Sentinel lymph node biopsy in gynaecological oncology is most established in",
+    "options": [
+      "Vulval carcinoma",
+      "Ovarian carcinoma",
+      "Cervical carcinoma stage III",
+      "Choriocarcinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Full inguinofemoral dissection causes lymphoedema, wound breakdown and cellulitis, so sentinel mapping spares morbidity in early unifocal tumours under 4 cm with clinically negative groins.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sentinel lymph node biopsy most useful in vulval cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vulva",
+      "basedOn": "2024 INI-CET (sentinel lymph node biopsy most useful in vulval cancer)"
+    }
+  },
+  {
+    "id": "gyn_q_139",
+    "questionNumber": 139,
+    "subject": "Gynaecology",
+    "subTopic": "Vulva",
+    "sub_topic": "Vulva",
+    "stem": "Risk factors for vulval carcinoma include",
+    "options": [
+      "HPV infection, smoking and vulval dystrophy such as lichen sclerosus",
+      "Multiparity and early menarche",
+      "Oral contraceptive use",
+      "Obesity alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Two pathways exist: an HPV-related route in younger women through vulval intraepithelial neoplasia, and an HPV-independent route in older women arising in lichen sclerosus with p53 mutation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (risk factors for vulval cancer — HPV, smoking, vulvar dystrophy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vulva",
+      "basedOn": "2022 INI-CET (risk factors for vulval cancer — HPV, smoking, vulvar dystrophy)"
+    }
+  },
+  {
+    "id": "gyn_q_140",
+    "questionNumber": 140,
+    "subject": "Gynaecology",
+    "subTopic": "Vulva",
+    "sub_topic": "Vulva",
+    "stem": "A well-demarcated white, thinned, parchment-like area on the vulva and perineum with itching indicates",
+    "options": [
+      "Lichen sclerosus, treated with a potent topical corticosteroid",
+      "Vitiligo, treated with phototherapy",
+      "Candidal intertrigo, treated with an antifungal",
+      "Lichen planus, treated with antibiotics"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Clobetasol propionate is first line. A figure-of-eight distribution with introital narrowing is characteristic, and long-term follow-up is required because of the risk of squamous carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (white thinned-out area on vulva/perineum — lichen sclerosus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vulva",
+      "basedOn": "2023 INI-CET (white thinned-out area on vulva/perineum — lichen sclerosus)"
+    }
+  },
+  {
+    "id": "gyn_q_141",
+    "questionNumber": 141,
+    "subject": "Gynaecology",
+    "subTopic": "Vagina",
+    "sub_topic": "Vagina",
+    "stem": "Clear cell adenocarcinoma of the vagina in a young woman is classically associated with",
+    "options": [
+      "In-utero exposure to diethylstilboestrol",
+      "HPV 16 infection",
+      "Prolonged tampon use",
+      "Combined oral contraceptive use"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Exposure also causes a T-shaped uterus, cervical hood and vaginal adenosis. Vaginal atrophy in a postmenopausal woman, by contrast, is treated simply with local oestrogen cream.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (cancer caused by DES — clear cell cancer of vagina), 2020 NEET-PG / 2015 AIIMS (vaginal atrophy and itching treated by oestrogen ointment, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vagina",
+      "basedOn": "2021 INI-CET (cancer caused by DES — clear cell cancer of vagina), 2020 NEET-PG / 2015 AIIMS (vaginal atrophy and itching treated by oestrogen ointment, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_142",
+    "questionNumber": 142,
+    "subject": "Gynaecology",
+    "subTopic": "Prolapse",
+    "sub_topic": "Prolapse",
+    "stem": "The POP-Q system quantifies prolapse using",
+    "options": [
+      "Six defined vaginal points measured against the hymen as the fixed reference",
+      "The degree of cervical descent alone",
+      "Symptom severity scores",
+      "Urodynamic parameters"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Points Aa, Ba, C, D, Ap and Bp are recorded in centimetres, negative above the hymen and positive below. It replaced the older first-to-third-degree description because it is reproducible between examiners.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (image of POP-Q grid — prolapse)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Prolapse",
+      "basedOn": "2020 NEET-PG (image of POP-Q grid — prolapse)"
+    }
+  },
+  {
+    "id": "gyn_q_143",
+    "questionNumber": 143,
+    "subject": "Gynaecology",
+    "subTopic": "Prolapse",
+    "sub_topic": "Prolapse",
+    "stem": "A 60-year-old with third-degree uterine prolapse who has completed her family is best treated by",
+    "options": [
+      "Vaginal hysterectomy with pelvic floor repair",
+      "Fothergill (Manchester) repair",
+      "Sacrospinous fixation alone",
+      "Ring pessary as definitive treatment"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Repair of the supports is as important as removing the uterus, since hysterectomy alone leaves the woman at risk of vault prolapse. A pessary is reserved for women unfit for or declining surgery.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2014 AIIMS (60-year-old with third-degree prolapse — vaginal hysterectomy with pelvic floor repair, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Prolapse",
+      "basedOn": "2021 NEET-PG / 2014 AIIMS (60-year-old with third-degree prolapse — vaginal hysterectomy with pelvic floor repair, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_144",
+    "questionNumber": 144,
+    "subject": "Gynaecology",
+    "subTopic": "Prolapse",
+    "sub_topic": "Prolapse",
+    "stem": "A 30-year-old with prolapse, an elongated cervix and a desire to retain fertility is best treated by",
+    "options": [
+      "Fothergill (Manchester) repair",
+      "Vaginal hysterectomy",
+      "Abdominal sacrocolpopexy",
+      "Anterior colporrhaphy alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It amputates the elongated cervix and shortens the cardinal ligaments, preserving the uterus. Cervical amputation can, however, cause stenosis, infertility and cervical incompetence, so sacrohysteropexy is often preferred now.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (30-year-old with increased cervical length — Fothergill repair)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Prolapse",
+      "basedOn": "2022 NEET-PG (30-year-old with increased cervical length — Fothergill repair)"
+    }
+  },
+  {
+    "id": "gyn_q_145",
+    "questionNumber": 145,
+    "subject": "Gynaecology",
+    "subTopic": "Prolapse",
+    "sub_topic": "Prolapse",
+    "stem": "In sacrocolpopexy for vault prolapse, the mesh is attached to the",
+    "options": [
+      "Sacral promontory, at the anterior longitudinal ligament",
+      "Sacrospinous ligament",
+      "Arcus tendineus",
+      "Coccyx"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The usual level is S1 to S2. Abdominal sacrocolpopexy has the lowest recurrence rate for vault prolapse; **sacrospinous** fixation is the vaginal-route alternative, with a risk of gluteal pain from pudendal nerve proximity.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (mesh attached to sacral promontory in sacrocolpo-suspension), 2020 INI-CET (match procedures — vaginal hysterectomy, sacrospinous ligament fixation, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Prolapse",
+      "basedOn": "2023 NEET-PG (mesh attached to sacral promontory in sacrocolpo-suspension), 2020 INI-CET (match procedures — vaginal hysterectomy, sacrospinous ligament fixation, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_146",
+    "questionNumber": 146,
+    "subject": "Gynaecology",
+    "subTopic": "Prolapse",
+    "sub_topic": "Prolapse",
+    "stem": "Posterior colporrhaphy is the operation for",
+    "options": [
+      "Rectocele",
+      "Cystocele",
+      "Enterocele",
+      "Vault prolapse"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Anterior colporrhaphy repairs a cystocele, and the Moschcowitz procedure obliterates the pouch of Douglas for an enterocele. Mesh is now avoided in routine vaginal repair because of erosion and pain.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match rectocele to posterior colporrhaphy, 2X), 2018 AIIMS (Moschcowitz repair is done in enterocele)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Prolapse",
+      "basedOn": "2020 INI-CET (match rectocele to posterior colporrhaphy, 2X), 2018 AIIMS (Moschcowitz repair is done in enterocele)"
+    }
+  },
+  {
+    "id": "gyn_q_147",
+    "questionNumber": 147,
+    "subject": "Gynaecology",
+    "subTopic": "Urogynaecology",
+    "sub_topic": "Urogynaecology",
+    "stem": "A woman has a cystocele and leaks urine on coughing, with no urgency. The diagnosis and first-line treatment are",
+    "options": [
+      "Stress urinary incontinence; pelvic floor muscle training",
+      "Urge incontinence; an antimuscarinic",
+      "Overflow incontinence; catheterisation",
+      "Fistula; surgical repair"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Supervised training for at least 3 months is first line, with a mid-urethral sling if it fails. Urge incontinence is instead treated with bladder training and antimuscarinics or mirabegron.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (cystocele with urination on coughing — stress urinary incontinence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urogynaecology",
+      "basedOn": "2020 NEET-PG (cystocele with urination on coughing — stress urinary incontinence)"
+    }
+  },
+  {
+    "id": "gyn_q_148",
+    "questionNumber": 148,
+    "subject": "Gynaecology",
+    "subTopic": "Urogynaecology",
+    "sub_topic": "Urogynaecology",
+    "stem": "A woman has continuous urinary leakage with **normal** voiding after a hysterectomy. The likely diagnosis is",
+    "options": [
+      "Ureterovaginal fistula",
+      "Vesicovaginal fistula",
+      "Stress incontinence",
+      "Detrusor overactivity"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Preserved normal voiding is the discriminator: one ureter drains into the vagina while the bladder fills and empties normally. A vesicovaginal fistula instead leaks everything, so normal voiding is absent.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (hysterectomy then continuous incontinence with normal voiding — ureterovaginal fistula)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Urogynaecology",
+      "basedOn": "2015 AIIMS (hysterectomy then continuous incontinence with normal voiding — ureterovaginal fistula)"
+    }
+  },
+  {
+    "id": "gyn_q_149",
+    "questionNumber": 149,
+    "subject": "Gynaecology",
+    "subTopic": "Urogynaecology",
+    "sub_topic": "Urogynaecology",
+    "stem": "The three-swab (dye) test in suspected genital fistula is used to",
+    "options": [
+      "Localise the fistula and distinguish a vesicovaginal from a ureterovaginal communication",
+      "Measure residual urine",
+      "Assess detrusor pressure",
+      "Exclude infection"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Methylene blue instilled into the bladder stains the lower or middle swab in a vesicovaginal fistula, while a wet but **unstained** upper swab indicates a ureteric source. Cystoscopy with imaging then defines the anatomy before repair.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (IOC for vesicovaginal fistula — three-swab test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urogynaecology",
+      "basedOn": "2023 INI-CET (IOC for vesicovaginal fistula — three-swab test)"
+    }
+  },
+  {
+    "id": "gyn_q_150",
+    "questionNumber": 150,
+    "subject": "Gynaecology",
+    "subTopic": "Urogynaecology",
+    "sub_topic": "Urogynaecology",
+    "stem": "After vesicovaginal fistula repair, the recommended periods of abstinence from coitus and of avoiding pregnancy are",
+    "options": [
+      "3 months and 1 year respectively",
+      "2 weeks and 3 months",
+      "6 weeks and 6 months",
+      "1 year and 2 years"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Continuous bladder drainage for 10 to 14 days after repair is equally important, since early distension disrupts the repair. Delivery after repair is usually by elective caesarean section.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (abstinence from coitus for 3 months and avoid pregnancy for 1 year after VVF repair)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Urogynaecology",
+      "basedOn": "2019 NEET-PG (abstinence from coitus for 3 months and avoid pregnancy for 1 year after VVF repair)"
+    }
+  },
+  {
+    "id": "gyn_q_151",
+    "questionNumber": 151,
+    "subject": "Gynaecology",
+    "subTopic": "Menopause",
+    "sub_topic": "Menopause",
+    "stem": "Natural menopause is diagnosed",
+    "options": [
+      "Retrospectively, after 12 consecutive months of amenorrhoea with no other cause",
+      "After 6 months of amenorrhoea",
+      "By a single raised FSH value",
+      "By a low AMH alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is a clinical diagnosis; hormone measurement is not needed in a woman over 45 with typical symptoms. The average age is about 46 to 48 years in India, and menopause before 40 is premature ovarian insufficiency.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (diagnostic of premature menopause — FSH >40), 2023 NEET-PG (commonest indication of HRT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Menopause",
+      "basedOn": "2018 AIIMS (diagnostic of premature menopause — FSH >40), 2023 NEET-PG (commonest indication of HRT)"
+    }
+  },
+  {
+    "id": "gyn_q_152",
+    "questionNumber": 152,
+    "subject": "Gynaecology",
+    "subTopic": "Menopause",
+    "sub_topic": "Menopause",
+    "stem": "The mechanism of menopausal hot flushes, and the commonest indication for hormone therapy, are",
+    "options": [
+      "Oestrogen withdrawal destabilising the hypothalamic thermoregulatory centre; vasomotor symptoms",
+      "Rising oestrogen causing peripheral vasodilatation; osteoporosis",
+      "Raised FSH acting directly on skin vessels; mood symptoms",
+      "Progesterone excess; genitourinary atrophy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The thermoneutral zone narrows, so small temperature changes trigger heat loss. Vasomotor symptoms are the only indication for which systemic hormone therapy is unequivocally first line.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (assertion–reason on hot flushes and low oestrogen), 2023 NEET-PG (most common indication of HRT — hot flushes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Menopause",
+      "basedOn": "2022 INI-CET (assertion–reason on hot flushes and low oestrogen), 2023 NEET-PG (most common indication of HRT — hot flushes)"
+    }
+  },
+  {
+    "id": "gyn_q_153",
+    "questionNumber": 153,
+    "subject": "Gynaecology",
+    "subTopic": "Menopause",
+    "sub_topic": "Menopause",
+    "stem": "Systemic hormone therapy is contraindicated in a woman with",
+    "options": [
+      "Established cardiovascular disease, previous venous thromboembolism or oestrogen-dependent cancer",
+      "Troublesome hot flushes at age 50",
+      "Early menopause at 38 years",
+      "Osteopenia with vasomotor symptoms"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Starting within 10 years of menopause and before age 60 — the \"window of opportunity\" — carries a favourable balance, whereas late initiation in women with vascular disease caused the harm seen in the Women's Health Initiative.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hormone therapy not indicated in cardiovascular disease), 2021 INI-CET (HRT decreases risk of colon cancer — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Menopause",
+      "basedOn": "2024 INI-CET (hormone therapy not indicated in cardiovascular disease), 2021 INI-CET (HRT decreases risk of colon cancer — true)"
+    }
+  },
+  {
+    "id": "gyn_q_154",
+    "questionNumber": 154,
+    "subject": "Gynaecology",
+    "subTopic": "Menopause",
+    "sub_topic": "Menopause",
+    "stem": "A woman with a uterus taking systemic oestrogen must also receive a progestogen because",
+    "options": [
+      "Unopposed oestrogen causes endometrial hyperplasia and carcinoma",
+      "Progestogen improves hot flush control",
+      "Oestrogen alone causes osteoporosis",
+      "Progestogen prevents breast cancer"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A woman who has had a hysterectomy can therefore take oestrogen alone, which carries a lower breast cancer risk than combined therapy. Low-dose **vaginal** oestrogen for genitourinary symptoms needs no progestogen opposition.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (endometrial hyperplasia management), 2020 NEET-PG (vaginal atrophy treated by oestrogen ointment, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Menopause",
+      "basedOn": "2018 AIIMS (endometrial hyperplasia management), 2020 NEET-PG (vaginal atrophy treated by oestrogen ointment, 2X)"
+    }
+  },
+  {
+    "id": "gyn_q_155",
+    "questionNumber": 155,
+    "subject": "Gynaecology",
+    "subTopic": "Menopause",
+    "sub_topic": "Menopause",
+    "stem": "First-line treatment of osteoporosis in a postmenopausal woman is",
+    "options": [
+      "A bisphosphonate, with calcium and vitamin D",
+      "Systemic hormone therapy in all women",
+      "Teriparatide",
+      "Calcitonin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hormone therapy prevents bone loss but is not used for osteoporosis alone once a woman is past the therapeutic window. Teriparatide and denosumab are reserved for severe or refractory disease, and bisphosphonates risk jaw osteonecrosis and atypical fractures.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (first line of treatment for osteoporosis in postmenopausal women — bisphosphonates)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Menopause",
+      "basedOn": "2020 NEET-PG (first line of treatment for osteoporosis in postmenopausal women — bisphosphonates)"
+    }
+  },
+  {
+    "id": "gyn_q_156",
+    "questionNumber": 156,
+    "subject": "Gynaecology",
+    "subTopic": "Aub",
+    "sub_topic": "Aub",
+    "stem": "In primary dysmenorrhoea, the pain",
+    "options": [
+      "Begins a few hours after the onset of bleeding and lasts up to 48 hours, and is mediated by prostaglandin F2-alpha",
+      "Begins a week before bleeding and persists throughout",
+      "Is unrelated to the cycle",
+      "Appears for the first time after age 35"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It begins within 2 years of menarche in ovulatory cycles and responds to NSAIDs and the combined pill. Pain starting years later, or before bleeding begins, suggests **secondary** dysmenorrhoea from endometriosis or adenomyosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (in primary dysmenorrhoea, pain begins after a few hours of onset of periods and lasts up to 48 hours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Aub",
+      "basedOn": "2024 INI-CET (in primary dysmenorrhoea, pain begins after a few hours of onset of periods and lasts up to 48 hours)"
+    }
+  },
+  {
+    "id": "gyn_q_157",
+    "questionNumber": 157,
+    "subject": "Gynaecology",
+    "subTopic": "Infertility",
+    "sub_topic": "Infertility",
+    "stem": "Intrauterine insemination is most appropriate for",
+    "options": [
+      "Mild male factor or unexplained infertility with at least one patent tube",
+      "Bilateral tubal block",
+      "Azoospermia",
+      "Severe endometriosis with frozen pelvis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It depends on sperm reaching the egg through the tube, so tubal patency is essential and bilateral block mandates IVF. Azoospermia requires surgical sperm retrieval with ICSI, or donor sperm.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (unexplained infertility — 30%), 2018 AIIMS (Sims–Huhner test for sperm motility and morphology)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Infertility",
+      "basedOn": "2024 INI-CET (unexplained infertility — 30%), 2018 AIIMS (Sims–Huhner test for sperm motility and morphology)"
+    }
+  },
+  {
+    "id": "gyn_q_158",
+    "questionNumber": 158,
+    "subject": "Gynaecology",
+    "subTopic": "Endometrial Cancer",
+    "sub_topic": "Endometrial Cancer",
+    "stem": "Endometrial carcinoma arising as part of Lynch syndrome",
+    "options": [
+      "Results from a DNA mismatch repair defect, presents younger, and warrants colonoscopic surveillance",
+      "Results from a BRCA1 mutation",
+      "Is always type II serous histology",
+      "Carries no familial implications"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lynch syndrome accounts for 2 to 5% of endometrial cancers and carries a lifetime risk of up to about 60%, often presenting before 50. Universal mismatch repair immunohistochemistry on the tumour is now common practice.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (type 2 endometrial cancer histology, 2X), 2020 INI-CET (BRCA genetic counselling)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Endometrial Cancer",
+      "basedOn": "2018 NEET-PG (type 2 endometrial cancer histology, 2X), 2020 INI-CET (BRCA genetic counselling)"
+    }
+  },
+  {
+    "id": "gyn_q_159",
+    "questionNumber": 159,
+    "subject": "Gynaecology",
+    "subTopic": "Ovarian Tumour",
+    "sub_topic": "Ovarian Tumour",
+    "stem": "A 20-year-old has sudden severe unilateral pelvic pain with vomiting and an 8 cm adnexal mass, with absent flow on Doppler. The management is",
+    "options": [
+      "Emergency laparoscopy with detorsion and ovarian conservation",
+      "Oophorectomy in all cases",
+      "Analgesia and observation",
+      "Antibiotics for presumed abscess"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A blue-black ovary usually recovers after detorsion, so conservation is preferred even when it looks necrotic. A dermoid cyst is the lesion most often responsible, and Doppler flow may be preserved despite torsion, so normal flow does not exclude it.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (mature teratoma, 2X), 2022 INI-CET (adnexal mass management)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ovarian Tumour",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (mature teratoma, 2X), 2022 INI-CET (adnexal mass management)"
+    }
+  },
+  {
+    "id": "gyn_q_160",
+    "questionNumber": 160,
+    "subject": "Gynaecology",
+    "subTopic": "Urogynaecology",
+    "sub_topic": "Urogynaecology",
+    "stem": "First-line treatment for overactive bladder with urgency incontinence is",
+    "options": [
+      "Bladder training with fluid and caffeine modification, then an antimuscarinic or mirabegron",
+      "A mid-urethral sling",
+      "Long-term indwelling catheterisation",
+      "Anterior colporrhaphy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Antimuscarinics cause dry mouth, constipation and cognitive effects in the elderly, so mirabegron, a beta-3 agonist, is often preferred. Botulinum toxin and sacral neuromodulation are third-line. Slings treat **stress**, not urge, incontinence.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (cystocele with urination on coughing — stress incontinence), 2015 AIIMS (continuous incontinence after hysterectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urogynaecology",
+      "basedOn": "2020 NEET-PG (cystocele with urination on coughing — stress incontinence), 2015 AIIMS (continuous incontinence after hysterectomy)"
+    }
+  }
+]

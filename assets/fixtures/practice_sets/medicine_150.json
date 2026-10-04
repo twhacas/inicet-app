@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "med_q_1",
+    "questionNumber": 1,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A 45-year-old has spastic weakness of both legs, brisk reflexes, a band of sensory loss at the umbilicus and hesitancy of micturition. The lesion is at",
+    "options": [
+      "The cervical cord",
+      "The thoracic cord at about T10",
+      "The conus medullaris",
+      "Bilateral parasagittal cortex"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The umbilicus is the T10 dermatome, and a sensory level with upper motor neuron signs below it localises to the cord at that segment. Sphincter involvement confirms a cord rather than a cortical lesion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (spastic paraparesis with sensory level at umbilicus — thoracic cord, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (spastic paraparesis with sensory level at umbilicus — thoracic cord, 2X)"
+    }
+  },
+  {
+    "id": "med_q_2",
+    "questionNumber": 2,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "CSF in a patient with suspected meningitis shows lymphocytic pleocytosis, glucose 20 mg/dL with a blood glucose of 140 mg/dL, and protein 80 mg/dL. The diagnosis is",
+    "options": [
+      "Viral meningitis",
+      "Pyogenic meningitis",
+      "Tuberculous meningitis",
+      "Subarachnoid haemorrhage"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A CSF-to-blood glucose ratio well below 0.5 with lymphocytes and high protein is the classic triad. Viral meningitis has normal glucose, and pyogenic meningitis has neutrophils with very low glucose. A cobweb coagulum and raised ADA support it.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (CSF with lymphocytes, low glucose, high protein — tubercular meningitis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (CSF with lymphocytes, low glucose, high protein — tubercular meningitis, 3X)"
+    }
+  },
+  {
+    "id": "med_q_3",
+    "questionNumber": 3,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient draws only the right half of a flower, shaves only the right side of his face and eats from the right side of the plate. The lesion is in the",
+    "options": [
+      "Left parietal cortex",
+      "Right posterior parieto-occipital cortex",
+      "Right frontal lobe",
+      "Left occipital lobe"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hemispatial neglect of the left side follows a **right** (non-dominant) parietal lesion, because the right hemisphere mediates attention to both sides while the left attends mainly to the right. Anosognosia and dressing apraxia accompany it.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (draws and shaves only right side — right posterior parieto-occipital cortex, 5X)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (draws and shaves only right side — right posterior parieto-occipital cortex, 5X)"
+    }
+  },
+  {
+    "id": "med_q_4",
+    "questionNumber": 4,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient has left-sided weakness with loss of proprioception and vibration on the left, a spared face, and a tongue that deviates to the right on protrusion. The vessel occluded is the",
+    "options": [
+      "Right posterior inferior cerebellar artery",
+      "Left middle cerebral artery",
+      "Right anterior spinal artery",
+      "Left vertebral artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Medial medullary (Dejerine) syndrome on the right: the right pyramid and medial lemniscus are damaged above their decussations, giving left-sided signs, while the right hypoglossal nucleus makes the tongue deviate to the lesion side.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (left weakness, loss of proprioception, tongue deviates right — anterior spinal artery, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neurology",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (left weakness, loss of proprioception, tongue deviates right — anterior spinal artery, 2X)"
+    }
+  },
+  {
+    "id": "med_q_5",
+    "questionNumber": 5,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Which finding is NOT expected in Brown-Séquard syndrome from right-sided cord hemisection at T6?",
+    "options": [
+      "Right-sided spastic weakness below the lesion",
+      "Right-sided loss of vibration and proprioception",
+      "Left-sided loss of pain and temperature",
+      "Right-sided loss of pain and temperature below the lesion"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The spinothalamic tract crosses within one to two segments of entry, so pain and temperature loss is contralateral. Motor and dorsal column signs are ipsilateral because those tracts cross higher up.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (Brown-Séquard features, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (Brown-Séquard features, 2X)"
+    }
+  },
+  {
+    "id": "med_q_6",
+    "questionNumber": 6,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient with a past gastrectomy has distal lower limb paraesthesia and a positive Romberg sign. The deficiency and the tracts affected are",
+    "options": [
+      "Folate, affecting peripheral nerves only",
+      "Thiamine, affecting the mamillary bodies",
+      "Vitamin B12, affecting dorsal columns and lateral corticospinal tracts",
+      "Vitamin E, affecting the cerebellum only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Subacute combined degeneration gives sensory ataxia with upper motor neuron signs. Because intrinsic factor is lost, deficiency follows gastrectomy. Giving folate alone corrects the anaemia while the neuropathy progresses.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (neuropathy with positive Romberg after gastrectomy — B12 deficiency), 2024 INI-CET surgery (post-gastrectomy lower limb weakness — B12)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (neuropathy with positive Romberg after gastrectomy — B12 deficiency), 2024 INI-CET surgery (post-gastrectomy lower limb weakness — B12)"
+    }
+  },
+  {
+    "id": "med_q_7",
+    "questionNumber": 7,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Reversible causes of dementia include all of the following EXCEPT",
+    "options": [
+      "Vitamin B12 deficiency",
+      "Normal pressure hydrocephalus",
+      "Hypothyroidism",
+      "Lewy body dementia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Lewy body dementia is a progressive synucleinopathy. The treatable causes worth excluding are B12 and thiamine deficiency, hypothyroidism, normal pressure hydrocephalus, neurosyphilis, HIV, subdural haematoma, depression and drugs.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (reversible causes of dementia — B12 deficiency, NPH, hypothyroidism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (reversible causes of dementia — B12 deficiency, NPH, hypothyroidism)"
+    }
+  },
+  {
+    "id": "med_q_8",
+    "questionNumber": 8,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Which group of disorders is classified as alpha-synucleinopathies?",
+    "options": [
+      "Huntington disease and Wilson disease",
+      "Alzheimer disease and frontotemporal dementia",
+      "Progressive supranuclear palsy and corticobasal degeneration",
+      "Parkinson disease, Lewy body dementia and multiple system atrophy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Progressive supranuclear palsy, corticobasal degeneration and Alzheimer disease are tauopathies. Lewy body dementia shows dementia with visual hallucinations and antipsychotic sensitivity; multiple system atrophy adds autonomic failure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (alpha synucleinopathy includes Parkinson, Lewy body dementia, multiple system atrophy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (alpha synucleinopathy includes Parkinson, Lewy body dementia, multiple system atrophy)"
+    }
+  },
+  {
+    "id": "med_q_9",
+    "questionNumber": 9,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "The earliest symptom of multiple sclerosis in many patients is",
+    "options": [
+      "Cognitive decline",
+      "Sensory disturbance",
+      "Bladder dysfunction",
+      "Seizures"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Optic neuritis and sensory symptoms are the commonest presenting features. Diagnosis requires dissemination in time and space (McDonald criteria), supported by MRI and CSF oligoclonal bands. Uhthoff phenomenon is worsening with heat.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (one of the earliest symptoms in multiple sclerosis — sensory disturbances)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (one of the earliest symptoms in multiple sclerosis — sensory disturbances)"
+    }
+  },
+  {
+    "id": "med_q_10",
+    "questionNumber": 10,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Core clinical characteristics of neuromyelitis optica spectrum disorder include all EXCEPT",
+    "options": [
+      "Optic neuritis",
+      "Area postrema syndrome with intractable vomiting",
+      "Acute diencephalic syndrome",
+      "Peripheral sensorimotor polyneuropathy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "NMOSD is a central astrocytopathy with aquaporin-4 IgG. Its six core features are optic neuritis, acute myelitis (often longitudinally extensive), area postrema syndrome, brainstem syndrome, diencephalic syndrome and cerebral syndrome.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (core clinical criteria of neuromyelitis optica — optic neuritis, area postrema, diencephalic syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (core clinical criteria of neuromyelitis optica — optic neuritis, area postrema, diencephalic syndrome)"
+    }
+  },
+  {
+    "id": "med_q_11",
+    "questionNumber": 11,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient develops burning pain over one half of the body, provoked even by splashing water. The lesion is in the",
+    "options": [
+      "Dorsal root ganglion",
+      "Internal capsule",
+      "Thalamus",
+      "Spinothalamic tract in the cord"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Thalamic (Dejerine–Roussy) pain syndrome follows a ventroposterior thalamic stroke and appears weeks later as spontaneous pain with allodynia. It responds poorly to opioids; amitriptyline, gabapentinoids and lamotrigine are used.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sharp pain on one side of body with water splashing — thalamic pain syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (sharp pain on one side of body with water splashing — thalamic pain syndrome)"
+    }
+  },
+  {
+    "id": "med_q_12",
+    "questionNumber": 12,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "The ABCD2 score, used to estimate early stroke risk after a transient ischaemic attack, includes",
+    "options": [
+      "Age, body mass index, creatinine and diabetes",
+      "Age, bruit, cholesterol, diabetes and dysphasia",
+      "Atrial fibrillation, blood pressure, cholesterol and dyslipidaemia",
+      "Age, blood pressure, clinical features, duration and diabetes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Age 60 or more, blood pressure 140/90 or more, unilateral weakness or speech disturbance, duration 60 minutes or more, and diabetes. A high score prompts urgent carotid imaging and secondary prevention.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ABCD2 score components)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (ABCD2 score components)"
+    }
+  },
+  {
+    "id": "med_q_13",
+    "questionNumber": 13,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "An absolute contraindication to intravenous thrombolysis in acute ischaemic stroke is",
+    "options": [
+      "Age above 70 years",
+      "Blood pressure persistently above 185/110 mmHg",
+      "NIHSS score above 10",
+      "Diabetes mellitus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Other contraindications are intracranial haemorrhage, recent surgery or stroke, platelets below 100,000, INR above 1.7 and glucose below 50 mg/dL. The window is 4.5 hours, with thrombectomy possible later in large-vessel occlusion.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (contraindication to thrombolysis in stroke — BP >185/110)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (contraindication to thrombolysis in stroke — BP >185/110)"
+    }
+  },
+  {
+    "id": "med_q_14",
+    "questionNumber": 14,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A child has headache and seizures, and CT shows a cystic lesion with an eccentric scolex and surrounding oedema. The correct sequence of treatment is",
+    "options": [
+      "Antiparasitic drug first, then steroids",
+      "Corticosteroids started before the antiparasitic agent, with antiepileptics",
+      "Antiepileptics alone",
+      "Surgical excision first"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Dying cysts provoke inflammation that raises intracranial pressure and precipitates seizures. Ophthalmic cysticercosis must be excluded before treatment because intraocular inflammation can destroy vision.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cystic lesion with scolex — steroids before antiparasitic agents)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (cystic lesion with scolex — steroids before antiparasitic agents)"
+    }
+  },
+  {
+    "id": "med_q_15",
+    "questionNumber": 15,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Drugs that can exacerbate myasthenia gravis include",
+    "options": [
+      "Pyridostigmine and prednisolone",
+      "Phenytoin, aminoglycosides, fluoroquinolones and magnesium",
+      "Paracetamol and pantoprazole",
+      "Metformin and atorvastatin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These impair neuromuscular transmission presynaptically or postsynaptically. Beta blockers, macrolides, quinine, lignocaine and penicillamine are also implicated, and statins occasionally unmask the disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (drugs exacerbating myasthenia gravis — phenytoin, lignocaine), 2020 INI-CET (lignocaine, digene, phenytoin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (drugs exacerbating myasthenia gravis — phenytoin, lignocaine), 2020 INI-CET (lignocaine, digene, phenytoin)"
+    }
+  },
+  {
+    "id": "med_q_16",
+    "questionNumber": 16,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient on carbamazepine for epilepsy is given erythromycin and becomes ataxic with diplopia. The mechanism is",
+    "options": [
+      "Displacement from albumin",
+      "Induction of carbamazepine metabolism",
+      "Inhibition of CYP3A4 raising carbamazepine levels",
+      "Additive cerebellar toxicity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Macrolides other than azithromycin, azoles, valproate and cimetidine all raise levels. Carbamazepine also induces its own metabolism, so doses often need increasing in the first weeks of treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (carbamazepine with erythromycin causing ataxia — carbamazepine toxicity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (carbamazepine with erythromycin causing ataxia — carbamazepine toxicity)"
+    }
+  },
+  {
+    "id": "med_q_17",
+    "questionNumber": 17,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient has ascending flaccid weakness with areflexia two weeks after a diarrhoeal illness. CSF shows raised protein with normal cells. The finding that most urgently guides management is",
+    "options": [
+      "Nerve conduction study pattern",
+      "Serial forced vital capacity and single-breath count",
+      "Anti-GQ1b antibody titre",
+      "MRI of the spine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Respiratory failure is the main cause of death in Guillain–Barré syndrome, and intubation is considered when vital capacity falls below about 20 mL/kg. Treatment is IVIG or plasma exchange; steroids are ineffective.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (albuminocytological dissociation and demyelinating disease), 2024 INI-CET (neurological localisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (albuminocytological dissociation and demyelinating disease), 2024 INI-CET (neurological localisation)"
+    }
+  },
+  {
+    "id": "med_q_18",
+    "questionNumber": 18,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A 25-year-old has recurrent episodes of severe unilateral periorbital pain lasting 45 minutes with lacrimation and nasal stuffiness, several times nightly in clusters. Acute treatment is",
+    "options": [
+      "Indomethacin alone",
+      "Oral propranolol",
+      "Carbamazepine",
+      "High-flow oxygen with subcutaneous sumatriptan"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Verapamil is the preventive of choice in cluster headache. Indomethacin is diagnostic and therapeutic in paroxysmal hemicrania, and carbamazepine is used for trigeminal neuralgia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET pharmacology (migraine with CAD — triptan risk), 2023 INI-CET (neurological presentations)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2020 INI-CET pharmacology (migraine with CAD — triptan risk), 2023 INI-CET (neurological presentations)"
+    }
+  },
+  {
+    "id": "med_q_19",
+    "questionNumber": 19,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "In a patient with suspected subarachnoid haemorrhage and a normal CT performed 12 hours after onset, the next step is",
+    "options": [
+      "Discharge with analgesia",
+      "Lumbar puncture looking for xanthochromia",
+      "Immediate angiography regardless",
+      "MRI brain only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "CT sensitivity falls after 6 hours. Xanthochromia from bilirubin takes about 12 hours to develop and persists for up to 2 weeks, and a falling red cell count across successive bottles helps distinguish a traumatic tap.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (CSF interpretation), 2023 INI-CET (thrombolysis contraindications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (CSF interpretation), 2023 INI-CET (thrombolysis contraindications)"
+    }
+  },
+  {
+    "id": "med_q_20",
+    "questionNumber": 20,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Status epilepticus unresponsive to two adequate doses of benzodiazepine should next be treated with",
+    "options": [
+      "Immediate thiopentone",
+      "A third dose of benzodiazepine",
+      "A second-line intravenous antiepileptic such as levetiracetam, valproate or fosphenytoin",
+      "Oral carbamazepine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The ESETT trial found the three equivalent. Refractory status then needs anaesthetic infusion with intubation. Thiamine and glucose are given where alcohol or malnutrition is suspected.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fosphenytoin toxicity), 2023 INI-CET (antiepileptic choice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (fosphenytoin toxicity), 2023 INI-CET (antiepileptic choice)"
+    }
+  },
+  {
+    "id": "med_q_21",
+    "questionNumber": 21,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A 60-year-old has resting tremor, bradykinesia and rigidity that improve markedly with levodopa. A feature that would argue AGAINST idiopathic Parkinson disease is",
+    "options": [
+      "Asymmetric onset",
+      "Early falls with vertical gaze palsy",
+      "Anosmia",
+      "Constipation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "That suggests progressive supranuclear palsy. Other red flags for atypical parkinsonism are early autonomic failure (multiple system atrophy), early dementia with hallucinations (Lewy body), symmetry and poor levodopa response.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (alpha synucleinopathies), 2022 NEET-PG pharmacology (levodopa most effective for tremor, rigidity, bradykinesia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (alpha synucleinopathies), 2022 NEET-PG pharmacology (levodopa most effective for tremor, rigidity, bradykinesia)"
+    }
+  },
+  {
+    "id": "med_q_22",
+    "questionNumber": 22,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient with acute weakness has absent reflexes, normal sensation and a creatine kinase of 8,000 U/L with potassium of 6.8 mmol/L after prolonged immobilisation. The immediate priority is",
+    "options": [
+      "Plasma exchange",
+      "High-dose steroids",
+      "IVIG",
+      "Aggressive intravenous fluid with treatment of hyperkalaemia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Rhabdomyolysis threatens life through hyperkalaemia and the kidney through myoglobin-induced acute injury. Calcium gluconate, insulin–dextrose and salbutamol lower potassium while fluids maintain urine output.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypokalaemia and electrolyte signs), 2023 INI-CET (acute weakness localisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (hypokalaemia and electrolyte signs), 2023 INI-CET (acute weakness localisation)"
+    }
+  },
+  {
+    "id": "med_q_23",
+    "questionNumber": 23,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Wernicke encephalopathy is characterised by the triad of",
+    "options": [
+      "Confusion, seizures and hemiparesis",
+      "Confusion, ophthalmoplegia and ataxia",
+      "Amnesia, confabulation and neuropathy",
+      "Headache, fever and neck stiffness"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is a thiamine-deficiency emergency, so thiamine is given before glucose. Option C describes Korsakoff psychosis, the chronic amnestic sequel, which is largely irreversible.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (B12 deficiency and neuropathy), 2024 INI-CET FMT (Korsakoff features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (B12 deficiency and neuropathy), 2024 INI-CET FMT (Korsakoff features)"
+    }
+  },
+  {
+    "id": "med_q_24",
+    "questionNumber": 24,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient with HIV and a CD4 count of 60 has a ring-enhancing lesion with mass effect. The commonest cause and empirical treatment are",
+    "options": [
+      "Tuberculoma; ATT",
+      "Primary CNS lymphoma; radiotherapy",
+      "Toxoplasmosis; pyrimethamine with sulfadiazine and folinic acid",
+      "Cryptococcoma; amphotericin B"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Multiple ring-enhancing lesions at the basal ganglia and grey–white junction with positive serology favour toxoplasmosis, and a response within 2 weeks supports the diagnosis. A solitary periventricular lesion raises suspicion of lymphoma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (neurocysticercosis management), 2024 INI-CET (CSF interpretation in meningitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (neurocysticercosis management), 2024 INI-CET (CSF interpretation in meningitis)"
+    }
+  },
+  {
+    "id": "med_q_25",
+    "questionNumber": 25,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "In a patient with bacterial meningitis, adjunctive dexamethasone is of proven benefit mainly in infection with",
+    "options": [
+      "Haemophilus influenzae in adults",
+      "Neisseria meningitidis",
+      "Listeria monocytogenes",
+      "Streptococcus pneumoniae"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It reduces mortality and hearing loss, and must be given with or just before the first antibiotic dose. In children, benefit is clearest for *H. influenzae* type b. Ampicillin is added for *Listeria* in the elderly and immunosuppressed.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CSF analysis in meningitis), 2023 INI-CET (steroid timing in CNS infection)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (CSF analysis in meningitis), 2023 INI-CET (steroid timing in CNS infection)"
+    }
+  },
+  {
+    "id": "med_q_26",
+    "questionNumber": 26,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Normal pressure hydrocephalus classically presents with",
+    "options": [
+      "Headache, vomiting and papilloedema",
+      "Gait apraxia, urinary incontinence and cognitive decline",
+      "Seizures and hemiparesis",
+      "Vertigo and deafness"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Gait disturbance comes first and improves most after shunting, which is why a high-volume tap test predicting gait improvement is used to select patients. It is one of the treatable dementias.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (reversible dementia — NPH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (reversible dementia — NPH)"
+    }
+  },
+  {
+    "id": "med_q_27",
+    "questionNumber": 27,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "The EEG finding characteristic of absence seizures is",
+    "options": [
+      "Periodic lateralised epileptiform discharges",
+      "Hypsarrhythmia",
+      "Generalised 3 Hz spike-and-wave discharges",
+      "Triphasic waves"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hyperventilation provokes them. Hypsarrhythmia belongs to infantile spasms, PLEDs to herpes encephalitis and triphasic waves to hepatic encephalopathy. Valproate, lamotrigine and ethosuximide treat absence seizures.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET pharmacology (drugs in absence seizure), 2023 INI-CET (antiepileptic choice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2020 INI-CET pharmacology (drugs in absence seizure), 2023 INI-CET (antiepileptic choice)"
+    }
+  },
+  {
+    "id": "med_q_28",
+    "questionNumber": 28,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient with chronic liver disease becomes drowsy with asterixis. The most useful immediate intervention is",
+    "options": [
+      "Immediate transplantation",
+      "Protein restriction for weeks",
+      "High-dose steroids",
+      "Identifying and treating the precipitant, with lactulose and rifaximin"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Infection, gastrointestinal bleeding, constipation, electrolyte disturbance and sedatives are the usual triggers. Prolonged protein restriction worsens sarcopenia and outcome and is no longer recommended.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis with ascites — diuretic choice), 2023 INI-CET (hepatic disease management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2022 INI-CET (cirrhosis with ascites — diuretic choice), 2023 INI-CET (hepatic disease management)"
+    }
+  },
+  {
+    "id": "med_q_29",
+    "questionNumber": 29,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A 30-year-old has sudden severe headache described as the worst of her life, with neck stiffness and no focal deficit. The most useful first investigation is",
+    "options": [
+      "MRI brain",
+      "Non-contrast CT of the head",
+      "Carotid Doppler",
+      "EEG"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Sensitivity exceeds 95% within 6 hours of onset. Thunderclap headache also raises the possibility of cerebral venous thrombosis and reversible cerebral vasoconstriction syndrome, for which venography and vessel imaging follow.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (thrombolysis and stroke imaging), 2024 INI-CET (neurological emergencies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (thrombolysis and stroke imaging), 2024 INI-CET (neurological emergencies)"
+    }
+  },
+  {
+    "id": "med_q_30",
+    "questionNumber": 30,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "A patient has bilateral ptosis and fatigable proximal weakness that worsens through the day, with normal reflexes. The most specific confirmatory test is",
+    "options": [
+      "Nerve conduction velocity",
+      "Creatine kinase",
+      "Anti-acetylcholine receptor antibody, with anti-MuSK if negative",
+      "Muscle biopsy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Repetitive nerve stimulation shows a decremental response. CT of the chest is needed to exclude thymoma. Lambert–Eaton syndrome, by contrast, improves with use and shows an incremental response.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (drugs exacerbating myasthenia gravis), 2022 NEET-PG pharmacology (edrophonium test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (drugs exacerbating myasthenia gravis), 2022 NEET-PG pharmacology (edrophonium test)"
+    }
+  },
+  {
+    "id": "med_q_31",
+    "questionNumber": 31,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Hypertensive intracerebral haemorrhage most commonly occurs in the",
+    "options": [
+      "Corpus callosum",
+      "Occipital cortex",
+      "Cerebellar vermis",
+      "Putamen and basal ganglia, from rupture of Charcot–Bouchard microaneurysms"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Lenticulostriate branches of the middle cerebral artery are affected. Lobar haemorrhage in the elderly suggests cerebral amyloid angiopathy instead. Blood pressure is lowered carefully, and anticoagulation reversed.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (stroke thrombolysis criteria), 2021 INI-CET pathology (hypertensive vascular change)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2023 INI-CET (stroke thrombolysis criteria), 2021 INI-CET pathology (hypertensive vascular change)"
+    }
+  },
+  {
+    "id": "med_q_32",
+    "questionNumber": 32,
+    "subject": "General Medicine",
+    "subTopic": "Neurology",
+    "sub_topic": "Neurology",
+    "stem": "Lumbar puncture should be preceded by imaging when there is",
+    "options": [
+      "Fever alone",
+      "Focal neurological deficit, new seizure, papilloedema or impaired consciousness",
+      "Headache alone",
+      "Neck stiffness alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These suggest a mass lesion or raised pressure, where lumbar puncture risks herniation. Antibiotics must not be delayed for imaging in suspected bacterial meningitis; blood cultures are taken and treatment started first.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CSF analysis in meningitis), 2023 NEET-PG physiology (lumbar puncture layers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neurology",
+      "basedOn": "2024 INI-CET (CSF analysis in meningitis), 2023 NEET-PG physiology (lumbar puncture layers)"
+    }
+  },
+  {
+    "id": "med_q_33",
+    "questionNumber": 33,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient has a mid-diastolic murmur at the apex with an opening snap and a loud first sound. The lesion and the commonest cause are",
+    "options": [
+      "Aortic stenosis from calcific degeneration",
+      "Mitral stenosis from rheumatic heart disease",
+      "Mitral regurgitation from chordal rupture",
+      "Tricuspid stenosis from carcinoid"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A shorter S2-to-opening-snap interval indicates more severe stenosis, because left atrial pressure is higher. Atrial fibrillation, haemoptysis and a loud P2 follow as pulmonary pressures rise.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (mid-diastolic murmur with opening snap — mitral stenosis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (mid-diastolic murmur with opening snap — mitral stenosis, 3X)"
+    }
+  },
+  {
+    "id": "med_q_34",
+    "questionNumber": 34,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Which murmur is best described as a late systolic murmur preceded by a mid-systolic click, moving earlier on standing?",
+    "options": [
+      "Ventricular septal defect",
+      "Aortic stenosis",
+      "Mitral valve prolapse",
+      "Pulmonary stenosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Standing reduces venous return and ventricular volume, so the valve prolapses earlier and the click moves towards S1 with a longer murmur. Squatting does the opposite. It is associated with Marfan syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (murmur identification), 2022 INI-CET (valvular lesion assessment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (murmur identification), 2022 INI-CET (valvular lesion assessment)"
+    }
+  },
+  {
+    "id": "med_q_35",
+    "questionNumber": 35,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "In hypertrophic cardiomyopathy the systolic murmur increases with",
+    "options": [
+      "Squatting",
+      "Passive leg raising",
+      "The strain phase of the Valsalva manoeuvre",
+      "Handgrip"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Anything reducing preload or afterload worsens dynamic outflow obstruction and intensifies the murmur. Squatting, leg raising and handgrip increase ventricular volume or afterload and soften it. Beta blockers are first-line.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (murmurs and manoeuvres), 2021 INI-CET (cardiomyopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (murmurs and manoeuvres), 2021 INI-CET (cardiomyopathy)"
+    }
+  },
+  {
+    "id": "med_q_36",
+    "questionNumber": 36,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient with chest pain has ST elevation in leads II, III and aVF with hypotension and clear lungs. The complication to anticipate and the drug to avoid are",
+    "options": [
+      "Free wall rupture; avoid beta blockers",
+      "Left ventricular failure; avoid fluids",
+      "Pericarditis; avoid aspirin",
+      "Right ventricular infarction; avoid nitrates"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Inferior infarction with hypotension and raised jugular pressure but clear lungs implies a preload-dependent right ventricle. Nitrates and diuretics cause profound hypotension; cautious fluid loading is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2021 NEET-PG (ECG changes in II, III, aVF — inferior wall MI, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET / 2021 NEET-PG (ECG changes in II, III, aVF — inferior wall MI, 3X)"
+    }
+  },
+  {
+    "id": "med_q_37",
+    "questionNumber": 37,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "ST elevation in leads V1 to V4 indicates infarction of the",
+    "options": [
+      "Inferior wall, right coronary artery",
+      "Anteroseptal wall, left anterior descending artery",
+      "Lateral wall, left circumflex artery",
+      "Posterior wall, posterior descending artery"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Leads I, aVL, V5 and V6 cover the lateral wall, supplied by the circumflex. Tall R waves with ST depression in V1 and V2 suggest a posterior infarct, which is confirmed with posterior leads.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2021 NEET-PG (ECG lead-to-wall correlation, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET / 2021 NEET-PG (ECG lead-to-wall correlation, 3X)"
+    }
+  },
+  {
+    "id": "med_q_38",
+    "questionNumber": 38,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The most sensitive and specific biomarker for myocardial infarction within 3 hours of chest pain onset is",
+    "options": [
+      "CK-MB",
+      "Myoglobin",
+      "High-sensitivity cardiac troponin",
+      "Lactate dehydrogenase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It rises within 2 to 3 hours and stays elevated for up to 10 days. CK-MB is preferred for detecting re-infarction because it normalises in 48 to 72 hours. Myoglobin rises earliest but is non-specific.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cardiac biomarker of choice — troponin, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (cardiac biomarker of choice — troponin, 2X)"
+    }
+  },
+  {
+    "id": "med_q_39",
+    "questionNumber": 39,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient on day 4 after anterior myocardial infarction develops a new harsh pansystolic murmur with a thrill and acute pulmonary oedema. The likely complication is",
+    "options": [
+      "Dressler syndrome",
+      "Ventricular septal rupture",
+      "Left ventricular aneurysm",
+      "Reinfarction"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mechanical complications peak between days 3 and 7, when the necrotic wall is weakest. Papillary muscle rupture gives a similar murmur but usually without a thrill; both need urgent echocardiography and surgery.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (post-MI complications), 2024 INI-CET (murmur interpretation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (post-MI complications), 2024 INI-CET (murmur interpretation)"
+    }
+  },
+  {
+    "id": "med_q_40",
+    "questionNumber": 40,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Beck triad in cardiac tamponade consists of",
+    "options": [
+      "Fever, murmur and splenomegaly",
+      "Hypertension, bradycardia and irregular respiration",
+      "Hypotension, raised jugular venous pressure and muffled heart sounds",
+      "Hypotension, tachycardia and oliguria"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Pulsus paradoxus and electrical alternans support it; the jugular venous pressure shows absent y descent. Option B is the Cushing reflex of raised intracranial pressure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Beck triad in tamponade, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (Beck triad in tamponade, 2X)"
+    }
+  },
+  {
+    "id": "med_q_41",
+    "questionNumber": 41,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Kussmaul sign, a rise in jugular venous pressure on inspiration, is characteristic of",
+    "options": [
+      "Aortic regurgitation",
+      "Cardiac tamponade",
+      "Mitral stenosis",
+      "Constrictive pericarditis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A rigid pericardium prevents the right ventricle from accommodating the inspiratory increase in venous return. It also occurs in restrictive cardiomyopathy and right ventricular infarction, but is characteristically absent in tamponade.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Beck triad, tamponade), 2022 INI-CET (pericardial disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (Beck triad, tamponade), 2022 INI-CET (pericardial disease)"
+    }
+  },
+  {
+    "id": "med_q_42",
+    "questionNumber": 42,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A young man collapses during exercise. ECG shows a short PR interval with a slurred upstroke of the QRS. The arrhythmia risk and the drug to avoid in atrial fibrillation are",
+    "options": [
+      "Long QT syndrome; avoid beta blockers",
+      "Wolff–Parkinson–White syndrome; avoid digoxin and verapamil",
+      "Brugada syndrome; avoid quinidine",
+      "Complete heart block; avoid atropine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Atrioventricular nodal blockers favour conduction down the accessory pathway and can precipitate ventricular fibrillation. Procainamide or ibutilide is used, with radiofrequency ablation as definitive treatment.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ECG interpretation), 2020 INI-CET pharmacology (antiarrhythmic choice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (ECG interpretation), 2020 INI-CET pharmacology (antiarrhythmic choice)"
+    }
+  },
+  {
+    "id": "med_q_43",
+    "questionNumber": 43,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Which feature favours ventricular tachycardia over supraventricular tachycardia with aberrancy?",
+    "options": [
+      "Response to carotid sinus massage",
+      "Rate above 150 per minute",
+      "Fusion and capture beats with positive QRS concordance across the precordium",
+      "Regular rhythm"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Extreme axis deviation, QRS width above 140 ms and atrioventricular dissociation also favour ventricular tachycardia. Any wide-complex tachycardia with haemodynamic compromise is treated as ventricular tachycardia.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ECG interpretation), 2022 INI-CET (arrhythmia management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (ECG interpretation), 2022 INI-CET (arrhythmia management)"
+    }
+  },
+  {
+    "id": "med_q_44",
+    "questionNumber": 44,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "In a patient with non-valvular atrial fibrillation, the score used to decide on anticoagulation is",
+    "options": [
+      "GRACE score",
+      "HAS-BLED",
+      "Wells score",
+      "CHA2DS2-VASc"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "HAS-BLED estimates bleeding risk but does not by itself withhold anticoagulation. A score of 2 or more in men and 3 or more in women warrants a direct oral anticoagulant, except in valvular disease where warfarin is used.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ABCD2 score), 2022 INI-CET (atrial fibrillation management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (ABCD2 score), 2022 INI-CET (atrial fibrillation management)"
+    }
+  },
+  {
+    "id": "med_q_45",
+    "questionNumber": 45,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The characteristic ECG change of hypokalaemia is",
+    "options": [
+      "Peaked T waves",
+      "ST elevation",
+      "Flattened T waves with prominent U waves and ST depression",
+      "Short QT interval"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hyperkalaemia instead gives peaked T waves, then PR prolongation, P wave loss and a sine wave pattern. Hypokalaemia also predisposes to digoxin toxicity and torsades de pointes.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypokalaemia features — U wave, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypokalaemia features — U wave, 2X)"
+    }
+  },
+  {
+    "id": "med_q_46",
+    "questionNumber": 46,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient with a prosthetic valve has fever, new murmur, splinter haemorrhages and painless palm lesions. The palm lesions are",
+    "options": [
+      "Osler nodes",
+      "Janeway lesions",
+      "Roth spots",
+      "Gottron papules"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Janeway lesions are painless and embolic; Osler nodes are painful and immune-complex mediated, occurring on finger pulps. Roth spots are retinal haemorrhages with pale centres.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (infective endocarditis), 2024 INI-CET (murmur with fever)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (infective endocarditis), 2024 INI-CET (murmur with fever)"
+    }
+  },
+  {
+    "id": "med_q_47",
+    "questionNumber": 47,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The major Duke criteria for infective endocarditis are",
+    "options": [
+      "Fever and a new murmur",
+      "Two separate positive blood cultures with typical organisms, and evidence of endocardial involvement",
+      "Splenomegaly and anaemia",
+      "Raised ESR and microscopic haematuria"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Diagnosis needs two major, or one major with three minor, or five minor criteria. Minor criteria include predisposition, fever, vascular and immunological phenomena, and non-major microbiological evidence.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (endocarditis diagnosis), 2024 INI-CET (valvular disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (endocarditis diagnosis), 2024 INI-CET (valvular disease)"
+    }
+  },
+  {
+    "id": "med_q_48",
+    "questionNumber": 48,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A hypertensive patient develops a dry cough on treatment. The drug class responsible and the mechanism are",
+    "options": [
+      "Calcium channel blockers, through vasodilatation",
+      "Angiotensin receptor blockers, through AT1 blockade",
+      "ACE inhibitors, through bradykinin accumulation",
+      "Thiazides, through hypokalaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "ACE also degrades bradykinin and substance P. The remedy is to switch to an angiotensin receptor blocker, which does not raise bradykinin and therefore rarely causes cough or angio-oedema.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG pharmacology (ACE inhibitor cough — bradykinin, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2022 NEET-PG pharmacology (ACE inhibitor cough — bradykinin, 2X)"
+    }
+  },
+  {
+    "id": "med_q_49",
+    "questionNumber": 49,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "In a diabetic hypertensive patient with proteinuria, the antihypertensive of first choice is",
+    "options": [
+      "Atenolol",
+      "A thiazide diuretic",
+      "Amlodipine",
+      "An ACE inhibitor or angiotensin receptor blocker"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "They reduce intraglomerular pressure and slow the progression of nephropathy independently of blood pressure. The two classes must never be combined, and creatinine and potassium are checked after starting.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypertension with diabetes — drug choice, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypertension with diabetes — drug choice, 2X)"
+    }
+  },
+  {
+    "id": "med_q_50",
+    "questionNumber": 50,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The antihypertensive of choice in pregnancy-induced hypertension is",
+    "options": [
+      "Enalapril",
+      "Labetalol, with methyldopa and nifedipine as alternatives",
+      "Losartan",
+      "Spironolactone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "ACE inhibitors and angiotensin receptor blockers are teratogenic, causing oligohydramnios, renal dysgenesis and skull hypoplasia. Magnesium sulphate prevents and treats eclamptic seizures but is not an antihypertensive.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypertension in pregnancy), 2022 INI-CET pharmacology (safe antihypertensives)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypertension in pregnancy), 2022 INI-CET pharmacology (safe antihypertensives)"
+    }
+  },
+  {
+    "id": "med_q_51",
+    "questionNumber": 51,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Resistant hypertension with hypokalaemia and metabolic alkalosis in a young adult suggests",
+    "options": [
+      "Renal artery stenosis from atherosclerosis",
+      "Phaeochromocytoma",
+      "Primary hyperaldosteronism",
+      "Essential hypertension"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Screening uses the aldosterone-to-renin ratio, with adrenal imaging and vein sampling to distinguish adenoma from bilateral hyperplasia. Spironolactone treats hyperplasia; adenoma is removed.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypokalaemia causes), 2023 INI-CET (secondary hypertension)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypokalaemia causes), 2023 INI-CET (secondary hypertension)"
+    }
+  },
+  {
+    "id": "med_q_52",
+    "questionNumber": 52,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Episodic headache, palpitations and sweating with paroxysmal hypertension is investigated first with",
+    "options": [
+      "Renal Doppler",
+      "Serum cortisol",
+      "Thyroid function tests",
+      "Plasma free metanephrines or 24-hour urinary fractionated metanephrines"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Metanephrines are produced continuously inside the tumour, so they do not depend on catching a paroxysm. Alpha blockade with phenoxybenzamine must precede beta blockade to avoid unopposed alpha stimulation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypertension evaluation), 2022 INI-CET (endocrine hypertension)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypertension evaluation), 2022 INI-CET (endocrine hypertension)"
+    }
+  },
+  {
+    "id": "med_q_53",
+    "questionNumber": 53,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The drugs shown to reduce mortality in chronic heart failure with reduced ejection fraction include all EXCEPT",
+    "options": [
+      "Beta blockers",
+      "ACE inhibitors or sacubitril–valsartan",
+      "Mineralocorticoid receptor antagonists",
+      "Loop diuretics"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Diuretics relieve congestion and symptoms without prolonging life. The four mortality-reducing pillars are beta blockers, renin–angiotensin inhibitors (ideally sacubitril–valsartan), mineralocorticoid antagonists and SGLT2 inhibitors.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (heart failure drug therapy), 2024 INI-CET (diuretic use)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2022 INI-CET (heart failure drug therapy), 2024 INI-CET (diuretic use)"
+    }
+  },
+  {
+    "id": "med_q_54",
+    "questionNumber": 54,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Digoxin toxicity is characteristically precipitated by",
+    "options": [
+      "Hyperkalaemia and hypocalcaemia",
+      "Hypokalaemia, hypomagnesaemia, hypercalcaemia and renal impairment",
+      "Metabolic acidosis alone",
+      "Hyponatraemia alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Low potassium leaves fewer competitors at the Na-K ATPase binding site. Features include nausea, xanthopsia, bidirectional ventricular tachycardia and any arrhythmia; treatment is with digoxin-specific antibody fragments.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypokalaemia and digoxin), 2022 NEET-PG pharmacology (digoxin toxicity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (hypokalaemia and digoxin), 2022 NEET-PG pharmacology (digoxin toxicity)"
+    }
+  },
+  {
+    "id": "med_q_55",
+    "questionNumber": 55,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient with dengue develops a narrow pulse pressure, cold extremities and a rising haematocrit on day 5 of fever. The correct management is",
+    "options": [
+      "Immediate corticosteroids",
+      "Prophylactic platelet transfusion",
+      "Crystalloid fluid resuscitation guided by haematocrit and urine output",
+      "Fresh frozen plasma for all"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Plasma leakage during the critical phase causes shock. Platelets are transfused only for active bleeding or counts below about 10,000; steroids and routine plasma have no proven benefit and NSAIDs are avoided.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dengue — expanded dengue syndrome / warning signs, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2023 INI-CET (dengue — expanded dengue syndrome / warning signs, 2X)"
+    }
+  },
+  {
+    "id": "med_q_56",
+    "questionNumber": 56,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Factor V Leiden causes thrombophilia by",
+    "options": [
+      "Causing protein S deficiency",
+      "Reducing antithrombin III levels",
+      "Increasing fibrinogen",
+      "Making factor Va resistant to inactivation by activated protein C"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is the commonest inherited thrombophilia in people of European descent. Prothrombin G20210A, and deficiencies of protein C, protein S and antithrombin, are the other inherited causes.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (factor V Leiden mechanism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (factor V Leiden mechanism)"
+    }
+  },
+  {
+    "id": "med_q_57",
+    "questionNumber": 57,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Rheumatic fever is diagnosed using the revised Jones criteria. A major criterion is",
+    "options": [
+      "Fever",
+      "Migratory polyarthritis",
+      "Raised ESR",
+      "Prolonged PR interval"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The five major criteria are carditis, polyarthritis, chorea, erythema marginatum and subcutaneous nodules. Options B, C and D are minor. Evidence of preceding streptococcal infection is also required.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mitral stenosis — rheumatic aetiology), 2022 INI-CET (rheumatic heart disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (mitral stenosis — rheumatic aetiology), 2022 INI-CET (rheumatic heart disease)"
+    }
+  },
+  {
+    "id": "med_q_58",
+    "questionNumber": 58,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Secondary prophylaxis for rheumatic fever with carditis and residual valve disease is continued",
+    "options": [
+      "For 1 year",
+      "For 5 years",
+      "For 10 years or until age 40, whichever is longer",
+      "Until the ESR normalises"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Without carditis, 5 years or until age 21 suffices; with carditis but no residual disease, 10 years or until age 21. Benzathine penicillin every 3 weeks is the standard regimen.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rheumatic mitral stenosis), 2022 INI-CET PSM (prophylaxis schedules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (rheumatic mitral stenosis), 2022 INI-CET PSM (prophylaxis schedules)"
+    }
+  },
+  {
+    "id": "med_q_59",
+    "questionNumber": 59,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A wide fixed split second heart sound with a pulmonary flow murmur in a young adult suggests",
+    "options": [
+      "Coarctation of the aorta",
+      "Ventricular septal defect",
+      "Patent ductus arteriosus",
+      "Atrial septal defect"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Right ventricular volume overload is constant through the respiratory cycle, so the split does not vary. A continuous machinery murmur suggests patent ductus; radio-femoral delay suggests coarctation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (murmur identification), 2021 INI-CET (congenital heart disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (murmur identification), 2021 INI-CET (congenital heart disease)"
+    }
+  },
+  {
+    "id": "med_q_60",
+    "questionNumber": 60,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "Eisenmenger physiology is said to have developed when",
+    "options": [
+      "Pulmonary artery pressure first exceeds 25 mmHg",
+      "Pulmonary vascular resistance rises enough to reverse the shunt to right-to-left",
+      "Left ventricular failure supervenes",
+      "Cyanosis appears only on exertion"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It makes defect closure contraindicated, because the right ventricle then has no decompression route. Clubbing, cyanosis and polycythaemia follow; management is supportive, with transplantation as the definitive option.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (congenital heart disease), 2024 INI-CET (murmurs and shunts)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cardiology",
+      "basedOn": "2021 INI-CET (congenital heart disease), 2024 INI-CET (murmurs and shunts)"
+    }
+  },
+  {
+    "id": "med_q_61",
+    "questionNumber": 61,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "The commonest cause of sudden cardiac death in an athlete under 35 years is",
+    "options": [
+      "Aortic stenosis",
+      "Coronary artery disease",
+      "Hypertrophic cardiomyopathy",
+      "Myocarditis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is an autosomal dominant sarcomeric protein disorder; beta-myosin heavy chain and myosin-binding protein C mutations are commonest. Septal thickness above 30 mm, syncope and a family history of sudden death indicate a defibrillator.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (murmurs and manoeuvres), 2021 INI-CET (cardiomyopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (murmurs and manoeuvres), 2021 INI-CET (cardiomyopathy)"
+    }
+  },
+  {
+    "id": "med_q_62",
+    "questionNumber": 62,
+    "subject": "General Medicine",
+    "subTopic": "Cardiology",
+    "sub_topic": "Cardiology",
+    "stem": "A patient has a collapsing pulse, wide pulse pressure and an early diastolic murmur at the left sternal edge. Which sign is NOT part of this lesion?",
+    "options": [
+      "Corrigan sign",
+      "De Musset sign",
+      "Quincke sign",
+      "Pulsus parvus et tardus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "That is the slow-rising, low-volume pulse of severe aortic stenosis. The others belong to aortic regurgitation, along with Duroziez, Traube and Müller signs and an Austin Flint murmur at the apex.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (murmur identification, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiology",
+      "basedOn": "2024 INI-CET (murmur identification, 3X)"
+    }
+  },
+  {
+    "id": "med_q_63",
+    "questionNumber": 63,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Arterial blood gas shows pH 7.28, bicarbonate 12 mmol/L and pCO₂ 26 mmHg. Sodium is 138 and chloride 100. The anion gap and the disorder are",
+    "options": [
+      "38; mixed disorder with alkalosis",
+      "10; normal anion gap metabolic acidosis",
+      "26; respiratory alkalosis",
+      "26; high anion gap metabolic acidosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Anion gap equals sodium minus the sum of chloride and bicarbonate, so 138 − 112 = 26. The low pCO₂ is appropriate respiratory compensation. The causes are ketoacidosis, lactic acidosis, uraemia and toxins.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2023 INI-CET (anion gap calculation and high anion gap metabolic acidosis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Critical Care",
+      "basedOn": "2024 INI-CET / 2023 INI-CET (anion gap calculation and high anion gap metabolic acidosis, 3X)"
+    }
+  },
+  {
+    "id": "med_q_64",
+    "questionNumber": 64,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "A normal anion gap metabolic acidosis is caused by all of the following EXCEPT",
+    "options": [
+      "Diarrhoea",
+      "Renal tubular acidosis",
+      "Acetazolamide",
+      "Methanol poisoning"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Methanol produces formic acid, an unmeasured anion, so the gap widens and the osmolar gap rises too. Normal-gap acidosis reflects bicarbonate loss from gut or kidney, with chloride retained in its place.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (normal and high anion gap acidosis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (normal and high anion gap acidosis, 2X)"
+    }
+  },
+  {
+    "id": "med_q_65",
+    "questionNumber": 65,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "A patient with persistent vomiting has pH 7.52, bicarbonate 36 mmol/L and a urinary chloride of 8 mmol/L. The disorder is",
+    "options": [
+      "Saline-resistant alkalosis from hyperaldosteronism",
+      "Saline-responsive metabolic alkalosis from gastric acid and volume loss",
+      "Respiratory alkalosis from hyperventilation",
+      "Normal anion gap acidosis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Urinary chloride below 20 mmol/L marks chloride-depletion alkalosis, which corrects with sodium chloride and potassium. A value above 20 points instead to mineralocorticoid excess or current diuretic use.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (acid–base interpretation), 2024 INI-CET (anion gap)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (acid–base interpretation), 2024 INI-CET (anion gap)"
+    }
+  },
+  {
+    "id": "med_q_66",
+    "questionNumber": 66,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Liquid heparin contamination of an arterial blood gas sample typically causes",
+    "options": [
+      "A falsely high bicarbonate",
+      "A falsely high pO₂ only",
+      "A falsely low pCO₂",
+      "No change in any value"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Liquid heparin dilutes the sample and is acidic, lowering pCO₂ and bicarbonate. Air bubbles raise pO₂ and lower pCO₂, while delay at room temperature lowers pO₂ and raises pCO₂ as the cells keep metabolising.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (effect of heparin in an ABG sample)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2022 INI-CET (effect of heparin in an ABG sample)"
+    }
+  },
+  {
+    "id": "med_q_67",
+    "questionNumber": 67,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Pulse oximetry overestimates true arterial oxygen saturation in",
+    "options": [
+      "Jaundice",
+      "Severe anaemia with normal saturation",
+      "Hypothermia",
+      "Carbon monoxide poisoning"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Carboxyhaemoglobin absorbs light much like oxyhaemoglobin at 660 nm, so the reading stays near normal. Methaemoglobinaemia instead drives the reading towards 85% regardless of truth; co-oximetry is needed in both.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ABG and oxygenation assessment), 2024 INI-CET (critical care monitoring)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2022 INI-CET (ABG and oxygenation assessment), 2024 INI-CET (critical care monitoring)"
+    }
+  },
+  {
+    "id": "med_q_68",
+    "questionNumber": 68,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "The Berlin definition of ARDS requires all of the following EXCEPT",
+    "options": [
+      "Onset within one week of a known insult",
+      "Bilateral opacities not fully explained by effusion or collapse",
+      "PaO₂/FiO₂ ratio of 300 or less with PEEP of at least 5 cmH₂O",
+      "A pulmonary artery occlusion pressure above 18 mmHg"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A raised wedge pressure indicates cardiogenic oedema and argues against ARDS; the Berlin definition requires that hydrostatic oedema not be the main explanation. Severity is graded mild, moderate and severe by the P/F ratio.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ARDS diagnostic criteria and ventilation, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (ARDS diagnostic criteria and ventilation, 2X)"
+    }
+  },
+  {
+    "id": "med_q_69",
+    "questionNumber": 69,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Lung-protective ventilation in ARDS uses",
+    "options": [
+      "Tidal volume 12 mL/kg with high plateau pressures",
+      "Tidal volume 6 mL/kg predicted body weight with plateau pressure below 30 cmH₂O",
+      "Zero PEEP to avoid barotrauma",
+      "Pressure support alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The ARDSNet strategy reduced mortality by limiting volutrauma and accepting permissive hypercapnia. Prone positioning for 16 hours a day also improves survival in severe ARDS.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ventilator settings in ARDS, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (ventilator settings in ARDS, 2X)"
+    }
+  },
+  {
+    "id": "med_q_70",
+    "questionNumber": 70,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "A patient with a COPD exacerbation has pH 7.28 and pCO₂ 68 mmHg despite maximal medical therapy. The next step is",
+    "options": [
+      "Immediate tracheostomy",
+      "High-flow oxygen at 10 L/min by face mask",
+      "Non-invasive ventilation with bilevel positive airway pressure",
+      "Intravenous doxapram"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It reduces both intubation rate and mortality in hypercapnic exacerbations. Oxygen is titrated to a saturation of 88 to 92% to avoid worsening hypercapnia, with bronchodilators, steroids and antibiotics continuing alongside.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ARDS ventilation), 2022 INI-CET (COPD management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (ARDS ventilation), 2022 INI-CET (COPD management)"
+    }
+  },
+  {
+    "id": "med_q_71",
+    "questionNumber": 71,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Spirometry shows FEV₁/FVC of 0.58, an FEV₁ rise of 6% after bronchodilator and a raised residual volume. The diagnosis is",
+    "options": [
+      "Neuromuscular weakness",
+      "Asthma",
+      "Idiopathic pulmonary fibrosis",
+      "COPD"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Significant reversibility requires an FEV₁ rise of 12% and at least 200 mL, which asthma usually shows. Restrictive disease gives a preserved or high ratio with reduced volumes, and emphysema lowers DLCO while asthma does not.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2021 NEET-PG (obstructive versus restrictive spirometry, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET / 2021 NEET-PG (obstructive versus restrictive spirometry, 2X)"
+    }
+  },
+  {
+    "id": "med_q_72",
+    "questionNumber": 72,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Which parameter grades severity in the GOLD classification of COPD?",
+    "options": [
+      "The FEV₁/FVC ratio",
+      "Post-bronchodilator FEV₁ as a percentage of predicted",
+      "Residual volume",
+      "DLCO"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The ratio establishes obstruction but does not grade it. Grades 1 to 4 use cut-offs of 80, 50 and 30%. Symptom burden and exacerbation history then assign the group that drives drug choice.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (COPD spirometry and staging, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET (COPD spirometry and staging, 2X)"
+    }
+  },
+  {
+    "id": "med_q_73",
+    "questionNumber": 73,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Which value establishes that a pleural effusion is an exudate by Light criteria?",
+    "options": [
+      "Pleural glucose above 100 mg/dL",
+      "Pleural fluid LDH below 100 U/L",
+      "A pleural fluid to serum protein ratio above 0.5",
+      "Pleural pH above 7.4"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Any one of three criteria suffices: protein ratio above 0.5, LDH ratio above 0.6, or pleural LDH above two-thirds the upper limit of normal serum LDH. Lymphocyte predominance with high ADA suggests tuberculosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pleural effusion — exudate criteria, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (pleural effusion — exudate criteria, 2X)"
+    }
+  },
+  {
+    "id": "med_q_74",
+    "questionNumber": 74,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Chest tube drainage of a parapneumonic effusion is indicated by pleural fluid",
+    "options": [
+      "Raised amylase alone",
+      "pH above 7.4 with high protein",
+      "Lymphocyte predominance",
+      "pH below 7.2, glucose below 40 mg/dL, or frank pus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "An LDH above 1,000 U/L and loculation support drainage. Intrapleural fibrinolytics with DNase help loculated collections, and decortication is needed when the lung fails to re-expand.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pleural fluid analysis), 2024 INI-CET surgery (chest drain)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (pleural fluid analysis), 2024 INI-CET surgery (chest drain)"
+    }
+  },
+  {
+    "id": "med_q_75",
+    "questionNumber": 75,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "In tension pneumothorax, the step that must precede chest tube insertion is",
+    "options": [
+      "A chest radiograph to confirm",
+      "Needle decompression in the second intercostal space, or the fifth space in the anterior axillary line",
+      "CT of the thorax",
+      "Intubation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is a clinical diagnosis: tracheal deviation away from the side, absent breath sounds, hyperresonance and hypotension. Waiting for imaging risks cardiac arrest from obstructed venous return.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pleural disease), 2024 INI-CET surgery (chest trauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (pleural disease), 2024 INI-CET surgery (chest trauma)"
+    }
+  },
+  {
+    "id": "med_q_76",
+    "questionNumber": 76,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A patient becomes breathless after hip surgery with clear lungs, tachycardia and hypoxia. The first-line imaging and the ECG pattern sought are",
+    "options": [
+      "Echocardiography alone; U waves",
+      "Chest radiograph; delta wave",
+      "CT pulmonary angiography; S1Q3T3",
+      "Ventilation–perfusion scan in all cases; J waves"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Sinus tachycardia is actually the commonest ECG finding, with right axis deviation and T inversion in V1 to V4. A ventilation–perfusion scan is preferred in pregnancy and renal failure, and anticoagulation starts on suspicion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (factor V Leiden thrombophilia), 2023 INI-CET (acute breathlessness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET (factor V Leiden thrombophilia), 2023 INI-CET (acute breathlessness)"
+    }
+  },
+  {
+    "id": "med_q_77",
+    "questionNumber": 77,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Honeycombing with basal, subpleural reticulation and traction bronchiectasis on high-resolution CT is the pattern of",
+    "options": [
+      "Silicosis",
+      "Hypersensitivity pneumonitis",
+      "Sarcoidosis",
+      "Usual interstitial pneumonia, as in idiopathic pulmonary fibrosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hypersensitivity pneumonitis is upper and mid zone with mosaic attenuation, sarcoidosis follows the bronchovascular bundles with hilar nodes, and silicosis gives upper-zone nodules with eggshell calcification.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (restrictive pattern on spirometry), 2023 INI-CET (interstitial lung disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET (restrictive pattern on spirometry), 2023 INI-CET (interstitial lung disease)"
+    }
+  },
+  {
+    "id": "med_q_78",
+    "questionNumber": 78,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "The mainstay of treatment in an acute severe asthma attack is",
+    "options": [
+      "Inhaled corticosteroid alone",
+      "Nebulised short-acting beta-2 agonist with systemic corticosteroid and oxygen",
+      "Montelukast",
+      "A theophylline infusion as first step"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ipratropium is added in severe attacks and magnesium sulphate in life-threatening ones. A normal or rising pCO₂ during acute asthma signals exhaustion and impending respiratory failure, not improvement.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (asthma management, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (asthma management, 2X)"
+    }
+  },
+  {
+    "id": "med_q_79",
+    "questionNumber": 79,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A patient on inhaled corticosteroid plus long-acting beta agonist still has frequent exacerbations with blood eosinophils of 600/µL. The appropriate add-on is",
+    "options": [
+      "Long-term oral prednisolone",
+      "Oral theophylline",
+      "An anti-interleukin-5 monoclonal antibody such as mepolizumab",
+      "An antihistamine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Omalizumab targets IgE in allergic asthma, dupilumab the IL-4 receptor alpha and tezepelumab TSLP. Inhaler technique, adherence and trigger control must all be checked before stepping up.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (asthma therapy), 2024 INI-CET (biologic therapy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (asthma therapy), 2024 INI-CET (biologic therapy)"
+    }
+  },
+  {
+    "id": "med_q_80",
+    "questionNumber": 80,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "In the daily-dose regimen for drug-sensitive pulmonary tuberculosis in India, the intensive phase is",
+    "options": [
+      "All four drugs for 6 months",
+      "Isoniazid and rifampicin for 2 months",
+      "Isoniazid, rifampicin and ethambutol for 4 months",
+      "Isoniazid, rifampicin, pyrazinamide and ethambutol for 2 months"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Continuation is isoniazid, rifampicin and ethambutol for 4 months, extended in CNS and skeletal disease. Programme regimens change by government order, so confirm against the current national guideline.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET (anti-tubercular regimen and drug toxicity, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET / 2022 INI-CET (anti-tubercular regimen and drug toxicity, 3X)"
+    }
+  },
+  {
+    "id": "med_q_81",
+    "questionNumber": 81,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Which anti-tubercular drug most characteristically causes retrobulbar neuritis with loss of red–green discrimination?",
+    "options": [
+      "Isoniazid",
+      "Ethambutol",
+      "Pyrazinamide",
+      "Rifampicin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is dose-related and usually reversible on withdrawal. Isoniazid causes a peripheral neuropathy prevented by pyridoxine, pyrazinamide causes hyperuricaemia and arthralgia, and rifampicin causes orange secretions with enzyme induction.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anti-tubercular drug toxicity, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (anti-tubercular drug toxicity, 2X)"
+    }
+  },
+  {
+    "id": "med_q_82",
+    "questionNumber": 82,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A patient with falciparum malaria has a parasite index of 6% with altered sensorium. The treatment of choice is",
+    "options": [
+      "Oral primaquine alone",
+      "Oral chloroquine",
+      "Intravenous artesunate followed by a full oral artemisinin-based combination course",
+      "Intravenous quinine as first choice"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Artesunate outperformed quinine on mortality in the SEAQUAMAT and AQUAMAT trials. Severe malaria is defined by impaired consciousness, parasitaemia above 5%, acidosis, hypoglycaemia, renal failure or jaundice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2021 INI-CET (severe falciparum malaria treatment, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET / 2021 INI-CET (severe falciparum malaria treatment, 2X)"
+    }
+  },
+  {
+    "id": "med_q_83",
+    "questionNumber": 83,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "Febrile neutropenia is defined as a single temperature of 38.3 °C or more with an absolute neutrophil count below",
+    "options": [
+      "100 cells/µL",
+      "1,500 cells/µL",
+      "2,000 cells/µL",
+      "500 cells/µL, or expected to fall below it"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Empirical antipseudomonal beta-lactam monotherapy must begin within an hour of presentation, after cultures. Vancomycin is added for a suspected line or skin source, and antifungal cover considered after 4 to 7 days of fever.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (febrile neutropenia definition and management, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2023 INI-CET (febrile neutropenia definition and management, 2X)"
+    }
+  },
+  {
+    "id": "med_q_84",
+    "questionNumber": 84,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A diabetic in ketoacidosis develops a black nasal eschar with orbital pain and proptosis. Biopsy would show",
+    "options": [
+      "Septate hyphae with acute-angle branching",
+      "Broad, ribbon-like, aseptate hyphae with right-angle branching",
+      "Yeast with a wide capsule",
+      "Pseudohyphae with budding yeast"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mucormycosis is angioinvasive and needs urgent surgical debridement with liposomal amphotericin B, plus correction of acidosis and glycaemia. Option B describes *Aspergillus*, which branches at acute angles.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mucormycosis in diabetic ketoacidosis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (mucormycosis in diabetic ketoacidosis, 2X)"
+    }
+  },
+  {
+    "id": "med_q_85",
+    "questionNumber": 85,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A patient with severe community-acquired pneumonia has hyponatraemia, diarrhoea and deranged liver enzymes. The likely organism and drug class are",
+    "options": [
+      "*Klebsiella pneumoniae*; an aminoglycoside",
+      "*Streptococcus pneumoniae*; penicillin alone",
+      "*Legionella pneumophila*; a macrolide or fluoroquinolone",
+      "*Mycoplasma pneumoniae*; doxycycline alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Urinary antigen detects serogroup 1, and buffered charcoal yeast extract agar is needed for culture. Cell-wall-active drugs fail because the organism multiplies inside macrophages.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pneumonia and infectious disease), 2024 INI-CET (hyponatraemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2022 INI-CET (pneumonia and infectious disease), 2024 INI-CET (hyponatraemia)"
+    }
+  },
+  {
+    "id": "med_q_86",
+    "questionNumber": 86,
+    "subject": "General Medicine",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "The CURB-65 score for pneumonia severity comprises",
+    "options": [
+      "Confusion, urine output, raised CRP and age",
+      "Cough, urine output, respiratory rate, bilirubin and age",
+      "Creatinine, urea, bicarbonate and age",
+      "Confusion, urea above 7 mmol/L, respiratory rate 30 or more, blood pressure below 90/60, and age 65 or more"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A score of 2 suggests admission and 3 or more suggests intensive care assessment. The qSOFA score — altered mentation, respiratory rate 22 or more, systolic pressure 100 or less — screens for sepsis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ABCD2 and clinical scores), 2022 INI-CET (pneumonia severity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2024 INI-CET (ABCD2 and clinical scores), 2022 INI-CET (pneumonia severity)"
+    }
+  },
+  {
+    "id": "med_q_87",
+    "questionNumber": 87,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "In septic shock, the vasopressor of first choice is",
+    "options": [
+      "Dopamine",
+      "Noradrenaline",
+      "Adrenaline",
+      "Phenylephrine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It raises mean arterial pressure towards 65 mmHg with fewer arrhythmias than dopamine. Thirty mL/kg of crystalloid, cultures and antibiotics within an hour, and lactate clearance as a target, complete the bundle.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (febrile neutropenia and sepsis), 2022 INI-CET (shock management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2023 INI-CET (febrile neutropenia and sepsis), 2022 INI-CET (shock management)"
+    }
+  },
+  {
+    "id": "med_q_88",
+    "questionNumber": 88,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Rapid correction of chronic severe hyponatraemia risks",
+    "options": [
+      "Central diabetes insipidus",
+      "Cerebral oedema",
+      "Osmotic demyelination syndrome",
+      "Hypokalaemic paralysis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Correction is limited to 8 to 10 mmol/L in 24 hours; alcoholic, malnourished and hypokalaemic patients are at highest risk. Hypertonic saline is reserved for seizures or coma, with frequent sodium monitoring.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (electrolyte disturbance), 2022 INI-CET (hyponatraemia evaluation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2024 INI-CET (electrolyte disturbance), 2022 INI-CET (hyponatraemia evaluation)"
+    }
+  },
+  {
+    "id": "med_q_89",
+    "questionNumber": 89,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "SIADH is characterised by",
+    "options": [
+      "Hyponatraemia with oedema and low urinary sodium",
+      "Hyponatraemia with dilute urine and hypovolaemia",
+      "Hypernatraemia with dilute urine",
+      "Hyponatraemia with urine osmolality above 100 mOsm/kg, urinary sodium above 40 mmol/L and euvolaemia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Thyroid and adrenal function must be normal. Treatment is fluid restriction, with tolvaptan if needed. Option D describes hypervolaemic hyponatraemia, as in cardiac or hepatic failure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (central diabetes insipidus and ADH), 2022 INI-CET (electrolytes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2024 INI-CET (central diabetes insipidus and ADH), 2022 INI-CET (electrolytes)"
+    }
+  },
+  {
+    "id": "med_q_90",
+    "questionNumber": 90,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "In carbon monoxide poisoning the treatment of choice is",
+    "options": [
+      "Sodium thiosulphate",
+      "High-flow 100% oxygen, with hyperbaric oxygen in severe cases",
+      "Methylene blue",
+      "N-acetylcysteine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Oxygen shortens the half-life of carboxyhaemoglobin from about 4 hours to under one. Methylene blue treats methaemoglobinaemia, and thiosulphate with hydroxocobalamin treats cyanide poisoning.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (oxygenation and ABG), 2024 INI-CET FMT (poisoning antidotes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2022 INI-CET (oxygenation and ABG), 2024 INI-CET FMT (poisoning antidotes)"
+    }
+  },
+  {
+    "id": "med_q_91",
+    "questionNumber": 91,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Which finding best distinguishes chronic kidney disease from acute kidney injury in a patient presenting with uraemia?",
+    "options": [
+      "Proteinuria",
+      "A raised creatinine",
+      "Small echogenic kidneys with anaemia and renal osteodystrophy",
+      "Hyperkalaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Normochromic anaemia, hypocalcaemia with high phosphate and raised parathyroid hormone all indicate chronicity. Options B, C and D occur in both, so they cannot separate them.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (renal function assessment), 2022 INI-CET (uraemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2024 INI-CET (renal function assessment), 2022 INI-CET (uraemia)"
+    }
+  },
+  {
+    "id": "med_q_92",
+    "questionNumber": 92,
+    "subject": "General Medicine",
+    "subTopic": "Critical Care",
+    "sub_topic": "Critical Care",
+    "stem": "Indications for urgent dialysis in acute kidney injury include all EXCEPT",
+    "options": [
+      "Refractory hyperkalaemia",
+      "Refractory pulmonary oedema",
+      "Uraemic encephalopathy or pericarditis",
+      "An isolated creatinine of 4 mg/dL with good urine output"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Dialysis is driven by clinical indication, not by a single number. Severe metabolic acidosis and dialysable intoxications such as lithium, methanol, ethylene glycol and salicylate complete the list.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (renal failure management), 2022 INI-CET (acid–base and renal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Critical Care",
+      "basedOn": "2024 INI-CET (renal failure management), 2022 INI-CET (acid–base and renal)"
+    }
+  },
+  {
+    "id": "med_q_93",
+    "questionNumber": 93,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "A patient with cirrhosis and tense ascites has a serum-ascites albumin gradient of 1.6 g/dL. This indicates",
+    "options": [
+      "Nephrotic syndrome",
+      "Peritoneal tuberculosis",
+      "Peritoneal carcinomatosis",
+      "Portal hypertension"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A gradient of 1.1 g/dL or more means portal hypertension, with cirrhosis, cardiac failure and Budd–Chiari as the main causes. A low gradient suggests tuberculosis, malignancy, pancreatitis or nephrotic syndrome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis with ascites — SAAG and diuretic choice, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (cirrhosis with ascites — SAAG and diuretic choice, 2X)"
+    }
+  },
+  {
+    "id": "med_q_94",
+    "questionNumber": 94,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "The diuretic combination of choice for cirrhotic ascites is",
+    "options": [
+      "Furosemide alone",
+      "Spironolactone with furosemide in a 100:40 mg ratio",
+      "Hydrochlorothiazide alone",
+      "Acetazolamide with furosemide"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Secondary hyperaldosteronism drives sodium retention, so an aldosterone antagonist is essential, and the ratio keeps potassium stable. Sodium restriction to about 2 g daily accompanies it; water restriction is only for hyponatraemia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis with ascites — diuretic of choice, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (cirrhosis with ascites — diuretic of choice, 2X)"
+    }
+  },
+  {
+    "id": "med_q_95",
+    "questionNumber": 95,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Spontaneous bacterial peritonitis is diagnosed when ascitic fluid shows",
+    "options": [
+      "A positive culture only",
+      "A total cell count above 500/mm³",
+      "A polymorphonuclear count of 250/mm³ or more",
+      "Protein above 2.5 g/dL"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Culture is often negative, so treatment is not withheld for it. A third-generation cephalosporin plus albumin at 1.5 g/kg reduces hepatorenal syndrome, and norfloxacin provides secondary prophylaxis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis with ascites management), 2023 INI-CET (hepatic complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (cirrhosis with ascites management), 2023 INI-CET (hepatic complications)"
+    }
+  },
+  {
+    "id": "med_q_96",
+    "questionNumber": 96,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Hepatorenal syndrome is characterised by",
+    "options": [
+      "Obstruction on ultrasound",
+      "Granular casts with high urinary sodium",
+      "Red cell casts with proteinuria",
+      "Progressive azotaemia with bland urine, urinary sodium below 10 mmol/L and no response to volume expansion"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is functional renal failure from splanchnic vasodilatation. Terlipressin with albumin is the medical treatment, and liver transplantation the definitive one. Option B suggests acute tubular necrosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis management), 2024 INI-CET (renal failure in liver disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (cirrhosis management), 2024 INI-CET (renal failure in liver disease)"
+    }
+  },
+  {
+    "id": "med_q_97",
+    "questionNumber": 97,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "The first-line measure to prevent rebleeding from oesophageal varices after endoscopic band ligation is",
+    "options": [
+      "A proton pump inhibitor alone",
+      "A non-selective beta blocker such as propranolol or carvedilol",
+      "Metoprolol",
+      "Nifedipine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Non-selective blockade also causes splanchnic vasoconstriction through unopposed alpha activity, which cardioselective agents cannot do. Terlipressin or octreotide with antibiotics is used in the acute bleed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (portal hypertension), 2023 INI-CET (variceal bleeding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (portal hypertension), 2023 INI-CET (variceal bleeding)"
+    }
+  },
+  {
+    "id": "med_q_98",
+    "questionNumber": 98,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "A young adult has tremor, dysarthria, a Kayser–Fleischer ring and deranged liver enzymes. The diagnostic findings are",
+    "options": [
+      "High ferritin with transferrin saturation above 50%",
+      "High serum ceruloplasmin with low urinary copper",
+      "Low serum ceruloplasmin with high 24-hour urinary copper and raised hepatic copper",
+      "Low alpha-1 antitrypsin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Wilson disease is an *ATP7B* defect impairing biliary copper excretion. Treatment is penicillamine or trientine with zinc; option C is haemochromatosis and option D causes panlobular emphysema with liver disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (alpha synucleinopathy and movement disorder), 2022 INI-CET (chronic liver disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2023 INI-CET (alpha synucleinopathy and movement disorder), 2022 INI-CET (chronic liver disease)"
+    }
+  },
+  {
+    "id": "med_q_99",
+    "questionNumber": 99,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "In acute hepatitis B, the marker indicating high infectivity is",
+    "options": [
+      "HBsAg alone",
+      "Anti-HBs",
+      "Anti-HBc IgG",
+      "HBeAg"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It reflects active viral replication, as does a high HBV DNA. Anti-HBs indicates immunity from vaccination or recovery, and anti-HBc IgM is the window-period marker when HBsAg has cleared but anti-HBs has not appeared.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hepatitis B serology, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (hepatitis B serology, 2X)"
+    }
+  },
+  {
+    "id": "med_q_100",
+    "questionNumber": 100,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Hepatitis E infection is most dangerous in",
+    "options": [
+      "Children under five",
+      "Pregnant women in the third trimester",
+      "Patients with haemophilia",
+      "Elderly men"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fulminant hepatic failure carries a mortality approaching 20%. Transmission is faeco-oral through contaminated water, which makes it the commonest cause of epidemic hepatitis in India.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (viral hepatitis), 2024 INI-CET PSM (water-borne disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (viral hepatitis), 2024 INI-CET PSM (water-borne disease)"
+    }
+  },
+  {
+    "id": "med_q_101",
+    "questionNumber": 101,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "The commonest cause of acute liver failure in India is",
+    "options": [
+      "Autoimmune hepatitis",
+      "Paracetamol overdose",
+      "Viral hepatitis, especially hepatitis E and A",
+      "Budd–Chiari syndrome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Paracetamol leads in the United Kingdom and United States. Acute liver failure is defined by coagulopathy with encephalopathy within 26 weeks in a patient without pre-existing liver disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hepatitis), 2023 INI-CET (hepatic encephalopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (hepatitis), 2023 INI-CET (hepatic encephalopathy)"
+    }
+  },
+  {
+    "id": "med_q_102",
+    "questionNumber": 102,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Which antidote is given in paracetamol poisoning, and by what mechanism?",
+    "options": [
+      "Fomepizole, by inhibiting alcohol dehydrogenase",
+      "Methionine, by chelating the drug",
+      "Activated charcoal, by binding NAPQI",
+      "N-acetylcysteine, by replenishing glutathione"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The toxic metabolite NAPQI, produced by CYP2E1, depletes glutathione and binds hepatocyte proteins. Treatment is guided by the Rumack–Matthew nomogram and is most effective within 8 to 10 hours.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET pharmacology (antidotes), 2024 INI-CET FMT (poisoning management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET pharmacology (antidotes), 2024 INI-CET FMT (poisoning management)"
+    }
+  },
+  {
+    "id": "med_q_103",
+    "questionNumber": 103,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Which feature distinguishes Crohn disease from ulcerative colitis?",
+    "options": [
+      "Continuous involvement from the rectum",
+      "Transmural, skip-lesion involvement with non-caseating granulomas",
+      "Crypt abscesses with mucosal limitation",
+      "Pseudopolyp formation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Crohn disease spares the rectum in many patients and causes fistulae and strictures. Ulcerative colitis is mucosal, continuous and rectum-based; toxic megacolon and colorectal cancer are its feared complications.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (inflammatory bowel disease, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (inflammatory bowel disease, 2X)"
+    }
+  },
+  {
+    "id": "med_q_104",
+    "questionNumber": 104,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "The Truelove and Witts criteria for severe ulcerative colitis include",
+    "options": [
+      "Weight loss alone",
+      "Three stools daily with normal vital signs",
+      "Six or more bloody stools daily with fever, tachycardia, anaemia or raised ESR",
+      "Perianal fistula"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Severe colitis needs admission, intravenous steroids and exclusion of *Clostridioides difficile* and cytomegalovirus. Failure by day 3 prompts rescue infliximab or ciclosporin, with colectomy as the alternative.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (Truelove–Witts criteria in ulcerative colitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET surgery (Truelove–Witts criteria in ulcerative colitis)"
+    }
+  },
+  {
+    "id": "med_q_105",
+    "questionNumber": 105,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "A patient has chronic diarrhoea with weight loss, and duodenal biopsy shows villous atrophy with crypt hyperplasia and intraepithelial lymphocytosis. The confirmatory serology is",
+    "options": [
+      "Anti-smooth muscle antibody",
+      "Anti-mitochondrial antibody",
+      "Anti-*Saccharomyces cerevisiae* antibody",
+      "Anti-tissue transglutaminase IgA with total IgA"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Total IgA is measured because selective IgA deficiency gives false negatives. Coeliac disease is HLA-DQ2 and DQ8 associated and responds to lifelong gluten withdrawal; dermatitis herpetiformis is its skin manifestation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (malabsorption), 2024 INI-CET (chronic diarrhoea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (malabsorption), 2024 INI-CET (chronic diarrhoea)"
+    }
+  },
+  {
+    "id": "med_q_106",
+    "questionNumber": 106,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "A middle-aged woman has pruritus, fatigue, cholestatic liver enzymes and a positive anti-mitochondrial antibody. The diagnosis and treatment are",
+    "options": [
+      "Primary sclerosing cholangitis; ERCP stenting",
+      "Primary biliary cholangitis; ursodeoxycholic acid",
+      "Autoimmune hepatitis; prednisolone",
+      "Drug-induced cholestasis; withdrawal of the drug"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Obeticholic acid is used for inadequate response. Primary sclerosing cholangitis affects men with ulcerative colitis, gives a beaded biliary tree and carries cholangiocarcinoma risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chronic liver disease), 2023 INI-CET (cholestasis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (chronic liver disease), 2023 INI-CET (cholestasis)"
+    }
+  },
+  {
+    "id": "med_q_107",
+    "questionNumber": 107,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Which regimen is first-line for *Helicobacter pylori* eradication in an area of high clarithromycin resistance?",
+    "options": [
+      "Amoxicillin monotherapy",
+      "A proton pump inhibitor alone for 8 weeks",
+      "Bismuth quadruple therapy with a proton pump inhibitor, bismuth, tetracycline and metronidazole",
+      "An H2 blocker with sucralfate"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Standard triple therapy fails where resistance exceeds about 15%. Eradication is confirmed at least 4 weeks after treatment by urea breath test or stool antigen, with the proton pump inhibitor stopped beforehand.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (peptic ulcer disease), 2024 INI-CET (gastritis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET surgery (peptic ulcer disease), 2024 INI-CET (gastritis)"
+    }
+  },
+  {
+    "id": "med_q_108",
+    "questionNumber": 108,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "The best initial test for suspected gastro-oesophageal reflux disease with typical symptoms is",
+    "options": [
+      "Oesophageal manometry",
+      "An empirical trial of a proton pump inhibitor",
+      "24-hour pH impedance monitoring",
+      "Barium swallow"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Endoscopy is reserved for alarm features such as dysphagia, weight loss, anaemia or bleeding. pH monitoring is used when the diagnosis is unclear or before anti-reflux surgery, and manometry to exclude achalasia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (GERD and oesophageal disease), 2024 INI-CET (dyspepsia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET surgery (GERD and oesophageal disease), 2024 INI-CET (dyspepsia)"
+    }
+  },
+  {
+    "id": "med_q_109",
+    "questionNumber": 109,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Achalasia cardia shows which manometric finding?",
+    "options": [
+      "Simultaneous high-amplitude contractions with normal relaxation",
+      "Hypotensive lower sphincter with normal peristalsis",
+      "Absent oesophageal peristalsis with failure of lower sphincter relaxation",
+      "Normal manometry"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Barium shows a bird-beak tapering with a dilated body. Pneumatic dilatation, per-oral endoscopic myotomy and Heller myotomy are the treatments; Chagas disease is the infectious mimic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (oesophageal motility), 2024 INI-CET (dysphagia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET surgery (oesophageal motility), 2024 INI-CET (dysphagia)"
+    }
+  },
+  {
+    "id": "med_q_110",
+    "questionNumber": 110,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "A patient has watery diarrhoea with flushing, wheeze and right-sided valvular disease. The screening test is",
+    "options": [
+      "Serum calcitonin",
+      "Serum gastrin",
+      "24-hour urinary 5-hydroxyindoleacetic acid",
+      "Urinary metanephrines"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Carcinoid syndrome implies hepatic metastases, because the liver otherwise clears serotonin from portal blood. Right-sided valves are affected since the lungs inactivate serotonin. Octreotide controls symptoms.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (neuroendocrine tumour), 2024 INI-CET surgery (carcinoid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (neuroendocrine tumour), 2024 INI-CET surgery (carcinoid)"
+    }
+  },
+  {
+    "id": "med_q_111",
+    "questionNumber": 111,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Severe watery secretory diarrhoea with hypokalaemia and achlorhydria suggests a tumour secreting",
+    "options": [
+      "Glucagon",
+      "Gastrin",
+      "Vasoactive intestinal peptide",
+      "Somatostatin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The WDHA syndrome of a VIPoma. Gastrinoma causes multiple refractory ulcers with acid hypersecretion, glucagonoma causes necrolytic migratory erythema with diabetes, and somatostatinoma causes diabetes, gallstones and steatorrhoea.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (neuroendocrine tumours), 2024 INI-CET (chronic diarrhoea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (neuroendocrine tumours), 2024 INI-CET (chronic diarrhoea)"
+    }
+  },
+  {
+    "id": "med_q_112",
+    "questionNumber": 112,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "In a patient with upper gastrointestinal bleeding, the finding that most strongly predicts rebleeding at endoscopy is",
+    "options": [
+      "A visible spurting vessel in the ulcer base",
+      "A clean ulcer base",
+      "A flat pigmented spot",
+      "Fresh blood in the stomach only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "That is Forrest class Ia, with the highest rebleeding risk and a clear indication for endoscopic haemostasis. A clean base is Forrest III and can be managed with oral acid suppression and early feeding.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (peptic ulcer bleeding), 2024 INI-CET (haematemesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET surgery (peptic ulcer bleeding), 2024 INI-CET (haematemesis)"
+    }
+  },
+  {
+    "id": "med_q_113",
+    "questionNumber": 113,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Isolated unconjugated hyperbilirubinaemia with normal liver enzymes, worsening on fasting, in an otherwise well young adult is",
+    "options": [
+      "Gilbert syndrome, from reduced UDP-glucuronosyltransferase activity",
+      "Dubin–Johnson syndrome",
+      "Rotor syndrome",
+      "Crigler–Najjar type I"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is benign and needs no treatment. Dubin–Johnson and Rotor give conjugated hyperbilirubinaemia, the former with a black liver on biopsy. Crigler–Najjar type I causes kernicterus in infancy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (jaundice evaluation), 2024 INI-CET biochemistry (bilirubin metabolism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (jaundice evaluation), 2024 INI-CET biochemistry (bilirubin metabolism)"
+    }
+  },
+  {
+    "id": "med_q_114",
+    "questionNumber": 114,
+    "subject": "General Medicine",
+    "subTopic": "Gastroenterology",
+    "sub_topic": "Gastroenterology",
+    "stem": "Which score is used to prioritise patients for liver transplantation?",
+    "options": [
+      "MELD, using bilirubin, INR, creatinine and sodium",
+      "Child–Pugh, using ascites and encephalopathy only",
+      "Ranson score",
+      "Glasgow score"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Child–Pugh grades cirrhosis severity using bilirubin, albumin, INR, ascites and encephalopathy, and predicts surgical risk, but MELD drives allocation. Ranson and Glasgow scores grade acute pancreatitis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cirrhosis severity), 2024 INI-CET surgery (transplant assessment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gastroenterology",
+      "basedOn": "2022 INI-CET (cirrhosis severity), 2024 INI-CET surgery (transplant assessment)"
+    }
+  },
+  {
+    "id": "med_q_115",
+    "questionNumber": 115,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A patient has a low TSH with a high free T4. TRH stimulation produces no TSH rise. The lesion is",
+    "options": [
+      "Primary hyperthyroidism with physiological pituitary suppression",
+      "Pituitary TSH-secreting adenoma",
+      "Hypothalamic failure",
+      "Subclinical hypothyroidism"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "High thyroid hormone suppresses thyrotrophs, so TRH produces no response. A TSH-secreting adenoma would show an inappropriately normal or high TSH with high free T4, and hypothalamic failure gives low free T4.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (TSH and TRH relationship in thyroid disorders, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (TSH and TRH relationship in thyroid disorders, 2X)"
+    }
+  },
+  {
+    "id": "med_q_116",
+    "questionNumber": 116,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "In Graves disease, the finding that distinguishes it from toxic multinodular goitre on radionuclide scanning is",
+    "options": [
+      "Diffuse homogeneous increased uptake",
+      "Patchy uptake with suppressed intervening tissue",
+      "A single hot nodule",
+      "Absent uptake throughout"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "TSH receptor antibodies stimulate the whole gland. Absent uptake with thyrotoxicosis suggests thyroiditis or exogenous hormone. Ophthalmopathy and pretibial myxoedema occur only in Graves disease.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (TSH/TRH and thyroid function), 2022 INI-CET surgery (thyroid nodule)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (TSH/TRH and thyroid function), 2022 INI-CET surgery (thyroid nodule)"
+    }
+  },
+  {
+    "id": "med_q_117",
+    "questionNumber": 117,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A pregnant woman in the first trimester is diagnosed with hyperthyroidism. The antithyroid drug of choice is",
+    "options": [
+      "Propylthiouracil",
+      "Carbimazole",
+      "Radioiodine",
+      "Methimazole"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Methimazole and carbimazole in the first trimester are linked to aplasia cutis and choanal atresia, so propylthiouracil is preferred then and the drug switched later because of its hepatotoxicity. Radioiodine is absolutely contraindicated.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (thyroid function in pregnancy), 2022 INI-CET pharmacology (antithyroid drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (thyroid function in pregnancy), 2022 INI-CET pharmacology (antithyroid drugs)"
+    }
+  },
+  {
+    "id": "med_q_118",
+    "questionNumber": 118,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A woman has amenorrhoea, galactorrhoea and a prolactin of 180 ng/mL with a 9 mm pituitary lesion. The first-line treatment is",
+    "options": [
+      "Cabergoline, a dopamine agonist",
+      "Transsphenoidal surgery",
+      "Radiotherapy",
+      "Observation alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prolactinomas are the only pituitary tumours whose first-line treatment is medical, because dopamine inhibits prolactin and shrinks the tumour. Mild elevation may instead come from antipsychotics, metoclopramide, hypothyroidism or stalk compression.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hyperprolactinaemia — causes and treatment, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (hyperprolactinaemia — causes and treatment, 2X)"
+    }
+  },
+  {
+    "id": "med_q_119",
+    "questionNumber": 119,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "Which drug causes hyperprolactinaemia by blocking D2 receptors?",
+    "options": [
+      "Risperidone",
+      "Bromocriptine",
+      "Levodopa",
+      "Amantadine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dopamine normally inhibits prolactin through tuberoinfundibular D2 receptors, so blockade raises it. Metoclopramide, haloperidol, methyldopa and verapamil do the same; options B, C and D are dopaminergic and lower prolactin.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hyperprolactinaemia causes, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (hyperprolactinaemia causes, 2X)"
+    }
+  },
+  {
+    "id": "med_q_120",
+    "questionNumber": 120,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A patient after head injury passes 6 litres of dilute urine daily. Urine osmolality rises after desmopressin. The diagnosis is",
+    "options": [
+      "Central diabetes insipidus",
+      "Nephrogenic diabetes insipidus",
+      "Primary polydipsia",
+      "Osmotic diuresis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A response to desmopressin shows the kidney can concentrate when given ADH, so the deficit is in secretion. Nephrogenic disease fails to respond and is treated with thiazides, amiloride and a low-solute diet.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (central diabetes insipidus — water deprivation and desmopressin, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (central diabetes insipidus — water deprivation and desmopressin, 2X)"
+    }
+  },
+  {
+    "id": "med_q_121",
+    "questionNumber": 121,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A patient has fatigue, hyperpigmentation, hyponatraemia and hyperkalaemia, with an ACTH that is markedly raised. The diagnosis is",
+    "options": [
+      "Primary adrenal insufficiency",
+      "Secondary adrenal insufficiency",
+      "Cushing syndrome",
+      "Conn syndrome"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hyperpigmentation follows melanocortin receptor stimulation by excess ACTH, and hyperkalaemia reflects aldosterone loss. Secondary insufficiency spares the renin–angiotensin–aldosterone axis, so potassium stays normal and skin is pale.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (primary adrenal insufficiency features, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (primary adrenal insufficiency features, 2X)"
+    }
+  },
+  {
+    "id": "med_q_122",
+    "questionNumber": 122,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "In suspected adrenal crisis, the correct sequence is",
+    "options": [
+      "Draw cortisol and ACTH, then give hydrocortisone and saline immediately without waiting for results",
+      "Wait for the short Synacthen test before any steroid",
+      "Give fludrocortisone alone",
+      "Give dexamethasone only after imaging"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Delay is fatal. Hydrocortisone provides both glucocorticoid and mineralocorticoid effect at stress doses, so separate fludrocortisone is unnecessary during the crisis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (primary adrenal insufficiency), 2022 INI-CET (endocrine emergency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (primary adrenal insufficiency), 2022 INI-CET (endocrine emergency)"
+    }
+  },
+  {
+    "id": "med_q_123",
+    "questionNumber": 123,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "The best initial screening test for Cushing syndrome is",
+    "options": [
+      "An overnight 1 mg dexamethasone suppression test, late-night salivary cortisol or 24-hour urinary free cortisol",
+      "A random morning serum cortisol",
+      "Serum ACTH alone",
+      "CT of the abdomen"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A random cortisol is useless because of diurnal variation. Once hypercortisolism is confirmed, ACTH separates ACTH-dependent from adrenal causes, and high-dose dexamethasone with imaging localises further.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (metabolic syndrome and adrenal axis), 2022 INI-CET (Cushing evaluation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (metabolic syndrome and adrenal axis), 2022 INI-CET (Cushing evaluation)"
+    }
+  },
+  {
+    "id": "med_q_124",
+    "questionNumber": 124,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A patient has coarse facial features, enlarging hands, prognathism and bitemporal hemianopia. The best screening test is",
+    "options": [
+      "Serum IGF-1",
+      "A random growth hormone level",
+      "Serum prolactin",
+      "Oral glucose tolerance with insulin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Growth hormone is pulsatile, so a random level cannot exclude acromegaly, while IGF-1 integrates secretion over time. Confirmation is failure of growth hormone to suppress below 1 µg/L after oral glucose.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (acromegaly diagnosis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (acromegaly diagnosis, 2X)"
+    }
+  },
+  {
+    "id": "med_q_125",
+    "questionNumber": 125,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "Criteria for metabolic syndrome include all of the following EXCEPT",
+    "options": [
+      "Increased waist circumference",
+      "Triglycerides of 150 mg/dL or more",
+      "HDL cholesterol below 40 mg/dL in men",
+      "LDL cholesterol above 160 mg/dL"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "LDL is not one of the five components. The others are central obesity, raised triglycerides, low HDL, blood pressure 130/85 or more, and fasting glucose 100 mg/dL or more; any three establish the syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (metabolic syndrome criteria, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (metabolic syndrome criteria, 2X)"
+    }
+  },
+  {
+    "id": "med_q_126",
+    "questionNumber": 126,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "In type 2 diabetes with established atherosclerotic cardiovascular disease, the add-on with proven cardiovascular benefit is",
+    "options": [
+      "An SGLT2 inhibitor or a GLP-1 receptor agonist",
+      "A sulfonylurea",
+      "Pioglitazone",
+      "A DPP-4 inhibitor"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "SGLT2 inhibitors also reduce heart failure hospitalisation and slow nephropathy. Their risks are euglycaemic ketoacidosis and genital mycotic infection; GLP-1 agonists cause nausea and are avoided with a history of pancreatitis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (metabolic syndrome and diabetes), 2022 INI-CET pharmacology (antidiabetic drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (metabolic syndrome and diabetes), 2022 INI-CET pharmacology (antidiabetic drugs)"
+    }
+  },
+  {
+    "id": "med_q_127",
+    "questionNumber": 127,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "Diabetic ketoacidosis management differs from hyperosmolar hyperglycaemic state mainly in",
+    "options": [
+      "The presence of significant ketosis and acidosis requiring insulin infusion with potassium replacement",
+      "The need for a higher insulin dose",
+      "The avoidance of fluids",
+      "The use of bicarbonate in all cases"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Both need aggressive fluid resuscitation. Insulin is withheld until potassium exceeds 3.3 mmol/L, because insulin drives potassium intracellularly; bicarbonate is reserved for a pH below about 6.9.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mucormycosis in ketoacidosis), 2024 INI-CET (acid–base disorders)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2022 INI-CET (mucormycosis in ketoacidosis), 2024 INI-CET (acid–base disorders)"
+    }
+  },
+  {
+    "id": "med_q_128",
+    "questionNumber": 128,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "The diagnostic HbA1c threshold for diabetes mellitus is",
+    "options": [
+      "6.5% or more",
+      "5.7% or more",
+      "7.0% or more",
+      "8.0% or more"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Values of 5.7 to 6.4% indicate prediabetes. HbA1c is unreliable in haemoglobinopathy, haemolysis, recent transfusion, iron deficiency, pregnancy and chronic kidney disease, where fructosamine or glucose testing is used.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (metabolic syndrome criteria), 2022 INI-CET biochemistry (glycated haemoglobin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (metabolic syndrome criteria), 2022 INI-CET biochemistry (glycated haemoglobin)"
+    }
+  },
+  {
+    "id": "med_q_129",
+    "questionNumber": 129,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "Hungry bone syndrome after parathyroidectomy presents with",
+    "options": [
+      "Hypocalcaemia with hypophosphataemia and a raised alkaline phosphatase",
+      "Hypercalcaemia with high phosphate",
+      "Hypernatraemia",
+      "Hyperkalaemia with acidosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Removal of parathyroid drive lets avid bone remineralisation strip calcium and phosphate from the circulation. It needs large doses of calcium with active vitamin D, and is commonest after long-standing severe disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (parathyroid surgery), 2024 INI-CET (calcium disorders)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Endocrinology",
+      "basedOn": "2022 INI-CET surgery (parathyroid surgery), 2024 INI-CET (calcium disorders)"
+    }
+  },
+  {
+    "id": "med_q_130",
+    "questionNumber": 130,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "The commonest cause of hypercalcaemia in a hospitalised patient is",
+    "options": [
+      "Malignancy, through PTH-related peptide or osteolysis",
+      "Primary hyperparathyroidism",
+      "Sarcoidosis",
+      "Vitamin D intoxication"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Primary hyperparathyroidism leads among outpatients. Management is saline rehydration, then bisphosphonate or denosumab; calcitonin acts fast but briefly, and steroids help in lymphoma and granulomatous disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET surgery (parathyroid disease), 2024 INI-CET (calcium metabolism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2022 INI-CET surgery (parathyroid disease), 2024 INI-CET (calcium metabolism)"
+    }
+  },
+  {
+    "id": "med_q_131",
+    "questionNumber": 131,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "A young woman has hirsutism, oligomenorrhoea and a raised LH:FSH ratio with polycystic ovaries. The first-line management for her infertility is",
+    "options": [
+      "Weight reduction with letrozole or clomiphene for ovulation induction",
+      "Immediate in-vitro fertilisation",
+      "Combined oral contraceptive to conceive",
+      "Spironolactone alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lifestyle change alone can restore ovulation. Combined pills regulate cycles and treat hirsutism but prevent conception, and spironolactone is an antiandrogen that is teratogenic and needs contraception alongside.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (metabolic syndrome and insulin resistance), 2022 INI-CET (endocrine disorders)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (metabolic syndrome and insulin resistance), 2022 INI-CET (endocrine disorders)"
+    }
+  },
+  {
+    "id": "med_q_132",
+    "questionNumber": 132,
+    "subject": "General Medicine",
+    "subTopic": "Endocrinology",
+    "sub_topic": "Endocrinology",
+    "stem": "Which electrolyte pattern is expected in syndrome of inappropriate antidiuresis caused by a small cell lung carcinoma?",
+    "options": [
+      "Hyponatraemia with concentrated urine and a low serum uric acid",
+      "Hypernatraemia with dilute urine",
+      "Hyponatraemia with a high serum uric acid",
+      "Hypokalaemia with alkalosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Volume expansion increases urate excretion, so hypouricaemia supports SIADH over hypovolaemic hyponatraemia. Small cell carcinoma also causes ectopic ACTH and Lambert–Eaton myasthenic syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ADH disorders), 2022 INI-CET (paraneoplastic syndromes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Endocrinology",
+      "basedOn": "2024 INI-CET (ADH disorders), 2022 INI-CET (paraneoplastic syndromes)"
+    }
+  },
+  {
+    "id": "med_q_133",
+    "questionNumber": 133,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "A young woman has a malar rash, oral ulcers, arthritis and proteinuria. The most specific antibody is",
+    "options": [
+      "Anti-double-stranded DNA",
+      "Antinuclear antibody",
+      "Rheumatoid factor",
+      "Anti-Ro"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "ANA is the most sensitive screen but is not specific. Anti-Sm is also highly specific, anti-dsDNA titres track nephritis activity, and anti-Ro is linked to neonatal lupus and congenital heart block.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET (SLE antibodies and diagnosis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET / 2022 INI-CET (SLE antibodies and diagnosis, 3X)"
+    }
+  },
+  {
+    "id": "med_q_134",
+    "questionNumber": 134,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Drug-induced lupus differs from idiopathic SLE in that it",
+    "options": [
+      "Is associated with anti-histone antibodies and usually spares the kidney and brain",
+      "Always involves the kidney",
+      "Shows anti-dsDNA positivity in most cases",
+      "Does not remit on stopping the drug"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hydralazine, procainamide, isoniazid, minocycline and anti-TNF agents are the classic culprits. It resolves after withdrawal, and slow acetylators are at higher risk with hydralazine and procainamide.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (SLE serology), 2022 INI-CET pharmacology (drug-induced syndromes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (SLE serology), 2022 INI-CET pharmacology (drug-induced syndromes)"
+    }
+  },
+  {
+    "id": "med_q_135",
+    "questionNumber": 135,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Antiphospholipid syndrome is diagnosed by clinical events plus",
+    "options": [
+      "Lupus anticoagulant, anticardiolipin or anti-beta-2 glycoprotein I antibody persisting on testing 12 weeks apart",
+      "A single positive test",
+      "ANA positivity alone",
+      "A raised ESR"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Transient positivity follows infection, so persistence is required. A paradoxically prolonged aPTT that fails to correct on mixing is characteristic, and warfarin rather than a direct oral anticoagulant is used after thrombosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (factor V Leiden and thrombophilia), 2022 INI-CET (SLE)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (factor V Leiden and thrombophilia), 2022 INI-CET (SLE)"
+    }
+  },
+  {
+    "id": "med_q_136",
+    "questionNumber": 136,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "In rheumatoid arthritis, the most specific serological marker is",
+    "options": [
+      "Anti-cyclic citrullinated peptide antibody",
+      "Rheumatoid factor",
+      "ANA",
+      "CRP"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It predicts erosive disease and may precede symptoms by years. Rheumatoid factor is less specific, appearing in Sjögren syndrome, hepatitis C, endocarditis and the elderly. Methotrexate remains the anchor drug.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rheumatoid arthritis serology, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (rheumatoid arthritis serology, 2X)"
+    }
+  },
+  {
+    "id": "med_q_137",
+    "questionNumber": 137,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Before starting an anti-TNF agent for rheumatoid arthritis, it is essential to",
+    "options": [
+      "Screen for latent tuberculosis and hepatitis B",
+      "Check serum uric acid",
+      "Perform a bone density scan",
+      "Measure thyroid function"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "TNF-alpha is central to granuloma maintenance, so blockade reactivates tuberculosis. Interferon-gamma release assay or tuberculin testing with a chest radiograph is done, and latent infection treated before biologic therapy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rheumatoid arthritis management), 2022 INI-CET (anti-tubercular therapy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (rheumatoid arthritis management), 2022 INI-CET (anti-tubercular therapy)"
+    }
+  },
+  {
+    "id": "med_q_138",
+    "questionNumber": 138,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "An acutely swollen great toe with negatively birefringent needle-shaped crystals on polarised microscopy indicates",
+    "options": [
+      "Gout, from monosodium urate crystals",
+      "Pseudogout, from calcium pyrophosphate",
+      "Septic arthritis",
+      "Reactive arthritis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Calcium pyrophosphate crystals are rhomboid and positively birefringent, with chondrocalcinosis on radiography. Acute gout is treated with NSAIDs, colchicine or steroids; urate-lowering therapy starts later with cover.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gout crystal identification, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (gout crystal identification, 2X)"
+    }
+  },
+  {
+    "id": "med_q_139",
+    "questionNumber": 139,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Allopurinol must not be combined with which drug because of a risk of severe myelosuppression?",
+    "options": [
+      "Azathioprine",
+      "Methotrexate",
+      "Hydroxychloroquine",
+      "Sulfasalazine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Allopurinol inhibits xanthine oxidase, which normally inactivates 6-mercaptopurine, the active metabolite of azathioprine. The dose must be cut to about a quarter, or febuxostat avoided too, since it acts on the same enzyme.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gout management), 2022 INI-CET pharmacology (drug interactions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (gout management), 2022 INI-CET pharmacology (drug interactions)"
+    }
+  },
+  {
+    "id": "med_q_140",
+    "questionNumber": 140,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "A young man has inflammatory back pain, morning stiffness and a bamboo spine on radiography. The associated HLA type is",
+    "options": [
+      "HLA-B27",
+      "HLA-DR4",
+      "HLA-DQ2",
+      "HLA-B51"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ankylosing spondylitis begins with sacroiliitis. HLA-DR4 is linked to rheumatoid arthritis, HLA-DQ2 to coeliac disease and HLA-B51 to Behçet disease. Exercise with NSAIDs is first-line, then anti-TNF or anti-IL-17 therapy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (seronegative spondyloarthropathy and HLA-B27, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET (seronegative spondyloarthropathy and HLA-B27, 2X)"
+    }
+  },
+  {
+    "id": "med_q_141",
+    "questionNumber": 141,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "An elderly woman has temporal headache, jaw claudication and a raised ESR. The immediate step is",
+    "options": [
+      "High-dose corticosteroid before biopsy",
+      "Temporal artery biopsy before any treatment",
+      "MRI brain",
+      "Carotid Doppler"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Delay risks irreversible blindness from arteritic anterior ischaemic optic neuropathy. Biopsy remains positive for up to 2 weeks after steroids. Polymyalgia rheumatica coexists in about half, and tocilizumab spares steroid dose.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET ophthalmology (arteritic optic neuropathy), 2022 INI-CET (vasculitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2024 INI-CET ophthalmology (arteritic optic neuropathy), 2022 INI-CET (vasculitis)"
+    }
+  },
+  {
+    "id": "med_q_142",
+    "questionNumber": 142,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Granulomatosis with polyangiitis is most closely associated with",
+    "options": [
+      "c-ANCA against proteinase 3",
+      "p-ANCA against myeloperoxidase",
+      "Anti-glomerular basement membrane antibody",
+      "Cryoglobulins"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It gives upper airway, lung and renal disease with saddle-nose deformity. p-ANCA with myeloperoxidase fits microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis; anti-GBM gives Goodpasture syndrome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (vasculitis and renal disease), 2024 INI-CET (autoantibodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rheumatology",
+      "basedOn": "2022 INI-CET (vasculitis and renal disease), 2024 INI-CET (autoantibodies)"
+    }
+  },
+  {
+    "id": "med_q_143",
+    "questionNumber": 143,
+    "subject": "General Medicine",
+    "subTopic": "Rheumatology",
+    "sub_topic": "Rheumatology",
+    "stem": "Diffuse systemic sclerosis is associated with which antibody and which life-threatening complication?",
+    "options": [
+      "Anti-topoisomerase I (anti-Scl-70); scleroderma renal crisis",
+      "Anti-centromere; limited skin disease only",
+      "Anti-Ro; neonatal lupus",
+      "Anti-Jo-1; interstitial lung disease only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "ACE inhibitors are the treatment for renal crisis and have transformed its outcome. Anti-centromere antibody marks limited disease with pulmonary hypertension, and anti-Jo-1 marks the antisynthetase syndrome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (connective tissue disease serology), 2024 INI-CET (autoantibody profiles)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Rheumatology",
+      "basedOn": "2022 INI-CET (connective tissue disease serology), 2024 INI-CET (autoantibody profiles)"
+    }
+  },
+  {
+    "id": "med_q_144",
+    "questionNumber": 144,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "A child has periorbital oedema, proteinuria above 3.5 g daily, hypoalbuminaemia and normal complement. Biopsy would most likely show",
+    "options": [
+      "Normal light microscopy with foot process effacement on electron microscopy",
+      "Subepithelial humps on electron microscopy",
+      "Crescents in most glomeruli",
+      "Mesangial IgA deposits"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Minimal change disease is the commonest childhood nephrotic syndrome and responds to steroids, so biopsy is often deferred. Option B fits post-streptococcal glomerulonephritis and option D IgA nephropathy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET pathology (nephrotic syndrome in children — minimal change disease, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nephrology",
+      "basedOn": "2024 INI-CET / 2022 INI-CET pathology (nephrotic syndrome in children — minimal change disease, 2X)"
+    }
+  },
+  {
+    "id": "med_q_145",
+    "questionNumber": 145,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "Two days after a sore throat a young man has frank haematuria. Three weeks after a different sore throat another man has haematuria with hypertension and low C3. The diagnoses respectively are",
+    "options": [
+      "IgA nephropathy; post-streptococcal glomerulonephritis",
+      "Post-streptococcal glomerulonephritis; IgA nephropathy",
+      "Both post-streptococcal glomerulonephritis",
+      "Both IgA nephropathy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "IgA nephropathy gives synpharyngitic haematuria with normal complement, whereas post-streptococcal disease follows a latent period of 1 to 3 weeks with a low C3 that recovers in about 8 weeks.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (glomerulonephritis timing and complement, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nephrology",
+      "basedOn": "2022 INI-CET (glomerulonephritis timing and complement, 2X)"
+    }
+  },
+  {
+    "id": "med_q_146",
+    "questionNumber": 146,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "Rapidly progressive glomerulonephritis with linear IgG along the glomerular basement membrane and pulmonary haemorrhage indicates",
+    "options": [
+      "Anti-glomerular basement membrane disease",
+      "Lupus nephritis",
+      "Granulomatosis with polyangiitis",
+      "Membranous nephropathy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Goodpasture syndrome. Treatment is urgent plasma exchange with steroids and cyclophosphamide. Lupus nephritis gives a full-house granular pattern, and ANCA vasculitis gives pauci-immune crescents with little staining.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (vasculitis and renal disease), 2024 INI-CET (glomerular disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nephrology",
+      "basedOn": "2022 INI-CET (vasculitis and renal disease), 2024 INI-CET (glomerular disease)"
+    }
+  },
+  {
+    "id": "med_q_147",
+    "questionNumber": 147,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "Distal (type 1) renal tubular acidosis is characterised by",
+    "options": [
+      "Hypokalaemia with inability to lower urine pH below 5.5 and nephrocalcinosis",
+      "Hyperkalaemia with a urine pH below 5.5",
+      "Bicarbonate wasting with growth failure and rickets",
+      "A high anion gap"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Alkaline urine with hypercalciuria and low citrate promotes calcium phosphate stones. Option C describes type 2 proximal disease, and option B type 4 from aldosterone deficiency or resistance.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (acid–base disorders), 2022 INI-CET surgery (renal stones)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nephrology",
+      "basedOn": "2024 INI-CET (acid–base disorders), 2022 INI-CET surgery (renal stones)"
+    }
+  },
+  {
+    "id": "med_q_148",
+    "questionNumber": 148,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "A patient on long-term lithium develops polyuria unresponsive to desmopressin. The management includes",
+    "options": [
+      "Amiloride with a thiazide and reduced solute intake",
+      "Higher-dose desmopressin",
+      "Fluid restriction alone",
+      "Loop diuretic monotherapy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lithium enters the principal cell through the epithelial sodium channel, which amiloride blocks; thiazides paradoxically reduce urine output by inducing mild volume depletion with enhanced proximal reabsorption.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (nephrogenic versus central diabetes insipidus), 2022 INI-CET pharmacology (lithium toxicity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nephrology",
+      "basedOn": "2024 INI-CET (nephrogenic versus central diabetes insipidus), 2022 INI-CET pharmacology (lithium toxicity)"
+    }
+  },
+  {
+    "id": "med_q_149",
+    "questionNumber": 149,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "The commonest cause of end-stage renal disease worldwide is",
+    "options": [
+      "Diabetic nephropathy",
+      "Chronic glomerulonephritis",
+      "Polycystic kidney disease",
+      "Analgesic nephropathy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hypertension is next. Albuminuria is the earliest marker, and glycaemic control with renin–angiotensin blockade and an SGLT2 inhibitor slows progression. Kimmelstiel–Wilson nodules are the histological hallmark.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (diabetes with proteinuria — drug choice), 2022 INI-CET (chronic kidney disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nephrology",
+      "basedOn": "2024 INI-CET (diabetes with proteinuria — drug choice), 2022 INI-CET (chronic kidney disease)"
+    }
+  },
+  {
+    "id": "med_q_150",
+    "questionNumber": 150,
+    "subject": "General Medicine",
+    "subTopic": "Nephrology",
+    "sub_topic": "Nephrology",
+    "stem": "Anaemia of chronic kidney disease is managed with erythropoiesis-stimulating agents only after",
+    "options": [
+      "Iron stores are repleted, with a transferrin saturation above 20% and ferritin above 100 ng/mL",
+      "Haemoglobin falls below 7 g/dL in all cases",
+      "Dialysis has started",
+      "Transfusion has been given"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Functional iron deficiency makes the agents ineffective. The haemoglobin target is 10 to 11.5 g/dL, because normalisation raises stroke and thrombosis risk. Erythropoietin deficiency is the primary mechanism.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (chronic kidney disease features), 2022 INI-CET (anaemia evaluation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nephrology",
+      "basedOn": "2024 INI-CET (chronic kidney disease features), 2022 INI-CET (anaemia evaluation)"
+    }
+  }
+]

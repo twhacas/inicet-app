@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "anat_q_1",
+    "questionNumber": 1,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Arrange the nerves in the lateral wall of the cavernous sinus from superior to inferior.",
+    "options": [
+      "Trochlear → Oculomotor → Ophthalmic → Maxillary",
+      "Oculomotor → Ophthalmic → Trochlear → Maxillary",
+      "Oculomotor → Trochlear → Ophthalmic → Maxillary",
+      "Oculomotor → Trochlear → Maxillary → Ophthalmic"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The oculomotor nerve is highest in the lateral wall; the maxillary nerve runs along its lower border. The abducent nerve is not in the wall — it lies inside the sinus.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET, 2015 AIIMS (nerve in superior part of lateral wall)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET, 2015 AIIMS (nerve in superior part of lateral wall)"
+    }
+  },
+  {
+    "id": "anat_q_2",
+    "questionNumber": 2,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A patient with cavernous sinus thrombosis following a facial furuncle develops diplopia. The earliest ocular movement to be lost is usually",
+    "options": [
+      "Abduction of the eye",
+      "Elevation of the eye",
+      "Depression of the adducted eye",
+      "Adduction of the eye"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The abducent nerve runs *through* the sinus, lateral to the internal carotid artery, with no protection from the dural wall. It is therefore affected first, giving lateral rectus palsy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS cavernous sinus; 2017 AIIMS tributaries",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET / 2015 AIIMS cavernous sinus; 2017 AIIMS tributaries"
+    }
+  },
+  {
+    "id": "anat_q_3",
+    "questionNumber": 3,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A boy is struck by a cricket ball on the side of his head about 4 cm above the midpoint of the zygomatic arch. He is lucid for an hour, then becomes drowsy. The vessel most likely torn is",
+    "options": [
+      "Superficial temporal artery",
+      "Anterior (frontal) branch of the middle meningeal artery",
+      "Posterior (parietal) branch of the middle meningeal artery",
+      "Superior sagittal sinus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The point described is the pterion. The anterior branch of the middle meningeal artery lies deep to it, so a fracture here causes an extradural haematoma with a lucid interval.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (artery deep to pterion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2022 INI-CET (artery deep to pterion)"
+    }
+  },
+  {
+    "id": "anat_q_4",
+    "questionNumber": 4,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Which bone does NOT take part in forming the pterion?",
+    "options": [
+      "Greater wing of sphenoid",
+      "Squamous temporal",
+      "Parietal",
+      "Zygomatic"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The pterion is the H-shaped junction of frontal, parietal, squamous temporal and greater wing of sphenoid. The zygomatic bone meets the frontal bone lower down, at the frontozygomatic suture.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bone deep to pterion), 2023 INI-CET (sulcus deep to pterion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2022 INI-CET (bone deep to pterion), 2023 INI-CET (sulcus deep to pterion)"
+    }
+  },
+  {
+    "id": "anat_q_5",
+    "questionNumber": 5,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A neurosurgeon makes a burr hole at the asterion. The structure deep to this point that is at greatest risk is the",
+    "options": [
+      "Superior sagittal sinus",
+      "Confluence of sinuses",
+      "Junction of the transverse and sigmoid sinuses",
+      "Posterior branch of the middle meningeal artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The asterion is where the parietal, occipital and mastoid part of the temporal bone meet. It overlies the transverse–sigmoid sinus junction, a key landmark in retrosigmoid approaches.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (asterion sutures), pterion cluster 2022–2023",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2016 AIIMS (asterion sutures), pterion cluster 2022–2023"
+    }
+  },
+  {
+    "id": "anat_q_6",
+    "questionNumber": 6,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A basal skull fracture passes through the jugular foramen. Which finding is NOT expected?",
+    "options": [
+      "Loss of taste over the posterior third of the tongue",
+      "Deviation of the uvula towards the normal side",
+      "Weakness of shrugging the shoulder on the side of injury",
+      "Deviation of the protruded tongue towards the side of injury"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The jugular foramen transmits the IX, X and XI nerves (Vernet syndrome). The hypoglossal nerve leaves through the separate hypoglossal canal, so tongue movement is spared.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (jugular foramen trauma → taste posterior 1/3), 2014 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2020 INI-CET (jugular foramen trauma → taste posterior 1/3), 2014 AIIMS"
+    }
+  },
+  {
+    "id": "anat_q_7",
+    "questionNumber": 7,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A muscle arises from the medial side of the base of the styloid process and enters the pharynx through the gap between the superior and middle constrictors. Its nerve supply is",
+    "options": [
+      "Vagus through the pharyngeal plexus",
+      "Glossopharyngeal nerve",
+      "Facial nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The muscle is stylopharyngeus — the only muscle supplied by the glossopharyngeal nerve, which accompanies it through the same gap.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (structure between superior and middle constrictor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET (structure between superior and middle constrictor)"
+    }
+  },
+  {
+    "id": "anat_q_8",
+    "questionNumber": 8,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Match the gap in the pharyngeal wall with the structure passing through it.\n\n| Gap | Structure |\n|---|---|\n| 1. Above the superior constrictor | a. Recurrent laryngeal nerve |\n| 2. Between superior and middle constrictors | b. Internal laryngeal nerve |\n| 3. Between middle and inferior constrictors | c. Auditory tube |\n| 4. Below the inferior constrictor | d. Stylopharyngeus |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Above superior: auditory tube and levator veli palatini. Superior–middle: stylopharyngeus and IX nerve. Middle–inferior: internal laryngeal nerve with superior laryngeal vessels. Below inferior: recurrent laryngeal nerve with inferior laryngeal vessels.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET constrictor gap",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET constrictor gap"
+    }
+  },
+  {
+    "id": "anat_q_9",
+    "questionNumber": 9,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "After a superficial parotidectomy, a patient cannot close the eye tightly on the operated side, but wrinkling of the forehead is normal. The branch of the facial nerve injured is the",
+    "options": [
+      "Temporal branch",
+      "Buccal branch",
+      "Zygomatic branch",
+      "Marginal mandibular branch"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Frontalis (forehead) is supplied by the temporal branch, which is intact here. Firm eye closure depends on orbicularis oculi, mainly through the zygomatic branch.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (lower lip weakness after parotid surgery), 2015 AIIMS parotid",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2022 INI-CET (lower lip weakness after parotid surgery), 2015 AIIMS parotid"
+    }
+  },
+  {
+    "id": "anat_q_10",
+    "questionNumber": 10,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "During excision of the submandibular gland, the skin incision is placed about two finger-breadths below the lower border of the mandible. This is done mainly to protect the",
+    "options": [
+      "Lingual nerve",
+      "Hypoglossal nerve",
+      "Marginal mandibular branch of the facial nerve",
+      "Cervical branch of the facial nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The marginal mandibular branch can loop below the mandible, superficial to the facial vessels. A low incision avoids it; injury causes drooping of the angle of the mouth.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (submandibular excision)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (submandibular excision)"
+    }
+  },
+  {
+    "id": "anat_q_11",
+    "questionNumber": 11,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "The nerve that crosses the submandibular duct twice — first lateral to it, then below and medial to it — is the",
+    "options": [
+      "Hypoglossal nerve",
+      "Lingual nerve",
+      "Chorda tympani",
+      "Nerve to mylohyoid"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The lingual nerve spirals around the submandibular (Wharton's) duct and is the nerve most at risk during submandibular gland and duct surgery.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (structure injured in submandibular excision)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (structure injured in submandibular excision)"
+    }
+  },
+  {
+    "id": "anat_q_12",
+    "questionNumber": 12,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "In Frey's syndrome, gustatory sweating occurs because of misdirected regrowth of secretomotor fibres. These fibres originally arise from the",
+    "options": [
+      "Superior salivatory nucleus, via the chorda tympani",
+      "Superior salivatory nucleus, via the greater petrosal nerve",
+      "Inferior salivatory nucleus, via the lesser petrosal nerve and otic ganglion",
+      "Edinger–Westphal nucleus, via the ciliary ganglion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Parotid secretomotor pathway: inferior salivatory nucleus → IX → tympanic plexus → lesser petrosal nerve → otic ganglion → auriculotemporal nerve. After parotid surgery these fibres regrow into sweat glands of the skin.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (Frey's syndrome), 2021 NEET-PG (parotid nerve supply)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (Frey's syndrome), 2021 NEET-PG (parotid nerve supply)"
+    }
+  },
+  {
+    "id": "anat_q_13",
+    "questionNumber": 13,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A patient has an LMN facial palsy with loss of taste over the anterior two-thirds of the tongue and hyperacusis, but lacrimation is normal. The lesion is most likely located",
+    "options": [
+      "In the internal acoustic meatus",
+      "Between the geniculate ganglion and the origin of the nerve to stapedius",
+      "Between the nerve to stapedius and the chorda tympani",
+      "At the stylomastoid foramen"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Normal lacrimation means the greater petrosal nerve (given off at the geniculate ganglion) is spared. Hyperacusis means the nerve to stapedius is involved, and taste loss means chorda tympani fibres are involved. The lesion must sit between these points.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (lacrimation lost — greater petrosal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (lacrimation lost — greater petrosal)"
+    }
+  },
+  {
+    "id": "anat_q_14",
+    "questionNumber": 14,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "In a complete oculomotor nerve palsy the eye rests \"down and out\". Which muscles are responsible for this position?",
+    "options": [
+      "Inferior rectus and lateral rectus",
+      "Superior oblique and inferior oblique",
+      "Lateral rectus alone",
+      "Superior oblique and lateral rectus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "These are the only extraocular muscles not supplied by the III nerve (IV and VI). Unopposed lateral rectus pulls the eye out; unopposed superior oblique pulls it down.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (3rd nerve palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET (3rd nerve palsy)"
+    }
+  },
+  {
+    "id": "anat_q_15",
+    "questionNumber": 15,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "To test the superior oblique muscle in isolation, the patient is asked to look",
+    "options": [
+      "Down and out",
+      "Up and in",
+      "Down and in",
+      "Up and out"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "With the eye adducted, the line of pull of the superior oblique aligns with the visual axis, so it acts as a pure depressor. Patients with IV nerve palsy struggle walking downstairs or reading.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (function of superior oblique), 2021 INI-CET (nerve to superior oblique)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2020 INI-CET (function of superior oblique), 2021 INI-CET (nerve to superior oblique)"
+    }
+  },
+  {
+    "id": "anat_q_16",
+    "questionNumber": 16,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A smoker has partial ptosis, miosis, and anhidrosis confined to the face and neck on the left side, together with wasting of the small muscles of the left hand. The lesion is most likely at the",
+    "options": [
+      "Internal carotid plexus in the cavernous sinus",
+      "Left lateral medulla",
+      "Left internal carotid artery in the neck (dissection)",
+      "Left lung apex involving the T1 root and sympathetic chain"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is a Pancoast tumour. Hand wasting points to T1. A second-order (preganglionic) lesion gives facial anhidrosis; a lateral medullary (first-order) lesion gives anhidrosis of the whole half of the body; a carotid (third-order) lesion spares most facial sweating. The ptosis is from paralysis of Müller's muscle.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (ptosis in Horner's — Müller muscle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2023 NEET-PG (ptosis in Horner's — Müller muscle)"
+    }
+  },
+  {
+    "id": "anat_q_17",
+    "questionNumber": 17,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "An orbital tumour compresses the nerve to the inferior oblique close to its origin. In addition to weakness of that muscle, the patient will show",
+    "options": [
+      "Complete ptosis",
+      "A dilated pupil with loss of accommodation",
+      "Loss of the corneal reflex",
+      "Anhidrosis of the forehead"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Preganglionic parasympathetic fibres from the Edinger–Westphal nucleus reach the ciliary ganglion along the nerve to the inferior oblique. Interrupting them paralyses the sphincter pupillae and ciliary muscle.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (Edinger–Westphal fibres via nerve to inferior oblique)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (Edinger–Westphal fibres via nerve to inferior oblique)"
+    }
+  },
+  {
+    "id": "anat_q_18",
+    "questionNumber": 18,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "During thyroidectomy, a parathyroid gland is found low in the anterior mediastinum, close to the thymus. This gland is most likely the",
+    "options": [
+      "Superior parathyroid, from the 4th pharyngeal pouch",
+      "Superior parathyroid, from the 3rd pharyngeal pouch",
+      "Inferior parathyroid, from the 4th pharyngeal pouch",
+      "Inferior parathyroid, from the 3rd pharyngeal pouch"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The 3rd pouch forms both the thymus and the inferior parathyroids. They migrate down together, so the inferior parathyroid is the one found in ectopic, low positions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (DiGeorge — 3rd pouch defect)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2023 INI-CET (DiGeorge — 3rd pouch defect)"
+    }
+  },
+  {
+    "id": "anat_q_19",
+    "questionNumber": 19,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Match each muscle with its nerve supply (which follows its pharyngeal arch of origin).\n\n| Muscle | Nerve |\n|---|---|\n| 1. Tensor tympani | a. Facial nerve |\n| 2. Stapedius | b. Superior laryngeal nerve (external branch) |\n| 3. Stylopharyngeus | c. Mandibular nerve |\n| 4. Cricothyroid | d. Glossopharyngeal nerve |",
+    "options": [
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "1st arch → V3 (tensor tympani, tensor veli palatini, muscles of mastication, mylohyoid, anterior digastric). 2nd → VII (stapedius). 3rd → IX (stylopharyngeus). 4th → X via superior laryngeal (cricothyroid).",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (1st arch derivatives), 2018 NEET-PG (arch nerves)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (1st arch derivatives), 2018 NEET-PG (arch nerves)"
+    }
+  },
+  {
+    "id": "anat_q_20",
+    "questionNumber": 20,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Which of the following is NOT derived from the neural crest?",
+    "options": [
+      "Odontoblasts",
+      "Chromaffin cells of the adrenal medulla",
+      "Retinal pigment epithelium",
+      "Parafollicular (C) cells of the thyroid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The retinal pigment epithelium comes from the outer layer of the optic cup, which is neuroectoderm (neural tube), not neural crest.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (RPE — neuroectoderm), 2018 NEET-PG (neural crest)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET (RPE — neuroectoderm), 2018 NEET-PG (neural crest)"
+    }
+  },
+  {
+    "id": "anat_q_21",
+    "questionNumber": 21,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A professional singer cannot reach high-pitched notes after thyroidectomy. Her voice is weak and monotonous, but the vocal cords move normally on laryngoscopy. The nerve injured is the",
+    "options": [
+      "Recurrent laryngeal nerve",
+      "Internal laryngeal nerve",
+      "Ansa cervicalis",
+      "External laryngeal nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It supplies cricothyroid, the tensor of the vocal cords. It runs close to the superior thyroid artery, so that artery is ligated close to the gland.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (cricothyroid palsy), 2022 INI-CET (nerves at risk in thyroid surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2023 NEET-PG (cricothyroid palsy), 2022 INI-CET (nerves at risk in thyroid surgery)"
+    }
+  },
+  {
+    "id": "anat_q_22",
+    "questionNumber": 22,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "While a fish bone is being removed from the piriform recess, the nerve lying just beneath its mucosa is injured. The expected deficit is",
+    "options": [
+      "Loss of the gag reflex",
+      "Hoarseness from vocal cord paralysis",
+      "Loss of sensation above the vocal cords with an impaired cough reflex",
+      "Paralysis of cricothyroid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The internal laryngeal nerve runs under the mucosa of the piriform recess. It is purely sensory to the laryngeal mucosa above the vocal folds and is the afferent limb of the cough reflex. *Note: the 2020 INI-CET key reads \"gag reflex\"; standard texts give cough reflex, since the gag reflex afferent is IX.*",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (fish bone in piriform sinus), 2021 INI-CET (piriform fossa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2020 INI-CET (fish bone in piriform sinus), 2021 INI-CET (piriform fossa)"
+    }
+  },
+  {
+    "id": "anat_q_23",
+    "questionNumber": 23,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Which structure is NOT a content of the carotid sheath?",
+    "options": [
+      "Vagus nerve",
+      "Internal jugular vein",
+      "Cervical sympathetic trunk",
+      "Common carotid artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The sympathetic trunk lies behind the sheath, on the prevertebral fascia. The ansa cervicalis is embedded in the anterior wall of the sheath, not inside it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (contents of carotid sheath)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (contents of carotid sheath)"
+    }
+  },
+  {
+    "id": "anat_q_24",
+    "questionNumber": 24,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A retropharyngeal abscess tracks down rapidly into the posterior mediastinum as far as the diaphragm. The space involved lies between the",
+    "options": [
+      "Pretracheal fascia and buccopharyngeal fascia",
+      "Buccopharyngeal fascia and alar fascia",
+      "Prevertebral fascia and the vertebral bodies",
+      "Alar fascia and prevertebral fascia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is the \"danger space\", which runs from the skull base to the diaphragm. The retropharyngeal space proper (between buccopharyngeal and alar fascia) ends at about T2.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (danger space)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2015 AIIMS (danger space)"
+    }
+  },
+  {
+    "id": "anat_q_25",
+    "questionNumber": 25,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "During thyroidectomy, the inferior thyroid artery is ligated well away from the gland, near the carotid sheath. The main reason is to protect the",
+    "options": [
+      "Recurrent laryngeal nerve",
+      "External laryngeal nerve",
+      "Ansa cervicalis",
+      "Sympathetic trunk"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Near the gland, the recurrent laryngeal nerve intertwines with the branches of the inferior thyroid artery. Ligating laterally avoids the nerve and keeps the parathyroid blood supply. The superior thyroid artery is the opposite: it is ligated close to the gland to protect the external laryngeal nerve.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (inferior thyroid artery), 2022 INI-CET (nerves at risk)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (inferior thyroid artery), 2022 INI-CET (nerves at risk)"
+    }
+  },
+  {
+    "id": "anat_q_26",
+    "questionNumber": 26,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "All of the following arteries contribute to Kiesselbach's plexus (Little's area) EXCEPT",
+    "options": [
+      "Anterior ethmoidal artery",
+      "Septal branch of the superior labial artery",
+      "Greater palatine artery",
+      "Posterior ethmoidal artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Little's area receives the anterior ethmoidal (from the ICA via the ophthalmic artery), the septal branch of sphenopalatine, greater palatine and the septal branch of superior labial (all from the ECA).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (nasal septum arteries — anterior ethmoidal is the non-ECA one)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2021 INI-CET (nasal septum arteries — anterior ethmoidal is the non-ECA one)"
+    }
+  },
+  {
+    "id": "anat_q_27",
+    "questionNumber": 27,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Match each part of the lateral nasal wall with the structure opening into it.\n\n| Site | Opening |\n|---|---|\n| 1. Inferior meatus | a. Sphenoid sinus |\n| 2. Middle meatus (hiatus semilunaris) | b. Posterior ethmoidal air cells |\n| 3. Superior meatus | c. Nasolacrimal duct |\n| 4. Sphenoethmoidal recess | d. Maxillary sinus |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The middle meatus also receives the frontal sinus and the anterior and middle ethmoidal cells.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (opening in inferior meatus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2024 INI-CET (opening in inferior meatus)"
+    }
+  },
+  {
+    "id": "anat_q_28",
+    "questionNumber": 28,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "A muscle arises mainly from the medial surface of the lateral pterygoid plate and inserts into the medial surface of the angle of the mandible. Its action is",
+    "options": [
+      "Depression of the mandible only",
+      "Retraction of the mandible",
+      "Elevation and protrusion of the mandible",
+      "Opening of the mouth against resistance"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is medial pterygoid. With masseter it elevates the jaw; with lateral pterygoid it protrudes the jaw and produces side-to-side grinding. Lateral pterygoid is the main opener of the mouth.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (muscle from lateral aspect of lateral pterygoid plate → action), 2014 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2023 INI-CET (muscle from lateral aspect of lateral pterygoid plate → action), 2014 AIIMS"
+    }
+  },
+  {
+    "id": "anat_q_29",
+    "questionNumber": 29,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "The mylohyoid and the anterior belly of digastric share the same nerve supply. That nerve is a branch of the",
+    "options": [
+      "Facial nerve",
+      "Inferior alveolar nerve",
+      "Lingual nerve",
+      "Ansa cervicalis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The nerve to mylohyoid leaves the inferior alveolar nerve just before it enters the mandibular foramen. Both muscles are 1st-arch derivatives, which explains the shared V3 supply. The posterior belly of digastric is 2nd arch (facial nerve).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (nerve through mandibular foramen), 2019 NEET-PG (1st arch — anterior digastric)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (nerve through mandibular foramen), 2019 NEET-PG (1st arch — anterior digastric)"
+    }
+  },
+  {
+    "id": "anat_q_30",
+    "questionNumber": 30,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Stimulating the posterior wall of the external acoustic meatus with an ear bud provokes a cough. The nerve responsible is the",
+    "options": [
+      "Great auricular nerve",
+      "Auriculotemporal nerve",
+      "Auricular branch of the vagus",
+      "Lesser occipital nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Arnold's nerve supplies the concha, the posterior part of the meatus and the outer tympanic membrane. Great auricular supplies the lower pinna on both surfaces; auriculotemporal supplies the upper lateral pinna, tragus and anterior meatus.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (nerve to lower pinna)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (nerve to lower pinna)"
+    }
+  },
+  {
+    "id": "anat_q_31",
+    "questionNumber": 31,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Taste from the circumvallate papillae, which lie just in front of the sulcus terminalis, is carried by the",
+    "options": [
+      "Chorda tympani",
+      "Lingual nerve",
+      "Internal laryngeal nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Although they sit on the anterior two-thirds of the tongue, the circumvallate papillae are supplied for both general sensation and taste by IX.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (circumvallate papilla), 2016 AIIMS (taste anterior 2/3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Head And Neck",
+      "basedOn": "2022 NEET-PG (circumvallate papilla), 2016 AIIMS (taste anterior 2/3)"
+    }
+  },
+  {
+    "id": "anat_q_32",
+    "questionNumber": 32,
+    "subject": "Anatomy",
+    "subTopic": "Head And Neck",
+    "sub_topic": "Head And Neck",
+    "stem": "Match each foramen with a structure passing through it.\n\n| Foramen | Content |\n|---|---|\n| 1. Foramen ovale | a. Middle meningeal artery |\n| 2. Foramen spinosum | b. Maxillary nerve |\n| 3. Foramen rotundum | c. Abducent nerve |\n| 4. Superior orbital fissure | d. Lesser petrosal nerve |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b",
+      "1-b, 2-a, 3-d, 4-c"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Foramen ovale (OVALE): Otic ganglion nearby, V3, Accessory meningeal artery, Lesser petrosal nerve, Emissary vein. The superior orbital fissure carries III, IV, V1 branches and VI.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (foramen rotundum, foramen lacerum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Head And Neck",
+      "basedOn": "2020 INI-CET (foramen rotundum, foramen lacerum)"
+    }
+  },
+  {
+    "id": "anat_q_33",
+    "questionNumber": 33,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "On attempted gaze to the right, the right eye abducts with nystagmus but the left eye fails to adduct. Convergence is normal. The lesion lies in the",
+    "options": [
+      "Left medial longitudinal fasciculus",
+      "Right medial longitudinal fasciculus",
+      "Left abducent nucleus",
+      "Right paramedian pontine reticular formation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Internuclear ophthalmoplegia is named after the eye that fails to adduct. Convergence is preserved because the medial rectus nucleus and the III nerve are intact.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (INO), 2014 AIIMS (abducent palsy gaze pattern)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 INI-CET (INO), 2014 AIIMS (abducent palsy gaze pattern)"
+    }
+  },
+  {
+    "id": "anat_q_34",
+    "questionNumber": 34,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A single pontine lesion damages the right abducent nucleus and the right medial longitudinal fasciculus. Which horizontal eye movement is still possible?",
+    "options": [
+      "Adduction of the right eye",
+      "Abduction of the right eye",
+      "Abduction of the left eye",
+      "Adduction of the left eye"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is the \"one-and-a-half syndrome\": a right horizontal gaze palsy (the \"one\") plus a right INO (the \"half\"). The only horizontal movement left is abduction of the opposite eye.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (INO), 2020 INI-CET (facial colliculus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 INI-CET (INO), 2020 INI-CET (facial colliculus)"
+    }
+  },
+  {
+    "id": "anat_q_35",
+    "questionNumber": 35,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Which feature is NOT seen in occlusion of the posterior inferior cerebellar artery?",
+    "options": [
+      "Ipsilateral loss of pain and temperature over the face",
+      "Contralateral loss of pain and temperature over the body",
+      "Ipsilateral Horner's syndrome",
+      "Contralateral hemiplegia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Lateral medullary (Wallenberg) syndrome spares the pyramids, which are supplied medially by the anterior spinal artery. Hoarseness and dysphagia (nucleus ambiguus) and ipsilateral ataxia are typical.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (lateral medullary syndrome — 7X), 2019 NEET-PG, 2023 INI-CET",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (lateral medullary syndrome — 7X), 2019 NEET-PG, 2023 INI-CET"
+    }
+  },
+  {
+    "id": "anat_q_36",
+    "questionNumber": 36,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A patient's tongue deviates to the right on protrusion. There is left-sided hemiparesis and loss of proprioception on the left side of the body. The artery occluded is most likely the",
+    "options": [
+      "Left posterior inferior cerebellar artery",
+      "Left anterior spinal artery",
+      "Right anterior inferior cerebellar artery",
+      "Right anterior spinal artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is medial medullary (Dejerine) syndrome on the right. It damages the right XII nucleus/nerve (tongue deviates to the lesion side), the right pyramid and the right medial lemniscus (both above their decussations, so the deficits appear on the left).",
+    "tag": "INI-CET",
+    "exam": "lateral medullary cluster 2014–2023",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "lateral medullary cluster 2014–2023"
+    }
+  },
+  {
+    "id": "anat_q_37",
+    "questionNumber": 37,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A patient has right oculomotor nerve palsy together with left-sided hemiplegia. This is",
+    "options": [
+      "Weber syndrome",
+      "Benedikt syndrome",
+      "Millard–Gubler syndrome",
+      "Parinaud syndrome"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A lesion of the right cerebral peduncle (basis pedunculi) catches the emerging III nerve and the corticospinal fibres above their decussation. Benedikt adds red nucleus involvement (tremor). Millard–Gubler is pontine (VI, VII + hemiplegia).",
+    "tag": "INI-CET",
+    "exam": "brainstem syndrome cluster (2014, 2019, 2022 INI-CET)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "brainstem syndrome cluster (2014, 2019, 2022 INI-CET)"
+    }
+  },
+  {
+    "id": "anat_q_38",
+    "questionNumber": 38,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Arrange these nuclei in the floor of the fourth ventricle (medullary part) from medial to lateral.\n1. Dorsal motor nucleus of vagus\n2. Vestibular nuclei\n3. Hypoglossal nucleus\n4. Nucleus of the tractus solitarius",
+    "options": [
+      "3 → 1 → 4 → 2",
+      "1 → 3 → 4 → 2",
+      "3 → 4 → 1 → 2",
+      "3 → 1 → 2 → 4"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Medial to lateral: somatic efferent (XII, GSE) → general visceral efferent (DMN X) → visceral afferent (solitary nucleus) → special somatic afferent (vestibular). This matches the hypoglossal trigone, vagal trigone and vestibular area.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (arrange columns medial to lateral)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 INI-CET (arrange columns medial to lateral)"
+    }
+  },
+  {
+    "id": "anat_q_39",
+    "questionNumber": 39,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Which nucleus is NOT a special visceral efferent (branchial motor) nucleus?",
+    "options": [
+      "Nucleus ambiguus",
+      "Motor nucleus of the facial nerve",
+      "Motor nucleus of the trigeminal nerve",
+      "Dorsal motor nucleus of the vagus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The dorsal motor nucleus of vagus is general visceral efferent (parasympathetic). Special visceral efferent nuclei supply muscles of pharyngeal arch origin (V, VII, IX/X via ambiguus).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (special visceral efferent)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (special visceral efferent)"
+    }
+  },
+  {
+    "id": "anat_q_40",
+    "questionNumber": 40,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A small haemorrhage involves the facial colliculus. The expected finding is",
+    "options": [
+      "Ipsilateral LMN facial palsy with ipsilateral lateral gaze palsy",
+      "Contralateral UMN facial palsy with ipsilateral lateral gaze palsy",
+      "Ipsilateral facial palsy with hyperacusis only",
+      "Deviation of the tongue to the side of the lesion"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The facial colliculus, in the floor of the **fourth** ventricle (pons), is formed by facial nerve fibres looping around the abducent nucleus. A lesion of the abducent nucleus causes a horizontal gaze palsy towards that side. *The 2020 INI-CET stem wrongly says \"third ventricle\".*",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (facial colliculus injury)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 INI-CET (facial colliculus injury)"
+    }
+  },
+  {
+    "id": "anat_q_41",
+    "questionNumber": 41,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A lacunar infarct is confined to the genu of the internal capsule. The fibres mainly affected are the",
+    "options": [
+      "Corticospinal fibres to the lower limb",
+      "Corticonuclear (corticobulbar) fibres",
+      "Optic radiation",
+      "Auditory radiation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These are projection fibres to the motor cranial nerve nuclei, so the infarct mainly affects the face and tongue. Corticospinal fibres run in the posterior limb; the optic and auditory radiations are retrolentiform and sublentiform.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (fibres in genu — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (fibres in genu — 3X)"
+    }
+  },
+  {
+    "id": "anat_q_42",
+    "questionNumber": 42,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Which of the following is an example of association fibres?",
+    "options": [
+      "Anterior commissure",
+      "Uncinate fasciculus",
+      "Corona radiata",
+      "Hippocampal commissure"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Association fibres connect areas within the same hemisphere (the uncinate links the frontal and temporal lobes). Commissural fibres cross to the other hemisphere; projection fibres link the cortex with lower centres.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (fornix — commissural and association), 2024 INI-CET (projection fibres in genu)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2022 INI-CET (fornix — commissural and association), 2024 INI-CET (projection fibres in genu)"
+    }
+  },
+  {
+    "id": "anat_q_43",
+    "questionNumber": 43,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A patient suddenly cannot read but can write normally (alexia without agraphia), with a right homonymous hemianopia. The artery occluded is the",
+    "options": [
+      "Left anterior cerebral artery",
+      "Left middle cerebral artery, superior division",
+      "Left posterior cerebral artery",
+      "Basilar artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The left PCA supplies the left visual cortex and the splenium of the corpus callosum. Visual information reaching the intact right occipital lobe cannot cross the damaged splenium to the left-sided language areas.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (blood supply of splenium)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2022 INI-CET (blood supply of splenium)"
+    }
+  },
+  {
+    "id": "anat_q_44",
+    "questionNumber": 44,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "After a small stroke, a patient develops sudden, violent flinging movements of the left arm. The lesion is in the",
+    "options": [
+      "Left subthalamic nucleus",
+      "Right subthalamic nucleus",
+      "Right caudate nucleus",
+      "Left substantia nigra"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hemiballismus is contralateral to the lesion, because basal ganglia circuits act on the motor cortex of the same side, whose corticospinal output then crosses.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (ballistic movements — subthalamic nucleus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (ballistic movements — subthalamic nucleus)"
+    }
+  },
+  {
+    "id": "anat_q_45",
+    "questionNumber": 45,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "The substantia nigra pars reticulata is functionally equivalent to the",
+    "options": [
+      "Globus pallidus internus",
+      "Globus pallidus externus",
+      "Subthalamic nucleus",
+      "Putamen"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Both are the GABAergic output nuclei of the basal ganglia, projecting to the thalamus (and the superior colliculus). The pars compacta is the dopaminergic part that projects to the striatum.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (neurotransmitter of substantia nigra)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2022 INI-CET (neurotransmitter of substantia nigra)"
+    }
+  },
+  {
+    "id": "anat_q_46",
+    "questionNumber": 46,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Arrange the components of the Papez circuit in sequence, starting from the hippocampus.\n1. Cingulate gyrus\n2. Mammillary body\n3. Fornix\n4. Anterior nucleus of the thalamus",
+    "options": [
+      "3 → 4 → 2 → 1",
+      "3 → 2 → 1 → 4",
+      "3 → 2 → 4 → 1",
+      "2 → 3 → 4 → 1"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hippocampus → fornix → mammillary body → mammillothalamic tract → anterior thalamic nucleus → cingulate gyrus → parahippocampal gyrus → hippocampus.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (mammillary body → anterior nucleus; limbic system), 2023 INI-CET (thalamic nucleus receiving fornix)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2021 INI-CET (mammillary body → anterior nucleus; limbic system), 2023 INI-CET (thalamic nucleus receiving fornix)"
+    }
+  },
+  {
+    "id": "anat_q_47",
+    "questionNumber": 47,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Arrange the parts of the fornix in the order in which its fibres pass.\n1. Fimbria\n2. Body\n3. Alveus\n4. Crus\n5. Column",
+    "options": [
+      "1 → 3 → 4 → 2 → 5",
+      "3 → 1 → 2 → 4 → 5",
+      "3 → 4 → 1 → 2 → 5",
+      "3 → 1 → 4 → 2 → 5"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Axons from the hippocampus and subiculum gather as the alveus, converge into the fimbria, arch up as the crus, join across the midline as the body (with the hippocampal commissure), and descend as the columns to the mammillary bodies.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (efferents of hippocampus via fornix), 2021 NEET-PG (C-shaped fornix)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (efferents of hippocampus via fornix), 2021 NEET-PG (C-shaped fornix)"
+    }
+  },
+  {
+    "id": "anat_q_48",
+    "questionNumber": 48,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Which structure forms part of the ROOF of the inferior horn of the lateral ventricle?",
+    "options": [
+      "Hippocampus",
+      "Collateral eminence",
+      "Fimbria",
+      "Tail of the caudate nucleus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The roof contains the tail of the caudate, the stria terminalis and the tapetum, with the amygdala at the tip. The floor contains the hippocampus, fimbria and collateral eminence.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (structure not in floor of inferior horn)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 INI-CET (structure not in floor of inferior horn)"
+    }
+  },
+  {
+    "id": "anat_q_49",
+    "questionNumber": 49,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Climbing fibres of the cerebellum arise from the",
+    "options": [
+      "Pontine nuclei",
+      "Inferior olivary nucleus",
+      "Dentate nucleus",
+      "Vestibular nuclei"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Olivocerebellar fibres cross, enter through the inferior peduncle and wrap directly around Purkinje cell dendrites. All other afferents (pontine, spinal, vestibular) end as mossy fibres on granule cells.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (molecular layer), 2022 NEET-PG (Purkinje cells), 2021 INI-CET",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET (molecular layer), 2022 NEET-PG (Purkinje cells), 2021 INI-CET"
+    }
+  },
+  {
+    "id": "anat_q_50",
+    "questionNumber": 50,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "The only excitatory neurons intrinsic to the cerebellar cortex are the",
+    "options": [
+      "Purkinje cells",
+      "Basket cells",
+      "Golgi cells",
+      "Granule cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Granule cells are glutamatergic; their parallel fibres run in the molecular layer. Purkinje, basket, stellate and Golgi cells are all inhibitory (GABA). Purkinje cells are the sole output of the cortex.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (molecular layer — basket and stellate cells)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET (molecular layer — basket and stellate cells)"
+    }
+  },
+  {
+    "id": "anat_q_51",
+    "questionNumber": 51,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Output from the dentate nucleus reaches the motor cortex mainly through the",
+    "options": [
+      "Inferior cerebellar peduncle, to the ipsilateral VL thalamus",
+      "Middle cerebellar peduncle, to the contralateral VPL thalamus",
+      "Superior cerebellar peduncle, to the contralateral VL thalamus",
+      "Middle cerebellar peduncle, to the ipsilateral red nucleus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Dentatothalamic fibres leave through the superior peduncle and cross at the level of the inferior colliculus (midbrain), reaching the VL thalamus and then the motor cortex.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Purkinje fibres relay to dentate), 2022 INI-CET (decussation of superior cerebellar peduncle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2021 INI-CET (Purkinje fibres relay to dentate), 2022 INI-CET (decussation of superior cerebellar peduncle)"
+    }
+  },
+  {
+    "id": "anat_q_52",
+    "questionNumber": 52,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Which tract enters the cerebellum through the superior cerebellar peduncle?",
+    "options": [
+      "Ventral spinocerebellar tract",
+      "Dorsal spinocerebellar tract",
+      "Olivocerebellar tract",
+      "Pontocerebellar fibres"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The superior peduncle is mainly efferent, but the ventral spinocerebellar tract enters through it. Dorsal spinocerebellar and olivocerebellar fibres use the inferior peduncle; pontocerebellar fibres form the middle peduncle.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (middle cerebellar peduncle fibres), 2022 INI-CET (superior peduncle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET (middle cerebellar peduncle fibres), 2022 INI-CET (superior peduncle)"
+    }
+  },
+  {
+    "id": "anat_q_53",
+    "questionNumber": 53,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A child with a midline posterior fossa tumour (medulloblastoma) arising from the flocculonodular lobe is most likely to show",
+    "options": [
+      "Intention tremor of the limbs",
+      "Dysdiadochokinesia of the hands",
+      "Truncal ataxia with nystagmus",
+      "Marked hypertonia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The flocculonodular lobe (vestibulocerebellum) works with the vestibular nuclei (and the fastigial nucleus) on balance and eye movements. Limb signs come from lesions of the cerebellar hemispheres.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (fastigial — saccades), 2018 AIIMS / 2021 NEET-PG (posterior fossa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2017 AIIMS (fastigial — saccades), 2018 AIIMS / 2021 NEET-PG (posterior fossa)"
+    }
+  },
+  {
+    "id": "anat_q_54",
+    "questionNumber": 54,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A stab wound causes hemisection of the spinal cord on the LEFT side at T8. Which finding is expected?",
+    "options": [
+      "Loss of pain and temperature on the left below the lesion",
+      "Loss of vibration sense on the right below the lesion",
+      "Spastic paralysis on the right below the lesion",
+      "Spastic paralysis on the left below the lesion"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Brown-Séquard: the lateral corticospinal tract and dorsal columns have already crossed above this level, so motor and vibration/proprioception loss are on the same side. The spinothalamic tract crosses within 1–2 segments, so pain and temperature are lost on the opposite side.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (Brown-Séquard), 2016 AIIMS (spinothalamic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (Brown-Séquard), 2016 AIIMS (spinothalamic)"
+    }
+  },
+  {
+    "id": "anat_q_55",
+    "questionNumber": 55,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A young adult has loss of pain and temperature over both shoulders and arms in a cape-like distribution, with touch and proprioception preserved. The structure first damaged is the",
+    "options": [
+      "Dorsal columns",
+      "Anterior white commissure",
+      "Lateral corticospinal tract",
+      "Anterior horn cells"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In syringomyelia, a central cavity first interrupts spinothalamic fibres crossing in front of the central canal. The result is bilateral, segmental, dissociated sensory loss.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (lateral spinothalamic tract), 2019 NEET-PG (Brown-Séquard)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2016 AIIMS (lateral spinothalamic tract), 2019 NEET-PG (Brown-Séquard)"
+    }
+  },
+  {
+    "id": "anat_q_56",
+    "questionNumber": 56,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "The medial lemniscus is formed by axons of the",
+    "options": [
+      "Dorsal root ganglion cells",
+      "Nucleus gracilis and nucleus cuneatus",
+      "Ventral posterolateral nucleus of the thalamus",
+      "Clarke's column (nucleus dorsalis)"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These second-order neurons send internal arcuate fibres that cross in the lower medulla (the sensory decussation) and ascend as the medial lemniscus to the VPL thalamus.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (medial lemniscus is continuation of …)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 INI-CET (medial lemniscus is continuation of …)"
+    }
+  },
+  {
+    "id": "anat_q_57",
+    "questionNumber": 57,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Arrange the layers pierced by a lumbar puncture needle in the midline, from superficial to deep, starting after skin and fascia.\n1. Ligamentum flavum\n2. Interspinous ligament\n3. Dura mater\n4. Supraspinous ligament\n5. Arachnoid mater",
+    "options": [
+      "4 → 2 → 1 → 3 → 5",
+      "2 → 4 → 1 → 3 → 5",
+      "4 → 1 → 2 → 3 → 5",
+      "4 → 2 → 1 → 5 → 3"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "After the ligamentum flavum (a \"give\"), the needle crosses the epidural space, then the dura and arachnoid into the subarachnoid space. The cord ends at L1–L2 in adults, so LP is done at L3–L4 or L4–L5.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (last layer punctured), 2020 INI-CET / 2016 AIIMS (cord ends at L1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 NEET-PG (last layer punctured), 2020 INI-CET / 2016 AIIMS (cord ends at L1)"
+    }
+  },
+  {
+    "id": "anat_q_58",
+    "questionNumber": 58,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "An elderly man on anticoagulants becomes gradually confused three weeks after a minor fall. CT shows a crescent-shaped collection that crosses suture lines. The source of bleeding is",
+    "options": [
+      "Middle meningeal artery",
+      "Bridging (superior cerebral) veins",
+      "Ruptured berry aneurysm",
+      "Diploic veins"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is a chronic subdural haematoma. Brain atrophy stretches the veins crossing from the cortex to the dural sinuses. Extradural haematomas are lens-shaped and limited by suture lines.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (SDH — bridging veins)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 INI-CET (SDH — bridging veins)"
+    }
+  },
+  {
+    "id": "anat_q_59",
+    "questionNumber": 59,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "The dura mater of the posterior cranial fossa receives its sensory supply mainly from",
+    "options": [
+      "The ophthalmic division of the trigeminal nerve",
+      "Upper cervical nerves (C1–C3) and the vagus",
+      "The maxillary nerve",
+      "The facial nerve"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This explains why posterior fossa pathology refers pain to the occiput and back of the neck. The supratentorial dura is supplied by the trigeminal nerve, and its pain refers to the forehead and face.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (referred pain from posterior fossa dura), 2021 INI-CET / 2016 AIIMS (meningeal branch of ICA — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2024 INI-CET (referred pain from posterior fossa dura), 2021 INI-CET / 2016 AIIMS (meningeal branch of ICA — T/F)"
+    }
+  },
+  {
+    "id": "anat_q_60",
+    "questionNumber": 60,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A patient speaks fluently and understands speech well, but cannot repeat a simple phrase spoken by the examiner. The lesion involves the",
+    "options": [
+      "Inferior frontal gyrus",
+      "Angular gyrus",
+      "Arcuate fasciculus",
+      "Posterior part of the superior temporal gyrus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is conduction aphasia: Wernicke's and Broca's areas both work, but the association bundle linking them is cut. Wernicke's lesion (area 22) impairs comprehension; Broca's lesion impairs fluency.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Brodmann 22 — receptive aphasia), 2020 NEET-PG (Broca's area)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 NEET-PG (Brodmann 22 — receptive aphasia), 2020 NEET-PG (Broca's area)"
+    }
+  },
+  {
+    "id": "anat_q_61",
+    "questionNumber": 61,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "Brodmann areas 44 and 45 correspond to which parts of the inferior frontal gyrus?",
+    "options": [
+      "Pars orbitalis and pars triangularis",
+      "Pars orbitalis and pars opercularis",
+      "Pars opercularis and pars triangularis",
+      "The precentral gyrus and pars opercularis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Area 44 is the pars opercularis and area 45 the pars triangularis; together they form Broca's area in the dominant hemisphere. It is supplied by the superior division of the MCA.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (Broca's area — inferior frontal gyrus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (Broca's area — inferior frontal gyrus)"
+    }
+  },
+  {
+    "id": "anat_q_62",
+    "questionNumber": 62,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A patient has a sudden severe headache with ptosis, a dilated pupil and an eye deviated down and out. The aneurysm most likely arises from the",
+    "options": [
+      "Anterior communicating artery",
+      "Middle cerebral artery bifurcation",
+      "Basilar tip",
+      "Posterior communicating artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The III nerve runs right next to the PComm. Compression affects the superficial pupillomotor fibres first, giving a pupil-involving palsy. An anterior communicating aneurysm instead tends to compress the optic chiasma.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (AComm aneurysm and chiasma), 2024 INI-CET (3rd nerve palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2022 NEET-PG (AComm aneurysm and chiasma), 2024 INI-CET (3rd nerve palsy)"
+    }
+  },
+  {
+    "id": "anat_q_63",
+    "questionNumber": 63,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "A temporal lobe tumour damaging Meyer's loop produces",
+    "options": [
+      "Contralateral inferior quadrantanopia",
+      "Contralateral superior quadrantanopia",
+      "Bitemporal hemianopia",
+      "Ipsilateral monocular blindness"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Meyer's loop carries fibres from the inferior retina (upper visual field) round the temporal horn (\"pie in the sky\"). Parietal radiation fibres carry the lower field.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (inferior horn relations), 2022 NEET-PG (optic chiasma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2023 INI-CET (inferior horn relations), 2022 NEET-PG (optic chiasma)"
+    }
+  },
+  {
+    "id": "anat_q_64",
+    "questionNumber": 64,
+    "subject": "Anatomy",
+    "subTopic": "Neuroanatomy",
+    "sub_topic": "Neuroanatomy",
+    "stem": "The only cranial nerve to emerge from the dorsal surface of the brainstem is the",
+    "options": [
+      "Abducent nerve",
+      "Trochlear nerve",
+      "Oculomotor nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It emerges just below the inferior colliculus, after decussating in the superior medullary velum. The abducent nerve emerges at the medial end of the pontomedullary junction; the oculomotor nerve emerges from the interpeduncular fossa.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (image — nerve at medial pontomedullary junction), 2021 INI-CET (nerve to superior oblique)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuroanatomy",
+      "basedOn": "2020 INI-CET (image — nerve at medial pontomedullary junction), 2021 INI-CET (nerve to superior oblique)"
+    }
+  },
+  {
+    "id": "anat_q_65",
+    "questionNumber": 65,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The posterior boundary of the epiploic foramen (foramen of Winslow) is formed by the",
+    "options": [
+      "Inferior vena cava",
+      "Portal vein",
+      "Caudate process of the liver",
+      "First part of the duodenum"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Anterior: free border of the lesser omentum. Superior: caudate process. Inferior: first part of the duodenum. Posterior: IVC (with the right crus). The foramen lies at about T12.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (superior boundary), 2021 INI-CET (vertebral level)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 INI-CET (superior boundary), 2021 INI-CET (vertebral level)"
+    }
+  },
+  {
+    "id": "anat_q_66",
+    "questionNumber": 66,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "During a Pringle manoeuvre the surgeon compresses the free border of the lesser omentum. The structure lying most posteriorly in this border is the",
+    "options": [
+      "Portal vein",
+      "Common bile duct",
+      "Proper hepatic artery",
+      "Right gastric artery"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In the hepatoduodenal ligament, the bile duct lies anterior and to the right, the hepatic artery anterior and to the left, and the portal vein behind both.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2021 INI-CET (epiploic foramen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 INI-CET / 2021 INI-CET (epiploic foramen)"
+    }
+  },
+  {
+    "id": "anat_q_67",
+    "questionNumber": 67,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The structure most consistently found within the hepatobiliary (Calot's) triangle is the",
+    "options": [
+      "Common bile duct",
+      "Cystic artery",
+      "Right hepatic duct",
+      "Portal vein"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Boundaries: common hepatic duct (medial), cystic duct (lateral), inferior surface of the liver (above). It contains the cystic artery and the cystic lymph node of Lund (Mascagni), and often the right hepatic artery.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (boundary of Calot's triangle — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (boundary of Calot's triangle — 3X)"
+    }
+  },
+  {
+    "id": "anat_q_68",
+    "questionNumber": 68,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Which Couinaud segment drains directly into the IVC through its own small veins and receives portal blood from both right and left branches?",
+    "options": [
+      "Segment IV",
+      "Segment VIII",
+      "Segment I",
+      "Segment II"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The caudate lobe is functionally independent of both hemilivers. It is often spared or enlarged in Budd–Chiari syndrome because its outflow bypasses the main hepatic veins.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (structure dividing liver into Couinaud segments)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2024 INI-CET (structure dividing liver into Couinaud segments)"
+    }
+  },
+  {
+    "id": "anat_q_69",
+    "questionNumber": 69,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Match each portosystemic anastomosis site with the veins forming it.\n\n| Site | Veins |\n|---|---|\n| 1. Lower oesophagus | a. Superior rectal with middle and inferior rectal |\n| 2. Umbilicus | b. Colic veins with lumbar veins (veins of Retzius) |\n| 3. Anal canal | c. Left gastric with oesophageal tributaries of azygos |\n| 4. Retroperitoneum | d. Paraumbilical with superficial epigastric |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "These give oesophageal varices, caput medusae, anorectal varices and retroperitoneal collaterals respectively.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (anastomosis in oesophageal varices)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2022 NEET-PG (anastomosis in oesophageal varices)"
+    }
+  },
+  {
+    "id": "anat_q_70",
+    "questionNumber": 70,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Which structure is in direct contact with the anterior surface of the RIGHT kidney, with no peritoneum in between?",
+    "options": [
+      "Right lobe of the liver",
+      "Second part of the duodenum",
+      "Gallbladder",
+      "Jejunum"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The descending duodenum and the hepatic flexure of the colon touch the right kidney directly. The liver is separated from it by the peritoneum of the hepatorenal pouch (Morison's pouch).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (viscera related to anterior surface of left kidney)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2024 INI-CET (viscera related to anterior surface of left kidney)"
+    }
+  },
+  {
+    "id": "anat_q_71",
+    "questionNumber": 71,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The most hazardous step in a right adrenalectomy is control of the right adrenal vein, because it",
+    "options": [
+      "Drains into the right renal vein after a long course",
+      "Is short and drains directly into the IVC",
+      "Passes behind the right crus of the diaphragm",
+      "Joins the inferior phrenic vein"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The right adrenal vein is very short and enters the back of the IVC. The left adrenal vein is longer and drains into the left renal vein. The right gland is triangular (pyramidal); the left is semilunar.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (right adrenal shape; left inferior phrenic vein drainage)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2022 INI-CET (right adrenal shape; left inferior phrenic vein drainage)"
+    }
+  },
+  {
+    "id": "anat_q_72",
+    "questionNumber": 72,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Chromaffin cells of the adrenal medulla are innervated by",
+    "options": [
+      "Postganglionic sympathetic fibres from the coeliac ganglion",
+      "Vagal parasympathetic fibres",
+      "Preganglionic sympathetic fibres that do not synapse in any ganglion",
+      "Postganglionic fibres from the superior cervical ganglion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Chromaffin cells are modified postganglionic neurons (neural crest), so they receive preganglionic splanchnic fibres directly. Those fibres pass through the sympathetic chain and coeliac plexus without relaying.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (preganglionic fibres to adrenals — T/F), 2021 INI-CET (adrenal zones)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2018 AIIMS (preganglionic fibres to adrenals — T/F), 2021 INI-CET (adrenal zones)"
+    }
+  },
+  {
+    "id": "anat_q_73",
+    "questionNumber": 73,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Match each wall of the inguinal canal with the structure forming it.\n\n| Wall | Structure |\n|---|---|\n| 1. Anterior wall | a. Fascia transversalis and conjoint tendon |\n| 2. Posterior wall | b. Inguinal ligament with lacunar ligament |\n| 3. Roof | c. Aponeurosis of external oblique |\n| 4. Floor | d. Arching fibres of internal oblique and transversus abdominis |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The deep ring is an opening in the fascia transversalis; the superficial ring is an opening in the external oblique aponeurosis. The lateral part of the anterior wall is reinforced by internal oblique.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (roof of inguinal canal — T/F), 2021 NEET-PG (deep inguinal ring)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2021 INI-CET (roof of inguinal canal — T/F), 2021 NEET-PG (deep inguinal ring)"
+    }
+  },
+  {
+    "id": "anat_q_74",
+    "questionNumber": 74,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The lateral boundary of Hesselbach's (inguinal) triangle is formed by the",
+    "options": [
+      "Inguinal ligament",
+      "Lateral border of rectus abdominis",
+      "Inferior epigastric vessels",
+      "Deep inguinal ring"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Direct hernias come through this triangle, medial to the inferior epigastric vessels. Indirect hernias enter the deep ring, lateral to them. Indirect inguinal hernia is the commonest hernia even in females.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (commonest hernia in female), 2021 NEET-PG (deep ring)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2021 INI-CET (commonest hernia in female), 2021 NEET-PG (deep ring)"
+    }
+  },
+  {
+    "id": "anat_q_75",
+    "questionNumber": 75,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "For a transvaginal pudendal nerve block, the needle tip is guided towards the",
+    "options": [
+      "Ischial spine",
+      "Ischial tuberosity",
+      "Tip of the coccyx",
+      "Sacral promontory"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The pudendal nerve crosses the back of the sacrospinous ligament near its attachment to the ischial spine, as it passes from the greater to the lesser sciatic foramen.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ischial spine crossed by …)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 INI-CET (ischial spine crossed by …)"
+    }
+  },
+  {
+    "id": "anat_q_76",
+    "questionNumber": 76,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Which part of the levator ani forms a U-shaped sling around the anorectal junction and maintains the anorectal angle?",
+    "options": [
+      "Pubococcygeus",
+      "Iliococcygeus",
+      "Puborectalis",
+      "Ischiococcygeus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It pulls the anorectal junction forward, which is essential for faecal continence. Pubococcygeus damage in childbirth contributes to cystocele, rectocele and stress incontinence.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pelvic diaphragm — levator ani), 2014 AIIMS (pubococcygeus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2024 INI-CET (pelvic diaphragm — levator ani), 2014 AIIMS (pubococcygeus)"
+    }
+  },
+  {
+    "id": "anat_q_77",
+    "questionNumber": 77,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "All of the following are branches of the anterior division of the internal iliac artery EXCEPT",
+    "options": [
+      "Obturator artery",
+      "Inferior gluteal artery",
+      "Internal pudendal artery",
+      "Iliolumbar artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The posterior division gives only the iliolumbar, lateral sacral and superior gluteal arteries. All the visceral and other parietal branches come from the anterior division.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (branches of posterior division)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 INI-CET (branches of posterior division)"
+    }
+  },
+  {
+    "id": "anat_q_78",
+    "questionNumber": 78,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "A patient with appendicitis has right iliac pain on passive extension of the right hip (positive psoas sign). The appendix is most likely",
+    "options": [
+      "Pelvic",
+      "Retrocaecal",
+      "Pre-ileal",
+      "Subcaecal"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A retrocaecal appendix lies on the psoas, which is stretched by hip extension. A pelvic appendix irritates obturator internus, giving pain on internal rotation of the flexed hip (obturator sign).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — positions of appendix)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2024 INI-CET (match — positions of appendix)"
+    }
+  },
+  {
+    "id": "anat_q_79",
+    "questionNumber": 79,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Match each vitello-intestinal duct anomaly with its result.\n\n| Anomaly | Result |\n|---|---|\n| 1. Entire duct remains patent | a. Vitelline cyst |\n| 2. Only the ileal end persists | b. Volvulus around a band |\n| 3. Both ends close, middle stays patent | c. Faecal discharge from the umbilicus |\n| 4. Duct persists as a fibrous cord | d. Meckel's diverticulum |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Meckel's diverticulum is on the antimesenteric border of the ileum, about 2 feet from the ileocaecal valve. It may bleed because of ectopic gastric mucosa.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (faeces from umbilicus), 2015 AIIMS (vitelline cyst), 2023 NEET-PG (Meckel's)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2022 NEET-PG (faeces from umbilicus), 2015 AIIMS (vitelline cyst), 2023 NEET-PG (Meckel's)"
+    }
+  },
+  {
+    "id": "anat_q_80",
+    "questionNumber": 80,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "In \"nutcracker syndrome\", the structure compressed between the superior mesenteric artery and the aorta is the",
+    "options": [
+      "Third part of the duodenum",
+      "Left renal vein",
+      "Left gonadal vein",
+      "Splenic vein"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It causes haematuria, flank pain and a left varicocele (the left gonadal vein drains into it). Compression of the third part of the duodenum in the same angle is SMA (Wilkie) syndrome.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (compression of 3rd part of duodenum)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2015 AIIMS (compression of 3rd part of duodenum)"
+    }
+  },
+  {
+    "id": "anat_q_81",
+    "questionNumber": 81,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The tail of the pancreas lies within which ligament?",
+    "options": [
+      "Gastrosplenic ligament",
+      "Phrenicocolic ligament",
+      "Splenorenal (lienorenal) ligament",
+      "Gastrocolic ligament"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It also carries the splenic vessels. The gastrosplenic ligament carries the short gastric and left gastro-omental vessels. The phrenicocolic ligament supports the lower pole of the spleen.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (dorsal mesentery derivatives), 2020 NEET-PG (phrenicocolic ligament)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (dorsal mesentery derivatives), 2020 NEET-PG (phrenicocolic ligament)"
+    }
+  },
+  {
+    "id": "anat_q_82",
+    "questionNumber": 82,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Which of the following develops from the ventral mesogastrium?",
+    "options": [
+      "Greater omentum",
+      "Gastrosplenic ligament",
+      "Splenorenal ligament",
+      "Lesser omentum"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The ventral mesogastrium forms the lesser omentum, falciform ligament, coronary and triangular ligaments (the liver grows into it). The dorsal mesogastrium forms the greater omentum and the gastrosplenic and splenorenal ligaments.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (falciform — ventral mesogastrium), 2018 NEET-PG (dorsal mesentery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2021 NEET-PG (falciform — ventral mesogastrium), 2018 NEET-PG (dorsal mesentery)"
+    }
+  },
+  {
+    "id": "anat_q_83",
+    "questionNumber": 83,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Renin-secreting juxtaglomerular cells are modified",
+    "options": [
+      "Smooth muscle cells of the afferent arteriole",
+      "Epithelial cells of the distal convoluted tubule",
+      "Mesangial cells",
+      "Podocytes"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The juxtaglomerular apparatus = JG cells + macula densa (modified DCT epithelium that senses NaCl) + extraglomerular mesangial (lacis) cells.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (glomerulus biopsy), 2019 NEET-PG (duct of Bellini)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2023 NEET-PG (glomerulus biopsy), 2019 NEET-PG (duct of Bellini)"
+    }
+  },
+  {
+    "id": "anat_q_84",
+    "questionNumber": 84,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "The trigone of the urinary bladder is developmentally derived from",
+    "options": [
+      "The endoderm of the urogenital sinus only",
+      "The incorporated ends of the mesonephric ducts",
+      "The paramesonephric ducts",
+      "The allantois"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Most of the bladder comes from the urogenital sinus, but the trigone forms when the mesonephric ducts are absorbed into its wall (mesoderm, later covered by endoderm). The allantois becomes the urachus.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (bladder from urogenital sinus), 2017 AIIMS (T/F — bladder and kidney origin), 2022 NEET-PG (allantois)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2020 NEET-PG (bladder from urogenital sinus), 2017 AIIMS (T/F — bladder and kidney origin), 2022 NEET-PG (allantois)"
+    }
+  },
+  {
+    "id": "anat_q_85",
+    "questionNumber": 85,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "Early appendicitis pain is felt around the umbilicus because visceral afferents from the appendix enter the spinal cord at",
+    "options": [
+      "T6",
+      "T8",
+      "L1",
+      "T10"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Midgut afferents travel with the lesser splanchnic nerve to T10, the dermatome of the umbilicus. Pain shifts to the right iliac fossa once the parietal peritoneum is involved.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (umbilicus — T10 dermatome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (umbilicus — T10 dermatome)"
+    }
+  },
+  {
+    "id": "anat_q_86",
+    "questionNumber": 86,
+    "subject": "Anatomy",
+    "subTopic": "Abdomen And Pelvis",
+    "sub_topic": "Abdomen And Pelvis",
+    "stem": "A woman has a cystocele and stress incontinence after a difficult vaginal delivery. The muscle whose damage is most responsible is",
+    "options": [
+      "Pubococcygeus",
+      "Iliococcygeus",
+      "Coccygeus",
+      "Obturator internus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Its medial fibres (pubovaginalis) support the bladder neck, vagina and perineal body. Their damage loosens support for the anterior and posterior vaginal walls.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (pubococcygeus — rectocele, cystocele), 2024 INI-CET (pelvic diaphragm)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abdomen And Pelvis",
+      "basedOn": "2014 AIIMS (pubococcygeus — rectocele, cystocele), 2024 INI-CET (pelvic diaphragm)"
+    }
+  },
+  {
+    "id": "anat_q_87",
+    "questionNumber": 87,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "An ulnar nerve lesion at the wrist produces MORE clawing of the ring and little fingers than a lesion at the elbow. The reason is that in a wrist lesion",
+    "options": [
+      "The lumbricals are spared",
+      "The ulnar half of flexor digitorum profundus is spared and flexes the IP joints unopposed",
+      "The extensor digitorum is paralysed",
+      "The flexor digitorum superficialis is paralysed"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is the \"ulnar paradox\". In a lesion at the elbow, FDP to the 4th and 5th fingers is also paralysed, so the DIP joints cannot flex and the claw is milder.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (level of ulnar injury — 4X), 2022 INI-CET (medial epicondyle fracture)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (level of ulnar injury — 4X), 2022 INI-CET (medial epicondyle fracture)"
+    }
+  },
+  {
+    "id": "anat_q_88",
+    "questionNumber": 88,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "When asked to grip a sheet of paper between the thumb and the side of the index finger, a patient flexes the thumb IP joint strongly. The muscle that is weak, and its nerve, are",
+    "options": [
+      "Adductor pollicis — ulnar nerve",
+      "Flexor pollicis longus — anterior interosseous nerve",
+      "Abductor pollicis brevis — median nerve",
+      "Extensor pollicis longus — radial nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is Froment's sign: the patient substitutes the median-supplied flexor pollicis longus for the paralysed adductor. The \"book test\" is the same idea.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (Book test — ulnar nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (Book test — ulnar nerve)"
+    }
+  },
+  {
+    "id": "anat_q_89",
+    "questionNumber": 89,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A long-distance cyclist has weakness of finger abduction and adduction but normal sensation over the little finger. The likely site of compression is the",
+    "options": [
+      "Ulnar nerve behind the medial epicondyle",
+      "Superficial branch of the ulnar nerve",
+      "Deep branch of the ulnar nerve",
+      "C8 nerve root"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In or just beyond Guyon's canal the ulnar nerve splits. The deep branch is purely motor (interossei, 3rd and 4th lumbricals, adductor pollicis, usually hypothenar muscles). The superficial branch carries the sensation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (structures through Guyon's canal), 2023 INI-CET (muscles supplied by ulnar nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (structures through Guyon's canal), 2023 INI-CET (muscles supplied by ulnar nerve)"
+    }
+  },
+  {
+    "id": "anat_q_90",
+    "questionNumber": 90,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "The ulnar nerve is cut at the wrist by broken glass. Sensation remains normal over which area that the ulnar nerve normally supplies?",
+    "options": [
+      "Palmar surface of the little finger",
+      "Palmar surface of the medial half of the ring finger",
+      "Pulp of the little finger",
+      "Dorsal surface of the medial hand"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The dorsal cutaneous branch leaves the ulnar nerve about 5 cm above the wrist, so a wrist laceration spares it.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (cutaneous supply of hand), 2024 INI-CET (Book test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2020 NEET-PG (cutaneous supply of hand), 2024 INI-CET (Book test)"
+    }
+  },
+  {
+    "id": "anat_q_91",
+    "questionNumber": 91,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A muscle arises from the flexor retinaculum, scaphoid and trapezium and inserts into the lateral side of the base of the proximal phalanx of the thumb. Its nerve supply is the",
+    "options": [
+      "Deep branch of the ulnar nerve",
+      "Recurrent (motor) branch of the median nerve",
+      "Anterior interosseous nerve",
+      "Superficial branch of the radial nerve"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The muscle is abductor pollicis brevis. Its paralysis is the earliest motor sign of carpal tunnel syndrome, and it is the muscle behind the \"can't button the shirt\" presentation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (image — opponens pollicis), 2023 NEET-PG (abductor pollicis brevis palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2022 INI-CET (image — opponens pollicis), 2023 NEET-PG (abductor pollicis brevis palsy)"
+    }
+  },
+  {
+    "id": "anat_q_92",
+    "questionNumber": 92,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Which structure does NOT pass through the carpal tunnel?",
+    "options": [
+      "Tendon of flexor pollicis longus",
+      "Median nerve",
+      "Tendons of flexor digitorum superficialis",
+      "Palmar cutaneous branch of the median nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It passes superficial to the flexor retinaculum, so sensation over the central palm and thenar skin is normal in carpal tunnel syndrome.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Guyon's canal), median nerve cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (Guyon's canal), median nerve cluster"
+    }
+  },
+  {
+    "id": "anat_q_93",
+    "questionNumber": 93,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "After a supracondylar fracture, a child cannot make the \"OK\" sign and pinches with flat pads of the thumb and index finger. Sensation over the hand is normal. The nerve injured is the",
+    "options": [
+      "Median nerve at the wrist",
+      "Ulnar nerve",
+      "Anterior interosseous nerve",
+      "Posterior interosseous nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It supplies flexor pollicis longus, the lateral half of flexor digitorum profundus and pronator quadratus. It has no skin territory, so sensation is normal.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (can't make O sign), 2014 AIIMS (muscles supplied by median nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2023 NEET-PG (can't make O sign), 2014 AIIMS (muscles supplied by median nerve)"
+    }
+  },
+  {
+    "id": "anat_q_94",
+    "questionNumber": 94,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A mid-shaft fracture of the humerus causes wrist drop, but the triceps is largely spared. The best explanation is that",
+    "options": [
+      "Triceps is supplied by the axillary nerve",
+      "Triceps is supplied by the musculocutaneous nerve",
+      "Branches to triceps leave the radial nerve proximal to the spiral groove",
+      "Triceps receives a direct branch from the C8 root"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Branches to the long and medial heads arise in the axilla, before the nerve enters the spiral groove. Extension of the elbow is therefore preserved.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (radial nerve injury near cubital fossa — wrist drop)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (radial nerve injury near cubital fossa — wrist drop)"
+    }
+  },
+  {
+    "id": "anat_q_95",
+    "questionNumber": 95,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A radial neck fracture damages the posterior interosseous nerve. The expected finding is",
+    "options": [
+      "Wrist drop with sensory loss in the first web space",
+      "Loss of supination and elbow flexion",
+      "Claw hand",
+      "Inability to extend the fingers and thumb, with the wrist still extending (radial deviation) and no sensory loss"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Extensor carpi radialis longus is supplied before the radial nerve divides, so the wrist can still extend, deviating radially. The PIN is purely motor.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (PIN injury — loss of finger extension)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2023 INI-CET (PIN injury — loss of finger extension)"
+    }
+  },
+  {
+    "id": "anat_q_96",
+    "questionNumber": 96,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Which finger has NO dorsal interosseous muscle attached to it?",
+    "options": [
+      "Index finger",
+      "Middle finger",
+      "Ring finger",
+      "Little finger"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Dorsal interossei abduct away from the axis of the middle finger: two attach to the middle finger, one each to the index and ring fingers. The thumb and little finger have their own abductors.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (finger with two dorsal interossei), 2024 INI-CET (dorsal digital expansion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (finger with two dorsal interossei), 2024 INI-CET (dorsal digital expansion)"
+    }
+  },
+  {
+    "id": "anat_q_97",
+    "questionNumber": 97,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "In a median nerve lesion at the wrist, which lumbricals are paralysed?",
+    "options": [
+      "1st and 2nd",
+      "3rd and 4th",
+      "1st only",
+      "All four"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The lateral two lumbricals (unipennate) are supplied by the median nerve; the medial two (bipennate) by the deep branch of the ulnar nerve. Lumbricals uniquely arise from the tendons of flexor digitorum profundus.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2018 AIIMS (nerve supply of 1st lumbrical)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2021 NEET-PG / 2018 AIIMS (nerve supply of 1st lumbrical)"
+    }
+  },
+  {
+    "id": "anat_q_98",
+    "questionNumber": 98,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Match each nerve with the part of the brachial plexus it arises from.\n\n| Nerve | Origin |\n|---|---|\n| 1. Long thoracic nerve | a. Posterior cord |\n| 2. Suprascapular nerve | b. Lateral cord |\n| 3. Lateral pectoral nerve | c. Roots (C5–C7) |\n| 4. Thoracodorsal nerve | d. Upper trunk |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The divisions give no branches. The dorsal scapular nerve (to levator scapulae and rhomboids) also arises from the roots (C5).",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (part of plexus without branches), 2016 AIIMS (root value of long thoracic), 2021 NEET-PG (dorsal scapular)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (part of plexus without branches), 2016 AIIMS (root value of long thoracic), 2021 NEET-PG (dorsal scapular)"
+    }
+  },
+  {
+    "id": "anat_q_99",
+    "questionNumber": 99,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "In Erb's palsy, which muscle is NOT paralysed?",
+    "options": [
+      "Deltoid",
+      "Flexor carpi ulnaris",
+      "Biceps brachii",
+      "Supraspinatus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Erb's palsy involves the upper trunk (C5, C6): deltoid, supraspinatus, infraspinatus, biceps, brachialis and brachioradialis. Flexor carpi ulnaris is C7, C8 and T1.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Erb's palsy — waiter's tip)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2017 AIIMS (Erb's palsy — waiter's tip)"
+    }
+  },
+  {
+    "id": "anat_q_100",
+    "questionNumber": 100,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A newborn with Klumpke's palsy also has ptosis and miosis on the same side. This additional finding means the injury is",
+    "options": [
+      "At the lower trunk, distal to its divisions",
+      "At the T1 root close to the spinal cord, involving the white ramus",
+      "At the medial cord",
+      "At the ulnar nerve in the arm"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Preganglionic sympathetic fibres to the head leave through the T1 ventral root and white ramus. Horner's syndrome with Klumpke's palsy suggests root avulsion, which carries a poorer prognosis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Klumpke's palsy — claw hand), 2023 NEET-PG (Horner's)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2023 INI-CET (Klumpke's palsy — claw hand), 2023 NEET-PG (Horner's)"
+    }
+  },
+  {
+    "id": "anat_q_101",
+    "questionNumber": 101,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "The axillary artery can be ligated with collateral flow kept through the scapular anastomosis if the ligature is placed",
+    "options": [
+      "Distal to the profunda brachii artery",
+      "Distal to the subscapular artery",
+      "Proximal to the subscapular artery",
+      "Distal to the posterior circumflex humeral artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The scapular anastomosis links the first part of the subclavian (suprascapular and dorsal scapular arteries) with the third part of the axillary (subscapular artery). The ligature must lie between the thyrocervical trunk and the subscapular artery.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (occlusion of 2nd part of axillary artery — anastomosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Upper Limb",
+      "basedOn": "2016 AIIMS (occlusion of 2nd part of axillary artery — anastomosis)"
+    }
+  },
+  {
+    "id": "anat_q_102",
+    "questionNumber": 102,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A fracture of the surgical neck of the humerus is most likely to injure",
+    "options": [
+      "The musculocutaneous nerve",
+      "The radial nerve with the profunda brachii artery",
+      "The axillary nerve with the posterior circumflex humeral artery",
+      "The suprascapular nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "They pass through the quadrangular space and wind round the surgical neck. Injury causes deltoid weakness and loss of sensation over the \"regimental badge\" area.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (posterior circumflex humeral in scapular anastomosis), 2015 AIIMS (rotator cuff)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2016 AIIMS (posterior circumflex humeral in scapular anastomosis), 2015 AIIMS (rotator cuff)"
+    }
+  },
+  {
+    "id": "anat_q_103",
+    "questionNumber": 103,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "A patient cannot start abducting the arm from the side, but once the arm is passively lifted to about 30° the patient can keep raising it. The muscle at fault is the",
+    "options": [
+      "Supraspinatus",
+      "Deltoid",
+      "Serratus anterior",
+      "Infraspinatus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Supraspinatus starts abduction (0–15°), deltoid continues it, and trapezius with serratus anterior rotate the scapula above 90°.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (muscles of overhead abduction), 2023 INI-CET (match — supraspinatus abduction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2021 INI-CET (muscles of overhead abduction), 2023 INI-CET (match — supraspinatus abduction)"
+    }
+  },
+  {
+    "id": "anat_q_104",
+    "questionNumber": 104,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "After a fracture through the waist of the scaphoid, the proximal fragment is at high risk of avascular necrosis because",
+    "options": [
+      "The scaphoid has no articular surfaces",
+      "Its blood supply enters mainly at the distal end and dorsal ridge",
+      "It is supplied only by the ulnar artery",
+      "It ossifies last among the carpal bones"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Branches of the radial artery enter distally and flow backwards (retrograde). A waist fracture cuts off the proximal pole.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (snuff box tenderness — scaphoid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2024 INI-CET (snuff box tenderness — scaphoid)"
+    }
+  },
+  {
+    "id": "anat_q_105",
+    "questionNumber": 105,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Which muscle is NOT attached to the coracoid process?",
+    "options": [
+      "Pectoralis minor",
+      "Coracobrachialis",
+      "Short head of biceps brachii",
+      "Long head of biceps brachii"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The long head arises from the supraglenoid tubercle, inside the shoulder joint. The coracoid can be felt in the infraclavicular fossa.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (part of scapula palpable in infraclavicular fossa), 2023 NEET-PG (pectoralis minor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2021 INI-CET (part of scapula palpable in infraclavicular fossa), 2023 NEET-PG (pectoralis minor)"
+    }
+  },
+  {
+    "id": "anat_q_106",
+    "questionNumber": 106,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Arrange the contents of the cubital fossa from medial to lateral.\n1. Biceps tendon\n2. Median nerve\n3. Radial nerve\n4. Brachial artery",
+    "options": [
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 4 → 1 → 3",
+      "3 → 1 → 4 → 2"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mnemonic \"MBBR\": Median nerve, Brachial artery, Biceps tendon, Radial nerve (deep, under brachioradialis).",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (radial nerve near cubital fossa), arrange-format trend 2021–2023",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2020 INI-CET (radial nerve near cubital fossa), arrange-format trend 2021–2023"
+    }
+  },
+  {
+    "id": "anat_q_107",
+    "questionNumber": 107,
+    "subject": "Anatomy",
+    "subTopic": "Upper Limb",
+    "sub_topic": "Upper Limb",
+    "stem": "Skin over the dorsum of the distal phalanx of the middle finger is supplied by the",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve",
+      "Median nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The palmar digital branches of the median nerve curl round to supply the dorsal skin of the distal phalanges (including the nail beds) of the lateral 3½ fingers. The radial nerve stops at about the proximal IP joint.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (nail of index finger — median), 2020 NEET-PG (radial nerve dorsal supply)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Upper Limb",
+      "basedOn": "2021 INI-CET (nail of index finger — median), 2020 NEET-PG (radial nerve dorsal supply)"
+    }
+  },
+  {
+    "id": "anat_q_108",
+    "questionNumber": 108,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A patient walks with a lurching gait. When standing on the LEFT leg, the RIGHT side of the pelvis drops. The nerve injured is the",
+    "options": [
+      "Left superior gluteal nerve",
+      "Right superior gluteal nerve",
+      "Left inferior gluteal nerve",
+      "Right femoral nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In a positive Trendelenburg sign, the stance-side hip abductors (gluteus medius and minimus) fail to hold the pelvis level, so the opposite side sags. The lesion is on the side of the supporting leg.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (right hip drops), 2021 INI-CET (Trendelenburg — abduction affected)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2020 INI-CET (right hip drops), 2021 INI-CET (Trendelenburg — abduction affected)"
+    }
+  },
+  {
+    "id": "anat_q_109",
+    "questionNumber": 109,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A muscle arises from the outer surface of the ilium between the anterior and inferior gluteal lines and inserts on the anterior surface of the greater trochanter. Its principal actions are",
+    "options": [
+      "Abduction and medial rotation of the hip",
+      "Extension and lateral rotation of the hip",
+      "Adduction of the hip",
+      "Flexion of the knee"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The muscle is gluteus minimus (superior gluteal nerve). Its anterior fibres make it a medial rotator, and during walking it keeps the pelvis level.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (action of gluteus minimus), 2021 INI-CET (superior gluteal nerve supplies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lower Limb",
+      "basedOn": "2023 INI-CET (action of gluteus minimus), 2021 INI-CET (superior gluteal nerve supplies)"
+    }
+  },
+  {
+    "id": "anat_q_110",
+    "questionNumber": 110,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A patient walks normally on level ground but has great difficulty climbing stairs and rising from a chair. The muscle that is weak, and its nerve, are most likely",
+    "options": [
+      "Gluteus medius — superior gluteal nerve",
+      "Iliopsoas — femoral nerve",
+      "Hamstrings — tibial nerve",
+      "Gluteus maximus — inferior gluteal nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Gluteus maximus is a powerful extensor of the hip that is not needed for quiet walking. It inserts into the iliotibial tract and the gluteal tuberosity.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (action of muscle on gluteal tuberosity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2023 INI-CET (action of muscle on gluteal tuberosity)"
+    }
+  },
+  {
+    "id": "anat_q_111",
+    "questionNumber": 111,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "After a tight below-knee plaster cast, a patient has foot drop, cannot evert the foot, and has numbness over the lateral leg and dorsum of the foot. Inversion by tibialis posterior is intact. The nerve injured is the",
+    "options": [
+      "Common peroneal (fibular) nerve",
+      "Sciatic nerve",
+      "Deep peroneal nerve",
+      "Tibial nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It winds superficially round the neck of the fibula, where casts and fractures compress it. Both of its branches are lost. Tibialis posterior (tibial nerve) is spared, which rules out a sciatic lesion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (nerve injured at proximal fibula), 2022 NEET-PG (neck of fibula)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2024 INI-CET (nerve injured at proximal fibula), 2022 NEET-PG (neck of fibula)"
+    }
+  },
+  {
+    "id": "anat_q_112",
+    "questionNumber": 112,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "In anterior compartment syndrome of the leg, the earliest sensory loss is in the",
+    "options": [
+      "Lateral side of the leg",
+      "Sole of the foot",
+      "Medial side of the foot",
+      "First dorsal web space"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The deep peroneal nerve runs inside the anterior compartment and its only skin territory is the first web space. Weakness of toe extension follows.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (compartment without neurovascular bundle), 2022 NEET-PG (failure of dorsiflexion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2024 INI-CET (compartment without neurovascular bundle), 2022 NEET-PG (failure of dorsiflexion)"
+    }
+  },
+  {
+    "id": "anat_q_113",
+    "questionNumber": 113,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A patient cannot evert the foot but dorsiflexion is normal. The nerve injured is the",
+    "options": [
+      "Superficial peroneal nerve",
+      "Deep peroneal nerve",
+      "Common peroneal nerve",
+      "Sural nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It supplies peroneus longus and brevis (the evertors) and most of the skin of the dorsum of the foot. Dorsiflexion is a deep peroneal (anterior compartment) function.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (evertors), 2022 INI-CET (superficial peroneal supplies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2024 INI-CET / 2014 AIIMS (evertors), 2022 INI-CET (superficial peroneal supplies)"
+    }
+  },
+  {
+    "id": "anat_q_114",
+    "questionNumber": 114,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "Match each compartment of the leg with its neurovascular content.\n\n| Compartment | Content |\n|---|---|\n| 1. Anterior | a. No neurovascular bundle |\n| 2. Lateral | b. Tibial nerve and posterior tibial artery |\n| 3. Deep posterior | c. Deep peroneal nerve and anterior tibial artery |\n| 4. Superficial posterior | d. Superficial peroneal nerve, no named artery |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The superficial posterior compartment (gastrocnemius, soleus, plantaris) has no main neurovascular bundle running through it. The lateral compartment's blood comes from perforating branches of the peroneal artery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (compartment without neurovascular bundle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (compartment without neurovascular bundle)"
+    }
+  },
+  {
+    "id": "anat_q_115",
+    "questionNumber": 115,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "Arrange the structures passing behind the medial malleolus from anterior to posterior.\n1. Tibial nerve\n2. Flexor digitorum longus\n3. Flexor hallucis longus\n4. Tibialis posterior\n5. Posterior tibial artery",
+    "options": [
+      "2 → 4 → 5 → 1 → 3",
+      "4 → 2 → 1 → 5 → 3",
+      "4 → 5 → 2 → 1 → 3",
+      "4 → 2 → 5 → 1 → 3"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "\"Tom, Dick, And Nervous Harry\": Tibialis posterior, flexor Digitorum longus, Artery (with veins), Nerve, flexor Hallucis longus.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (tendon behind medial malleolus — tibialis posterior)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2023 NEET-PG (tendon behind medial malleolus — tibialis posterior)"
+    }
+  },
+  {
+    "id": "anat_q_116",
+    "questionNumber": 116,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "After stripping of the great saphenous vein below the knee, a patient has numbness along the medial side of the leg and foot. The nerve injured is a branch of the",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Tibial nerve",
+      "Common peroneal nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The saphenous nerve, the longest cutaneous branch of the femoral nerve, runs with the great saphenous vein below the knee.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (saphenous nerve with GSV), 2022 INI-CET (nerve block for medial leg — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2020 NEET-PG (saphenous nerve with GSV), 2022 INI-CET (nerve block for medial leg — 3X)"
+    }
+  },
+  {
+    "id": "anat_q_117",
+    "questionNumber": 117,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A tuberculous abscess from the lumbar vertebrae presents as a swelling in the femoral triangle. The abscess tracks down within the sheath of the",
+    "options": [
+      "Quadratus lumborum",
+      "Iliacus only",
+      "Pectineus",
+      "Psoas major"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The psoas sheath runs from the lumbar vertebrae to the lesser trochanter, behind the inguinal ligament. The femoral nerve runs in the groove between psoas and iliacus.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (vertebral abscess spreads to thigh along femoral nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2018 AIIMS (vertebral abscess spreads to thigh along femoral nerve)"
+    }
+  },
+  {
+    "id": "anat_q_118",
+    "questionNumber": 118,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A muscle arises from the anterior superior iliac spine, crosses the thigh obliquely and inserts on the upper medial surface of the tibia. Its nerve supply is the",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Tibial nerve",
+      "Superior gluteal nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The muscle is sartorius. It flexes, abducts and laterally rotates the hip and flexes the knee (the \"tailor's\" posture).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (muscle causing flexion, lateral rotation, abduction at hip)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2022 INI-CET (muscle causing flexion, lateral rotation, abduction at hip)"
+    }
+  },
+  {
+    "id": "anat_q_119",
+    "questionNumber": 119,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "The tendons forming the pes anserinus are supplied by three different nerves. Which combination is correct?",
+    "options": [
+      "Femoral, obturator, common peroneal",
+      "Femoral, femoral, tibial",
+      "Obturator, obturator, tibial",
+      "Femoral, obturator, tibial"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sartorius (femoral), gracilis (obturator) and semitendinosus (tibial part of the sciatic nerve) insert together on the upper medial tibia. They represent the three compartments of the thigh.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (sartorius), 2020 NEET-PG (hybrid muscle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Lower Limb",
+      "basedOn": "2022 INI-CET (sartorius), 2020 NEET-PG (hybrid muscle)"
+    }
+  },
+  {
+    "id": "anat_q_120",
+    "questionNumber": 120,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "Which thigh muscle commonly receives a dual nerve supply from the femoral and obturator nerves?",
+    "options": [
+      "Pectineus",
+      "Adductor magnus",
+      "Biceps femoris",
+      "Adductor longus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Adductor magnus is the other hybrid, but its two parts are supplied by the obturator nerve and the tibial part of the sciatic nerve. Biceps femoris is a hybrid of the tibial and common peroneal parts.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (hybrid muscle partly spared in sciatica)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lower Limb",
+      "basedOn": "2020 NEET-PG (hybrid muscle partly spared in sciatica)"
+    }
+  },
+  {
+    "id": "anat_q_121",
+    "questionNumber": 121,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "A footballer has a positive posterior drawer test. The torn ligament is attached to the femur at the",
+    "options": [
+      "Medial surface of the lateral femoral condyle",
+      "Lateral surface of the medial femoral condyle",
+      "Anterior intercondylar area",
+      "Medial epicondyle"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The posterior cruciate ligament runs from the posterior intercondylar area of the tibia upwards, forwards and medially. It is intracapsular but extrasynovial and stops the tibia sliding backwards. The ACL attaches to the medial surface of the lateral condyle.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (posterior cruciate ligament)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2017 AIIMS (posterior cruciate ligament)"
+    }
+  },
+  {
+    "id": "anat_q_122",
+    "questionNumber": 122,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "The muscle that \"unlocks\" the fully extended knee does so by",
+    "options": [
+      "Medially rotating the femur on the tibia — supplied by the femoral nerve",
+      "Extending the knee — supplied by the tibial nerve",
+      "Laterally rotating the femur on the fixed tibia — supplied by the tibial nerve",
+      "Laterally rotating the tibia — supplied by the common peroneal nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Popliteus reverses the medial rotation of the femur that locks the knee at full extension. Its tendon lies inside the joint capsule and is attached to the lateral meniscus.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (knee ligaments), 2020 INI-CET (lower limb muscle actions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2017 AIIMS (knee ligaments), 2020 INI-CET (lower limb muscle actions)"
+    }
+  },
+  {
+    "id": "anat_q_123",
+    "questionNumber": 123,
+    "subject": "Anatomy",
+    "subTopic": "Lower Limb",
+    "sub_topic": "Lower Limb",
+    "stem": "Which intrinsic muscle of the sole is supplied by the medial plantar nerve?",
+    "options": [
+      "Abductor hallucis",
+      "Adductor hallucis",
+      "First dorsal interosseous",
+      "Abductor digiti minimi"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The medial plantar nerve supplies only \"LAFF\": 1st Lumbrical, Abductor hallucis, Flexor digitorum brevis, Flexor hallucis brevis. All other intrinsic muscles, including every interosseous, are lateral plantar.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (lateral plantar nerve supplies 1st interossei)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lower Limb",
+      "basedOn": "2020 INI-CET (lateral plantar nerve supplies 1st interossei)"
+    }
+  },
+  {
+    "id": "anat_q_124",
+    "questionNumber": 124,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "A patient with an acute inferior wall myocardial infarction develops complete heart block. The artery most likely occluded is the",
+    "options": [
+      "Right coronary artery",
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Diagonal branch"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In most people (right-dominant circulation), the RCA supplies the inferior wall and gives the AV nodal artery from the crux of the heart.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2014 AIIMS (blood supply of AV node — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2018 NEET-PG / 2014 AIIMS (blood supply of AV node — 3X)"
+    }
+  },
+  {
+    "id": "anat_q_125",
+    "questionNumber": 125,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "The sinoatrial nodal artery most commonly arises from the",
+    "options": [
+      "Left anterior descending artery",
+      "Left main coronary artery",
+      "Left circumflex artery",
+      "Right coronary artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It comes from the RCA in about 60% of hearts and from the circumflex in about 40%. Coronary dominance is defined by which artery gives the posterior interventricular artery.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (AV node supply and dominance), 2020 NEET-PG (origin of RCA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2018 NEET-PG (AV node supply and dominance), 2020 NEET-PG (origin of RCA)"
+    }
+  },
+  {
+    "id": "anat_q_126",
+    "questionNumber": 126,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "A \"third coronary artery\", arising separately from the right aortic sinus and supplying the right ventricular outflow tract, is the",
+    "options": [
+      "Conus artery",
+      "Acute marginal artery",
+      "Sinoatrial nodal artery",
+      "Diagonal artery"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Normally the first branch of the RCA, it has a separate ostium in a large minority of hearts. It forms the Vieussens' ring anastomosis with the LAD.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (supply of right ventricular outflow tract — conus artery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Thorax",
+      "basedOn": "2021 INI-CET (supply of right ventricular outflow tract — conus artery)"
+    }
+  },
+  {
+    "id": "anat_q_127",
+    "questionNumber": 127,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "At the hilum of the LEFT lung, the uppermost structure is the",
+    "options": [
+      "Principal bronchus",
+      "Superior pulmonary vein",
+      "Bronchial artery",
+      "Pulmonary artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "On the right, the eparterial (upper lobe) bronchus lies above the pulmonary artery. On both sides, the pulmonary veins are the most anterior and lowest structures.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (arrange hilum structures anterior to posterior)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2022 INI-CET (arrange hilum structures anterior to posterior)"
+    }
+  },
+  {
+    "id": "anat_q_128",
+    "questionNumber": 128,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "During a segmentectomy, the surgeon follows which structures to find the plane between bronchopulmonary segments?",
+    "options": [
+      "Tributaries of the pulmonary veins",
+      "Segmental bronchi",
+      "Segmental branches of the pulmonary artery",
+      "Bronchial arteries"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Each segment has a central (segmental) bronchus and artery. The veins run between segments and drain neighbouring segments.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (structure running between bronchopulmonary segments)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2015 AIIMS (structure running between bronchopulmonary segments)"
+    }
+  },
+  {
+    "id": "anat_q_129",
+    "questionNumber": 129,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "An unconscious patient lying supine aspirates gastric contents. The segment most likely to be affected is the",
+    "options": [
+      "Medial basal segment of the right lower lobe",
+      "Superior (apical) segment of the right lower lobe",
+      "Lingula",
+      "Anterior segment of the right upper lobe"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Its bronchus is the first posterior branch below the hilum and points directly backwards, which is the lowest point when supine. The right main bronchus is wider, shorter and more vertical.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hilum), 2015 AIIMS (bronchopulmonary segments)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2022 INI-CET (hilum), 2015 AIIMS (bronchopulmonary segments)"
+    }
+  },
+  {
+    "id": "anat_q_130",
+    "questionNumber": 130,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "Match each diaphragmatic opening with its vertebral level and content.\n\n| Opening | Level and content |\n|---|---|\n| 1. Caval opening | a. T12 — aorta, thoracic duct, azygos vein |\n| 2. Oesophageal opening | b. Behind the medial arcuate ligament — sympathetic trunk |\n| 3. Aortic opening | c. T8 — IVC, branches of right phrenic nerve |\n| 4. Medial arcuate ligament | d. T10 — oesophagus, vagal trunks |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The caval opening is in the central tendon (it widens during inspiration); the oesophageal opening is in the right crus; the aortic opening lies behind the median arcuate ligament.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2016 AIIMS (structures through aortic aperture — 4X), 2014 AIIMS (central tendon — IVC)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2018 NEET-PG / 2016 AIIMS (structures through aortic aperture — 4X), 2014 AIIMS (central tendon — IVC)"
+    }
+  },
+  {
+    "id": "anat_q_131",
+    "questionNumber": 131,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "Match each aortic arch artery with its adult derivative.\n\n| Arch artery | Derivative |\n|---|---|\n| 1. Third arch | a. Ductus arteriosus |\n| 2. Right fourth arch | b. Maxillary artery |\n| 3. Left sixth arch (distal part) | c. Common carotid and proximal internal carotid artery |\n| 4. First arch | d. Proximal part of the right subclavian artery |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The left 4th arch forms part of the arch of the aorta. On the right, the distal 6th arch disappears, so the right recurrent laryngeal nerve hooks round the subclavian. On the left, the nerve hooks round the ligamentum arteriosum.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (4th arch), 2022 NEET-PG (long course of left RLN), 2023 NEET-PG (PDA — left 6th arch)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2017 AIIMS (4th arch), 2022 NEET-PG (long course of left RLN), 2023 NEET-PG (PDA — left 6th arch)"
+    }
+  },
+  {
+    "id": "anat_q_132",
+    "questionNumber": 132,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "A \"non-recurrent\" right inferior laryngeal nerve, which enters the larynx directly from the vagus in the neck, is associated with",
+    "options": [
+      "Right-sided aortic arch",
+      "Patent ductus arteriosus",
+      "Aberrant right subclavian artery (arteria lusoria)",
+      "Coarctation of the aorta"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "When the right 4th arch regresses, the right subclavian arises from the descending aorta. There is then no vessel for the nerve to hook round, which is a known hazard in thyroid surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (RLN course — 6th arch), 2022 INI-CET (nerves at risk in thyroid surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thorax",
+      "basedOn": "2022 NEET-PG (RLN course — 6th arch), 2022 INI-CET (nerves at risk in thyroid surgery)"
+    }
+  },
+  {
+    "id": "anat_q_133",
+    "questionNumber": 133,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "A persistent left superior vena cava most commonly drains into the",
+    "options": [
+      "Left atrium",
+      "Coronary sinus",
+      "Inferior vena cava",
+      "Left brachiocephalic vein"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is the persisting left anterior cardinal vein (and common cardinal vein), which normally becomes the oblique vein of the left atrium and the coronary sinus. On echo it gives a dilated coronary sinus.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (azygos from supracardinal), 2015 AIIMS (IVC from vitelline), 2021 INI-CET (left superior intercostal vein)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thorax",
+      "basedOn": "2020 INI-CET (azygos from supracardinal), 2015 AIIMS (IVC from vitelline), 2021 INI-CET (left superior intercostal vein)"
+    }
+  },
+  {
+    "id": "anat_q_134",
+    "questionNumber": 134,
+    "subject": "Anatomy",
+    "subTopic": "Thorax",
+    "sub_topic": "Thorax",
+    "stem": "The raised margin (limbus) of the fossa ovalis is derived from the",
+    "options": [
+      "Septum secundum",
+      "Septum primum",
+      "Endocardial cushions",
+      "Left valve of the sinus venosus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The floor of the fossa ovalis is the septum primum (the valve of the foramen ovale). The free edge of the septum secundum forms the limbus.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (fossa ovalis develops from septum primum), 2018 AIIMS (Chiari network — sinus venosus valve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thorax",
+      "basedOn": "2015 AIIMS (fossa ovalis develops from septum primum), 2018 AIIMS (Chiari network — sinus venosus valve)"
+    }
+  },
+  {
+    "id": "anat_q_135",
+    "questionNumber": 135,
+    "subject": "Anatomy",
+    "subTopic": "General Anatomy",
+    "sub_topic": "General Anatomy",
+    "stem": "Match each joint with its type.\n\n| Joint | Type |\n|---|---|\n| 1. Pubic symphysis | a. Primary cartilaginous (synchondrosis) |\n| 2. First sternocostal joint | b. Secondary cartilaginous (symphysis) |\n| 3. Inferior tibiofibular joint | c. Pivot (synovial) |\n| 4. Median atlanto-axial joint | d. Syndesmosis |",
+    "options": [
+      "1-b, 2-a, 3-c, 4-d",
+      "1-a, 2-b, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Symphyses (pubic symphysis, intervertebral discs, manubriosternal joint) lie in the midline and are permanent. The median atlanto-axial joint performs head rotation (\"no\" movement).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (joints of vertebral column — 4X), 2021 INI-CET (middle radioulnar — syndesmosis), 2021 NEET-PG (atlanto-axial)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Anatomy",
+      "basedOn": "2023 INI-CET (joints of vertebral column — 4X), 2021 INI-CET (middle radioulnar — syndesmosis), 2021 NEET-PG (atlanto-axial)"
+    }
+  },
+  {
+    "id": "anat_q_136",
+    "questionNumber": 136,
+    "subject": "Anatomy",
+    "subTopic": "General Anatomy",
+    "sub_topic": "General Anatomy",
+    "stem": "Which of the following is a saddle (sellar) joint?",
+    "options": [
+      "Atlanto-occipital joint",
+      "Radiocarpal joint",
+      "Superior radioulnar joint",
+      "First carpometacarpal joint"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Other saddle joints: the sternoclavicular, incudomalleolar and calcaneocuboid joints. The atlanto-occipital and radiocarpal joints are ellipsoid; the superior radioulnar joint is a pivot.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (incudomalleolar — saddle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Anatomy",
+      "basedOn": "2020 INI-CET (incudomalleolar — saddle)"
+    }
+  },
+  {
+    "id": "anat_q_137",
+    "questionNumber": 137,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Arrange the zones of the epiphyseal growth plate from the epiphyseal side towards the diaphysis.\n1. Zone of hypertrophy\n2. Zone of proliferation\n3. Zone of ossification\n4. Reserve (resting) zone\n5. Zone of calcification",
+    "options": [
+      "4 → 2 → 1 → 5 → 3",
+      "4 → 1 → 2 → 5 → 3",
+      "2 → 4 → 1 → 5 → 3",
+      "4 → 2 → 5 → 1 → 3"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Achondroplasia mainly affects the proliferative zone; rickets disturbs calcification. Fractures through the plate disturb longitudinal growth.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (zone undergoing calcification), 2023 NEET-PG (fracture affecting longitudinal growth)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2024 INI-CET (zone undergoing calcification), 2023 NEET-PG (fracture affecting longitudinal growth)"
+    }
+  },
+  {
+    "id": "anat_q_138",
+    "questionNumber": 138,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Match each collagen type with its main location.\n\n| Collagen | Location |\n|---|---|\n| 1. Type I | a. Basement membrane (lamina densa) |\n| 2. Type II | b. Reticular fibres of lymph nodes and blood vessels |\n| 3. Type III | c. Bone, tendon and dermis |\n| 4. Type IV | d. Hyaline cartilage and vitreous body |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mnemonic \"SCAB\" for types I–IV: Skeleton, Cartilage, Arteries, Basement membrane.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2017 AIIMS (type II — cartilage), 2015 AIIMS (type IV — basement membrane)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2021 INI-CET / 2017 AIIMS (type II — cartilage), 2015 AIIMS (type IV — basement membrane)"
+    }
+  },
+  {
+    "id": "anat_q_139",
+    "questionNumber": 139,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Elastic cartilage is found in the",
+    "options": [
+      "Thyroid cartilage",
+      "Intervertebral disc",
+      "Articular surface of the knee",
+      "Epiglottis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Elastic cartilage is found in the auricle, external acoustic meatus, auditory tube, epiglottis and the corniculate and cuneiform cartilages. The thyroid cartilage is hyaline (it may calcify); the disc is fibrocartilage.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (fibrocartilage), 2022 INI-CET (ligamentum flavum — elastin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2019 NEET-PG (fibrocartilage), 2022 INI-CET (ligamentum flavum — elastin)"
+    }
+  },
+  {
+    "id": "anat_q_140",
+    "questionNumber": 140,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "The ceruminous glands of the external acoustic meatus are modified",
+    "options": [
+      "Sebaceous glands",
+      "Eccrine sweat glands",
+      "Mucous glands",
+      "Apocrine sweat glands"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The glands of Moll (eyelid) and the mammary gland are also modified apocrine glands. Sebaceous glands are holocrine; eccrine sweat glands are merocrine.",
+    "tag": "INI-CET",
+    "exam": "gland-type rotation — 2015 AIIMS (holocrine) → 2020 INI-CET (merocrine) → 2024 INI-CET (apocrine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "gland-type rotation — 2015 AIIMS (holocrine) → 2020 INI-CET (merocrine) → 2024 INI-CET (apocrine)"
+    }
+  },
+  {
+    "id": "anat_q_141",
+    "questionNumber": 141,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Which site in the larynx is lined by non-keratinised stratified squamous epithelium?",
+    "options": [
+      "Ventricular (vestibular) folds",
+      "Subglottic trachea",
+      "True vocal cords",
+      "Laryngeal ventricle"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "They withstand mechanical friction and have no submucosal glands or lymphatics in Reinke's space. The rest of the larynx below the inlet is lined by respiratory (pseudostratified ciliated columnar) epithelium.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (epithelium of hard palate), 2020 INI-CET (transitional epithelium sites)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2019 NEET-PG (epithelium of hard palate), 2020 INI-CET (transitional epithelium sites)"
+    }
+  },
+  {
+    "id": "anat_q_142",
+    "questionNumber": 142,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Club (Clara) cells, which secrete surfactant-like proteins and act as stem cells, are characteristically found in the",
+    "options": [
+      "Bronchioles",
+      "Trachea",
+      "Principal bronchi",
+      "Alveolar walls"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "As the airway narrows, cartilage and goblet cells disappear, and club cells increase in the terminal and respiratory bronchioles. Alveoli open from the walls of the respiratory bronchioles.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (respiratory bronchiole — outpouchings without cartilage)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2024 INI-CET (respiratory bronchiole — outpouchings without cartilage)"
+    }
+  },
+  {
+    "id": "anat_q_143",
+    "questionNumber": 143,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "In bullous pemphigoid, the autoantibodies are directed against which cell junction?",
+    "options": [
+      "Desmosomes",
+      "Tight junctions",
+      "Gap junctions",
+      "Hemidesmosomes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hemidesmosomes anchor basal keratinocytes to the basement membrane, so the blister forms beneath the epidermis. Pemphigus vulgaris targets desmosomes (desmoglein), causing a split within the epidermis.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (desmosome — button-like plaque), 2016 AIIMS (junctions in intercalated discs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2014 AIIMS (desmosome — button-like plaque), 2016 AIIMS (junctions in intercalated discs)"
+    }
+  },
+  {
+    "id": "anat_q_144",
+    "questionNumber": 144,
+    "subject": "Anatomy",
+    "subTopic": "General Embryology",
+    "sub_topic": "General Embryology",
+    "stem": "Arrange these events of oogenesis in chronological order.\n1. Extrusion of the first polar body\n2. Primary oocyte arrested in diplotene of prophase I\n3. Extrusion of the second polar body\n4. Secondary oocyte arrested in metaphase II",
+    "options": [
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 1 → 3",
+      "1 → 2 → 4 → 3",
+      "2 → 1 → 3 → 4"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The diplotene arrest lasts from fetal life until just before ovulation. Meiosis I then completes (first polar body) and the cell is ovulated arrested at metaphase II. Meiosis II completes only after fertilisation (second polar body).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (oocyte arrested in diplotene at birth), 2020 NEET-PG (post-ovulation oocyte)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Embryology",
+      "basedOn": "2023 INI-CET (oocyte arrested in diplotene at birth), 2020 NEET-PG (post-ovulation oocyte)"
+    }
+  },
+  {
+    "id": "anat_q_145",
+    "questionNumber": 145,
+    "subject": "Anatomy",
+    "subTopic": "General Embryology",
+    "sub_topic": "General Embryology",
+    "stem": "The acrosomal cap of the spermatozoon is derived from the",
+    "options": [
+      "Mitochondria",
+      "Centrioles",
+      "Golgi apparatus",
+      "Nuclear envelope"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "During spermiogenesis the Golgi forms the acrosome, the centriole forms the axoneme of the tail, and mitochondria wrap round the middle piece.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mitochondria in middle piece), 2020 INI-CET (spermatogenesis sequence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Embryology",
+      "basedOn": "2022 INI-CET (mitochondria in middle piece), 2020 INI-CET (spermatogenesis sequence)"
+    }
+  },
+  {
+    "id": "anat_q_146",
+    "questionNumber": 146,
+    "subject": "Anatomy",
+    "subTopic": "General Embryology",
+    "sub_topic": "General Embryology",
+    "stem": "The remnant of the notochord in the adult is the",
+    "options": [
+      "Annulus fibrosus",
+      "Nucleus pulposus",
+      "Ligamentum flavum",
+      "Apical ligament of the dens only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The notochord forms from cells moving in through the primitive node. Elsewhere it regresses. Its remnants can give rise to a chordoma (typically at the clivus or sacrum).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sacrococcygeal teratoma — primitive streak), 2022 INI-CET (epiblast migration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Embryology",
+      "basedOn": "2024 INI-CET (sacrococcygeal teratoma — primitive streak), 2022 INI-CET (epiblast migration)"
+    }
+  },
+  {
+    "id": "anat_q_147",
+    "questionNumber": 147,
+    "subject": "Anatomy",
+    "subTopic": "General Embryology",
+    "sub_topic": "General Embryology",
+    "stem": "Which of the following is derived from paraxial mesoderm?",
+    "options": [
+      "Kidney",
+      "Spleen",
+      "Vertebrae",
+      "Heart"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Paraxial mesoderm forms somites, which become sclerotome (vertebrae and ribs), myotome (skeletal muscle) and dermatome (dermis of the back). The kidney is intermediate mesoderm; the spleen and heart are lateral plate (splanchnic) mesoderm.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (para-axial mesoderm gives rise to …)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Embryology",
+      "basedOn": "2021 INI-CET (para-axial mesoderm gives rise to …)"
+    }
+  },
+  {
+    "id": "anat_q_148",
+    "questionNumber": 148,
+    "subject": "Anatomy",
+    "subTopic": "General Embryology",
+    "sub_topic": "General Embryology",
+    "stem": "The anterior (cranial) neuropore normally closes at about",
+    "options": [
+      "Day 18",
+      "Day 25",
+      "Day 28",
+      "Day 35"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The posterior (caudal) neuropore closes at about day 28. Failure gives anencephaly (anterior) or spina bifida (posterior). The heart starts beating at about day 21–22.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2017 AIIMS (first heartbeat — 21–22 days), 2016 AIIMS (neuronal migration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Embryology",
+      "basedOn": "2023 NEET-PG / 2017 AIIMS (first heartbeat — 21–22 days), 2016 AIIMS (neuronal migration)"
+    }
+  },
+  {
+    "id": "anat_q_149",
+    "questionNumber": 149,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "The mechanoreceptor that responds best to vibration and lies in the deep dermis and subcutaneous tissue is the",
+    "options": [
+      "Meissner's corpuscle",
+      "Merkel's disc",
+      "Ruffini ending",
+      "Pacinian corpuscle"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Meissner's corpuscles (light touch) lie in the dermal papillae. Merkel's discs (sustained pressure) lie in the basal epidermis. Ruffini endings (stretch) lie in the dermis.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Meissner's — papillary dermis), 2023 INI-CET (dense irregular CT — dermis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Histology",
+      "basedOn": "2017 AIIMS (Meissner's — papillary dermis), 2023 INI-CET (dense irregular CT — dermis)"
+    }
+  },
+  {
+    "id": "anat_q_150",
+    "questionNumber": 150,
+    "subject": "Anatomy",
+    "subTopic": "General Histology",
+    "sub_topic": "General Histology",
+    "stem": "Pancreatic acinar tissue differs from the parotid gland under the microscope by having",
+    "options": [
+      "Centroacinar cells and no striated ducts",
+      "Myoepithelial cells around the acini",
+      "Mucous acini with serous demilunes",
+      "Prominent striated ducts"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Centroacinar cells (the start of the intercalated duct inside the acinus) are unique to the pancreas, which also lacks striated ducts. The parotid has prominent striated ducts and myoepithelial cells. Mucous acini with demilunes are typical of the submandibular gland.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (difference between exocrine pancreas and parotid), 2023 NEET-PG (islets)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Histology",
+      "basedOn": "2020 INI-CET (difference between exocrine pancreas and parotid), 2023 NEET-PG (islets)"
+    }
+  }
+]

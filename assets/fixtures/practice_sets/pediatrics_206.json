@@ -1,0 +1,3710 @@
+[
+  {
+    "id": "ped_q_001",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "After the initial steps of neonatal resuscitation the heart rate is 80 per minute. The correct next step is",
+    "options": [
+      "Chest compressions with positive pressure ventilation",
+      "Positive pressure ventilation",
+      "Intravenous adrenaline",
+      "Continue routine care and observe"
+    ],
+    "correct_index": 1,
+    "explanation": "A heart rate below 100 calls for ventilation, not compressions. Compressions are added only when the rate stays below 60 **despite** 30 seconds of effective ventilation — ventilation is the cornerstone because neonatal arrest is almost always respiratory in origin.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (after step 1, if heart rate remains below 100 then chest compressions — false), 2016 AIIMS (first step for heart rate below 60 — PPV with oxygen and compressions)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_002",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The best indicator of adequate ventilation during neonatal resuscitation is",
+    "options": [
+      "Chest rise alone",
+      "Improving colour",
+      "A rising heart rate",
+      "Return of spontaneous cry"
+    ],
+    "correct_index": 2,
+    "explanation": "Heart rate responds fastest and most reliably to effective ventilation, which is why it is the parameter reassessed after every 30 seconds. Colour is the least reliable sign and was removed from the resuscitation algorithm for that reason.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (best indicator of adequacy of ventilation — improvement in heart rate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_003",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The correct order of suctioning a newborn who needs it is",
+    "options": [
+      "Pharynx then trachea routinely",
+      "Nose first, then mouth",
+      "Nose only",
+      "Mouth first, then nose"
+    ],
+    "correct_index": 3,
+    "explanation": "Suctioning the nose first can provoke a gasp that aspirates pharyngeal contents. Suction is no longer routine — it is reserved for an obstructed airway or when positive pressure ventilation is needed.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (correct order of suctioning during neonatal resuscitation — mouth followed by nose, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_004",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "A vigorous term baby is born through meconium-stained liquor. The correct management is",
+    "options": [
+      "Vigorous oropharyngeal suction before the shoulders deliver",
+      "Immediate intubation and tracheal suction",
+      "Routine care with no tracheal suctioning",
+      "Prophylactic antibiotics and admission"
+    ],
+    "correct_index": 2,
+    "explanation": "Routine intubation of a vigorous baby was abandoned because it caused harm without reducing meconium aspiration syndrome. A **non-vigorous** baby needs positive pressure ventilation, with suctioning only if the airway is obstructed.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (management in meconium-stained liquor — gentle suction of nose and mouth in a vigorous baby)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_005",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The ideal route for drug administration during neonatal resuscitation is",
+    "options": [
+      "A peripheral vein in the hand",
+      "The umbilical vein",
+      "The endotracheal tube",
+      "Intramuscular injection"
+    ],
+    "correct_index": 1,
+    "explanation": "It is large, accessible and gives rapid central delivery. The intraosseous route is the alternative. Endotracheal adrenaline is absorbed unreliably and is used only while access is being obtained.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (ideal route of drug delivery in neonatal resuscitation — umbilical vein)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_006",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The recommended delivery-room temperature for a newborn is",
+    "options": [
+      "18 to 20 °C",
+      "25 to 28 °C",
+      "30 to 34 °C",
+      "22 to 24 °C"
+    ],
+    "correct_index": 1,
+    "explanation": "A newborn loses heat rapidly through a large surface area, thin skin and brown-fat-dependent thermogenesis. Hypothermia worsens acidosis, hypoglycaemia and surfactant function, so the warm chain begins in the delivery room.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ideal temperature in delivery room — 25 to 28 degrees Celsius)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_007",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "APGAR stands for",
+    "options": [
+      "Appearance, perfusion, grip, activity, respiration",
+      "Airway, pulse, grimace, activity, reflex",
+      "Appearance, pulse, grimace, activity, respiration",
+      "Activity, pulse, grimace, appearance, reflex"
+    ],
+    "correct_index": 2,
+    "explanation": "Each scores 0 to 2. A score of 0 to 3 at one minute indicates a severely depressed baby, 4 to 6 moderate depression. APGAR describes the baby's condition but must **never** be used to decide whether to start resuscitation.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (APGAR stands for...), 2016 AIIMS (APGAR score of 3 at one minute — severely depressed baby)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_008",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Neonatal respiratory distress syndrome results from deficiency of surfactant produced by",
+    "options": [
+      "Clara cells",
+      "Type I alveolar cells",
+      "Alveolar macrophages",
+      "Type II alveolar cells"
+    ],
+    "correct_index": 3,
+    "explanation": "The main surface-active component is dipalmitoyl phosphatidylcholine (lecithin). A lecithin-to-sphingomyelin ratio above 2 indicates maturity, and antenatal corticosteroids accelerate production.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (cells deficient in neonatal respiratory distress syndrome — type 2 alveolar cells), 2023 NEET-PG (RDS due to deficiency of lecithin)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_009",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The INSURE technique refers to",
+    "options": [
+      "Intravenous surfactant for meconium aspiration",
+      "Inhaled nitric oxide for pulmonary hypertension",
+      "Intubation, surfactant administration and rapid extubation to CPAP in respiratory distress syndrome",
+      "Incubator-based rescue ventilation"
+    ],
+    "correct_index": 2,
+    "explanation": "It avoids prolonged mechanical ventilation and the bronchopulmonary dysplasia that follows it. LISA, or less invasive surfactant administration through a thin catheter, is the newer refinement.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (INSURE is used in RDS)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_010",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "A baby born at 36 weeks by normal vaginal delivery has respiratory distress needing oxygen at birth, which settles over 24 hours, with a chest film showing prominent perihilar streaking. The diagnosis is",
+    "options": [
+      "Respiratory distress syndrome",
+      "Transient tachypnoea of the newborn",
+      "Meconium aspiration syndrome",
+      "Congenital pneumonia"
+    ],
+    "correct_index": 1,
+    "explanation": "Delayed clearance of fetal lung fluid causes it, so it is commoner after caesarean section and in late preterm babies, and it resolves within 24 to 72 hours. Respiratory distress syndrome instead worsens over the first 48 hours.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (36-week POG, respiratory distress needing oxygen at birth — transient tachypnoea of the newborn)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_011",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The Downe score for neonatal respiratory distress includes",
+    "options": [
+      "Heart rate, colour, tone, reflex and respiration",
+      "Respiratory rate, cyanosis, air entry, grunting and retractions",
+      "Respiratory rate, oxygen saturation and pH",
+      "Grunting, flaring and pulse pressure"
+    ],
+    "correct_index": 1,
+    "explanation": "Each of the five scores 0 to 2; a total above 6 suggests impending respiratory failure. Option B is the APGAR score, and the Silverman–Anderson score is the alternative distress score for preterm babies.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Downe score includes RR, cyanosis, grunting)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_012",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "A 4-day-old term baby has a total serum bilirubin of 18 mg/dL with no haemolysis. The management is",
+    "options": [
+      "Immediate exchange transfusion",
+      "Stop breastfeeding and start formula",
+      "Start phototherapy and continue breastfeeding",
+      "Observe without treatment"
+    ],
+    "correct_index": 2,
+    "explanation": "Breastfeeding is continued because it increases stool frequency and bilirubin elimination. Phototherapy converts bilirubin to water-soluble lumirubin, and exchange transfusion is reserved for much higher levels or signs of encephalopathy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (4-day-old with bilirubin 18 — phototherapy and continue breastfeeding, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_013",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Jaundice appearing within the **first 24 hours** of life",
+    "options": [
+      "Indicates biliary atresia",
+      "Is physiological and needs no action",
+      "Indicates breast milk jaundice",
+      "Is always pathological and needs urgent investigation for haemolysis"
+    ],
+    "correct_index": 3,
+    "explanation": "Rhesus and ABO incompatibility, G6PD deficiency and congenital infection are the causes. Physiological jaundice never appears before 24 hours, peaks at days 3 to 5 and is unconjugated.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (neonate with jaundice on first day of life — phototherapy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_014",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Breast milk jaundice is characterised by",
+    "options": [
+      "Conjugated hyperbilirubinaemia with pale stools",
+      "Jaundice in the first 24 hours needing exchange transfusion",
+      "Prolonged unconjugated jaundice in a thriving baby, where most babies need no phototherapy",
+      "Jaundice that mandates stopping breastfeeding"
+    ],
+    "correct_index": 2,
+    "explanation": "It begins in the second week and can persist for up to 12 weeks. Breastfeeding is continued. **Breastfeeding failure** jaundice is the different, earlier entity caused by inadequate intake with weight loss.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (most babies need phototherapy in breast milk jaundice — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_015",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Hypoxic ischaemic encephalopathy in a term neonate is best indicated in severity by",
+    "options": [
+      "A single low APGAR score",
+      "Hypotonia",
+      "Meconium-stained liquor",
+      "Transient tachypnoea"
+    ],
+    "correct_index": 1,
+    "explanation": "Tone and level of consciousness drive the Sarnat staging. Therapeutic hypothermia within 6 hours improves outcome in moderate to severe disease at 36 weeks or more. MRI at 4 to 10 days gives the best prognostic information.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (best indicator of severe HIE — hypotonia), 2018 AIIMS (hypoxic ischaemic injury — subcutaneous fat necrosis, asphyxial lung injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_016",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Spastic diplegia in a preterm survivor is most characteristically caused by",
+    "options": [
+      "Basal ganglia injury",
+      "Periventricular leukomalacia",
+      "Parasagittal watershed infarction",
+      "Germinal matrix haemorrhage alone"
+    ],
+    "correct_index": 1,
+    "explanation": "The descending corticospinal fibres to the legs run closest to the ventricle, so leg involvement exceeds arm involvement. Basal ganglia injury in a term baby instead produces dyskinetic cerebral palsy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (spastic quadriplegia seen in periventricular leukomalacia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_017",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Causes of neonatal seizures include all EXCEPT",
+    "options": [
+      "Hypomagnesaemia",
+      "Hypocalcaemia",
+      "Hyperkalaemia",
+      "Hyponatraemia and hypernatraemia"
+    ],
+    "correct_index": 2,
+    "explanation": "Hyperkalaemia causes arrhythmia, not seizures. Hypoglycaemia and hypoxic ischaemic encephalopathy are the commonest causes overall, and HIE is the single most frequent. Pyridoxine dependency is the rare treatable cause to remember.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (causes of seizures in neonates — hypomagnesaemia, hyponatraemia, hypernatraemia, hypocalcaemia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_018",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The commonest congenital anomaly in an infant of a diabetic mother is",
+    "options": [
+      "Duodenal atresia",
+      "Caudal regression syndrome",
+      "Anencephaly",
+      "Ventricular septal defect"
+    ],
+    "correct_index": 3,
+    "explanation": "Cardiac defects are the commonest numerically, while **caudal regression** is the most specific to diabetic embryopathy. Risk tracks first-trimester HbA1c, which is why pre-conception control matters most.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (most common congenital abnormality in a baby of a diabetic woman — VSD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_019",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The metabolic complications expected in an infant of a diabetic mother are",
+    "options": [
+      "Hyperkalaemia and alkalosis",
+      "Hyperglycaemia and hypercalcaemia",
+      "Hypoglycaemia, hypocalcaemia and hypomagnesaemia with polycythaemia",
+      "Hypernatraemia alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Fetal hyperinsulinaemia persists after the maternal glucose supply is cut, so glucose falls in the first hours. Glucose, calcium and magnesium are therefore the investigations, with haematocrit and bilirubin.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (complications in infant of diabetic mother — hypocalcaemia), 2018 AIIMS (investigations — serum glucose, calcium and magnesium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_020",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Lanugo hair in a newborn",
+    "options": [
+      "Is coarse pigmented hair seen only post-term",
+      "Is fine unpigmented hair covering the body, more abundant in preterm babies",
+      "Indicates congenital hypothyroidism",
+      "Is a feature of intrauterine growth restriction only"
+    ],
+    "correct_index": 1,
+    "explanation": "It is one of the external criteria in the New Ballard score for gestational age, along with sole creases, breast nodule, ear recoil and genitalia.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (lanugo hair is present more commonly in premature babies)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_021",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The fontanelle that is last to close is the",
+    "options": [
+      "Posterior fontanelle, at about 2 months",
+      "Anterior fontanelle, at about 18 months",
+      "Sphenoid fontanelle",
+      "Mastoid fontanelle"
+    ],
+    "correct_index": 1,
+    "explanation": "The posterior fontanelle closes by 6 to 8 weeks. A persistently large anterior fontanelle suggests hypothyroidism, rickets, achondroplasia or raised intracranial pressure; a bulging one suggests meningitis or raised pressure.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (which fontanelle is last to fuse — anterior)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_022",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The commonest form of craniosynostosis, and the syndromes associated with it, are",
+    "options": [
+      "Plagiocephaly; Turner syndrome",
+      "Brachycephaly from coronal fusion; Down syndrome",
+      "Scaphocephaly from sagittal suture fusion; Apert, Crouzon and Carpenter syndromes",
+      "Trigonocephaly; Noonan syndrome"
+    ],
+    "correct_index": 2,
+    "explanation": "Sagittal fusion restricts width, so the skull grows long and narrow. Crouzon syndrome adds midface hypoplasia, proptosis and Chiari I malformation without the hand anomalies of Apert syndrome.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (most common craniosynostosis — scaphocephaly), 2015 AIIMS (craniosynostosis associated with Apert, Crouzon, Carpenter), 2015 AIIMS (features of Crouzon syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_023",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Which feature is NOT seen in fetal alcohol syndrome?",
+    "options": [
+      "Growth restriction with neurodevelopmental impairment",
+      "A smooth philtrum with a thin upper lip",
+      "Short palpebral fissures",
+      "Macrocephaly"
+    ],
+    "correct_index": 3,
+    "explanation": "Fetal alcohol syndrome causes **microcephaly**. It is the commonest preventable cause of intellectual disability, and no safe threshold of alcohol in pregnancy has been established.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (which feature is not seen in fetal alcohol syndrome — macrocephaly)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_024",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Craniopagus twins are conjoined at the",
+    "options": [
+      "Pelvis",
+      "Thorax",
+      "Head only",
+      "Buttocks"
+    ],
+    "correct_index": 2,
+    "explanation": "Thoracopagus, fusion at the chest, is the commonest form and the one most often sharing a heart. Pygopagus is sacral and ischiopagus pelvic. Conjoined twinning arises from incomplete division of a monozygotic embryo after day 13.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (craniopagus is defined as fusion of head only)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_025",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "A 9-month-old says \"mama\", cannot sit without support and shows stranger anxiety. The correct action is",
+    "options": [
+      "Reassure, as all milestones are normal",
+      "Refer for developmental assessment, because inability to sit unsupported at 9 months is a red flag",
+      "Start physiotherapy without assessment",
+      "Repeat assessment at 2 years"
+    ],
+    "correct_index": 1,
+    "explanation": "Sitting without support is expected by 6 to 8 months, so failure at 9 months is delayed gross motor development even though speech and social milestones are appropriate. Isolated motor delay still needs evaluation for cerebral palsy or a neuromuscular disorder.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (9-month-old, speaks mama, cannot sit without support, stranger anxiety — recorded answer \"reassurance\")",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_026",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "Match each milestone to its expected age: social smile, pincer grasp, bidextrous grasp.",
+    "options": [
+      "3 months, 6 months, 9 months",
+      "1–2 months, 9–11 months, 5 months",
+      "2 weeks, 12 months, 3 months",
+      "6 weeks, 7 months, 10 months"
+    ],
+    "correct_index": 1,
+    "explanation": "Bidextrous (both-handed) reach appears at about 5 months and unidextrous reach at 6 months; the crude palmar grasp is 5 to 6 months and the mature pincer grip 9 to 11 months.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match milestones — social smile 1–2 months, pincer grasp 9–11 months), 2018 AIIMS (bidextrous grasp at 5 months)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_027",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "A child who can ride a tricycle, climb stairs one foot at a time and copy a circle has a developmental age of about",
+    "options": [
+      "4 years",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "correct_index": 2,
+    "explanation": "Three years is the age of the tricycle, the circle and three-word sentences. At 4 years a child copies a cross and hops; at 5 years copies a triangle and skips.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (ride a tricycle, climb stairs one foot at a time — 3 years developmental age, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_028",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "Inability to use a spoon effectively at 3 years indicates",
+    "options": [
+      "Cerebral palsy specifically",
+      "Normal variation",
+      "Autism specifically",
+      "Developmental delay requiring evaluation"
+    ],
+    "correct_index": 3,
+    "explanation": "Spoon feeding is established by about 18 months to 2 years, so failure at 3 years is a clear fine-motor and self-help delay. It points to a problem but not to any single diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (not able to feed by spoon by 3 years indicates developmental delay, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_029",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "Handedness normally develops by",
+    "options": [
+      "1 year",
+      "6 months",
+      "3 years",
+      "5 years"
+    ],
+    "correct_index": 2,
+    "explanation": "Established hand preference **before** 18 months is abnormal and suggests hemiplegia on the non-preferred side, so early handedness is the finding that worries you rather than late handedness.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (handedness develops at 3 years)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_030",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "During the first 3 months of life, head circumference increases by about",
+    "options": [
+      "0.5 cm per month",
+      "2 cm per month",
+      "1 cm per month",
+      "4 cm per month"
+    ],
+    "correct_index": 1,
+    "explanation": "It then slows to 1 cm per month in months 4 to 6 and 0.5 cm per month in the second half of the first year — a total of about 12 cm in the first year. Serial plotting matters more than any single reading.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (head circumference increases 2 cm/month in first 3 months)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_031",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "The best single sign of adequate growth in the first year of a baby born at 2.5 kg is",
+    "options": [
+      "Doubling of birth weight by 1 year",
+      "An increase of about 25 cm in length over the year",
+      "Closure of the anterior fontanelle",
+      "Eruption of 20 teeth"
+    ],
+    "correct_index": 1,
+    "explanation": "Length is less affected by short-term illness and fluid shifts than weight, so it reflects sustained growth. Birth weight doubles by 5 months and triples by 1 year, so doubling at 1 year would be inadequate.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (best sign of adequate growth in an infant with birth weight 2.5 kg — increase of 25 cm length in first year)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_032",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "A 15-year-old is 145 cm tall with an upper-to-lower segment ratio of 0.8. The pattern indicates",
+    "options": [
+      "Achondroplasia",
+      "Proportionate short stature from growth hormone deficiency",
+      "Disproportionate short stature with short trunk, as in spondyloepiphyseal dysplasia",
+      "Normal stature for age"
+    ],
+    "correct_index": 2,
+    "explanation": "A **low** ratio means the trunk is short relative to the limbs, pointing to a spondylo-type dysplasia. Achondroplasia shortens the limbs and so raises the ratio, while endocrine causes keep it normal for age.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (15-year-old, 145 cm, US/LS ratio 0.8 — spondyloepiphyseal dysplasia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_033",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "Skinfold thickness should be recorded to the nearest",
+    "options": [
+      "0.1 millimetre",
+      "Centimetre",
+      "5 millimetres",
+      "Millimetre"
+    ],
+    "correct_index": 3,
+    "explanation": "It is measured with Harpenden callipers, usually at the triceps and subscapular sites, and estimates subcutaneous fat. Mid-upper arm circumference, by contrast, is recorded to the nearest 0.1 cm.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (skin fold thickness is measured to the nearest millimetre, not cm)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_034",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "The difference between recumbent length and standing height is about",
+    "options": [
+      "3 cm, with length the greater",
+      "0.8 cm, with standing height the greater",
+      "0.8 cm, with recumbent length the greater",
+      "There is no difference"
+    ],
+    "correct_index": 2,
+    "explanation": "Gravity compresses the spine when standing. Length is measured with an infantometer up to 2 years and height with a stadiometer after that, so the method must change at the right age or the curve shows a false drop.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (difference between standing height and recumbent length — 0.8 cm)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_035",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "The ponderal index is calculated as",
+    "options": [
+      "Weight in kilograms divided by height in metres",
+      "Weight in grams × 100 divided by the cube of length in centimetres",
+      "Height divided by weight",
+      "Weight in kilograms divided by the square of height in metres"
+    ],
+    "correct_index": 1,
+    "explanation": "It distinguishes **asymmetrical** growth restriction, where the index is low because weight is affected more than length, from symmetrical restriction, where it is preserved. Option D is the body mass index.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (ponderal index is weight in kilogram divided by cube of height in metres)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_036",
+    "subject": "Pediatrics",
+    "sub_topic": "Anthropometry",
+    "stem": "Low height-for-age in a child indicates",
+    "options": [
+      "Wasting, which reflects acute malnutrition",
+      "Stunting, which reflects chronic malnutrition",
+      "Underweight only",
+      "Normal growth"
+    ],
+    "correct_index": 1,
+    "explanation": "Low **weight-for-height** is wasting and reflects acute loss; low **weight-for-age** is underweight and conflates the two. Undernutrition is conventionally defined as weight-for-age below −2 SD.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (low height for age indicates chronic malnutrition), 2020 INI-CET (weight/age −3.2 SD, height/age −2.5 SD — chronic malnutrition), 2015 AIIMS (undernutrition is weight for age below −2 SD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_037",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "A 6-year-old wets the bed at night but is dry by day, with a normal examination and urinalysis. The management is",
+    "options": [
+      "Micturating cystourethrogram",
+      "Start imipramine immediately",
+      "Reassurance with behavioural measures and review in about 6 months",
+      "Renal biopsy"
+    ],
+    "correct_index": 2,
+    "explanation": "Monosymptomatic nocturnal enuresis resolves spontaneously in about 15% of affected children each year. Alarm therapy and desmopressin come next if it persists; daytime symptoms or abnormal urinalysis would change the approach.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (6-year-old with bed wetting, dry during the day — reassure and follow up after six months, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_038",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "The HEADSSS assessment is used for",
+    "options": [
+      "Developmental screening of infants",
+      "Neonatal gestational age assessment",
+      "Grading dehydration",
+      "Psychosocial screening of adolescents"
+    ],
+    "correct_index": 3,
+    "explanation": "It covers home, education and employment, activities, drugs, sexuality, suicide and depression, and safety. Confidentiality and interviewing the adolescent alone are essential to its usefulness.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (HEADSSS is used for adolescents)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_039",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Severe acute malnutrition in a 6-month-old is defined by",
+    "options": [
+      "Height-for-age below −3 SD alone",
+      "Weight-for-age below −2 SD alone",
+      "Mid-upper arm circumference below 11.5 cm, weight-for-height below −3 SD, or bilateral pitting pedal oedema",
+      "Mid-upper arm circumference below 13.5 cm"
+    ],
+    "correct_index": 2,
+    "explanation": "**Any one** criterion suffices. Oedema makes it severe regardless of the other measurements, and MUAC is used from 6 to 59 months because it changes little with age in that range.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (criteria for severe acute malnutrition — MUAC",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_040",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Marasmus differs from kwashiorkor in that it shows",
+    "options": [
+      "Oedema with a fatty liver",
+      "Severe wasting from calorie deficiency with relative preservation of visceral protein, and no oedema",
+      "Normal weight with hypoalbuminaemia",
+      "Flaky paint dermatosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Kwashiorkor is predominantly protein deficiency with oedema, hepatomegaly, flaky-paint dermatosis, hair changes and apathy, and it carries the higher mortality. Marasmic kwashiorkor combines both.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (marasmus is characterised by calorie malnutrition and relative protein preservation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_041",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Primary treatment failure in severe acute malnutrition is indicated by",
+    "options": [
+      "Failure to gain weight in the first 48 hours",
+      "Persistence of oedema on day 10 of treatment",
+      "Persistent diarrhoea on day 2",
+      "Any infection during treatment"
+    ],
+    "correct_index": 1,
+    "explanation": "Failure to begin losing oedema by day 4 and failure to gain at least 5 g/kg/day by day 10 are the other markers. Unresolved infection, tuberculosis, HIV and feeding errors are the usual explanations.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (primary treatment failure in SAM — oedema persisting on day 10)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_042",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Refeeding syndrome in a severely malnourished child is caused by",
+    "options": [
+      "Vitamin A toxicity",
+      "Excess protein intake causing uraemia",
+      "An insulin surge driving phosphate, potassium and magnesium into cells",
+      "Sodium overload alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Hypophosphataemia is the hallmark and can cause cardiac failure, arrhythmia and respiratory muscle weakness. Refeeding therefore starts cautiously with F-75, with thiamine and electrolyte monitoring, before building up.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (refeeding syndrome due to sudden release of insulin leading to hypomagnesaemia, hypophosphataemia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_043",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Nutritional rickets is characterised biochemically by",
+    "options": [
+      "High phosphate with low parathyroid hormone",
+      "High calcium with low parathyroid hormone",
+      "Normal calcium with low alkaline phosphatase",
+      "Normal or low calcium, low phosphate, high alkaline phosphatase and high parathyroid hormone"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin D deficiency lowers calcium absorption, so compensatory parathyroid hormone rises and wastes phosphate. A raised alkaline phosphatase reflects osteoblast activity and is the most consistent abnormality.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nutritional rickets — normal or low calcium, low phosphorus, high PTH)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_044",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "A child with rickets unresponsive to cholecalciferol has normal serum calcium, low phosphate and normal parathyroid hormone. The diagnosis is",
+    "options": [
+      "Nutritional rickets",
+      "Vitamin D-dependent rickets type I",
+      "X-linked hypophosphataemic rickets",
+      "Renal tubular acidosis"
+    ],
+    "correct_index": 2,
+    "explanation": "Excess FGF23 causes renal phosphate wasting, so calcium and parathyroid hormone remain normal and plain vitamin D does not work. Treatment is oral phosphate with calcitriol, or burosumab, an anti-FGF23 antibody.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (rickets not responsive to cholecalciferol, normal calcium, decreased phosphate — hypophosphataemic rickets)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_045",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Which nutrient is breast milk relatively deficient in?",
+    "options": [
+      "Lactose",
+      "Vitamin D",
+      "Vitamin A",
+      "Protein"
+    ],
+    "correct_index": 1,
+    "explanation": "Vitamin K is the other classic deficiency, which is why intramuscular vitamin K is given at birth. Iron stores also run down by about 6 months, which is when complementary feeding must begin.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (milk is deficient in vitamin D)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_046",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Signs of good attachment of a baby to the breast include",
+    "options": [
+      "Mouth narrow with lips pursed, more areola visible below",
+      "Mouth wide open, lower lip everted, chin touching the breast and more areola visible above than below",
+      "Chin away from the breast with cheeks drawn in",
+      "Rapid shallow sucking throughout the feed"
+    ],
+    "correct_index": 1,
+    "explanation": "Correct attachment prevents sore nipples and ensures the baby empties the breast and receives the fat-rich hindmilk. Slow deep sucks with pauses indicate effective feeding.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (signs of good attachment — lower lip everted, more areola visible above, 4X), 2018 AIIMS (mouth wide open, upper areola more visible)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_047",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Complementary feeding should begin at",
+    "options": [
+      "4 months",
+      "3 months",
+      "6 completed months, while breastfeeding continues",
+      "12 months"
+    ],
+    "correct_index": 2,
+    "explanation": "Introducing cereals at 3 months risks allergy, infection and displacement of breast milk, and the infant gut and renal function are not ready. Exclusive breastfeeding is advised for the first 6 months.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (mother wants to feed a 3-month-old with cereals — allergy due to food content)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_048",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "In a child with acute watery diarrhoea, zinc should be given",
+    "options": [
+      "Only after diarrhoea stops",
+      "For 3 days only",
+      "Only if dehydration is severe",
+      "For 14 days, alongside ORS"
+    ],
+    "correct_index": 3,
+    "explanation": "Zinc shortens the episode and reduces recurrence over the following months: 10 mg daily under 6 months and 20 mg daily thereafter. Antibiotics are not indicated in acute watery diarrhoea without blood.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (infant with watery stools — along with zinc, ORS only, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_049",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "A 5-year-old with loose stools, no fever or blood, who is irritable and thirsty with sunken eyes has",
+    "options": [
+      "Severe dehydration, needing intravenous Ringer lactate",
+      "No dehydration, treated with home fluids",
+      "Some dehydration, treated with 75 mL/kg of ORS over 4 hours",
+      "Dysentery, needing ciprofloxacin"
+    ],
+    "correct_index": 2,
+    "explanation": "Thirst, restlessness, sunken eyes and a slow skin pinch define Plan B. Lethargy, inability to drink or absent pulses would make it severe and mandate intravenous fluid.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (loose stools, irritable — 75 mL/kg over next 4 hours, 5X), 2023 INI-CET (some dehydration — thirst, sunken eyes, delayed skin pinch, 2X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_050",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "The ideal maintenance intravenous fluid for a child is",
+    "options": [
+      "5% dextrose in water alone",
+      "An isotonic solution with dextrose, such as 5% dextrose in normal saline",
+      "0.18% saline in 5% dextrose",
+      "Ringer lactate without dextrose"
+    ],
+    "correct_index": 1,
+    "explanation": "Hypotonic maintenance fluid caused iatrogenic hyponatraemia and deaths, so practice moved to isotonic solutions. Volume follows the Holliday–Segar rule: 100 mL/kg for the first 10 kg, 50 for the next 10, then 20.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ideal maintenance fluid in a child — 5% DNS)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_051",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "A 5-year-old with sepsis has a blood pressure of 90/60 mmHg with a weak fast pulse and cold peripheries. The immediate step is",
+    "options": [
+      "10 mL/kg of 5% dextrose",
+      "A 20 mL/kg bolus of 0.9% normal saline",
+      "Dopamine infusion before any fluid",
+      "Maintenance fluid only"
+    ],
+    "correct_index": 1,
+    "explanation": "Children compensate with vasoconstriction and tachycardia, so blood pressure falls late — a normal pressure does not exclude shock. Boluses are repeated up to 40 to 60 mL/kg with reassessment, then inotropes are added.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (5-year-old with sepsis and shock — 20 mL/kg of 0.9% normal saline)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_052",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "CSF in a child shows lymphocytosis, glucose 20 mg/dL with a blood glucose of 110 mg/dL, and protein 63 mg/dL. The aetiology is",
+    "options": [
+      "Pyogenic meningitis",
+      "Viral meningitis",
+      "Tuberculous meningitis",
+      "Fungal meningitis"
+    ],
+    "correct_index": 2,
+    "explanation": "A CSF-to-blood glucose ratio well below 0.5 with lymphocytes and raised protein is the classic triad. Viral meningitis keeps glucose normal. A cobweb coagulum and basal exudates with hydrocephalus support it.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (meningitis with CSF glucose 20, protein 63, lymphocytosis — tubercular meningitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_053",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "An 18-month-old has low-grade fever, abnormal twitching of the lower limbs and a bulging fontanelle. The diagnosis is",
+    "options": [
+      "Benign myoclonus of infancy",
+      "Simple febrile seizure",
+      "Breath-holding spell",
+      "Meningitis"
+    ],
+    "correct_index": 3,
+    "explanation": "A bulging fontanelle signals raised intracranial pressure and makes this far more than a febrile seizure. Neck stiffness and Kernig sign are unreliable under 18 months, so the threshold for lumbar puncture must be low.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (18-month-old with twitching, low-grade fever, bulging fontanelle — meningitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_054",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child with bacterial meningitis should be isolated",
+    "options": [
+      "Until the CSF is sterile",
+      "For 7 days",
+      "For 24 hours after starting effective antibiotics",
+      "No isolation is required"
+    ],
+    "correct_index": 2,
+    "explanation": "Droplet precautions apply to meningococcal and *Haemophilus influenzae* type b disease. Close contacts need chemoprophylaxis with rifampicin or ciprofloxacin regardless of the index case's isolation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (isolation after bacterial meningitis — till 24 hours after starting antibiotics, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_055",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Lumbar puncture in suspected childhood meningitis should be deferred in",
+    "options": [
+      "Any child with fever",
+      "A child with clinical deterioration or signs of raised intracranial pressure",
+      "Any child under 1 year",
+      "A child with neck stiffness"
+    ],
+    "correct_index": 1,
+    "explanation": "Focal deficit, papilloedema, a Glasgow Coma Scale below 9, shock and coagulopathy are the other contraindications. Antibiotics must be started immediately and the tap deferred — treatment is never delayed for the procedure.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (lumbar puncture not indicated in children with clinical deterioration)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_056",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A simple febrile seizure is defined as",
+    "options": [
+      "A focal seizure lasting under 30 minutes",
+      "A generalised seizure lasting under 15 minutes, once in 24 hours, in a child of 6 months to 5 years with fever",
+      "Any seizure with fever at any age",
+      "Two seizures in 24 hours"
+    ],
+    "correct_index": 1,
+    "explanation": "Complex febrile seizures are focal, prolonged or recurrent within 24 hours. Simple febrile seizures need no imaging, EEG or long-term antiepileptics — only reassurance and fever advice.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (simple febrile seizure — lasting",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_057",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "The risk of recurrence of febrile seizures is greatest when",
+    "options": [
+      "The fever has lasted several days",
+      "The child is older than 3 years",
+      "The first seizure occurs under 1 year of age and with a fever of short duration",
+      "There is no family history"
+    ],
+    "correct_index": 2,
+    "explanation": "A low seizure threshold is implied when a brief or low-grade fever provokes a fit. A family history of febrile seizures is the fourth risk factor; overall recurrence is about 30%.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (chances of febrile seizures increase with age",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_058",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A 9-month-old has fever with a respiratory rate of 48 per minute and no chest indrawing. By IMNCI, the management is",
+    "options": [
+      "Nebulised salbutamol",
+      "Oral amoxicillin for 5 days",
+      "Referral for injectable antibiotics",
+      "Supportive care with home advice on danger signs, and no antibiotic"
+    ],
+    "correct_index": 3,
+    "explanation": "Fast breathing is 50 or more per minute for ages 2 to 12 months, so 48 does not meet the threshold. Chest indrawing would make it severe pneumonia. The cut-off is 60 under 2 months and 40 from 1 to 5 years.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (9-month-old, RR 48, no chest indrawing — only supportive care), 2018 AIIMS (IMNCI fast breathing for 6-month-old — more than 50/min)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_059",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "An 18-month-old has fever, breathlessness and a respiratory rate of 46 per minute with no indrawing or danger signs. The management is",
+    "options": [
+      "No treatment at all",
+      "Admission for intravenous antibiotics",
+      "Oral antibiotics at home with advice on danger signs",
+      "Nebulised adrenaline"
+    ],
+    "correct_index": 2,
+    "explanation": "At 12 to 59 months the fast-breathing threshold is 40 per minute, so 46 counts as pneumonia and is treated with oral amoxicillin as an outpatient. The same number means different things at different ages.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (18-month-old, RR 46 — oral antibiotics and send home, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_060",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child has paroxysms of cough followed by apnoea with a markedly raised lymphocyte count. The treatment is",
+    "options": [
+      "Amoxicillin",
+      "Azithromycin",
+      "Oseltamivir",
+      "Ceftriaxone"
+    ],
+    "correct_index": 1,
+    "explanation": "Pertussis causes an absolute lymphocytosis. A macrolide shortens infectivity but alters the clinical course little once paroxysms begin, so prophylaxis of household contacts and immunisation matter more.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (paroxysms of cough followed by apnoea with raised TLC — azithromycin for pertussis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_061",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child with fever, neck rigidity and vesicular lesions on the body and soles most likely has",
+    "options": [
+      "Hand, foot and mouth disease alone",
+      "Herpetic meningoencephalitis",
+      "Chickenpox without CNS involvement",
+      "Measles"
+    ],
+    "correct_index": 1,
+    "explanation": "Herpes encephalitis is temporal-lobe predominant with periodic lateralised epileptiform discharges on EEG, and aciclovir must be started empirically on suspicion because delay costs outcome.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (child with fever, neck rigidity, vesicular lesions on body and soles — herpetic meningoencephalitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_062",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child who had fever with rash 12 years ago now has myoclonic jerks with cognitive decline. The diagnostic test is",
+    "options": [
+      "Serum rubella IgM",
+      "CSF viral culture",
+      "CSF measles IgG antibody",
+      "Brain biopsy"
+    ],
+    "correct_index": 2,
+    "explanation": "Subacute sclerosing panencephalitis follows measles after a latency of years, with raised CSF measles antibody and a burst-suppression EEG. It is invariably fatal, which is why measles vaccination matters so much.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (fever and rash 12 years ago, now myoclonus — CSF IgG measles for SSPE, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_063",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Koplik spots in measles",
+    "options": [
+      "Are pathognomonic of rubella",
+      "Appear after the rash fades",
+      "Are confined to the palate",
+      "Appear on the buccal mucosa before the rash and may also occur on conjunctiva and vaginal mucosa"
+    ],
+    "correct_index": 3,
+    "explanation": "They precede the rash by 1 to 2 days and are the earliest specific sign. Measles is most infectious in the prodrome, and vitamin A reduces mortality in affected children.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (Koplik spots can be seen in conjunctiva or vagina — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_064",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child has high fever, inspiratory stridor, drooling and difficulty swallowing, sitting forward and refusing to lie down. The management is",
+    "options": [
+      "Oral amoxicillin at home",
+      "Nebulised budesonide and discharge",
+      "Secure the airway and give intravenous ceftriaxone, avoiding throat examination",
+      "Immediate throat swab and culture"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute epiglottitis from *Haemophilus influenzae* type b can obstruct completely if the child is distressed or examined. The thumbprint sign appears on a lateral neck film, and Hib vaccination has made it rare.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (high fever, inspiratory stridor, swallowing difficulty, drooling — IV ceftriaxone for epiglottitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_065",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Hydrocephalus with scattered intracranial calcification and chorioretinitis in an infant suggests",
+    "options": [
+      "Congenital cytomegalovirus infection",
+      "Congenital toxoplasmosis",
+      "Congenital rubella",
+      "Congenital syphilis"
+    ],
+    "correct_index": 1,
+    "explanation": "The triad is hydrocephalus, chorioretinitis and **scattered** intracranial calcification. Cytomegalovirus instead causes microcephaly with **periventricular** calcification, which is the discriminator between the two.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (hydrocephalus, intracranial calcifications, chorioretinitis — Toxoplasma), 2020 INI-CET (risk of transmission increases with gestation — Toxoplasma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_066",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "An infant with hepatosplenomegaly, thrombocytopenia, periventricular calcification and sensorineural deafness has",
+    "options": [
+      "Congenital toxoplasmosis",
+      "Congenital cytomegalovirus infection",
+      "Congenital rubella syndrome",
+      "Neonatal herpes"
+    ],
+    "correct_index": 1,
+    "explanation": "It is the commonest congenital infection and the commonest **non-syndromic** cause of sensorineural hearing loss. Urine or saliva PCR in the first 3 weeks confirms congenital rather than postnatal acquisition.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (hepatosplenomegaly, thrombocytopenia, periventricular calcification — congenital CMV), 2017 AIIMS (commonest cause of non-syndromic sensorineural hearing loss — congenital CMV, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_067",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Deafness, cataract and patent ductus arteriosus in an infant indicate",
+    "options": [
+      "Congenital toxoplasmosis",
+      "Congenital cytomegalovirus",
+      "Congenital rubella syndrome",
+      "Fetal alcohol syndrome"
+    ],
+    "correct_index": 2,
+    "explanation": "The classic triad is cataract, deafness and cardiac defect, with a salt-and-pepper retinopathy and blueberry-muffin rash. Note that the cataract is **not** always bilateral, which the past papers test directly.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (deafness, cataract, PDA — congenital rubella syndrome), 2014 AIIMS (cataract in congenital rubella is always bilateral — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_068",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Olympian brow and rhagades are features of",
+    "options": [
+      "Congenital varicella",
+      "Congenital rubella",
+      "Congenital toxoplasmosis",
+      "Congenital syphilis"
+    ],
+    "correct_index": 3,
+    "explanation": "Late stigmata also include Hutchinson teeth, mulberry molars, saddle nose, sabre tibia and interstitial keratitis. Snuffles, desquamating rash and osteochondritis are the early features.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Olympian brow and rhagades — congenital syphilis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_069",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A neonate with cicatricial skin lesions, limb hypoplasia and chorioretinitis should be investigated with",
+    "options": [
+      "Rubella PCR",
+      "Measles IgM",
+      "Anti-varicella zoster virus antibody",
+      "Toxoplasma IgG"
+    ],
+    "correct_index": 2,
+    "explanation": "Congenital varicella syndrome follows maternal infection at about 13 to 20 weeks, giving cicatricial scarring in a dermatomal pattern, limb hypoplasia, eye defects and cortical atrophy.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (cicatrising skin lesions, hypoplasia of limbs — anti-VZV antibody)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_070",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A 14-day-old baby has conjunctivitis and later develops afebrile pneumonia with a staccato cough. The organism is",
+    "options": [
+      "*Neisseria gonorrhoeae*",
+      "*Chlamydia trachomatis*",
+      "*Streptococcus agalactiae*",
+      "*Staphylococcus aureus*"
+    ],
+    "correct_index": 1,
+    "explanation": "Chlamydial conjunctivitis appears at 5 to 14 days and pneumonia at 3 to 19 weeks, with eosinophilia. **Gonococcal** conjunctivitis appears within the first 2 to 5 days and is far more aggressive, threatening corneal perforation.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (14-day-old with conjunctivitis then respiratory distress — *Chlamydia trachomatis*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_071",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "*Streptococcus agalactiae* in the newborn characteristically causes",
+    "options": [
+      "Omphalitis only",
+      "Early-onset neonatal sepsis with pneumonia and meningitis",
+      "Conjunctivitis only",
+      "Necrotising enterocolitis"
+    ],
+    "correct_index": 1,
+    "explanation": "Group B *Streptococcus* is acquired from the maternal genital tract, which is why intrapartum penicillin prophylaxis is given to colonised women. *Escherichia coli* and *Listeria* are the other early-onset organisms.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (*Streptococcus agalactiae* causes neonatal sepsis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_072",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A 4-day-old baby of an HIV-positive mother has recurrent diarrhoea. The correct diagnostic test is",
+    "options": [
+      "Western blot",
+      "HIV ELISA",
+      "HIV DNA PCR on a dried blood spot",
+      "CD4 count"
+    ],
+    "correct_index": 2,
+    "explanation": "Maternal IgG crosses the placenta and persists for up to 18 months, so antibody tests cannot diagnose infection in infancy. Virological testing is done at 6 weeks, or earlier if symptomatic.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (HIV positive mother, 4-day-old with diarrhoea — HIV dried blood spot PCR)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_073",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunisation",
+    "stem": "A baby born to a hepatitis B surface antigen-positive mother should receive",
+    "options": [
+      "Neither, if the baby is asymptomatic",
+      "Vaccine alone at 6 weeks",
+      "Immunoglobulin alone",
+      "Hepatitis B immunoglobulin **and** vaccine within 12 hours of birth"
+    ],
+    "correct_index": 3,
+    "explanation": "Combined passive and active immunisation prevents over 90% of vertical transmission. Breastfeeding is not contraindicated once this is given.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (baby of hepatitis B positive mother — immunoglobulin and vaccine both)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_074",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunisation",
+    "stem": "Which vaccine is contraindicated in severe combined immunodeficiency?",
+    "options": [
+      "Inactivated polio vaccine",
+      "Hepatitis B",
+      "MMR, because it is a live vaccine",
+      "DPT"
+    ],
+    "correct_index": 2,
+    "explanation": "All live vaccines — MMR, BCG, oral polio, varicella, rotavirus — are contraindicated. BCG given before the diagnosis is recognised can cause disseminated disease. Killed vaccines are safe but may not produce immunity.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vaccine contraindicated in SCID — MMR)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_075",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunisation",
+    "stem": "Intussusception is a recognised adverse effect of which vaccine?",
+    "options": [
+      "Measles vaccine",
+      "Rotavirus vaccine",
+      "Hepatitis B vaccine",
+      "Pentavalent vaccine"
+    ],
+    "correct_index": 1,
+    "explanation": "The excess risk is small and concentrated in the week after the first dose, which is why the schedule has age limits for initiation. Rotavirus remains the commonest cause of severe diarrhoeal dehydration in under-twos.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (intussusception is a side effect of rotavirus vaccine), 2024 INI-CET (commonest cause of diarrhoea and dehydration in a 2-year-old — rotavirus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_076",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Features of Down syndrome include all EXCEPT",
+    "options": [
+      "A short neck with excess nuchal skin",
+      "Upward slanting palpebral fissures",
+      "A fissured protruding tongue",
+      "Small low-set ears with a flat occiput"
+    ],
+    "correct_index": 1,
+    "explanation": "The slant in Down syndrome is **upward and outward** in the classic description, but the examined feature is the mongoloid slant with epicanthic folds; a single palmar crease, clinodactyly, a sandal gap and hypotonia complete it. Duodenal atresia, atrioventricular septal defect, hypothyroidism and leukaemia are the associations.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (features of Down syndrome — short neck, fissured tongue, small ears, downward slanting, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_077",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Examples of aneuploidy include",
+    "options": [
+      "Balanced translocation",
+      "Triploidy and tetraploidy",
+      "Trisomy 13, trisomy 18 and Klinefelter syndrome",
+      "Fragile X syndrome"
+    ],
+    "correct_index": 2,
+    "explanation": "Aneuploidy means a chromosome number that is not an exact multiple of the haploid set. Polyploidy is a whole extra set, and fragile X is a triplet-repeat expansion with a normal chromosome count.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (examples of aneuploidy — trisomy 13, trisomy 18, Klinefelter syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_078",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "A girl with short stature and a webbed neck will show which finding on pelvic ultrasound?",
+    "options": [
+      "Normal ovaries and uterus",
+      "Polycystic ovaries with a normal uterus",
+      "Absent uterus with normal ovaries",
+      "Streak ovaries with a hypoplastic uterus"
+    ],
+    "correct_index": 3,
+    "explanation": "Turner syndrome, 45,X. Gonadal dysgenesis gives primary amenorrhoea with high FSH. Coarctation, bicuspid aortic valve, horseshoe kidney, deafness and glucose intolerance all need screening.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (short stature, webbed neck — streak ovaries and hypoplastic uterus in Turner syndrome, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_079",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Noonan syndrome is characterised by",
+    "options": [
+      "Tall stature with 47,XXY",
+      "Short stature with 45,X karyotype",
+      "Short stature, webbed neck, shield chest and **pulmonary** stenosis with a normal karyotype",
+      "Supravalvular aortic stenosis with hypercalcaemia"
+    ],
+    "correct_index": 2,
+    "explanation": "It is the Turner \"phenocopy\" — autosomal dominant, usually *PTPN11*, affecting both sexes, with a normal karyotype and pulmonary rather than left-sided obstruction.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (Noonan syndrome — short neck, shield chest, wide carrying angle)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_080",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Coarse facial features, hypercalcaemia and supravalvular aortic stenosis indicate",
+    "options": [
+      "Noonan syndrome",
+      "Williams syndrome",
+      "Hurler syndrome",
+      "DiGeorge syndrome"
+    ],
+    "correct_index": 1,
+    "explanation": "A microdeletion at 7q11.23 involving the elastin gene. The characteristic phenotype is an \"elfin\" face with an over-friendly, highly verbal personality and relative sparing of language despite intellectual disability.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (coarse facial features, hypercalcaemia, supravalvular aortic stenosis — Williams syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_081",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Hypocalcaemia with an absent thymus results from a defect in development of the",
+    "options": [
+      "First and second pharyngeal pouches",
+      "Third and fourth pharyngeal pouches",
+      "Fifth and sixth pharyngeal arches",
+      "Neural crest of the hindbrain only"
+    ],
+    "correct_index": 1,
+    "explanation": "DiGeorge syndrome, from a 22q11.2 microdeletion. The parathyroids and thymus fail, giving hypocalcaemic seizures and T-cell deficiency, with conotruncal cardiac defects and cleft palate.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (hypocalcaemia with absent thymus — defect in 3rd and 4th pharyngeal pouches)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_082",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Prune belly syndrome comprises",
+    "options": [
+      "Gastroschisis with intestinal atresia",
+      "Omphalocele with cardiac defects",
+      "Deficient abdominal wall musculature, hydroureteronephrosis and bilateral undescended testes",
+      "Exomphalos, macroglossia and gigantism"
+    ],
+    "correct_index": 2,
+    "explanation": "The triad is also called Eagle–Barrett syndrome, affects mainly males, and is often associated with oligohydramnios and pulmonary hypoplasia. Option D is Beckwith–Wiedemann syndrome.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (prune belly syndrome — abdominal wall muscle weakness, hydroureteronephrosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_083",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "A disorder in which an affected male has no affected children but an affected female passes it to all her children follows",
+    "options": [
+      "Y-linked inheritance",
+      "X-linked recessive inheritance",
+      "Autosomal dominant inheritance",
+      "Mitochondrial inheritance"
+    ],
+    "correct_index": 3,
+    "explanation": "Mitochondria come only from the oocyte, so transmission is exclusively maternal. MELAS, MERRF, LHON and Leigh disease are examples, and heteroplasmy explains their variable severity.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (affected male does not give rise to affected children but affected female does — mitochondrial inheritance)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_084",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "An example of an X-linked **dominant** disorder is",
+    "options": [
+      "Haemophilia A",
+      "Duchenne muscular dystrophy",
+      "Rett syndrome",
+      "Cystic fibrosis"
+    ],
+    "correct_index": 2,
+    "explanation": "*MECP2* mutation, affecting girls, with normal early development then regression, loss of purposeful hand use, hand-wringing stereotypies, microcephaly and seizures. It is usually lethal in males.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (example of X-linked dominant disease — Rett syndrome), 2016 AIIMS (Rett syndrome — microcephaly, mental retardation, seizures)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_085",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Match the inheritance patterns: myotonic dystrophy, cystic fibrosis, Duchenne muscular dystrophy.",
+    "options": [
+      "Autosomal recessive, autosomal dominant, X-linked dominant",
+      "Autosomal dominant, autosomal recessive, X-linked recessive",
+      "X-linked recessive, autosomal dominant, autosomal recessive",
+      "All autosomal recessive"
+    ],
+    "correct_index": 1,
+    "explanation": "Myotonic dystrophy is a CTG repeat expansion showing anticipation. Cystic fibrosis is the commonest lethal autosomal recessive disorder in people of European descent.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — myotonic dystrophy AD, cystic fibrosis AR, Duchenne X-linked)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_086",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Males with fragile X syndrome characteristically show",
+    "options": [
+      "Microcephaly with microphthalmia",
+      "Intellectual disability with macro-orchidism, a long face and large ears",
+      "Short stature with webbed neck",
+      "Normal intellect with infertility only"
+    ],
+    "correct_index": 1,
+    "explanation": "It is the commonest inherited cause of intellectual disability, caused by CGG repeat expansion in *FMR1*. A high-arched palate makes intubation difficult, which is how anaesthesia papers ask about it.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (males with average IQ 20 to 40 may be seen with fragile X — true), 2018 AIIMS anaesthesia (fragile X carries risk of difficult intubation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_087",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Dried blood spot screening in neonates is used mainly to detect",
+    "options": [
+      "Structural cardiac defects",
+      "Chromosomal aneuploidy",
+      "Inborn errors of metabolism and congenital endocrine disorders",
+      "Hearing loss"
+    ],
+    "correct_index": 2,
+    "explanation": "Tandem mass spectrometry on a heel-prick sample screens for phenylketonuria, congenital hypothyroidism, congenital adrenal hyperplasia, galactosaemia and G6PD deficiency, among others, so treatment can begin before damage occurs.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (dried blood spot test in neonates is used for inborn errors of metabolism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_088",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "In maple syrup urine disease, the amino acids that must be restricted are",
+    "options": [
+      "Lysine and arginine",
+      "Phenylalanine and tyrosine",
+      "Methionine and cysteine",
+      "Leucine, isoleucine and valine"
+    ],
+    "correct_index": 3,
+    "explanation": "Branched-chain alpha-ketoacid dehydrogenase is deficient, so these three accumulate and the urine smells of maple syrup or burnt sugar. Encephalopathy and ketoacidosis develop in the first week of life.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (amino acids restricted in maple syrup urine disease — valine, leucine, isoleucine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_089",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Hepatosplenomegaly with a cherry-red macular spot and a **normal** startle response indicates deficiency of",
+    "options": [
+      "Glucocerebrosidase",
+      "Hexosaminidase A",
+      "Sphingomyelinase",
+      "Alpha-galactosidase A"
+    ],
+    "correct_index": 2,
+    "explanation": "Niemann–Pick disease. The discriminator from Tay–Sachs disease, which also has a cherry-red spot, is **organomegaly with a normal startle**: Tay–Sachs has an exaggerated startle and no hepatosplenomegaly.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (hepatosplenomegaly, cherry red spot, normal startle reflex — sphingomyelinase deficiency)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_090",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "A child with intellectual disability, compulsive finger biting, gouty arthritis and renal failure has a deficiency of",
+    "options": [
+      "Adenosine deaminase",
+      "Hypoxanthine-guanine phosphoribosyltransferase",
+      "Phenylalanine hydroxylase",
+      "Branched-chain ketoacid dehydrogenase"
+    ],
+    "correct_index": 1,
+    "explanation": "Lesch–Nyhan syndrome, X-linked recessive, with purine salvage failure causing massive urate overproduction. Allopurinol controls the urate but not the neurological features.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (mental retardation, finger biting, arthritis, renal failure — HGPRTase deficiency)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_091",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Growth retardation, delayed milestones and kinky depigmented hair with a mutation in *ATP7A* indicate",
+    "options": [
+      "Wilson disease",
+      "Menkes disease, a disorder of copper transport",
+      "Hurler syndrome",
+      "Homocystinuria"
+    ],
+    "correct_index": 1,
+    "explanation": "X-linked, with failure of copper absorption and incorporation into cuproenzymes, so serum copper and caeruloplasmin are low. **Wilson disease** is the *ATP7B* disorder of copper **excretion**, with copper overload.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (growth retardation, delayed milestones, kinky hair — Menkes disease), 2016 AIIMS (*ATP7A* mutation — Menkes kinky hair syndrome, X-linked)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_092",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "A 10-month-old with coarse facial features, a large tongue, corneal clouding and hepatosplenomegaly has",
+    "options": [
+      "Gaucher disease",
+      "Hunter syndrome",
+      "Hurler syndrome",
+      "Congenital hypothyroidism"
+    ],
+    "correct_index": 2,
+    "explanation": "Alpha-L-iduronidase deficiency, autosomal recessive, with dysostosis multiplex and intellectual disability. **Hunter** syndrome is X-linked and spares the cornea, which is the usual discriminator between the two.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (coarse facial features, big tongue, mucus discharge — Hurler syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_093",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "An infant with vomiting and failure to thrive improves on intravenous glucose and has hyperammonaemia **without** acidosis and a raised urinary orotic acid. The defect is",
+    "options": [
+      "Medium-chain acyl-CoA dehydrogenase deficiency",
+      "Carbamoyl phosphate synthetase I deficiency",
+      "Propionic acidaemia",
+      "Ornithine transcarbamylase deficiency"
+    ],
+    "correct_index": 3,
+    "explanation": "It is the commonest urea cycle defect and the only X-linked one. Raised **orotic acid** separates it from carbamoyl phosphate synthetase deficiency, where orotic acid is low. Organic acidaemias cause acidosis as well.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (vomiting, failure to thrive, improved on IV glucose — ornithine transcarbamylase deficiency)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_094",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "In classical galactosaemia, removal of galactose from the diet",
+    "options": [
+      "Worsens the cataract",
+      "Cannot affect the cataract",
+      "Can reverse the cataract",
+      "Has no effect on any manifestation"
+    ],
+    "correct_index": 2,
+    "explanation": "Galactitol accumulation in the lens is reversible early. Dietary exclusion also prevents liver failure and *Escherichia coli* sepsis, but does not prevent later ovarian failure or learning difficulty.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (elimination of galactose in diet can reverse cataract in galactosaemia — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_095",
+    "subject": "Pediatrics",
+    "sub_topic": "Genetics",
+    "stem": "Oculocutaneous albinism with a bleeding diathesis and ceroid deposition in tissues indicates",
+    "options": [
+      "Chediak–Higashi syndrome",
+      "Hermansky–Pudlak syndrome",
+      "Wiskott–Aldrich syndrome",
+      "Griscelli syndrome"
+    ],
+    "correct_index": 1,
+    "explanation": "A lysosome-related organelle defect: absent platelet dense granules cause the bleeding, and ceroid accumulation causes pulmonary fibrosis and granulomatous colitis. Chediak–Higashi instead gives giant granules with recurrent infection.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (oculocutaneous albinism, haemorrhagic diathesis, ceroid deposition — Hermansky–Pudlak syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_096",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A 4-year-old has a broad-based gait, hyperreflexia and a positive Babinski sign with a non-progressive course since infancy. The diagnosis is",
+    "options": [
+      "Friedreich ataxia",
+      "Cerebral palsy",
+      "Duchenne muscular dystrophy",
+      "Spinal muscular atrophy"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a non-progressive disorder of movement and posture from a static insult to the developing brain. Progression over time would exclude it and point to a neurodegenerative or neuromuscular disorder.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (4-year-old, broad-based gait, hyperreflexia, positive Babinski — cerebral palsy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_097",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "Tongue fasciculations in an infant with hypotonia and absent reflexes indicate",
+    "options": [
+      "Myasthenia gravis",
+      "Duchenne muscular dystrophy",
+      "Spinal muscular atrophy",
+      "Cerebral palsy"
+    ],
+    "correct_index": 2,
+    "explanation": "Anterior horn cell degeneration from *SMN1* deletion causes a flaccid, areflexic, alert infant with a frog-leg posture and bell-shaped chest. Nusinersen and gene therapy have transformed its outlook.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tongue fasciculations seen in spinal muscular atrophy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_098",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A 2-year-old boy has proximal weakness, cannot rise from squatting without climbing up his legs, and has enlarged calves. Death typically occurs in the",
+    "options": [
+      "Second decade",
+      "First decade",
+      "Fifth decade",
+      "Third decade"
+    ],
+    "correct_index": 3,
+    "explanation": "Duchenne muscular dystrophy, X-linked, from dystrophin deficiency. Gowers sign, pseudohypertrophy with an inverted champagne-bottle calf appearance and a very high creatine kinase are characteristic; death is from cardiorespiratory failure.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (proximal weakness, unable to stand from squatting — third decade), 2018 AIIMS (inverted champagne bottle calves — muscular dystrophy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_099",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "Which is NOT useful in the management of Guillain–Barré syndrome?",
+    "options": [
+      "Plasma exchange",
+      "Intravenous immunoglobulin",
+      "Corticosteroids",
+      "Monitoring of vital capacity"
+    ],
+    "correct_index": 2,
+    "explanation": "Trials show no benefit from steroids in Guillain–Barré syndrome, unlike in chronic inflammatory demyelinating polyneuropathy. Respiratory monitoring is the priority, since respiratory failure is the main cause of death.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (not useful in management of GBS — steroids)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_100",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "The drug of choice for hypsarrhythmia on EEG in an infant with flexor spasms is",
+    "options": [
+      "Phenytoin",
+      "ACTH, with vigabatrin as an alternative",
+      "Carbamazepine",
+      "Levetiracetam"
+    ],
+    "correct_index": 1,
+    "explanation": "West syndrome is the triad of infantile spasms, hypsarrhythmia and developmental arrest. Vigabatrin is preferred when tuberous sclerosis is the cause; its risk is irreversible visual field constriction.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (DOC for hypsarrhythmia — ACTH), 2020 INI-CET (ACTH is the DOC for West syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_101",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "An adolescent drops objects from her hands in the morning and during examinations, with occasional generalised seizures. The diagnosis and the gene implicated are",
+    "options": [
+      "Absence epilepsy; *CACNA1H*",
+      "Juvenile myoclonic epilepsy; *GABRA1*",
+      "Benign rolandic epilepsy; *ELP4*",
+      "Dravet syndrome; *SCN1A*"
+    ],
+    "correct_index": 1,
+    "explanation": "Early-morning myoclonus provoked by sleep deprivation and stress is the hallmark. Inheritance is polygenic, valproate is highly effective but teratogenic in young women, and treatment is usually lifelong.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (dropping objects in the morning — juvenile myoclonic epilepsy, 2X), 2022 INI-CET (gene involved in JME — GABRA-1), 2021 INI-CET (JME — polygenic inheritance)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_102",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "Drugs effective in absence seizures are",
+    "options": [
+      "Phenobarbitone and vigabatrin",
+      "Carbamazepine, phenytoin and gabapentin",
+      "Ethosuximide, valproate and lamotrigine",
+      "Oxcarbazepine and tiagabine"
+    ],
+    "correct_index": 2,
+    "explanation": "Ethosuximide was best tolerated with equal efficacy in the childhood absence epilepsy trial. Carbamazepine, phenytoin, gabapentin and vigabatrin can all **worsen** absence and myoclonic seizures.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (drugs useful in absence seizures — ethosuximide, valproate, lamotrigine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_103",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A 1.5-year-old has had a generalised convulsion for 45 minutes and intravenous access has just been obtained after two doses of benzodiazepine. The next drug is",
+    "options": [
+      "Intravenous mannitol",
+      "A third dose of benzodiazepine",
+      "Oral carbamazepine",
+      "Intravenous fosphenytoin or phenytoin"
+    ],
+    "correct_index": 3,
+    "explanation": "After two adequate benzodiazepine doses, a second-line agent is given — fosphenytoin, levetiracetam or valproate, shown equivalent in the ESETT trial. Glucose, calcium, sodium and magnesium must be checked in parallel.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (1.5-year-old with convulsion for 45 minutes — IV phenytoin, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_104",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A newborn has a midline lumbar sac covered by skin containing meninges and CSF but no neural tissue. This is",
+    "options": [
+      "Spina bifida occulta",
+      "A myelomeningocele",
+      "A meningocele",
+      "An encephalocele"
+    ],
+    "correct_index": 2,
+    "explanation": "A **myelomeningocele** contains neural tissue and causes paraplegia, bladder and bowel dysfunction and hydrocephalus with Arnold–Chiari II malformation. Folic acid before conception prevents a large proportion.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (identify the defect — meningocele)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_105",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "Which statement about brain death in a child is TRUE?",
+    "options": [
+      "Normal blood pressure without support is expected",
+      "Blood pressure is usually maintained only with pharmacological support",
+      "Spinal reflexes must be absent",
+      "An EEG is mandatory in all jurisdictions"
+    ],
+    "correct_index": 1,
+    "explanation": "Loss of brainstem vasomotor control means circulatory collapse without inotropes. Spinal reflexes **can persist** and do not exclude brain death. Apnoea testing with two examinations separated by an interval is the core requirement.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (normal BP without pharmacological support is seen in brain dead patient — false)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_106",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "The commonest cause of croup is",
+    "options": [
+      "Respiratory syncytial virus",
+      "Parainfluenza virus",
+      "Influenza A",
+      "*Haemophilus influenzae* type b"
+    ],
+    "correct_index": 1,
+    "explanation": "Laryngotracheobronchitis gives a barking cough, inspiratory stridor and a steeple sign on the neck film. Oral dexamethasone is given to all, with nebulised adrenaline for severe obstruction.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (commonest cause of croup — parainfluenza)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_107",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A child with fever and a barking cough for 2 days has a respiratory rate of 36 with mild stridor at rest. The treatment is",
+    "options": [
+      "Intravenous ceftriaxone",
+      "Nebulised salbutamol",
+      "A single dose of oral dexamethasone",
+      "Immediate intubation"
+    ],
+    "correct_index": 2,
+    "explanation": "Steroids reduce airway oedema and the need for admission in croup of any severity. Adrenaline is added for stridor at rest with marked distress, and intubation is rarely needed.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (fever, barking cough, RR 36 — high dose dexamethasone for croup), 2020 NEET-PG (biphasic stridor with steeple sign — acute laryngotracheobronchitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_108",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "During cardiopulmonary resuscitation of a child, chest compressions should depress the chest by",
+    "options": [
+      "One-quarter of the anteroposterior diameter",
+      "One-half of the anteroposterior diameter",
+      "2 cm regardless of size",
+      "One-third of the anteroposterior diameter"
+    ],
+    "correct_index": 3,
+    "explanation": "About 4 cm in infants and 5 cm in children. The compression-to-ventilation ratio is 15:2 with two rescuers and 30:2 with one, and children need relatively more ventilation than adults because arrest is usually hypoxic.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (chest compression in children — 1/3rd of AP diameter), 2021 INI-CET (paediatric resuscitation — 1/3rd), 2014 AIIMS (relatively more ventilation in children — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_109",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A child being resuscitated has ventricular tachycardia without a pulse on the monitor. The next step is",
+    "options": [
+      "Synchronised cardioversion",
+      "Give adrenaline and continue compressions without shock",
+      "Defibrillate, then resume compressions immediately for 2 minutes",
+      "Check the pulse for 60 seconds first"
+    ],
+    "correct_index": 2,
+    "explanation": "Pulseless ventricular tachycardia and ventricular fibrillation are the shockable rhythms, at 2 J/kg for the first shock and 4 J/kg thereafter. Compressions resume at once without a rhythm check to maintain perfusion.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (paediatric resuscitation with ventricular tachycardia — give shock then continue CPR for 2 minutes)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_110",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "In a child with head injury receiving mannitol, serum osmolality should be kept below",
+    "options": [
+      "280 mOsm/kg",
+      "320 mOsm/kg",
+      "360 mOsm/kg",
+      "300 mOsm/kg"
+    ],
+    "correct_index": 1,
+    "explanation": "Above that, mannitol risks acute kidney injury and loses effect. Hypertonic saline is the alternative osmotherapy, and cerebral perfusion pressure, head elevation and normocapnia complete the management.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (child with head injury on mannitol — keep osmolality below 320)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_111",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Cystic fibrosis is inherited as",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correct_index": 1,
+    "explanation": "The *CFTR* gene is on chromosome 7. Carrier frequency is high in people of European descent, and both parents of an affected child are obligate carriers with a 1-in-4 recurrence risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (inheritance of cystic fibrosis — autosomal recessive, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_112",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "The commonest mutation in cystic fibrosis affects",
+    "options": [
+      "The sodium channel gene",
+      "A premature stop codon at position 542 only",
+      "Deletion of phenylalanine at position 508, impairing chloride channel folding and trafficking",
+      "The bicarbonate exchanger"
+    ],
+    "correct_index": 2,
+    "explanation": "F508del is a class II folding defect, which is why correctors such as lumacaftor and elexacaftor are combined with the potentiator ivacaftor to rescue it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mutation in cystic fibrosis affects 508 phenylalanine leading to defect in chloride channel)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_113",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "In cystic fibrosis, chloride handling is",
+    "options": [
+      "Normal in sweat",
+      "Decreased in sweat and increased in pancreatic secretions",
+      "Increased in all secretions",
+      "Increased in sweat and decreased in pancreatic and airway secretions"
+    ],
+    "correct_index": 3,
+    "explanation": "The sweat duct normally reabsorbs chloride through CFTR, so failure leaves it in the sweat — the basis of the sweat chloride test. In the airway and pancreas CFTR secretes chloride, so failure makes secretions thick.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (in cystic fibrosis, chloride is increased in sweat and decreased in pancreatic secretions), 2020 NEET-PG (chloride levels in sweat used in diagnosis of cystic fibrosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_114",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Features of cystic fibrosis include all EXCEPT",
+    "options": [
+      "Coagulopathy from vitamin K malabsorption",
+      "Meconium ileus",
+      "Polycythaemia from chronic hypoxia in infancy",
+      "Congenital bilateral absence of the vas deferens"
+    ],
+    "correct_index": 2,
+    "explanation": "Fat-soluble vitamin deficiency (A, D, E, K), pancreatic insufficiency with steatorrhoea, nasal polyps, and male infertility from absent vasa are the recognised features. Meconium ileus presents in the newborn period.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (features of cystic fibrosis — meconium ileus, coagulopathy from vitamin K malabsorption), 2023 INI-CET (congenital absence of seminal vesicles and vas deferens in cystic fibrosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_115",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "A 9-year-old with recurrent sinopulmonary infection and greasy stools develops abdominal pain with a palpable right iliac fossa mass. The likely complication is",
+    "options": [
+      "Appendicitis",
+      "Distal intestinal obstruction syndrome",
+      "Intussusception",
+      "Coeliac crisis"
+    ],
+    "correct_index": 1,
+    "explanation": "Viscid intestinal contents obstruct the terminal ileum and caecum in older children with cystic fibrosis. It is treated with hydration, oral gastrografin or polyethylene glycol, and optimisation of pancreatic enzyme replacement.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (recurrent sinopulmonary infections and greasy stools — distal bowel obstruction in cystic fibrosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_116",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "In a child, an FEV1/FVC ratio above 0.8",
+    "options": [
+      "Confirms asthma",
+      "Does not support a diagnosis of asthma",
+      "Confirms restrictive disease",
+      "Is diagnostic of obstruction"
+    ],
+    "correct_index": 1,
+    "explanation": "Children normally have a higher ratio than adults, so obstruction in a child is suggested below about 0.85 to 0.9. Reversibility — an FEV1 rise of 12% or more after bronchodilator — is what establishes asthma.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (FEV1/FVC ratio >0.8 indicates asthma in a child — false)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_117",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "The management of an acute asthma exacerbation in a child is",
+    "options": [
+      "Oral montelukast",
+      "Inhaled corticosteroid alone",
+      "Oxygen, inhaled salbutamol and systemic corticosteroid",
+      "Antibiotics with chest physiotherapy"
+    ],
+    "correct_index": 2,
+    "explanation": "Ipratropium is added in severe attacks and magnesium sulphate in life-threatening ones. A silent chest, exhaustion or a rising pCO₂ signals impending respiratory failure, not improvement.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (exacerbation of acute asthma in child — oxygen, prednisolone, salbutamol inhalation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_118",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Palivizumab is approved for prophylaxis against",
+    "options": [
+      "Adenovirus",
+      "Influenza A",
+      "Parainfluenza virus",
+      "Respiratory syncytial virus"
+    ],
+    "correct_index": 3,
+    "explanation": "It is a monoclonal antibody given monthly in the RSV season to high-risk infants — extreme prematurity, chronic lung disease, significant congenital heart disease. It prevents severe disease but does not treat established bronchiolitis.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (palivizumab is approved for respiratory syncytial virus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_119",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "A baby born by normal vaginal delivery has respiratory distress unresponsive to surfactant, and lavage shows milky fluid with PAS-positive material. The diagnosis is",
+    "options": [
+      "Meconium aspiration",
+      "Respiratory distress syndrome",
+      "Pulmonary alveolar proteinosis",
+      "Congenital pneumonia"
+    ],
+    "correct_index": 2,
+    "explanation": "Congenital forms arise from surfactant protein B or C mutations or GM-CSF receptor defects, so exogenous surfactant does not help. Whole-lung lavage, and transplantation in severe cases, are the treatments.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (respiratory distress not responding to surfactant — pulmonary alveolar proteinosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_120",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Acute respiratory distress syndrome in a neonate",
+    "options": [
+      "Occurs only in the first 7 days of life",
+      "Can occur at any time, not only in the first week of life",
+      "Is the same entity as respiratory distress syndrome",
+      "Never occurs in neonates"
+    ],
+    "correct_index": 1,
+    "explanation": "Neonatal ARDS follows sepsis, aspiration or pneumonia and reflects diffuse alveolar injury, which is different from the surfactant deficiency of hyaline membrane disease. The two must not be conflated.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (ARDS occurs in first seven days of life — false, ARDS can occur anytime)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_121",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Free-flow oxygen to a newborn **cannot** be delivered by",
+    "options": [
+      "An oxygen mask",
+      "A self-inflating bag",
+      "Oxygen tubing held near the face",
+      "A flow-inflating bag"
+    ],
+    "correct_index": 1,
+    "explanation": "A self-inflating bag delivers gas only when squeezed, because its valve stays closed at rest. A flow-inflating (anaesthesia) bag or T-piece resuscitator maintains continuous flow and can give free-flow oxygen and CPAP.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (free flow oxygen in paediatrics is not given via self-inflating bag)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_122",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "Inhaled nitric oxide is used in",
+    "options": [
+      "Respiratory distress syndrome alone",
+      "Transient tachypnoea of the newborn",
+      "Persistent pulmonary hypertension of the newborn",
+      "Choanal atresia"
+    ],
+    "correct_index": 2,
+    "explanation": "It is a selective pulmonary vasodilator delivered to ventilated alveoli, so it improves ventilation–perfusion matching without systemic hypotension. Sildenafil and ECMO are the alternatives when it fails.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (iNO is used in PPHN)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_123",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "An infant has respiratory distress with a high respiratory rate and a scaphoid abdomen. The step that must be **avoided** is",
+    "options": [
+      "Oxygen by hood",
+      "Endotracheal intubation",
+      "Nasogastric tube insertion",
+      "Bag and mask ventilation"
+    ],
+    "correct_index": 3,
+    "explanation": "A scaphoid abdomen with distress indicates congenital diaphragmatic hernia. Mask ventilation distends the herniated bowel inside the chest and worsens compression, so the airway is secured by intubation with gastric decompression.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (infant with respiratory distress and scaphoid abdomen — bag and mask ventilation to be avoided), 2022 INI-CET anaesthesia (contraindicated in congenital diaphragmatic hernia — bag and mask ventilation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_124",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "A cyanotic child has a boot-shaped heart on chest radiography. The lesion and its determining component are",
+    "options": [
+      "Transposition of the great arteries; parallel circulations",
+      "Total anomalous pulmonary venous connection; obstructed veins",
+      "Tetralogy of Fallot; infundibular pulmonary stenosis",
+      "Tricuspid atresia; absent valve"
+    ],
+    "correct_index": 2,
+    "explanation": "The boot shape comes from right ventricular hypertrophy with a concave pulmonary bay. The degree of pulmonary stenosis determines the severity of cyanosis, since it sets how much blood shunts right to left.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (central cyanotic heart disease with boot shaped heart — TOF), 2020 INI-CET (TOF characterised by infundibular pulmonary stenosis), 2018 AIIMS (boot shaped heart due to RVH)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_125",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "During a cyanotic (tet) spell in tetralogy of Fallot, the most reliable sign of severity is",
+    "options": [
+      "A louder systolic murmur",
+      "Disappearance of the systolic murmur",
+      "A rising oxygen saturation",
+      "Bradycardia"
+    ],
+    "correct_index": 1,
+    "explanation": "The murmur arises from flow across the pulmonary outflow; when infundibular spasm is severe, almost no blood crosses and the murmur vanishes. Management is knee-chest position, oxygen, morphine, fluids and a beta blocker.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (shortest sign of cyanotic spell in TOF — absence of murmur)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_126",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Palliative shunt procedures used in tetralogy of Fallot include",
+    "options": [
+      "Fontan and Glenn procedures only",
+      "Blalock–Taussig and Waterston shunts",
+      "Norwood procedure",
+      "Rashkind septostomy"
+    ],
+    "correct_index": 1,
+    "explanation": "These create a systemic-to-pulmonary connection to increase pulmonary blood flow until definitive repair. The modified Blalock–Taussig shunt uses a Gore-Tex interposition graft. Rashkind septostomy is for transposition.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (surgeries done in tetralogy of Fallot — Blalock-Taussig shunt, Waterston shunt)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_127",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "A snowman or figure-of-eight appearance of the heart, with the same oxygen saturation in all cardiac chambers, indicates",
+    "options": [
+      "Transposition of the great arteries",
+      "Tetralogy of Fallot",
+      "Total anomalous pulmonary venous connection",
+      "Truncus arteriosus"
+    ],
+    "correct_index": 2,
+    "explanation": "All pulmonary venous blood returns to the right side, so complete mixing equalises saturation everywhere. The supracardiac type produces the snowman silhouette; the obstructed infracardiac type presents as a neonatal emergency.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (cyanosis with snowman appearance — TAPVC), 2022 INI-CET (same saturation in all cardiac chambers — TAPVC), 2018 AIIMS (snowman appearance — TAPVC)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_128",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Cyanotic congenital heart disease with **increased** pulmonary blood flow includes",
+    "options": [
+      "Eisenmenger syndrome only",
+      "Tetralogy of Fallot and tricuspid atresia",
+      "Pulmonary atresia and Ebstein anomaly",
+      "Transposition of the great arteries and hypoplastic left heart syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "Truncus arteriosus and TAPVC also belong here. Cyanosis with **reduced** pulmonary flow is the tetralogy group, where right-sided obstruction limits flow — the key division in cyanotic heart disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (cyanotic heart disease with increased pulmonary blood flow — TGA, hypoplastic left heart syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_129",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Which is NOT a feature of Kawasaki disease?",
+    "options": [
+      "Non-exudative bilateral conjunctival injection",
+      "Purulent conjunctivitis",
+      "Cracked lips with a strawberry tongue",
+      "Desquamation of the fingertips"
+    ],
+    "correct_index": 1,
+    "explanation": "The conjunctivitis of Kawasaki disease is **non-purulent**. Fever for 5 days with four of five criteria establishes it, and intravenous immunoglobulin with aspirin within 10 days prevents coronary aneurysm.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not a feature of Kawasaki disease — purulent conjunctivitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_130",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "The minor criteria in the Nadas criteria for rheumatic fever include",
+    "options": [
+      "Subcutaneous nodules",
+      "Carditis and polyarthritis",
+      "Erythema marginatum and chorea",
+      "Abnormal blood pressure and an abnormal second heart sound"
+    ],
+    "correct_index": 3,
+    "explanation": "Options B, C and D are **major** criteria in the Jones system. Nadas criteria were a modification adding cardiovascular findings; the revised Jones criteria remain the standard framework.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Nadas minor criteria includes abnormal BP, abnormal S2, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_131",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Which feature of rheumatic fever is **not** attributed to molecular mimicry?",
+    "options": [
+      "Subcutaneous nodules",
+      "Carditis",
+      "Chorea",
+      "Polyarthritis"
+    ],
+    "correct_index": 3,
+    "explanation": "Carditis and chorea are explained by antibody cross-reactivity with cardiac myosin and basal ganglia antigens. The arthritis is attributed to immune-complex deposition instead, and it is migratory and non-deforming.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (which feature in rheumatic fever is not due to molecular mimicry — polyarthritis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_132",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "A child with a documented episode of rheumatic fever and no carditis requires benzathine penicillin prophylaxis for",
+    "options": [
+      "Lifelong in all cases",
+      "1 year",
+      "10 years or until age 40",
+      "5 years or until age 21, whichever is longer"
+    ],
+    "correct_index": 3,
+    "explanation": "With carditis but no residual disease it is 10 years or until 21; with residual valve disease, 10 years or until 40, whichever is longer. Benzathine penicillin is given every 3 weeks.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (fever, sore throat, normal heart evaluation — benzathine penicillin for 5 years or till 21 years, whichever is longer)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_133",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Congenital complete heart block in a newborn is most often caused by",
+    "options": [
+      "Birth asphyxia",
+      "Maternal diabetes",
+      "Maternal hypothyroidism",
+      "Maternal systemic lupus erythematosus with anti-Ro and anti-La antibodies"
+    ],
+    "correct_index": 3,
+    "explanation": "The antibodies cross the placenta and damage the fetal conducting system between 18 and 24 weeks. The block is usually permanent and often needs pacing, unlike the reversible cutaneous neonatal lupus.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (congenital heart block in newborn caused by maternal SLE), 2023 INI-CET obstetrics (fetal heart block — maternal SLE)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_134",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Preductal oxygen saturation in a fetus or newborn with a patent ductus arteriosus is best measured in the",
+    "options": [
+      "Left lower limb",
+      "Left upper limb",
+      "Right lower limb",
+      "Right upper limb"
+    ],
+    "correct_index": 3,
+    "explanation": "The right subclavian artery arises proximal to the duct, so the right arm carries preductal blood. A preductal-to-postductal difference above 3% suggests a duct-dependent lesion or pulmonary hypertension on pulse oximetry screening.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (preductal O₂ saturation in PDA is measured in the right upper limb)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_135",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "Scarlet fever is characterised by",
+    "options": [
+      "A slapped-cheek appearance",
+      "A maculopapular rash with Koplik spots",
+      "A vesicular rash in crops",
+      "A sandpaper-like rash with circumoral pallor, a strawberry tongue and desquamation of the palms"
+    ],
+    "correct_index": 3,
+    "explanation": "Group A streptococcal erythrogenic toxin causes it, with Pastia lines in the flexures. Penicillin is given to prevent rheumatic fever. Option D describes parvovirus B19 erythema infectiosum.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (scarlet fever — goose flesh like rash, desquamation of palms, strawberry tongue)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_136",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A 3-year-old has bloody diarrhoea followed by haematuria, thrombocytopenia and anaemia with fragmented red cells. The commonest cause is",
+    "options": [
+      "*Shigella sonnei*",
+      "*Streptococcus pneumoniae*",
+      "A complement regulatory protein mutation",
+      "Shiga toxin-producing *Escherichia coli* O157:H7"
+    ],
+    "correct_index": 3,
+    "explanation": "Typical haemolytic uraemic syndrome. Management is supportive with careful fluid balance and dialysis if needed; **antibiotics and antimotility drugs are avoided** because they increase toxin release.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (3-year-old with diarrhoea, haematuria, thrombocytopenia — *E. coli* O157:H7 causing HUS)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_137",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A child has brown urine, oliguria, mild periorbital and pedal oedema with 3+ proteinuria 2 weeks after a sore throat. The diagnosis is",
+    "options": [
+      "Haemolytic uraemic syndrome",
+      "IgA nephropathy",
+      "Minimal change disease",
+      "Post-streptococcal glomerulonephritis"
+    ],
+    "correct_index": 3,
+    "explanation": "A latent period of 1 to 3 weeks with a low C3 that recovers by about 8 weeks is characteristic. **IgA nephropathy** gives synpharyngitic haematuria within 1 to 2 days and a normal complement.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (brown urine, oliguria, oedema, 3+ proteinuria — PSGN)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_138",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A child has generalised oedema, 3+ proteinuria, raised cholesterol and oval fat bodies with a serum albumin of 2.5 g/dL. The commonest underlying histology is",
+    "options": [
+      "Membranoproliferative glomerulonephritis",
+      "Focal segmental glomerulosclerosis",
+      "Membranous nephropathy",
+      "Minimal change disease"
+    ],
+    "correct_index": 3,
+    "explanation": "It accounts for most childhood nephrotic syndrome and responds to steroids, so biopsy is deferred unless there are atypical features. Electron microscopy shows podocyte foot-process effacement with normal light microscopy.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (oedema, 3+ protein, raised cholesterol, oval fat bodies — nephrotic syndrome), 2015 AIIMS (child with oedema, decreased urine output, albumin 2.5 — minimal change disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_139",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "Regarding vaccination in a child with steroid-resistant nephrotic syndrome",
+    "options": [
+      "Household siblings must not receive any vaccine",
+      "All live vaccines can be given freely",
+      "No vaccines should ever be given",
+      "Only killed vaccines may be given to the child, and live vaccines are deferred until immunosuppression is reduced"
+    ],
+    "correct_index": 3,
+    "explanation": "Pneumococcal and annual influenza vaccination are specifically recommended because of the infection risk. Siblings may receive inactivated vaccines normally; oral polio vaccine in a close contact needs care.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (vaccination in steroid resistant nephrotic syndrome — only killed vaccines, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_140",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A 12-year-old boy has sensorineural deafness, recurrent haematuria and a maternal uncle who died of renal failure. The diagnosis is",
+    "options": [
+      "Polycystic kidney disease",
+      "Thin basement membrane disease",
+      "IgA nephropathy",
+      "Alport syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "X-linked in about 85% of cases, from a type IV collagen *COL4A5* defect, so males are severely affected and the family history runs through the mother. Basket-weave splitting of the basement membrane is seen on electron microscopy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (deafness, recurrent haematuria, death of maternal uncle — Alport syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_141",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "An 11-year-old has abdominal pain with palpable purpura over the back and legs. The indication for glucocorticoids is",
+    "options": [
+      "Isolated microscopic haematuria",
+      "The rash alone",
+      "Arthralgia alone",
+      "Significant abdominal pain"
+    ],
+    "correct_index": 3,
+    "explanation": "IgA vasculitis (Henoch–Schönlein purpura) usually needs only supportive care. Steroids are reserved for severe abdominal pain, scrotal involvement or significant nephritis. Intussusception is the complication to watch for.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (indication of steroids in IgA vasculitis — pain abdomen), 2023 NEET-PG (abdominal pain with purpura — glucocorticoids for HSP)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_142",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A child has polyuria, polydipsia, hypercalciuria, hypokalaemia and metabolic alkalosis with normal blood pressure. The diagnosis is",
+    "options": [
+      "Primary hyperaldosteronism",
+      "Liddle syndrome",
+      "Gitelman syndrome",
+      "Bartter syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "A loop-of-Henle transport defect behaving like a furosemide effect, so calcium is **wasted**. Gitelman syndrome mimics a thiazide, with hypocalciuria and hypomagnesaemia; Liddle syndrome causes hypertension with low renin and aldosterone.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (polyuria, polydipsia, hypercalciuria, hypokalaemia, alkalosis — Bartter syndrome), 2023 INI-CET (hypokalaemic metabolic alkalosis — Liddle syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_143",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "Type 4 renal tubular acidosis is associated with",
+    "options": [
+      "Hypocalcaemia only",
+      "Hypokalaemia",
+      "Normal potassium",
+      "Hyperkalaemia"
+    ],
+    "correct_index": 3,
+    "explanation": "Type 4 results from aldosterone deficiency or resistance, so potassium is retained. Types 1 and 2 cause **hypo**kalaemia. All produce a normal anion gap, hyperchloraemic acidosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypokalaemia is seen in RTA type 4 — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_144",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "The commonest cause of urinary tract obstruction in a male infant is",
+    "options": [
+      "Urethral stricture",
+      "Pelvi-ureteric junction obstruction",
+      "Vesicoureteric reflux",
+      "Posterior urethral valves"
+    ],
+    "correct_index": 3,
+    "explanation": "A keyhole bladder appears on antenatal ultrasound. Bladder drainage comes first, then a micturating cystourethrogram, then endoscopic valve ablation. Renal dysplasia determines the long-term outcome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (commonest cause of urinary tract obstruction in male children — posterior urethral valves)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_145",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "Which statement about urinary tract infection in children is TRUE?",
+    "options": [
+      "Circumcision increases risk in male infants",
+      "*Proteus* is commonest in girls",
+      "Constipation is unrelated to risk",
+      "*Escherichia coli* is the commonest organism and bladder–bowel dysfunction increases the risk"
+    ],
+    "correct_index": 3,
+    "explanation": "Constipation and incomplete voiding are modifiable risk factors and are treated as part of management. Circumcision **reduces** risk in male infants. *Proteus* is associated with stones and with uncircumcised boys.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (true about UTI in children — commonest cause *E. coli*, bladder and bowel dysfunction increases risk, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_146",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "An 18-week pregnancy with a uterus measuring 16 weeks and severe oligohydramnios suggests",
+    "options": [
+      "Twin pregnancy",
+      "Posterior urethral valves",
+      "Gestational diabetes",
+      "Bilateral renal agenesis"
+    ],
+    "correct_index": 3,
+    "explanation": "Fetal urine is the main source of amniotic fluid after 16 weeks, so bilateral agenesis causes anhydramnios. Potter sequence follows, with pulmonary hypoplasia, limb positional deformity and the characteristic flat facies.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (18-week POG, uterus 16 weeks, oligohydramnios — renal agenesis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_147",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "A 4-year-old boy weighing 15 kg and 100 cm tall has a serum creatinine of 1 mg/dL. Using the Schwartz formula with k = 0.413, the estimated GFR is about",
+    "options": [
+      "100 mL/min/1.73 m²",
+      "20 mL/min/1.73 m²",
+      "80 mL/min/1.73 m²",
+      "41 mL/min/1.73 m²"
+    ],
+    "correct_index": 3,
+    "explanation": "Schwartz GFR = k × height in cm ÷ serum creatinine = 0.413 × 100 ÷ 1 = 41.3. Height, not weight, is the variable in the formula — a common error. This value indicates stage 3 chronic kidney disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (4-year-old, 15 kg, 100 cm, creatinine — 40 mL/min/1.73 m²)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_148",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "The commonest renal mass in a 5-year-old shows which characteristics?",
+    "options": [
+      "A multicystic non-functioning kidney",
+      "Small round blue cells crossing the midline with raised urinary VMA",
+      "Clear cells with von Hippel–Lindau association",
+      "Triphasic histology, a pseudocapsule, and an association with aniridia and hemihypertrophy"
+    ],
+    "correct_index": 3,
+    "explanation": "Wilms tumour — blastemal, epithelial and stromal elements, arising within the kidney and distorting the calyces. **Neuroblastoma** crosses the midline, displaces the kidney and raises urinary VMA and HVA.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (most common cause of renal mass in a 5-year-old — triphasic histology, aniridia), 2016 AIIMS (Wilms tumour — pseudocapsule, associated with aniridia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_149",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "A 3-month-old has jaundice, clay-coloured stools and conjugated hyperbilirubinaemia. The diagnosis and the investigation of choice are",
+    "options": [
+      "Gilbert syndrome; genetic testing",
+      "Breast milk jaundice; no investigation",
+      "Physiological jaundice; serum bilirubin only",
+      "Biliary atresia; hepatobiliary scintigraphy with ultrasound"
+    ],
+    "correct_index": 3,
+    "explanation": "Conjugated hyperbilirubinaemia in an infant is **never** physiological. A triangular cord sign and absent gall bladder on ultrasound support it, and intraoperative cholangiogram is definitive.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (3-month-old with jaundice, clay coloured stools, conjugated hyperbilirubinaemia — biliary atresia), 2014 AIIMS (investigation of choice to rule out biliary atresia — hepatic scintigraphy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_150",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "The Kasai portoenterostomy for biliary atresia is ideally performed",
+    "options": [
+      "Only after liver failure develops",
+      "At 6 months",
+      "At 1 year",
+      "Before 2 months of age"
+    ],
+    "correct_index": 3,
+    "explanation": "Progressive fibrosis obliterates the microscopic ducts, so success falls sharply with delay. Even after a successful Kasai procedure, many children eventually need liver transplantation — the commonest indication for transplant in children.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Kasai surgery ideally done before 2 months)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_151",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "A 6-week-old has non-bilious, non-projectile vomiting with a normal abdominal examination and normal growth. The likely diagnosis is",
+    "options": [
+      "Malrotation with volvulus",
+      "Infantile hypertrophic pyloric stenosis",
+      "Duodenal atresia",
+      "Gastro-oesophageal reflux"
+    ],
+    "correct_index": 3,
+    "explanation": "Reflux is common, non-projectile and compatible with normal growth, needing only positioning and feeding advice. **Projectile** vomiting with visible peristalsis and an olive-shaped mass would indicate pyloric stenosis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (6-week-old with non-bilious non-projectile vomiting and normal examination — GERD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_152",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "A 7-week-old has projectile vomiting with a palpable pebble-like epigastric mass. The expected biochemistry is",
+    "options": [
+      "Respiratory alkalosis",
+      "Hyperchloraemic metabolic acidosis",
+      "High anion gap metabolic acidosis",
+      "Hypochloraemic hypokalaemic metabolic alkalosis with paradoxical aciduria"
+    ],
+    "correct_index": 3,
+    "explanation": "Loss of gastric hydrochloric acid drives it. Correction of fluid and electrolytes **precedes** pyloromyotomy, because alkalosis causes postoperative apnoea. Ultrasound showing a thickened pylorus confirms the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (7-week-old, projectile vomiting, pebble like mass — hypochloraemic hypokalaemic metabolic alkalosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_153",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "The commonest cause of acute diarrhoea with dehydration in a 2-year-old is",
+    "options": [
+      "*Giardia*",
+      "*Vibrio cholerae*",
+      "*Shigella*",
+      "Rotavirus"
+    ],
+    "correct_index": 3,
+    "explanation": "It damages the small bowel villi, producing a non-inflammatory watery diarrhoea with secondary lactase deficiency. Vaccination has substantially reduced severe disease and hospitalisation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (commonest cause of diarrhoea and dehydration in a 2-year-old — rotavirus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_154",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "In the fetus, the highest oxygen concentration is found in the",
+    "options": [
+      "Superior vena cava",
+      "Umbilical artery",
+      "Pulmonary artery",
+      "Inferior vena cava, via the ductus venosus"
+    ],
+    "correct_index": 3,
+    "explanation": "The umbilical **vein** carries the most oxygenated blood, which bypasses the liver through the ductus venosus into the IVC, then streams across the foramen ovale to supply the brain preferentially.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (in foetus, highest O₂ concentration is found in IVC)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_155",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "MRP2 mutation causes",
+    "options": [
+      "Dubin–Johnson syndrome",
+      "Rotor syndrome",
+      "Gilbert syndrome",
+      "Crigler–Najjar syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Defective canalicular transport of conjugated bilirubin gives conjugated hyperbilirubinaemia with a characteristically **black liver**. Rotor syndrome is similar biochemically but the liver is not pigmented.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (MRP2 mutation is seen in Dubin Johnson syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_156",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "Congenital **unconjugated** hyperbilirubinaemia occurs in",
+    "options": [
+      "Gilbert and Crigler–Najjar syndromes",
+      "Dubin–Johnson and Rotor syndromes",
+      "Biliary atresia",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "correct_index": 0,
+    "explanation": "Both involve UDP-glucuronosyltransferase: partial deficiency in Gilbert syndrome, which is benign, and near-complete absence in Crigler–Najjar type I, which causes kernicterus and needs phototherapy and transplantation.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (congenital unconjugated hyperbilirubinaemia — Gilbert, Crigler-Najjar, sepsis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_157",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "A child with conjugated hyperbilirubinaemia and intrahepatic cholestasis whose liver biopsy shows PAS-positive, diastase-resistant globules has",
+    "options": [
+      "Alpha-1 antitrypsin deficiency",
+      "Wilson disease",
+      "Glycogen storage disease",
+      "Hereditary haemochromatosis"
+    ],
+    "correct_index": 0,
+    "explanation": "The misfolded Z variant accumulates in hepatocytes, giving neonatal cholestasis and later cirrhosis, with panacinar emphysema in adult life. The PiZZ phenotype is the severe one.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (conjugated hyperbilirubinaemia with intrahepatic cholestasis — alpha-1 antitrypsin deficiency), 2015 AIIMS (metabolic paediatric liver disease — haemochromatosis, Gaucher, Wilson, galactosaemia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_158",
+    "subject": "Pediatrics",
+    "sub_topic": "Gi",
+    "stem": "A child has swallowed a button battery and the radiograph shows it lodged in the **oesophagus**. The correct action is",
+    "options": [
+      "Urgent endoscopic removal",
+      "Repeat the radiograph after 5 days",
+      "Give a laxative and observe",
+      "Induce vomiting"
+    ],
+    "correct_index": 0,
+    "explanation": "A battery in the oesophagus causes caustic mucosal injury within hours and can perforate or form a fistula, so removal is an emergency. Only a battery that has already reached the **stomach** in an asymptomatic child may be observed.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (button battery ingestion — repeat X-ray after five days, applicable only once past the oesophagus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_159",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "A 4-day-old has a TSH of 100 mIU/L on newborn screening. The next investigation is",
+    "options": [
+      "A radionuclide thyroid scan with free T4, while starting levothyroxine without delay",
+      "Repeat screening at 6 weeks",
+      "Thyroid autoantibodies only",
+      "Observation until 3 months"
+    ],
+    "correct_index": 0,
+    "explanation": "Scintigraphy distinguishes agenesis, ectopia and dyshormonogenesis, but it must never delay treatment: every week of untreated congenital hypothyroidism costs IQ points. Treatment is started and aetiology clarified in parallel.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (4-day-old with TSH of 100 — radionuclide scan)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_160",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "Pendrin is",
+    "options": [
+      "A chloride–iodide transport protein, defective in Pendred syndrome",
+      "A sodium–iodide symporter",
+      "A thyroid hormone receptor",
+      "A thyroglobulin precursor"
+    ],
+    "correct_index": 0,
+    "explanation": "Pendred syndrome combines sensorineural deafness with goitre and a dyshormonogenetic hypothyroidism. The sodium–iodide symporter is the separate basolateral transporter that concentrates iodide.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pendrin is a chloride iodide transport protein)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_161",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "A 3-week-old has ambiguous genitalia with hyponatraemia and hyperkalaemia. The immediate management is",
+    "options": [
+      "Intravenous fluids with hydrocortisone",
+      "Insulin and dextrose",
+      "Immediate gender assignment surgery",
+      "Oral fludrocortisone alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Salt-wasting congenital adrenal hyperplasia from 21-hydroxylase deficiency. Blood is taken for 17-hydroxyprogesterone, electrolytes and karyotype **before** steroid is given, but treatment is not delayed for results.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (3-week neonate with ambiguous genitalia, hyponatraemia, hyperkalaemia — IV fluids and hydrocortisone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_162",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "A 10-year-old has severe dehydration with a raised blood glucose, glycosuria and ketonuria. The management sequence is",
+    "options": [
+      "Manage airway, breathing and circulation, give normal saline 20 mL/kg, then start insulin after about an hour",
+      "Start insulin immediately with the first fluid bolus",
+      "Give a bicarbonate infusion first",
+      "Give 5% dextrose as the resuscitation fluid"
+    ],
+    "correct_index": 0,
+    "explanation": "Fluid precedes insulin because insulin shifts water intracellularly and can worsen shock and precipitate cerebral oedema — the leading cause of death in paediatric diabetic ketoacidosis. Potassium is added before insulin if low.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (10-year-old with severe dehydration and raised RBS — manage ABC, NS 20 mL/kg, insulin after 1 hour, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_163",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "The hormone **not** required for intrauterine growth is",
+    "options": [
+      "Growth hormone",
+      "Insulin",
+      "Insulin-like growth factor 1",
+      "Thyroid hormone"
+    ],
+    "correct_index": 0,
+    "explanation": "Fetal growth depends on nutrient supply acting through insulin and IGF-1. Growth hormone becomes the dominant driver only after infancy, which is why anencephalic fetuses can still achieve normal size.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hormone not needed for in utero growth — growth hormone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_164",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "The fetal adrenal cortex primarily secretes",
+    "options": [
+      "DHEAS",
+      "Cortisol",
+      "Aldosterone",
+      "Adrenaline"
+    ],
+    "correct_index": 0,
+    "explanation": "The fetal zone lacks 3-beta-hydroxysteroid dehydrogenase, so it produces the sulphated androgen, which the placenta aromatises to oestriol. The fetal zone involutes rapidly after birth.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (fetal adrenal cortex primarily secretes DHEAS)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_165",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "A 10-year-old boy at sexual maturity rating 5 with hyperpigmentation, short stature and a height age below chronological age most likely has",
+    "options": [
+      "Precocious puberty from congenital adrenal hyperplasia, with premature epiphyseal fusion",
+      "Growth hormone deficiency",
+      "Hypothyroidism",
+      "Constitutional delay of growth"
+    ],
+    "correct_index": 0,
+    "explanation": "Excess adrenal androgen accelerates maturation, so the child is tall as a child but short as an adult. Hyperpigmentation reflects high ACTH. Bone age exceeds chronological age — the opposite of growth hormone deficiency.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (10-year-old, SMR-5, hyperpigmentation, short stature)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_166",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "The commonest inherited bleeding disorder is",
+    "options": [
+      "Von Willebrand disease",
+      "Haemophilia A",
+      "Haemophilia B",
+      "Factor V deficiency"
+    ],
+    "correct_index": 0,
+    "explanation": "It is autosomal, affects both sexes and causes mucocutaneous bleeding with a prolonged bleeding time and often a mildly raised aPTT. Haemophilia A is the commonest **severe** inherited disorder but is less prevalent overall.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (most common inherited bleeding disorder — von Willebrand disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_167",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "Parvovirus B19 in children can cause all of the following EXCEPT",
+    "options": [
+      "Chronic haemolysis with splenomegaly",
+      "Transient aplastic crisis in sickle cell disease",
+      "Pure red cell aplasia",
+      "Hydrops fetalis"
+    ],
+    "correct_index": 0,
+    "explanation": "The virus infects erythroid progenitors, so it causes **production failure**, not haemolysis. In a child with an already shortened red cell lifespan, a brief arrest of production precipitates an aplastic crisis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (parvovirus causes pure red cell aplasia, hydrops fetalis, transient aplastic crisis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_168",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "A child with anaemia, myocarditis, high-output cardiac failure and ascites most likely has infection with",
+    "options": [
+      "Parvovirus B19",
+      "Coxsackievirus B",
+      "Cytomegalovirus",
+      "Epstein–Barr virus"
+    ],
+    "correct_index": 0,
+    "explanation": "Severe anaemia drives the high-output failure, and the virus can also cause a direct myocarditis. Erythema infectiosum with a slapped-cheek rash is the common benign presentation in the immunocompetent child.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (anaemia, myocarditis, high output heart failure, ascites — parvovirus B19)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_169",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunodeficiency",
+    "stem": "An 11-month-old boy has recurrent bloody stools, atopic dermatitis and petechiae with small platelets. The gene to screen is",
+    "options": [
+      "*WASP*",
+      "*BTK*",
+      "*ADA*",
+      "*CYBB*"
+    ],
+    "correct_index": 0,
+    "explanation": "Wiskott–Aldrich syndrome is the X-linked triad of eczema, thrombocytopenia with characteristically **small** platelets, and immunodeficiency. *BTK* causes X-linked agammaglobulinaemia and *CYBB* chronic granulomatous disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (recurrent bloody stools, atopic dermatitis, petechiae — screen for WASP gene, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_170",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "A child complains of back pain and sweating partway through a blood transfusion. The first action is",
+    "options": [
+      "Stop the transfusion immediately",
+      "Slow the transfusion and give an antihistamine",
+      "Give paracetamol and continue",
+      "Complete the unit then investigate"
+    ],
+    "correct_index": 0,
+    "explanation": "Back pain, fever and haemoglobinuria suggest an acute haemolytic reaction from ABO incompatibility. The line is kept for saline, the unit and patient identity rechecked, and the bag returned to the blood bank.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (back pain and sweating during blood transfusion — stop the transfusion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_171",
+    "subject": "Pediatrics",
+    "sub_topic": "Oncology",
+    "stem": "Children with **germline** retinoblastoma are at increased risk of",
+    "options": [
+      "Osteosarcoma",
+      "Wilms tumour",
+      "Neuroblastoma",
+      "Hepatoblastoma"
+    ],
+    "correct_index": 0,
+    "explanation": "The *RB1* tumour suppressor is lost in every cell, so a second malignancy — classically osteosarcoma, and raised further by radiotherapy — follows in survivors. Germline disease is bilateral or multifocal and presents earlier.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (children with germline retinoblastoma can develop osteosarcoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_172",
+    "subject": "Pediatrics",
+    "sub_topic": "Oncology",
+    "stem": "Cerebellar haemangioblastoma with renal cell carcinoma indicates",
+    "options": [
+      "Von Hippel–Lindau syndrome",
+      "Tuberous sclerosis",
+      "Neurofibromatosis type 1",
+      "Sturge–Weber syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Autosomal dominant loss of the *VHL* tumour suppressor on chromosome 3p. Retinal and CNS haemangioblastomas, clear cell renal carcinoma, phaeochromocytoma and pancreatic cysts make up the syndrome.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (cerebellar haemangioblastoma with RCC — von Hippel Lindau syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_173",
+    "subject": "Pediatrics",
+    "sub_topic": "Oncology",
+    "stem": "Ganciclovir resistance in cytomegalovirus arises from mutations in",
+    "options": [
+      "*UL97* kinase and the viral DNA polymerase",
+      "Thymidine kinase alone",
+      "The *UL54* capsid gene only",
+      "Reverse transcriptase"
+    ],
+    "correct_index": 0,
+    "explanation": "Ganciclovir needs phosphorylation by the viral *UL97* kinase, so loss of that function confers resistance; polymerase mutations give higher-grade resistance. Foscarnet and cidofovir do not require this activation.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (ganciclovir resistance in CMV due to mutation in UL97 gene and DNA polymerase), 2020 INI-CET (commonest cause of infection post solid organ transplantation — CMV, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_174",
+    "subject": "Pediatrics",
+    "sub_topic": "Respiratory",
+    "stem": "A 6-month-old has coryza for 2 days then wheeze, tachypnoea and hyperinflation. The treatment is",
+    "options": [
+      "Supportive care with oxygen and feeding support",
+      "Nebulised salbutamol with oral steroids",
+      "Intravenous antibiotics",
+      "Nebulised adrenaline and dexamethasone"
+    ],
+    "correct_index": 0,
+    "explanation": "Acute bronchiolitis, usually respiratory syncytial virus, does not respond to bronchodilators, steroids or antibiotics. Minimal handling, oxygen for saturations below about 90% and nasogastric or intravenous fluids are what help.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (palivizumab for RSV), 2021 INI-CET (acute asthma management in children)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_175",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Neonatal hypoglycaemia is conventionally treated when the blood glucose falls below",
+    "options": [
+      "45 mg/dL, with intravenous dextrose if symptomatic or below 25 mg/dL",
+      "70 mg/dL in all babies",
+      "20 mg/dL only",
+      "100 mg/dL"
+    ],
+    "correct_index": 0,
+    "explanation": "Preterm, growth-restricted, macrosomic and infant-of-diabetic-mother babies are screened routinely. A 2 mL/kg bolus of 10% dextrose is followed by an infusion; glucose above 10 to 12 mg/kg/min suggests hyperinsulinism.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (complications in infant of diabetic mother — hypocalcaemia), 2018 AIIMS (investigations in baby of diabetic mother)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_176",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "A preterm baby on feeds develops abdominal distension, bloody stools and pneumatosis intestinalis on radiography. The diagnosis and management are",
+    "options": [
+      "Necrotising enterocolitis; stop feeds, nasogastric decompression, antibiotics and surgery for perforation",
+      "Hirschsprung disease; rectal biopsy",
+      "Milk protein allergy; change formula",
+      "Volvulus; immediate laparotomy in all cases"
+    ],
+    "correct_index": 0,
+    "explanation": "Prematurity is the dominant risk factor. Portal venous gas and pneumoperitoneum are ominous, and breast milk with careful feed advancement is protective. Bell staging guides management.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (congenital diaphragmatic hernia), 2023 INI-CET (neonatal sepsis — *Streptococcus agalactiae*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_177",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Screening for retinopathy of prematurity should begin",
+    "options": [
+      "At 4 weeks of age or 31 weeks corrected gestational age, whichever is later",
+      "At birth",
+      "At 3 months of age",
+      "Only if the baby received oxygen"
+    ],
+    "correct_index": 0,
+    "explanation": "Babies below 34 weeks or 2,000 g are screened. Uncontrolled oxygen is the key modifiable risk, and treatment is laser photocoagulation or intravitreal anti-VEGF for threshold disease.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (lanugo and prematurity), 2024 INI-CET (iNO and neonatal oxygen therapy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_178",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Kangaroo mother care requires",
+    "options": [
+      "Continuous skin-to-skin contact with exclusive breastfeeding in a stable low-birth-weight baby",
+      "An incubator at all times",
+      "A baby above 2,500 g only",
+      "Separation from the mother for monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "It reduces mortality, hypothermia, infection and length of stay, and improves breastfeeding and weight gain. It is one of the highest-yield low-cost interventions in newborn care.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ideal delivery room temperature), 2021 INI-CET (signs of good attachment to breast, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_179",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Apnoea of prematurity is treated with",
+    "options": [
+      "Caffeine citrate, with CPAP for recurrent episodes",
+      "Theophylline as first choice",
+      "Doxapram as first choice",
+      "Prophylactic antibiotics"
+    ],
+    "correct_index": 0,
+    "explanation": "Caffeine has a wider therapeutic window than theophylline and also reduces bronchopulmonary dysplasia and cerebral palsy. Apnoea beginning after the first day of life must prompt a search for sepsis, hypoglycaemia or haemorrhage.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (INSURE in RDS), 2023 INI-CET (free flow oxygen delivery in neonates)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_180",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Exchange transfusion in neonatal hyperbilirubinaemia is indicated by",
+    "options": [
+      "A bilirubin above the exchange threshold for gestation and age, or any sign of acute bilirubin encephalopathy",
+      "A bilirubin above 15 mg/dL in all babies",
+      "Failure of phototherapy after 24 hours in all cases",
+      "Jaundice persisting beyond 2 weeks"
+    ],
+    "correct_index": 0,
+    "explanation": "Lethargy, poor feeding, hypertonia with retrocollis and a high-pitched cry are the warning signs. Kernicterus causes choreoathetoid cerebral palsy, sensorineural deafness and upgaze palsy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (4-day-old with bilirubin 18 — phototherapy, 2X), 2017 AIIMS (jaundice on first day of life)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_181",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The commonest organism in **late-onset** neonatal sepsis in a hospital setting is",
+    "options": [
+      "Coagulase-negative staphylococci",
+      "Group B *Streptococcus*",
+      "*Listeria monocytogenes*",
+      "*Clostridium perfringens*"
+    ],
+    "correct_index": 0,
+    "explanation": "Late-onset sepsis after 72 hours is usually nosocomial and line-related, whereas early-onset sepsis reflects maternal flora — group B *Streptococcus*, *Escherichia coli* and *Listeria*. Hand hygiene is the main preventive measure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (*Streptococcus agalactiae* causes neonatal sepsis), 2021 INI-CET (order of neonatal mortality — prematurity, sepsis, asphyxia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_182",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "Bronchopulmonary dysplasia is defined as",
+    "options": [
+      "A need for supplemental oxygen at 36 weeks corrected gestational age in a preterm infant",
+      "Respiratory distress in the first 6 hours of life",
+      "Apnoea requiring caffeine",
+      "Pneumothorax in a ventilated baby"
+    ],
+    "correct_index": 0,
+    "explanation": "Volutrauma, oxygen toxicity and inflammation cause it, so gentle ventilation, early CPAP and caffeine reduce it. Vitamin A and, in selected babies, low-dose dexamethasone are used.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (INSURE technique in RDS), 2019 NEET-PG (type 2 alveolar cells in RDS)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_183",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunisation",
+    "stem": "Under India's Universal Immunisation Programme, measles–rubella vaccine is given at",
+    "options": [
+      "9 to 12 months, with a second dose at 16 to 24 months",
+      "Birth and 6 weeks",
+      "6 months only",
+      "5 years only"
+    ],
+    "correct_index": 0,
+    "explanation": "BCG, zero-dose OPV and hepatitis B are given at birth; pentavalent with OPV and rotavirus at 6, 10 and 14 weeks; IPV at 6 and 14 weeks. National schedules change by government order, so verify against the current one.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (baby vaccinated at birth and 14 weeks — MR and vitamin A at 9 months), 2023 INI-CET (vaccines for an unimmunised 18-month-old, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_184",
+    "subject": "Pediatrics",
+    "sub_topic": "Immunisation",
+    "stem": "BCG vaccine is given",
+    "options": [
+      "Intradermally over the left upper arm, and protects mainly against disseminated tuberculosis and tuberculous meningitis",
+      "Subcutaneously over the thigh, protecting against pulmonary tuberculosis",
+      "Intramuscularly, protecting against all forms of tuberculosis",
+      "Orally at birth"
+    ],
+    "correct_index": 0,
+    "explanation": "Protection against adult pulmonary tuberculosis is poor, which is the point the past papers test. A papule appearing at 2 to 3 weeks and scarring by 6 to 12 weeks is the expected response.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (BCG provides effective protection for disseminated TB, not pulmonary TB)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_185",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Vitamin A prophylaxis in India is given as",
+    "options": [
+      "100,000 IU at 9 months, then 200,000 IU six-monthly up to 5 years",
+      "200,000 IU at birth",
+      "50,000 IU monthly throughout childhood",
+      "100,000 IU once only"
+    ],
+    "correct_index": 0,
+    "explanation": "Vitamin A reduces measles mortality and prevents xerophthalmia, with Bitot spots and night blindness as early signs. Programme doses change by government order.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MR and oral vitamin A at 9 completed months), 2015 AIIMS (milk deficient in vitamin D)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_186",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "Iron deficiency anaemia in a child is treated with elemental iron at",
+    "options": [
+      "3 to 6 mg/kg/day, continued for 2 to 3 months after the haemoglobin normalises",
+      "1 mg/kg/day for 1 week",
+      "20 mg/kg/day for 6 weeks",
+      "Intravenous iron as first line in all children"
+    ],
+    "correct_index": 0,
+    "explanation": "Continuation replenishes stores. A reticulocyte rise within a week confirms response, and failure to respond suggests poor adherence, continuing loss, malabsorption or a wrong diagnosis such as thalassaemia trait.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (most common inherited bleeding disorder), 2015 AIIMS (undernutrition definitions)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_187",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "A 9-month-old has pallor, hepatosplenomegaly, a haemoglobin of 5 g/dL with a low MCV and raised HbF on electrophoresis. The diagnosis is",
+    "options": [
+      "Beta thalassaemia major",
+      "Iron deficiency anaemia",
+      "Sickle cell disease",
+      "Hereditary spherocytosis"
+    ],
+    "correct_index": 0,
+    "explanation": "Presentation after 6 months coincides with the switch from fetal to adult haemoglobin. Regular transfusion with iron chelation is standard; untreated children develop the chipmunk facies of extramedullary haematopoiesis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (inherited bleeding disorder), 2024 INI-CET (parvovirus and aplastic crisis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_188",
+    "subject": "Pediatrics",
+    "sub_topic": "Haematology",
+    "stem": "A well child develops petechiae and bruising 2 weeks after a viral illness, with a platelet count of 15,000/µL and an otherwise normal blood film. The management is",
+    "options": [
+      "Observation, with IVIG or steroids only for significant bleeding",
+      "Immediate platelet transfusion",
+      "Bone marrow transplantation",
+      "Splenectomy"
+    ],
+    "correct_index": 0,
+    "explanation": "Childhood immune thrombocytopenia usually remits spontaneously, so treatment is driven by bleeding rather than by the count. Platelet transfusion is reserved for life-threatening haemorrhage because transfused platelets are destroyed rapidly.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Wiskott–Aldrich with petechiae, 2X), 2014 AIIMS (transfusion reaction)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_189",
+    "subject": "Pediatrics",
+    "sub_topic": "Oncology",
+    "stem": "The commonest malignancy of childhood is",
+    "options": [
+      "Acute lymphoblastic leukaemia",
+      "Neuroblastoma",
+      "Wilms tumour",
+      "Retinoblastoma"
+    ],
+    "correct_index": 0,
+    "explanation": "It accounts for about a quarter of childhood cancer, peaking at 2 to 5 years with pallor, fever, bruising, bone pain and organomegaly. Brain tumours are the commonest **solid** tumours. Cure rates now exceed 85%.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (germline retinoblastoma and osteosarcoma), 2018 AIIMS (Wilms tumour features)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_190",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "Steroid-sensitive nephrotic syndrome in a child is defined by",
+    "options": [
+      "Remission within 4 weeks of daily prednisolone at 2 mg/kg/day",
+      "Remission within 1 week",
+      "Response only to cyclophosphamide",
+      "Spontaneous remission without treatment"
+    ],
+    "correct_index": 0,
+    "explanation": "Frequent relapses mean two or more in 6 months; steroid dependence means relapse on tapering. Failure to remit by 4 to 6 weeks defines resistance and is an indication for biopsy and genetic testing.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (vaccination in steroid resistant nephrotic syndrome, 2X), 2015 AIIMS (minimal change disease)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_191",
+    "subject": "Pediatrics",
+    "sub_topic": "Renal",
+    "stem": "After a first febrile urinary tract infection in an infant, the imaging usually recommended first is",
+    "options": [
+      "Ultrasound of the kidneys, ureters and bladder",
+      "Micturating cystourethrogram in all infants",
+      "DMSA scan immediately",
+      "CT urography"
+    ],
+    "correct_index": 0,
+    "explanation": "A micturating cystourethrogram is reserved for abnormal ultrasound, atypical or recurrent infection, and is the test that grades vesicoureteric reflux. DMSA scanning detects cortical scarring and is done after the acute episode.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (true about UTI in children, 2X), 2022 INI-CET (posterior urethral valves)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_192",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "Delayed puberty is defined as absence of breast development by",
+    "options": [
+      "13 years in girls, and absence of testicular enlargement by 14 years in boys",
+      "11 years in girls and 12 years in boys",
+      "16 years in girls and 17 years in boys",
+      "10 years in both sexes"
+    ],
+    "correct_index": 0,
+    "explanation": "Precocious puberty is onset before 8 years in girls and 9 years in boys. Constitutional delay with a positive family history and a delayed bone age is the commonest benign cause.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (SMR-5 with short stature), 2014 AIIMS (DOC for precocious puberty — GnRH analogues)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_193",
+    "subject": "Pediatrics",
+    "sub_topic": "Endocrine",
+    "stem": "In a short child, a bone age **less** than chronological age with a normal growth velocity suggests",
+    "options": [
+      "Constitutional delay or an endocrine cause, rather than a skeletal dysplasia",
+      "Familial short stature",
+      "Achondroplasia",
+      "Precocious puberty"
+    ],
+    "correct_index": 0,
+    "explanation": "Bone age is **normal** in familial short stature and **delayed** in constitutional delay, hypothyroidism and growth hormone deficiency — the single most useful discriminator in the short-stature workup.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (short stature with US/LS ratio 0.8), 2020 INI-CET (height age and chronological age)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_194",
+    "subject": "Pediatrics",
+    "sub_topic": "Cns",
+    "stem": "A toddler cries, holds his breath, becomes cyanosed and briefly loses consciousness after a minor injury, recovering fully within a minute. The diagnosis is",
+    "options": [
+      "A cyanotic breath-holding spell",
+      "A generalised tonic-clonic seizure",
+      "Long QT syndrome",
+      "An absence seizure"
+    ],
+    "correct_index": 0,
+    "explanation": "A clear provoking event with crying before the event and rapid full recovery distinguishes it from seizure. Iron deficiency is associated and worth correcting; parents need reassurance that spells are benign and self-limiting.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (simple febrile seizure criteria), 2021 INI-CET (juvenile myoclonic epilepsy, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_195",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "In a child with suspected pulmonary tuberculosis, a Mantoux test is considered positive at an induration of",
+    "options": [
+      "10 mm or more at 48 to 72 hours",
+      "5 mm or more in all children",
+      "15 mm or more in all children",
+      "Any erythema without induration"
+    ],
+    "correct_index": 0,
+    "explanation": "A 5 mm threshold applies in immunosuppression and HIV. The test indicates **infection**, not disease, and is unreliable in severe malnutrition, measles and miliary tuberculosis, where it may be falsely negative.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CSF findings in tubercular meningitis), 2016 AIIMS (BCG and disseminated TB)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_196",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "Developmental dysplasia of the hip is screened for in a newborn by",
+    "options": [
+      "The Ortolani and Barlow manoeuvres, with ultrasound if abnormal or risk factors are present",
+      "Plain radiography at birth in all babies",
+      "CT of the pelvis",
+      "Observation of gait at 1 year"
+    ],
+    "correct_index": 0,
+    "explanation": "Barlow dislocates a dislocatable hip and Ortolani relocates a dislocated one. Breech presentation, female sex, oligohydramnios and a family history are the risk factors; radiography is unhelpful before the femoral head ossifies.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (prune belly and oligohydramnios-related deformity), 2024 INI-CET (developmental assessment)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_197",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "The first permanent teeth to erupt, at about 6 years, are the",
+    "options": [
+      "First molars",
+      "Central incisors",
+      "Canines",
+      "Second premolars"
+    ],
+    "correct_index": 0,
+    "explanation": "Primary dentition begins with the lower central incisors at about 6 months and completes with 20 teeth by about 2.5 years. Delayed eruption suggests hypothyroidism, rickets or Down syndrome.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (anterior fontanelle closure), 2023 INI-CET (head circumference growth)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_198",
+    "subject": "Pediatrics",
+    "sub_topic": "Rheumatology",
+    "stem": "Systemic-onset juvenile idiopathic arthritis is characterised by",
+    "options": [
+      "Quotidian fever with an evanescent salmon-pink rash, hepatosplenomegaly and serositis",
+      "Symmetrical small joint arthritis with rheumatoid factor",
+      "Sacroiliitis with HLA-B27",
+      "Migratory polyarthritis with carditis"
+    ],
+    "correct_index": 0,
+    "explanation": "Macrophage activation syndrome is its feared complication, marked by a **falling** ESR with a very high ferritin. Option D describes rheumatic fever, the main differential.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (molecular mimicry in rheumatic fever), 2023 INI-CET (IgA vasculitis management)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ped_q_199",
+    "subject": "Pediatrics",
+    "sub_topic": "Cvs",
+    "stem": "In acute rheumatic carditis with heart failure, the treatment is",
+    "options": [
+      "Penicillin to eradicate the organism, with anti-inflammatory therapy and heart failure management",
+      "Penicillin alone",
+      "Aspirin alone",
+      "Immediate valve replacement"
+    ],
+    "correct_index": 0,
+    "explanation": "Corticosteroids are generally preferred to aspirin when carditis causes failure. Eradication does not alter the current attack but prevents reinfection, which is why secondary prophylaxis follows immediately.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (benzathine penicillin prophylaxis duration), 2023 INI-CET (Nadas criteria, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_200",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "Severe falciparum malaria in a child is treated with",
+    "options": [
+      "Intravenous artesunate, followed by a full oral artemisinin-based combination course",
+      "Oral chloroquine",
+      "Intravenous quinine as first choice",
+      "Primaquine alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Artesunate reduced mortality against quinine in the AQUAMAT trial in African children. Hypoglycaemia, severe anaemia and convulsions are commoner in children than in adults with severe malaria.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (pertussis treatment), 2024 INI-CET (tubercular meningitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_201",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "In dengue in a child, the phase of greatest danger is",
+    "options": [
+      "The critical phase around the time of defervescence, when plasma leakage occurs",
+      "The febrile phase",
+      "The recovery phase",
+      "The incubation period"
+    ],
+    "correct_index": 0,
+    "explanation": "A rising haematocrit with a falling platelet count and narrowing pulse pressure signals leakage. Careful crystalloid titration is the treatment; fluid overload during the recovery phase is the common iatrogenic harm.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rotavirus and dehydration assessment), 2014 AIIMS (paediatric shock — 20 mL/kg normal saline)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_202",
+    "subject": "Pediatrics",
+    "sub_topic": "Infections",
+    "stem": "A child has honey-coloured crusted lesions around the mouth with no systemic upset. The diagnosis and treatment are",
+    "options": [
+      "Impetigo; topical mupirocin, with oral antibiotics if extensive",
+      "Herpes labialis; aciclovir",
+      "Scabies; permethrin",
+      "Eczema; topical steroid"
+    ],
+    "correct_index": 0,
+    "explanation": "*Staphylococcus aureus* and group A *Streptococcus* are responsible. It is highly contagious, so the child stays off school until crusts dry. Post-streptococcal glomerulonephritis can follow streptococcal impetigo.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (identify the condition — intertrigo), 2021 INI-CET (post-streptococcal glomerulonephritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_203",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "Nutritional rickets is treated with",
+    "options": [
+      "Vitamin D with adequate calcium, followed by a maintenance dose",
+      "Calcium alone",
+      "Phosphate supplementation alone",
+      "Active vitamin D (calcitriol) in all cases"
+    ],
+    "correct_index": 0,
+    "explanation": "Calcium must accompany vitamin D or hungry-bone hypocalcaemia can follow. Calcitriol is reserved for renal failure and vitamin D-dependent rickets, where 1-alpha-hydroxylation is the defective step.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nutritional rickets biochemistry), 2021 NEET-PG (hypophosphataemic rickets)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_204",
+    "subject": "Pediatrics",
+    "sub_topic": "Development",
+    "stem": "Autism spectrum disorder in a toddler is suggested by",
+    "options": [
+      "Failure to point to show interest, absent joint attention and no response to name by 12 to 18 months",
+      "Delayed walking alone",
+      "Isolated articulation difficulty",
+      "Night waking"
+    ],
+    "correct_index": 0,
+    "explanation": "Loss of previously acquired language or social skills at any age is a red flag demanding immediate referral. Hearing assessment is part of every evaluation of social and language delay.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (9-month-old developmental assessment), 2022 INI-CET (spoon feeding delay at 3 years, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_205",
+    "subject": "Pediatrics",
+    "sub_topic": "Neonatology",
+    "stem": "The commonest cause of neonatal mortality in India, in descending order, is",
+    "options": [
+      "Prematurity and low birth weight, then sepsis, then birth asphyxia, then congenital anomaly",
+      "Sepsis, then asphyxia, then prematurity",
+      "Congenital anomaly, then sepsis, then prematurity",
+      "Birth asphyxia, then prematurity, then sepsis"
+    ],
+    "correct_index": 0,
+    "explanation": "Neonatal deaths make up about two-thirds of infant mortality, and most occur in the first week. This ordering drives the design of newborn care programmes.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (arrange in decreasing order of mortality in neonates)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ped_q_206",
+    "subject": "Pediatrics",
+    "sub_topic": "Nutrition",
+    "stem": "The most reliable sign that a baby is receiving enough breast milk is",
+    "options": [
+      "Adequate weight gain with at least six wet nappies a day",
+      "The baby sleeping through the night",
+      "The mother's perception of breast fullness",
+      "Feeding fewer than six times a day"
+    ],
+    "correct_index": 0,
+    "explanation": "Output and weight are objective; maternal perception of supply is not. A weight loss of more than 7 to 10% of birth weight, or failure to regain birth weight by 2 weeks, needs feeding assessment.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (signs of good attachment to breast, 4X), 2019 NEET-PG (best sign of adequate growth)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  }
+]

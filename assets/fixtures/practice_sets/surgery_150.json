@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "surg_q_1",
+    "questionNumber": 1,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "A trauma patient opens his eyes to painful stimulus, makes incomprehensible sounds and withdraws from pain. His Glasgow Coma Scale score is",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Eye opening to pain scores 2, incomprehensible sounds score 2 and withdrawal from pain scores 4, totalling 8. A score of 8 or less defines severe head injury and is the conventional threshold for intubation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET (Glasgow Coma Scale scoring, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2024 INI-CET / 2022 INI-CET (Glasgow Coma Scale scoring, 4X)"
+    }
+  },
+  {
+    "id": "surg_q_2",
+    "questionNumber": 2,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "The lowest possible Glasgow Coma Scale score is",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "5"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Each of the three components has a minimum of 1, so the scale runs from 3 to 15. In intubated patients the verbal score cannot be assessed and is recorded with a modifier rather than scored as 1 silently.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (GCS range and components, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (GCS range and components, 4X)"
+    }
+  },
+  {
+    "id": "surg_q_3",
+    "questionNumber": 3,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "In the primary survey of a trauma patient, the correct order of priorities is",
+    "options": [
+      "Circulation, airway, breathing, disability, exposure",
+      "Airway, breathing, circulation, disability, exposure",
+      "Breathing, airway, circulation, exposure, disability",
+      "Disability, airway, breathing, circulation, exposure"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "ATLS teaches that the greatest threat is treated first. Catastrophic external haemorrhage is the one recognised exception, handled before or alongside the airway in the C-ABC modification used in military practice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ATLS primary survey, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (ATLS primary survey, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_4",
+    "questionNumber": 4,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Class III haemorrhagic shock in an adult corresponds to a blood loss of",
+    "options": [
+      "Up to 15%",
+      "15 to 30%",
+      "30 to 40%",
+      "More than 40%"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Class III is the first class with frank hypotension and reduced urine output, and it mandates blood rather than crystalloid alone. Class II shows tachycardia with a narrowed pulse pressure but a preserved systolic pressure.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (classes of haemorrhagic shock, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (classes of haemorrhagic shock, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_5",
+    "questionNumber": 5,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "The earliest reliable clinical sign of compensated haemorrhagic shock in a young adult is",
+    "options": [
+      "A fall in systolic blood pressure",
+      "A narrowed pulse pressure with tachycardia",
+      "Anuria",
+      "Loss of consciousness"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Diastolic pressure rises with catecholamine-driven vasoconstriction before systolic pressure falls, so pulse pressure narrows first. A young patient can lose 30% of blood volume before the systolic pressure drops.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (shock classification and early signs, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (shock classification and early signs, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_6",
+    "questionNumber": 6,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "In damage control resuscitation for massive haemorrhage, blood products are given in a ratio of",
+    "options": [
+      "Crystalloid first, products later",
+      "4:1:1",
+      "1:1:1 packed red cells, fresh frozen plasma and platelets",
+      "Packed cells alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The PROPPR trial supported balanced transfusion. Permissive hypotension, limited crystalloid, warming, calcium replacement and early tranexamic acid within 3 hours complete the strategy against the lethal triad.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (haemorrhagic shock management), 2024 INI-CET (transfusion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (haemorrhagic shock management), 2024 INI-CET (transfusion)"
+    }
+  },
+  {
+    "id": "surg_q_7",
+    "questionNumber": 7,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "The lethal triad of trauma consists of",
+    "options": [
+      "Hypovolaemia, sepsis and renal failure",
+      "Hypoxia, hypercapnia and hypotension",
+      "Hyperkalaemia, acidosis and hypocalcaemia",
+      "Hypothermia, acidosis and coagulopathy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Each worsens the others, which is why damage control surgery aims at rapid control rather than definitive repair, with the patient returned to theatre after physiological correction. Hyperglycaemia is sometimes added as a fourth element.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (trauma resuscitation), 2024 INI-CET (shock)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (trauma resuscitation), 2024 INI-CET (shock)"
+    }
+  },
+  {
+    "id": "surg_q_8",
+    "questionNumber": 8,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "A trauma patient has distended neck veins, hypotension and muffled heart sounds after a steering-wheel injury. The immediate step is",
+    "options": [
+      "Chest tube insertion",
+      "Pericardiocentesis or, preferably, emergency thoracotomy",
+      "Rapid fluid bolus alone",
+      "CT of the chest"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is traumatic tamponade. Focused assessment with sonography for trauma shows pericardial fluid in seconds; definitive treatment is surgical, as the bleeding source needs repair.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET medicine (Beck triad in tamponade), 2022 INI-CET (chest trauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2024 INI-CET medicine (Beck triad in tamponade), 2022 INI-CET (chest trauma)"
+    }
+  },
+  {
+    "id": "surg_q_9",
+    "questionNumber": 9,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "The commonest site of aortic injury in blunt deceleration trauma is",
+    "options": [
+      "The aortic root",
+      "Just distal to the left subclavian artery at the ligamentum arteriosum",
+      "The diaphragmatic hiatus",
+      "The aortic bifurcation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The descending aorta is tethered there while the arch moves freely. A widened mediastinum on the chest film prompts CT angiography; repair is usually endovascular now.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chest trauma), 2024 INI-CET (vascular injury)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (chest trauma), 2024 INI-CET (vascular injury)"
+    }
+  },
+  {
+    "id": "surg_q_10",
+    "questionNumber": 10,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "An indication for emergency thoracotomy after chest tube insertion for haemothorax is",
+    "options": [
+      "Persistent air leak alone",
+      "Any drainage of blood",
+      "An initial drainage of more than 1,500 mL, or more than 200 mL per hour for 3 hours",
+      "Fractured ribs on radiography"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This marks ongoing bleeding from a systemic vessel, usually intercostal or internal mammary, which will not stop with drainage alone. A persistent air leak needs bronchoscopy to exclude tracheobronchial injury.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chest trauma and drainage), 2024 INI-CET (thoracic injury)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (chest trauma and drainage), 2024 INI-CET (thoracic injury)"
+    }
+  },
+  {
+    "id": "surg_q_11",
+    "questionNumber": 11,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Flail chest is defined as",
+    "options": [
+      "First rib fracture",
+      "Fracture of a single rib in two places",
+      "Sternal fracture alone",
+      "Fracture of two or more contiguous ribs in two or more places, producing paradoxical movement"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The underlying pulmonary contusion, not the chest wall motion, causes hypoxia. Management is analgesia, physiotherapy and ventilatory support, with surgical fixation in selected patients.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chest trauma), 2024 INI-CET (rib fracture)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (chest trauma), 2024 INI-CET (rib fracture)"
+    }
+  },
+  {
+    "id": "surg_q_12",
+    "questionNumber": 12,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Which structure is most commonly injured in blunt abdominal trauma requiring laparotomy in adults?",
+    "options": [
+      "Pancreas",
+      "Spleen",
+      "Duodenum",
+      "Urinary bladder"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The liver is the next most commonly injured. Left lower rib fractures should raise suspicion of splenic injury; non-operative management with angioembolisation is now standard in the haemodynamically stable patient.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (blunt abdominal trauma — organ injured, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (blunt abdominal trauma — organ injured, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_13",
+    "questionNumber": 13,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "FAST examination in trauma assesses all of the following spaces EXCEPT",
+    "options": [
+      "Pericardial",
+      "Perihepatic (Morison pouch)",
+      "Pelvic",
+      "Retroperitoneal"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ultrasound cannot reliably see the retroperitoneum, so it misses pancreatic, duodenal and renal injuries; CT is needed for those. Extended FAST adds the thoracic windows for pneumothorax and haemothorax.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (blunt abdominal trauma assessment), 2024 INI-CET (imaging in trauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (blunt abdominal trauma assessment), 2024 INI-CET (imaging in trauma)"
+    }
+  },
+  {
+    "id": "surg_q_14",
+    "questionNumber": 14,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "A haemodynamically stable patient with blunt abdominal trauma and free fluid on FAST should next have",
+    "options": [
+      "Diagnostic peritoneal lavage",
+      "Immediate laparotomy",
+      "Contrast-enhanced CT of the abdomen",
+      "Observation without imaging"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "CT grades solid organ injury and detects contrast blush, allowing non-operative management. Instability with positive FAST mandates laparotomy without CT; lavage is now largely obsolete.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (blunt abdominal trauma — next step, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (blunt abdominal trauma — next step, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_15",
+    "questionNumber": 15,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Blood at the external urethral meatus with a high-riding prostate after pelvic fracture means",
+    "options": [
+      "Intravenous pyelography",
+      "Immediate urethral catheterisation",
+      "Suprapubic aspiration without imaging",
+      "Retrograde urethrogram before any catheterisation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Blind catheterisation can convert a partial posterior urethral tear into a complete one. A suprapubic catheter diverts urine, and repair is delayed for about 3 months.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (urethral injury after pelvic fracture, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (urethral injury after pelvic fracture, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_16",
+    "questionNumber": 16,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "The commonest site of urethral injury in a fall astride (straddle) injury is the",
+    "options": [
+      "Membranous urethra",
+      "Bulbar urethra",
+      "Prostatic urethra",
+      "Penile urethra"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The bulb is crushed against the inferior border of the pubis. Pelvic fractures instead shear the membranous urethra at the urogenital diaphragm. Butterfly perineal bruising follows a bulbar injury.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (urethral injury), 2024 INI-CET (pelvic trauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (urethral injury), 2024 INI-CET (pelvic trauma)"
+    }
+  },
+  {
+    "id": "surg_q_17",
+    "questionNumber": 17,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "In extradural haematoma, the artery most often torn and the classic clinical course are",
+    "options": [
+      "Middle meningeal artery; progressive drowsiness without lucidity",
+      "Middle meningeal artery; a lucid interval after brief loss of consciousness",
+      "Bridging veins; fluctuating consciousness in the elderly",
+      "Anterior cerebral artery; sudden hemiplegia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A biconvex hyperdense collection limited by sutures appears on CT, usually with a temporal bone fracture. Option C describes a chronic subdural haematoma from torn bridging veins.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (head injury — extradural haematoma, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (head injury — extradural haematoma, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_18",
+    "questionNumber": 18,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "A crescentic hyperdense collection crossing suture lines in an elderly man on warfarin after minor trauma is",
+    "options": [
+      "Intracerebral haematoma",
+      "Extradural haematoma",
+      "Acute subdural haematoma",
+      "Subarachnoid haemorrhage"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Subdural blood spreads along the whole convexity because the subdural space is not limited by sutures, whereas extradural blood is. Brain atrophy stretches the bridging veins, making the elderly vulnerable.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (head injury types), 2024 INI-CET (CT in head trauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (head injury types), 2024 INI-CET (CT in head trauma)"
+    }
+  },
+  {
+    "id": "surg_q_19",
+    "questionNumber": 19,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Cushing reflex in raised intracranial pressure consists of",
+    "options": [
+      "Hypotension, bradycardia and apnoea",
+      "Hypotension, tachycardia and tachypnoea",
+      "Hypertension, tachycardia and hyperthermia",
+      "Hypertension, bradycardia and irregular respiration"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is a late, ominous sign of impending herniation. Cerebral perfusion pressure equals mean arterial pressure minus intracranial pressure, and is kept above 60 mmHg with head elevation, osmotherapy and normocapnia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (head injury management), 2024 INI-CET medicine (Beck triad contrast)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (head injury management), 2024 INI-CET medicine (Beck triad contrast)"
+    }
+  },
+  {
+    "id": "surg_q_20",
+    "questionNumber": 20,
+    "subject": "General Surgery",
+    "subTopic": "Trauma",
+    "sub_topic": "Trauma",
+    "stem": "Cerebral perfusion pressure is calculated as",
+    "options": [
+      "Systolic pressure minus intracranial pressure",
+      "Mean arterial pressure minus intracranial pressure",
+      "Mean arterial pressure minus central venous pressure",
+      "Diastolic pressure plus one-third of pulse pressure"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Option D is the formula for mean arterial pressure itself. Hyperventilation lowers intracranial pressure through vasoconstriction but is reserved for brief use, since it risks ischaemia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (head injury), 2024 INI-CET (GCS and neurotrauma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Trauma",
+      "basedOn": "2022 INI-CET (head injury), 2024 INI-CET (GCS and neurotrauma)"
+    }
+  },
+  {
+    "id": "surg_q_21",
+    "questionNumber": 21,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "In the Wallace rule of nines for an adult, the burnt surface area of one entire lower limb is",
+    "options": [
+      "9%",
+      "18%",
+      "27%",
+      "36%"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Head and each upper limb are 9% each, the front and back of the trunk 18% each, each lower limb 18%, and the perineum 1%. Children have proportionally larger heads, so the Lund and Browder chart is used.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2021 INI-CET (rule of nines and burn area, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2022 INI-CET / 2021 INI-CET (rule of nines and burn area, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_22",
+    "questionNumber": 22,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "A 70 kg adult with 40% burns receives, by the Parkland formula, a first-24-hour crystalloid volume of",
+    "options": [
+      "5,600 mL",
+      "11,200 mL",
+      "2,800 mL",
+      "14,000 mL"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Four mL multiplied by 70 kg by 40% gives 11,200 mL of Ringer lactate, half in the first 8 hours from the time of injury and half over the next 16. Urine output of 0.5 mL/kg/hour guides titration.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2021 INI-CET (Parkland formula calculation, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Burns",
+      "basedOn": "2022 INI-CET / 2021 INI-CET (Parkland formula calculation, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_23",
+    "questionNumber": 23,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "A burn wound that is dry, leathery, insensate and does not blanch is",
+    "options": [
+      "Superficial partial thickness",
+      "Deep partial thickness",
+      "Full thickness",
+      "Epidermal"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Destroyed nerve endings make it painless, and it needs excision with grafting. Superficial partial-thickness burns are moist, painful and blanch on pressure, and heal in 2 to 3 weeks without grafting.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn depth assessment, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn depth assessment, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_24",
+    "questionNumber": 24,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "The topical agent of choice for a burn involving cartilage, as on the ear, is",
+    "options": [
+      "Silver nitrate",
+      "Silver sulfadiazine",
+      "Mafenide acetate",
+      "Povidone iodine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It penetrates eschar and cartilage, but causes pain and a carbonic anhydrase inhibition that produces metabolic acidosis. Silver sulfadiazine causes transient leucopenia and does not penetrate eschar well.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn management), 2022 INI-CET (burn dressings)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn management), 2022 INI-CET (burn dressings)"
+    }
+  },
+  {
+    "id": "surg_q_25",
+    "questionNumber": 25,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "Inhalational injury in a burns patient is suggested by all of the following EXCEPT",
+    "options": [
+      "Singed nasal hairs and carbonaceous sputum",
+      "Hoarseness and stridor",
+      "A history of burns in a closed space",
+      "A normal pulse oximetry reading"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pulse oximetry is unreliable because carboxyhaemoglobin reads as oxyhaemoglobin. Early intubation is undertaken before oedema makes the airway impassable; bronchoscopy confirms the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn assessment), 2022 INI-CET medicine (pulse oximetry limitations)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn assessment), 2022 INI-CET medicine (pulse oximetry limitations)"
+    }
+  },
+  {
+    "id": "surg_q_26",
+    "questionNumber": 26,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "The commonest cause of death in the first 24 hours after a major burn is",
+    "options": [
+      "Pulmonary embolism",
+      "Sepsis",
+      "Renal failure",
+      "Hypovolaemic shock, and airway compromise from inhalational injury"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sepsis, usually from *Pseudomonas* or *Staphylococcus*, dominates later mortality. Early excision with grafting and enteral feeding reduce it; prophylactic systemic antibiotics do not help.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn management), 2022 INI-CET (burn complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn management), 2022 INI-CET (burn complications)"
+    }
+  },
+  {
+    "id": "surg_q_27",
+    "questionNumber": 27,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "Circumferential full-thickness burns of a limb with absent distal pulses require",
+    "options": [
+      "Fasciotomy of all compartments first",
+      "Escharotomy",
+      "Amputation",
+      "Elevation and observation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The inelastic eschar, not raised compartment pressure, is the constricting element, so incising it suffices. A circumferential chest burn restricting ventilation also needs escharotomy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn management), 2022 INI-CET (compartment syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn management), 2022 INI-CET (compartment syndrome)"
+    }
+  },
+  {
+    "id": "surg_q_28",
+    "questionNumber": 28,
+    "subject": "General Surgery",
+    "subTopic": "Burns",
+    "sub_topic": "Burns",
+    "stem": "The commonest organism causing invasive burn wound infection is",
+    "options": [
+      "*Clostridium perfringens*",
+      "*Escherichia coli*",
+      "*Pseudomonas aeruginosa*",
+      "*Candida albicans*"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It produces a blue-green exudate with a characteristic odour. *Staphylococcus aureus* dominates the earliest colonisation. Quantitative wound biopsy, not swab culture, distinguishes colonisation from invasion.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burn complications), 2022 INI-CET microbiology (wound infection)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Burns",
+      "basedOn": "2021 INI-CET (burn complications), 2022 INI-CET microbiology (wound infection)"
+    }
+  },
+  {
+    "id": "surg_q_29",
+    "questionNumber": 29,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "A 45-year-old woman has a 3 cm mobile breast lump with two mobile ipsilateral axillary nodes and no distant disease. The clinical stage is",
+    "options": [
+      "Stage IIA",
+      "Stage IIB",
+      "Stage IIIA",
+      "Stage I"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "T2 with N1 is stage IIB. T2N0 would be IIA, and T3N1 or any N2 disease would be IIIA. T2 spans tumours above 2 cm and up to 5 cm.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET (TNM staging of breast carcinoma, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET / 2022 INI-CET (TNM staging of breast carcinoma, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_30",
+    "questionNumber": 30,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Which breast tumour size defines T3 in the TNM system?",
+    "options": [
+      "Above 2 cm",
+      "Above 3 cm",
+      "Above 5 cm",
+      "Any size with skin involvement"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "T1 is up to 2 cm, T2 is 2 to 5 cm, T3 is above 5 cm, and T4 is any size with chest wall or skin involvement including peau d'orange, satellite nodules or inflammatory carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (breast TNM staging, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (breast TNM staging, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_31",
+    "questionNumber": 31,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Peau d'orange appearance of the breast skin is caused by",
+    "options": [
+      "Subcutaneous fat necrosis",
+      "Infiltration of the pectoral fascia",
+      "Retraction of the ligaments of Cooper",
+      "Dermal lymphatic obstruction by tumour"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Skin tethered at hair follicles cannot swell, producing the pitted appearance. Option C causes skin dimpling and nipple retraction instead. Peau d'orange makes the tumour T4b.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (peau d'orange mechanism, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (peau d'orange mechanism, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_32",
+    "questionNumber": 32,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Sentinel lymph node biopsy in breast cancer is contraindicated in",
+    "options": [
+      "A T1 tumour with a clinically normal axilla",
+      "Clinically node-positive disease",
+      "Ductal carcinoma in situ undergoing mastectomy",
+      "A multifocal tumour with a normal axilla"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Palpable disease requires axillary dissection, since the sentinel node concept assumes an undisturbed, uninvolved basin. Dual mapping with blue dye and radiocolloid gives the highest identification rate.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2022 INI-CET (sentinel node biopsy indications, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET / 2022 INI-CET (sentinel node biopsy indications, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_33",
+    "questionNumber": 33,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "The level of axillary nodes defined by their relation to the pectoralis minor as lying deep to the muscle is",
+    "options": [
+      "Level I",
+      "Level II",
+      "Level III",
+      "Rotter group"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Level I lies lateral and below the muscle, level II behind it, and level III medial to it at the apex. Rotter nodes lie between the pectoralis major and minor. A level I and II clearance is the standard dissection.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (axillary node levels, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (axillary node levels, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_34",
+    "questionNumber": 34,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "During axillary dissection, injury to which nerve causes a winged scapula?",
+    "options": [
+      "Intercostobrachial nerve",
+      "Thoracodorsal nerve",
+      "Long thoracic nerve",
+      "Medial pectoral nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It supplies serratus anterior. Thoracodorsal injury weakens latissimus dorsi and shoulder extension, and intercostobrachial division causes numbness over the inner upper arm, the commonest sensory complaint after surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (nerve injury in axillary surgery, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (nerve injury in axillary surgery, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_35",
+    "questionNumber": 35,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Triple-negative breast cancer means the tumour lacks",
+    "options": [
+      "All three hormone receptors with high HER2",
+      "Oestrogen receptor, HER2 and Ki-67",
+      "Progesterone receptor, HER2 and BRCA mutation",
+      "Oestrogen receptor, progesterone receptor and HER2 expression"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is commoner in young women and in *BRCA1* carriers, and is not helped by endocrine or anti-HER2 therapy, so chemotherapy with platinum and immunotherapy or PARP inhibition is used.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (breast cancer receptor status and therapy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (breast cancer receptor status and therapy, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_36",
+    "questionNumber": 36,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Trastuzumab therapy requires monitoring of",
+    "options": [
+      "Serum creatinine",
+      "Left ventricular ejection fraction",
+      "Audiometry",
+      "Pulmonary function"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Its cardiotoxicity is usually reversible, unlike the dose-dependent irreversible injury from anthracyclines, so the two are preferably not given together. HER2 positivity on immunohistochemistry or FISH is required before use.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (HER2 and targeted therapy), 2022 INI-CET pharmacology (anticancer toxicity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (HER2 and targeted therapy), 2022 INI-CET pharmacology (anticancer toxicity)"
+    }
+  },
+  {
+    "id": "surg_q_37",
+    "questionNumber": 37,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Tamoxifen increases the risk of",
+    "options": [
+      "Colorectal carcinoma",
+      "Osteoporosis and fracture",
+      "Endometrial carcinoma and venous thromboembolism",
+      "Cataract alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is an antagonist in the breast but an agonist in the endometrium and bone, so it protects bone. Aromatase inhibitors, used after menopause, cause osteoporosis and arthralgia instead.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hormone receptor status and endocrine therapy), 2022 INI-CET pharmacology (SERMs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (hormone receptor status and endocrine therapy), 2022 INI-CET pharmacology (SERMs)"
+    }
+  },
+  {
+    "id": "surg_q_38",
+    "questionNumber": 38,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "An aromatase inhibitor such as letrozole is appropriate for",
+    "options": [
+      "HER2-positive, receptor-negative disease",
+      "A premenopausal woman without ovarian suppression",
+      "A triple-negative tumour",
+      "A postmenopausal woman with hormone receptor-positive disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Before menopause, the ovary makes oestrogen independently of aromatase, so an inhibitor alone fails and may paradoxically stimulate the ovary unless a GnRH agonist is added.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (endocrine therapy choice), 2022 INI-CET (breast cancer management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (endocrine therapy choice), 2022 INI-CET (breast cancer management)"
+    }
+  },
+  {
+    "id": "surg_q_39",
+    "questionNumber": 39,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "A 22-year-old has a firm, smooth, highly mobile 2 cm breast lump. The diagnosis and management are",
+    "options": [
+      "Phyllodes tumour; mastectomy",
+      "Fibroadenoma; triple assessment with reassurance or excision if symptomatic",
+      "Carcinoma; neoadjuvant chemotherapy",
+      "Breast abscess; incision and drainage"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The \"breast mouse\" is a hyperplastic lobule, not a true neoplasm, and many involute after menopause. Rapid growth in a larger lump raises suspicion of a phyllodes tumour, which needs wide local excision.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (benign breast lump, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (benign breast lump, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_40",
+    "questionNumber": 40,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Which feature distinguishes a phyllodes tumour from a fibroadenoma?",
+    "options": [
+      "Marked mobility",
+      "Age below 25 years",
+      "Rapid growth with stromal hypercellularity and leaf-like architecture",
+      "Bilateral occurrence"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Treatment is wide local excision with a 1 cm margin, because enucleation leads to recurrence. Spread, when it occurs, is haematogenous to the lung, so axillary dissection is unnecessary.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (benign and borderline breast tumours), 2024 INI-CET (breast pathology)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (benign and borderline breast tumours), 2024 INI-CET (breast pathology)"
+    }
+  },
+  {
+    "id": "surg_q_41",
+    "questionNumber": 41,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Blood-stained nipple discharge from a single duct in a 40-year-old is most often due to",
+    "options": [
+      "Fibroadenosis",
+      "Duct ectasia",
+      "Fibroadenoma",
+      "Duct papilloma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Carcinoma must still be excluded by imaging and ductoscopy or microdochectomy. Duct ectasia gives a green or creamy multi-duct discharge with a slit-like nipple retraction, often in smokers.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nipple discharge causes, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (nipple discharge causes, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_42",
+    "questionNumber": 42,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Paget disease of the nipple is characterised by",
+    "options": [
+      "An eczematous areola that spares the nipple",
+      "An eczematous nipple with underlying in-situ or invasive carcinoma",
+      "Bilateral nipple itching responding to steroids",
+      "A painful fissure during lactation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It starts at the nipple and spreads to the areola, whereas eczema does the reverse and spares the nipple. Full-thickness nipple biopsy shows large pale Paget cells; imaging of the whole breast follows.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nipple lesions), 2024 INI-CET (breast carcinoma presentation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (nipple lesions), 2024 INI-CET (breast carcinoma presentation)"
+    }
+  },
+  {
+    "id": "surg_q_43",
+    "questionNumber": 43,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "A lactating woman has a tender, fluctuant, erythematous breast swelling with fever. The management is",
+    "options": [
+      "Antibiotics alone for 2 weeks",
+      "Immediate wide incision and drainage with weaning",
+      "Ultrasound-guided aspiration with antibiotics, continuing breastfeeding",
+      "Mastectomy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Staphylococcus aureus* is the usual organism. Feeding or expression from the affected side should continue to prevent stasis. Formal drainage is needed only for a large or multiloculated collection.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (breast infection), 2024 INI-CET (lactational problems)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (breast infection), 2024 INI-CET (lactational problems)"
+    }
+  },
+  {
+    "id": "surg_q_44",
+    "questionNumber": 44,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Non-lactational periductal mastitis with a mammillary fistula is most strongly associated with",
+    "options": [
+      "Oral contraceptive use",
+      "Diabetes",
+      "Multiparity",
+      "Smoking"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Anaerobic organisms predominate, so metronidazole with a beta-lactam is used. Recurrent fistula needs excision of the affected duct system, and continued smoking makes recurrence likely.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (breast infection), 2024 INI-CET (nipple discharge)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (breast infection), 2024 INI-CET (nipple discharge)"
+    }
+  },
+  {
+    "id": "surg_q_45",
+    "questionNumber": 45,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Fat necrosis of the breast after trauma is important chiefly because",
+    "options": [
+      "It frequently becomes malignant",
+      "It mimics carcinoma clinically and on mammography",
+      "It requires mastectomy",
+      "It causes systemic sepsis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A hard, irregular mass with skin tethering and calcification is produced, so triple assessment with core biopsy is needed. Once confirmed, it needs no treatment and resolves slowly.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (benign breast disease), 2024 INI-CET (breast lump evaluation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (benign breast disease), 2024 INI-CET (breast lump evaluation)"
+    }
+  },
+  {
+    "id": "surg_q_46",
+    "questionNumber": 46,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Gynaecomastia in an adolescent male is most commonly",
+    "options": [
+      "Due to cirrhosis",
+      "Due to a testicular tumour",
+      "Physiological and self-limiting",
+      "A sign of breast carcinoma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Pubertal gynaecomastia resolves within about 2 years in most boys. Drugs — spironolactone, digoxin, cimetidine, ketoconazole, anabolic steroids — and cirrhosis, hyperthyroidism and testicular tumours must be excluded when it persists.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (breast disorders in men), 2024 INI-CET (hormonal effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (breast disorders in men), 2024 INI-CET (hormonal effects)"
+    }
+  },
+  {
+    "id": "surg_q_47",
+    "questionNumber": 47,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "Breast-conserving surgery with radiotherapy is contraindicated in",
+    "options": [
+      "A hormone receptor-negative tumour",
+      "A 2 cm tumour in a large breast",
+      "A node-positive T2 tumour",
+      "Multicentric disease, prior chest radiotherapy, or pregnancy in the first trimester"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Survival after conservation equals that after mastectomy when clear margins and radiotherapy are achieved, so tumour biology and nodal status do not by themselves rule it out.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (breast cancer management), 2022 INI-CET (surgical options)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2024 INI-CET (breast cancer management), 2022 INI-CET (surgical options)"
+    }
+  },
+  {
+    "id": "surg_q_48",
+    "questionNumber": 48,
+    "subject": "General Surgery",
+    "subTopic": "Breast",
+    "sub_topic": "Breast",
+    "stem": "The commonest site of distant metastasis in breast carcinoma is",
+    "options": [
+      "Liver",
+      "Bone",
+      "Lung",
+      "Brain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Spread is through Batson's vertebral venous plexus, giving osteolytic deposits in the vertebrae, pelvis and femur. Lung, liver and brain follow. Bone scan or PET-CT is used for staging in symptomatic or advanced disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (breast carcinoma spread), 2024 INI-CET (staging)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast",
+      "basedOn": "2022 INI-CET (breast carcinoma spread), 2024 INI-CET (staging)"
+    }
+  },
+  {
+    "id": "surg_q_49",
+    "questionNumber": 49,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Charcot triad of acute cholangitis consists of",
+    "options": [
+      "Jaundice, pruritus and weight loss",
+      "Fever, hypotension and confusion",
+      "Fever with chills, jaundice and right upper quadrant pain",
+      "Pain, vomiting and abdominal distension"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Adding hypotension and altered mental state gives the Reynolds pentad of suppurative cholangitis, which needs urgent biliary decompression by ERCP alongside antibiotics and resuscitation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Charcot triad in cholangitis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (Charcot triad in cholangitis, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_50",
+    "questionNumber": 50,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Courvoisier law states that a palpable, non-tender gall bladder with jaundice is unlikely to be due to",
+    "options": [
+      "Cholangiocarcinoma of the lower duct",
+      "Carcinoma of the pancreatic head",
+      "Periampullary carcinoma",
+      "Stones in the common bile duct"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Chronic cholecystitis accompanying stones leaves the gall bladder fibrotic and unable to distend. Recognised exceptions include a double impacted stone and oriental cholangiohepatitis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Courvoisier law, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (Courvoisier law, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_51",
+    "questionNumber": 51,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "The investigation of choice for suspected choledocholithiasis in a patient with a dilated duct and deranged liver enzymes is",
+    "options": [
+      "Plain radiography of the abdomen",
+      "Magnetic resonance cholangiopancreatography",
+      "CT of the abdomen without contrast",
+      "Oral cholecystography"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is non-invasive and highly sensitive for ductal stones. ERCP is then therapeutic rather than diagnostic, and endoscopic ultrasound is an alternative when MRCP is equivocal.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (investigation in obstructive jaundice, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (investigation in obstructive jaundice, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_52",
+    "questionNumber": 52,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Calot triangle is bounded by",
+    "options": [
+      "The common bile duct, the portal vein and the duodenum",
+      "The cystic duct, the cystic artery and the liver",
+      "The cystic duct, the common hepatic duct and the inferior surface of the liver",
+      "The cystic duct, the right hepatic artery and the gall bladder fundus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The cystic artery usually runs within it, which is why the critical view of safety requires both tubular structures to be identified before any clipping during laparoscopic cholecystectomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (Calot triangle boundaries, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (Calot triangle boundaries, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_53",
+    "questionNumber": 53,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Mirizzi syndrome refers to",
+    "options": [
+      "Gall bladder carcinoma invading the liver",
+      "A gallstone eroding into the duodenum",
+      "Porcelain gall bladder",
+      "Obstruction of the common hepatic duct by a stone impacted in the cystic duct or Hartmann pouch"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Extrinsic compression or a cholecystocholedochal fistula results. It raises the risk of bile duct injury greatly, so subtotal cholecystectomy is often safer than attempting a complete dissection.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (biliary obstruction), 2024 INI-CET (cholecystectomy complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (biliary obstruction), 2024 INI-CET (cholecystectomy complications)"
+    }
+  },
+  {
+    "id": "surg_q_54",
+    "questionNumber": 54,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Pneumobilia with small bowel obstruction and an ectopic gallstone on imaging indicates",
+    "options": [
+      "Emphysematous cholecystitis",
+      "Gallstone ileus through a cholecystoduodenal fistula",
+      "Perforated duodenal ulcer",
+      "Volvulus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "That is Rigler triad. The stone lodges most often at the terminal ileum, the narrowest point. Enterolithotomy relieves the obstruction, with fistula repair deferred or omitted in frail patients.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gall bladder disease complications), 2024 INI-CET (small bowel obstruction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (gall bladder disease complications), 2024 INI-CET (small bowel obstruction)"
+    }
+  },
+  {
+    "id": "surg_q_55",
+    "questionNumber": 55,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Prophylactic cholecystectomy is indicated for an asymptomatic gall bladder in",
+    "options": [
+      "Stones below 5 mm only",
+      "All patients with any stone",
+      "Porcelain gall bladder, stones above 3 cm, or an associated polyp above 1 cm",
+      "Patients above 60 years with stones"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Each carries a raised risk of gall bladder carcinoma. Small stones instead predispose to pancreatitis through migration. Routine cholecystectomy for silent stones is not justified.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gall bladder stones and malignancy), 2024 INI-CET (gall bladder carcinoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (gall bladder stones and malignancy), 2024 INI-CET (gall bladder carcinoma)"
+    }
+  },
+  {
+    "id": "surg_q_56",
+    "questionNumber": 56,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Gall bladder carcinoma most often arises in",
+    "options": [
+      "The neck only",
+      "The cystic duct",
+      "Hartmann pouch",
+      "The fundus, and spreads early to segments IV and V of the liver"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Its thin wall lacks a muscularis mucosae, which allows early invasion. A T1a tumour found incidentally after cholecystectomy needs no further surgery, while T1b and above need extended resection.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gall bladder carcinoma), 2024 INI-CET (hepatobiliary malignancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (gall bladder carcinoma), 2024 INI-CET (hepatobiliary malignancy)"
+    }
+  },
+  {
+    "id": "surg_q_57",
+    "questionNumber": 57,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "A Klatskin tumour is a cholangiocarcinoma at",
+    "options": [
+      "The distal common bile duct",
+      "The hilar confluence of the right and left hepatic ducts",
+      "The ampulla of Vater",
+      "The intrahepatic ducts only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The Bismuth–Corlette classification grades its ductal extent. Primary sclerosing cholangitis, choledochal cyst, liver fluke infestation and hepatolithiasis are the recognised risk factors.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (biliary malignancy), 2024 INI-CET (obstructive jaundice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (biliary malignancy), 2024 INI-CET (obstructive jaundice)"
+    }
+  },
+  {
+    "id": "surg_q_58",
+    "questionNumber": 58,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "Which type of choledochal cyst is commonest, and what is its treatment?",
+    "options": [
+      "Type III choledochocele; sphincteroplasty",
+      "Type II diverticulum; simple excision",
+      "Type I fusiform dilatation of the common bile duct; excision with hepaticojejunostomy",
+      "Type V Caroli disease; drainage"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Drainage alone is inadequate, because the retained epithelium carries a high risk of cholangiocarcinoma. An anomalous pancreaticobiliary junction permitting pancreatic reflux is the usual aetiology.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (biliary anomalies), 2024 INI-CET (paediatric jaundice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (biliary anomalies), 2024 INI-CET (paediatric jaundice)"
+    }
+  },
+  {
+    "id": "surg_q_59",
+    "questionNumber": 59,
+    "subject": "General Surgery",
+    "subTopic": "Biliary",
+    "sub_topic": "Biliary",
+    "stem": "A 6-week-old infant has persistent conjugated jaundice, pale stools and a firm liver. The operation and the window for best outcome are",
+    "options": [
+      "Observation until 6 months",
+      "Choledochal cyst excision at 6 months",
+      "Liver transplantation only",
+      "Kasai portoenterostomy, ideally before 8 weeks of age"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Biliary atresia causes progressive fibrosis, so delay reduces the chance of establishing bile flow. A triangular-cord sign on ultrasound and absent gall bladder support the diagnosis; many still need transplantation later.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (paediatric biliary disease), 2024 INI-CET (neonatal jaundice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Biliary",
+      "basedOn": "2022 INI-CET (paediatric biliary disease), 2024 INI-CET (neonatal jaundice)"
+    }
+  },
+  {
+    "id": "surg_q_60",
+    "questionNumber": 60,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "The commonest cause of acute pancreatitis worldwide is",
+    "options": [
+      "Alcohol",
+      "Gallstones",
+      "Hypertriglyceridaemia",
+      "ERCP"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Alcohol is next. A lipase or amylase above three times the upper limit with typical pain establishes the diagnosis, and contrast CT is deferred for 72 to 96 hours to assess necrosis accurately.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute pancreatitis aetiology, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (acute pancreatitis aetiology, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_61",
+    "questionNumber": 61,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "Grey Turner sign in severe acute pancreatitis refers to",
+    "options": [
+      "Subcutaneous fat necrosis of the legs",
+      "Periumbilical ecchymosis",
+      "Flank ecchymosis from retroperitoneal haemorrhage",
+      "A palpable epigastric mass"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cullen sign is the periumbilical equivalent, and Fox sign is bruising over the inguinal ligament. All are late and uncommon, and none is needed for diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (signs in acute pancreatitis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (signs in acute pancreatitis, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_62",
+    "questionNumber": 62,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "The cornerstone of early management of severe acute pancreatitis is",
+    "options": [
+      "Total parenteral nutrition from day 1",
+      "Prophylactic antibiotics for all patients",
+      "Early necrosectomy within 72 hours",
+      "Goal-directed fluid resuscitation with early enteral nutrition and analgesia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Enteral feeding preserves gut barrier function and lowers infective complications. Prophylactic antibiotics are not recommended, and intervention for necrosis is delayed about 4 weeks and done by a step-up approach.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute pancreatitis management), 2024 INI-CET (critical care nutrition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (acute pancreatitis management), 2024 INI-CET (critical care nutrition)"
+    }
+  },
+  {
+    "id": "surg_q_63",
+    "questionNumber": 63,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "A fluid collection in the lesser sac persisting 6 weeks after acute pancreatitis, with a well-defined wall, is",
+    "options": [
+      "An abscess requiring immediate open drainage",
+      "A pseudocyst, drained only if symptomatic or above about 6 cm",
+      "A true cyst requiring excision",
+      "Walled-off necrosis requiring necrosectomy in all cases"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It lacks an epithelial lining, which is why it is called a pseudocyst. Endoscopic cystogastrostomy is now preferred to open drainage when the cyst abuts the stomach wall.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (complications of pancreatitis), 2024 INI-CET (pancreatic collections)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (complications of pancreatitis), 2024 INI-CET (pancreatic collections)"
+    }
+  },
+  {
+    "id": "surg_q_64",
+    "questionNumber": 64,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "The Whipple procedure for carcinoma of the pancreatic head removes",
+    "options": [
+      "The pancreatic body and tail with the spleen",
+      "The whole pancreas with the spleen",
+      "The pancreatic head, duodenum, gall bladder, distal bile duct and, classically, the distal stomach",
+      "The duodenum alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The pylorus-preserving modification retains the antrum. Only about 20% of tumours are resectable at presentation, and involvement of the superior mesenteric artery or coeliac axis makes them unresectable.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Whipple procedure extent, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (Whipple procedure extent, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_65",
+    "questionNumber": 65,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "The tumour marker most used to follow pancreatic adenocarcinoma is",
+    "options": [
+      "CA 125",
+      "CEA",
+      "Alpha-fetoprotein",
+      "CA 19-9"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is unreliable in obstructive jaundice, since cholestasis raises it independently, and is falsely normal in Lewis antigen-negative individuals. It is used for monitoring rather than screening.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pancreatic carcinoma), 2024 INI-CET (tumour markers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (pancreatic carcinoma), 2024 INI-CET (tumour markers)"
+    }
+  },
+  {
+    "id": "surg_q_66",
+    "questionNumber": 66,
+    "subject": "General Surgery",
+    "subTopic": "Pancreas",
+    "sub_topic": "Pancreas",
+    "stem": "Chronic calcific pancreatitis with a dilated main duct above 7 mm and intractable pain is best treated by",
+    "options": [
+      "Total pancreatectomy",
+      "A lateral pancreaticojejunostomy (Puestow procedure)",
+      "Whipple procedure",
+      "Coeliac plexus block alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A dilated duct suits drainage, whereas head-dominant inflammatory disease suits a Frey or Beger resection. Tropical calcific pancreatitis is the common pattern in India, with early-onset diabetes.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chronic pancreatitis), 2024 INI-CET (pancreatic surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pancreas",
+      "basedOn": "2022 INI-CET (chronic pancreatitis), 2024 INI-CET (pancreatic surgery)"
+    }
+  },
+  {
+    "id": "surg_q_67",
+    "questionNumber": 67,
+    "subject": "General Surgery",
+    "subTopic": "Liver",
+    "sub_topic": "Liver",
+    "stem": "The commonest benign liver tumour, and the imaging feature that identifies it, are",
+    "options": [
+      "Hepatic adenoma; rim calcification",
+      "Focal nodular hyperplasia; a peripheral scar",
+      "Haemangioma; peripheral nodular enhancement with centripetal filling on delayed phases",
+      "Hydatid cyst; a target sign"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Biopsy is avoided for fear of bleeding. Focal nodular hyperplasia has a central, not peripheral, scar, and a hepatic adenoma in a woman on oral contraceptives carries bleeding and malignant risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (liver lesions), 2024 INI-CET (hepatic imaging)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Liver",
+      "basedOn": "2022 INI-CET (liver lesions), 2024 INI-CET (hepatic imaging)"
+    }
+  },
+  {
+    "id": "surg_q_68",
+    "questionNumber": 68,
+    "subject": "General Surgery",
+    "subTopic": "Liver",
+    "sub_topic": "Liver",
+    "stem": "A liver cyst with daughter cysts and a detached membrane on ultrasound is managed by",
+    "options": [
+      "Observation without treatment",
+      "Simple aspiration alone",
+      "Antibiotics alone",
+      "Albendazole cover with PAIR or surgery, avoiding spillage"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Spillage of hydatid fluid risks anaphylaxis and secondary seeding, so scolicidal agents and careful isolation of the field are used. An amoebic abscess instead responds to metronidazole with aspiration only if large or left-lobed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hydatid disease), 2024 INI-CET microbiology (*Echinococcus*)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Liver",
+      "basedOn": "2022 INI-CET (hydatid disease), 2024 INI-CET microbiology (*Echinococcus*)"
+    }
+  },
+  {
+    "id": "surg_q_69",
+    "questionNumber": 69,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "A patient has progressive dysphagia, first for solids then for liquids, with weight loss over 3 months. The first investigation is",
+    "options": [
+      "Barium swallow",
+      "Upper gastrointestinal endoscopy with biopsy",
+      "Manometry",
+      "CT of the thorax"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Progressive dysphagia with weight loss suggests carcinoma, and endoscopy both visualises and samples the lesion. Endoscopic ultrasound then gives T and N staging, and CT or PET-CT detects distant disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (dysphagia evaluation, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (dysphagia evaluation, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_70",
+    "questionNumber": 70,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "Dysphagia that is worse for liquids than for solids and relieved by regurgitation suggests",
+    "options": [
+      "Peptic stricture",
+      "Oesophageal carcinoma",
+      "Achalasia cardia",
+      "Schatzki ring"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mechanical obstruction gives solid-predominant dysphagia, while a motility disorder affects liquids equally or more. Barium shows the bird-beak sign, and manometry is diagnostic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (oesophageal motility versus obstruction, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (oesophageal motility versus obstruction, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_71",
+    "questionNumber": 71,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "Barrett oesophagus is defined by",
+    "options": [
+      "Submucosal fibrosis",
+      "Squamous hyperplasia",
+      "Gastric antral metaplasia",
+      "Replacement of squamous epithelium by intestinal-type columnar epithelium with goblet cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It predisposes to adenocarcinoma of the lower third. Surveillance endoscopy intervals depend on dysplasia grade, and high-grade dysplasia is treated by endoscopic resection with radiofrequency ablation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Barrett oesophagus, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (Barrett oesophagus, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_72",
+    "questionNumber": 72,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "Squamous cell carcinoma of the oesophagus differs from adenocarcinoma in that it",
+    "options": [
+      "Affects the lower third and arises in Barrett metaplasia",
+      "Affects the upper and middle thirds and is linked to smoking, alcohol, achalasia and corrosive stricture",
+      "Is commoner in obesity with reflux",
+      "Has no association with tobacco"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Plummer–Vinson syndrome, tylosis and hot beverages are further risks. Adenocarcinoma is lower-third, reflux and obesity related, and is now commoner in Western countries.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (oesophageal carcinoma types), 2024 INI-CET (dysphagia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (oesophageal carcinoma types), 2024 INI-CET (dysphagia)"
+    }
+  },
+  {
+    "id": "surg_q_73",
+    "questionNumber": 73,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "The commonest site of a pharyngeal pouch and its mechanism are",
+    "options": [
+      "The lower oesophagus, from reflux",
+      "The piriform fossa, from tumour infiltration",
+      "Killian dehiscence between the thyropharyngeus and cricopharyngeus, from failure of cricopharyngeal relaxation",
+      "The mid-oesophagus, from traction by nodes"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is a pulsion, false diverticulum of mucosa only. Endoscopic stapled diverticulotomy is the usual treatment. Option D describes a traction diverticulum from mediastinal tuberculosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET ENT (pharyngeal pouch), 2024 INI-CET (dysphagia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET ENT (pharyngeal pouch), 2024 INI-CET (dysphagia)"
+    }
+  },
+  {
+    "id": "surg_q_74",
+    "questionNumber": 74,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "Boerhaave syndrome is",
+    "options": [
+      "A paraoesophageal hernia",
+      "A mucosal tear at the gastro-oesophageal junction causing haematemesis",
+      "A traction diverticulum",
+      "Full-thickness spontaneous oesophageal rupture after forceful vomiting, usually in the left lower posterolateral wall"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Option B is a Mallory–Weiss tear, which is mucosal and usually self-limiting. Boerhaave syndrome gives Mackler triad of vomiting, chest pain and subcutaneous emphysema, and needs urgent repair or drainage.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (oesophageal emergencies), 2024 INI-CET (chest pain)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (oesophageal emergencies), 2024 INI-CET (chest pain)"
+    }
+  },
+  {
+    "id": "surg_q_75",
+    "questionNumber": 75,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "A child who swallowed a strong alkali 3 weeks ago now has dysphagia. The likely finding and its management are",
+    "options": [
+      "Achalasia, managed by myotomy",
+      "A corrosive stricture, managed by endoscopic dilatation",
+      "A foreign body, removed endoscopically",
+      "Reflux oesophagitis, treated medically"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Alkalis cause deep liquefactive necrosis, so strictures are commoner than after acid ingestion. Neither emesis nor neutralisation is induced acutely, and the long-term risk of squamous carcinoma persists for decades.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (corrosive injury), 2024 INI-CET (oesophageal stricture)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (corrosive injury), 2024 INI-CET (oesophageal stricture)"
+    }
+  },
+  {
+    "id": "surg_q_76",
+    "questionNumber": 76,
+    "subject": "General Surgery",
+    "subTopic": "Oesophagus",
+    "sub_topic": "Oesophagus",
+    "stem": "In the Nissen fundoplication for gastro-oesophageal reflux, the wrap is",
+    "options": [
+      "A 270-degree posterior partial wrap",
+      "A 180-degree anterior wrap",
+      "A 360-degree posterior wrap of the fundus around the lower oesophagus",
+      "A gastropexy without a wrap"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Option C describes the Toupet partial fundoplication, which is chosen when oesophageal motility is impaired, because a complete wrap would then cause dysphagia. Gas-bloat syndrome follows an overtight wrap.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anti-reflux surgery), 2024 INI-CET (GERD management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oesophagus",
+      "basedOn": "2022 INI-CET (anti-reflux surgery), 2024 INI-CET (GERD management)"
+    }
+  },
+  {
+    "id": "surg_q_77",
+    "questionNumber": 77,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "A patient with a chronic duodenal ulcer develops non-bilious vomiting of undigested food with a succussion splash. The complication is",
+    "options": [
+      "Malignant change",
+      "Perforation",
+      "Posterior penetration into the pancreas",
+      "Gastric outlet obstruction"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Scarring at the pylorus is the cause, producing a hypochloraemic, hypokalaemic metabolic alkalosis with paradoxical aciduria. Correction of the electrolytes precedes endoscopic dilatation or surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric outlet obstruction, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (gastric outlet obstruction, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_78",
+    "questionNumber": 78,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "The biochemical disturbance of prolonged gastric outlet obstruction is",
+    "options": [
+      "Hyperchloraemic metabolic acidosis",
+      "Hypochloraemic hypokalaemic metabolic alkalosis with paradoxical aciduria",
+      "High anion gap metabolic acidosis",
+      "Respiratory alkalosis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "When sodium must be conserved, the distal tubule exchanges it for hydrogen rather than the depleted potassium, so the urine turns acid despite systemic alkalosis. Saline with potassium corrects it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (metabolic consequences of vomiting, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (metabolic consequences of vomiting, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_79",
+    "questionNumber": 79,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "Free gas under the diaphragm with sudden severe epigastric pain and board-like rigidity indicates",
+    "options": [
+      "Acute cholecystitis",
+      "Acute pancreatitis",
+      "A perforated peptic ulcer requiring resuscitation and operative repair with an omental patch",
+      "Mesenteric ischaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "An erect chest film shows free gas in about 75% of cases, so its absence does not exclude perforation and CT is more sensitive. *Helicobacter pylori* eradication follows repair.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (perforated peptic ulcer, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (perforated peptic ulcer, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_80",
+    "questionNumber": 80,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "Which is the commonest site of gastric carcinoma, and which lesion is a recognised premalignant condition?",
+    "options": [
+      "Greater curvature; Ménétrier disease only",
+      "Fundus; duodenal ulcer",
+      "Cardia; hyperplastic polyp",
+      "Antrum and pylorus; chronic atrophic gastritis with intestinal metaplasia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pernicious anaemia, partial gastrectomy, adenomatous polyps and *Helicobacter pylori* infection also predispose. A duodenal ulcer, in contrast, is not premalignant.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric carcinoma), 2024 INI-CET (gastric pathology)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (gastric carcinoma), 2024 INI-CET (gastric pathology)"
+    }
+  },
+  {
+    "id": "surg_q_81",
+    "questionNumber": 81,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "Which eponymous sign of metastatic gastric carcinoma is a palpable left supraclavicular node?",
+    "options": [
+      "Sister Mary Joseph nodule",
+      "Virchow node, giving Troisier sign",
+      "Blumer shelf",
+      "Krukenberg tumour"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The thoracic duct drains there. A Sister Mary Joseph nodule is umbilical, Blumer shelf is a rectal-shelf deposit in the pouch of Douglas, and a Krukenberg tumour is an ovarian metastasis with signet-ring cells.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric carcinoma spread, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (gastric carcinoma spread, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_82",
+    "questionNumber": 82,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "A submucosal gastric tumour positive for CD117 (c-KIT) on immunohistochemistry is treated with",
+    "options": [
+      "Radiotherapy",
+      "Radical gastrectomy with D2 nodal clearance in all cases",
+      "Surgical resection, with imatinib for high-risk or unresectable disease",
+      "Observation"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A gastrointestinal stromal tumour arises from the interstitial cells of Cajal and spreads haematogenously, so wide nodal dissection is unnecessary. Size and mitotic index determine risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastric tumours), 2024 INI-CET pathology (GIST markers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2022 INI-CET (gastric tumours), 2024 INI-CET pathology (GIST markers)"
+    }
+  },
+  {
+    "id": "surg_q_83",
+    "questionNumber": 83,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "Early dumping syndrome after gastric surgery is caused by",
+    "options": [
+      "Afferent loop obstruction",
+      "Reactive hyperinsulinaemic hypoglycaemia",
+      "Bile reflux into the stomach",
+      "Rapid entry of a hyperosmolar load into the jejunum with fluid shift"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It occurs within 30 minutes with abdominal and vasomotor symptoms. Option B is late dumping, 2 to 3 hours after a meal. Both are managed with small, dry, low-carbohydrate meals, and octreotide if refractory.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (post-gastrectomy complications and B12 deficiency, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2024 INI-CET (post-gastrectomy complications and B12 deficiency, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_84",
+    "questionNumber": 84,
+    "subject": "General Surgery",
+    "subTopic": "Stomach",
+    "sub_topic": "Stomach",
+    "stem": "The bariatric procedure that works chiefly by restriction without any intestinal bypass is",
+    "options": [
+      "Roux-en-Y gastric bypass",
+      "Laparoscopic sleeve gastrectomy",
+      "Biliopancreatic diversion",
+      "Duodenal switch"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It also reduces ghrelin by removing the fundus. Surgery is considered at a BMI of 40, or 35 with comorbidity, with lower thresholds used in Asian populations. Bypass procedures add malabsorption and need lifelong supplements.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (post-gastric surgery nutrition), 2022 INI-CET (obesity surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Stomach",
+      "basedOn": "2024 INI-CET (post-gastric surgery nutrition), 2022 INI-CET (obesity surgery)"
+    }
+  },
+  {
+    "id": "surg_q_85",
+    "questionNumber": 85,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "The commonest cause of small bowel obstruction in a patient with a previous laparotomy is",
+    "options": [
+      "Malignancy",
+      "Obstructed hernia",
+      "Adhesions",
+      "Intussusception"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hernia leads in the unoperated abdomen. Non-operative management with decompression and fluids succeeds in most adhesive obstructions, but strangulation — constant pain, tenderness, fever, acidosis — demands surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (small bowel obstruction causes, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (small bowel obstruction causes, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_86",
+    "questionNumber": 86,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "Erect abdominal radiography showing multiple central air-fluid levels with a stepladder pattern indicates obstruction of the",
+    "options": [
+      "Rectum",
+      "Large bowel",
+      "Stomach",
+      "Small bowel"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Valvulae conniventes cross the whole lumen and the loops lie centrally. Large bowel obstruction shows peripheral distension with haustral markings that do not cross completely, and a caecal diameter above 12 cm risks perforation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (radiology of bowel obstruction, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (radiology of bowel obstruction, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_87",
+    "questionNumber": 87,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "A coffee-bean sign on abdominal radiography in an elderly constipated patient suggests",
+    "options": [
+      "Caecal volvulus",
+      "Sigmoid volvulus",
+      "Toxic megacolon",
+      "Pseudo-obstruction"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A long mesentery with a narrow base allows twisting. Flexible sigmoidoscopic decompression with a flatus tube succeeds in most, and elective sigmoid resection follows because recurrence is common.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (large bowel obstruction), 2024 INI-CET (abdominal radiology)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (large bowel obstruction), 2024 INI-CET (abdominal radiology)"
+    }
+  },
+  {
+    "id": "surg_q_88",
+    "questionNumber": 88,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "A 9-month-old has colicky pain, vomiting, redcurrant-jelly stools and a sausage-shaped mass. The treatment of choice is",
+    "options": [
+      "Observation",
+      "Immediate laparotomy in all cases",
+      "Pneumatic or hydrostatic reduction under imaging guidance",
+      "Antibiotics"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ultrasound shows target and pseudokidney signs. Ileocolic intussusception in this age group usually follows lymphoid hyperplasia. Surgery is needed for peritonitis, failed reduction or a pathological lead point.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (paediatric abdominal emergency), 2024 INI-CET (intussusception)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (paediatric abdominal emergency), 2024 INI-CET (intussusception)"
+    }
+  },
+  {
+    "id": "surg_q_89",
+    "questionNumber": 89,
+    "subject": "General Surgery",
+    "subTopic": "Appendix",
+    "sub_topic": "Appendix",
+    "stem": "Which feature favours appendicitis over mesenteric adenitis in a child?",
+    "options": [
+      "Marked lymphocytosis",
+      "Generalised shifting tenderness with cervical lymphadenopathy",
+      "High fever preceding the pain",
+      "Pain migrating from the umbilicus to the right iliac fossa with localised guarding"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Visceral pain is referred to the umbilicus until the parietal peritoneum is involved. Fever before pain, and a preceding upper respiratory infection, favour mesenteric adenitis. Scoring systems such as Alvarado aid decisions.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute appendicitis diagnosis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Appendix",
+      "basedOn": "2022 INI-CET (acute appendicitis diagnosis, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_90",
+    "questionNumber": 90,
+    "subject": "General Surgery",
+    "subTopic": "Appendix",
+    "sub_topic": "Appendix",
+    "stem": "A patient presents on day 6 of right iliac fossa pain with a tender mass and no peritonitis. The accepted management is",
+    "options": [
+      "Immediate appendicectomy",
+      "Ochsner–Sherren conservative regimen with antibiotics, and interval appendicectomy if indicated",
+      "Right hemicolectomy",
+      "Observation with no antibiotics"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Operating through an inflamed mass risks injury to adherent bowel. Failure to settle, or an abscess, prompts drainage. A mass in an older patient needs colonoscopy to exclude carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (appendicular mass management), 2024 INI-CET (appendicitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Appendix",
+      "basedOn": "2022 INI-CET (appendicular mass management), 2024 INI-CET (appendicitis)"
+    }
+  },
+  {
+    "id": "surg_q_91",
+    "questionNumber": 91,
+    "subject": "General Surgery",
+    "subTopic": "Appendix",
+    "sub_topic": "Appendix",
+    "stem": "The commonest tumour of the appendix is",
+    "options": [
+      "Lymphoma",
+      "Adenocarcinoma",
+      "A neuroendocrine (carcinoid) tumour, usually at the tip",
+      "Mucinous cystadenocarcinoma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Appendicectomy suffices for a tumour below 1 cm, while one above 2 cm, or at the base with mesoappendiceal invasion, needs right hemicolectomy. Rupture of a mucinous tumour causes pseudomyxoma peritonei.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (appendicular pathology), 2024 INI-CET (neuroendocrine tumours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Appendix",
+      "basedOn": "2022 INI-CET (appendicular pathology), 2024 INI-CET (neuroendocrine tumours)"
+    }
+  },
+  {
+    "id": "surg_q_92",
+    "questionNumber": 92,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "Which colonic condition is characterised by crypt abscesses, continuous mucosal involvement from the rectum and pseudopolyps?",
+    "options": [
+      "Amoebic colitis",
+      "Crohn disease",
+      "Ischaemic colitis",
+      "Ulcerative colitis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Toxic megacolon, perforation and colorectal carcinoma are the serious complications, and surveillance colonoscopy begins about 8 years after onset of pancolitis. Proctocolectomy with an ileal pouch is curative.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ulcerative colitis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (ulcerative colitis, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_93",
+    "questionNumber": 93,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "Screening colonoscopy for average-risk individuals conventionally begins at",
+    "options": [
+      "30 years",
+      "45 to 50 years",
+      "60 years",
+      "70 years"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Familial adenomatous polyposis is screened from about 10 to 12 years, and Lynch syndrome from 20 to 25 years or 10 years before the youngest family case. A faecal immunochemical test is the alternative screen.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (colorectal carcinoma), 2024 INI-CET PSM (cancer screening)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (colorectal carcinoma), 2024 INI-CET PSM (cancer screening)"
+    }
+  },
+  {
+    "id": "surg_q_94",
+    "questionNumber": 94,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "Familial adenomatous polyposis results from a germline mutation in",
+    "options": [
+      "*RET*",
+      "A mismatch repair gene",
+      "The *APC* gene on chromosome 5q",
+      "*STK11*"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Carcinoma is inevitable without prophylactic proctocolectomy. Mismatch repair defects cause Lynch syndrome with microsatellite instability, and *STK11* causes Peutz–Jeghers syndrome with hamartomatous polyps.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (colorectal carcinoma genetics), 2024 INI-CET (polyposis syndromes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (colorectal carcinoma genetics), 2024 INI-CET (polyposis syndromes)"
+    }
+  },
+  {
+    "id": "surg_q_95",
+    "questionNumber": 95,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "In carcinoma of the rectum 4 cm from the anal verge, the operation usually required is",
+    "options": [
+      "Local excision alone",
+      "Anterior resection with primary anastomosis",
+      "Hartmann procedure",
+      "Abdominoperineal resection with a permanent colostomy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A distal margin cannot be achieved without sacrificing the sphincter at this level. Neoadjuvant chemoradiotherapy may downstage the tumour, and total mesorectal excision is the key oncological principle.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (rectal carcinoma surgery), 2024 INI-CET (colorectal management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (rectal carcinoma surgery), 2024 INI-CET (colorectal management)"
+    }
+  },
+  {
+    "id": "surg_q_96",
+    "questionNumber": 96,
+    "subject": "General Surgery",
+    "subTopic": "Intestine",
+    "sub_topic": "Intestine",
+    "stem": "The commonest cause of massive lower gastrointestinal bleeding in an elderly patient is",
+    "options": [
+      "Haemorrhoids",
+      "Diverticular disease",
+      "Carcinoma",
+      "Inflammatory bowel disease"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Angiodysplasia is next. Colonoscopy after bowel preparation locates and treats most, and CT angiography is used when bleeding is brisk. An upper source must always be excluded first.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gastrointestinal bleeding), 2024 INI-CET (diverticular disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Intestine",
+      "basedOn": "2022 INI-CET (gastrointestinal bleeding), 2024 INI-CET (diverticular disease)"
+    }
+  },
+  {
+    "id": "surg_q_97",
+    "questionNumber": 97,
+    "subject": "General Surgery",
+    "subTopic": "Anorectum",
+    "sub_topic": "Anorectum",
+    "stem": "Second-degree haemorrhoids are those that",
+    "options": [
+      "Prolapse and need manual reduction",
+      "Bleed without prolapse",
+      "Prolapse on straining and reduce spontaneously",
+      "Remain permanently prolapsed"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "First degree bleed only, third degree need manual reduction and fourth degree stay prolapsed. First and second degree respond to diet and banding, while third and fourth usually need haemorrhoidectomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (haemorrhoid grading, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anorectum",
+      "basedOn": "2022 INI-CET (haemorrhoid grading, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_98",
+    "questionNumber": 98,
+    "subject": "General Surgery",
+    "subTopic": "Anorectum",
+    "sub_topic": "Anorectum",
+    "stem": "The commonest site of an anal fissure and the key element of its treatment are",
+    "options": [
+      "The dentate line; steroid cream",
+      "The anterior midline; antibiotics",
+      "The lateral wall; sphincterotomy only",
+      "The posterior midline; relief of internal sphincter spasm with topical glyceryl trinitrate or diltiazem"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The posterior midline is relatively ischaemic. Lateral internal sphincterotomy is the surgical standard for chronic fissure; multiple or lateral fissures suggest Crohn disease, tuberculosis or HIV.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anal fissure, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anorectum",
+      "basedOn": "2022 INI-CET (anal fissure, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_99",
+    "questionNumber": 99,
+    "subject": "General Surgery",
+    "subTopic": "Anorectum",
+    "sub_topic": "Anorectum",
+    "stem": "Goodsall rule predicts that",
+    "options": [
+      "All tracks are radial",
+      "A posterior external opening tracks curvilinearly to the posterior midline, while an anterior one tracks radially",
+      "All tracks are curved",
+      "Anterior openings track to the posterior midline"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Low fistulae are treated by fistulotomy, while a high or complex track needs a seton, advancement flap or LIFT procedure to protect continence. MRI maps complex disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anal fistula), 2024 INI-CET (perianal sepsis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anorectum",
+      "basedOn": "2022 INI-CET (anal fistula), 2024 INI-CET (perianal sepsis)"
+    }
+  },
+  {
+    "id": "surg_q_100",
+    "questionNumber": 100,
+    "subject": "General Surgery",
+    "subTopic": "Hernia",
+    "sub_topic": "Hernia",
+    "stem": "An inguinal hernia whose neck lies medial to the inferior epigastric vessels is",
+    "options": [
+      "A femoral hernia",
+      "An indirect inguinal hernia",
+      "A direct inguinal hernia",
+      "An obturator hernia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It pushes through the weak posterior wall at Hesselbach triangle and rarely reaches the scrotum. An indirect hernia enters the deep ring lateral to the vessels and is the commoner type at all ages.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (direct versus indirect inguinal hernia, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Hernia",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (direct versus indirect inguinal hernia, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_101",
+    "questionNumber": 101,
+    "subject": "General Surgery",
+    "subTopic": "Hernia",
+    "sub_topic": "Hernia",
+    "stem": "Hesselbach triangle is bounded by",
+    "options": [
+      "The deep ring, the superficial ring and the pubic tubercle",
+      "The inguinal ligament, the femoral vein and the pectineal line",
+      "The conjoint tendon, the lacunar ligament and the femoral artery",
+      "The inferior epigastric vessels, the inguinal ligament and the lateral border of rectus abdominis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A direct hernia emerges through it. Option B approximates the femoral canal's boundaries, where a femoral hernia descends below and lateral to the pubic tubercle.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Hesselbach triangle, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Hernia",
+      "basedOn": "2022 INI-CET (Hesselbach triangle, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_102",
+    "questionNumber": 102,
+    "subject": "General Surgery",
+    "subTopic": "Hernia",
+    "sub_topic": "Hernia",
+    "stem": "A femoral hernia requires early repair chiefly because",
+    "options": [
+      "It is always large",
+      "Its narrow, rigid neck gives a high risk of strangulation",
+      "It causes testicular atrophy",
+      "It recurs after mesh repair"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The lacunar ligament makes the neck unyielding. It is commoner in women, lies below and lateral to the pubic tubercle, and is repaired by the low Lockwood, high McEvedy or inguinal Lotheissen approach.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hernia types), 2024 INI-CET (groin swelling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Hernia",
+      "basedOn": "2022 INI-CET (hernia types), 2024 INI-CET (groin swelling)"
+    }
+  },
+  {
+    "id": "surg_q_103",
+    "questionNumber": 103,
+    "subject": "General Surgery",
+    "subTopic": "Hernia",
+    "sub_topic": "Hernia",
+    "stem": "In a Richter hernia",
+    "options": [
+      "A Meckel diverticulum is the content",
+      "Two loops of bowel are contained with an intervening loop in the abdomen",
+      "Part of the circumference of the bowel wall is strangulated without complete obstruction",
+      "The sac contains the appendix"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Diagnosis is easily delayed because obstruction is absent. Option B is a Maydl hernia, option C a Littre hernia and option D an Amyand hernia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hernia terminology), 2024 INI-CET (strangulated hernia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Hernia",
+      "basedOn": "2022 INI-CET (hernia terminology), 2024 INI-CET (strangulated hernia)"
+    }
+  },
+  {
+    "id": "surg_q_104",
+    "questionNumber": 104,
+    "subject": "General Surgery",
+    "subTopic": "Hernia",
+    "sub_topic": "Hernia",
+    "stem": "The Lichtenstein repair of an inguinal hernia is",
+    "options": [
+      "Herniotomy alone",
+      "Darning with the conjoint tendon sutured to the inguinal ligament",
+      "Approximation of the transversalis fascia to the iliopubic tract",
+      "Tension-free mesh reinforcement of the posterior wall"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Tension-free repair reduced recurrence sharply over tissue repairs. Option D, herniotomy alone, is appropriate in children, where the defect is a patent processus vaginalis rather than a weak wall.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hernia repair), 2024 INI-CET (surgical technique)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Hernia",
+      "basedOn": "2022 INI-CET (hernia repair), 2024 INI-CET (surgical technique)"
+    }
+  },
+  {
+    "id": "surg_q_105",
+    "questionNumber": 105,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "During thyroidectomy, which nerve lies closest to the inferior thyroid artery and risks injury causing hoarseness?",
+    "options": [
+      "Internal laryngeal nerve",
+      "External branch of the superior laryngeal nerve",
+      "Recurrent laryngeal nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It supplies all intrinsic laryngeal muscles except the cricothyroid. The external branch of the superior laryngeal nerve runs with the superior thyroid artery, and its injury causes loss of high-pitched phonation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (nerve injury in thyroidectomy, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (nerve injury in thyroidectomy, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_106",
+    "questionNumber": 106,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "Bilateral recurrent laryngeal nerve injury after thyroidectomy presents with",
+    "options": [
+      "No symptoms",
+      "Complete loss of voice with a safe airway",
+      "Dysphagia alone",
+      "Stridor and airway obstruction requiring immediate intervention"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both cords lie near the midline in a paramedian position, narrowing the glottis. Unilateral injury gives a hoarse, breathy voice that often improves as the opposite cord compensates.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (thyroidectomy complications, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (thyroidectomy complications, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_107",
+    "questionNumber": 107,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "The commonest cause of post-thyroidectomy hypocalcaemia presenting on the second day is",
+    "options": [
+      "Hypomagnesaemia alone",
+      "Vitamin D deficiency",
+      "Transient parathyroid ischaemia or inadvertent removal",
+      "Hungry bone syndrome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Perioral tingling with Chvostek and Trousseau signs appears, and intravenous calcium gluconate is given for severe symptoms. Hungry bone syndrome follows parathyroidectomy for long-standing hyperparathyroidism, not thyroidectomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (thyroid surgery complications), 2024 INI-CET (calcium disorders)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (thyroid surgery complications), 2024 INI-CET (calcium disorders)"
+    }
+  },
+  {
+    "id": "surg_q_108",
+    "questionNumber": 108,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "The investigation of choice for a solitary thyroid nodule is",
+    "options": [
+      "CT of the neck",
+      "Radioiodine scan first",
+      "Core biopsy in all cases",
+      "Fine-needle aspiration cytology with ultrasound characterisation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "TSH is measured first, and a radioiodine scan is only useful when TSH is suppressed, suggesting a toxic nodule. The Bethesda system classifies cytology and guides whether surgery is needed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (solitary thyroid nodule evaluation, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (solitary thyroid nodule evaluation, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_109",
+    "questionNumber": 109,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "Which thyroid malignancy cannot be diagnosed by fine-needle aspiration cytology, and why?",
+    "options": [
+      "Medullary carcinoma, because calcitonin cannot be stained",
+      "Papillary carcinoma, because of its nuclear features",
+      "Follicular carcinoma, because capsular or vascular invasion must be seen histologically",
+      "Anaplastic carcinoma, because of necrosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cytology cannot separate a follicular adenoma from a carcinoma, so lobectomy is performed for histology. Papillary carcinoma shows Orphan Annie nuclei and psammoma bodies on cytology.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (thyroid malignancy and FNAC limits, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (thyroid malignancy and FNAC limits, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_110",
+    "questionNumber": 110,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "Papillary carcinoma of the thyroid differs from follicular carcinoma in that it",
+    "options": [
+      "Does not take up radioiodine",
+      "Spreads by blood to bone and lung",
+      "Arises from parafollicular C cells",
+      "Spreads mainly by lymphatics and is multifocal, with an excellent prognosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Follicular carcinoma spreads haematogenously to bone and lung. Both are of follicular cell origin, take up radioiodine and are followed with thyroglobulin after total thyroidectomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (thyroid carcinoma types, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (thyroid carcinoma types, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_111",
+    "questionNumber": 111,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "Medullary carcinoma of the thyroid is monitored with which marker, and arises from which cell?",
+    "options": [
+      "Thyroid peroxidase antibody; C cells",
+      "Thyroglobulin; follicular cells",
+      "CEA alone; follicular cells",
+      "Calcitonin; parafollicular C cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It shows amyloid stroma on histology, does not take up radioiodine and needs total thyroidectomy with central nodal clearance. A *RET* mutation must be sought, and phaeochromocytoma excluded before surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (medullary carcinoma and MEN, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (medullary carcinoma and MEN, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_112",
+    "questionNumber": 112,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "MEN 2A consists of",
+    "options": [
+      "Medullary thyroid carcinoma, phaeochromocytoma and parathyroid hyperplasia",
+      "Parathyroid, pituitary and pancreatic tumours",
+      "Medullary thyroid carcinoma, phaeochromocytoma and mucosal neuromas with a marfanoid habitus",
+      "Pituitary adenoma with gastrinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option C is MEN 2B, which lacks parathyroid disease but adds mucosal neuromas and intestinal ganglioneuromatosis. Option B is MEN 1, caused by a *MEN1* menin mutation rather than *RET*.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MEN 2B features, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (MEN 2B features, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_113",
+    "questionNumber": 113,
+    "subject": "General Surgery",
+    "subTopic": "Thyroid",
+    "sub_topic": "Thyroid",
+    "stem": "In a patient with phaeochromocytoma and medullary thyroid carcinoma, the correct operative sequence is",
+    "options": [
+      "Adrenalectomy first, after adequate alpha blockade",
+      "Thyroidectomy first",
+      "Both simultaneously without blockade",
+      "Parathyroidectomy first"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An unprepared phaeochromocytoma can cause a fatal hypertensive crisis during any operation. Phenoxybenzamine is given for 10 to 14 days with liberal salt and fluid, and a beta blocker added only afterwards.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MEN syndromes), 2024 INI-CET medicine (phaeochromocytoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thyroid",
+      "basedOn": "2022 INI-CET (MEN syndromes), 2024 INI-CET medicine (phaeochromocytoma)"
+    }
+  },
+  {
+    "id": "surg_q_114",
+    "questionNumber": 114,
+    "subject": "General Surgery",
+    "subTopic": "Parathyroid",
+    "sub_topic": "Parathyroid",
+    "stem": "The commonest cause of primary hyperparathyroidism is",
+    "options": [
+      "A single parathyroid adenoma",
+      "Four-gland hyperplasia",
+      "Parathyroid carcinoma",
+      "Ectopic PTH secretion"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It accounts for about 85% of cases. Sestamibi scanning with ultrasound localises it, and focused parathyroidectomy with intraoperative PTH monitoring is the operation. Hyperplasia is typical of MEN 1 and renal disease.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (parathyroid disease), 2024 INI-CET (hypercalcaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Parathyroid",
+      "basedOn": "2022 INI-CET (parathyroid disease), 2024 INI-CET (hypercalcaemia)"
+    }
+  },
+  {
+    "id": "surg_q_115",
+    "questionNumber": 115,
+    "subject": "General Surgery",
+    "subTopic": "Parathyroid",
+    "sub_topic": "Parathyroid",
+    "stem": "Hyperparathyroidism in chronic kidney disease that persists after a successful renal transplant is termed",
+    "options": [
+      "Tertiary hyperparathyroidism",
+      "Secondary hyperparathyroidism",
+      "Primary hyperparathyroidism",
+      "Pseudohyperparathyroidism"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The chronically stimulated glands become autonomous, giving hypercalcaemia with a high PTH where secondary disease had shown low or normal calcium. Subtotal parathyroidectomy is usually needed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (parathyroid disease), 2024 INI-CET (renal transplant)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Parathyroid",
+      "basedOn": "2022 INI-CET (parathyroid disease), 2024 INI-CET (renal transplant)"
+    }
+  },
+  {
+    "id": "surg_q_116",
+    "questionNumber": 116,
+    "subject": "General Surgery",
+    "subTopic": "Adrenal",
+    "sub_topic": "Adrenal",
+    "stem": "An incidentally discovered adrenal mass should be evaluated for",
+    "options": [
+      "Hormonal activity and malignant risk, with size, imaging phenotype and metanephrines all assessed",
+      "Size alone",
+      "Biopsy in all cases",
+      "Immediate resection regardless of findings"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Biopsy is avoided until phaeochromocytoma is excluded, because it can provoke a crisis. Resection is advised for a functioning lesion, a mass above about 4 cm, or suspicious imaging features.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (adrenal lesions), 2024 INI-CET medicine (phaeochromocytoma screening)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Adrenal",
+      "basedOn": "2022 INI-CET (adrenal lesions), 2024 INI-CET medicine (phaeochromocytoma screening)"
+    }
+  },
+  {
+    "id": "surg_q_117",
+    "questionNumber": 117,
+    "subject": "General Surgery",
+    "subTopic": "Adrenal",
+    "sub_topic": "Adrenal",
+    "stem": "Conn syndrome is treated by",
+    "options": [
+      "Laparoscopic adrenalectomy for a unilateral adenoma, and spironolactone for bilateral hyperplasia",
+      "Bilateral adrenalectomy in all cases",
+      "Dexamethasone",
+      "Radiotherapy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Adrenal vein sampling separates the two when imaging is equivocal. Hypertension with hypokalaemia and metabolic alkalosis, and a raised aldosterone-to-renin ratio, are the clue.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (adrenal surgery), 2024 INI-CET medicine (primary hyperaldosteronism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Adrenal",
+      "basedOn": "2022 INI-CET (adrenal surgery), 2024 INI-CET medicine (primary hyperaldosteronism)"
+    }
+  },
+  {
+    "id": "surg_q_118",
+    "questionNumber": 118,
+    "subject": "General Surgery",
+    "subTopic": "Adrenal",
+    "sub_topic": "Adrenal",
+    "stem": "The commonest extracranial solid tumour of childhood arising from the adrenal medulla is",
+    "options": [
+      "Neuroblastoma",
+      "Wilms tumour",
+      "Phaeochromocytoma",
+      "Adrenocortical carcinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It crosses the midline and displaces the kidney, whereas a Wilms tumour arises within the kidney and distorts the calyces. Raised urinary vanillylmandelic and homovanillic acid, and *MYCN* amplification, characterise it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (paediatric abdominal mass), 2024 INI-CET (adrenal tumours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Adrenal",
+      "basedOn": "2022 INI-CET (paediatric abdominal mass), 2024 INI-CET (adrenal tumours)"
+    }
+  },
+  {
+    "id": "surg_q_119",
+    "questionNumber": 119,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "The commonest composition of renal stones overall is",
+    "options": [
+      "Calcium oxalate",
+      "Struvite",
+      "Uric acid",
+      "Cystine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Struvite stones follow urease-producing infection and form staghorn calculi, uric acid stones are radiolucent and dissolve with urinary alkalinisation, and cystine stones are faintly radio-opaque and recur in young patients.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (renal stone composition, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (renal stone composition, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_120",
+    "questionNumber": 120,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A radiolucent renal stone on plain radiography that is visible on non-contrast CT is most likely",
+    "options": [
+      "A uric acid stone",
+      "A calcium oxalate stone",
+      "A struvite stone",
+      "A calcium phosphate stone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Only pure matrix stones and indinavir stones are missed by CT. Uric acid stones are managed with hydration, allopurinol and potassium citrate to raise urinary pH above 6.5, and often dissolve without intervention.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (renal stone imaging, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (renal stone imaging, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_121",
+    "questionNumber": 121,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Cystine stones are characteristic of",
+    "options": [
+      "Cystinuria, a defect of dibasic amino acid transport in the proximal tubule",
+      "Cystinosis with lysosomal storage",
+      "Homocystinuria",
+      "Primary hyperoxaluria"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cystine, ornithine, arginine and lysine are all poorly reabsorbed, but only cystine is insoluble. Hexagonal crystals appear in urine; treatment is high fluid intake, alkalinisation and penicillamine or tiopronin.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cystine stones and cystinuria, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (cystine stones and cystinuria, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_122",
+    "questionNumber": 122,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A 7 mm stone in the lower ureter with no obstruction or infection in a well patient is best managed by",
+    "options": [
+      "Medical expulsive therapy with analgesia and hydration, with ureteroscopy if it fails",
+      "Immediate percutaneous nephrolithotomy",
+      "Open ureterolithotomy",
+      "Observation without analgesia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Stones below 10 mm often pass spontaneously. Fever, obstruction of a single kidney, or uncontrolled pain demand urgent drainage by a DJ stent or percutaneous nephrostomy before any definitive procedure.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (renal stone management and DJ stenting, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (renal stone management and DJ stenting, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_123",
+    "questionNumber": 123,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "The indication for emergency decompression with a DJ stent or nephrostomy in ureteric colic is",
+    "options": [
+      "Obstruction with fever or deteriorating renal function",
+      "Pain relieved by analgesia",
+      "A stone below 5 mm",
+      "Microscopic haematuria"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An infected, obstructed system is a urological emergency that can progress to septic shock within hours. Definitive stone treatment is deferred until the infection is controlled.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (DJ stent indications, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (DJ stent indications, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_124",
+    "questionNumber": 124,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Sterile pyuria with frequency and a putty kidney on imaging suggests",
+    "options": [
+      "Genitourinary tuberculosis",
+      "Acute pyelonephritis",
+      "Bladder carcinoma",
+      "Interstitial cystitis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Early morning urine for acid-fast bacilli or nucleic acid testing is diagnostic. A golf-hole ureteric orifice, thimble bladder and ureteric strictures are the other classic features; treatment is medical with surgery for strictures.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (genitourinary tuberculosis — sterile pyuria, putty kidney, golf-hole ureter, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (genitourinary tuberculosis — sterile pyuria, putty kidney, golf-hole ureter, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_125",
+    "questionNumber": 125,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Painless gross haematuria in a 60-year-old smoker should first be investigated by",
+    "options": [
+      "Cystoscopy with CT urography",
+      "Urine culture alone",
+      "Ultrasound of the abdomen alone",
+      "A trial of antibiotics"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Transitional cell carcinoma of the bladder must be excluded; smoking, aniline dyes and cyclophosphamide are the risk factors. Ultrasound alone misses small tumours and upper tract lesions.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bladder carcinoma — painless haematuria, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (bladder carcinoma — painless haematuria, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_126",
+    "questionNumber": 126,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Non-muscle-invasive bladder carcinoma that is high grade is treated with",
+    "options": [
+      "Transurethral resection followed by intravesical BCG",
+      "Radical cystectomy in all cases",
+      "External beam radiotherapy alone",
+      "Systemic chemotherapy alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BCG provokes a local immune response that lowers recurrence and progression. Muscle-invasive disease needs radical cystectomy with urinary diversion, preceded by neoadjuvant cisplatin-based chemotherapy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bladder tumour management), 2024 INI-CET (urological malignancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (bladder tumour management), 2024 INI-CET (urological malignancy)"
+    }
+  },
+  {
+    "id": "surg_q_127",
+    "questionNumber": 127,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A patient with an ileal conduit develops a metabolic disturbance. The expected pattern is",
+    "options": [
+      "Hyperchloraemic metabolic acidosis with hypokalaemia",
+      "Metabolic alkalosis",
+      "High anion gap acidosis",
+      "Respiratory acidosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Intestinal mucosa absorbs chloride and ammonium from urine while secreting bicarbonate. The disturbance is worse with longer segments and with colonic rather than ileal use, and is treated with oral bicarbonate.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ileal conduit metabolic complications, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (ileal conduit metabolic complications, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_128",
+    "questionNumber": 128,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A male neonate has a distended bladder, poor urinary stream and bilateral hydronephrosis. The diagnosis and first step are",
+    "options": [
+      "Posterior urethral valves; bladder drainage with a catheter, then a micturating cystourethrogram",
+      "Pelvi-ureteric junction obstruction; pyeloplasty",
+      "Vesicoureteric reflux; antibiotics only",
+      "Neurogenic bladder; clean intermittent catheterisation only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A keyhole sign appears on antenatal ultrasound. Decompression protects the kidneys, and definitive treatment is endoscopic valve ablation. It is the commonest cause of bladder outlet obstruction in a male infant.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (posterior urethral valve, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (posterior urethral valve, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_129",
+    "questionNumber": 129,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "The commonest zone of origin of prostatic carcinoma, and of benign hyperplasia, are respectively",
+    "options": [
+      "Peripheral zone; transition zone",
+      "Transition zone; peripheral zone",
+      "Central zone; peripheral zone",
+      "Anterior fibromuscular stroma; central zone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is why carcinoma is palpable on rectal examination while hyperplasia causes outflow symptoms. Systematic biopsy therefore samples the peripheral zone, now usually guided by multiparametric MRI.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (prostate zonal anatomy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (prostate zonal anatomy, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_130",
+    "questionNumber": 130,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Metastatic prostate carcinoma is initially treated by",
+    "options": [
+      "Androgen deprivation with a GnRH agonist plus initial anti-androgen cover, or orchidectomy",
+      "Radical prostatectomy",
+      "Radiotherapy to the prostate alone",
+      "Observation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A GnRH agonist causes an initial testosterone flare that can worsen bone pain or cord compression, which the anti-androgen prevents. Osteoblastic bone deposits via the vertebral venous plexus are characteristic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (prostate carcinoma), 2024 INI-CET (hormonal therapy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (prostate carcinoma), 2024 INI-CET (hormonal therapy)"
+    }
+  },
+  {
+    "id": "surg_q_131",
+    "questionNumber": 131,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A 25-year-old has a painless, firm testicular swelling that does not transilluminate, with a raised AFP and beta-hCG. The first step is",
+    "options": [
+      "Inguinal orchidectomy with high cord ligation after tumour markers and imaging",
+      "Scrotal biopsy",
+      "Trans-scrotal orchidectomy",
+      "Aspiration for cytology"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A scrotal approach risks seeding to the inguinal nodes and altering the lymphatic drainage, which is normally to the para-aortic nodes. A raised AFP indicates a non-seminomatous element.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (testicular tumour approach, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (testicular tumour approach, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_132",
+    "questionNumber": 132,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "Sudden severe testicular pain with a high-riding transverse testis and absent cremasteric reflex in a 14-year-old requires",
+    "options": [
+      "Immediate scrotal exploration with bilateral fixation",
+      "Doppler ultrasound before any surgery",
+      "Antibiotics for epididymo-orchitis",
+      "Observation with analgesia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Salvage falls steeply after about 6 hours, so imaging must not delay surgery. The contralateral testis is fixed because the bell-clapper deformity is usually bilateral.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (testicular torsion, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (testicular torsion, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_133",
+    "questionNumber": 133,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "An undescended testis should be brought down by orchidopexy preferably by",
+    "options": [
+      "12 to 18 months of age",
+      "5 years",
+      "Puberty",
+      "10 years"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Early surgery limits germ cell loss and makes later examination possible, though the raised malignancy risk is not abolished. An impalpable testis is assessed by laparoscopy, the investigation of choice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (undescended testis), 2024 INI-CET (paediatric surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (undescended testis), 2024 INI-CET (paediatric surgery)"
+    }
+  },
+  {
+    "id": "surg_q_134",
+    "questionNumber": 134,
+    "subject": "General Surgery",
+    "subTopic": "Urology",
+    "sub_topic": "Urology",
+    "stem": "A scrotal swelling that transilluminates and in which the testis cannot be felt separately is",
+    "options": [
+      "A hydrocele",
+      "A varicocele",
+      "An epididymal cyst",
+      "An inguinoscrotal hernia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ultrasound is needed in a young adult to exclude an underlying tumour causing a secondary hydrocele. A varicocele feels like a bag of worms, does not transilluminate, and on the left may signal a renal tumour.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (scrotal swellings), 2024 INI-CET (testicular disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Urology",
+      "basedOn": "2022 INI-CET (scrotal swellings), 2024 INI-CET (testicular disease)"
+    }
+  },
+  {
+    "id": "surg_q_135",
+    "questionNumber": 135,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "The six Ps of acute limb ischaemia include all EXCEPT",
+    "options": [
+      "Pain",
+      "Pallor",
+      "Pulselessness",
+      "Pitting oedema"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The six are pain, pallor, pulselessness, paraesthesia, paralysis and perishing cold. Paraesthesia and paralysis mark a threatened limb that needs revascularisation within hours, before fixed mottling appears.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute limb ischaemia features, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (acute limb ischaemia features, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_136",
+    "questionNumber": 136,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "A patient with atrial fibrillation has sudden onset of a cold, pulseless, painful leg with preserved sensation. The management is",
+    "options": [
+      "Heparinisation with urgent embolectomy",
+      "Elective angioplasty after a week",
+      "Conservative management with analgesia",
+      "Immediate amputation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Sudden onset in a patient with a cardiac source suggests embolism rather than thrombosis in situ. The common femoral bifurcation is the commonest lodging site; reperfusion injury and compartment syndrome must be anticipated.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (arterial embolism management, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (arterial embolism management, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_137",
+    "questionNumber": 137,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "The most dangerous metabolic consequence of reperfusion after prolonged limb ischaemia is",
+    "options": [
+      "Hyperkalaemia with myoglobinuric renal failure and acidosis",
+      "Hypernatraemia",
+      "Metabolic alkalosis",
+      "Hypercalcaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Potassium, myoglobin and acid metabolites wash out of necrotic muscle. Aggressive fluids, urine alkalinisation, potassium management and fasciotomy are needed, and primary amputation is chosen for an unsalvageable limb.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute limb ischaemia), 2024 INI-CET medicine (rhabdomyolysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (acute limb ischaemia), 2024 INI-CET medicine (rhabdomyolysis)"
+    }
+  },
+  {
+    "id": "surg_q_138",
+    "questionNumber": 138,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "An ankle-brachial pressure index of 0.45 in a claudicant indicates",
+    "options": [
+      "Severe peripheral arterial disease",
+      "Normal perfusion",
+      "Mild disease",
+      "Medial calcification giving a falsely low value"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Normal is 0.9 to 1.3; 0.4 to 0.9 is claudication and below 0.4 indicates critical ischaemia. Diabetic medial calcification produces a falsely **high** index, so toe pressures or waveforms are used instead.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ABPI interpretation, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (ABPI interpretation, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_139",
+    "questionNumber": 139,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "Buttock and thigh claudication with impotence and absent femoral pulses is",
+    "options": [
+      "Leriche syndrome from aortoiliac occlusion",
+      "Superficial femoral artery occlusion",
+      "Popliteal entrapment",
+      "Buerger disease"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Superficial femoral disease instead gives calf claudication with a present femoral pulse, the commonest pattern. Aortobifemoral bypass or endovascular reconstruction is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (peripheral arterial disease), 2024 INI-CET (claudication)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (peripheral arterial disease), 2024 INI-CET (claudication)"
+    }
+  },
+  {
+    "id": "surg_q_140",
+    "questionNumber": 140,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "Thromboangiitis obliterans (Buerger disease) differs from atherosclerosis in that it",
+    "options": [
+      "Affects small and medium distal vessels in young male smokers, with migratory thrombophlebitis",
+      "Affects large proximal vessels in the elderly",
+      "Is unrelated to smoking",
+      "Responds well to bypass surgery"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Complete tobacco cessation is the only intervention that alters its course, as distal disease leaves no suitable bypass target. A corkscrew collateral pattern appears on angiography.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (peripheral vascular disease), 2024 INI-CET (vasculitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (peripheral vascular disease), 2024 INI-CET (vasculitis)"
+    }
+  },
+  {
+    "id": "surg_q_141",
+    "questionNumber": 141,
+    "subject": "General Surgery",
+    "subTopic": "Arterial",
+    "sub_topic": "Arterial",
+    "stem": "An abdominal aortic aneurysm is generally offered elective repair at a diameter of",
+    "options": [
+      "5.5 cm, or when expanding faster than 1 cm per year, or when symptomatic",
+      "3 cm",
+      "4 cm",
+      "8 cm"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Below that, rupture risk is lower than operative risk. Rupture classically gives pain, hypotension and a pulsatile mass; a stable patient is imaged by CT, while an unstable one goes straight to theatre.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (aortic aneurysm), 2024 INI-CET (vascular surgery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Arterial",
+      "basedOn": "2022 INI-CET (aortic aneurysm), 2024 INI-CET (vascular surgery)"
+    }
+  },
+  {
+    "id": "surg_q_142",
+    "questionNumber": 142,
+    "subject": "General Surgery",
+    "subTopic": "Venous",
+    "sub_topic": "Venous",
+    "stem": "Trendelenburg test in varicose veins assesses",
+    "options": [
+      "Saphenofemoral junction and deep-to-superficial valvular competence",
+      "Deep venous patency",
+      "Arterial inflow",
+      "Lymphatic drainage"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Duplex ultrasound has largely replaced it and maps reflux precisely. Perthes test assesses deep venous patency, which must be confirmed before any superficial vein is stripped or ablated.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (varicose veins examination, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Venous",
+      "basedOn": "2022 INI-CET (varicose veins examination, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_143",
+    "questionNumber": 143,
+    "subject": "General Surgery",
+    "subTopic": "Venous",
+    "sub_topic": "Venous",
+    "stem": "A venous ulcer differs from an arterial ulcer in that it is typically",
+    "options": [
+      "At the medial malleolus, shallow with sloping edges, in a limb with oedema and pigmentation",
+      "On the toes and heel, deep with punched-out edges",
+      "On the sole, painless with callus",
+      "Over the sacrum with undermined edges"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Graduated compression after excluding arterial disease by ABPI is the mainstay. Option C describes a neuropathic diabetic ulcer and option D a pressure sore.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (leg ulcers, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Venous",
+      "basedOn": "2022 INI-CET (leg ulcers, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_144",
+    "questionNumber": 144,
+    "subject": "General Surgery",
+    "subTopic": "Venous",
+    "sub_topic": "Venous",
+    "stem": "Lymphoedema differs from venous oedema chiefly in that it",
+    "options": [
+      "Is non-pitting with a positive Stemmer sign and skin thickening",
+      "Is pitting with pigmentation",
+      "Resolves fully on elevation",
+      "Is always painful"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Filariasis is the commonest cause worldwide and axillary dissection the commonest iatrogenic one. Treatment is decongestive physiotherapy with compression; recurrent cellulitis is the main complication.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (limb swelling), 2024 INI-CET (lymphatic disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Venous",
+      "basedOn": "2022 INI-CET (limb swelling), 2024 INI-CET (lymphatic disease)"
+    }
+  },
+  {
+    "id": "surg_q_145",
+    "questionNumber": 145,
+    "subject": "General Surgery",
+    "subTopic": "Instruments",
+    "sub_topic": "Instruments",
+    "stem": "Which suture material is absorbable and monofilament, suited to bowel anastomosis?",
+    "options": [
+      "Polydioxanone (PDS)",
+      "Silk",
+      "Polypropylene",
+      "Polyester"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Monofilament sutures harbour fewer bacteria than braided ones, and PDS retains strength for about 6 weeks. Silk is braided and non-absorbable, while polypropylene is non-absorbable and used for vascular and mesh work.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (suture materials and properties, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Instruments",
+      "basedOn": "2022 INI-CET (suture materials and properties, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_146",
+    "questionNumber": 146,
+    "subject": "General Surgery",
+    "subTopic": "Instruments",
+    "sub_topic": "Instruments",
+    "stem": "A Doyen retractor and a Babcock forceps are used respectively for",
+    "options": [
+      "Retracting the abdominal wall, and holding bowel or tubular structures atraumatically",
+      "Clamping vessels, and cutting bone",
+      "Holding drapes, and retracting the liver",
+      "Dilating strictures, and crushing bowel"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Instrument recognition is asked almost every paper. A crushing clamp such as Payr is used on the specimen side, while an occlusion clamp such as Doyen's intestinal clamp protects the retained bowel.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2021 INI-CET (surgical instrument identification, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Instruments",
+      "basedOn": "2022 INI-CET / 2021 INI-CET (surgical instrument identification, 3X)"
+    }
+  },
+  {
+    "id": "surg_q_147",
+    "questionNumber": 147,
+    "subject": "General Surgery",
+    "subTopic": "Instruments",
+    "sub_topic": "Instruments",
+    "stem": "The chief advantage of a closed suction (Redivac) drain over a corrugated open drain is",
+    "options": [
+      "A lower risk of ascending infection with measurable output",
+      "Easier removal",
+      "Lower cost",
+      "No need for fixation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Open drains leave a route for skin organisms to track inwards. A suction drain is avoided next to a fresh bowel anastomosis, where negative pressure could promote a fistula.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (surgical drains), 2024 INI-CET (postoperative care)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Instruments",
+      "basedOn": "2022 INI-CET (surgical drains), 2024 INI-CET (postoperative care)"
+    }
+  },
+  {
+    "id": "surg_q_148",
+    "questionNumber": 148,
+    "subject": "General Surgery",
+    "subTopic": "General Surgery",
+    "sub_topic": "General Surgery",
+    "stem": "The commonest cause of fever on the first postoperative day is",
+    "options": [
+      "Atelectasis, from hypoventilation and retained secretions",
+      "Wound infection",
+      "Urinary tract infection",
+      "Deep vein thrombosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The classic timeline runs wind, water, wound, walking and wonder drugs — atelectasis on day 1 to 2, urinary infection on day 3 to 5, wound infection on day 5 to 7, and thrombosis after day 5.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (postoperative complications), 2024 INI-CET (postoperative fever)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Surgery",
+      "basedOn": "2022 INI-CET (postoperative complications), 2024 INI-CET (postoperative fever)"
+    }
+  },
+  {
+    "id": "surg_q_149",
+    "questionNumber": 149,
+    "subject": "General Surgery",
+    "subTopic": "Transplant",
+    "sub_topic": "Transplant",
+    "stem": "In live-related renal transplantation, the single most important immunological requirement is",
+    "options": [
+      "ABO compatibility with a negative crossmatch",
+      "Identical HLA typing",
+      "Matched sex and age",
+      "Identical body weight"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A positive crossmatch means preformed donor-specific antibodies and predicts hyperacute rejection. HLA matching improves graft survival but is not absolutely required, and the graft is placed extraperitoneally in the iliac fossa.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (renal transplantation requirements, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transplant",
+      "basedOn": "2022 INI-CET (renal transplantation requirements, 2X)"
+    }
+  },
+  {
+    "id": "surg_q_150",
+    "questionNumber": 150,
+    "subject": "General Surgery",
+    "subTopic": "Plastic",
+    "sub_topic": "Plastic",
+    "stem": "A hypertrophic scar differs from a keloid in that it",
+    "options": [
+      "Stays within the original wound margins and tends to regress with time",
+      "Extends beyond the wound margins and recurs after excision",
+      "Occurs only on the face",
+      "Never responds to steroid injection"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option B describes a keloid, which is commoner over the sternum, shoulder and earlobe and in darker skin. Both respond to intralesional triamcinolone, pressure and silicone, and keloid excision needs adjuvant treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (keloid versus hypertrophic scar, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Plastic",
+      "basedOn": "2022 INI-CET (keloid versus hypertrophic scar, 2X)"
+    }
+  }
+]

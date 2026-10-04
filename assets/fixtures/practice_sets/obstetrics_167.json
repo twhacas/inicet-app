@@ -1,0 +1,4511 @@
+[
+  {
+    "id": "obs_q_1",
+    "questionNumber": 1,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "A woman on long-term valproate for epilepsy is planning pregnancy. The malformation she is most at risk of transmitting, and the correct pre-conception step, are",
+    "options": [
+      "Phocomelia; stop all antiepileptics",
+      "Neural tube defect; switch to a safer antiepileptic and start 4–5 mg folic acid daily",
+      "Ebstein anomaly; add lithium",
+      "Grey baby syndrome; add vitamin K"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Valproate carries the highest teratogenic risk of the common antiepileptics, with neural tube defects, facial clefts and reduced IQ. Lamotrigine and levetiracetam are preferred. High-dose folate is started at least a month before conception.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (drug associated with increased risk of NTDs — valproate), 2022 INI-CET (drug contraindicated in a psychiatric patient in pregnancy — valproate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2024 INI-CET (drug associated with increased risk of NTDs — valproate), 2022 INI-CET (drug contraindicated in a psychiatric patient in pregnancy — valproate)"
+    }
+  },
+  {
+    "id": "obs_q_2",
+    "questionNumber": 2,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Which drug–defect pairing is incorrect?",
+    "options": [
+      "Thalidomide — phocomelia",
+      "Isotretinoin — microtia",
+      "Warfarin — nasal hypoplasia and stippled epiphyses",
+      "Methimazole — Ebstein anomaly"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Methimazole and carbimazole cause **aplasia cutis**, choanal atresia and oesophageal atresia. Ebstein anomaly belongs to lithium. Chloramphenicol causes grey baby syndrome, and tetracycline causes dental staining.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match drug to defect — thalidomide/phocomelia, isotretinoin/microtia, chloramphenicol/grey baby, warfarin), 2023 INI-CET (aplasia cutis — methimazole)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2021 INI-CET (match drug to defect — thalidomide/phocomelia, isotretinoin/microtia, chloramphenicol/grey baby, warfarin), 2023 INI-CET (aplasia cutis — methimazole)"
+    }
+  },
+  {
+    "id": "obs_q_3",
+    "questionNumber": 3,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "A woman at 8 weeks of gestation is newly diagnosed with hyperthyroidism. The drug of choice and the reason are",
+    "options": [
+      "Radioiodine, because it is definitive",
+      "Methimazole, because propylthiouracil is hepatotoxic",
+      "Propylthiouracil, because methimazole in the first trimester risks aplasia cutis and choanal atresia",
+      "Propranolol alone, because antithyroid drugs are contraindicated"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Propylthiouracil is preferred in the first trimester and conventionally switched thereafter because of its own hepatotoxicity. Radioiodine is absolutely contraindicated in pregnancy and lactation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (8-week POG with hyperthyroidism — propylthiouracil, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2023 INI-CET (8-week POG with hyperthyroidism — propylthiouracil, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_4",
+    "questionNumber": 4,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "A woman with bipolar disorder is well controlled on lithium and is now in the third trimester. The expected change in requirement is",
+    "options": [
+      "No change at any stage of pregnancy",
+      "The dose should be halved, because clearance falls",
+      "Lithium must be stopped immediately at any gestation",
+      "The dose usually needs increasing, because glomerular filtration rate rises in pregnancy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Lithium is cleared by the kidney, and GFR rises by about 50%, so levels fall. The dose must then be reduced sharply around delivery, when GFR returns to normal and toxicity can occur. Levels are monitored closely.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (bipolar disorder, third trimester, lithium 750 mg daily — next step is to increase the dose)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Teratogens",
+      "basedOn": "2024 INI-CET (bipolar disorder, third trimester, lithium 750 mg daily — next step is to increase the dose)"
+    }
+  },
+  {
+    "id": "obs_q_5",
+    "questionNumber": 5,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Which group of viruses is teratogenic?",
+    "options": [
+      "Herpes simplex, hepatitis B and mumps",
+      "Rubella, hepatitis A and rotavirus",
+      "Rubella, cytomegalovirus and varicella",
+      "Influenza, hepatitis E and adenovirus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Herpes simplex causes serious **perinatal** infection acquired at delivery rather than classical teratogenesis. Zika and *Toxoplasma* are the other major fetal pathogens; cytomegalovirus is the commonest congenital infection overall.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (teratogenic viruses — rubella, CMV, varicella, not HSV)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2024 INI-CET (teratogenic viruses — rubella, CMV, varicella, not HSV)"
+    }
+  },
+  {
+    "id": "obs_q_6",
+    "questionNumber": 6,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "A virus that causes fetal microcephaly and is carried across the placenta within Hofbauer cells is",
+    "options": [
+      "Rubella virus",
+      "Zika virus",
+      "Parvovirus B19",
+      "Hepatitis E virus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hofbauer cells are placental macrophages, and Zika replicates within them. Microcephaly with intracranial calcification and ocular abnormality results; sexual as well as vector transmission occurs.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (virus causing microcephaly transmitted by Hofbauer cells — Zika)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2022 INI-CET (virus causing microcephaly transmitted by Hofbauer cells — Zika)"
+    }
+  },
+  {
+    "id": "obs_q_7",
+    "questionNumber": 7,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Non-immune hydrops fetalis is caused by all of the following EXCEPT",
+    "options": [
+      "Parvovirus B19",
+      "Congenital syphilis",
+      "HIV",
+      "Alpha thalassaemia major"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "HIV causes vertical transmission but not hydrops. Parvovirus B19 suppresses erythroid precursors and causes severe anaemia with hydrops, and alpha thalassaemia major (Bart hydrops) is the commonest cause in South-East Asia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (non-immune hydrops — syphilis, rubella, HSV but not HIV), 2024 INI-CET (hydrops fetalis caused by parvovirus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2024 INI-CET (non-immune hydrops — syphilis, rubella, HSV but not HIV), 2024 INI-CET (hydrops fetalis caused by parvovirus)"
+    }
+  },
+  {
+    "id": "obs_q_8",
+    "questionNumber": 8,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Maternal systemic lupus erythematosus is most characteristically associated with which fetal complication, and through which antibody?",
+    "options": [
+      "Neural tube defect, through anti-dsDNA",
+      "Congenital complete heart block, through anti-Ro and anti-La",
+      "Limb reduction, through antiphospholipid antibody",
+      "Hydrops, through anti-Sm"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The antibodies cross the placenta and damage the fetal conducting system, usually between 18 and 24 weeks. Serial fetal echocardiography is used for surveillance. Antiphospholipid antibody instead causes recurrent loss and pre-eclampsia.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (fetal heart block caused by maternal SLE)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2023 INI-CET (fetal heart block caused by maternal SLE)"
+    }
+  },
+  {
+    "id": "obs_q_9",
+    "questionNumber": 9,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Maternal chickenpox causes the highest risk of congenital varicella syndrome when infection occurs at",
+    "options": [
+      "28–32 weeks",
+      "4–6 weeks",
+      "13–20 weeks of gestation",
+      "Within 48 hours of delivery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Limb hypoplasia, cicatricial skin scarring, chorioretinitis and cortical atrophy result. Infection within about 5 days before to 2 days after delivery instead causes severe **neonatal** varicella, which needs immunoglobulin and aciclovir.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (maximum adverse fetal effect of maternal chickenpox — 13–21 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Teratogens",
+      "basedOn": "2023 INI-CET (maximum adverse fetal effect of maternal chickenpox — 13–21 weeks)"
+    }
+  },
+  {
+    "id": "obs_q_10",
+    "questionNumber": 10,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Kassowitz law relates to",
+    "options": [
+      "Twin-to-twin transfusion",
+      "Rhesus isoimmunisation, where severity worsens with each pregnancy",
+      "Gestational diabetes recurrence",
+      "Congenital syphilis, where fetal involvement becomes progressively milder with each successive pregnancy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Declining maternal spirochaetaemia explains it. Rhesus disease behaves in the opposite way, worsening with each sensitised pregnancy, which is the point of the contrast.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Kassowitz rule — congenital syphilis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Teratogens",
+      "basedOn": "2021 INI-CET (Kassowitz rule — congenital syphilis)"
+    }
+  },
+  {
+    "id": "obs_q_11",
+    "questionNumber": 11,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Which investigation is contraindicated in pregnancy because of fetal radiation dose?",
+    "options": [
+      "Ultrasonography",
+      "Magnetic resonance imaging without gadolinium",
+      "Computed tomography of the abdomen",
+      "Chest radiography with abdominal shielding"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It delivers the highest fetal dose of the four. The threshold for deterministic fetal injury is about 50 to 100 mGy, well above a shielded chest film. MRI is safe, though gadolinium is avoided.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (investigation contraindicated in pregnancy — CT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2024 INI-CET (investigation contraindicated in pregnancy — CT)"
+    }
+  },
+  {
+    "id": "obs_q_12",
+    "questionNumber": 12,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "A woman completed tamoxifen for breast carcinoma and wishes to conceive. She should use contraception for at least",
+    "options": [
+      "1 week",
+      "3 months after stopping the drug",
+      "2 years",
+      "5 years"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Tamoxifen is teratogenic and has a long terminal half-life, so a washout of about 2 to 3 months is advised. It also raises the risk of endometrial carcinoma, which is why abnormal bleeding on treatment needs investigation.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2023 INI-CET (contraception duration after tamoxifen — 3 months, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2021 INI-CET / 2023 INI-CET (contraception duration after tamoxifen — 3 months, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_13",
+    "questionNumber": 13,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "SSRI use in late pregnancy has been associated with",
+    "options": [
+      "Phocomelia",
+      "Persistent pulmonary hypertension of the newborn and a neonatal adaptation syndrome",
+      "Sacral agenesis",
+      "Nasal hypoplasia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Low Apgar scores and transient jitteriness also occur. Paroxetine carries the greatest cardiac-malformation signal of the class. Untreated maternal depression carries its own fetal risks, so treatment is not stopped reflexively.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (SSRI in pregnancy — ADHD, low Apgar, pulmonary hypertension, delayed motor development)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Teratogens",
+      "basedOn": "2021 INI-CET (SSRI in pregnancy — ADHD, low Apgar, pulmonary hypertension, delayed motor development)"
+    }
+  },
+  {
+    "id": "obs_q_14",
+    "questionNumber": 14,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "The hormone that does NOT significantly influence fetal growth in utero is",
+    "options": [
+      "Insulin-like growth factor 1",
+      "Insulin",
+      "Growth hormone",
+      "Thyroid hormone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fetal growth is driven by insulin and IGF-1 under nutrient supply, which is why fetal hyperinsulinaemia in diabetes causes macrosomia. Growth hormone becomes important only after birth, so anencephalic fetuses can still grow normally.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (hormone that does not influence fetal growth — GH, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Teratogens",
+      "basedOn": "2020 INI-CET (hormone that does not influence fetal growth — GH, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_15",
+    "questionNumber": 15,
+    "subject": "Obstetrics",
+    "subTopic": "Teratogens",
+    "sub_topic": "Teratogens",
+    "stem": "Which trophoblast subtype does NOT invade the spiral arterioles?",
+    "options": [
+      "Cytotrophoblast of the chorionic villus",
+      "Endovascular trophoblast",
+      "Syncytiotrophoblast",
+      "Interstitial trophoblast"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Interstitial trophoblast invades the decidual stroma and myometrium, while **endovascular** trophoblast remodels the spiral arterioles into low-resistance channels. Failure of that remodelling is the central lesion of pre-eclampsia.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (trophoblast that does not invade spiral arterioles — interstitial)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Teratogens",
+      "basedOn": "2023 INI-CET (trophoblast that does not invade spiral arterioles — interstitial)"
+    }
+  },
+  {
+    "id": "obs_q_16",
+    "questionNumber": 16,
+    "subject": "Obstetrics",
+    "subTopic": "Placenta",
+    "sub_topic": "Placenta",
+    "stem": "A normal umbilical cord contains",
+    "options": [
+      "Two arteries and two veins",
+      "One artery and two veins",
+      "Two arteries and one vein",
+      "One artery and one vein"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The single vein carries oxygenated blood to the fetus. A single umbilical artery is associated with renal and cardiac anomalies and with growth restriction, so it prompts a careful anomaly scan.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (normal placenta has three blood vessels)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Placenta",
+      "basedOn": "2020 INI-CET (normal placenta has three blood vessels)"
+    }
+  },
+  {
+    "id": "obs_q_17",
+    "questionNumber": 17,
+    "subject": "Obstetrics",
+    "subTopic": "Placenta",
+    "sub_topic": "Placenta",
+    "stem": "A placenta with two separate lobes joined by vessels running through the membranes, with the cord inserted into the membranes, is",
+    "options": [
+      "A circumvallate placenta",
+      "A succenturiate placenta with velamentous cord insertion",
+      "A battledore placenta",
+      "Placenta membranacea"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This combination risks vasa praevia and fetal exsanguination at membrane rupture, and retained succenturiate lobe causing secondary PPH. A battledore placenta has a marginal cord insertion, which is harmless.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (two lobes connected by a membranous cord — succenturiate with velamentous cord), 2022 INI-CET (bleeding after intact placental expulsion — succenturiate lobe, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Placenta",
+      "basedOn": "2020 INI-CET (two lobes connected by a membranous cord — succenturiate with velamentous cord), 2022 INI-CET (bleeding after intact placental expulsion — succenturiate lobe, 4X)"
+    }
+  },
+  {
+    "id": "obs_q_18",
+    "questionNumber": 18,
+    "subject": "Obstetrics",
+    "subTopic": "Placenta",
+    "sub_topic": "Placenta",
+    "stem": "The main protein hormone secreted by the placenta, and the hormone it most resembles structurally, are",
+    "options": [
+      "hPL, which resembles ACTH",
+      "hCG, which shares an alpha subunit with LH, FSH and TSH",
+      "Progesterone, which resembles cortisol",
+      "Oestriol, which resembles oestradiol"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The beta subunit gives specificity, which is why beta-hCG is assayed. Cross-reactivity with the TSH receptor explains the hyperthyroidism of molar pregnancy and the thyroid stimulation of early normal pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hCG is structurally and functionally similar to LH), 2020 INI-CET (protein hormone secreted by placenta — hCG)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Placenta",
+      "basedOn": "2022 INI-CET (hCG is structurally and functionally similar to LH), 2020 INI-CET (protein hormone secreted by placenta — hCG)"
+    }
+  },
+  {
+    "id": "obs_q_19",
+    "questionNumber": 19,
+    "subject": "Obstetrics",
+    "subTopic": "Reproductive Basics",
+    "sub_topic": "Reproductive Basics",
+    "stem": "At ovulation, the structure released from the follicle is",
+    "options": [
+      "A mature ovum that has completed meiosis",
+      "A primary oocyte in prophase of meiosis I",
+      "A secondary oocyte arrested in metaphase of meiosis II",
+      "An oogonium"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Meiosis II completes only on fertilisation, when the second polar body is extruded. The primary oocyte stays arrested in prophase I from fetal life until the LH surge, which can be decades.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (at ovulation, secondary oocyte arrested in meiosis II)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Reproductive Basics",
+      "basedOn": "2021 INI-CET (at ovulation, secondary oocyte arrested in meiosis II)"
+    }
+  },
+  {
+    "id": "obs_q_20",
+    "questionNumber": 20,
+    "subject": "Obstetrics",
+    "subTopic": "Reproductive Basics",
+    "sub_topic": "Reproductive Basics",
+    "stem": "The change in the zona pellucida that prevents polyspermy is",
+    "options": [
+      "Hyaluronidase release by the sperm",
+      "The acrosome reaction",
+      "Capacitation",
+      "The cortical (zona) reaction, triggered by release of cortical granules"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Calcium-dependent exocytosis of cortical granules hardens the zona and inactivates its sperm receptors. The acrosome reaction and capacitation are sperm events that *enable* fertilisation rather than block it.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (structural change in zona pellucida preventing polyspermy — cortical reaction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Reproductive Basics",
+      "basedOn": "2021 INI-CET (structural change in zona pellucida preventing polyspermy — cortical reaction)"
+    }
+  },
+  {
+    "id": "obs_q_21",
+    "questionNumber": 21,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Cardiac output in a normal singleton pregnancy",
+    "options": [
+      "Falls after 20 weeks",
+      "Rises steadily until delivery",
+      "Peaks at about 32 weeks and then plateaus until term",
+      "Is unchanged throughout"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The rise is about 40%, from increased stroke volume early and heart rate later. The true peak comes immediately after delivery, from autotransfusion of uterine blood and relief of caval compression — the moment of greatest risk in cardiac disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cardiac output peaks at 32 weeks with no further increase, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2023 INI-CET (cardiac output peaks at 32 weeks with no further increase, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_22",
+    "questionNumber": 22,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Which heart sound may be heard normally in pregnancy?",
+    "options": [
+      "A fourth heart sound",
+      "A third heart sound",
+      "An opening snap",
+      "A pansystolic murmur at the apex"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A physiological S3 and a soft ejection systolic flow murmur are expected from the hyperdynamic circulation. An S4, an opening snap, a diastolic murmur or any pansystolic murmur is pathological and needs echocardiography.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (heart sound heard normally during pregnancy — S3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2024 INI-CET (heart sound heard normally during pregnancy — S3)"
+    }
+  },
+  {
+    "id": "obs_q_23",
+    "questionNumber": 23,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Blood pressure in normal pregnancy",
+    "options": [
+      "Rises progressively from 6 weeks",
+      "Falls to a nadir at about 24 weeks and returns to baseline by term",
+      "Is unchanged",
+      "Falls only in the third trimester"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Progesterone-mediated vasodilatation lowers systemic vascular resistance, and diastolic pressure falls most. This mid-pregnancy dip can mask pre-existing chronic hypertension, which then appears to be new after 20 weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (increase in SBP and DBP after 6 weeks of pregnancy — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2024 INI-CET (increase in SBP and DBP after 6 weeks of pregnancy — false)"
+    }
+  },
+  {
+    "id": "obs_q_24",
+    "questionNumber": 24,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The increase in blood volume in pregnancy is mainly due to",
+    "options": [
+      "Increased erythropoietin alone",
+      "Reduced renal perfusion",
+      "Sodium and water retention driven by aldosterone and oestrogen",
+      "Reduced plasma oncotic pressure alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Plasma volume rises by about 45% and red cell mass by only about 25%, so the haematocrit falls — the physiological anaemia of pregnancy, which is dilutional rather than deficient.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (increased blood volume in pregnancy — aldosterone and oestrogen, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2021 INI-CET (increased blood volume in pregnancy — aldosterone and oestrogen, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_25",
+    "questionNumber": 25,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The erythrocyte sedimentation rate rises in pregnancy because of",
+    "options": [
+      "Reduced red cell mass",
+      "Reduced albumin alone",
+      "Leucocytosis",
+      "Elevated fibrinogen"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fibrinogen rises by about 50%, which makes ESR useless as an inflammatory marker in pregnancy. CRP is relatively unaffected and is preferred. Alkaline phosphatase also rises, from placental production.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ESR increases in pregnancy due to elevated fibrinogen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2023 INI-CET (ESR increases in pregnancy due to elevated fibrinogen)"
+    }
+  },
+  {
+    "id": "obs_q_26",
+    "questionNumber": 26,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Which coagulation factors DECREASE in normal pregnancy?",
+    "options": [
+      "Fibrinogen and factor X",
+      "Factors VII and VIII",
+      "Factors XI and XIII",
+      "Von Willebrand factor"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Everything else shifts towards a procoagulant state — fibrinogen, VII, VIII, IX, X, XII and von Willebrand factor all rise, while protein S and fibrinolysis fall. This is why pregnancy raises thromboembolic risk about fivefold.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (coagulation factor that decreases in pregnancy — factors XI and XIII)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Physiology",
+      "basedOn": "2020 INI-CET (coagulation factor that decreases in pregnancy — factors XI and XIII)"
+    }
+  },
+  {
+    "id": "obs_q_27",
+    "questionNumber": 27,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "A 36-week pregnant woman becomes dizzy when lying supine and recovers on sitting up. The mechanism is",
+    "options": [
+      "Aortic compression causing cerebral hypoperfusion",
+      "Compression of the inferior vena cava by the gravid uterus, reducing venous return",
+      "Vasovagal syncope from pain",
+      "Hypoglycaemia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Supine hypotensive syndrome. Left lateral tilt restores cardiac output, which is why a wedge is placed under the right hip for caesarean section and in maternal resuscitation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dizziness lying on back relieved by sitting — IVC compression), 2020 INI-CET (position for caesarean section — supine with wedge under right hip)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2023 INI-CET (dizziness lying on back relieved by sitting — IVC compression), 2020 INI-CET (position for caesarean section — supine with wedge under right hip)"
+    }
+  },
+  {
+    "id": "obs_q_28",
+    "questionNumber": 28,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Which respiratory change is NOT seen in normal pregnancy?",
+    "options": [
+      "Increased tidal volume",
+      "Increased minute ventilation",
+      "Increased residual volume",
+      "Reduced functional residual capacity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Residual volume and functional residual capacity **fall** as the diaphragm is displaced upwards. Tidal volume and minute ventilation rise, giving a mild compensated respiratory alkalosis with a pCO₂ near 30 mmHg.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (false statement about physiological changes — increased residual volume of lung)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2022 INI-CET (false statement about physiological changes — increased residual volume of lung)"
+    }
+  },
+  {
+    "id": "obs_q_29",
+    "questionNumber": 29,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "The thyroid function change expected in normal pregnancy is",
+    "options": [
+      "A fall in total T4 with raised free T4",
+      "A rise in total T3 and T4 with normal free hormone, from increased thyroid-binding globulin",
+      "A rise in TSH throughout",
+      "No change in any parameter"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Oestrogen raises TBG. hCG cross-stimulates the TSH receptor in the first trimester, so TSH dips then. Trimester-specific reference ranges must therefore be used.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (which parameter alters in a pregnant female — total T3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2022 INI-CET (which parameter alters in a pregnant female — total T3)"
+    }
+  },
+  {
+    "id": "obs_q_30",
+    "questionNumber": 30,
+    "subject": "Obstetrics",
+    "subTopic": "Physiology",
+    "sub_topic": "Physiology",
+    "stem": "Goodell sign in early pregnancy refers to",
+    "options": [
+      "Pulsation felt in the lateral vaginal fornix",
+      "Softening of the uterine isthmus",
+      "Softening of the cervix",
+      "Bluish discoloration of the vaginal mucosa"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hegar sign is isthmic softening, Osiander sign is the lateral fornix pulsation, and Chadwick (Jacquemier) sign is the bluish vaginal discoloration. All are presumptive rather than positive signs.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cervical softening in pregnancy — Goodell sign), 2020 INI-CET (signs at 8 weeks — Goodell, Osiander)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Physiology",
+      "basedOn": "2023 INI-CET (cervical softening in pregnancy — Goodell sign), 2020 INI-CET (signs at 8 weeks — Goodell, Osiander)"
+    }
+  },
+  {
+    "id": "obs_q_31",
+    "questionNumber": 31,
+    "subject": "Obstetrics",
+    "subTopic": "Antenatal Care",
+    "sub_topic": "Antenatal Care",
+    "stem": "The minimum number of antenatal contacts recommended by the WHO 2016 model is",
+    "options": [
+      "Six",
+      "Four",
+      "Twelve",
+      "Eight"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The WHO moved from four focused visits to eight contacts because perinatal mortality was lower with eight. India's own programme target remains at least four visits, so read the stem carefully for which standard is being asked.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (minimum number of antenatal visits as per WHO — 8)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antenatal Care",
+      "basedOn": "2020 INI-CET (minimum number of antenatal visits as per WHO — 8)"
+    }
+  },
+  {
+    "id": "obs_q_32",
+    "questionNumber": 32,
+    "subject": "Obstetrics",
+    "subTopic": "Antenatal Care",
+    "sub_topic": "Antenatal Care",
+    "stem": "The additional energy requirement recommended in the third trimester of pregnancy is about",
+    "options": [
+      "600 kcal per day",
+      "100 kcal per day",
+      "350 kcal per day",
+      "1,000 kcal per day"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The ICMR figure, with an extra 23 g of protein. Lactation requires about 600 kcal in the first 6 months. Iron, folate and calcium supplementation accompany it. National figures are revised periodically, so confirm against the current ICMR RDA.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (calorie requirement in pregnancy — 350 kcal in third trimester)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antenatal Care",
+      "basedOn": "2021 INI-CET (calorie requirement in pregnancy — 350 kcal in third trimester)"
+    }
+  },
+  {
+    "id": "obs_q_33",
+    "questionNumber": 33,
+    "subject": "Obstetrics",
+    "subTopic": "Medical Disorders",
+    "sub_topic": "Medical Disorders",
+    "stem": "A woman with a prosthetic mechanical heart valve is pregnant. The anticoagulation plan is",
+    "options": [
+      "Warfarin throughout pregnancy",
+      "Heparin in the first trimester and from about 36 weeks, with warfarin in between",
+      "Heparin throughout with no warfarin at any stage",
+      "Aspirin alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Warfarin is embryopathic in the first trimester and risks fetal intracranial bleeding at delivery, but low-molecular-weight heparin protects a mechanical valve less well, so the mid-trimester compromise is used. Switch back to heparin at about 36 weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (shift from warfarin to heparin at 36 weeks, 2X), 2023 NEET-PG (anticoagulant of choice at 30 weeks with prosthetic valve), 2020 INI-CET (warfarin embryopathy — replace with heparin in first trimester)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Medical Disorders",
+      "basedOn": "2024 INI-CET (shift from warfarin to heparin at 36 weeks, 2X), 2023 NEET-PG (anticoagulant of choice at 30 weeks with prosthetic valve), 2020 INI-CET (warfarin embryopathy — replace with heparin in first trimester)"
+    }
+  },
+  {
+    "id": "obs_q_34",
+    "questionNumber": 34,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The shortest anteroposterior diameter of the pelvic inlet, and the one that limits engagement, is the",
+    "options": [
+      "True conjugate",
+      "Obstetric conjugate",
+      "Diagonal conjugate",
+      "Transverse diameter"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It runs from the sacral promontory to the nearest point on the posterior surface of the symphysis, about 10 cm. It cannot be measured clinically, so it is estimated as the diagonal conjugate minus 1.5 to 2 cm.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (shortest pelvic diameter at the brim — obstetric conjugate, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2023 INI-CET (shortest pelvic diameter at the brim — obstetric conjugate, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_35",
+    "questionNumber": 35,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "Restitution in the mechanism of labour is",
+    "options": [
+      "Descent of the head to the pelvic floor",
+      "Active rotation of the shoulders",
+      "Passive untwisting of the neck once the head is delivered, through 45 degrees",
+      "Extension of the head around the pubic symphysis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Internal rotation of the head had twisted the neck relative to the shoulders; restitution undoes it. **External** rotation, which follows, is the further 45 degrees driven by internal rotation of the shoulders.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (restitution — passive movement of head due to untwisting of neck), 2021 INI-CET (sequence: engagement, crowning, restitution, external rotation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2024 INI-CET (restitution — passive movement of head due to untwisting of neck), 2021 INI-CET (sequence: engagement, crowning, restitution, external rotation)"
+    }
+  },
+  {
+    "id": "obs_q_36",
+    "questionNumber": 36,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The correct sequence of events in the mechanism of labour is",
+    "options": [
+      "Flexion → engagement → restitution → descent",
+      "Engagement → flexion → extension → descent → restitution",
+      "Descent → engagement → external rotation → internal rotation",
+      "Engagement → descent → flexion → internal rotation → extension → restitution → external rotation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Crowning occurs during extension, when the head no longer recedes between contractions. Expulsion of the shoulders and trunk completes the mechanism.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (arrange in order — engagement, crowning, restitution, external rotation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2021 INI-CET (arrange in order — engagement, crowning, restitution, external rotation)"
+    }
+  },
+  {
+    "id": "obs_q_37",
+    "questionNumber": 37,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The fetal occiput points towards the symphysis pubis and to the mother's right. The position is",
+    "options": [
+      "Right occipito-posterior",
+      "Left occipito-anterior",
+      "Right occipito-anterior",
+      "Right occipito-transverse"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Position is named by the side of the maternal pelvis the occiput points to, plus anterior, transverse or posterior. Left occipito-anterior is the commonest position at the onset of labour.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (occiput towards pubic symphysis and to the right — ROA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2024 INI-CET (occiput towards pubic symphysis and to the right — ROA)"
+    }
+  },
+  {
+    "id": "obs_q_38",
+    "questionNumber": 38,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The second Leopold manoeuvre is the",
+    "options": [
+      "Fundal grip, which identifies the presenting part in the fundus",
+      "Lateral grip, which determines the fetal lie and the position of the back",
+      "Pawlik grip, which assesses the presenting part at the pelvis",
+      "Deep pelvic grip, which assesses engagement"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The first is the fundal grip, the third the Pawlik (first pelvic) grip and the fourth the deep pelvic grip assessing flexion and engagement.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Leopold second grip — lateral grip)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2024 INI-CET (Leopold second grip — lateral grip)"
+    }
+  },
+  {
+    "id": "obs_q_39",
+    "questionNumber": 39,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "By the current WHO definition, the active phase of the first stage of labour begins at a cervical dilatation of",
+    "options": [
+      "3 cm",
+      "5 cm",
+      "4 cm",
+      "6 cm"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The WHO 2018 intrapartum guideline moved the threshold to 5 cm and abandoned the 1 cm per hour minimum, because labour progress is slower and more variable than Friedman described. Older sources still say 3 to 4 cm.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (active phase — more than 5 cm dilatation with full effacement), 2022 INI-CET (plotting on partograph starts at 4 cm)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Labour",
+      "basedOn": "2023 NEET-PG (active phase — more than 5 cm dilatation with full effacement), 2022 INI-CET (plotting on partograph starts at 4 cm)"
+    }
+  },
+  {
+    "id": "obs_q_40",
+    "questionNumber": 40,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The alert line on the WHO partograph, when crossed, indicates",
+    "options": [
+      "Normal progress",
+      "Immediate caesarean section",
+      "Slow progress requiring transfer to a facility with caesarean capability",
+      "Fetal distress"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The action line, 4 hours to the right of it, is where active intervention is decided. The older partograph plots from 4 cm, which is why this and the 5 cm definition can conflict; state the convention you are using.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (plotting on partograph at 4 cm), 2020 INI-CET (horizontal line on partograph indicates arrest, likely CPD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2022 INI-CET (plotting on partograph at 4 cm), 2020 INI-CET (horizontal line on partograph indicates arrest, likely CPD)"
+    }
+  },
+  {
+    "id": "obs_q_41",
+    "questionNumber": 41,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "On the partograph, a horizontal line of cervical dilatation over several hours with good contractions indicates",
+    "options": [
+      "Fetal distress",
+      "Normal latent phase",
+      "Precipitate labour",
+      "Arrest of dilatation, most often from cephalopelvic disproportion"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Adequate contractions with no dilatation means obstruction rather than inefficient uterine action. Moulding and caput, a high station and a full bladder are assessed before deciding on caesarean section.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (horizontal line on partograph — arrest likely due to CPD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2020 INI-CET (horizontal line on partograph — arrest likely due to CPD)"
+    }
+  },
+  {
+    "id": "obs_q_42",
+    "questionNumber": 42,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "The ischial spines are palpable at the level of the",
+    "options": [
+      "Pelvic outlet",
+      "Pelvic inlet",
+      "Mid-pelvis, and define station zero",
+      "Sacral promontory"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The interspinous diameter, about 10.5 cm, is the narrowest diameter of the whole pelvis. Station is measured in centimetres above or below this plane, and engagement means the biparietal diameter has passed the inlet.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ischial spine level)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2023 INI-CET (ischial spine level)"
+    }
+  },
+  {
+    "id": "obs_q_43",
+    "questionNumber": 43,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "Structures divided in a mediolateral episiotomy include all EXCEPT",
+    "options": [
+      "Bulbospongiosus",
+      "The external anal sphincter",
+      "Superficial and deep transverse perineal muscles",
+      "Posterior vaginal wall and perineal skin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cutting the external anal sphincter defines a third-degree tear and is exactly what the mediolateral angle is designed to avoid. Posterior extension of a midline episiotomy is the classic way the sphincter is injured.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (structures cut in episiotomy), 2022 NEET-PG (structure injured if episiotomy extends posteriorly — external anal sphincter)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2022 INI-CET (structures cut in episiotomy), 2022 NEET-PG (structure injured if episiotomy extends posteriorly — external anal sphincter)"
+    }
+  },
+  {
+    "id": "obs_q_44",
+    "questionNumber": 44,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "A perineal tear involving the vaginal mucosa, perineal muscles and the external anal sphincter, with intact rectal mucosa, is",
+    "options": [
+      "Second degree",
+      "Third degree",
+      "Fourth degree",
+      "First degree"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fourth degree breaches the anorectal mucosa. Third degree is subdivided by the proportion of external and internal sphincter involved. Repair is in theatre with antibiotics, laxatives and follow-up for incontinence.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (perineal tear extending into anal sphincters — third degree)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2023 NEET-PG (perineal tear extending into anal sphincters — third degree)"
+    }
+  },
+  {
+    "id": "obs_q_45",
+    "questionNumber": 45,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "Vagitus uterinus refers to",
+    "options": [
+      "The funic souffle",
+      "Uterine souffle heard on auscultation",
+      "A cry of the fetus heard before delivery, after membrane rupture admits air",
+      "Fetal hiccups felt by the mother"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is a curiosity rather than a clinical sign. The uterine souffle is a soft blowing sound synchronous with the maternal pulse, and the funic souffle is synchronous with the fetal heart.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (vagitus uterinus — cry of unborn baby)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Labour",
+      "basedOn": "2020 INI-CET (vagitus uterinus — cry of unborn baby)"
+    }
+  },
+  {
+    "id": "obs_q_46",
+    "questionNumber": 46,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "A multigravida has been in the second stage for 2 hours with the head in the right occipito-transverse position, moulding and caput 2+, and the station above the spines. The correct step is",
+    "options": [
+      "Manual rotation and forceps",
+      "Outlet forceps",
+      "Ventouse delivery",
+      "Caesarean section"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Significant moulding and caput with a high station and a transverse arrest indicate obstructed labour with disproportion. Any instrumental attempt above the spines is unsafe, and the station, not the duration, is decisive.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (second stage >2 hours, head in ROT, moulding and caput 2+ — LSCS, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Malpresentation",
+      "basedOn": "2022 INI-CET (second stage >2 hours, head in ROT, moulding and caput 2+ — LSCS, 3X)"
+    }
+  },
+  {
+    "id": "obs_q_47",
+    "questionNumber": 47,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "At 40 weeks a woman has been in the second stage for 2 hours with fetal bradycardia, the head on the perineum and the sagittal suture in the anteroposterior diameter. The appropriate delivery is",
+    "options": [
+      "Mid-cavity rotational forceps",
+      "Emergency caesarean section",
+      "Outlet forceps",
+      "Await spontaneous delivery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "With the scalp visible, the head on the perineum and the suture already anteroposterior, delivery is immediate and caesarean section would take far longer. Fetal bradycardia makes expediting delivery the priority.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (second stage 2 hours with fetal bradycardia — outlet forceps, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Malpresentation",
+      "basedOn": "2024 INI-CET (second stage 2 hours with fetal bradycardia — outlet forceps, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_48",
+    "questionNumber": 48,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "Instrumental vaginal delivery is indicated in all of the following EXCEPT",
+    "options": [
+      "Fetal distress in the second stage",
+      "Cephalopelvic disproportion",
+      "Maternal exhaustion",
+      "Prolonged second stage"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Disproportion is an absolute contraindication, because the obstruction is mechanical. Maternal cardiac or neurological disease requiring a cut-short second stage is a further indication.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (instrumental delivery indicated in fetal distress, maternal exhaustion, prolonged second stage — not CPD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2023 INI-CET (instrumental delivery indicated in fetal distress, maternal exhaustion, prolonged second stage — not CPD)"
+    }
+  },
+  {
+    "id": "obs_q_49",
+    "questionNumber": 49,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "The flexion point for correct ventouse cup placement is",
+    "options": [
+      "On the anterior fontanelle",
+      "3 cm anterior to the posterior fontanelle, on the sagittal suture",
+      "Over the occipital protuberance",
+      "3 cm posterior to the anterior fontanelle"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is about 6 cm behind the anterior fontanelle. Correct placement promotes flexion and presents the smallest diameter; a cup placed too anteriorly deflexes the head and causes traction failure.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (flexion point in ventouse delivery — 3 cm anterior to posterior fontanelle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Malpresentation",
+      "basedOn": "2022 NEET-PG (flexion point in ventouse delivery — 3 cm anterior to posterior fontanelle)"
+    }
+  },
+  {
+    "id": "obs_q_50",
+    "questionNumber": 50,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "External cephalic version is contraindicated by all of the following EXCEPT",
+    "options": [
+      "Previous classical caesarean section",
+      "Placenta praevia",
+      "Primigravidity",
+      "Oligohydramnios with a growth-restricted fetus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Being a primigravida lowers the success rate but is not a contraindication. Version is offered from about 36 weeks in a primigravida and 37 weeks in a multigravida, with tocolysis, monitoring and anti-D if Rh-negative.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (not a contraindication of ECV — primigravida)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2023 NEET-PG (not a contraindication of ECV — primigravida)"
+    }
+  },
+  {
+    "id": "obs_q_51",
+    "questionNumber": 51,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "A 36-week multigravida with two previous normal deliveries has a transverse lie, a normal placenta and adequate liquor. The appropriate step is",
+    "options": [
+      "Await spontaneous correction to term",
+      "Immediate caesarean section",
+      "Internal podalic version now",
+      "External cephalic version"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "There is no obstruction, the liquor is adequate and the uterus is lax, so version has a good chance. In a **primigravida** with a transverse lie, placenta praevia and pelvic tumour must be excluded first, since a persistent transverse lie there is abnormal.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (36 weeks, transverse lie, normal placenta, adequate liquor, two previous NVD — ECV), 2024 INI-CET (36-week primigravida with transverse lie — repeat USG, consider placenta praevia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2022 NEET-PG (36 weeks, transverse lie, normal placenta, adequate liquor, two previous NVD — ECV), 2024 INI-CET (36-week primigravida with transverse lie — repeat USG, consider placenta praevia)"
+    }
+  },
+  {
+    "id": "obs_q_52",
+    "questionNumber": 52,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "The Burns–Marshall manoeuvre is used for",
+    "options": [
+      "Relief of shoulder dystocia",
+      "Delivery of extended arms in breech",
+      "Delivery of the after-coming head of a breech",
+      "Rotation of an occipito-posterior position"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The Mauriceau–Smellie–Veit manoeuvre is the alternative for the head, Lovset manoeuvre delivers extended arms, and Pinard manoeuvre brings down an extended leg.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (manoeuvre for after-coming head of breech, dorso-anterior — Burns–Marshall)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2023 NEET-PG (manoeuvre for after-coming head of breech, dorso-anterior — Burns–Marshall)"
+    }
+  },
+  {
+    "id": "obs_q_53",
+    "questionNumber": 53,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "Persistent occipito-posterior position with face-to-pubes delivery is most characteristic of which pelvis?",
+    "options": [
+      "Gynaecoid",
+      "Anthropoid",
+      "Platypelloid",
+      "Android"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Its long anteroposterior and short transverse inlet favours the occiput settling posteriorly. A platypelloid pelvis favours transverse arrest, and an android pelvis favours deep transverse arrest with obstruction.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (persistent OP, face-to-pubes delivery — anthropoid pelvis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Malpresentation",
+      "basedOn": "2023 NEET-PG (persistent OP, face-to-pubes delivery — anthropoid pelvis)"
+    }
+  },
+  {
+    "id": "obs_q_54",
+    "questionNumber": 54,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "The fetal heart is heard in the right flank with infra-umbilical flattening of the abdomen. This suggests",
+    "options": [
+      "Breech presentation",
+      "Occipito-posterior position",
+      "Transverse lie",
+      "Face presentation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The fetal back lies laterally and the limbs point anteriorly, so the lower abdomen looks flat or saucer-shaped and the heart is heard well out in the flank. A fullness in the flanks with an empty lower pole suggests a transverse lie.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (FHR in right flank with infraumbilical flattening — occipito-posterior)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2021 NEET-PG (FHR in right flank with infraumbilical flattening — occipito-posterior)"
+    }
+  },
+  {
+    "id": "obs_q_55",
+    "questionNumber": 55,
+    "subject": "Obstetrics",
+    "subTopic": "Puerperium",
+    "sub_topic": "Puerperium",
+    "stem": "A woman is 5 days post-delivery with tearfulness, low mood and poor sleep, but no loss of function and no suicidal ideation. The diagnosis and management are",
+    "options": [
+      "Postpartum psychosis; admit",
+      "Postpartum depression; start an SSRI",
+      "Postpartum blues; reassurance and support with review",
+      "Generalised anxiety disorder; start a benzodiazepine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Blues affect up to half of women, peak at days 3 to 5 and resolve within 2 weeks. Persistence beyond that, or functional impairment, defines depression. Psychosis presents earlier with delusions and is a psychiatric emergency.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (5 days post-delivery, crying, low self-esteem, poor sleep — postpartum blues)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Puerperium",
+      "basedOn": "2020 NEET-PG (5 days post-delivery, crying, low self-esteem, poor sleep — postpartum blues)"
+    }
+  },
+  {
+    "id": "obs_q_56",
+    "questionNumber": 56,
+    "subject": "Obstetrics",
+    "subTopic": "Puerperium",
+    "sub_topic": "Puerperium",
+    "stem": "Serum prolactin is highest",
+    "options": [
+      "At the time of weaning",
+      "At 6 weeks postpartum",
+      "In the second trimester",
+      "In the first 24 hours after delivery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Prolactin rises through pregnancy and peaks just after delivery, when the fall in placental oestrogen and progesterone releases it to act on the breast. Thereafter basal levels fall but suckling produces pulsatile surges.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (serum prolactin highest 24 hours after parturition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Puerperium",
+      "basedOn": "2020 NEET-PG (serum prolactin highest 24 hours after parturition)"
+    }
+  },
+  {
+    "id": "obs_q_57",
+    "questionNumber": 57,
+    "subject": "Obstetrics",
+    "subTopic": "Puerperium",
+    "sub_topic": "Puerperium",
+    "stem": "First-line treatment for lactational mastitis, and the advice about feeding, are",
+    "options": [
+      "Observation alone with weaning",
+      "Metronidazole with immediate weaning",
+      "Cloxacillin with continued breastfeeding or expression from the affected side",
+      "Immediate incision and drainage"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "*Staphylococcus aureus* is the usual organism, so an anti-staphylococcal penicillin is chosen. Stopping feeding worsens stasis and promotes abscess formation. An established abscess is aspirated under ultrasound guidance.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (first-line treatment of mastitis in a lactating mother — cloxacillin, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Puerperium",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (first-line treatment of mastitis in a lactating mother — cloxacillin, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_58",
+    "questionNumber": 58,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "The central pathogenic mechanism of pre-eclampsia is",
+    "options": [
+      "Excess placental growth factor with vasodilatation",
+      "Failed remodelling of spiral arterioles with a rise in sFlt-1 and a fall in PlGF",
+      "Primary renal tubular injury",
+      "Maternal hyperaldosteronism"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Soluble Flt-1 sequesters VEGF and PlGF, producing endothelial dysfunction, vasoconstriction and capillary leak. The sFlt-1/PlGF ratio is used clinically to help rule out pre-eclampsia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (pathogenesis of pre-eclampsia — increased sFlt-1, decreased PlGF, vasoconstriction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2020 INI-CET (pathogenesis of pre-eclampsia — increased sFlt-1, decreased PlGF, vasoconstriction)"
+    }
+  },
+  {
+    "id": "obs_q_59",
+    "questionNumber": 59,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Early-onset pre-eclampsia is defined as onset before",
+    "options": [
+      "20 weeks",
+      "34 weeks",
+      "37 weeks",
+      "28 weeks"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Early-onset disease is more strongly placental in origin, more often associated with growth restriction and carries worse outcomes. Late-onset disease relates more to maternal cardiovascular and metabolic factors.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (early-onset pre-eclampsia occurs before 34 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2024 INI-CET (early-onset pre-eclampsia occurs before 34 weeks)"
+    }
+  },
+  {
+    "id": "obs_q_60",
+    "questionNumber": 60,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Uterine artery Doppler at 11 to 14 weeks is most useful for predicting",
+    "options": [
+      "Preterm labour",
+      "Gestational diabetes",
+      "Early-onset pre-eclampsia",
+      "Placenta accreta"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A high pulsatility index reflects persistent high-resistance spiral arterioles. Combined with maternal factors, mean arterial pressure and PlGF it identifies women who benefit from aspirin started before 16 weeks.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (uterine artery Doppler at 12–14 weeks detects early-onset pre-eclampsia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2021 NEET-PG (uterine artery Doppler at 12–14 weeks detects early-onset pre-eclampsia)"
+    }
+  },
+  {
+    "id": "obs_q_61",
+    "questionNumber": 61,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Impending eclampsia is suggested by",
+    "options": [
+      "Nausea in early pregnancy",
+      "Ankle oedema and weight gain",
+      "Proteinuria of 1+ alone",
+      "Headache, blurred vision and epigastric pain"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hyperreflexia and oliguria complete the picture. Epigastric pain reflects hepatic capsular stretch and may herald HELLP syndrome. These signs mandate magnesium sulphate and delivery planning.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (impending signs of eclampsia — headache, blurred vision, epigastric pain)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2022 INI-CET (impending signs of eclampsia — headache, blurred vision, epigastric pain)"
+    }
+  },
+  {
+    "id": "obs_q_62",
+    "questionNumber": 62,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "A woman at 35+5 weeks has a blood pressure of 170/110 mmHg, headache, blurred vision, epigastric pain and 3+ proteinuria. The management is",
+    "options": [
+      "Magnesium sulphate alone with no antihypertensive",
+      "Oral methyldopa and expectant management to 40 weeks",
+      "Intravenous labetalol, magnesium sulphate and delivery",
+      "Immediate termination without seizure prophylaxis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Severe features at 35+5 weeks mean delivery regardless of maturity. Blood pressure is controlled first to prevent maternal stroke, magnesium prevents seizures, and the two tasks are separate — magnesium is not an antihypertensive.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (35+5 weeks, BP 170/110, severe features — labetalol, MgSO₄ and terminate, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2021 INI-CET (35+5 weeks, BP 170/110, severe features — labetalol, MgSO₄ and terminate, 3X)"
+    }
+  },
+  {
+    "id": "obs_q_63",
+    "questionNumber": 63,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Magnesium sulphate in pre-eclampsia",
+    "options": [
+      "Treats both hypertension and seizures adequately",
+      "Prevents seizures but does not itself control blood pressure",
+      "Is used only after a seizure has occurred",
+      "Is contraindicated once proteinuria appears"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is the commonest conceptual trap in the subject. Magnesium gives both prophylaxis and treatment of eclamptic seizures and is neuroprotective for the preterm fetus, but an antihypertensive is still required.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MgSO₄ covers both hypertension and seizures — false), 2024 INI-CET (uses of MgSO₄ — neuroprotection and seizure prevention, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2022 INI-CET (MgSO₄ covers both hypertension and seizures — false), 2024 INI-CET (uses of MgSO₄ — neuroprotection and seizure prevention, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_64",
+    "questionNumber": 64,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Magnesium sulphate has NO established role in preventing",
+    "options": [
+      "Eclamptic seizures",
+      "Respiratory distress syndrome in the preterm newborn",
+      "Cerebral palsy in the preterm infant",
+      "Recurrence of seizures after eclampsia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Lung maturation is the role of antenatal corticosteroids. Magnesium's fetal benefit is **neuroprotection**, reducing cerebral palsy when given before anticipated very preterm birth.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (MgSO₄ has no role in preventing respiratory distress syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2023 NEET-PG (MgSO₄ has no role in preventing respiratory distress syndrome)"
+    }
+  },
+  {
+    "id": "obs_q_65",
+    "questionNumber": 65,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "The earliest sign of magnesium toxicity is",
+    "options": [
+      "Cardiac arrest",
+      "Respiratory depression",
+      "Loss of the knee jerk",
+      "Oliguria"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Deep tendon reflexes disappear at about 10 mEq/L, respiratory depression follows at about 12 and cardiac arrest at about 25. This is why reflexes, respiratory rate and urine output are checked before every dose.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (first sign of magnesium toxicity — loss of knee jerk), 2023 INI-CET (MgSO₄ toxicity case, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2020 INI-CET (first sign of magnesium toxicity — loss of knee jerk), 2023 INI-CET (MgSO₄ toxicity case, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_66",
+    "questionNumber": 66,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "A woman on magnesium sulphate becomes drowsy with a respiratory rate of 10 per minute and absent knee jerks. The immediate treatment is",
+    "options": [
+      "Give naloxone",
+      "Give furosemide",
+      "Increase the magnesium infusion",
+      "Stop magnesium and give 1 g of calcium gluconate intravenously"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Calcium antagonises magnesium at the neuromuscular junction. Ventilatory support is prepared, and because magnesium is renally excreted, oliguria is the usual precipitant.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (MgSO₄ infusion with oliguria, drowsiness, RR 10, absent reflexes — magnesium toxicity, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2023 INI-CET (MgSO₄ infusion with oliguria, drowsiness, RR 10, absent reflexes — magnesium toxicity, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_67",
+    "questionNumber": 67,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "In the Pritchard regimen, magnesium sulphate should be withheld when",
+    "options": [
+      "Proteinuria clears",
+      "Blood pressure falls below 140/90",
+      "Urine output is less than 100 mL in 4 hours, reflexes are absent, or the respiratory rate is below 12",
+      "The patient becomes seizure-free for 6 hours"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The Pritchard regimen gives 4 g intravenously plus 10 g intramuscularly, then 5 g intramuscularly every 4 hours, continued for 24 hours after delivery or the last fit. The Zuspan regimen uses a continuous infusion instead.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Pritchard regimen stopped when urine output is less than 100 mL in 4 hours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2023 NEET-PG (Pritchard regimen stopped when urine output is less than 100 mL in 4 hours)"
+    }
+  },
+  {
+    "id": "obs_q_68",
+    "questionNumber": 68,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "A woman has raised LDH, raised transaminases and thrombocytopenia with a normal blood pressure. The diagnosis is",
+    "options": [
+      "Acute fatty liver of pregnancy",
+      "HELLP syndrome, which can occur without hypertension",
+      "Gestational thrombocytopenia",
+      "Immune thrombocytopenic purpura"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Up to about 15% of cases have neither hypertension nor proteinuria, which is why the triad of haemolysis, elevated liver enzymes and low platelets is diagnostic in itself. Delivery is the treatment at any gestation.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (raised LDH, raised ALT/AST, low platelets, normal BP — HELLP syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2020 NEET-PG (raised LDH, raised ALT/AST, low platelets, normal BP — HELLP syndrome)"
+    }
+  },
+  {
+    "id": "obs_q_69",
+    "questionNumber": 69,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "The anaesthetic technique of choice for caesarean section in a stable pre-eclamptic woman with a normal platelet count is",
+    "options": [
+      "General anaesthesia in all cases",
+      "Spinal anaesthesia",
+      "Local infiltration",
+      "Ketamine sedation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Regional technique avoids the hypertensive surge of laryngoscopy and the difficult airway of laryngeal oedema. Thrombocytopenia below about 75,000 and coagulopathy are the contraindications that push towards general anaesthesia.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (anaesthesia of choice for pre-eclampsia — spinal anaesthesia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2022 NEET-PG (anaesthesia of choice for pre-eclampsia — spinal anaesthesia)"
+    }
+  },
+  {
+    "id": "obs_q_70",
+    "questionNumber": 70,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Active management of the third stage of labour includes all EXCEPT",
+    "options": [
+      "Controlled cord traction with counter-traction",
+      "A uterotonic within 1 minute of delivery",
+      "Early cord clamping within 30 seconds",
+      "Uterine massage after placental delivery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Current practice is **delayed** cord clamping at 1 to 3 minutes, which improves neonatal iron stores. Bimanual compression is a treatment for atony, not a component of active management.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (not a component of AMTSL — early cord clamping), 2023 INI-CET (not part of AMTSL — bimanual compression), 2022 INI-CET (AMTSL components, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2021 INI-CET (not a component of AMTSL — early cord clamping), 2023 INI-CET (not part of AMTSL — bimanual compression), 2022 INI-CET (AMTSL components, 3X)"
+    }
+  },
+  {
+    "id": "obs_q_71",
+    "questionNumber": 71,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Delayed cord clamping is recommended for",
+    "options": [
+      "Babies requiring resuscitation",
+      "Term babies only",
+      "Babies above 2.5 kg only",
+      "All vigorous term and preterm babies, irrespective of birth weight"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A baby needing resuscitation is the exception, where the cord is clamped early so ventilation can begin. In preterm babies delayed clamping also reduces intraventricular haemorrhage and the need for transfusion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (delayed cord clamping in vigorous term and preterm babies irrespective of birth weight)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2024 INI-CET (delayed cord clamping in vigorous term and preterm babies irrespective of birth weight)"
+    }
+  },
+  {
+    "id": "obs_q_72",
+    "questionNumber": 72,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "The correct sequence in managing the third stage of labour is",
+    "options": [
+      "Controlled cord traction → oxytocin → massage",
+      "Give oxytocin → deliver the placenta → check for a second fetus",
+      "Exclude a second fetus → give 10 units of oxytocin → controlled cord traction → uterine massage",
+      "Uterine massage → oxytocin → cord traction"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A uterotonic given before an undiagnosed second twin is delivered causes a trapped, hypoxic fetus. That is why palpation precedes the injection in every protocol.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (sequence in management of third stage — check for second baby, oxytocin, CCT, massage)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2020 INI-CET (sequence in management of third stage — check for second baby, oxytocin, CCT, massage)"
+    }
+  },
+  {
+    "id": "obs_q_73",
+    "questionNumber": 73,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "The approved dose of misoprostol for emergency management of postpartum haemorrhage is",
+    "options": [
+      "200 micrograms orally",
+      "800 micrograms sublingually",
+      "2,000 micrograms rectally",
+      "25 micrograms vaginally"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Misoprostol is heat-stable and needs no refrigeration, which is why it is the field drug of choice where oxytocin cannot be stored. Pyrexia and shivering are its characteristic side effects. 25 micrograms vaginally is the **induction** dose.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (approved dose of misoprostol in emergency management of PPH — 800 micrograms, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2020 INI-CET (approved dose of misoprostol in emergency management of PPH — 800 micrograms, 3X)"
+    }
+  },
+  {
+    "id": "obs_q_74",
+    "questionNumber": 74,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Which drug is contraindicated as a uterotonic in a woman with postpartum haemorrhage and hypertension?",
+    "options": [
+      "Oxytocin",
+      "Methylergometrine",
+      "Misoprostol",
+      "Carboprost"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ergot alkaloids cause generalised vasoconstriction and can precipitate a hypertensive crisis or stroke. Carboprost, a PGF2-alpha analogue, is instead contraindicated in asthma because it causes bronchospasm.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (drug contraindicated in a hypertensive patient with PPH — methylergometrine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2022 INI-CET (drug contraindicated in a hypertensive patient with PPH — methylergometrine)"
+    }
+  },
+  {
+    "id": "obs_q_75",
+    "questionNumber": 75,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Which drug is NOT used as a uterotonic for postpartum haemorrhage?",
+    "options": [
+      "Misoprostol",
+      "Oxytocin",
+      "Dinoprostone",
+      "Carboprost"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Dinoprostone (PGE2) is a cervical ripening agent for induction, not a uterotonic for haemorrhage. Tranexamic acid is given as an adjunct within 3 hours, following the WOMAN trial.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (uterotonics in PPH — oxytocin, misoprostol, PGF2-alpha, not dinoprostone, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2021 INI-CET (uterotonics in PPH — oxytocin, misoprostol, PGF2-alpha, not dinoprostone, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_76",
+    "questionNumber": 76,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "The order of stepwise uterine devascularisation for atonic postpartum haemorrhage is",
+    "options": [
+      "Uterine → internal iliac → ovarian",
+      "Internal iliac → uterine → ovarian",
+      "Ovarian → internal iliac → uterine",
+      "Uterine artery → ovarian artery → internal iliac artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ligation proceeds from the vessel supplying most of the uterus to the most proximal and technically demanding. Compression sutures such as B-Lynch, balloon tamponade and finally hysterectomy complete the ladder.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (order of devascularisation in PPH — uterine, ovarian, internal iliac, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Pph",
+      "basedOn": "2023 INI-CET (order of devascularisation in PPH — uterine, ovarian, internal iliac, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_77",
+    "questionNumber": 77,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "In a woman with a normally expelled intact placenta who begins to bleed 30 minutes later and becomes hypotensive, the likely cause is",
+    "options": [
+      "Cervical tear",
+      "Uterine inversion",
+      "A retained succenturiate lobe",
+      "Amniotic fluid embolism"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "An apparently complete placenta can leave an accessory lobe behind, so the membranes are always inspected for a torn vessel running to the edge. Exploration and evacuation of the uterus is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (normal expulsion of intact placenta then bleeding with hypotension — succenturiate placenta, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Pph",
+      "basedOn": "2022 INI-CET (normal expulsion of intact placenta then bleeding with hypotension — succenturiate placenta, 4X)"
+    }
+  },
+  {
+    "id": "obs_q_78",
+    "questionNumber": 78,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Secondary postpartum haemorrhage is NOT caused by",
+    "options": [
+      "Retained placental fragments",
+      "Anaemia",
+      "Endometritis",
+      "Subinvolution of the placental bed"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Anaemia is a consequence, and a risk factor for poor tolerance, but not a cause of bleeding. Secondary PPH occurs between 24 hours and 12 weeks after delivery and is usually infection or retained tissue.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (not a cause of secondary PPH — anaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2023 NEET-PG (not a cause of secondary PPH — anaemia)"
+    }
+  },
+  {
+    "id": "obs_q_79",
+    "questionNumber": 79,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Risk factors for uterine atony include",
+    "options": [
+      "Primigravidity with a small fetus",
+      "Multiparity, chorioamnionitis, prolonged labour and overdistension",
+      "Preterm labour with oligohydramnios",
+      "Precipitate labour alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Overdistension covers twins, polyhydramnios and macrosomia. Tocolytics, general anaesthesia, previous PPH and obesity are further risks. Atony is the cause of about 70 to 80% of primary PPH.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (risk factors of uterine dysfunction — multiparity, high station, chorioamnionitis), 2020 INI-CET (risk factors of PPH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2024 INI-CET (risk factors of uterine dysfunction — multiparity, high station, chorioamnionitis), 2020 INI-CET (risk factors of PPH)"
+    }
+  },
+  {
+    "id": "obs_q_80",
+    "questionNumber": 80,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Initial fluid replacement in postpartum haemorrhage should be with",
+    "options": [
+      "Fresh frozen plasma first",
+      "Colloid as the first choice",
+      "Crystalloid, followed by blood products as needed",
+      "Dextrose 5%"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Colloids offer no survival benefit and interfere with cross-matching and coagulation. Massive haemorrhage then calls for balanced transfusion of red cells, plasma and platelets with early tranexamic acid.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (initial replacement in PPH is done by colloids — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2020 INI-CET (initial replacement in PPH is done by colloids — false)"
+    }
+  },
+  {
+    "id": "obs_q_81",
+    "questionNumber": 81,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "One hour after vaginal delivery a woman becomes acutely hypotensive and hypoxic with disseminated intravascular coagulation. The likely diagnosis is",
+    "options": [
+      "Septic shock",
+      "Atonic postpartum haemorrhage",
+      "Pulmonary thromboembolism",
+      "Amniotic fluid embolism"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The triad is sudden cardiorespiratory collapse, hypoxia and DIC in a peripartum woman. It is a clinical diagnosis of exclusion; management is supportive with aggressive blood-product replacement, and mortality remains high.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (1 hour after vaginal delivery, hypotensive with DIC — amniotic fluid embolism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pph",
+      "basedOn": "2021 NEET-PG (1 hour after vaginal delivery, hypotensive with DIC — amniotic fluid embolism)"
+    }
+  },
+  {
+    "id": "obs_q_82",
+    "questionNumber": 82,
+    "subject": "Obstetrics",
+    "subTopic": "Mtp",
+    "sub_topic": "Mtp",
+    "stem": "Under the Indian MTP Act as amended in 2021, the upper gestational limit for termination on the grounds of a substantial fetal abnormality diagnosed by a Medical Board is",
+    "options": [
+      "24 weeks",
+      "20 weeks",
+      "No upper limit",
+      "28 weeks"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The 2021 amendment allows termination up to 20 weeks on one registered practitioner's opinion, 20 to 24 weeks on two opinions for specified categories, and beyond 24 weeks with **no ceiling** where a State Medical Board certifies substantial fetal abnormality. Statutes change; verify against the current Act.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (legal age for independent MTP consent — 18 years), 2023 INI-CET (13-year-old with positive UPT — register MLC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Mtp",
+      "basedOn": "2024 INI-CET (legal age for independent MTP consent — 18 years), 2023 INI-CET (13-year-old with positive UPT — register MLC)"
+    }
+  },
+  {
+    "id": "obs_q_83",
+    "questionNumber": 83,
+    "subject": "Obstetrics",
+    "subTopic": "Mtp",
+    "sub_topic": "Mtp",
+    "stem": "The minimum age at which a woman may give independent consent for medical termination of pregnancy in India is",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years",
+      "15 years"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Below 18, or for a woman with a mental illness, the guardian's written consent is required. The husband's consent is never required at any age.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (legal age of a woman to independently consent for MTP — 18 years)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mtp",
+      "basedOn": "2024 INI-CET (legal age of a woman to independently consent for MTP — 18 years)"
+    }
+  },
+  {
+    "id": "obs_q_84",
+    "questionNumber": 84,
+    "subject": "Obstetrics",
+    "subTopic": "Mtp",
+    "sub_topic": "Mtp",
+    "stem": "A 13-year-old girl has a positive urine pregnancy test. The mandatory step is",
+    "options": [
+      "Arrange termination and maintain confidentiality from authorities",
+      "Register a medico-legal case and inform the police, as this is statutory rape under the POCSO Act",
+      "Counsel the family only",
+      "Refer to a psychiatrist before any action"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Sexual activity below 18 is statutory rape regardless of apparent consent, and reporting is a legal duty on the doctor. Care of the girl proceeds in parallel, with guardian consent for termination.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (13-year-old with positive UPT — register MLC and inform police)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mtp",
+      "basedOn": "2023 INI-CET (13-year-old with positive UPT — register MLC and inform police)"
+    }
+  },
+  {
+    "id": "obs_q_85",
+    "questionNumber": 85,
+    "subject": "Obstetrics",
+    "subTopic": "Mtp",
+    "sub_topic": "Mtp",
+    "stem": "The regimen for medical abortion between 7 and 9 weeks of gestation is",
+    "options": [
+      "Methotrexate alone",
+      "Misoprostol alone",
+      "Mifepristone followed 24 to 48 hours later by misoprostol",
+      "Intra-amniotic ethacridine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mifepristone is an antiprogestin that sensitises the myometrium; misoprostol then produces contractions. Extra-amniotic ethacridine lactate is a **second-trimester** method.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (drugs used in MTP after 7 weeks — mifepristone and misoprostol, 2X), 2020 INI-CET (extra-amniotic ethacridine used in second trimester)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mtp",
+      "basedOn": "2020 NEET-PG (drugs used in MTP after 7 weeks — mifepristone and misoprostol, 2X), 2020 INI-CET (extra-amniotic ethacridine used in second trimester)"
+    }
+  },
+  {
+    "id": "obs_q_86",
+    "questionNumber": 86,
+    "subject": "Obstetrics",
+    "subTopic": "Abortion",
+    "sub_topic": "Abortion",
+    "stem": "A woman with antiphospholipid syndrome has had three first-trimester losses. The treatment in the next pregnancy is",
+    "options": [
+      "Progesterone supplementation alone",
+      "Warfarin from conception",
+      "Corticosteroids alone",
+      "Low-dose aspirin with low-molecular-weight heparin"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Warfarin is teratogenic. Diagnosis requires a persistently positive lupus anticoagulant, anticardiolipin or anti-beta-2 glycoprotein I antibody on testing 12 weeks apart, with a clinical event.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (APLA with recurrent abortions — aspirin plus LMWH), 2022 NEET-PG (multiple losses with early-onset pre-eclampsia — APLA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abortion",
+      "basedOn": "2023 NEET-PG (APLA with recurrent abortions — aspirin plus LMWH), 2022 NEET-PG (multiple losses with early-onset pre-eclampsia — APLA)"
+    }
+  },
+  {
+    "id": "obs_q_87",
+    "questionNumber": 87,
+    "subject": "Obstetrics",
+    "subTopic": "Abortion",
+    "sub_topic": "Abortion",
+    "stem": "The most useful investigation after two second-trimester losses is",
+    "options": [
+      "Thrombophilia screening alone",
+      "Karyotyping of both partners alone",
+      "Hysteroscopy, to detect a uterine septum or synechiae",
+      "Thyroid function alone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Second-trimester losses point to structural or cervical causes rather than the chromosomal causes that dominate first-trimester loss. Cervical length assessment and screening for antiphospholipid antibodies also belong in the workup.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (most important investigation after two second-trimester abortions — hysteroscopy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abortion",
+      "basedOn": "2022 INI-CET (most important investigation after two second-trimester abortions — hysteroscopy)"
+    }
+  },
+  {
+    "id": "obs_q_88",
+    "questionNumber": 88,
+    "subject": "Obstetrics",
+    "subTopic": "Abortion",
+    "sub_topic": "Abortion",
+    "stem": "In a non-pregnant woman with established cervical incompetence and a previous failed vaginal cerclage, the appropriate procedure is",
+    "options": [
+      "McDonald cerclage at 14 weeks",
+      "Laparoscopic transabdominal cerclage before conception",
+      "Shirodkar cerclage at 20 weeks",
+      "Bed rest alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A transabdominal suture is placed at the internal os and allows a higher, more durable placement than a vaginal approach, but commits the woman to caesarean delivery. McDonald and Shirodkar sutures are the vaginal options in pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (non-pregnant with cervical incompetence — laparoscopic cerclage)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Abortion",
+      "basedOn": "2021 INI-CET (non-pregnant with cervical incompetence — laparoscopic cerclage)"
+    }
+  },
+  {
+    "id": "obs_q_89",
+    "questionNumber": 89,
+    "subject": "Obstetrics",
+    "subTopic": "Abortion",
+    "sub_topic": "Abortion",
+    "stem": "The correct sequence of steps in dilatation and curettage is",
+    "options": [
+      "Serial dilatation → sound → curettage → bimanual examination",
+      "Assess uterine size and direction → pass the uterine sound → serial dilatation → curettage",
+      "Curettage → dilatation → sound",
+      "Sound → curettage → dilatation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Bimanual assessment of size and version comes first precisely to prevent perforation, which is the commonest complication, most often at the fundus in a retroverted uterus.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (sequence of steps in D and C)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Abortion",
+      "basedOn": "2020 INI-CET (sequence of steps in D and C)"
+    }
+  },
+  {
+    "id": "obs_q_90",
+    "questionNumber": 90,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "By IADPSG criteria, gestational diabetes is diagnosed when the fasting plasma glucose on a 75 g oral glucose tolerance test is at least",
+    "options": [
+      "126 mg/dL",
+      "100 mg/dL",
+      "92 mg/dL",
+      "110 mg/dL"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The thresholds are fasting 92, 1 hour 180 and 2 hour 153 mg/dL, and **any one** value establishes the diagnosis. The Indian DIPSI test instead uses a non-fasting 75 g load with a 2-hour value of 140 mg/dL.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (IADPSG fasting glucose criteria for GDM — 92 mg/dL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2022 INI-CET (IADPSG fasting glucose criteria for GDM — 92 mg/dL)"
+    }
+  },
+  {
+    "id": "obs_q_91",
+    "questionNumber": 91,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "Overt (pre-gestational) diabetes in pregnancy is defined by a fasting plasma glucose of",
+    "options": [
+      "140 mg/dL or more",
+      "92 mg/dL or more",
+      "100 mg/dL or more",
+      "126 mg/dL or more"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is the ordinary non-pregnant diabetes threshold, and meeting it in early pregnancy means pre-existing diabetes rather than gestational. The distinction matters because overt diabetes carries teratogenic risk in the first trimester.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (overt diabetes defined as fasting blood sugar at or above 126 mg/dL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2020 NEET-PG (overt diabetes defined as fasting blood sugar at or above 126 mg/dL)"
+    }
+  },
+  {
+    "id": "obs_q_92",
+    "questionNumber": 92,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "In a woman with well-controlled gestational diabetes and no complications, delivery is planned at",
+    "options": [
+      "42 weeks",
+      "36 weeks",
+      "39 to 40 weeks",
+      "34 weeks"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Earlier delivery at 37 to 38 weeks is reserved for poor control, macrosomia or vascular complications. Pregnancy is not allowed to go beyond 40 weeks because of the rising stillbirth risk.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (well-controlled diabetes, termination at 39–40 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2024 INI-CET (well-controlled diabetes, termination at 39–40 weeks)"
+    }
+  },
+  {
+    "id": "obs_q_93",
+    "questionNumber": 93,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "On the morning of induction, a woman with gestational diabetes on insulin should",
+    "options": [
+      "Take the usual morning dose as normal",
+      "Omit the usual morning dose and be managed with glucose and insulin infusion monitoring",
+      "Double the morning dose",
+      "Take an oral hypoglycaemic instead"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The woman is fasting and insulin requirements fall abruptly in labour, so the usual dose risks hypoglycaemia. Requirements drop further immediately after placental delivery, when anti-insulin hormones disappear.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (GDM patient should be given the usual morning insulin dose at induction — false, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2021 INI-CET (GDM patient should be given the usual morning insulin dose at induction — false, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_94",
+    "questionNumber": 94,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "A diabetic woman delivers the head, but the shoulders do not deliver after 1 minute of gentle traction. The first manoeuvre is",
+    "options": [
+      "Fundal pressure",
+      "McRoberts manoeuvre with suprapubic pressure",
+      "Immediate symphysiotomy",
+      "Zavanelli manoeuvre"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hyperflexion of the maternal hips rotates the symphysis and increases the functional outlet. **Fundal pressure is contraindicated** — it worsens impaction and risks uterine rupture. Woods screw and delivery of the posterior arm follow.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (diabetic, shoulders undelivered after 1 minute — McRoberts manoeuvre)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2023 INI-CET (diabetic, shoulders undelivered after 1 minute — McRoberts manoeuvre)"
+    }
+  },
+  {
+    "id": "obs_q_95",
+    "questionNumber": 95,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "An estimated fetal weight of 3 kg at 34 weeks of gestation most suggests",
+    "options": [
+      "Polyhydramnios",
+      "Wrong dates with a more advanced gestation",
+      "A diabetic pregnancy with macrosomia",
+      "A twin pregnancy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fetal hyperinsulinaemia drives growth of insulin-sensitive tissue, giving a disproportionately large trunk and shoulders and hence the shoulder dystocia risk. Confirming dates remains part of the assessment.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (3 kg baby at 34 weeks — diabetic pregnancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2023 NEET-PG (3 kg baby at 34 weeks — diabetic pregnancy)"
+    }
+  },
+  {
+    "id": "obs_q_96",
+    "questionNumber": 96,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "The congenital anomaly most specifically associated with pre-gestational diabetes is",
+    "options": [
+      "Cleft palate",
+      "Neural tube defect",
+      "Transposition of the great arteries",
+      "Caudal regression syndrome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is rare in absolute terms but highly specific to diabetic embryopathy. Cardiac defects are the commonest anomalies numerically. Risk correlates with first-trimester HbA1c, which is why pre-conception control matters most.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (image of caudal regression syndrome — diabetic pregnancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2021 NEET-PG (image of caudal regression syndrome — diabetic pregnancy)"
+    }
+  },
+  {
+    "id": "obs_q_97",
+    "questionNumber": 97,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "Which statement about gestational diabetes is TRUE?",
+    "options": [
+      "It is unrelated to maternal obesity",
+      "It requires a 100 g three-hour load in all protocols",
+      "A single 75 g oral glucose load without prior fasting is sufficient for diagnosis under the DIPSI protocol",
+      "It confers no future maternal diabetes risk"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "DIPSI was designed for field conditions where fasting is impractical. Obesity is a major risk factor, and about half of affected women develop type 2 diabetes within 10 years, so postpartum screening at 6 weeks is essential.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (GDM characterised by a single 75 g oral glucose test being enough, associated with obesity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2020 INI-CET (GDM characterised by a single 75 g oral glucose test being enough, associated with obesity)"
+    }
+  },
+  {
+    "id": "obs_q_98",
+    "questionNumber": 98,
+    "subject": "Obstetrics",
+    "subTopic": "Induction",
+    "sub_topic": "Induction",
+    "stem": "The modified Bishop score includes all of the following EXCEPT",
+    "options": [
+      "Cervical dilatation and effacement",
+      "Fetal weight",
+      "Cervical consistency and position",
+      "Station of the presenting part"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The five components are dilatation, effacement, consistency, position and station. A score of 6 or more predicts successful induction; a lower score favours prior ripening with a prostaglandin or a balloon catheter.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Bishop score includes dilatation, position, consistency, effacement, station)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Induction",
+      "basedOn": "2024 INI-CET (Bishop score includes dilatation, position, consistency, effacement, station)"
+    }
+  },
+  {
+    "id": "obs_q_99",
+    "questionNumber": 99,
+    "subject": "Obstetrics",
+    "subTopic": "Induction",
+    "sub_topic": "Induction",
+    "stem": "The cervix is 1 cm dilated, 30% effaced, firm, mid-position, with the vertex at station −2. The modified Bishop score is",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Dilatation 1 cm scores 1, effacement 30% scores 1, firm consistency scores 0, mid position scores 1, station −2 scores 0 — a total of 3. A score this low means the cervix needs ripening before oxytocin.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (calculate the modified Bishop score, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Induction",
+      "basedOn": "2021 INI-CET (calculate the modified Bishop score, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_100",
+    "questionNumber": 100,
+    "subject": "Obstetrics",
+    "subTopic": "Induction",
+    "sub_topic": "Induction",
+    "stem": "A woman at 41 weeks has no contractions, no dilatation and no effacement. Which agent should NOT be used?",
+    "options": [
+      "Misoprostol 25 micrograms",
+      "Dinoprostone gel",
+      "Carboprost (PGF2-alpha)",
+      "A transcervical balloon catheter"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Carboprost is a postpartum uterotonic, far too potent for cervical ripening, and risks hyperstimulation and uterine rupture. PGE2 and low-dose misoprostol are the ripening agents.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (41 weeks, no contraction or dilatation — PGF2-alpha not to be used)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Induction",
+      "basedOn": "2020 NEET-PG (41 weeks, no contraction or dilatation — PGF2-alpha not to be used)"
+    }
+  },
+  {
+    "id": "obs_q_101",
+    "questionNumber": 101,
+    "subject": "Obstetrics",
+    "subTopic": "Caesarean",
+    "sub_topic": "Caesarean",
+    "stem": "Group 1 of the Robson classification for caesarean section comprises",
+    "options": [
+      "All preterm deliveries",
+      "Multiparous with a previous caesarean section",
+      "All breech presentations",
+      "Nulliparous, single cephalic, 37 weeks or more, in spontaneous labour"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The ten groups let institutions compare caesarean rates fairly. Group 5, multiparous women with a previous caesarean, is usually the largest contributor to a rising rate.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Robson group 1 — nulliparous with spontaneous labour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Caesarean",
+      "basedOn": "2023 INI-CET (Robson group 1 — nulliparous with spontaneous labour)"
+    }
+  },
+  {
+    "id": "obs_q_102",
+    "questionNumber": 102,
+    "subject": "Obstetrics",
+    "subTopic": "Caesarean",
+    "sub_topic": "Caesarean",
+    "stem": "The instruments characteristically used at caesarean section include",
+    "options": [
+      "Sims speculum and uterine sound",
+      "Obstetric forceps and ventouse cup",
+      "Green Armytage forceps, Doyen retractor, Allis forceps and scalpel",
+      "Volsellum and Hegar dilators"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Green Armytage forceps grasp the uterine incision edges to control bleeding, and the Doyen retractor protects the bladder. Hegar dilators and the uterine sound belong to dilatation and curettage.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (instruments used in CS — Green Armytage, Allis forceps, Doyen retractor, scalpel, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Caesarean",
+      "basedOn": "2022 INI-CET (instruments used in CS — Green Armytage, Allis forceps, Doyen retractor, scalpel, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_103",
+    "questionNumber": 103,
+    "subject": "Obstetrics",
+    "subTopic": "Caesarean",
+    "sub_topic": "Caesarean",
+    "stem": "A perimortem caesarean section is performed through",
+    "options": [
+      "A lower segment transverse incision",
+      "A classical upper segment incision, for speed",
+      "A Pfannenstiel incision",
+      "A J-shaped incision"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is undertaken within 4 minutes of maternal cardiac arrest, without waiting for anaesthesia, primarily to improve **maternal** resuscitation by relieving aortocaval compression. Chest compressions continue throughout.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (perimortem CS is done at the upper segment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Caesarean",
+      "basedOn": "2020 INI-CET (perimortem CS is done at the upper segment)"
+    }
+  },
+  {
+    "id": "obs_q_104",
+    "questionNumber": 104,
+    "subject": "Obstetrics",
+    "subTopic": "Caesarean",
+    "sub_topic": "Caesarean",
+    "stem": "A woman with a previous **classical** caesarean section presents at 35 weeks with a breech presentation and requests vaginal delivery. The correct advice is",
+    "options": [
+      "Trial of vaginal breech delivery at term",
+      "Elective caesarean section at about 37 weeks, as vaginal birth is contraindicated",
+      "External cephalic version then vaginal delivery",
+      "Await spontaneous labour and reassess"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A classical upper segment scar carries a rupture risk of several per cent, far above a lower segment scar, and ruptures before labour as often as during it. Delivery is therefore scheduled before labour begins.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (previous classical CS with breech at 35 weeks — schedule LSCS at 37 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Caesarean",
+      "basedOn": "2020 NEET-PG (previous classical CS with breech at 35 weeks — schedule LSCS at 37 weeks)"
+    }
+  },
+  {
+    "id": "obs_q_105",
+    "questionNumber": 105,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "The quadruple test comprises",
+    "options": [
+      "AFP, PAPP-A, inhibin A and oestriol",
+      "AFP, hCG, oestriol and inhibin B",
+      "PAPP-A, hCG, AFP and nuchal translucency",
+      "Alpha-fetoprotein, hCG, unconjugated oestriol and inhibin A"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Inhibin **A**, not B, is the fourth marker — the usual trap. In Down syndrome, AFP and oestriol are low while hCG and inhibin A are high. The triple test omits inhibin A.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (quadruple test includes hCG, AFP, inhibin A, unconjugated oestriol — not inhibin B, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2024 INI-CET (quadruple test includes hCG, AFP, inhibin A, unconjugated oestriol — not inhibin B, 4X)"
+    }
+  },
+  {
+    "id": "obs_q_106",
+    "questionNumber": 106,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "The quadruple test is performed at",
+    "options": [
+      "11 to 13+6 weeks",
+      "15 to 22 weeks",
+      "8 to 10 weeks",
+      "24 to 28 weeks"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is the second-trimester screen. The combined first-trimester test — nuchal translucency with PAPP-A and free beta-hCG — is done at 11 to 13+6 weeks, when the crown–rump length is 45 to 84 mm.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (quadruple test is done at 15–22 weeks, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2022 INI-CET (quadruple test is done at 15–22 weeks, 4X)"
+    }
+  },
+  {
+    "id": "obs_q_107",
+    "questionNumber": 107,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "Correct technique for measuring nuchal translucency requires all EXCEPT",
+    "options": [
+      "Callipers placed on the inner borders of the echogenic lines",
+      "A mid-sagittal plane",
+      "The neck in a neutral position",
+      "The fetal neck to be hyperextended"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Hyperextension falsely increases the measurement and flexion falsely decreases it, so a **neutral** neck is required. The amnion must be distinguished from the fetal skin, and the maximum of three measurements is taken.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (true about nuchal translucency — mid-sagittal plane, neutral neck, calliper placement, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Screening",
+      "basedOn": "2023 NEET-PG (true about nuchal translucency — mid-sagittal plane, neutral neck, calliper placement, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_108",
+    "questionNumber": 108,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "Non-invasive prenatal testing works by",
+    "options": [
+      "Measuring maternal serum markers",
+      "Culturing fetal cells from amniotic fluid",
+      "Sampling chorionic villi",
+      "Detecting cell-free fetal DNA in maternal blood"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is highly sensitive for trisomies 21, 18 and 13 from about 10 weeks, but remains a **screening** test — a positive result needs confirmation by amniocentesis or chorionic villus sampling before any irreversible decision.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (NIPT includes detecting fetal DNA in maternal blood, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2020 NEET-PG (NIPT includes detecting fetal DNA in maternal blood, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_109",
+    "questionNumber": 109,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "Match the invasive prenatal procedure with its earliest appropriate timing: chorionic villus sampling, amniocentesis, fetal blood sampling.",
+    "options": [
+      "11–13 weeks, 20–24 weeks, after 28 weeks",
+      "8–10 weeks, 12–14 weeks, after 16 weeks",
+      "15–20 weeks, 11–13 weeks, after 24 weeks",
+      "11–13 weeks, 15–20 weeks, after 18 weeks"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "CVS before 10 weeks risks limb reduction defects, and amniocentesis before 15 weeks risks talipes and fetal loss. CVS carries a small risk of confined placental mosaicism.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match CVS 11–13 weeks, amniocentesis 15–20 weeks, fetal blood sampling >18 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2021 INI-CET (match CVS 11–13 weeks, amniocentesis 15–20 weeks, fetal blood sampling >18 weeks)"
+    }
+  },
+  {
+    "id": "obs_q_110",
+    "questionNumber": 110,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "At 18 weeks a quadruple test shows a high risk of neural tube defect with a low risk of trisomy 21. The next step is",
+    "options": [
+      "Repeat the quadruple test",
+      "Amniocentesis for karyotype",
+      "Chorionic villus sampling",
+      "A detailed anomaly scan"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A raised AFP points to an open structural defect rather than aneuploidy, and ultrasound at 18 to 20 weeks detects nearly all open neural tube defects directly. Karyotyping would not answer the question raised.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (18-week POG, high risk of NTD, low risk of trisomy 21 — anomaly scan)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2020 INI-CET (18-week POG, high risk of NTD, low risk of trisomy 21 — anomaly scan)"
+    }
+  },
+  {
+    "id": "obs_q_111",
+    "questionNumber": 111,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "Ultrasound shows absence of the cranial vault with no recognisable brain tissue above the orbits. The diagnosis is",
+    "options": [
+      "Encephalocele",
+      "Severe hydrocephalus",
+      "Holoprosencephaly",
+      "Anencephaly"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is a lethal open neural tube defect detectable from about 11 weeks, with a markedly raised AFP and often polyhydramnios from impaired swallowing. Periconceptional folate prevents a large proportion of cases.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2023 NEET-PG (USG showing absent brain and skull — anencephaly, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2023 INI-CET / 2023 NEET-PG (USG showing absent brain and skull — anencephaly, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_112",
+    "questionNumber": 112,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "The dose of dexamethasone for fetal lung maturation is",
+    "options": [
+      "8 mg every 12 hours for three doses",
+      "12 mg intramuscularly every 24 hours for two doses",
+      "4 mg every 6 hours for four doses",
+      "6 mg intramuscularly every 12 hours for four doses"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Option B is the **betamethasone** regimen — two doses of 12 mg, 24 hours apart. Either is given between 24 and 34 weeks, with maximum benefit from 24 hours to 7 days after the first dose.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (dose of dexamethasone in anticipated preterm delivery — 6 mg 12-hourly, four doses, 3X), 2023 NEET-PG (drug used for lung maturity — dexamethasone)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2020 INI-CET (dose of dexamethasone in anticipated preterm delivery — 6 mg 12-hourly, four doses, 3X), 2023 NEET-PG (drug used for lung maturity — dexamethasone)"
+    }
+  },
+  {
+    "id": "obs_q_113",
+    "questionNumber": 113,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "Fetal lung maturity is indicated by all EXCEPT",
+    "options": [
+      "A lamellar body count above 50,000",
+      "Presence of phosphatidylglycerol",
+      "A positive shake test",
+      "A lecithin-to-sphingomyelin ratio below 2"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Maturity requires a ratio **above** 2. Phosphatidylglycerol appears last and is the most reliable single marker, and it is unaffected by blood or meconium contamination of the sample.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fetal lung maturation — L/S ratio >2, increased phosphatidylglycerol, positive shake test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2024 INI-CET (fetal lung maturation — L/S ratio >2, increased phosphatidylglycerol, positive shake test)"
+    }
+  },
+  {
+    "id": "obs_q_114",
+    "questionNumber": 114,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "A woman at 32 weeks has labour pains and a minimal vaginal discharge that is fetal fibronectin positive. This indicates",
+    "options": [
+      "Normal pregnancy",
+      "Chorioamnionitis",
+      "Bacterial vaginosis",
+      "A high likelihood of preterm labour"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fetal fibronectin is most valuable for its **negative** predictive value: a negative test makes delivery within 7 to 14 days very unlikely and avoids unnecessary admission and tocolysis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (32-week POG with positive fibronectin test — preterm labour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2023 INI-CET (32-week POG with positive fibronectin test — preterm labour)"
+    }
+  },
+  {
+    "id": "obs_q_115",
+    "questionNumber": 115,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "Which cervical finding is a risk marker for preterm birth?",
+    "options": [
+      "A cervical length of 35 mm",
+      "A posteriorly directed cervix",
+      "A firm cervix",
+      "A cervical length below 25 mm on transvaginal ultrasound before 24 weeks"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Short cervix with a previous preterm birth is managed with vaginal progesterone or cerclage. A posteriorly directed cervix is a feature of an **unfavourable** cervix for induction, not a preterm marker.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cervix directed posteriorly is a criterion for preterm labour — false), 2020 INI-CET (previous conisation with preterm births — USG for cervical length)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2024 INI-CET (cervix directed posteriorly is a criterion for preterm labour — false), 2020 INI-CET (previous conisation with preterm births — USG for cervical length)"
+    }
+  },
+  {
+    "id": "obs_q_116",
+    "questionNumber": 116,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "The drug given before anticipated very preterm delivery specifically for fetal neuroprotection is",
+    "options": [
+      "Indomethacin",
+      "Nifedipine",
+      "Betamethasone",
+      "Magnesium sulphate"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It reduces cerebral palsy in babies born before about 32 weeks. Betamethasone matures the lungs, while nifedipine and indomethacin are tocolytics that buy time for the steroid to work.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (drug having a neuroprotective role in preterm labour — MgSO₄, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2022 INI-CET (drug having a neuroprotective role in preterm labour — MgSO₄, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_117",
+    "questionNumber": 117,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "Indomethacin used as a tocolytic near term can cause",
+    "options": [
+      "Neonatal hypocalcaemia",
+      "Fetal tachycardia and hyperglycaemia",
+      "Maternal pulmonary oedema",
+      "Premature closure of the ductus arteriosus and oligohydramnios"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Prostaglandins keep the duct patent and maintain fetal renal perfusion, so inhibition closes one and reduces urine output. Its use is therefore limited to below about 32 weeks and to short courses.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (indomethacin for polyhydramnios at 36 weeks — premature closure of ductus arteriosus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2021 NEET-PG (indomethacin for polyhydramnios at 36 weeks — premature closure of ductus arteriosus)"
+    }
+  },
+  {
+    "id": "obs_q_118",
+    "questionNumber": 118,
+    "subject": "Obstetrics",
+    "subTopic": "Preterm",
+    "sub_topic": "Preterm",
+    "stem": "On vaginal examination after membrane rupture, a pulsating cord is felt below the presenting part. The first step is",
+    "options": [
+      "Await full dilatation",
+      "Attempt to replace the cord in the uterus",
+      "Apply forceps immediately",
+      "Elevate the presenting part and place the woman head-down or knee-chest while arranging immediate caesarean section"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The aim is to take pressure off the cord. Bladder filling helps during transfer, and the exposed cord is kept warm and moist. Replacing the cord is ineffective and wastes time.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (cord prolapsed on vaginal examination — Trendelenburg position first)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Preterm",
+      "basedOn": "2021 INI-CET (cord prolapsed on vaginal examination — Trendelenburg position first)"
+    }
+  },
+  {
+    "id": "obs_q_119",
+    "questionNumber": 119,
+    "subject": "Obstetrics",
+    "subTopic": "Amniotic Fluid",
+    "sub_topic": "Amniotic Fluid",
+    "stem": "After 20 weeks of gestation, the major contributor to amniotic fluid volume is",
+    "options": [
+      "Fetal lung fluid",
+      "Amniotic membrane secretion",
+      "Maternal plasma transudate",
+      "Fetal urine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fetal swallowing is the main route of removal. This is why renal agenesis causes anhydramnios and oesophageal atresia causes polyhydramnios — the production and clearance arms respectively.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (major contributor of amniotic fluid after 20 weeks — fetal urine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amniotic Fluid",
+      "basedOn": "2023 NEET-PG (major contributor of amniotic fluid after 20 weeks — fetal urine)"
+    }
+  },
+  {
+    "id": "obs_q_120",
+    "questionNumber": 120,
+    "subject": "Obstetrics",
+    "subTopic": "Amniotic Fluid",
+    "sub_topic": "Amniotic Fluid",
+    "stem": "The normal colour of amniotic fluid at delivery is",
+    "options": [
+      "Dark brown",
+      "Green",
+      "Golden yellow",
+      "Colourless to pale straw"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Green means meconium staining, golden yellow suggests Rh isoimmunisation from bilirubin, greenish-yellow suggests postmaturity, and dark brown indicates old blood as in intrauterine fetal death.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (colour of normal amniotic fluid during delivery — colourless to pale yellow)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amniotic Fluid",
+      "basedOn": "2020 INI-CET (colour of normal amniotic fluid during delivery — colourless to pale yellow)"
+    }
+  },
+  {
+    "id": "obs_q_121",
+    "questionNumber": 121,
+    "subject": "Obstetrics",
+    "subTopic": "Amniotic Fluid",
+    "sub_topic": "Amniotic Fluid",
+    "stem": "A woman at 36 weeks has abdominal distension, breathlessness, a fundal height of 41 cm and a tense uterus in which fetal parts are difficult to feel. The diagnosis is",
+    "options": [
+      "Macrosomia",
+      "Twin pregnancy",
+      "Concealed abruption",
+      "Polyhydramnios"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fluid thrill with difficulty palpating fetal parts distinguishes it. Causes include diabetes, fetal anomalies obstructing swallowing, twin-to-twin transfusion and fetal anaemia. An abruption gives a tender, woody uterus with pain and bleeding.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (36 weeks, distension, fundal height 41 cm, tense uterus — polyhydramnios)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Amniotic Fluid",
+      "basedOn": "2020 NEET-PG (36 weeks, distension, fundal height 41 cm, tense uterus — polyhydramnios)"
+    }
+  },
+  {
+    "id": "obs_q_122",
+    "questionNumber": 122,
+    "subject": "Obstetrics",
+    "subTopic": "Monitoring",
+    "sub_topic": "Monitoring",
+    "stem": "A cardiotocograph shows an abrupt fall and abrupt return of the fetal heart rate, variable in shape and timing relative to contractions. This indicates",
+    "options": [
+      "A sinusoidal pattern",
+      "Late decelerations from uteroplacental insufficiency",
+      "Early decelerations from head compression",
+      "Variable decelerations, typically from cord compression"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Late decelerations are gradual, uniform and begin **after** the contraction peak, and are the more ominous pattern. Early decelerations mirror the contraction and are benign. A sinusoidal pattern suggests severe fetal anaemia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CTG showing rapid fall and rapid rise of FHR — variable decelerations), 2022 INI-CET (late decelerations are variable and short — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Monitoring",
+      "basedOn": "2024 INI-CET (CTG showing rapid fall and rapid rise of FHR — variable decelerations), 2022 INI-CET (late decelerations are variable and short — false)"
+    }
+  },
+  {
+    "id": "obs_q_123",
+    "questionNumber": 123,
+    "subject": "Obstetrics",
+    "subTopic": "Monitoring",
+    "sub_topic": "Monitoring",
+    "stem": "A trace recording fetal heart rate and movements without uterine contractions is",
+    "options": [
+      "An oxytocin challenge test",
+      "A contraction stress test",
+      "A biophysical profile",
+      "A non-stress test"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is reactive when there are two accelerations of at least 15 beats per minute lasting 15 seconds within 20 minutes. A non-reactive trace needs further assessment rather than immediate delivery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (graph showing fetal heart rate but no uterine contractions — non-stress test), 2020 INI-CET (probe over maternal abdomen to monitor FHR — NST, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Monitoring",
+      "basedOn": "2024 INI-CET (graph showing fetal heart rate but no uterine contractions — non-stress test), 2020 INI-CET (probe over maternal abdomen to monitor FHR — NST, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_124",
+    "questionNumber": 124,
+    "subject": "Obstetrics",
+    "subTopic": "Monitoring",
+    "sub_topic": "Monitoring",
+    "stem": "The components of the biophysical profile are",
+    "options": [
+      "Tone, movements, liquor, umbilical Doppler and middle cerebral artery Doppler",
+      "Fetal tone, movements, placental grade, Doppler and NST",
+      "Breathing movements, fetal weight, liquor, NST and biparietal diameter",
+      "Fetal tone, gross body movements, breathing movements, amniotic fluid volume and a non-stress test"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Each scores 0 or 2, so the maximum is 10. Tone is the last parameter to be lost in progressive hypoxia and the NST the first, which is the basis of the gradual-hypoxia sequence.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (components of BPP — fetal tone, gross movements, breathing movements, NST, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Monitoring",
+      "basedOn": "2021 INI-CET (components of BPP — fetal tone, gross movements, breathing movements, NST, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_125",
+    "questionNumber": 125,
+    "subject": "Obstetrics",
+    "subTopic": "Iugr",
+    "sub_topic": "Iugr",
+    "stem": "Fetal growth restriction can be diagnosed by",
+    "options": [
+      "Reduced fetal movements alone",
+      "Estimated fetal weight below the 50th centile",
+      "A fundal height 1 cm less than the gestational age",
+      "Absent end-diastolic flow in the umbilical artery, estimated weight below the 3rd centile, or abdominal circumference below the 3rd centile"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Abdominal circumference falls first in asymmetrical restriction, because liver glycogen is sacrificed while brain growth is spared. Doppler changes then progress from raised resistance to absent and finally reversed end-diastolic flow.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (IUGR diagnosed by AEDF, EFW",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Iugr",
+      "basedOn": "2020 INI-CET (IUGR diagnosed by AEDF, EFW"
+    }
+  },
+  {
+    "id": "obs_q_126",
+    "questionNumber": 126,
+    "subject": "Obstetrics",
+    "subTopic": "Iugr",
+    "sub_topic": "Iugr",
+    "stem": "At 28 weeks a growth-restricted fetus shows absent end-diastolic flow in the umbilical artery, with reassuring biophysical findings. The appropriate management is",
+    "options": [
+      "Corticosteroids and magnesium sulphate with intensified Doppler and biophysical surveillance, planning delivery",
+      "Immediate caesarean section without steroids",
+      "Discharge with review in 4 weeks",
+      "Induction of vaginal delivery now"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "At 28 weeks the prematurity risk is still substantial, so absent end-diastolic flow alone prompts close surveillance with steroid cover rather than immediate delivery. **Reversed** flow or ductus venosus a-wave reversal forces delivery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (28-week POG with fetal distress and AEDF — steroid cover, MgSO₄, Doppler and BPP monitoring)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Iugr",
+      "basedOn": "2022 INI-CET (28-week POG with fetal distress and AEDF — steroid cover, MgSO₄, Doppler and BPP monitoring)"
+    }
+  },
+  {
+    "id": "obs_q_127",
+    "questionNumber": 127,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "Which chorionicity–amnionicity combination is NOT possible?",
+    "options": [
+      "Dichorionic monoamniotic",
+      "Dichorionic diamniotic",
+      "Monochorionic diamniotic",
+      "Monochorionic monoamniotic"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Each chorion brings its own amnion, so two chorions necessarily mean two amnions. Chorionicity is best determined in the first trimester by the lambda or twin-peak sign versus the T-sign.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (which combination is not possible in twins — DCMA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2024 INI-CET (which combination is not possible in twins — DCMA)"
+    }
+  },
+  {
+    "id": "obs_q_128",
+    "questionNumber": 128,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "Two umbilical cords insert into a single placenta with no dividing membrane. The twins are",
+    "options": [
+      "Monochorionic monoamniotic",
+      "Dichorionic diamniotic",
+      "Monochorionic diamniotic",
+      "Conjoined"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This carries the highest risk of all twin types, mainly from cord entanglement, and delivery is by caesarean section at about 32 to 34 weeks after steroids.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (two umbilical cords attaching to the placenta without a dividing membrane — MCMA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2020 INI-CET (two umbilical cords attaching to the placenta without a dividing membrane — MCMA)"
+    }
+  },
+  {
+    "id": "obs_q_129",
+    "questionNumber": 129,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "The complication specific to monochorionic twins is",
+    "options": [
+      "Twin-to-twin transfusion syndrome",
+      "Preterm labour",
+      "Malpresentation",
+      "Postpartum haemorrhage"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It requires shared placental vascular anastomoses, which only a single chorion provides. The donor becomes oligohydramniotic and anaemic and the recipient polyhydramniotic and polycythaemic; fetoscopic laser ablation is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (complication specific to monochorionic twins — TTTS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2022 INI-CET (complication specific to monochorionic twins — TTTS)"
+    }
+  },
+  {
+    "id": "obs_q_130",
+    "questionNumber": 130,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "Chorionicity in a twin pregnancy is most reliably determined by ultrasound in the",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Third trimester",
+      "Immediately before delivery"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The dividing membrane is thickest and the lambda sign clearest before about 14 weeks; later the membrane thins and the sign disappears. Chorionicity determines surveillance intensity, so it is established early.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (USG can correctly diagnose twin pregnancy in the first trimester)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2022 NEET-PG (USG can correctly diagnose twin pregnancy in the first trimester)"
+    }
+  },
+  {
+    "id": "obs_q_131",
+    "questionNumber": 131,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "In a dichorionic diamniotic twin pregnancy at term with the first twin cephalic, the recommended mode of delivery is",
+    "options": [
+      "Vaginal delivery with facilities for immediate caesarean section",
+      "Elective caesarean section in all cases",
+      "Caesarean section only if the second twin is breech",
+      "Induction at 42 weeks"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A cephalic first twin permits vaginal delivery whatever the second twin's presentation, since the second can be delivered by breech extraction or internal podalic version. A **breech or transverse first twin** mandates caesarean section.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (DCDA with first twin vertex — vaginal delivery), 2020 NEET-PG (38-week DCDA with first twin breech — immediate LSCS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2023 NEET-PG (DCDA with first twin vertex — vaginal delivery), 2020 NEET-PG (38-week DCDA with first twin breech — immediate LSCS)"
+    }
+  },
+  {
+    "id": "obs_q_132",
+    "questionNumber": 132,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "Superfetation refers to",
+    "options": [
+      "Fertilisation of two ova released in different menstrual cycles, so the fetuses differ markedly in size",
+      "Fertilisation of two ova in the same cycle at different times",
+      "Twin-to-twin transfusion causing size discordance",
+      "A vanishing twin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option B describes superfecundation, where conception occurs in the same cycle, possibly by different fathers. Superfetation is extremely rare in humans and is the explanation offered for a large gestational age discrepancy.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (twin pregnancy with one fetus a month older — superfetation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Twins",
+      "basedOn": "2020 NEET-PG (twin pregnancy with one fetus a month older — superfetation)"
+    }
+  },
+  {
+    "id": "obs_q_133",
+    "questionNumber": 133,
+    "subject": "Obstetrics",
+    "subTopic": "Molar",
+    "sub_topic": "Molar",
+    "stem": "A woman at 10 weeks has painless bright red bleeding, a uterus of 12 weeks' size and a snowstorm appearance on ultrasound. The diagnosis is",
+    "options": [
+      "Complete hydatidiform mole",
+      "Threatened abortion",
+      "Placenta praevia",
+      "Missed abortion"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Uterine size greater than dates with no fetal parts, grossly raised beta-hCG, theca lutein cysts and hyperemesis complete the picture. Suction evacuation is the treatment, with hCG follow-up to detect persistent disease.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (10-week POG, painless bleeding, uterus 12 weeks, USG findings — hydatidiform mole, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molar",
+      "basedOn": "2024 INI-CET (10-week POG, painless bleeding, uterus 12 weeks, USG findings — hydatidiform mole, 3X)"
+    }
+  },
+  {
+    "id": "obs_q_134",
+    "questionNumber": 134,
+    "subject": "Obstetrics",
+    "subTopic": "Molar",
+    "sub_topic": "Molar",
+    "stem": "The karyotype of a partial hydatidiform mole is characteristically",
+    "options": [
+      "Triploid, such as 69,XXY",
+      "46,XX of entirely paternal origin",
+      "45,X",
+      "47,XX,+21"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It arises from a normal ovum fertilised by two sperm, so fetal parts are present. A **complete** mole is diploid and androgenetic (46,XX of paternal origin only) with no fetal tissue and a higher malignant potential.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (partial hydatidiform mole — 69,XXY)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molar",
+      "basedOn": "2023 NEET-PG (partial hydatidiform mole — 69,XXY)"
+    }
+  },
+  {
+    "id": "obs_q_135",
+    "questionNumber": 135,
+    "subject": "Obstetrics",
+    "subTopic": "Gtn",
+    "sub_topic": "Gtn",
+    "stem": "After molar evacuation, a woman has irregular bleeding, a rising hCG and cannon-ball lung metastases. The treatment is",
+    "options": [
+      "Multi-agent chemotherapy, or multiple-dose methotrexate with folinic acid depending on the risk score",
+      "Repeat uterine evacuation alone",
+      "Hysterectomy alone",
+      "Radiotherapy to the lungs"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The FIGO/WHO score separates low-risk disease, treated with single-agent methotrexate or actinomycin D, from high-risk disease treated with EMA-CO. Gestational trophoblastic neoplasia is highly chemosensitive even when metastatic.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (post-molar evacuation with cannon-ball metastasis — multiple-dose methotrexate with folinic acid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Gtn",
+      "basedOn": "2021 NEET-PG (post-molar evacuation with cannon-ball metastasis — multiple-dose methotrexate with folinic acid)"
+    }
+  },
+  {
+    "id": "obs_q_136",
+    "questionNumber": 136,
+    "subject": "Obstetrics",
+    "subTopic": "Gtn",
+    "sub_topic": "Gtn",
+    "stem": "The commonest site of metastasis in choriocarcinoma is the",
+    "options": [
+      "Lung",
+      "Brain",
+      "Liver",
+      "Vagina"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Spread is haematogenous, so the lung is reached first; vagina, liver and brain follow. Any woman of reproductive age with lung lesions and abnormal bleeding should have a beta-hCG measured.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (cannon-ball metastasis after molar evacuation), 2024 INI-CET (molar pregnancy diagnosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gtn",
+      "basedOn": "2021 NEET-PG (cannon-ball metastasis after molar evacuation), 2024 INI-CET (molar pregnancy diagnosis)"
+    }
+  },
+  {
+    "id": "obs_q_137",
+    "questionNumber": 137,
+    "subject": "Obstetrics",
+    "subTopic": "Gtn",
+    "sub_topic": "Gtn",
+    "stem": "Contraceptive advice after evacuation of a hydatidiform mole is",
+    "options": [
+      "Reliable contraception, preferably combined oral contraceptives, until hCG has been normal for the recommended follow-up period",
+      "An intrauterine device immediately after evacuation",
+      "No contraception needed",
+      "Immediate sterilisation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A new pregnancy would raise hCG and make it impossible to detect persistent trophoblastic disease. An intrauterine device is avoided until hCG normalises because of perforation and bleeding risk.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (molar pregnancy), 2023 INI-CET (contraception counselling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Gtn",
+      "basedOn": "2024 INI-CET (molar pregnancy), 2023 INI-CET (contraception counselling)"
+    }
+  },
+  {
+    "id": "obs_q_138",
+    "questionNumber": 138,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "A G2P1 at 8 months has pain, vaginal bleeding, loss of fetal movements and a history of pre-eclampsia. The diagnosis is",
+    "options": [
+      "Placental abruption",
+      "Placenta praevia",
+      "Vasa praevia",
+      "Uterine rupture"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Painful bleeding with a tender, tense uterus and fetal compromise is abruption; pre-eclampsia is its strongest risk factor. Placenta praevia gives painless bleeding with a soft uterus and usually a normal fetal heart.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (G2P1, 8 months, pain, bleeding, loss of fetal movements, history of pre-eclampsia — abruption)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2023 INI-CET (G2P1, 8 months, pain, bleeding, loss of fetal movements, history of pre-eclampsia — abruption)"
+    }
+  },
+  {
+    "id": "obs_q_139",
+    "questionNumber": 139,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "Clinical features of placental abruption include",
+    "options": [
+      "Painful bleeding, uterine tenderness and an increase in uterine size",
+      "Painless bleeding with a soft uterus",
+      "Bleeding at membrane rupture with fetal bradycardia and a normal uterus",
+      "Shoulder-tip pain with no bleeding"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Increasing uterine size signals a concealed retroplacental collection, so revealed bleeding understates the true loss. Consumptive coagulopathy and acute kidney injury are the major maternal complications. Option C describes vasa praevia.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (features of placental abruption — painful bleeding, uterine tenderness, increased uterine size)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2021 INI-CET (features of placental abruption — painful bleeding, uterine tenderness, increased uterine size)"
+    }
+  },
+  {
+    "id": "obs_q_140",
+    "questionNumber": 140,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "Placenta praevia in which the placenta partially covers the internal os is",
+    "options": [
+      "Type II (marginal/partial)",
+      "Type I (low-lying)",
+      "Type III",
+      "Type IV (central)"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Type III reaches the os asymmetrically and covers it when closed, and type IV is central over the os. Current practice favours describing the placental edge-to-os distance rather than these numbered types.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (image of placenta praevia partially covering the internal os — type II)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2023 NEET-PG (image of placenta praevia partially covering the internal os — type II)"
+    }
+  },
+  {
+    "id": "obs_q_141",
+    "questionNumber": 141,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "The investigations used to diagnose placenta accreta spectrum are",
+    "options": [
+      "Ultrasound with colour Doppler, supplemented by MRI where ultrasound is inconclusive",
+      "Plain radiography",
+      "CT of the abdomen",
+      "Hysteroscopy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Loss of the clear zone, placental lacunae and bridging vessels are the ultrasound signs. The strongest risk factor is a previous caesarean section with an anterior low-lying placenta, so that combination triggers deliberate assessment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (investigations for placenta accreta — USG and MRI)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2022 INI-CET (investigations for placenta accreta — USG and MRI)"
+    }
+  },
+  {
+    "id": "obs_q_142",
+    "questionNumber": 142,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "Implantation at which site causes the most severe antepartum bleeding?",
+    "options": [
+      "Over the internal os",
+      "The uterine fundus",
+      "The posterior uterine wall",
+      "The cornual region"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Formation of the lower segment and cervical effacement shear a centrally implanted placenta, causing torrential bleeding. A cervical or caesarean-scar implantation is even more dangerous but is a distinct entity.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (site of implantation causing severe vaginal bleeding — internal os)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2020 NEET-PG (site of implantation causing severe vaginal bleeding — internal os)"
+    }
+  },
+  {
+    "id": "obs_q_143",
+    "questionNumber": 143,
+    "subject": "Obstetrics",
+    "subTopic": "Ectopic",
+    "sub_topic": "Ectopic",
+    "stem": "A woman with 6 weeks of amenorrhoea has severe abdominal pain, nausea and vomiting with stable vital signs and cervical motion tenderness. The first investigation is",
+    "options": [
+      "Transvaginal ultrasound, with serum beta-hCG",
+      "Diagnostic laparoscopy immediately",
+      "Culdocentesis",
+      "Plain abdominal radiograph"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In a haemodynamically **stable** woman, imaging comes first and determines whether methotrexate or surgery is appropriate. Instability instead calls for immediate laparotomy without waiting for investigations.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (6 weeks amenorrhoea, severe pain, stable vitals — USG then beta-hCG, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ectopic",
+      "basedOn": "2024 INI-CET (6 weeks amenorrhoea, severe pain, stable vitals — USG then beta-hCG, 4X)"
+    }
+  },
+  {
+    "id": "obs_q_144",
+    "questionNumber": 144,
+    "subject": "Obstetrics",
+    "subTopic": "Ectopic",
+    "sub_topic": "Ectopic",
+    "stem": "Medical management of an ectopic pregnancy with methotrexate is appropriate when",
+    "options": [
+      "The woman is stable, the mass is under about 3.5 cm, there is no fetal cardiac activity and beta-hCG is below about 5,000 IU/L",
+      "There is free fluid with hypotension",
+      "Fetal cardiac activity is present",
+      "Beta-hCG exceeds 15,000 IU/L"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Reliable follow-up is also required, since hCG is tracked on days 4 and 7 and a fall of at least 15% is expected. Rupture, instability and cardiac activity all mandate surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ectopic pregnancy assessment, 4X), 2020 INI-CET (ectopic pregnancy characteristics)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ectopic",
+      "basedOn": "2024 INI-CET (ectopic pregnancy assessment, 4X), 2020 INI-CET (ectopic pregnancy characteristics)"
+    }
+  },
+  {
+    "id": "obs_q_145",
+    "questionNumber": 145,
+    "subject": "Obstetrics",
+    "subTopic": "Ectopic",
+    "sub_topic": "Ectopic",
+    "stem": "The Studdiford criteria are used to diagnose",
+    "options": [
+      "Primary abdominal ectopic pregnancy",
+      "Cervical ectopic pregnancy",
+      "Interstitial ectopic pregnancy",
+      "Heterotopic pregnancy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "They require normal tubes and ovaries, no uteroperitoneal fistula and a pregnancy related only to the peritoneal surface, so that a secondary implantation after tubal abortion is excluded.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (criteria for abdominal ectopic pregnancy — Studdiford)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ectopic",
+      "basedOn": "2022 INI-CET (criteria for abdominal ectopic pregnancy — Studdiford)"
+    }
+  },
+  {
+    "id": "obs_q_146",
+    "questionNumber": 146,
+    "subject": "Obstetrics",
+    "subTopic": "Ectopic",
+    "sub_topic": "Ectopic",
+    "stem": "The commonest site of tubal ectopic pregnancy, and the site with the greatest risk of catastrophic bleeding, are respectively",
+    "options": [
+      "The ampulla, and the interstitial (cornual) portion",
+      "The isthmus, and the ampulla",
+      "The fimbrial end, and the isthmus",
+      "The interstitial portion, and the ampulla"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "About 70% are ampullary. An interstitial pregnancy sits within the myometrium beside the uterine and ovarian vessels, so rupture bleeds massively and presents later, at around 8 to 16 weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ectopic pregnancy, 4X), 2022 INI-CET (abdominal ectopic criteria)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ectopic",
+      "basedOn": "2024 INI-CET (ectopic pregnancy, 4X), 2022 INI-CET (abdominal ectopic criteria)"
+    }
+  },
+  {
+    "id": "obs_q_147",
+    "questionNumber": 147,
+    "subject": "Obstetrics",
+    "subTopic": "Rh",
+    "sub_topic": "Rh",
+    "stem": "An Rh-negative woman with a negative indirect Coombs test received anti-D at 28 weeks. After delivery, the correct action is",
+    "options": [
+      "Give a further dose within 72 hours of delivery if the baby is Rh-positive",
+      "Give no further dose, as the antenatal dose suffices",
+      "Give anti-D only if the baby is Rh-negative",
+      "Give anti-D only if the direct Coombs test is positive"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The antenatal dose covers silent sensitisation during pregnancy; delivery itself causes the largest fetomaternal bleed. A positive **direct** Coombs test on the baby would mean sensitisation has already occurred, so anti-D would be pointless.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Rh-negative mother with negative ICT given anti-D at 28 weeks — another dose within 72 hours postpartum depending on baby's blood group, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Rh",
+      "basedOn": "2024 INI-CET (Rh-negative mother with negative ICT given anti-D at 28 weeks — another dose within 72 hours postpartum depending on baby's blood group, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_148",
+    "questionNumber": 148,
+    "subject": "Obstetrics",
+    "subTopic": "Rh",
+    "sub_topic": "Rh",
+    "stem": "The criteria for giving postpartum anti-D to an O-negative mother whose husband is B-positive are",
+    "options": [
+      "Baby Rh-positive with a negative direct Coombs test",
+      "Baby Rh-negative with a positive direct Coombs test",
+      "Baby Rh-positive with a positive direct Coombs test",
+      "Any baby regardless of blood group"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A positive direct Coombs test means maternal antibody is already coating fetal cells, so the mother is sensitised and prophylaxis cannot help. ABO incompatibility here gives some natural protection against Rh sensitisation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (mother O-negative, husband B-positive — criteria for postpartum anti-D: DCT negative plus baby Rh-positive)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Rh",
+      "basedOn": "2020 INI-CET (mother O-negative, husband B-positive — criteria for postpartum anti-D: DCT negative plus baby Rh-positive)"
+    }
+  },
+  {
+    "id": "obs_q_149",
+    "questionNumber": 149,
+    "subject": "Obstetrics",
+    "subTopic": "Rh",
+    "sub_topic": "Rh",
+    "stem": "Anti-D prophylaxis is NOT indicated",
+    "options": [
+      "After an intrauterine transfusion in an already sensitised pregnancy",
+      "After amniocentesis in an unsensitised Rh-negative woman",
+      "After a first-trimester miscarriage in an unsensitised Rh-negative woman",
+      "After external cephalic version in an unsensitised Rh-negative woman"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Once alloantibodies exist, prophylaxis has no purpose. Any potentially sensitising event in an **unsensitised** woman — miscarriage, ectopic, invasive testing, version, abruption, abdominal trauma — warrants anti-D.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anti-D after intrauterine blood transfusion at 28 weeks — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Rh",
+      "basedOn": "2022 INI-CET (anti-D after intrauterine blood transfusion at 28 weeks — false)"
+    }
+  },
+  {
+    "id": "obs_q_150",
+    "questionNumber": 150,
+    "subject": "Obstetrics",
+    "subTopic": "Rh",
+    "sub_topic": "Rh",
+    "stem": "In a sensitised Rh-negative pregnancy, the non-invasive test used to detect significant fetal anaemia is",
+    "options": [
+      "Middle cerebral artery peak systolic velocity on Doppler",
+      "Umbilical artery pulsatility index",
+      "Amniotic fluid index",
+      "Biophysical profile score"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Anaemia lowers blood viscosity and raises cerebral flow velocity, so a value above 1.5 multiples of the median predicts moderate to severe anaemia and prompts fetal blood sampling with intrauterine transfusion. It has replaced serial amniocentesis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (anti-D and intrauterine transfusion), 2024 INI-CET (hydrops fetalis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rh",
+      "basedOn": "2022 INI-CET (anti-D and intrauterine transfusion), 2024 INI-CET (hydrops fetalis)"
+    }
+  },
+  {
+    "id": "obs_q_151",
+    "questionNumber": 151,
+    "subject": "Obstetrics",
+    "subTopic": "Placenta",
+    "sub_topic": "Placenta",
+    "stem": "A placenta in which the chorionic plate is smaller than the basal plate, with a raised rolled edge of folded membranes, is",
+    "options": [
+      "Circumvallate placenta",
+      "Battledore placenta",
+      "Placenta membranacea",
+      "Placenta succenturiata"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is associated with antepartum bleeding, preterm labour and growth restriction. A battledore placenta has a marginal cord insertion and is harmless; placenta membranacea is a thin placenta covering most of the uterine cavity and predisposes to praevia and accreta.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (succenturiate placenta with velamentous cord), 2022 INI-CET (placenta accreta investigations)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Placenta",
+      "basedOn": "2020 INI-CET (succenturiate placenta with velamentous cord), 2022 INI-CET (placenta accreta investigations)"
+    }
+  },
+  {
+    "id": "obs_q_152",
+    "questionNumber": 152,
+    "subject": "Obstetrics",
+    "subTopic": "Medical Disorders",
+    "sub_topic": "Medical Disorders",
+    "stem": "A woman at 32 weeks has intense pruritus of the palms and soles, worse at night, with no rash, raised serum bile acids and mildly raised transaminases. The diagnosis and treatment are",
+    "options": [
+      "Intrahepatic cholestasis of pregnancy; ursodeoxycholic acid with delivery by 37–38 weeks",
+      "Acute fatty liver of pregnancy; immediate delivery",
+      "HELLP syndrome; magnesium sulphate",
+      "Pemphigoid gestationis; topical steroids"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Pruritus without a primary rash plus raised bile acids is the hallmark. The important risk is **stillbirth**, which drives planned early-term delivery; vitamin K is given if the prothrombin time is prolonged. It recurs in later pregnancies.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (HELLP syndrome), 2023 INI-CET (hepatic and medical disorders in pregnancy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Medical Disorders",
+      "basedOn": "2020 NEET-PG (HELLP syndrome), 2023 INI-CET (hepatic and medical disorders in pregnancy)"
+    }
+  },
+  {
+    "id": "obs_q_153",
+    "questionNumber": 153,
+    "subject": "Obstetrics",
+    "subTopic": "Medical Disorders",
+    "sub_topic": "Medical Disorders",
+    "stem": "A woman with pre-existing hypothyroidism on levothyroxine becomes pregnant. The appropriate action is",
+    "options": [
+      "Increase the dose by about 30 to 50% and check TSH every 4 to 6 weeks",
+      "Keep the dose unchanged throughout",
+      "Halve the dose because of raised binding globulin",
+      "Stop levothyroxine in the first trimester"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Requirements rise from increased thyroid-binding globulin, a larger distribution volume and placental deiodinase. Untreated maternal hypothyroidism impairs fetal neurodevelopment, and the target TSH is below 2.5 mIU/L in the first trimester.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (total T3 alters in pregnancy), 2023 INI-CET (hyperthyroidism in pregnancy — propylthiouracil)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Medical Disorders",
+      "basedOn": "2022 INI-CET (total T3 alters in pregnancy), 2023 INI-CET (hyperthyroidism in pregnancy — propylthiouracil)"
+    }
+  },
+  {
+    "id": "obs_q_154",
+    "questionNumber": 154,
+    "subject": "Obstetrics",
+    "subTopic": "Medical Disorders",
+    "sub_topic": "Medical Disorders",
+    "stem": "A woman at 20 weeks is diagnosed with deep vein thrombosis. The anticoagulant and the duration are",
+    "options": [
+      "Low-molecular-weight heparin, continued through pregnancy and for at least 6 weeks postpartum",
+      "Warfarin from diagnosis",
+      "A direct oral anticoagulant",
+      "Aspirin alone for 6 weeks"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Heparin does not cross the placenta; warfarin and direct oral anticoagulants are avoided in pregnancy and the latter also in breastfeeding. Heparin is withheld around neuraxial anaesthesia and delivery, then restarted.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (warfarin to heparin switch at 36 weeks, 2X), 2020 INI-CET (coagulation changes in pregnancy)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Medical Disorders",
+      "basedOn": "2024 INI-CET (warfarin to heparin switch at 36 weeks, 2X), 2020 INI-CET (coagulation changes in pregnancy)"
+    }
+  },
+  {
+    "id": "obs_q_155",
+    "questionNumber": 155,
+    "subject": "Obstetrics",
+    "subTopic": "Labour",
+    "sub_topic": "Labour",
+    "stem": "Fetal scalp blood sampling in labour indicates significant acidosis when the pH is below",
+    "options": [
+      "7.20",
+      "7.35",
+      "7.30",
+      "6.80"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A pH of 7.20 to 7.25 is borderline and repeated, and below 7.20 prompts delivery. It is contraindicated in suspected fetal bleeding disorders and maternal HIV or hepatitis. Umbilical **artery** cord gas at birth documents the acid–base state retrospectively.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Manning score and fetal pH), 2024 INI-CET (CTG interpretation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Labour",
+      "basedOn": "2022 INI-CET (Manning score and fetal pH), 2024 INI-CET (CTG interpretation)"
+    }
+  },
+  {
+    "id": "obs_q_156",
+    "questionNumber": 156,
+    "subject": "Obstetrics",
+    "subTopic": "Malpresentation",
+    "sub_topic": "Malpresentation",
+    "stem": "Which type of breech presentation carries the highest risk of cord prolapse?",
+    "options": [
+      "Footling breech",
+      "Frank (extended) breech",
+      "Complete (flexed) breech",
+      "All carry equal risk"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An irregular presenting part leaves space beside it for the cord to descend, whereas a frank breech fills the pelvis most completely and is the commonest and safest type for vaginal delivery. The Term Breech Trial favoured planned caesarean section overall.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Burns–Marshall manoeuvre for breech), 2020 INI-CET (breech diagnosed first in labour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Malpresentation",
+      "basedOn": "2023 NEET-PG (Burns–Marshall manoeuvre for breech), 2020 INI-CET (breech diagnosed first in labour)"
+    }
+  },
+  {
+    "id": "obs_q_157",
+    "questionNumber": 157,
+    "subject": "Obstetrics",
+    "subTopic": "Puerperium",
+    "sub_topic": "Puerperium",
+    "stem": "Puerperal pyrexia is defined as a temperature of 38 °C or more on any two of the first 10 days postpartum, excluding the first 24 hours. The commonest cause is",
+    "options": [
+      "Genital tract infection (endometritis), typically polymicrobial",
+      "Urinary tract infection",
+      "Breast engorgement",
+      "Deep vein thrombosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Risk rises with caesarean section, prolonged rupture of membranes and multiple examinations. Broad-spectrum cover is given, and failure to settle raises suspicion of an abscess or septic pelvic thrombophlebitis, which needs heparin as well as antibiotics.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (post-LSCS fever with pelvic thrombophlebitis — antibiotics and heparin), 2019 NEET-PG (mastitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Puerperium",
+      "basedOn": "2021 NEET-PG (post-LSCS fever with pelvic thrombophlebitis — antibiotics and heparin), 2019 NEET-PG (mastitis)"
+    }
+  },
+  {
+    "id": "obs_q_158",
+    "questionNumber": 158,
+    "subject": "Obstetrics",
+    "subTopic": "Pre-Eclampsia",
+    "sub_topic": "Pre-Eclampsia",
+    "stem": "Low-dose aspirin for the prevention of pre-eclampsia in a high-risk woman should be started",
+    "options": [
+      "Before 16 weeks of gestation",
+      "At 24 weeks",
+      "At 28 weeks",
+      "Only after proteinuria appears"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Aspirin works by improving trophoblastic invasion and spiral arteriole remodelling, which is largely complete by about 16 to 18 weeks, so later initiation loses most of the benefit. The ASPRE trial used 150 mg at night.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (uterine artery Doppler at 12–14 weeks detects early-onset pre-eclampsia), 2020 INI-CET (pathogenesis of pre-eclampsia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pre-Eclampsia",
+      "basedOn": "2021 NEET-PG (uterine artery Doppler at 12–14 weeks detects early-onset pre-eclampsia), 2020 INI-CET (pathogenesis of pre-eclampsia)"
+    }
+  },
+  {
+    "id": "obs_q_159",
+    "questionNumber": 159,
+    "subject": "Obstetrics",
+    "subTopic": "Pph",
+    "sub_topic": "Pph",
+    "stem": "Immediately after delivery a woman has a mass protruding from the vagina, severe pain, profound shock and an absent uterine fundus on palpation. The correct management is",
+    "options": [
+      "Immediate manual replacement before giving any uterotonic, with resuscitation",
+      "Give a uterotonic first, then replace the uterus",
+      "Pack the vagina and transfer",
+      "Immediate hysterectomy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Acute uterine inversion causes neurogenic shock out of proportion to blood loss. A uterotonic given first contracts the cervical ring and traps the uterus, so tocolysis may even be needed; the uterotonic follows **after** replacement.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (uterotonics in PPH), 2022 INI-CET (third-stage complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pph",
+      "basedOn": "2021 INI-CET (uterotonics in PPH), 2022 INI-CET (third-stage complications)"
+    }
+  },
+  {
+    "id": "obs_q_160",
+    "questionNumber": 160,
+    "subject": "Obstetrics",
+    "subTopic": "Abortion",
+    "sub_topic": "Abortion",
+    "stem": "A woman presents with fever, offensive vaginal discharge, lower abdominal tenderness and a history of an interference 3 days ago. The priority management is",
+    "options": [
+      "Resuscitation with broad-spectrum antibiotics followed by uterine evacuation",
+      "Uterine evacuation before any antibiotic",
+      "Antibiotics alone for 7 days",
+      "Immediate hysterectomy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Septic abortion needs the infected tissue removed, but antibiotics are started first so that evacuation does not disseminate organisms. *Clostridium perfringens* and Gram-negative sepsis cause the deaths, and tetanus prophylaxis is considered.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (sequence of steps in D and C), 2024 INI-CET (MTP law and practice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Abortion",
+      "basedOn": "2020 INI-CET (sequence of steps in D and C), 2024 INI-CET (MTP law and practice)"
+    }
+  },
+  {
+    "id": "obs_q_161",
+    "questionNumber": 161,
+    "subject": "Obstetrics",
+    "subTopic": "Diabetes",
+    "sub_topic": "Diabetes",
+    "stem": "In gestational diabetes not controlled by diet after 2 weeks, the first-line pharmacological agent and the fasting target are",
+    "options": [
+      "Insulin, with a fasting target below 95 mg/dL",
+      "Glibenclamide, with a fasting target below 120 mg/dL",
+      "Pioglitazone, with a fasting target below 110 mg/dL",
+      "No drug is indicated in gestational diabetes"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Insulin does not cross the placenta and remains the standard. Metformin is an accepted alternative in many guidelines but does cross the placenta. Postprandial targets are below 140 mg/dL at 1 hour and 120 mg/dL at 2 hours.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (IADPSG criteria for GDM), 2021 INI-CET (insulin at induction in GDM)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Diabetes",
+      "basedOn": "2022 INI-CET (IADPSG criteria for GDM), 2021 INI-CET (insulin at induction in GDM)"
+    }
+  },
+  {
+    "id": "obs_q_162",
+    "questionNumber": 162,
+    "subject": "Obstetrics",
+    "subTopic": "Caesarean",
+    "sub_topic": "Caesarean",
+    "stem": "A woman with one previous lower segment caesarean section in labour develops sudden severe abdominal pain, loss of uterine contractions, fetal bradycardia and recession of the presenting part. The diagnosis is",
+    "options": [
+      "Uterine rupture",
+      "Placental abruption",
+      "Amniotic fluid embolism",
+      "Obstructed labour"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Loss of station with cessation of contractions and abnormal fetal heart rate is the classic triad; an abnormal CTG is in practice the commonest first sign. Immediate laparotomy is required. A previous **classical** scar is a contraindication to labour altogether.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (previous classical CS with breech — elective LSCS), 2023 INI-CET (Robson classification)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Caesarean",
+      "basedOn": "2020 NEET-PG (previous classical CS with breech — elective LSCS), 2023 INI-CET (Robson classification)"
+    }
+  },
+  {
+    "id": "obs_q_163",
+    "questionNumber": 163,
+    "subject": "Obstetrics",
+    "subTopic": "Screening",
+    "sub_topic": "Screening",
+    "stem": "The first-trimester combined test for aneuploidy comprises",
+    "options": [
+      "Nuchal translucency with serum PAPP-A and free beta-hCG at 11 to 13+6 weeks",
+      "Nuchal translucency with AFP and inhibin A",
+      "PAPP-A with oestriol and inhibin A",
+      "Nuchal translucency alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In trisomy 21, PAPP-A is low and free beta-hCG high with increased nuchal translucency. Adding the nasal bone, ductus venosus and tricuspid flow raises detection further. Low PAPP-A alone also predicts growth restriction and pre-eclampsia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (quadruple test components, 4X), 2023 NEET-PG (nuchal translucency technique, 2X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Screening",
+      "basedOn": "2024 INI-CET (quadruple test components, 4X), 2023 NEET-PG (nuchal translucency technique, 2X)"
+    }
+  },
+  {
+    "id": "obs_q_164",
+    "questionNumber": 164,
+    "subject": "Obstetrics",
+    "subTopic": "Amniotic Fluid",
+    "sub_topic": "Amniotic Fluid",
+    "stem": "Oligohydramnios is defined by",
+    "options": [
+      "An amniotic fluid index below 5 cm or a single deepest pocket below 2 cm",
+      "An amniotic fluid index below 10 cm",
+      "A single deepest pocket below 5 cm",
+      "An amniotic fluid index above 25 cm"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Option D defines polyhydramnios. Causes are ruptured membranes, renal agenesis or obstruction, growth restriction with placental insufficiency, post-term pregnancy and prostaglandin inhibitors. Potter sequence follows prolonged early anhydramnios.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (AFI of 5 with growth restriction), 2020 NEET-PG (polyhydramnios)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Amniotic Fluid",
+      "basedOn": "2024 INI-CET (AFI of 5 with growth restriction), 2020 NEET-PG (polyhydramnios)"
+    }
+  },
+  {
+    "id": "obs_q_165",
+    "questionNumber": 165,
+    "subject": "Obstetrics",
+    "subTopic": "Twins",
+    "sub_topic": "Twins",
+    "stem": "In an uncomplicated twin pregnancy, the recommended timing of delivery is",
+    "options": [
+      "37 to 38 weeks for dichorionic diamniotic and 36 to 37 weeks for monochorionic diamniotic twins",
+      "40 weeks for all twin pregnancies",
+      "34 weeks for all twin pregnancies",
+      "39 to 40 weeks regardless of chorionicity"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Stillbirth risk rises earlier when a placenta is shared. Monoamniotic twins are delivered earlier still, at about 32 to 34 weeks by caesarean section, because of cord entanglement.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (DCDA with first twin vertex — vaginal delivery), 2022 INI-CET (complication specific to monochorionic twins)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Twins",
+      "basedOn": "2023 NEET-PG (DCDA with first twin vertex — vaginal delivery), 2022 INI-CET (complication specific to monochorionic twins)"
+    }
+  },
+  {
+    "id": "obs_q_166",
+    "questionNumber": 166,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "A woman at 34 weeks has a moderate abruption with a live fetus, reassuring fetal heart rate, stable vital signs and no coagulopathy. The appropriate management is",
+    "options": [
+      "Delivery, by caesarean section unless vaginal delivery is imminent",
+      "Expectant management to 39 weeks",
+      "Tocolysis and discharge",
+      "Tocolysis with steroids and review in a week"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An abruption can extend unpredictably, so a viable fetus at 34 weeks is delivered rather than observed. Expectant management is confined to small abruptions well before viability. A Couvelaire uterus and consumptive coagulopathy are the feared complications.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (abruption with loss of fetal movements), 2021 INI-CET (features of placental abruption)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Aph",
+      "basedOn": "2023 INI-CET (abruption with loss of fetal movements), 2021 INI-CET (features of placental abruption)"
+    }
+  },
+  {
+    "id": "obs_q_167",
+    "questionNumber": 167,
+    "subject": "Obstetrics",
+    "subTopic": "Aph",
+    "sub_topic": "Aph",
+    "stem": "Painless vaginal bleeding beginning exactly at membrane rupture, with rapid fetal bradycardia and a normal non-tender uterus, indicates",
+    "options": [
+      "Vasa praevia, where the blood lost is fetal",
+      "Placenta praevia",
+      "Placental abruption",
+      "A cervical polyp"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Unprotected fetal vessels run through the membranes over the os, usually with a velamentous cord or a succenturiate lobe. The fetal blood volume is tiny, so exsanguination is rapid — immediate caesarean section is needed, and the Apt test confirms fetal blood.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (succenturiate placenta with velamentous cord), 2020 NEET-PG (implantation site causing severe bleeding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Aph",
+      "basedOn": "2020 INI-CET (succenturiate placenta with velamentous cord), 2020 NEET-PG (implantation site causing severe bleeding)"
+    }
+  }
+]
