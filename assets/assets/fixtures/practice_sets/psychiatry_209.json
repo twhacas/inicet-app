@@ -1,0 +1,3764 @@
+[
+  {
+    "id": "psych_q_001",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Dependence syndrome is defined by all of the following EXCEPT",
+    "options": [
+      "A strong desire or compulsion to take the substance",
+      "A single episode of heavy use",
+      "Priority given to drug use over other activities",
+      "Tolerance and a physiological withdrawal state"
+    ],
+    "correct_index": 1,
+    "explanation": "ICD requires three or more features over 12 months: craving, impaired control, withdrawal, tolerance, salience and persistence despite harm. A single episode is harmful use at most, not dependence.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (dependence is defined by strong desire, priority to drugs, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_002",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The commonest substance of abuse in India is",
+    "options": [
+      "Cannabis",
+      "Alcohol",
+      "Tobacco",
+      "Opioids"
+    ],
+    "correct_index": 2,
+    "explanation": "Tobacco leads overall, with alcohol next. **Cannabis** is the most commonly used illicit drug. Distinguish \"most commonly abused substance\" from \"most commonly abused illicit substance\" and from \"commonest cause of dependence\".",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (most common substance of abuse in India — tobacco, 2X), 2023 NEET-PG (most common drug causing dependence — cannabis)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_003",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The first symptom to appear in alcohol withdrawal is",
+    "options": [
+      "Delirium",
+      "Seizure",
+      "Visual hallucination",
+      "Tremor"
+    ],
+    "correct_index": 3,
+    "explanation": "Tremor with anxiety and autonomic arousal appears at 6 to 12 hours, seizures at 12 to 48 hours, alcoholic hallucinosis at 12 to 24 hours, and delirium tremens at 48 to 96 hours. The **sequence by time** is what is examined.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2015 AIIMS (first symptom in alcohol withdrawal is tremors, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_004",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "A chronic alcoholic whose last drink was 3 days ago has tremor, clouding of consciousness and visual hallucinations. The diagnosis and immediate treatment are",
+    "options": [
+      "Wernicke encephalopathy; dextrose followed by thiamine",
+      "Alcoholic hallucinosis; haloperidol alone",
+      "Delirium tremens; intramuscular thiamine followed by dextrose, with a benzodiazepine",
+      "Korsakoff psychosis; no acute treatment"
+    ],
+    "correct_index": 2,
+    "explanation": "**Thiamine must precede glucose**, because a glucose load in a thiamine-deficient patient precipitates Wernicke encephalopathy. Delirium tremens carries appreciable mortality and needs a benzodiazepine, fluids and electrolyte correction.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (chronic alcoholic, last drink 3 days back, tremors — delirium tremens, IM thiamine followed by dextrose, 5X), 2020 NEET-PG (delirium tremens features, 3X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_005",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Visual hallucinations in a patient with alcohol use are most characteristic of",
+    "options": [
+      "Alcohol intoxication",
+      "Alcohol withdrawal",
+      "Korsakoff psychosis",
+      "Depression"
+    ],
+    "correct_index": 1,
+    "explanation": "Vivid visual and tactile hallucinations characterise withdrawal states, whereas **auditory** hallucinations dominate schizophrenia. Visual hallucination is not a feature of depression, which is the usual distractor.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (visual hallucination is seen in alcohol withdrawal, 2X), 2020 NEET-PG (visual hallucination seen in all except depression)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_006",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The benzodiazepine preferred for alcohol withdrawal in a patient with significant liver disease is",
+    "options": [
+      "Diazepam",
+      "Oxazepam or lorazepam, which are not oxidatively metabolised",
+      "Chlordiazepoxide",
+      "Alprazolam"
+    ],
+    "correct_index": 1,
+    "explanation": "Both undergo direct glucuronidation, so they do not accumulate when hepatic oxidation is impaired. Diazepam and chlordiazepoxide have long-acting active metabolites that accumulate dangerously in liver failure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match drug treatments — delirium tremens with oxazepam, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_007",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Flumazenil in the long-term management of alcohol withdrawal is",
+    "options": [
+      "Useful as maintenance treatment",
+      "First-line therapy",
+      "Not useful, as it is a benzodiazepine antagonist and would precipitate seizures",
+      "Equivalent to chlordiazepoxide"
+    ],
+    "correct_index": 2,
+    "explanation": "Flumazenil reverses benzodiazepine overdose but is itself proconvulsant and is avoided where seizure risk exists — exactly the situation in alcohol withdrawal.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (flumazenil is used for long term management of alcohol withdrawal — false, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_008",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Drugs used to maintain abstinence and prevent relapse in alcohol dependence are",
+    "options": [
+      "Buprenorphine and methadone",
+      "Chlordiazepoxide, thiamine and haloperidol",
+      "Varenicline, bupropion and nicotine replacement",
+      "Disulfiram, acamprosate and naltrexone"
+    ],
+    "correct_index": 3,
+    "explanation": "Disulfiram inhibits aldehyde dehydrogenase and works by deterrence, so it needs a motivated patient. Acamprosate modulates glutamate and naltrexone blocks opioid-mediated reward, reducing craving.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (drugs to prevent relapse and maintain abstinence in alcohol — disulfiram, acamprosate, naltrexone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_009",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "A hangover following alcohol consumption is treated with",
+    "options": [
+      "Disulfiram",
+      "Naltrexone",
+      "Thiamine with rehydration",
+      "Flumazenil"
+    ],
+    "correct_index": 2,
+    "explanation": "Thiamine replacement and fluids address the deficiency and dehydration. Any alcohol-dependent patient presenting acutely should receive parenteral thiamine, because Wernicke encephalopathy is under-diagnosed and preventable.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (hangover following alcohol consumption is treated by thiamine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_010",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Which statement about alcohol's central effects is TRUE?",
+    "options": [
+      "It is excitatory at low dose and depressant at high dose",
+      "Alcohol is a CNS depressant at all doses, the apparent excitation at low dose reflecting disinhibition",
+      "It is purely excitatory",
+      "It has no dose-related CNS effect"
+    ],
+    "correct_index": 1,
+    "explanation": "Early depression of inhibitory cortical control produces talkativeness and loss of restraint, which is mistaken for stimulation. It acts on GABA-A and NMDA receptors throughout.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (alcohol in low dose is excitatory and in high dose is CNS depressant — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_011",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The most efficacious drug for smoking cessation in a chronic heavy smoker is",
+    "options": [
+      "Nicotine patch alone",
+      "Varenicline",
+      "Bupropion",
+      "Clonidine"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a partial agonist at the alpha-4 beta-2 nicotinic receptor, reducing craving while blunting the reward of smoking. Bupropion and nicotine replacement are alternatives; neuropsychiatric concerns about varenicline were not borne out.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (most efficacious drug to quit smoking — varenicline, 3X), 2024 INI-CET (match — smoking cessation varenicline, 2X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_012",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Which is NOT a feature of nicotine withdrawal?",
+    "options": [
+      "Increased appetite with weight gain",
+      "Irritability and restlessness",
+      "Hyperhidrosis",
+      "Difficulty concentrating"
+    ],
+    "correct_index": 2,
+    "explanation": "Nicotine withdrawal is dysphoric rather than autonomic — irritability, anxiety, poor concentration, insomnia and increased appetite. Marked sweating belongs to opioid and alcohol withdrawal.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (not a feature of nicotine withdrawal — hyperhidrosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_013",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The most commonly abused opioid worldwide is",
+    "options": [
+      "Pethidine",
+      "Morphine",
+      "Codeine",
+      "Diacetylmorphine (heroin)"
+    ],
+    "correct_index": 3,
+    "explanation": "Its high lipid solubility gives rapid CNS entry and an intense rush, which drives its abuse potential. In parts of India pharmaceutical opioids and crude preparations are also widely misused.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (most commonly abused opioid — diacetylmorphine/heroin)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_014",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Symptoms of opioid withdrawal include",
+    "options": [
+      "Hyperthermia with rigidity",
+      "Miosis, respiratory depression and coma",
+      "Mydriasis, yawning, lacrimation and piloerection",
+      "Visual hallucinations with confabulation"
+    ],
+    "correct_index": 2,
+    "explanation": "Piloerection gives \"cold turkey\". Withdrawal is intensely unpleasant but **not life-threatening**, unlike alcohol withdrawal — the key contrast. Option B describes opioid **overdose**.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (symptoms of morphine withdrawal — mydriasis, yawning, lacrimation), 2022 NEET-PG (withdrawal of opioid causes piloerection, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_015",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The best drug for reversing respiratory depression in opioid overdose is",
+    "options": [
+      "Naltrexone",
+      "Naloxone",
+      "Flumazenil",
+      "Buprenorphine"
+    ],
+    "correct_index": 1,
+    "explanation": "Its short half-life means repeated doses or an infusion are often needed, since most opioids outlast it. **Naltrexone** is the long-acting oral antagonist used for maintenance of abstinence, not for acute reversal.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (best drug for reversal of respiratory depression in opioid overdose — naloxone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_016",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The drug used for maintenance (substitution) therapy in opioid dependence is",
+    "options": [
+      "Naloxone",
+      "Buprenorphine",
+      "Disulfiram",
+      "Varenicline"
+    ],
+    "correct_index": 1,
+    "explanation": "A partial mu agonist with a ceiling effect on respiratory depression, which makes it safer than methadone. It is combined with naloxone in some formulations to deter injection.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (drug used for maintenance in opioid withdrawal — buprenorphine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_017",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Formication — the sensation of insects crawling under the skin — is characteristically associated with",
+    "options": [
+      "Alcohol intoxication",
+      "Opioid withdrawal",
+      "Chronic cocaine or amphetamine use",
+      "Cannabis use"
+    ],
+    "correct_index": 2,
+    "explanation": "It is a **tactile** hallucination, sometimes called the cocaine bug or Magnan sign, and patients may excoriate the skin. Both stimulants also cause a paranoid psychosis resembling schizophrenia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (tactile hallucination with cocaine — formication), 2022 NEET-PG (formication associated with chronic use of amphetamines)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_018",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Which is NOT a feature of cocaine overdose?",
+    "options": [
+      "Seizures and myocardial ischaemia",
+      "Hypertension and tachycardia",
+      "Hyperthermia",
+      "Bradycardia"
+    ],
+    "correct_index": 3,
+    "explanation": "Cocaine blocks monoamine reuptake, producing sympathetic overactivity with tachycardia. Benzodiazepines are the mainstay of treatment, and **beta blockers are avoided** because unopposed alpha stimulation worsens coronary vasospasm.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (not a feature of cocaine overdose — bradycardia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_019",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Cocaine withdrawal is managed by",
+    "options": [
+      "Disulfiram",
+      "Buprenorphine substitution",
+      "Supportive care with measures to reduce sympathetic overactivity, as there is no specific substitution therapy",
+      "Naltrexone"
+    ],
+    "correct_index": 2,
+    "explanation": "The \"crash\" brings dysphoria, hypersomnia, hyperphagia and intense craving, with a real suicide risk. No approved pharmacotherapy exists; psychosocial treatment and contingency management are the mainstays.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (treatment of cocaine withdrawal — decreasing sympathetic activity)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_020",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "A \"bad trip\" with perceptual distortion and panic is characteristically associated with",
+    "options": [
+      "Heroin",
+      "LSD",
+      "Alcohol",
+      "Benzodiazepines"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a serotonergic hallucinogen acting at 5-HT2A receptors. Management is reassurance in a quiet environment (\"talking down\") with a benzodiazepine if needed. Flashbacks may recur months later.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (bad trip is associated with LSD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_021",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Hallucinations are most characteristically produced by",
+    "options": [
+      "Benzodiazepines",
+      "Amphetamines",
+      "Opioids",
+      "Barbiturates"
+    ],
+    "correct_index": 1,
+    "explanation": "Stimulant psychosis with paranoid delusions and hallucinations closely mimics schizophrenia, and a drug history is what distinguishes them. Cannabis and hallucinogens also produce perceptual disturbance.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (hallucinations are produced by amphetamines)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_022",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The earliest feature to improve with thiamine in Wernicke encephalopathy is",
+    "options": [
+      "Confusion",
+      "Ataxia",
+      "Ophthalmoplegia",
+      "Amnesia"
+    ],
+    "correct_index": 2,
+    "explanation": "Eye signs improve within hours to days, ataxia over weeks, and confusion more slowly. **Amnesia often does not recover** and persists as Korsakoff psychosis, which is why early treatment matters so much.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (earliest feature showing improvement in Wernicke's encephalopathy — ophthalmoplegia, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_023",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Which is FALSE about Wernicke–Korsakoff psychosis?",
+    "options": [
+      "Confabulation is characteristic of the Korsakoff stage",
+      "It results from thiamine deficiency",
+      "Mamillary bodies, thalamus and hippocampus are affected",
+      "The pupillary response is normal"
+    ],
+    "correct_index": 3,
+    "explanation": "Pupillary abnormalities occur, along with nystagmus and lateral rectus palsy. The lesion sites are the mamillary bodies, dorsomedial thalamus and periaqueductal grey, with hippocampal involvement explaining the amnesia.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (false about Wernicke Korsakoff psychosis — normal pupillary response), 2019 NEET-PG (site of lesion in Korsakoff psychosis — mamillary body, thalamus, hippocampus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_024",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Korsakoff syndrome is characterised by",
+    "options": [
+      "Retrograde amnesia only",
+      "Ataxia with preserved memory",
+      "Anterograde amnesia with loss of recent memory and confabulation, without ataxia",
+      "Fluctuating consciousness"
+    ],
+    "correct_index": 2,
+    "explanation": "**Ataxia belongs to Wernicke encephalopathy**, not to the Korsakoff stage. Confabulation is the filling of memory gaps with fabricated material, without intent to deceive. Consciousness is clear, distinguishing it from delirium.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Korsakoff syndrome — anterograde amnesia with loss of recent memory), 2020 NEET-PG (not a feature of Korsakoff syndrome — ataxia), 2020 NEET-PG (confabulation definition)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_025",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The minimum duration of symptoms required to diagnose a depressive episode is",
+    "options": [
+      "1 week",
+      "2 weeks",
+      "1 month",
+      "6 months"
+    ],
+    "correct_index": 1,
+    "explanation": "Core features are depressed mood, loss of interest and reduced energy, with biological and cognitive symptoms. **Dysthymia** requires 2 years of chronic low-grade depression, and generalised anxiety disorder 6 months.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (time duration for diagnosis of depression — more than 2 weeks, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_026",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Which is NOT part of the ICD-11 core criteria for a depressive episode?",
+    "options": [
+      "Depressed mood",
+      "Loss of self-esteem or confidence",
+      "Markedly diminished interest or pleasure",
+      "Reduced energy or fatigability"
+    ],
+    "correct_index": 1,
+    "explanation": "Low self-esteem, guilt, poor concentration, sleep and appetite change and suicidal ideation are **additional** symptoms, not core ones. The distinction between core and additional symptoms is what this question tests.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not included in ICD-11 core criteria of depression — loss of self-esteem or confidence)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_027",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Which feature is NOT required to diagnose depression?",
+    "options": [
+      "Anhedonia",
+      "Depressed mood",
+      "Nihilistic ideas",
+      "Fatigue"
+    ],
+    "correct_index": 2,
+    "explanation": "Nihilistic delusions indicate **psychotic** depression — a severe subtype — and are not needed for the basic diagnosis. Cotard syndrome is the extreme form, with the delusion of being dead or non-existent.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (not required to make diagnosis of depression — nihilistic ideas), 2020 NEET-PG (Cotard syndrome — nihilistic delusion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_028",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Beck's cognitive triad in depression comprises negative views of",
+    "options": [
+      "Id, ego and superego",
+      "Hopelessness, helplessness and worthlessness alone",
+      "Mood, cognition and behaviour",
+      "The self, the world and the future"
+    ],
+    "correct_index": 3,
+    "explanation": "Automatic thoughts, cognitive distortions and dysfunctional assumptions are the other elements of Beck's cognitive theory, and they are the targets of cognitive behavioural therapy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Beck's cognitive theory of depression — automatic thoughts, cognitive distortions), 2021 INI-CET (cognitive triad of Beck — hopelessness, helplessness, worthlessness, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_029",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The neurotransmitter most directly targeted in the pharmacological treatment of depression is",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin (5-HT)",
+      "GABA"
+    ],
+    "correct_index": 2,
+    "explanation": "Noradrenaline is the other principal target. **Mania** is associated with raised noradrenaline, and **schizophrenia** with dopamine excess — the three classic transmitter associations examined together.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (which neurotransmitter can be used for treating depression — 5-HT, 2X), 2020 NEET-PG (mania is characterised by increased levels of norepinephrine)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_030",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The maximum global DALY loss among psychiatric disorders is caused by",
+    "options": [
+      "Schizophrenia",
+      "Unipolar depression",
+      "Bipolar disorder",
+      "Alcohol dependence"
+    ],
+    "correct_index": 1,
+    "explanation": "It combines high prevalence with substantial disability and early onset. **Anxiety disorder** is the commonest psychiatric disorder by prevalence, so prevalence and burden have different answers.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (maximum DALY loss is seen in unipolar depression), 2022 NEET-PG (most common psychiatric disorder — anxiety disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_031",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient with severe depression on a tricyclic antidepressant improves after 4 weeks but the dose must be managed carefully because of",
+    "options": [
+      "Loss of efficacy after 4 weeks",
+      "The risk of suicide by tricyclic overdose as energy returns before mood lifts",
+      "Development of tolerance",
+      "Risk of serotonin syndrome"
+    ],
+    "correct_index": 1,
+    "explanation": "Psychomotor retardation improves before mood, so the patient regains the capacity to act on persisting suicidal ideas. Tricyclics are lethal in overdose, which is why limited quantities are dispensed to at-risk patients.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (severe depression on TCA with improvement after 4 weeks — risk of suicide by TCA overdose, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_032",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Features of tricyclic antidepressant toxicity include",
+    "options": [
+      "Hypothermia with pinpoint pupils",
+      "Bradycardia with miosis",
+      "Arrhythmia, confusion, pupillary dilatation and hyperthermia",
+      "Hypersalivation with bronchorrhoea"
+    ],
+    "correct_index": 2,
+    "explanation": "The three Cs of serious toxicity are **c**oma, **c**onvulsions and **c**ardiotoxicity, on top of anticholinergic features. A widened QRS predicts arrhythmia and seizures.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (features of TCA toxicity — arrhythmia, confusion, pupillary dilatation, hyperthermia), 2018 AIIMS (TCA side effects — tremors, constipation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_033",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient on an antidepressant presents with altered sensorium, hypotension and a widened QRS on ECG. The treatment is",
+    "options": [
+      "Physostigmine",
+      "Flumazenil",
+      "Naloxone",
+      "Intravenous sodium bicarbonate"
+    ],
+    "correct_index": 3,
+    "explanation": "Alkalinisation and the sodium load displace the drug from cardiac sodium channels and narrow the QRS. **Physostigmine is avoided** because it can precipitate asystole and seizures in tricyclic overdose.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2015 AIIMS (antidepressant use with altered sensorium, hypotension, ECG change — sodium bicarbonate, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_034",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The antidepressant characteristically causing priapism is",
+    "options": [
+      "Amitriptyline",
+      "Fluoxetine",
+      "Trazodone",
+      "Mirtazapine"
+    ],
+    "correct_index": 2,
+    "explanation": "Alpha-1 adrenergic blockade causes it, and it is a urological emergency. Trazodone is mainly used in low dose as a sedative-hypnotic because of its marked sedation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (antidepressant causing priapism — trazodone, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_035",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The antidepressant with the least sexual adverse effects is",
+    "options": [
+      "Paroxetine",
+      "Mirtazapine",
+      "Sertraline",
+      "Venlafaxine"
+    ],
+    "correct_index": 1,
+    "explanation": "It blocks 5-HT2 and 5-HT3 receptors rather than increasing synaptic serotonin broadly. Bupropion is the other option with minimal sexual effects. Mirtazapine's drawbacks are sedation and weight gain.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (antidepressant with least sexual side effects — mirtazapine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_036",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The new psychoactive agent with a rapid-onset antidepressant effect in treatment-resistant depression is",
+    "options": [
+      "Lithium",
+      "Ketamine (or esketamine)",
+      "Modafinil",
+      "Varenicline"
+    ],
+    "correct_index": 1,
+    "explanation": "An NMDA antagonist producing antidepressant and anti-suicidal effects within hours rather than weeks. Dissociation, hypertension and abuse potential limit its use, and intranasal esketamine is given under supervision.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (new psychoactive substance with rapid acting antidepressant effect — ketamine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_037",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The safe therapeutic serum lithium concentration for long-term maintenance is",
+    "options": [
+      "0.1 to 0.3 mEq/L",
+      "1.5 to 2.0 mEq/L",
+      "0.6 to 1.2 mEq/L",
+      "2.0 to 2.5 mEq/L"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute mania may use up to about 1.2 to 1.5 mEq/L. The therapeutic index is narrow, so levels, renal function and thyroid function are monitored; toxicity appears above about 1.5 mEq/L.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (safer and effective therapeutic concentration of lithium for long-term use — 0.6–1.5 mEq/L)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_038",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Fine tremor in a patient on lithium",
+    "options": [
+      "Indicates the need to stop lithium immediately",
+      "Always indicates toxicity",
+      "Never occurs with lithium",
+      "Occurs at therapeutic levels and is not in itself a sign of toxicity"
+    ],
+    "correct_index": 3,
+    "explanation": "**Coarse** tremor, ataxia, slurred speech, vomiting and confusion indicate toxicity. Fine tremor may respond to propranolol. Thiazides, NSAIDs, ACE inhibitors and dehydration raise lithium levels.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fine tremors are seen at therapeutic levels of lithium — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_039",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The mood stabiliser with established anti-suicidal properties is",
+    "options": [
+      "Carbamazepine",
+      "Valproate",
+      "Lithium",
+      "Lamotrigine"
+    ],
+    "correct_index": 2,
+    "explanation": "It is the only psychotropic with consistent evidence of reducing suicide in mood disorders, an effect that appears independent of mood stabilisation itself.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (mood stabiliser with anti-suicidal property — lithium, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_040",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A woman in the third trimester with bipolar disorder is well controlled on lithium. The expected change is that",
+    "options": [
+      "The dose should be halved",
+      "The dose usually needs increasing, because glomerular filtration rate rises in pregnancy",
+      "Lithium must be stopped immediately",
+      "No change is ever needed"
+    ],
+    "correct_index": 1,
+    "explanation": "Lithium is renally cleared. The dose must be **reduced sharply around delivery**, when GFR normalises and toxicity can occur. First-trimester lithium is associated with Ebstein anomaly.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (pregnant woman in third trimester on lithium — increase dose, 3X), 2017 AIIMS (lithium causes cardiac defects in newborn)",
+    "repeats": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_041",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The mood stabiliser to be avoided in a pregnant woman with mania because of neural tube defect risk is",
+    "options": [
+      "Lithium",
+      "Valproate",
+      "Haloperidol",
+      "Olanzapine"
+    ],
+    "correct_index": 1,
+    "explanation": "It carries the highest teratogenic risk of the mood stabilisers, with neural tube defects, facial clefts and reduced IQ. **Haloperidol** is the agent recorded as preferred for mania in pregnancy in these papers.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pregnant patient in mania — valproate to be avoided due to NTDs, 2X), 2020 INI-CET / 2014 AIIMS (pregnant patient in mania — haloperidol, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_042",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The mood stabiliser causing hyperammonaemia with raised hepatic enzymes is",
+    "options": [
+      "Lamotrigine",
+      "Lithium",
+      "Valproate",
+      "Carbamazepine"
+    ],
+    "correct_index": 2,
+    "explanation": "Hyperammonaemic encephalopathy can occur with normal transaminases. Weight gain, tremor, alopecia, thrombocytopenia and polycystic ovary syndrome are its other effects, and hepatotoxicity is the serious one.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (which mood stabiliser causes hyperammonaemia and raised hepatic enzymes — valproate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_043",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient with depression started on imipramine later becomes overactive, overtalkative and begins dressing flamboyantly. The management is",
+    "options": [
+      "Continue unchanged",
+      "Increase the imipramine dose",
+      "Add a second antidepressant",
+      "Discontinue imipramine and start a mood stabiliser"
+    ],
+    "correct_index": 3,
+    "explanation": "Antidepressant-induced switch to mania reveals an underlying bipolar diathesis. The antidepressant is stopped and a mood stabiliser begun; antidepressant monotherapy in bipolar disorder risks further switching and cycle acceleration.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (patient with depression given imipramine, later started wearing bright clothes — discontinue imipramine and start valproate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_044",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Rapid cycling bipolar disorder is",
+    "options": [
+      "Defined by two episodes in a lifetime",
+      "Commoner in men",
+      "Commoner in women, and defined by four or more mood episodes in 12 months",
+      "Unrelated to antidepressant use"
+    ],
+    "correct_index": 2,
+    "explanation": "Hypothyroidism and antidepressant use are associated. It responds poorly to lithium, so valproate or lamotrigine is often preferred.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rapid cyclers commonly occur in men — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_045",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Bipolar II disorder is defined by",
+    "options": [
+      "Mania with psychosis",
+      "At least one hypomanic episode with at least one major depressive episode, and no full manic episode",
+      "Chronic low-grade mood fluctuation for 2 years",
+      "Depression with delusions"
+    ],
+    "correct_index": 1,
+    "explanation": "A single manic episode would reclassify it as bipolar I. **Cyclothymia** is the chronic sub-threshold fluctuation lasting at least 2 years, and belongs to the persistent **mood** disorders.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (bipolar II includes hypomania and major depression), 2021 NEET-PG (cyclothymia — recorded as \"persistent delusional disorder\", which is incorrect)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_046",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Contraindications to electroconvulsive therapy include",
+    "options": [
+      "Severe depression with catatonia",
+      "Raised intracranial pressure and cerebral aneurysm",
+      "Puerperal psychosis",
+      "Depression with high suicidal risk"
+    ],
+    "correct_index": 1,
+    "explanation": "Raised intracranial pressure is the only absolute contraindication. Options B, C and D are among its strongest **indications**, because ECT works faster than drugs where delay is dangerous.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (contraindication for ECT — raised ICT, cerebral aneurysm), 2020 NEET-PG (not an indication for ECT — severe manic attack)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_047",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Phototherapy is the treatment of choice for",
+    "options": [
+      "Schizophrenia",
+      "Bipolar mania",
+      "Seasonal affective disorder",
+      "Generalised anxiety disorder"
+    ],
+    "correct_index": 2,
+    "explanation": "Winter-pattern depression with hypersomnia, hyperphagia and carbohydrate craving responds to bright light exposure, which acts on circadian and melatonin pathways.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (phototherapy is used in treatment of seasonal affective disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_048",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient with bipolar disorder improves whenever treated but relapses each time he stops medication on his own. The most useful intervention is",
+    "options": [
+      "Changing the mood stabiliser",
+      "Increasing the drug dose",
+      "Electroconvulsive therapy",
+      "Psychoeducation"
+    ],
+    "correct_index": 3,
+    "explanation": "The problem is adherence, not drug failure, so the intervention must address understanding of the illness and the need for maintenance treatment. Psychoeducation with family involvement reduces relapse substantially.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2015 AIIMS (bipolar disorder controlled each time he takes treatment — psychoeducation, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_049",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "The commonest psychiatric disorder by prevalence is",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Anxiety disorder",
+      "Bipolar disorder"
+    ],
+    "correct_index": 2,
+    "explanation": "Anxiety disorders lead on prevalence while **unipolar depression** leads on disability-adjusted life years. The two questions have different answers and are both asked.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (most common psychiatric disorder — anxiety disorder), 2023 NEET-PG (maximum DALY loss — unipolar depression)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_050",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Anxiety disorders include",
+    "options": [
+      "Schizophrenia and delusional disorder",
+      "Phobia, obsessive-compulsive disorder and post-traumatic stress disorder",
+      "Dementia and delirium",
+      "Mania and hypomania"
+    ],
+    "correct_index": 1,
+    "explanation": "These are the classical neuroses — disorders with intact insight and preserved contact with reality. Modern classifications separate OCD and PTSD into their own groupings, but the past papers use the older grouping.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (anxiety disorders are phobia, OCD, PTSD), 2022 NEET-PG (anxiety is an example of neurosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_051",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Generalised anxiety disorder is diagnosed after symptoms have persisted for",
+    "options": [
+      "2 weeks",
+      "6 months",
+      "1 month",
+      "2 years"
+    ],
+    "correct_index": 1,
+    "explanation": "Free-floating anxiety with motor tension and autonomic overactivity, not restricted to any situation. **Depression needs 2 weeks, dysthymia 2 years** — the duration thresholds are examined together.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (generalised anxiety disorder is diagnosed after more than 6 months)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_052",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "The drug of choice for generalised anxiety disorder is",
+    "options": [
+      "An antipsychotic",
+      "A benzodiazepine for long-term use",
+      "An SSRI",
+      "Lithium"
+    ],
+    "correct_index": 2,
+    "explanation": "SSRIs and SNRIs are first line, with buspirone and pregabalin as alternatives. **Benzodiazepines are reserved for short-term use** because of dependence, and cognitive behavioural therapy is equally effective.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (drug of choice for generalised anxiety disorder — SSRI, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_053",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "The treatment of choice for an **acute** panic attack is",
+    "options": [
+      "Electroconvulsive therapy",
+      "An SSRI started at once",
+      "Propranolol alone",
+      "A benzodiazepine"
+    ],
+    "correct_index": 3,
+    "explanation": "Rapid onset is what is needed acutely. **Long-term** prophylaxis of panic disorder uses an SSRI with cognitive behavioural therapy, so acute and maintenance treatment differ — the point of the question.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (treatment of choice for acute panic attack — benzodiazepines)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_054",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "A 41-year-old woman has episodes of intense fear with palpitations and profuse sweating. The investigations needed are",
+    "options": [
+      "EEG alone",
+      "Haemoglobin alone",
+      "ECG, thyroid function and blood glucose",
+      "No investigation is needed"
+    ],
+    "correct_index": 2,
+    "explanation": "Panic attacks must be distinguished from thyrotoxicosis, arrhythmia, hypoglycaemia and phaeochromocytoma before being labelled psychiatric. Haemoglobin adds nothing, which is the recorded distractor.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2015 AIIMS (intense ghabrahat, palpitation, sweating — ECG, T3/T4/TSH, blood sugar, not haemoglobin, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_055",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Inability to speak in front of an audience, with marked anticipatory anxiety, is",
+    "options": [
+      "Agoraphobia",
+      "Social phobia",
+      "Specific phobia",
+      "Panic disorder"
+    ],
+    "correct_index": 1,
+    "explanation": "Fear of scrutiny and humiliation characterises it. **Agoraphobia** is fear of places from which escape is difficult. SSRIs, cognitive behavioural therapy and beta blockers for performance anxiety are used.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (unable to give speech in front of audience — social phobia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_056",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Morbid fear of darkness is termed",
+    "options": [
+      "Acrophobia",
+      "Nyctophobia",
+      "Claustrophobia",
+      "Agoraphobia"
+    ],
+    "correct_index": 1,
+    "explanation": "Acrophobia is fear of heights, claustrophobia of enclosed spaces, and xenophobia of strangers. Specific phobias are treated with graded exposure, a form of behaviour therapy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (morbid fear of darkness — nyctophobia, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_057",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Obsession is characterised by",
+    "options": [
+      "Being a disorder of perception",
+      "Being ego-syntonic and pleasurable",
+      "Being ego-dystonic, persisting despite resistance, and causing distress",
+      "Loss of insight"
+    ],
+    "correct_index": 2,
+    "explanation": "The thought is recognised as the patient's own but unwanted and senseless — the core contrast with a **delusion**, which is held with conviction, and with **personality disorder**, which is ego-syntonic.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (features of obsession — ego-dystonic, persists on resistance, 3X), 2017 AIIMS (obsession characterised by ego-dystonia)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_058",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Obsessive-compulsive disorder is a disorder of thought",
+    "options": [
+      "Possession",
+      "Form",
+      "Stream",
+      "Content"
+    ],
+    "correct_index": 3,
+    "explanation": "Disorders of **form** include loosening of association and neologism in schizophrenia; disorders of **stream** include flight of ideas and thought block; disorders of **possession** include thought insertion and withdrawal.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (OCD is a disorder of thought content)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_059",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Repeated hand washing in a patient distressed by thoughts of contamination is an example of",
+    "options": [
+      "A delusion",
+      "An obsession",
+      "A compulsion",
+      "A stereotypy"
+    ],
+    "correct_index": 2,
+    "explanation": "The thought of contamination is the obsession; the washing is the compulsive act performed to relieve it. Compulsions reduce anxiety temporarily and so are reinforced, which maintains the disorder.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (person washing hand repeatedly is an example of compulsion), 2022 INI-CET (feeling of uncertainty and excessive sense of responsibility — OCD, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_060",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "The treatment of choice for obsessive-compulsive disorder with prominent compulsions is",
+    "options": [
+      "Flooding alone",
+      "Exposure and response prevention, with an SSRI",
+      "Psychoanalysis",
+      "A benzodiazepine"
+    ],
+    "correct_index": 1,
+    "explanation": "SSRIs at higher doses and for longer than in depression, or clomipramine, are the drugs. **Psychosurgery** (cingulotomy, capsulotomy) is reserved for severe refractory OCD, and deep brain stimulation is newer.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (best treatment for patient spending a lot of time in rituals — exposure and response prevention, 2X), 2020 NEET-PG (psychosurgery is used in treatment of OCD, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_061",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Exposure and response prevention therapy has the poorest prognosis in which OCD subtype?",
+    "options": [
+      "Contamination fears with washing",
+      "Hoarding disorder",
+      "Checking rituals",
+      "Symmetry concerns"
+    ],
+    "correct_index": 1,
+    "explanation": "Hoarding responds poorly to both SSRIs and exposure therapy, which is one reason it is now classified separately from OCD. Poor insight and lack of distress about the behaviour contribute.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (exposure and response prevention has poor prognosis in hoarding disorder), 2017 AIIMS (poor prognostic factor for OCD — hoarding)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_062",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "On MRI, obsessive-compulsive disorder is associated with reduced volume of the",
+    "options": [
+      "Amygdala",
+      "Hippocampus",
+      "Caudate nucleus",
+      "Cerebellum"
+    ],
+    "correct_index": 2,
+    "explanation": "The cortico-striato-thalamo-cortical circuit is implicated, with orbitofrontal and anterior cingulate hyperactivity. This circuit is the target of psychosurgical and deep brain stimulation approaches.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (on MRI, OCD is characterised by reduced volume of caudate nucleus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_063",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "The commonest comorbidity accompanying obsessive-compulsive disorder is",
+    "options": [
+      "Dementia",
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Depression"
+    ],
+    "correct_index": 3,
+    "explanation": "Up to two-thirds of patients develop a depressive episode, which worsens prognosis and must be treated. Tic disorders, body dysmorphic disorder and trichotillomania also cluster with OCD.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (commonly associated comorbidity with OCD — depression)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_064",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "A body-focused repetitive behaviour disorder classified with OCD is",
+    "options": [
+      "Conversion disorder",
+      "Tourette syndrome",
+      "Trichotillomania",
+      "Anorexia nervosa"
+    ],
+    "correct_index": 2,
+    "explanation": "Compulsive hair pulling producing circumscribed non-scarring bald patches without itching or scaling. Excoriation (skin-picking) disorder is its counterpart. Habit reversal training is the behavioural treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (body focussed repetitive behavioural disorder — trichotillomania), 2020 NEET-PG (trichotillomania is compulsive hair pulling, 2X), 2019 NEET-PG (circumscribed bald patch without itching — trichotillomania)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_065",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "A girl repeatedly consults a plastic surgeon about a minor facial feature she believes is grossly abnormal. The management is",
+    "options": [
+      "Proceed with cosmetic surgery",
+      "Start an SSRI with cognitive behavioural therapy",
+      "Start an antipsychotic",
+      "Reassure and discharge"
+    ],
+    "correct_index": 1,
+    "explanation": "Body dysmorphic disorder. Surgery does not relieve the preoccupation and usually shifts it to another feature, so operating is contraindicated. Suicide risk is high and must be assessed.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (girl referred by plastic surgeon for repeatedly seeking surgery — start SSRI)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_066",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "A 14-year-old girl has sudden onset blindness with a normal examination and normal investigations. The condition is",
+    "options": [
+      "Malingering",
+      "Conversion disorder, which is commoner in girls than boys",
+      "Factitious disorder",
+      "Cortical blindness"
+    ],
+    "correct_index": 1,
+    "explanation": "Neurological symptoms incompatible with the examination, arising unconsciously in response to stress, with **la belle indifférence** — a striking lack of concern. Behaviour therapy with addressing the stressor is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (14-year-old with sudden onset blindness and normal examination — conversion disorder, commoner in girls, 2X), 2019 NEET-PG (la belle indifference is a feature of conversion disorder, 5X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_067",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Malingering differs from conversion disorder in that",
+    "options": [
+      "There is no external incentive",
+      "Symptoms are unconsciously produced",
+      "Symptoms are consciously produced for external gain, and accounts are inconsistent",
+      "It responds to behaviour therapy"
+    ],
+    "correct_index": 2,
+    "explanation": "Discrepancies between successive statements, and a clear external incentive such as avoiding prosecution, point to malingering. **Factitious disorder** is conscious production for the internal gain of the sick role.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (discrepancies between statements of accused — malingering, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_068",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Preoccupation with having a serious illness despite negative investigations is",
+    "options": [
+      "Delusional disorder",
+      "Somatisation disorder",
+      "Conversion disorder",
+      "Hypochondriasis"
+    ],
+    "correct_index": 3,
+    "explanation": "The preoccupation is with **having a disease**, whereas somatisation disorder is preoccupation with multiple **symptoms** across organ systems. Reassurance gives only transient relief in both.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (preoccupation with serious illness in body — hypochondriasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_069",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Derealisation and depersonalisation are characteristically seen in",
+    "options": [
+      "Dementia",
+      "Schizophrenia only",
+      "Dissociative disorder",
+      "Mania"
+    ],
+    "correct_index": 2,
+    "explanation": "Depersonalisation is a sense of detachment from oneself and derealisation from one's surroundings, with **insight preserved** — which distinguishes both from psychosis. They also occur in anxiety and after trauma.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (derealisation and depersonalisation seen in dissociative disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_070",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "An elderly woman who survived an earthquake and lost her belongings has distress, poor sleep and intrusive recollections for the past 2 days. The diagnosis and expected course are",
+    "options": [
+      "Post-traumatic stress disorder requiring long-term treatment",
+      "Acute stress reaction, which usually resolves within days to weeks",
+      "Adjustment disorder lasting 2 years",
+      "Major depression"
+    ],
+    "correct_index": 1,
+    "explanation": "Onset is immediate and duration under a month. **PTSD** requires symptoms beyond a month, typically with a latency, and comprises re-experiencing, avoidance, hyperarousal and negative mood change.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (old lady survived earthquake — acute stress reaction, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_071",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Post-traumatic stress disorder is characterised by",
+    "options": [
+      "Complete amnesia for the event",
+      "Re-experiencing of the event with avoidance of reminders and persistent hyperarousal",
+      "Onset within hours and resolution in days",
+      "Absence of nightmares"
+    ],
+    "correct_index": 1,
+    "explanation": "Nightmares, flashbacks and avoidance of the location are typical. Trauma-focused cognitive behavioural therapy and EMDR are first line, with SSRIs as pharmacotherapy; benzodiazepines are avoided.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (PTSD — recall of events and avoidance of similar experiences), 2018 NEET-PG / 2018 AIIMS (nightmares 2 months after RTA, avoids roads — PTSD, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_072",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Stress, in the psychiatric sense, is best defined as",
+    "options": [
+      "A perception without a stimulus",
+      "A fixed false belief",
+      "Apprehension about anticipated future events perceived as exceeding one's coping resources",
+      "A repetitive involuntary movement"
+    ],
+    "correct_index": 2,
+    "explanation": "The appraisal of threat relative to resources, rather than the event itself, determines the response — the basis of the transactional model and of stress-management interventions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (definition of stress — person is worried on thinking of future events)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_073",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Psychosis is characterised by all EXCEPT",
+    "options": [
+      "Hallucinations",
+      "Impaired insight",
+      "Delusions",
+      "Preserved contact with reality"
+    ],
+    "correct_index": 3,
+    "explanation": "Loss of contact with reality is the defining feature of psychosis. **Neurosis** preserves both insight and reality contact, which is the classical distinction being tested.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (psychosis is characterised by all except preserved contact with reality, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_074",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "The most important receptor implicated in schizophrenia is",
+    "options": [
+      "The GABA-A receptor",
+      "The serotonin 5-HT1A receptor",
+      "The dopamine D2 receptor",
+      "The NMDA receptor alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Mesolimbic D2 hyperactivity underlies positive symptoms and all effective antipsychotics block D2. Mesocortical hypoactivity is linked to negative symptoms, and nigrostriatal blockade produces extrapyramidal effects.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (most important receptors in schizophrenia are D2 receptors), 2020 NEET-PG (schizophrenia is characterised by increased dopamine levels, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_075",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "The characteristic hallucination of schizophrenia is",
+    "options": [
+      "A visual hallucination",
+      "An auditory hallucination giving a running commentary",
+      "A tactile hallucination",
+      "An olfactory hallucination"
+    ],
+    "correct_index": 1,
+    "explanation": "Third-person auditory hallucinations, running commentary, thought echo and audible thoughts are Schneider first-rank symptoms. **Visual** hallucinations point instead to an organic cause or withdrawal state.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (characteristic hallucination in schizophrenia — auditory giving running commentary)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_076",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Bleuler's fundamental symptoms of schizophrenia are",
+    "options": [
+      "Delusions and hallucinations",
+      "Autism, affective disturbance, ambivalence and loosening of association",
+      "Thought insertion and withdrawal",
+      "Catatonia and negativism"
+    ],
+    "correct_index": 1,
+    "explanation": "Bleuler's \"four As\". He regarded delusions and hallucinations as **accessory** symptoms, whereas Schneider's first-rank symptoms emphasise them — the contrast the papers test.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (Bleuler's symptoms of schizophrenia — autism, affect disturbances, loosening of association, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_077",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Good prognostic factors in schizophrenia include",
+    "options": [
+      "Early onset in adolescence",
+      "Insidious onset with negative symptoms",
+      "Late age of onset, predominance of positive symptoms and a precipitating stressor",
+      "Poor premorbid adjustment"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute onset, female sex, good premorbid functioning, mood symptoms, married status and short untreated duration also predict better outcome. Negative symptoms predict worse outcome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (good prognostic factors in schizophrenia — late age of onset, positive symptoms, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_078",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A young man with schizophrenia is well maintained on risperidone after a first episode. Treatment should continue for at least",
+    "options": [
+      "Lifelong in every first episode",
+      "1 month",
+      "3 months",
+      "12 months after remission of symptoms"
+    ],
+    "correct_index": 3,
+    "explanation": "One to two years is advised after a first episode, and longer or indefinitely after relapses. Early discontinuation carries a high relapse rate, and each relapse worsens long-term functioning.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (schizophrenia maintained on risperidone — at least 12 months after remission, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_079",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A patient on haloperidol develops rigidity and is unable to move the neck, with the head pulled to one side. The treatment is",
+    "options": [
+      "Start lithium",
+      "Increase the haloperidol dose",
+      "Intramuscular promethazine or an anticholinergic",
+      "Electroconvulsive therapy"
+    ],
+    "correct_index": 2,
+    "explanation": "Acute dystonia appears within hours to days and responds rapidly to a parenteral anticholinergic or antihistamine. It is frightening but not dangerous unless laryngeal muscles are involved.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (patient on haloperidol/risperidone with rigidity — inj. promethazine for acute dystonia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_080",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A patient on haloperidol develops restlessness with an irresistible urge to move. This is",
+    "options": [
+      "Acute dystonia",
+      "Akathisia",
+      "Tardive dyskinesia",
+      "Parkinsonism"
+    ],
+    "correct_index": 1,
+    "explanation": "It is subjective inner restlessness with observable fidgeting, and is strongly associated with distress and suicidality. Propranolol is the treatment of choice, with benzodiazepines as an alternative.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (patient on haloperidol with restlessness and urge to move — akathisia), 2022 INI-CET (features of catatonia — not akathisia, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_081",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A patient on clozapine must be monitored for",
+    "options": [
+      "Hyperkalaemia",
+      "Agranulocytosis, with regular white cell counts",
+      "Optic neuritis",
+      "Nephrotoxicity"
+    ],
+    "correct_index": 1,
+    "explanation": "Clozapine is the most effective drug in treatment-resistant schizophrenia and the only one with anti-suicidal evidence, but it also causes myocarditis, seizures, sialorrhoea, weight gain and severe constipation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (patient on clozapine should be monitored for agranulocytosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_082",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Risperidone is used off-label in",
+    "options": [
+      "Generalised anxiety disorder as first line",
+      "Depression as monotherapy",
+      "Dementia with behavioural disturbance, OCD augmentation and bipolar disorder",
+      "Alcohol withdrawal"
+    ],
+    "correct_index": 2,
+    "explanation": "Antipsychotics in elderly patients with dementia carry an increased risk of stroke and death, so they are used at the lowest dose for the shortest time after non-drug measures fail.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (risperidone is used as an off-label agent in dementia, OCD, bipolar disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_083",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A psychotic patient has voluntary purposeless movements, negativism and posturing. The immediate treatment is",
+    "options": [
+      "Lithium",
+      "Haloperidol",
+      "Risperidone",
+      "Lorazepam"
+    ],
+    "correct_index": 3,
+    "explanation": "A benzodiazepine challenge is both diagnostic and therapeutic in catatonia, with ECT for refractory or malignant catatonia. Antipsychotics may worsen it and risk neuroleptic malignant syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (psychotic patient with purposeless movements and negativism — lorazepam for catatonia, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_084",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Features of catatonia include all EXCEPT",
+    "options": [
+      "Agitation",
+      "Akinesia",
+      "Akathisia",
+      "Ambitendency"
+    ],
+    "correct_index": 2,
+    "explanation": "Akathisia is a drug-induced extrapyramidal effect, not a catatonic sign. Waxy flexibility, echopraxia, echolalia, mutism, posturing and negativism complete the catatonic syndrome. Note that catatonia occurs in **mood disorders and organic states as well as schizophrenia**.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (features of catatonia — akinesia, agitation, ambitendency, not akathisia, 2X), 2019 NEET-PG (catatonia recorded as a type of schizophrenia, an outdated classification)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_085",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Mutism with akinesia in an awake, alert patient is",
+    "options": [
+      "Coma",
+      "Stupor",
+      "Delirium",
+      "Depression"
+    ],
+    "correct_index": 1,
+    "explanation": "Consciousness is preserved and the patient is aware of surroundings, which distinguishes it from coma. It occurs in catatonia, severe depression and organic brain disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2017 AIIMS (mutism and akinesia in an awake alert patient — stupor, 2X), 2020 NEET-PG (stupor is characterised by mutism and akinesia)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_086",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "The commonest type of persistent delusional disorder is",
+    "options": [
+      "Delusion of grandiosity",
+      "Delusion of persecution",
+      "Delusion of jealousy",
+      "Nihilistic delusion"
+    ],
+    "correct_index": 1,
+    "explanation": "Delusional disorder presents at a **later** age than schizophrenia, with a single encapsulated delusional system and otherwise preserved functioning — the recorded distractor is that it occurs early.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (most common type of persistent delusional disorder — delusion of persecution), 2022 NEET-PG (false about delusional disorder — occurs at an early age)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_087",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A wife firmly and persistently believes, without evidence, that her husband is unfaithful. The phenomenon and the syndrome are",
+    "options": [
+      "An overvalued idea; personality disorder",
+      "An obsession; OCD",
+      "A delusion of infidelity; Othello syndrome",
+      "A hallucination; schizophrenia"
+    ],
+    "correct_index": 2,
+    "explanation": "It is a delusional disorder subtype with a real risk of violence towards the partner, so risk assessment is essential. Alcohol dependence is a recognised association.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (wife feels husband is cheating — delusion, 2X), 2023 NEET-PG (spouse jealousy — Othello syndrome), 2020 NEET-PG (Othello syndrome is an example of delusional disorder)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_088",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A patient believes his wife has been replaced by an identical impostor. This is",
+    "options": [
+      "Cotard syndrome",
+      "Fregoli syndrome",
+      "Othello syndrome",
+      "Capgras syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "The delusion of doubles. **Fregoli** syndrome is the converse — the belief that strangers are a familiar person in disguise. Both are delusional misidentification syndromes and may follow organic brain lesions.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (patient beats wife on looking at the nurse — Capgras syndrome, 2X), 2019 NEET-PG (delusion involving replacement of family member — Capgras syndrome, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_089",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Folie à deux is",
+    "options": [
+      "Two simultaneous hallucinations",
+      "A delusion of being dead",
+      "A shared delusional disorder, in which a delusion is transferred to a closely associated person",
+      "Alternating mania and depression"
+    ],
+    "correct_index": 2,
+    "explanation": "It typically occurs in a socially isolated pair with a dominant and a submissive member. **Separating them often resolves the delusion in the submissive partner** — which is both diagnostic and therapeutic.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (folie-a-deux is sharing of delusion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_090",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Somatic passivity is seen in",
+    "options": [
+      "Conversion disorder",
+      "Paranoid schizophrenia, as a first-rank symptom",
+      "Hypochondriasis",
+      "Depression"
+    ],
+    "correct_index": 1,
+    "explanation": "The patient believes an outside force is imposing bodily sensations on a passive body. Made volition, made affect, made impulse and thought alienation are the related passivity phenomena of Schneider's list.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (somatic passivity is seen in paranoid schizophrenia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_091",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Delirium is best differentiated from dementia by",
+    "options": [
+      "The presence of memory impairment",
+      "Its fluctuating course with clouding of consciousness",
+      "Disorientation to time",
+      "Behavioural disturbance"
+    ],
+    "correct_index": 1,
+    "explanation": "Delirium is acute in onset, fluctuates with lucid intervals and impairs attention and consciousness. Dementia is chronic and progressive with **clear consciousness** until very late.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (delirium differentiated from dementia by intermittent nature with fluctuations, 2X), 2021 NEET-PG (to differentiate delirium from dementia — fluctuating course, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_092",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Altered consciousness is",
+    "options": [
+      "Present in early dementia",
+      "The defining feature of dementia",
+      "Not a feature of dementia",
+      "Present only in vascular dementia"
+    ],
+    "correct_index": 2,
+    "explanation": "Clear consciousness with impaired cognition is the hallmark of dementia. Altered consciousness indicates **delirium**, which may be superimposed on dementia and is then easily missed.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (not a feature of dementia — altered consciousness)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_093",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The commonest cause of delirium is",
+    "options": [
+      "Medication",
+      "Alcohol withdrawal",
+      "Hypoxia",
+      "Infection"
+    ],
+    "correct_index": 3,
+    "explanation": "Urinary and respiratory infections dominate in the elderly. Hypoxia, electrolyte disturbance, drugs (especially anticholinergics), alcohol and sedative withdrawal, retention and constipation complete the list.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (most common cause of delirium — infection), 2020 NEET-PG (delirium is caused by hypoxia, alcohol withdrawal, barbiturates)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_094",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The drug of choice for agitation in delirium is",
+    "options": [
+      "An anticholinergic",
+      "A benzodiazepine in all cases",
+      "Haloperidol in low dose",
+      "An SSRI"
+    ],
+    "correct_index": 2,
+    "explanation": "Treating the underlying cause comes first, with environmental measures. The exception is **withdrawal delirium**, where a benzodiazepine is the correct drug; benzodiazepines otherwise worsen delirium.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (treatment of delirium — haloperidol)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_095",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The Confusion Assessment Method is used to detect",
+    "options": [
+      "Dementia",
+      "Delirium",
+      "Depression",
+      "Schizophrenia"
+    ],
+    "correct_index": 1,
+    "explanation": "It assesses acute onset with fluctuation, inattention, disorganised thinking and altered consciousness. Delirium is under-recognised in hospital, which is why a structured tool is used.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (confusion assessment method is used in delirium, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_096",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The commonest cause of dementia in adults is",
+    "options": [
+      "Vascular dementia",
+      "Alzheimer disease",
+      "Lewy body dementia",
+      "Frontotemporal dementia"
+    ],
+    "correct_index": 1,
+    "explanation": "Vascular dementia is next, and mixed pathology is common. Lewy body dementia brings visual hallucinations with antipsychotic sensitivity, and frontotemporal dementia presents with personality change at a younger age.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (most common cause of dementia in adults — Alzheimer's disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_097",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Reversible causes of dementia include",
+    "options": [
+      "Lewy body dementia",
+      "Alzheimer disease",
+      "Hypothyroidism, normal pressure hydrocephalus and neuroinfection",
+      "Huntington disease"
+    ],
+    "correct_index": 2,
+    "explanation": "Vitamin B12 and thiamine deficiency, neurosyphilis, HIV, subdural haematoma, depression (pseudodementia) and drugs complete the treatable list — which is why every new dementia is screened for them.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (reversible causes of dementia — hypothyroidism, NPH, meningoencephalitis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_098",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Examples of subcortical dementia include",
+    "options": [
+      "Normal pressure hydrocephalus",
+      "Alzheimer disease and frontotemporal dementia",
+      "Vascular dementia only",
+      "Parkinson, Wilson and Huntington disease"
+    ],
+    "correct_index": 3,
+    "explanation": "Subcortical dementia gives psychomotor slowing, apathy, executive dysfunction and movement disorder with **relatively preserved language and recognition**. Cortical dementia instead brings aphasia, apraxia, agnosia and amnesia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG (examples of subcortical dementia — Parkinson, Wilson, Huntington, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_099",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "A patient with Alzheimer disease cannot take oral medication. The cholinesterase inhibitor available as a transdermal patch is",
+    "options": [
+      "Galantamine",
+      "Donepezil",
+      "Rivastigmine",
+      "Memantine"
+    ],
+    "correct_index": 2,
+    "explanation": "It inhibits both acetylcholinesterase and butyrylcholinesterase and is available as a patch, which also reduces gastrointestinal side effects. **Memantine** is an NMDA antagonist used in moderate to severe disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Alzheimer patient unable to take oral medication — rivastigmine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_100",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Confabulation is",
+    "options": [
+      "Deliberate lying for gain",
+      "The filling of memory gaps with fabricated material, without intent to deceive",
+      "A fixed false belief",
+      "A perception without a stimulus"
+    ],
+    "correct_index": 1,
+    "explanation": "It is characteristic of Korsakoff psychosis and reflects amnesia rather than dishonesty — the distinction from **malingering**, where fabrication is conscious and purposeful.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (confabulation is filling up gaps in memory by fabrication)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_101",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The test for **immediate** memory is",
+    "options": [
+      "Recall of three objects after 5 minutes",
+      "Digit span or serial subtraction of 7 from 100 over five steps",
+      "Recall of birth date",
+      "Naming the current Prime Minister"
+    ],
+    "correct_index": 1,
+    "explanation": "Immediate memory spans seconds and overlaps with attention. **Recent** memory is tested by recall after a delay and **remote** memory by personal and historical events.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (test for immediate memory — serial 100-7 subtraction up to 5 steps)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_102",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Semantic memory includes",
+    "options": [
+      "Motor skills",
+      "Autobiographical events",
+      "Words, rules and language — general knowledge independent of personal context",
+      "Immediate digit recall"
+    ],
+    "correct_index": 2,
+    "explanation": "**Episodic** memory holds personal events, and **procedural** memory holds skills. Semantic and episodic memory are declarative; procedural memory is non-declarative and is spared in amnestic syndromes.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (semantic memory includes words, rules, language, not events, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_103",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "The Mini-Mental State Examination assesses",
+    "options": [
+      "Personality traits",
+      "Mood and affect only",
+      "Insight and judgement only",
+      "Orientation, registration, attention, recall, language and visuospatial construction, out of a total of 30"
+    ],
+    "correct_index": 3,
+    "explanation": "A score below about 24 suggests cognitive impairment, adjusted for education. It is a **cognitive** screen and does not assess mood, which is the point of the recorded distractors.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (MMSE includes mood and affect, speech and language, cognition, 3X), 2019 NEET-PG (total score in MMSE — 30)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_104",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Delusions can occur in",
+    "options": [
+      "Neurotic disorders",
+      "Schizophrenia only",
+      "Schizophrenia, delirium and alcohol withdrawal",
+      "Personality disorders"
+    ],
+    "correct_index": 2,
+    "explanation": "Delusions are not diagnosis-specific: they occur in organic states, substance-induced psychosis, mood disorders with psychotic features and dementia. The **content** and course help identify the cause.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (delusion is seen in schizophrenia, delirium, alcohol withdrawal)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_105",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "La belle indifférence refers to",
+    "options": [
+      "Elevated mood in mania",
+      "A striking lack of concern about a disabling neurological symptom, seen in conversion disorder",
+      "Flat affect in schizophrenia",
+      "Anhedonia in depression"
+    ],
+    "correct_index": 1,
+    "explanation": "It is suggestive but not diagnostic, as some patients with organic disease also appear unconcerned. Note that the source file files this under organic mental disorders, where it does not belong.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (la belle indifference is seen in conversion disorder), 2019 NEET-PG (la belle indifference is a feature of conversion disorder, 5X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_106",
+    "subject": "Psychiatry",
+    "sub_topic": "Organic",
+    "stem": "Match the treatments: delirium tremens, smoking cessation, opioid maintenance.",
+    "options": [
+      "Varenicline, oxazepam, naltrexone",
+      "Oxazepam, varenicline, buprenorphine",
+      "Haloperidol, bupropion, naloxone",
+      "Disulfiram, nicotine patch, methadone"
+    ],
+    "correct_index": 1,
+    "explanation": "Three different substances, three different pharmacological strategies: benzodiazepine substitution for alcohol, partial nicotinic agonism for tobacco, and partial opioid agonism for opioids.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match drug treatments — delirium tremens oxazepam, smoking cessation varenicline, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_107",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "A delusion is best defined as",
+    "options": [
+      "A misinterpretation of a real stimulus",
+      "A perception without an external stimulus",
+      "A fixed false belief, held with conviction, out of keeping with the person's culture and not amenable to reason",
+      "An unwanted intrusive thought resisted by the patient"
+    ],
+    "correct_index": 2,
+    "explanation": "Cultural context matters: a belief widely shared in the patient's community is not delusional. Option B is a hallucination, C an illusion and D an obsession.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (wife feels her husband is cheating — delusion, 2X), 2019 NEET-PG (hallucination characterised by no external stimulus)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_108",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "A rope seen as a snake in dim light is an example of",
+    "options": [
+      "A pseudohallucination",
+      "A hallucination",
+      "A delusion",
+      "An illusion, a disorder of perception"
+    ],
+    "correct_index": 3,
+    "explanation": "An illusion is the misinterpretation of a **real** external stimulus and occurs in normal people, especially in poor light, fatigue and fear. A hallucination has no stimulus at all.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (rope seen as snake — illusion), 2021 NEET-PG (illusion is a disorder of perception), 2018 NEET-PG (abnormal perception by sensory misinterpretation of actual stimulus — illusion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_109",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Which statement about a pseudohallucination is FALSE?",
+    "options": [
+      "Insight into its unreality is retained",
+      "It is perceived in inner subjective space",
+      "It is not under voluntary control",
+      "It lacks the vividness of a true hallucination"
+    ],
+    "correct_index": 2,
+    "explanation": "Pseudohallucinations are to some degree under voluntary control, arise in inner subjective space and are recognised as unreal. A **true** hallucination is vivid, external and beyond voluntary control.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (all are true about pseudohallucination except — not under voluntary control)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_110",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Loosening of association, or derailment, is an example of",
+    "options": [
+      "A disorder of thought content",
+      "Formal thought disorder",
+      "A disorder of perception",
+      "A disorder of memory"
+    ],
+    "correct_index": 1,
+    "explanation": "Disorders of thought **form** — derailment, tangentiality, word salad, neologism — reflect disorganised thinking in schizophrenia. **Content** disorders are delusions and obsessions.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (loosening of association/derailment — formal thought disorder, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_111",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Inventing new words, such as a patient speaking of \"omnimicro\", is",
+    "options": [
+      "Echolalia",
+      "Neologism, a feature of schizophrenia",
+      "Perseveration",
+      "Circumstantiality"
+    ],
+    "correct_index": 1,
+    "explanation": "A new word or a familiar word used in an idiosyncratic way, with a private meaning. It belongs to formal thought disorder alongside word salad and derailment.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (inventing new words is a feature of schizophrenia), 2018 AIIMS (patient talks about 'omnimicro' — neologism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_112",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Stereotypy is defined as",
+    "options": [
+      "An act performed to relieve an obsession",
+      "Repetitive involuntary movement",
+      "Repetitive, voluntary, non-goal-directed activity",
+      "Imitation of another's movements"
+    ],
+    "correct_index": 2,
+    "explanation": "**Mannerism** is a repetitive goal-directed activity, a compulsion relieves an obsession, and echopraxia is imitation of movements. The voluntary and purposeless qualities define stereotypy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (stereotypy is repetitive voluntary non goal directed activity), 2018 AIIMS (stereotypy definition)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_113",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "A boy says \"I have lost my head, I am dead\". This is",
+    "options": [
+      "Depersonalisation",
+      "A delusion of persecution",
+      "A somatic hallucination",
+      "A nihilistic delusion"
+    ],
+    "correct_index": 3,
+    "explanation": "The extreme form is **Cotard syndrome**, the delusion of being dead or of non-existence, which occurs in severe psychotic depression and in organic brain disease.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (boy saying \"I lost my head, I am dead\" — delusion of nihilism, 2X), 2020 NEET-PG (Cotard syndrome — nihilistic delusion)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_114",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "A patient believes he is the most important person in the world and that others are plotting against him. The delusions are",
+    "options": [
+      "Control and infidelity",
+      "Nihilism and reference",
+      "Grandiosity and persecution",
+      "Guilt and poverty"
+    ],
+    "correct_index": 2,
+    "explanation": "These two commonly coexist, since the grandiose patient explains others' opposition as conspiracy. Both occur in mania with psychotic features and in schizophrenia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (patient believes he is the most important person — delusion of grandiosity and persecution, 2X), 2018 NEET-PG (delusions seen in mania — grandiosity and persecution, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_115",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "\"Lord Hanuman was a celibate, I am celibate, therefore I am Lord Hanuman\" is an example of",
+    "options": [
+      "Circumstantial thinking",
+      "Autistic (dereistic) thinking",
+      "Concrete thinking",
+      "Perseveration"
+    ],
+    "correct_index": 1,
+    "explanation": "Thinking governed by private logic and divorced from reality and shared rules of inference. It is characteristic of schizophrenia and is one of Bleuler's fundamental \"four As\".",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Lord Hanuman was a celibate, I am celibate, therefore I'm Lord Hanuman — autistic thinking)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_116",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Forced thinking describes",
+    "options": [
+      "Thoughts inserted by an outside agency",
+      "Persistent intrusive thoughts that the patient recognises as absurd and resists, without acting on them",
+      "Accelerated speech with rapid topic change",
+      "Complete absence of thought"
+    ],
+    "correct_index": 1,
+    "explanation": "Repeated thoughts of harming oneself or others, recognised as senseless and resisted, are obsessional rather than psychotic. **Thought insertion** is a first-rank symptom with loss of ownership.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (repeated thoughts to cut off her fingers which she does not act on — forced thinking, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_117",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Repetitive irresistible thought is characteristic of",
+    "options": [
+      "Illusion",
+      "Delusion",
+      "Obsession",
+      "Hallucination"
+    ],
+    "correct_index": 2,
+    "explanation": "The three features are intrusiveness, recognition as one's own and resistance with resulting distress. The distinction from delusion is **insight**, which is preserved in obsession.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (repetitive irresistible thought is seen in obsession)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_118",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "The highest level of insight is",
+    "options": [
+      "Awareness of being unwell with external attribution",
+      "Intellectual insight",
+      "Complete denial of illness",
+      "Emotional insight"
+    ],
+    "correct_index": 3,
+    "explanation": "Insight is graded from complete denial, through awareness with external attribution, to intellectual insight, and finally **emotional** insight — where understanding changes behaviour and adherence.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (highest level of insight is emotional insight), 2016 AIIMS (awareness or understanding of a patient of his/her illness — insight)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_119",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Asking \"what would you do if you saw a house on fire?\" tests",
+    "options": [
+      "Abstraction",
+      "Insight",
+      "Judgement",
+      "Immediate memory"
+    ],
+    "correct_index": 2,
+    "explanation": "Judgement is the ability to assess a situation and act appropriately. **Insight** is understanding of one's own illness, and abstraction is tested by proverb interpretation and similarities.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (\"what will you do if you see house on fire\" is a test of judgement)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_120",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "In psychiatric history-taking, personal history does **not** include",
+    "options": [
+      "Birth and early development",
+      "Food preference",
+      "Educational and occupational history",
+      "Marital and sexual history"
+    ],
+    "correct_index": 1,
+    "explanation": "Personal history covers birth and milestones, childhood, education, occupation, marital and sexual history, and substance use. Food preference belongs to the review of habits, not to personal history.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2016 AIIMS (in psychiatry, personal history does not include food preference, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_121",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "The reliability of information given by an informant depends on",
+    "options": [
+      "The informant's own education alone",
+      "The biological relationship, duration of contact, intimacy and observational skill",
+      "The patient's diagnosis",
+      "The informant's age only"
+    ],
+    "correct_index": 1,
+    "explanation": "In psychiatry an informant is essential because insight may be impaired, and the history is formally assessed for reliability rather than accepted uncritically.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (basis of reliability of information provided by informants — biological relationship, observational skills, duration)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_122",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "Match the states of altered consciousness: twilight state, oneiroid state.",
+    "options": [
+      "Fluctuating attention; delirium only",
+      "Complete unresponsiveness; coma",
+      "Impaired consciousness with retained goal-directed activity; dream-like state with preserved orientation",
+      "Mutism with akinesia; stupor"
+    ],
+    "correct_index": 2,
+    "explanation": "A twilight state shows narrowed awareness with apparently purposeful behaviour, as in epileptic automatism. An oneiroid state is a dream-like experience with vivid imagery while orientation is retained.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — twilight impairment in consciousness, oneiroid oneirophrenia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_123",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "The average IQ of a normal child is",
+    "options": [
+      "50 to 70",
+      "70 to 90",
+      "110 to 130",
+      "90 to 110"
+    ],
+    "correct_index": 3,
+    "explanation": "Mild intellectual disability is 50 to 69, moderate 35 to 49, severe 20 to 34 and profound below 20. The modern term is **intellectual disability**, replacing mental retardation.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (average IQ of a normal child — 90–110), 2023 NEET-PG (new name for mental retardation — intellectual disability, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_124",
+    "subject": "Psychiatry",
+    "sub_topic": "General",
+    "stem": "The terms \"father of modern psychiatry\", \"dementia praecox\" and \"psychiatry\" are attributed respectively to",
+    "options": [
+      "Kraepelin, Pinel and Freud",
+      "Freud, Bleuler and Jung",
+      "Pinel, Kraepelin and Johann Reil",
+      "Bleuler, Reil and Pinel"
+    ],
+    "correct_index": 2,
+    "explanation": "Pinel pioneered humane treatment and unchaining of patients. Kraepelin coined dementia praecox, which **Bleuler** later renamed schizophrenia. Reil introduced the word psychiatry.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (father of modern psychiatry — Pinel), 2018 NEET-PG (term dementia precox coined by Kraepelin), 2018 NEET-PG (term psychiatry given by Johann Reil)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_125",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "The correct ascending sequence of Maslow's hierarchy of needs is",
+    "options": [
+      "Safety, physiological, esteem, belonging, self-actualisation",
+      "Physiological, safety, belonging, esteem, self-actualisation",
+      "Belonging, safety, physiological, self-actualisation, esteem",
+      "Esteem, belonging, safety, physiological, self-actualisation"
+    ],
+    "correct_index": 1,
+    "explanation": "Lower needs must be substantially met before higher ones motivate behaviour. It underpins much of health-promotion and motivational practice.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (sequence in Maslow's hierarchy of needs, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_126",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "The term \"id\" was coined by",
+    "options": [
+      "Jung",
+      "Freud",
+      "Adler",
+      "Pavlov"
+    ],
+    "correct_index": 1,
+    "explanation": "The id is the unconscious reservoir of instinctual drives operating on the pleasure principle; the ego mediates with reality and the superego embodies conscience. All three are Freudian structural concepts.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (term 'id' coined by Freud)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_127",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "The Oedipus complex is described in which psychosexual stage?",
+    "options": [
+      "Anal",
+      "Oral",
+      "Phallic",
+      "Latency"
+    ],
+    "correct_index": 2,
+    "explanation": "Freud's stages run oral (0–1 year), anal (1–3), phallic (3–6), latency (6–12) and genital (12 onwards). The Oedipus and Electra complexes and superego formation belong to the phallic stage.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Oedipus complex is seen in phallic stage)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_128",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Freud's theory of dream work includes all EXCEPT",
+    "options": [
+      "Symbolism",
+      "Condensation",
+      "Displacement",
+      "Correlation"
+    ],
+    "correct_index": 3,
+    "explanation": "Dream work comprises condensation, displacement, symbolism, projection and secondary elaboration, transforming latent content into manifest content. Freud called dreams \"the royal road to the unconscious\".",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Freud theory of dream does not include correlation), 2018 AIIMS (Freud's theory of dream includes condensation, displacement, symbolism, projection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_129",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Repressed material can be brought into consciousness by",
+    "options": [
+      "Token economy",
+      "Systematic desensitisation",
+      "Dream analysis, hypnosis and free association",
+      "Aversion therapy"
+    ],
+    "correct_index": 2,
+    "explanation": "These are the techniques of psychoanalysis, aimed at making the unconscious conscious. Options B, C and D are behavioural techniques that work on observable behaviour rather than unconscious content.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (repressed information can be brought into conscious mind by dream, hypnosis, somatic stimulation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_130",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Abreaction is",
+    "options": [
+      "The therapist developing feelings for the patient",
+      "The expression and discharge of previously repressed emotion",
+      "The patient transferring feelings onto the therapist",
+      "Reverting to an earlier developmental stage"
+    ],
+    "correct_index": 1,
+    "explanation": "Its therapeutic release is called catharsis. Option B is counter-transference, C is transference and D is regression — all four are commonly confused and all four are examined.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (expression of previously repressed emotions — abreaction)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_131",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "A therapist developing emotional feelings towards the patient is",
+    "options": [
+      "Identification",
+      "Transference",
+      "Projection",
+      "Counter-transference"
+    ],
+    "correct_index": 3,
+    "explanation": "Recognising it is essential to maintaining boundaries, and it is a standard focus of supervision. **Transference** is the patient's displacement of feelings from past figures onto the therapist.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (therapist developing feelings towards patient — counter transference)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_132",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "The defence mechanisms characteristically used in obsessive-compulsive disorder are",
+    "options": [
+      "Sublimation and humour",
+      "Projection and denial",
+      "Splitting and acting out",
+      "Repression, reaction formation and isolation of affect"
+    ],
+    "correct_index": 3,
+    "explanation": "Undoing is the fourth. Projection and denial are psychotic-level defences, splitting characterises borderline personality, and sublimation and humour are mature defences.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (match statements in OCD patient — repression and reaction formation are defence mechanisms, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_133",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Pavlov's dog experiment demonstrated",
+    "options": [
+      "Insight learning",
+      "Operant conditioning",
+      "Social learning",
+      "Classical conditioning"
+    ],
+    "correct_index": 3,
+    "explanation": "A neutral stimulus paired with an unconditioned stimulus comes to elicit the response. **Operant** conditioning, described by Skinner, works through reinforcement of voluntary behaviour after the act.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (Pavlov experiment is related to classical conditioning)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_134",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Systematic desensitisation is a form of",
+    "options": [
+      "Supportive psychotherapy",
+      "Psychoanalysis",
+      "Cognitive therapy",
+      "Behaviour therapy"
+    ],
+    "correct_index": 3,
+    "explanation": "Graded exposure is combined with relaxation so that anxiety is progressively extinguished. **Flooding** is the related technique using immediate full-intensity exposure without graded steps.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (desensitisation is a type of behavioural therapy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_135",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "The therapy in which both patient and therapist participate actively, exploring unconscious conflict, is",
+    "options": [
+      "Behaviour therapy",
+      "Supportive psychotherapy",
+      "Classical psychoanalysis with the therapist silent",
+      "Analytical psychotherapy"
+    ],
+    "correct_index": 3,
+    "explanation": "It is less intensive than classical psychoanalysis, where the analyst remains largely neutral, and shorter in duration, with the therapist taking a more active interpretive role.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (patient and psychiatrist both participate actively in analytical psychotherapy)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_136",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "Supportive psychotherapy is **least** useful for",
+    "options": [
+      "A patient with limited ego strength",
+      "A patient with chronic schizophrenia",
+      "A patient in acute crisis",
+      "A well-motivated person who is not in distress and seeks insight"
+    ],
+    "correct_index": 3,
+    "explanation": "Supportive therapy aims to strengthen existing defences and maintain function, so it suits those with limited ego strength or in crisis. A motivated patient seeking insight is better served by insight-oriented therapy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (supportive psychotherapy is not useful for a well motivated person who is not frustrated)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_137",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "A smoker who is concerned about the risks but continues to smoke, telling himself that his grandfather smoked and lived to ninety, is using",
+    "options": [
+      "Reaction formation",
+      "Projection",
+      "Sublimation",
+      "Self-exemption"
+    ],
+    "correct_index": 3,
+    "explanation": "Self-exempting beliefs let a smoker accept the general risk while excluding himself from it. They are a recognised barrier to cessation and a target of motivational interviewing.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (smoker worried about side effects but does not stop — self exemption, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_138",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychology",
+    "stem": "A person who is thinking about quitting smoking but has not decided is in which stage of change?",
+    "options": [
+      "Action",
+      "Precontemplation",
+      "Preparation",
+      "Contemplation"
+    ],
+    "correct_index": 3,
+    "explanation": "The transtheoretical model runs precontemplation, contemplation, preparation, action, maintenance and relapse. Matching the intervention to the stage is the practical point of the model.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — a person who thinks of quitting smoking but is not sure: contemplation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_139",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "A fast EEG with eye movements on electro-oculogram and absent muscle tone on electromyogram indicates",
+    "options": [
+      "Wakefulness",
+      "Stage 2 NREM sleep",
+      "Slow wave sleep",
+      "REM sleep"
+    ],
+    "correct_index": 3,
+    "explanation": "The paradox is a desynchronised \"awake-looking\" EEG with atonia. Dreaming, penile tumescence and raised blood pressure occur in REM sleep, and most of it falls in the later half of the night.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (fast EEG, EOG showing muscular activity, EMG showing no activity — REM sleep, 4X), 2018 NEET-PG (REM sleep — dream, loss of muscle tone, increased BP)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_140",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Which statement about REM sleep is FALSE?",
+    "options": [
+      "Its proportion increases towards morning",
+      "It is associated with dreaming",
+      "Skeletal muscle tone is lost",
+      "REM sleep occurs earlier than NREM sleep in the sleep cycle"
+    ],
+    "correct_index": 3,
+    "explanation": "Normal sleep **begins** with NREM, and the first REM period follows about 90 minutes later. A shortened REM latency is abnormal and is seen in depression and narcolepsy.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (false about REM sleep — REM occurs earlier than NREM, **7X repeated**)",
+    "repeats": 7,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_141",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Polysomnography includes all EXCEPT",
+    "options": [
+      "Pulse oximetry",
+      "EEG",
+      "Electro-oculogram",
+      "Intra-arterial oxygen measurement"
+    ],
+    "correct_index": 3,
+    "explanation": "Polysomnography is non-invasive: EEG, EOG, EMG, airflow, respiratory effort, pulse oximetry and ECG. Arterial puncture has no place in a sleep study.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (polysomnography includes EEG, EOG, pulse oximetry, not intra-arterial O₂, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_142",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Narcolepsy is characterised by",
+    "options": [
+      "Sleepwalking in the first third of the night",
+      "Prolonged REM latency with no daytime sleepiness",
+      "Snoring with apnoeic episodes",
+      "Sudden irresistible sleep attacks, cataplexy, hypnagogic hallucinations and reduced REM latency"
+    ],
+    "correct_index": 3,
+    "explanation": "Sleep paralysis completes the tetrad. It is due to loss of **hypothalamic** orexin (hypocretin) neurones, usually begins in the first or second decade, and is treated with modafinil.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (true about narcolepsy — sudden sleep, decreased REM latency, cataplexy, 2X), 2021 NEET-PG (narcolepsy is due to abnormality in hypothalamus), 2016 AIIMS (narcolepsy starts in 1st and 2nd decade — true)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_143",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "The treatment of choice for narcolepsy is",
+    "options": [
+      "Melatonin",
+      "A benzodiazepine",
+      "An SSRI alone",
+      "Modafinil"
+    ],
+    "correct_index": 3,
+    "explanation": "It promotes wakefulness with less abuse potential than amphetamines. **Cataplexy** is treated separately with an SSRI, SNRI or sodium oxybate, so the two components need different drugs.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (treatment of narcolepsy includes modafinil, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_144",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "A patient wakes at night screaming and sweating but has no recollection of the episode. This is",
+    "options": [
+      "A panic attack",
+      "A nightmare, occurring in REM sleep",
+      "Sleep paralysis",
+      "Night terror, occurring in NREM sleep"
+    ],
+    "correct_index": 3,
+    "explanation": "Night terrors arise from deep slow-wave sleep in the first third of the night, with autonomic arousal and **amnesia** for the event. A nightmare occurs in REM sleep late at night and **is** recalled.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (patient wakes at night sweating but doesn't remember the episode — night terror)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_145",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Which statement about somnambulism is FALSE?",
+    "options": [
+      "It is commoner in children",
+      "It arises from NREM slow-wave sleep",
+      "There is amnesia for the episode",
+      "Consciousness is preserved during the episode"
+    ],
+    "correct_index": 3,
+    "explanation": "Sleepwalking is a NREM parasomnia with impaired consciousness and subsequent amnesia. Safety measures are the priority, and most children outgrow it.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (false about somnambulism — patient consciousness is preserved), 2017 AIIMS (consciousness is preserved in somnambulism — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_146",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Bruxism is",
+    "options": [
+      "Rhythmic head banging",
+      "Bed wetting",
+      "Sleepwalking",
+      "Teeth grinding during sleep"
+    ],
+    "correct_index": 3,
+    "explanation": "It can cause dental wear, jaw pain and headache. A mouth guard is the usual management. It is one of the NREM parasomnias, with somnambulism, night terrors and sleep enuresis.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (bruxism is teeth grinding during sleep)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_147",
+    "subject": "Psychiatry",
+    "sub_topic": "Sleep",
+    "stem": "Alpha waves on EEG indicate",
+    "options": [
+      "Active mental arithmetic",
+      "Deep slow-wave sleep",
+      "REM sleep",
+      "A relaxed awake state with the eyes closed"
+    ],
+    "correct_index": 3,
+    "explanation": "Alpha is 8 to 13 Hz and is blocked by eye opening or mental effort. Beta accompanies alert activity, theta drowsiness and light sleep, and delta deep slow-wave sleep.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (EEG wave seen in normal wake patient with closed eyes — alpha waves), 2019 NEET-PG (alpha waves indicate eyes closed with active mind)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_148",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "Which is NOT a feature of personality disorder?",
+    "options": [
+      "Impairment in functioning or distress to others",
+      "Onset in adolescence or early adulthood",
+      "Pervasive and inflexible traits across situations",
+      "Ego-dystonia"
+    ],
+    "correct_index": 3,
+    "explanation": "Personality disorder is **ego-syntonic** — the traits feel natural and the person rarely seeks help for them. Ego-dystonia characterises obsessional symptoms, which is the contrast being tested.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (not a feature of personality disorder — ego dystonia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_149",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "A shy, emotionally cold man who shuns close relationships and is introspective has",
+    "options": [
+      "Antisocial personality disorder",
+      "Schizotypal personality disorder",
+      "Avoidant personality disorder",
+      "Schizoid personality disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "Schizoid individuals **do not desire** relationships, whereas **avoidant** individuals desire them but fear rejection — the discriminator. Schizotypal personality adds odd beliefs and perceptual distortions.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (shy, emotionally cold, shunning close relationships — schizoid personality, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_150",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "Schizotypal personality disorder belongs to which cluster?",
+    "options": [
+      "It is not a personality disorder",
+      "Cluster B, the dramatic group",
+      "Cluster C, the anxious group",
+      "Cluster A, the odd and eccentric group"
+    ],
+    "correct_index": 3,
+    "explanation": "Cluster A comprises paranoid, schizoid and schizotypal. Cluster B is antisocial, borderline, histrionic and narcissistic. Cluster C is avoidant, dependent and obsessive-compulsive (anankastic).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (schizotypal personality is cluster A personality)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_151",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "A markedly suspicious person who persistently misinterprets others' motives as hostile has",
+    "options": [
+      "Antisocial personality disorder",
+      "Delusional disorder",
+      "Schizophrenia",
+      "Paranoid personality disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "It is a pervasive lifelong trait of distrust without frank delusions. **Delusional disorder** involves fixed false beliefs held with conviction, which is the threshold distinction.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (markedly suspicious personality — paranoid, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_152",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "A girl who is verbally abusive to some nurses and charming to others, with unstable relationships and self-harm, has",
+    "options": [
+      "Antisocial personality disorder",
+      "Histrionic personality disorder",
+      "Narcissistic personality disorder",
+      "Borderline personality disorder, using splitting"
+    ],
+    "correct_index": 3,
+    "explanation": "Splitting divides people into all-good and all-bad. Affective instability, fear of abandonment, identity disturbance, impulsivity and recurrent self-harm complete the picture.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (girl talks badly with nurses but behaves well with others — borderline personality), 2019 NEET-PG (borderline personality — unstable interpersonal relationships)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_153",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "The most effective treatment for borderline personality disorder is",
+    "options": [
+      "Electroconvulsive therapy",
+      "Long-term antipsychotics",
+      "Antidepressant monotherapy",
+      "Dialectical behaviour therapy, a structured behavioural psychotherapy"
+    ],
+    "correct_index": 3,
+    "explanation": "Psychotherapy is the primary treatment; medication targets only specific comorbid symptoms. Mentalisation-based therapy is the other evidence-based approach.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (most effective treatment in borderline personality disorder — behavioural therapy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_154",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "Grandiosity with a need for constant admiration and lack of empathy describes",
+    "options": [
+      "Borderline personality disorder",
+      "Histrionic personality disorder",
+      "Antisocial personality disorder",
+      "Narcissistic personality disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "Entitlement, exploitation of others and envy accompany it, with fragile self-esteem beneath. **Histrionic** personality seeks attention through emotionality and seductiveness rather than admiration of superiority.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (grandiosity and requiring constant admiration — narcissistic personality)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_155",
+    "subject": "Psychiatry",
+    "sub_topic": "Personality",
+    "stem": "Persistent violation of social rules with deceitfulness, impulsivity and lack of remorse describes",
+    "options": [
+      "Anankastic personality disorder",
+      "Narcissistic personality disorder",
+      "Schizoid personality disorder",
+      "Antisocial (dissocial) personality disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "It requires evidence of **conduct disorder before age 15**, so childhood conduct disorder is its developmental precursor. A low resting heart rate is the biological marker described in boys.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (violation of rules of society — antisocial personality), 2017 AIIMS (children with conduct disorder later develop antisocial personality), 2017 AIIMS (biological marker for antisocial behaviour in boys — recorded as \"low feeble pulse\", meaning low resting heart rate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_156",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "Minimal brain dysfunction is an older name for",
+    "options": [
+      "Conduct disorder",
+      "Autism spectrum disorder",
+      "Intellectual disability",
+      "Attention deficit hyperactivity disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "Hyperkinetic disorder is the ICD term. The triad is inattention, hyperactivity and impulsivity, present before age 12, in more than one setting, with functional impairment.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (minimal brain dysfunction is another name for ADHD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_157",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "The safest and most effective drug for a child with ADHD is",
+    "options": [
+      "Methylphenidate",
+      "Haloperidol",
+      "Risperidone",
+      "Fluoxetine"
+    ],
+    "correct_index": 0,
+    "explanation": "Stimulants are first line and paradoxically calming in ADHD. **Atomoxetine** is the non-stimulant alternative, useful where there is tic disorder or substance misuse risk. Appetite suppression and growth monitoring are needed.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (safest and most effective drug for children with ADHD — methylphenidate), 2022 NEET-PG (stimulant drug is given for treatment of ADHD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_158",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "Which is NOT used to improve attention deficit?",
+    "options": [
+      "Flooding",
+      "Methylphenidate",
+      "Atomoxetine",
+      "Behavioural parent training"
+    ],
+    "correct_index": 0,
+    "explanation": "Flooding is an exposure technique for phobic anxiety and has no role in ADHD. Behavioural management with parent training and classroom strategies complements medication.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (not used for improving attention deficit — flooding)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_159",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "An SNRI that has been used in ADHD is",
+    "options": [
+      "Reboxetine",
+      "Fluoxetine",
+      "Sertraline",
+      "Trazodone"
+    ],
+    "correct_index": 0,
+    "explanation": "Noradrenergic transmission in the prefrontal cortex underlies attention, which is why selective noradrenaline reuptake inhibitors such as reboxetine and atomoxetine work, while SSRIs do not.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (SNRI used in treatment of ADHD — reboxetine)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_160",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "A child with pervasive developmental disorder shows",
+    "options": [
+      "Stereotypy, reduced social interaction and poor language development",
+      "Hyperactivity with normal social reciprocity",
+      "Normal language with isolated motor delay",
+      "Acute onset after age 10"
+    ],
+    "correct_index": 0,
+    "explanation": "Autism spectrum disorder is the current term, defined by deficits in social communication plus restricted repetitive behaviour, with onset in early childhood.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (child with pervasive developmental disorder — stereotypy, reduced social interaction, 2X), 2020 INI-CET / 2018 NEET-PG (autism spectrum disorder — abnormalities in communication and socialising, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_161",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "A child with selective mutism most likely has",
+    "options": [
+      "A childhood anxiety disorder",
+      "Autism spectrum disorder",
+      "Intellectual disability",
+      "Oppositional defiant disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "The child speaks normally in some settings, usually at home, but not in others such as school. It is now classified with the anxiety disorders, and treatment is behavioural with an SSRI if severe.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (child with selective mutism — childhood anxiety disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_162",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "If oppositional defiant disorder goes untreated into adolescence, the child may develop",
+    "options": [
+      "Conduct disorder",
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Autism"
+    ],
+    "correct_index": 0,
+    "explanation": "The developmental sequence runs ODD, then conduct disorder, then antisocial personality disorder in adulthood. Conduct disorder involves aggression, destruction, deceit and serious rule violation.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (if child with ODD goes untreated into adolescence, he may develop conduct disorder), 2017 AIIMS (conduct disorder — running away from home, involvement with law)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_163",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "A child has excessive blinking and grunting that he cannot control. The diagnosis and drug of choice are",
+    "options": [
+      "Tourette syndrome, a tic disorder; risperidone or haloperidol",
+      "Absence epilepsy; valproate",
+      "OCD; an SSRI",
+      "Chorea; penicillin"
+    ],
+    "correct_index": 0,
+    "explanation": "It requires both motor and vocal tics for more than a year, with onset before 18. Tics are briefly suppressible and worsen with stress. ADHD and OCD are frequent comorbidities.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2015 AIIMS (abnormal excessive blinking and grunting — risperidone for Tourette syndrome, 2X), 2021 NEET-PG (Tourette syndrome is a type of tic disorder, 2X), 2019 NEET-PG (drug of choice for Tourette syndrome — haloperidol)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_164",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "A 7-year-old has bed wetting for a year with organic causes excluded. The first-line behavioural treatment is",
+    "options": [
+      "A bell-and-pad alarm, working by classical conditioning",
+      "Imipramine as first line",
+      "Desmopressin as first line",
+      "No treatment at any age"
+    ],
+    "correct_index": 0,
+    "explanation": "Alarm therapy has the best long-term cure rate. Voiding before sleep, fluid restriction in the evening and a star chart support it, with imipramine or desmopressin reserved for failures.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (7-year-old with bed wetting — bell and pad based classical conditioning), 2018 NEET-PG (treatment of nocturnal enuresis — alarm, void before sleep, imipramine, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_165",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "A 3-year-old girl has regression of skills, hand-wringing stereotypies and microcephaly. The diagnosis is",
+    "options": [
+      "Rett syndrome, which occurs almost exclusively in girls",
+      "Autism in a boy",
+      "ADHD",
+      "Intellectual disability alone"
+    ],
+    "correct_index": 0,
+    "explanation": "It is an X-linked dominant *MECP2* disorder, usually lethal in males. Normal early development is followed by regression with loss of purposeful hand use, deceleration of head growth and seizures.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Rett syndrome is most commonly seen in females — true), 2016 AIIMS (3-year-old girl with involuntary movements, hand wringing, microcephaly — Rett syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_166",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "Which does NOT cause neuroregression in a child?",
+    "options": [
+      "ADHD",
+      "Rett syndrome",
+      "Subacute sclerosing panencephalitis",
+      "Metabolic storage disease"
+    ],
+    "correct_index": 0,
+    "explanation": "ADHD is a disorder of attention and activity with **no loss** of previously acquired skills. Regression always demands investigation for a degenerative, metabolic or infective cause.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (which does not cause neuroregression in a child — ADHD)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_167",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "Premature ejaculation is a disorder of which phase of the sexual response cycle?",
+    "options": [
+      "Orgasm",
+      "Desire",
+      "Excitement",
+      "Resolution"
+    ],
+    "correct_index": 0,
+    "explanation": "Masters and Johnson described excitement, plateau, orgasm and resolution, with desire added later. **Squeeze and stop-start techniques** are the behavioural treatments, with SSRIs or topical anaesthetics as pharmacotherapy.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (premature ejaculation is a defect in orgasm phase), 2018 NEET-PG / 2017 AIIMS (squeeze therapy is used in premature ejaculation, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_168",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "Psychogenic erectile dysfunction is distinguished from organic by",
+    "options": [
+      "Preserved nocturnal penile tumescence",
+      "Absent morning erections",
+      "Gradual onset over years",
+      "Loss of libido only"
+    ],
+    "correct_index": 0,
+    "explanation": "Normal sleep-related erections show the vascular and neurological apparatus is intact. Sudden onset, situational variation and preserved morning erections all favour a psychogenic cause.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (how to differentiate psychological from organic erectile dysfunction — nocturnal penile tumescence)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_169",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "Paraphilias include",
+    "options": [
+      "Masochism, exhibitionism and frotteurism",
+      "Premature ejaculation",
+      "Erectile dysfunction",
+      "Hypoactive sexual desire"
+    ],
+    "correct_index": 0,
+    "explanation": "Voyeurism, fetishism, paedophilia and sadism complete the group. They are disorders of sexual **preference**, whereas options B, C and D are disorders of sexual **function** — the distinction examined.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (paraphilias include masochism, exhibitionism, frotteurism), 2022 NEET-PG (showing body parts in public — exhibitionism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_170",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "Sexual arousal derived from inanimate objects is",
+    "options": [
+      "Fetishism",
+      "Frotteurism",
+      "Voyeurism",
+      "Transvestic disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "**Transvestic** disorder is arousal from cross-dressing, frotteurism from rubbing against a non-consenting person, and voyeurism from watching others undressed. All are paraphilic disorders when they cause distress or harm.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (sexual stimulation by inanimate objects — fetishism), 2022 NEET-PG (a person wants to dress as opposite sex — transvestic fetishism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_171",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "A man who feels he is \"a woman trapped in a man's body\" has",
+    "options": [
+      "Gender identity disorder (gender dysphoria)",
+      "Transvestic disorder",
+      "Homosexuality",
+      "Delusional disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "Gender identity is distinct from sexual orientation and from cross-dressing for arousal. Management is multidisciplinary, and **sex reassignment surgery** is undertaken after prolonged assessment and real-life experience.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (male having feeling of \"women trapped in men's body\" — gender identity disorder, 2X), 2021 NEET-PG (sex reassignment surgery is done in gender identity disorder)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_172",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "An irresistible urge to eat large amounts followed by self-induced vomiting, with a normal body weight, is",
+    "options": [
+      "Bulimia nervosa",
+      "Anorexia nervosa",
+      "Binge eating disorder",
+      "Rumination disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "Normal weight with compensatory purging distinguishes it. Russell sign (knuckle calluses), dental erosion, parotid swelling and hypokalaemic alkalosis are the physical clues.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (irresistible urge to eat followed by vomiting — bulimia nervosa), 2021 NEET-PG (eating disorder with normal weight — bulimia nervosa, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_173",
+    "subject": "Psychiatry",
+    "sub_topic": "Sexual",
+    "stem": "The SCOFF questionnaire is used to screen for",
+    "options": [
+      "Eating disorders",
+      "Alcohol dependence",
+      "Delirium",
+      "Depression"
+    ],
+    "correct_index": 0,
+    "explanation": "Five questions on vomiting, loss of control, weight loss, body image and food dominance; two or more positives warrant assessment. **Binge eating disorder** lacks compensatory behaviour and is associated with obesity.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (SCOFF protocol is used for assessing eating disorders), 2021 NEET-PG (binge eating disorder is characterised by obesity), 2018 NEET-PG (false about anorexia nervosa — not seen in males)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_174",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "Under the Mental Healthcare Act, the maximum period of voluntary (independent) admission permitted at a time is",
+    "options": [
+      "30 days",
+      "7 days",
+      "90 days",
+      "1 year"
+    ],
+    "correct_index": 0,
+    "explanation": "An independent patient may leave at any time. Supported admission has its own time limits and review by the Mental Health Review Board. Statutory provisions change, so verify against the current Act.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (maximum duration for which voluntary admission is allowed — 30 days)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_175",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "The provision allowing a person with mental illness to state in advance how they wish to be treated is",
+    "options": [
+      "An advance directive",
+      "A nominated representative order",
+      "Supported admission",
+      "Guardianship"
+    ],
+    "correct_index": 0,
+    "explanation": "The Mental Healthcare Act 2017 introduced advance directives and nominated representatives, and decriminalised attempted suicide — a shift from custodial to rights-based care.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (what provision can a mental patient have that gives him the right — advance directive)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_176",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "The WHO mhGAP programme does **not** include which disorder among its priority conditions?",
+    "options": [
+      "Obsessive-compulsive disorder",
+      "Depression",
+      "Psychosis",
+      "Substance use disorders"
+    ],
+    "correct_index": 0,
+    "explanation": "mhGAP targets depression, psychosis, epilepsy, child and adolescent disorders, dementia, substance use, self-harm and suicide — conditions chosen for burden and the feasibility of non-specialist care.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (WHO programme mhGAP does not include OCD), 2018 AIIMS (mhGAP protocol does not include family screening)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_177",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "Dhat syndrome is characterised by",
+    "options": [
+      "A culture-bound preoccupation with semen loss in the urine, with fatigue and weakness",
+      "A belief that the penis is shrinking and will disappear",
+      "Sudden mass hysteria",
+      "A running amok state"
+    ],
+    "correct_index": 0,
+    "explanation": "It is reported from the Indian subcontinent and is managed with explanation, reassurance and treatment of comorbid depression or anxiety. **Koro** is the fear of genital retraction and disappearance.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (Dhat syndrome is passage of semen in urine), 2020 NEET-PG (penis is decreasing in size and will disappear — Koro syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_178",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "Physician burnout is characterised by",
+    "options": [
+      "Emotional exhaustion with depersonalisation and a reduced sense of accomplishment",
+      "Delusional beliefs about work",
+      "Sudden onset over hours",
+      "Improvement with increased workload"
+    ],
+    "correct_index": 0,
+    "explanation": "These are the three Maslach dimensions. Burnout is an occupational phenomenon rather than a psychiatric diagnosis, and it presents with psychosomatic symptoms and cynicism towards patients.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match with respect to physician's mental health — burnout with psychosomatic symptoms like exhaustion, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_179",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "Brain mapping, as a forensic investigation, is based on",
+    "options": [
+      "Detecting an electrophysiological response indicating that the suspect recognises crime-related information",
+      "Measuring autonomic arousal to questions",
+      "Inducing a hypnotic state for recall",
+      "Measuring serum catecholamines"
+    ],
+    "correct_index": 0,
+    "explanation": "It relies on event-related potentials to familiar stimuli. Option B describes polygraphy and C narcoanalysis; all three have contested reliability and limited admissibility as evidence.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (test based on the principle of a suspect's reaction if he witnessed the crime — brain mapping)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_180",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A patient on haloperidol develops fever, lead-pipe rigidity, autonomic instability and a creatine kinase of 4,000 U/L. The diagnosis and treatment are",
+    "options": [
+      "Neuroleptic malignant syndrome; stop the antipsychotic, cool, hydrate and give bromocriptine or dantrolene",
+      "Serotonin syndrome; cyproheptadine",
+      "Malignant hyperthermia; dantrolene alone",
+      "Acute dystonia; promethazine"
+    ],
+    "correct_index": 0,
+    "explanation": "It develops over days with **hyporeflexia and rigidity**, whereas serotonin syndrome develops over hours with **hyperreflexia, clonus and diarrhoea**. Rhabdomyolysis with renal failure is the main complication.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute dystonia with haloperidol), 2020 INI-CET (akathisia on haloperidol)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_181",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient on an SSRI given tramadol develops agitation, hyperreflexia, clonus, diarrhoea and hyperthermia. The treatment is",
+    "options": [
+      "Stop the serotonergic drugs and give cyproheptadine with supportive care",
+      "Bromocriptine",
+      "Physostigmine",
+      "Flumazenil"
+    ],
+    "correct_index": 0,
+    "explanation": "Serotonin syndrome is the triad of neuromuscular excitation, autonomic instability and altered mental state. Tramadol, linezolid, triptans, MAOIs and St John's wort are the common co-prescriptions responsible.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (tramadol acts by 5-HT and NE reuptake inhibition), 2023 NEET-PG (5-HT in depression, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_182",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Tardive dyskinesia differs from acute dystonia in that it",
+    "options": [
+      "Appears after months to years of antipsychotic use, often worsens on dose reduction, and may be irreversible",
+      "Appears within hours and responds to anticholinergics",
+      "Is relieved by increasing the antipsychotic dose permanently",
+      "Never occurs with atypical antipsychotics"
+    ],
+    "correct_index": 0,
+    "explanation": "Orofacial choreiform movements predominate. Anticholinergics **worsen** it, unlike acute dystonia. VMAT2 inhibitors such as tetrabenazine are used, and clozapine carries the lowest risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute dystonia with promethazine), 2020 INI-CET (clozapine monitoring)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_183",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "The main indication for clozapine is",
+    "options": [
+      "Schizophrenia that has failed to respond to two adequate trials of other antipsychotics",
+      "First-episode schizophrenia",
+      "Acute mania",
+      "Generalised anxiety disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "It is the only drug with established efficacy in treatment-resistant schizophrenia and also reduces suicidality. Mandatory haematological monitoring is the trade-off for that efficacy.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (clozapine monitored for agranulocytosis), 2024 INI-CET (good prognostic factors in schizophrenia, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_184",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "A long-acting depot antipsychotic injection is used principally to",
+    "options": [
+      "Ensure adherence in a patient who repeatedly relapses after stopping oral medication",
+      "Treat acute agitation",
+      "Reduce the risk of tardive dyskinesia",
+      "Avoid the need for monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "Non-adherence is the commonest cause of relapse in schizophrenia. A test dose of oral medication precedes the depot, and adverse effects persist for weeks once injected.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (maintenance for 12 months after remission, 2X), 2021 INI-CET (psychoeducation for repeated self-discontinuation, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_185",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Risperidone causes galactorrhoea and amenorrhoea because it",
+    "options": [
+      "Blocks D2 receptors in the tuberoinfundibular pathway, raising prolactin",
+      "Stimulates dopamine release",
+      "Blocks oestrogen receptors",
+      "Inhibits prolactin synthesis"
+    ],
+    "correct_index": 0,
+    "explanation": "Dopamine is the physiological inhibitor of prolactin. Risperidone and amisulpride raise prolactin most; aripiprazole, a partial agonist, can lower it. Long-term hyperprolactinaemia risks osteoporosis.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (D2 receptors in schizophrenia, 2X), 2023 INI-CET (risperidone off-label uses)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_186",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Olanzapine and clozapine are most associated with which long-term adverse effect?",
+    "options": [
+      "Metabolic syndrome with weight gain, dyslipidaemia and diabetes",
+      "Extrapyramidal symptoms",
+      "Hyperprolactinaemia",
+      "QT prolongation alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Baseline and periodic weight, waist circumference, glucose and lipid monitoring are required. Aripiprazole, ziprasidone and lurasidone are the metabolically safer atypicals.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (clozapine monitoring), 2023 INI-CET (risperidone off-label use in dementia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_187",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Lithium toxicity with a level of 3.0 mEq/L and altered consciousness is treated by",
+    "options": [
+      "Haemodialysis, with stopping lithium and giving intravenous saline",
+      "Activated charcoal, which binds lithium well",
+      "Forced alkaline diuresis",
+      "Flumazenil"
+    ],
+    "correct_index": 0,
+    "explanation": "Lithium is a small unbound ion, so dialysis clears it efficiently; **activated charcoal does not bind it**. Coarse tremor, ataxia, dysarthria, vomiting and seizures mark severe toxicity.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (therapeutic lithium concentration), 2024 INI-CET (fine tremor at therapeutic lithium levels)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_188",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Abrupt discontinuation of paroxetine causes",
+    "options": [
+      "A discontinuation syndrome with dizziness, paraesthesia, flu-like symptoms and vivid dreams",
+      "No symptoms at all",
+      "Mania in all patients",
+      "Agranulocytosis"
+    ],
+    "correct_index": 0,
+    "explanation": "Short half-life agents such as paroxetine and venlafaxine are worst; fluoxetine's long half-life makes it least affected. It is **not** dependence, and tapering prevents it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (antidepressant with least sexual side effects), 2021 INI-CET (SSRI use in pregnancy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_189",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "A patient on an MAOI who eats aged cheese develops severe headache and hypertension. The mechanism is",
+    "options": [
+      "Tyramine-induced noradrenaline release that cannot be degraded",
+      "Serotonin excess",
+      "Dopamine depletion",
+      "Histamine release"
+    ],
+    "correct_index": 0,
+    "explanation": "The \"cheese reaction\" risks hypertensive crisis and intracranial haemorrhage. Aged cheese, red wine, fermented foods and broad beans are avoided, and phentolamine is used for the crisis.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (TCA versus MAO and SSRI in atypical depression), 2023 NEET-PG (neurotransmitters in depression, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_190",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "In suicide risk assessment, the factor conferring the highest risk is",
+    "options": [
+      "A previous suicide attempt",
+      "Female sex",
+      "Being married",
+      "Religious affiliation"
+    ],
+    "correct_index": 0,
+    "explanation": "It is the single strongest predictor. Male sex, older age, living alone, chronic illness, substance use, a specific plan and access to means add risk; women attempt more often but men complete more often.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (risk factor for suicide — drug abuse), 2019 NEET-PG (suicidal tendencies most commonly seen in severe depression, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_191",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Postpartum psychosis differs from postpartum blues in that it",
+    "options": [
+      "Begins within the first 2 weeks with delusions and disorganisation, and is a psychiatric emergency",
+      "Begins on day 3 and resolves spontaneously",
+      "Never requires admission",
+      "Has no risk to the infant"
+    ],
+    "correct_index": 0,
+    "explanation": "Risk of infanticide and suicide mandates admission. Bipolar disorder is the strongest risk factor. **Blues** affect up to half of women, peak at days 3 to 5 and resolve within 2 weeks.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (mood swings and weeping within 5 days of delivery — postpartum blues)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_192",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Premenstrual dysphoric disorder is distinguished from premenstrual syndrome by",
+    "options": [
+      "Prominent mood symptoms causing functional impairment, confined to the luteal phase and remitting with menses",
+      "Symptoms throughout the cycle",
+      "Absence of mood symptoms",
+      "Onset after menopause"
+    ],
+    "correct_index": 0,
+    "explanation": "Prospective symptom diaries over two cycles confirm the timing. SSRIs, given continuously or only in the luteal phase, are first-line treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (phototherapy in seasonal affective disorder), 2024 INI-CET (ICD-11 depression criteria)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_193",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Normal grief is distinguished from a depressive episode by",
+    "options": [
+      "Preserved self-esteem with waves of sadness focused on the loss, rather than pervasive worthlessness",
+      "The presence of tearfulness",
+      "Sleep disturbance",
+      "Duration beyond 2 weeks"
+    ],
+    "correct_index": 0,
+    "explanation": "Guilt in grief relates to the deceased; in depression it is global. Suicidal ideation, psychomotor retardation and worthlessness suggest depression superimposed on bereavement and warrant treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ICD-11 core criteria of depression), 2020 INI-CET (dysthymia with guilt)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_194",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "Carbamazepine characteristically causes which electrolyte abnormality?",
+    "options": [
+      "Hyponatraemia, by a syndrome of inappropriate antidiuresis",
+      "Hypernatraemia",
+      "Hyperkalaemia",
+      "Hypercalcaemia"
+    ],
+    "correct_index": 0,
+    "explanation": "It also causes agranulocytosis, aplastic anaemia, hepatitis and Stevens–Johnson syndrome, and is a potent **enzyme inducer** that lowers the levels of many co-prescribed drugs, including oral contraceptives.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (valproate causing hyperammonaemia), 2024 INI-CET (lithium monitoring)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_195",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The adverse effect that limits rapid titration of lamotrigine is",
+    "options": [
+      "Severe cutaneous reaction, including Stevens–Johnson syndrome",
+      "Agranulocytosis",
+      "Hyperammonaemia",
+      "Nephrogenic diabetes insipidus"
+    ],
+    "correct_index": 0,
+    "explanation": "Slow dose escalation over weeks substantially reduces the risk, and valproate inhibits its metabolism so the dose must be halved when the two are combined. Lamotrigine is most useful for bipolar **depression**.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (valproate adverse effects), 2024 INI-CET (rapid cycling bipolar disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_196",
+    "subject": "Psychiatry",
+    "sub_topic": "Mood",
+    "stem": "The principal adverse effect of electroconvulsive therapy is",
+    "options": [
+      "Transient anterograde and retrograde memory impairment",
+      "Permanent structural brain damage",
+      "Agranulocytosis",
+      "Tardive dyskinesia"
+    ],
+    "correct_index": 0,
+    "explanation": "Unilateral electrode placement and brief-pulse stimulation reduce it. ECT acts faster than any drug, which is why it is used for severe depression with high suicide risk, catatonia and puerperal psychosis.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (contraindication for ECT, 2X), 2024 INI-CET (lorazepam for catatonia, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_197",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Benzodiazepine withdrawal after prolonged use is characterised by",
+    "options": [
+      "Rebound anxiety, insomnia, perceptual hypersensitivity and a risk of seizures",
+      "Mydriasis with lacrimation and piloerection",
+      "Hypersomnia with hyperphagia",
+      "No withdrawal syndrome at all"
+    ],
+    "correct_index": 0,
+    "explanation": "Like alcohol, benzodiazepines act on GABA-A, so withdrawal is potentially **life-threatening** — unlike opioid withdrawal. Management is conversion to a long-acting agent with gradual taper.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (flumazenil in alcohol withdrawal — false, 2X), 2022 NEET-PG (treatment of choice for acute panic attack)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_198",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The CAGE questionnaire and AUDIT are used to screen for",
+    "options": [
+      "Hazardous alcohol use",
+      "Delirium",
+      "Eating disorders",
+      "Dementia"
+    ],
+    "correct_index": 0,
+    "explanation": "CAGE asks about cutting down, annoyance at criticism, guilt and eye-opener drinking; two or more positives are significant. AUDIT is the longer WHO instrument and also grades severity.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (most common substance of abuse in India, 2X), 2022 NEET-PG (drugs to maintain abstinence in alcohol dependence)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_199",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "The classic triad of opioid **overdose** is",
+    "options": [
+      "Pinpoint pupils, respiratory depression and coma",
+      "Mydriasis, tachycardia and hyperthermia",
+      "Rigidity, fever and raised creatine kinase",
+      "Clonus, diarrhoea and agitation"
+    ],
+    "correct_index": 0,
+    "explanation": "Death is from respiratory arrest. Naloxone reverses it but is short-acting, so repeated doses are needed. **Pethidine** overdose is the exception that may cause mydriasis and seizures.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (naloxone for respiratory depression in opioid overdose), 2022 NEET-PG (symptoms of morphine withdrawal, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_200",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Amotivational syndrome — apathy, poor concentration and declining performance — is associated with chronic use of",
+    "options": [
+      "Cannabis",
+      "Cocaine",
+      "Alcohol",
+      "Nicotine"
+    ],
+    "correct_index": 0,
+    "explanation": "Chronic heavy use also causes cognitive impairment, cannabis hyperemesis syndrome and a psychosis that can precipitate schizophrenia in vulnerable people. Cannabis is the commonest illicit drug of dependence.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (most common drug causing dependence — cannabis), 2023 NEET-PG (hallucinations produced by amphetamines)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_201",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Chronic inhalant (volatile solvent) abuse in adolescents characteristically causes",
+    "options": [
+      "Cerebellar and cognitive impairment with peripheral neuropathy",
+      "Agranulocytosis",
+      "Pinpoint pupils",
+      "Cataplexy"
+    ],
+    "correct_index": 0,
+    "explanation": "Toluene, petrol and adhesives are used because they are cheap and accessible to street children. Sudden sniffing death from arrhythmia is the acute risk, and renal tubular acidosis occurs with toluene.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (most common substance of abuse in India, 2X), 2022 NEET-PG (bad trip with LSD)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "psych_q_202",
+    "subject": "Psychiatry",
+    "sub_topic": "Substance Use",
+    "stem": "Pathological gambling is now classified as",
+    "options": [
+      "A behavioural addiction, grouped with substance-related and addictive disorders",
+      "An impulse control disorder unrelated to addiction",
+      "A personality disorder",
+      "A psychotic disorder"
+    ],
+    "correct_index": 0,
+    "explanation": "It shares tolerance, craving, withdrawal-like distress and reward-pathway involvement with substance dependence. **Internet gaming disorder** is the newer addition to this grouping.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — kleptomania stealing, dipsomania compulsive alcohol drinking), 2024 INI-CET (dependence criteria, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_203",
+    "subject": "Psychiatry",
+    "sub_topic": "Neurotic",
+    "stem": "Kleptomania, pyromania and dipsomania are respectively urges to",
+    "options": [
+      "Steal, set fires and drink alcohol compulsively",
+      "Steal, pull hair and gamble",
+      "Set fires, steal and binge eat",
+      "Wander, steal and self-harm"
+    ],
+    "correct_index": 0,
+    "explanation": "They are impulse control disorders: the act relieves mounting tension and is followed by relief or gratification rather than being resisted as an obsession would be.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — kleptomania stealing, dipsomania compulsive alcohol drinking), 2020 NEET-PG (pyromania is urge to set things on fire)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_204",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Acute and transient psychotic disorder is distinguished from schizophrenia by",
+    "options": [
+      "Abrupt onset with full recovery within about 1 to 3 months, often with a precipitating stressor",
+      "Insidious onset over years",
+      "Prominent negative symptoms",
+      "Absence of delusions"
+    ],
+    "correct_index": 0,
+    "explanation": "Prognosis is good, which is why the duration criterion in schizophrenia matters. **Schizoaffective disorder** is the separate category where mood and psychotic symptoms occur together prominently.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (good prognostic factors in schizophrenia, 3X), 2023 NEET-PG (persistent delusional disorder)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_205",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "Negative symptoms of schizophrenia include",
+    "options": [
+      "Alogia, avolition, anhedonia, affective flattening and asociality",
+      "Delusions and hallucinations",
+      "Formal thought disorder",
+      "Catatonic excitement"
+    ],
+    "correct_index": 0,
+    "explanation": "They respond poorly to antipsychotics, drive long-term disability and predict worse outcome — which is why predominance of **positive** symptoms is a good prognostic sign.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (good prognostic factors — positive symptoms, 3X), 2021 NEET-PG (Bleuler's symptoms, 2X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_206",
+    "subject": "Psychiatry",
+    "sub_topic": "Psychotic",
+    "stem": "High expressed emotion in a family — criticism, hostility and over-involvement — predicts",
+    "options": [
+      "Increased relapse rate in schizophrenia, and is a target of family intervention",
+      "Reduced relapse rate",
+      "No effect on outcome",
+      "Better medication adherence"
+    ],
+    "correct_index": 0,
+    "explanation": "Family psychoeducation reducing expressed emotion lowers relapse as effectively as some medication adjustments, which is why it is a standard component of care.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (psychoeducation for repeated relapse, 2X), 2024 INI-CET (good prognostic factors, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_207",
+    "subject": "Psychiatry",
+    "sub_topic": "Legal",
+    "stem": "Assessment of capacity to consent to treatment requires that the patient can",
+    "options": [
+      "Understand, retain, weigh the information and communicate a decision",
+      "Agree with the doctor's recommendation",
+      "Have no psychiatric diagnosis",
+      "Score above 24 on the MMSE"
+    ],
+    "correct_index": 0,
+    "explanation": "Capacity is **decision-specific and time-specific**, and a psychiatric diagnosis does not by itself remove it. Refusing treatment is not evidence of incapacity.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (advance directive provision), 2023 NEET-PG (voluntary admission duration)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_208",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "Specific learning disorder (dyslexia) is characterised by",
+    "options": [
+      "Reading ability substantially below that expected for age and intelligence, with normal overall IQ",
+      "Global intellectual impairment",
+      "Loss of previously acquired reading skill",
+      "Absent speech"
+    ],
+    "correct_index": 0,
+    "explanation": "The discrepancy between intelligence and the specific skill is the defining feature. Remedial education with accommodations is the treatment; there is no pharmacotherapy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (average IQ of a normal child), 2023 NEET-PG (new name for mental retardation, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "psych_q_209",
+    "subject": "Psychiatry",
+    "sub_topic": "Child",
+    "stem": "School refusal differs from truancy in that the child",
+    "options": [
+      "Stays at home with parental knowledge and shows anxiety, often with somatic symptoms on school mornings",
+      "Conceals absence and associates with antisocial peers",
+      "Has conduct disorder",
+      "Shows no distress"
+    ],
+    "correct_index": 0,
+    "explanation": "School refusal is an anxiety phenomenon, often separation anxiety, and symptoms resolve at weekends. **Truancy** belongs to the conduct disorder spectrum.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (selective mutism — childhood anxiety disorder), 2023 NEET-PG (ODD progressing to conduct disorder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  }
+]

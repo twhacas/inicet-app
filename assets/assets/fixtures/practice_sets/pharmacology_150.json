@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "phar_q_1",
+    "questionNumber": 1,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A drug has a volume of distribution of 350 L and a clearance of 35 L/hour. Its elimination half-life is about",
+    "options": [
+      "10 hours",
+      "14 hours",
+      "3.5 hours",
+      "7 hours"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "t½ = 0.693 × Vd ÷ CL = 0.693 × 350 ÷ 35 = 6.93, about 7 hours. Forgetting the 0.693 factor gives the trap answer of 10 hours.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (digoxin half-life from Vd and clearance)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2024 INI-CET (digoxin half-life from Vd and clearance)"
+    }
+  },
+  {
+    "id": "phar_q_2",
+    "questionNumber": 2,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A drug with a target plasma concentration of 4 mg/L and a volume of distribution of 50 L is given orally with a bioavailability of 0.5. The loading dose required is",
+    "options": [
+      "100 mg",
+      "200 mg",
+      "400 mg",
+      "50 mg"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Loading dose = (target concentration × Vd) ÷ bioavailability = (4 × 50) ÷ 0.5 = 400 mg. The loading dose depends on Vd, not on clearance; maintenance dose depends on clearance.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (factors in oral loading dose, 3X), 2015 AIIMS (loading dose depends on Vd)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Pharmacology",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (factors in oral loading dose, 3X), 2015 AIIMS (loading dose depends on Vd)"
+    }
+  },
+  {
+    "id": "phar_q_3",
+    "questionNumber": 3,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A drug is eliminated with a clearance of 6 L/hour, and the target steady-state concentration is 5 mg/L. The maintenance dosing rate for an intravenous infusion is",
+    "options": [
+      "11 mg/hour",
+      "1.2 mg/hour",
+      "30 mg/hour",
+      "0.83 mg/hour"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Dosing rate = clearance × target steady-state concentration = 6 × 5 = 30 mg/hour. Steady state is reached after about 4–5 half-lives whatever the dose.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (dosing rate = clearance × target concentration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2022 NEET-PG (dosing rate = clearance × target concentration)"
+    }
+  },
+  {
+    "id": "phar_q_4",
+    "questionNumber": 4,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A patient's serum level of a drug is 8 µg/mL; the target is 1 µg/mL. The half-life is 12 hours. Assuming first-order elimination, therapy can be resumed after about",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "36 hours",
+      "60 hours"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Each half-life halves the concentration: 8 → 4 → 2 → 1, which is 3 half-lives, so 3 × 12 = 36 hours. In first-order kinetics, half-life is constant and does not change when the dose is doubled.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (digoxin 4 to 1 mg/dL, t½ 40 h — 80 h), 2020 INI-CET (first-order kinetics — half-life unchanged)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Pharmacology",
+      "basedOn": "2020 NEET-PG (digoxin 4 to 1 mg/dL, t½ 40 h — 80 h), 2020 INI-CET (first-order kinetics — half-life unchanged)"
+    }
+  },
+  {
+    "id": "phar_q_5",
+    "questionNumber": 5,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "Which pair of drugs follows ZERO-order (saturation) kinetics at therapeutic doses?",
+    "options": [
+      "Paracetamol and amoxicillin",
+      "Phenytoin and ethanol",
+      "Digoxin and warfarin",
+      "Atenolol and furosemide"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In zero-order kinetics a constant **amount** is eliminated per unit time, so a small dose increase can cause a disproportionate rise in level and toxicity. Aspirin in overdose also shifts to zero order.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (first-order kinetics features), 2020 INI-CET (first-order half-life)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2017 AIIMS (first-order kinetics features), 2020 INI-CET (first-order half-life)"
+    }
+  },
+  {
+    "id": "phar_q_6",
+    "questionNumber": 6,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A weakly acidic drug such as aspirin is excreted faster when the urine is alkalinised because",
+    "options": [
+      "The drug becomes more lipid soluble",
+      "Glomerular filtration increases",
+      "The drug becomes more ionised in alkaline urine, so it cannot be reabsorbed across the tubular membrane",
+      "Protein binding increases"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Only un-ionised, lipid-soluble molecules diffuse back. This is ion trapping, and is why sodium bicarbonate is used in salicylate poisoning. Acidifying urine would similarly trap weak bases.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (alkalinisation helps excretion of salicylates), 2023 NEET-PG / 2020 NEET-PG (sodium bicarbonate in aspirin poisoning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2021 INI-CET (alkalinisation helps excretion of salicylates), 2023 NEET-PG / 2020 NEET-PG (sodium bicarbonate in aspirin poisoning)"
+    }
+  },
+  {
+    "id": "phar_q_7",
+    "questionNumber": 7,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "The pKa of a drug is the pH at which",
+    "options": [
+      "The drug is fully ionised",
+      "Protein binding is half-maximal",
+      "Absorption is maximal",
+      "Half the drug is ionised and half un-ionised"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Weak acids are largely un-ionised, and therefore absorbed, in the acidic stomach; weak bases are absorbed better in the alkaline intestine. In practice most absorption still occurs in the small intestine because of its vast surface area.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (pKa definition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2018 AIIMS (pKa definition)"
+    }
+  },
+  {
+    "id": "phar_q_8",
+    "questionNumber": 8,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A drug that is extensively bound to plasma albumin will have",
+    "options": [
+      "A high volume of distribution and rapid glomerular filtration",
+      "A low volume of distribution and reduced glomerular filtration",
+      "A short half-life always",
+      "No potential for drug interactions"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Bound drug stays in the plasma compartment and is not filtered. Displacement interactions matter most for drugs that are highly bound with a narrow therapeutic index, such as warfarin and phenytoin. Weak acids bind albumin; weak bases bind α1-acid glycoprotein.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (high protein binding — less filtration), 2016 AIIMS (high binding — low Vd), 2020 INI-CET (weakly acidic drug binds albumin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2017 AIIMS (high protein binding — less filtration), 2016 AIIMS (high binding — low Vd), 2020 INI-CET (weakly acidic drug binds albumin)"
+    }
+  },
+  {
+    "id": "phar_q_9",
+    "questionNumber": 9,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "Which sequence correctly ranks these drugs by increasing volume of distribution?",
+    "options": [
+      "Heparin < gentamicin < phenytoin < haloperidol",
+      "Haloperidol < phenytoin < gentamicin < heparin",
+      "Gentamicin < heparin < haloperidol < phenytoin",
+      "Phenytoin < haloperidol < heparin < gentamicin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Heparin is a large, highly bound molecule confined to plasma. Gentamicin distributes in extracellular fluid. Phenytoin enters total body water, and lipophilic haloperidol concentrates in tissues, giving a very large Vd.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (order by volume of distribution), 2014 AIIMS (low Vd meaning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Pharmacology",
+      "basedOn": "2018 AIIMS (order by volume of distribution), 2014 AIIMS (low Vd meaning)"
+    }
+  },
+  {
+    "id": "phar_q_10",
+    "questionNumber": 10,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "Phase I reactions of drug metabolism include",
+    "options": [
+      "Glucuronidation, sulphation and acetylation",
+      "Only renal excretion",
+      "Methylation and glutathione conjugation",
+      "Oxidation, reduction and hydrolysis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Phase I introduces or exposes a functional group, usually through cytochrome P450, which generally makes the molecule more water-soluble. Phase II conjugation then adds a polar group. Some Phase I products are active or toxic, as with paracetamol's NAPQI.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Phase I metabolism), 2018 AIIMS (CYP metabolism — increased water solubility)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2024 INI-CET (Phase I metabolism), 2018 AIIMS (CYP metabolism — increased water solubility)"
+    }
+  },
+  {
+    "id": "phar_q_11",
+    "questionNumber": 11,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A patient stabilised on warfarin is started on rifampicin. The expected effect and the reason are",
+    "options": [
+      "Increased bleeding risk, because rifampicin inhibits CYP2C9",
+      "No change, because warfarin is renally cleared",
+      "Loss of anticoagulant effect, because rifampicin induces CYP enzymes and increases warfarin metabolism",
+      "Increased INR, because of displacement from albumin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Enzyme induction takes days to develop and to wear off. Inducers include rifampicin, phenytoin, carbamazepine, phenobarbitone and chronic alcohol. Inhibitors (macrolides, azoles, cimetidine, valproate) act within hours.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (carbamazepine plus azithromycin — toxicity), 2022 NEET-PG (zidovudine regimen — change rifampicin), 2016 AIIMS (enzyme inducers with warfarin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "General Pharmacology",
+      "basedOn": "2024 INI-CET (carbamazepine plus azithromycin — toxicity), 2022 NEET-PG (zidovudine regimen — change rifampicin), 2016 AIIMS (enzyme inducers with warfarin)"
+    }
+  },
+  {
+    "id": "phar_q_12",
+    "questionNumber": 12,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "Which measure best describes the EXTENT of absorption of an oral drug?",
+    "options": [
+      "Peak plasma concentration (Cmax)",
+      "Time to peak (Tmax)",
+      "Area under the plasma concentration–time curve",
+      "Elimination half-life"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "AUC reflects total exposure. Cmax and Tmax describe the rate of absorption. Bioavailability is the ratio of oral AUC to intravenous AUC. Two formulations are bioequivalent when AUC and Cmax fall within 80–125% of each other.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (best measure of extent of absorption — AUC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2022 INI-CET (best measure of extent of absorption — AUC)"
+    }
+  },
+  {
+    "id": "phar_q_13",
+    "questionNumber": 13,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "The therapeutic index is calculated as",
+    "options": [
+      "ED50 ÷ LD50",
+      "LD50 ÷ ED50",
+      "LD50 − ED50",
+      "ED99 ÷ LD1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A larger value means a safer drug. Lithium, digoxin, warfarin, phenytoin, theophylline and aminoglycosides have narrow indices and need monitoring. Potency is the dose needed for an effect; efficacy is the maximum effect achievable.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2019 NEET-PG (drug safety — LD50/ED50, 3X), 2015 AIIMS (therapeutic index is a measure of safety), 2023 NEET-PG (potency versus efficacy)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2023 INI-CET / 2019 NEET-PG (drug safety — LD50/ED50, 3X), 2015 AIIMS (therapeutic index is a measure of safety), 2023 NEET-PG (potency versus efficacy)"
+    }
+  },
+  {
+    "id": "phar_q_14",
+    "questionNumber": 14,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "Two drugs produce the same maximal response, but drug A achieves it at a lower dose than drug B. Drug A is",
+    "options": [
+      "More efficacious and more potent",
+      "Equally potent, with lower efficacy",
+      "Less potent, with greater efficacy",
+      "More potent, with equal efficacy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Potency shifts the dose–response curve to the left; efficacy is the height of its plateau. Clinically, efficacy matters more, because a less potent drug can simply be given at a higher dose.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (drug A more potent but equally efficacious)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2023 NEET-PG (drug A more potent but equally efficacious)"
+    }
+  },
+  {
+    "id": "phar_q_15",
+    "questionNumber": 15,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A multicentre trial randomises 450 patients to a new drug or placebo, with both patients and investigators blinded, to establish efficacy. This is a",
+    "options": [
+      "Phase 1 trial",
+      "Phase 2 trial",
+      "Phase 3 trial",
+      "Phase 4 study"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Phase 1 assesses safety and kinetics in 20–80 healthy volunteers. Phase 2 looks at efficacy and dose-finding in a few hundred patients. Phase 3 is the large comparative trial before licensing. Phase 4 is post-marketing surveillance, which detects rare adverse effects.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (phase 3 trial, 3X), 2015 AIIMS (phase I aim — safety), 2014 AIIMS (post-marketing surveillance — phase IV)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (phase 3 trial, 3X), 2015 AIIMS (phase I aim — safety), 2014 AIIMS (post-marketing surveillance — phase IV)"
+    }
+  },
+  {
+    "id": "phar_q_16",
+    "questionNumber": 16,
+    "subject": "Pharmacology",
+    "subTopic": "General Pharmacology",
+    "sub_topic": "General Pharmacology",
+    "stem": "A manufacturer labels a tablet as containing 500 mg of paracetamol, but assay shows only 200 mg. Under the Drugs and Cosmetics Act this product is",
+    "options": [
+      "A spurious or misbranded drug",
+      "An essential drug",
+      "An orphan drug",
+      "A schedule H drug"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Schedule H lists drugs that may be sold only on a registered practitioner's prescription; Schedule X covers drugs needing stricter custody and record-keeping, such as ketamine. \"Store in a cool place\" means 8–15 °C.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (counterfeit/misbranded, 3X), 2014 AIIMS (schedule H), 2021 INI-CET (schedule X — ketamine), 2022 INI-CET / 2016 AIIMS (cool place 8–15 °C)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "General Pharmacology",
+      "basedOn": "2023 INI-CET / 2015 AIIMS (counterfeit/misbranded, 3X), 2014 AIIMS (schedule H), 2021 INI-CET (schedule X — ketamine), 2022 INI-CET / 2016 AIIMS (cool place 8–15 °C)"
+    }
+  },
+  {
+    "id": "phar_q_17",
+    "questionNumber": 17,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "Match each receptor with its principal signalling pathway.\n\n| Receptor | Pathway |\n|---|---|\n| 1. β2 adrenergic | a. Gq — phospholipase C — IP3 and DAG |\n| 2. α1 adrenergic | b. Gi — decreased cyclic AMP |\n| 3. M2 muscarinic | c. Gs — adenylyl cyclase — increased cyclic AMP |\n| 4. Nicotinic (NM) | d. Ligand-gated cation channel |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Muscarinic receptors are G-protein coupled: M1, M3 and M5 use Gq, while M2 and M4 use Gi. Nicotinic receptors are ionotropic, which is why ganglionic and neuromuscular transmission is fast.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (GPCR example — muscarinic), 2021 NEET-PG (β2 via adenylate cyclase), 2016 AIIMS (phospholipase C via Gq), 2016 AIIMS (ganglionic transmission — nicotinic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 INI-CET (GPCR example — muscarinic), 2021 NEET-PG (β2 via adenylate cyclase), 2016 AIIMS (phospholipase C via Gq), 2016 AIIMS (ganglionic transmission — nicotinic)"
+    }
+  },
+  {
+    "id": "phar_q_18",
+    "questionNumber": 18,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A farm worker is brought with pinpoint pupils, profuse salivation, bronchorrhoea, bradycardia and fasciculations. The immediate priority is",
+    "options": [
+      "Pralidoxime alone",
+      "Atropine in escalating doses until secretions dry, with oxygen and airway support",
+      "Neostigmine",
+      "Physostigmine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Death in organophosphate poisoning is from bronchial secretions and respiratory failure, so atropine is titrated to drying of secretions rather than to pupil size. Oximes reactivate acetylcholinesterase before ageing occurs, but they do not replace atropine.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (organophosphate poisoning — atropine, 3X), 2021 INI-CET (organophosphates — irreversible inhibitors), 2015 AIIMS (competitive and irreversible)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (organophosphate poisoning — atropine, 3X), 2021 INI-CET (organophosphates — irreversible inhibitors), 2015 AIIMS (competitive and irreversible)"
+    }
+  },
+  {
+    "id": "phar_q_19",
+    "questionNumber": 19,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A young man has dilated pupils, dry flushed skin, fever, urinary retention and delirium after eating wild berries. The best supportive antidote is",
+    "options": [
+      "Atropine",
+      "Naloxone",
+      "Pralidoxime",
+      "Physostigmine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is antimuscarinic (anticholinergic) poisoning. Physostigmine is a tertiary amine that crosses the blood–brain barrier, unlike neostigmine. Most cases need only supportive care and benzodiazepines, since physostigmine can cause bradycardia and seizures.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (dilated pupils, dry skin, staggering gait — datura), 2023 INI-CET (atropine does not cause miosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 NEET-PG (dilated pupils, dry skin, staggering gait — datura), 2023 INI-CET (atropine does not cause miosis)"
+    }
+  },
+  {
+    "id": "phar_q_20",
+    "questionNumber": 20,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A patient with myasthenia gravis deteriorates. Weakness improves briefly after edrophonium. This indicates",
+    "options": [
+      "Cholinergic crisis",
+      "Myasthenic crisis from undertreatment",
+      "Thyroid storm",
+      "Lambert–Eaton syndrome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In cholinergic crisis, edrophonium makes weakness worse and adds muscarinic features. Edrophonium has a very short action, which makes it suitable for this test. Long-term treatment uses pyridostigmine.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (ptosis improving with neostigmine/edrophonium), 2020 NEET-PG / 2018 AIIMS (edrophonium to differentiate crises)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 NEET-PG (ptosis improving with neostigmine/edrophonium), 2020 NEET-PG / 2018 AIIMS (edrophonium to differentiate crises)"
+    }
+  },
+  {
+    "id": "phar_q_21",
+    "questionNumber": 21,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "Which drug should be avoided in a patient with myasthenia gravis?",
+    "options": [
+      "Paracetamol",
+      "Pantoprazole",
+      "Gentamicin",
+      "Metformin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Aminoglycosides reduce presynaptic acetylcholine release and block postsynaptic receptors. Other drugs to avoid are fluoroquinolones, macrolides, β-blockers, magnesium, phenytoin and quinine.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (neomycin contraindicated in myasthenia), 2020 INI-CET (drugs worsening myasthenia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2016 AIIMS (neomycin contraindicated in myasthenia), 2020 INI-CET (drugs worsening myasthenia)"
+    }
+  },
+  {
+    "id": "phar_q_22",
+    "questionNumber": 22,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "Dopamine infused at 2–5 µg/kg/min acts mainly on",
+    "options": [
+      "D1 receptors, causing renal and mesenteric vasodilatation",
+      "β1 receptors, raising cardiac output",
+      "α1 receptors, causing vasoconstriction",
+      "β2 receptors, causing bronchodilatation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "At 5–10 µg/kg/min β1 effects dominate, and above 10 µg/kg/min α1 vasoconstriction takes over. Fenoldopam is a selective D1 agonist used in hypertensive emergency with renal impairment. \"Renal-dose\" dopamine is no longer recommended for renal protection.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (dopamine β1 dose range), 2019 NEET-PG / 2014 AIIMS (dopamine at 8 µg/kg/min, 4X), 2024 INI-CET (fenoldopam — D1 agonism)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2021 INI-CET (dopamine β1 dose range), 2019 NEET-PG / 2014 AIIMS (dopamine at 8 µg/kg/min, 4X), 2024 INI-CET (fenoldopam — D1 agonism)"
+    }
+  },
+  {
+    "id": "phar_q_23",
+    "questionNumber": 23,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "The first-line vasopressor in septic shock that persists after adequate fluid resuscitation is",
+    "options": [
+      "Dopamine",
+      "Dobutamine",
+      "Noradrenaline",
+      "Adrenaline"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Noradrenaline raises systemic vascular resistance through α1 with less tachyarrhythmia than dopamine. Its predominant α effect raises systolic, diastolic and mean pressure while reflex vagal activity slows the heart. Vasopressin is added as a second agent.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (first-line vasopressor in septic shock), 2018 NEET-PG (raised SBP, DBP, MBP with bradycardia — noradrenaline)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2020 INI-CET (first-line vasopressor in septic shock), 2018 NEET-PG (raised SBP, DBP, MBP with bradycardia — noradrenaline)"
+    }
+  },
+  {
+    "id": "phar_q_24",
+    "questionNumber": 24,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A patient in anaphylaxis after an injection should receive adrenaline",
+    "options": [
+      "0.5 mg of 1:1000 intramuscularly into the anterolateral thigh",
+      "0.5 mg of 1:1000 intravenously",
+      "1 mg of 1:10,000 subcutaneously",
+      "Nebulised only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Intramuscular injection into the thigh gives faster, more reliable absorption than subcutaneous. Adrenaline reverses the reaction through α1 vasoconstriction, β2 bronchodilatation and stabilisation of mast cells. Antihistamines and steroids are adjuncts only.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG (ampicillin anaphylaxis — 0.5 mL of 1:1000 IM, 4X), 2018 AIIMS (adrenaline actions in anaphylaxis)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG (ampicillin anaphylaxis — 0.5 mL of 1:1000 IM, 4X), 2018 AIIMS (adrenaline actions in anaphylaxis)"
+    }
+  },
+  {
+    "id": "phar_q_25",
+    "questionNumber": 25,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A patient pre-treated with phentolamine is given adrenaline and becomes hypotensive. This is because",
+    "options": [
+      "Adrenaline was degraded",
+      "Phentolamine is a β blocker",
+      "Reflex bradycardia occurs",
+      "α receptors are blocked, so the unopposed β2 vasodilator effect lowers blood pressure"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is vasomotor reversal of Dale. It does not happen with noradrenaline, which has negligible β2 activity, so its pressor effect is only abolished, not reversed.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (vasomotor reversal of Dale)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (vasomotor reversal of Dale)"
+    }
+  },
+  {
+    "id": "phar_q_26",
+    "questionNumber": 26,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A child stung by a scorpion has tachypnoea, sweating and pulmonary oedema with hypertension. The drug of choice is",
+    "options": [
+      "Atropine",
+      "Prazosin",
+      "Adrenaline",
+      "Propranolol"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Scorpion venom causes a massive catecholamine surge. Prazosin, an α1 blocker, reduces afterload and preload and is the standard treatment in India. β-blockers alone would leave α effects unopposed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (scorpion bite — prazosin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 INI-CET (scorpion bite — prazosin)"
+    }
+  },
+  {
+    "id": "phar_q_27",
+    "questionNumber": 27,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A man with benign prostatic hyperplasia and hypertension is started on an α1 blocker and faints after the first dose. This first-dose phenomenon is minimised by",
+    "options": [
+      "Adding a diuretic",
+      "Giving it with food in the morning",
+      "Doubling the dose",
+      "Giving the first dose at bedtime and starting low"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Postural hypotension results from sudden venous and arteriolar dilatation. Tamsulosin and silodosin are relatively uroselective (α1A) and cause less hypotension, but carry a risk of intraoperative floppy iris syndrome.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (first-dose syncope — α blockers), 2021 NEET-PG (BPH with urgency — tamsulosin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2016 AIIMS (first-dose syncope — α blockers), 2021 NEET-PG (BPH with urgency — tamsulosin)"
+    }
+  },
+  {
+    "id": "phar_q_28",
+    "questionNumber": 28,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A patient on long-term clonidine stops it abruptly and develops headache, tachycardia and a hypertensive crisis. The mechanism is",
+    "options": [
+      "Loss of central α2-mediated sympathetic inhibition with a surge of catecholamines",
+      "Fluid retention",
+      "Renin suppression",
+      "Direct vasoconstriction by clonidine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Clonidine must be tapered. Its anticholinergic-like side effects (dry mouth, sedation, constipation) are a common reason patients stop it on their own. Apraclonidine and brimonidine are ocular α2 agonists.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (rebound hypertension on stopping clonidine; dry mouth leading to stopping), 2020 NEET-PG / 2018 AIIMS (apraclonidine — α2 agonist)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2023 NEET-PG (rebound hypertension on stopping clonidine; dry mouth leading to stopping), 2020 NEET-PG / 2018 AIIMS (apraclonidine — α2 agonist)"
+    }
+  },
+  {
+    "id": "phar_q_29",
+    "questionNumber": 29,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "Match each anti-glaucoma drug with its mechanism of lowering intraocular pressure.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Latanoprost | a. Reduces aqueous production by blocking β receptors |\n| 2. Timolol | b. Reduces aqueous production by inhibiting carbonic anhydrase |\n| 3. Dorzolamide | c. Increases uveoscleral outflow |\n| 4. Pilocarpine | d. Increases trabecular outflow by contracting the ciliary muscle |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prostaglandin analogues cause iris hyperpigmentation (heterochromia), eyelash growth and periorbital changes, and are avoided in uveitis and cystoid macular oedema. Topical steroids **raise** intraocular pressure.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (latanoprost — uveoscleral outflow), 2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (avoid latanoprost in cystoid macular oedema, 3X), 2015 AIIMS (heterochromia), 2022 INI-CET (betamethasone does not lower IOP), 2020 INI-CET (avoid prostaglandin in uveitis)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (latanoprost — uveoscleral outflow), 2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (avoid latanoprost in cystoid macular oedema, 3X), 2015 AIIMS (heterochromia), 2022 INI-CET (betamethasone does not lower IOP), 2020 INI-CET (avoid prostaglandin in uveitis)"
+    }
+  },
+  {
+    "id": "phar_q_30",
+    "questionNumber": 30,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "In acute angle-closure glaucoma, pilocarpine lowers pressure by",
+    "options": [
+      "Dilating the pupil",
+      "Increasing uveoscleral outflow",
+      "Reducing aqueous secretion",
+      "Constricting the pupil, which pulls the peripheral iris away from the trabecular meshwork"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Intravenous mannitol or acetazolamide is given first to reduce pressure, then pilocarpine, followed by laser iridotomy. Drugs with antimuscarinic action such as amitriptyline can precipitate an attack.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (mannitol plus pilocarpine, 4X), 2020 INI-CET (amitriptyline avoided in angle closure)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (mannitol plus pilocarpine, 4X), 2020 INI-CET (amitriptyline avoided in angle closure)"
+    }
+  },
+  {
+    "id": "phar_q_31",
+    "questionNumber": 31,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "A diabetic with COPD develops postoperative urinary retention with no obstruction. A short-term option is",
+    "options": [
+      "Oxybutynin",
+      "Bethanechol",
+      "Atropine",
+      "Tamsulosin alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Bethanechol is a muscarinic agonist resistant to cholinesterase that stimulates detrusor contraction. It is contraindicated in asthma, COPD, peptic ulcer and bladder outlet obstruction, so its use is limited and catheterisation is usually preferred.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (diabetes, COPD, retention — bethanechol)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2021 NEET-PG (diabetes, COPD, retention — bethanechol)"
+    }
+  },
+  {
+    "id": "phar_q_32",
+    "questionNumber": 32,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "An elderly man with Alzheimer disease on donepezil develops urge incontinence. The preferred antimuscarinic is",
+    "options": [
+      "Oxybutynin",
+      "Atropine",
+      "Trospium or darifenacin",
+      "Scopolamine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Trospium is a quaternary amine that does not cross the blood–brain barrier, and darifenacin is M3-selective, so both spare cognition. Oxybutynin worsens confusion in the elderly. Mirabegron, a β3 agonist, avoids antimuscarinic effects entirely.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Alzheimer with incontinence — tolterodine), 2022 INI-CET / 2016 AIIMS (mirabegron — β3 agonist)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2023 NEET-PG (Alzheimer with incontinence — tolterodine), 2022 INI-CET / 2016 AIIMS (mirabegron — β3 agonist)"
+    }
+  },
+  {
+    "id": "phar_q_33",
+    "questionNumber": 33,
+    "subject": "Pharmacology",
+    "subTopic": "Autonomic Nervous System",
+    "sub_topic": "Autonomic Nervous System",
+    "stem": "Paradoxical bronchoconstriction occasionally seen with ipratropium is attributed to",
+    "options": [
+      "Blockade of postsynaptic M3 receptors",
+      "Histamine release",
+      "β2 receptor downregulation",
+      "Blockade of presynaptic M2 autoreceptors, which increases acetylcholine release"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "M2 autoreceptors normally limit further acetylcholine release. Tiotropium binds M3 for longer than M2 (kinetic selectivity), which reduces this problem and allows once-daily dosing.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (paradoxical bronchoconstriction — presynaptic M2 block)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Autonomic Nervous System",
+      "basedOn": "2020 INI-CET (paradoxical bronchoconstriction — presynaptic M2 block)"
+    }
+  },
+  {
+    "id": "phar_q_34",
+    "questionNumber": 34,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each antiepileptic drug with its principal mechanism.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Lacosamide | a. Inhibits GAT-1 and blocks GABA reuptake |\n| 2. Tiagabine | b. Blocks T-type calcium channels in thalamic neurons |\n| 3. Ethosuximide | c. Binds SV2A synaptic vesicle protein |\n| 4. Levetiracetam | d. Enhances slow inactivation of voltage-gated sodium channels |",
+    "options": [
+      "1-d, 2-b, 3-a, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Phenytoin and carbamazepine enhance fast inactivation of sodium channels, whereas lacosamide acts on slow inactivation. Vigabatrin irreversibly inhibits GABA transaminase and causes irreversible visual field constriction.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (lacosamide — slow inactivation), 2024 INI-CET (tiagabine — GAT-1), 2020 INI-CET (absence seizure drugs), 2015 AIIMS (vigabatrin and visual defect)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET / 2014 AIIMS (lacosamide — slow inactivation), 2024 INI-CET (tiagabine — GAT-1), 2020 INI-CET (absence seizure drugs), 2015 AIIMS (vigabatrin and visual defect)"
+    }
+  },
+  {
+    "id": "phar_q_35",
+    "questionNumber": 35,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The antiepileptic with the highest risk of neural tube defects when taken in the first trimester is",
+    "options": [
+      "Levetiracetam",
+      "Lamotrigine",
+      "Sodium valproate",
+      "Carbamazepine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Valproate also lowers IQ in exposed children, and it is avoided in women of child-bearing potential unless there is no alternative. Lamotrigine and levetiracetam are the preferred options in pregnancy, with folic acid supplementation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (antiepileptic most associated with NTD — valproate), 2016 AIIMS (pregnant on antiepileptic — continue treatment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (antiepileptic most associated with NTD — valproate), 2016 AIIMS (pregnant on antiepileptic — continue treatment)"
+    }
+  },
+  {
+    "id": "phar_q_36",
+    "questionNumber": 36,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A woman with bipolar disorder on valproate becomes drowsy with a normal ammonia-lowering workup except for a raised serum ammonia and normal liver enzymes. The explanation is",
+    "options": [
+      "Hepatic failure",
+      "Valproate-induced hyperammonaemic encephalopathy, often through carnitine depletion",
+      "Lithium toxicity",
+      "Serotonin syndrome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This can occur with normal transaminases and therapeutic valproate levels. Treatment is to stop valproate and give L-carnitine. Valproate also causes hepatotoxicity, weight gain, tremor, alopecia and polycystic ovary syndrome in women.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (liver dysfunction and hyperammonaemia — valproate), 2020 INI-CET / 2014 AIIMS (valproate and carbamazepine hepatotoxicity), 2015 AIIMS (gender-specific effect — PCOS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (liver dysfunction and hyperammonaemia — valproate), 2020 INI-CET / 2014 AIIMS (valproate and carbamazepine hepatotoxicity), 2015 AIIMS (gender-specific effect — PCOS)"
+    }
+  },
+  {
+    "id": "phar_q_37",
+    "questionNumber": 37,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient stable on carbamazepine is given an enzyme-inhibiting antibiotic and develops ataxia, diplopia and vomiting. The likely drug added is",
+    "options": [
+      "Amoxicillin",
+      "Gentamicin",
+      "Rifampicin",
+      "Clarithromycin"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Macrolides (except azithromycin, which is a weak inhibitor) inhibit CYP3A4 and raise carbamazepine levels. Carbamazepine is also an auto-inducer of its own metabolism, so doses often need increasing in the first weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (carbamazepine plus azithromycin — toxicity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (carbamazepine plus azithromycin — toxicity)"
+    }
+  },
+  {
+    "id": "phar_q_38",
+    "questionNumber": 38,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Compared with carbamazepine, oxcarbazepine is more likely to cause",
+    "options": [
+      "Aplastic anaemia",
+      "Hyponatraemia",
+      "Hepatic enzyme induction",
+      "Stevens–Johnson syndrome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Oxcarbazepine causes more SIADH-like hyponatraemia but less enzyme induction, fewer blood dyscrasias and fewer rashes. Severe cutaneous reactions to carbamazepine are strongly linked to HLA-B*1502 in people of Southeast Asian ancestry.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (hyponatraemia more with oxcarbazepine, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 INI-CET (hyponatraemia more with oxcarbazepine, 2X)"
+    }
+  },
+  {
+    "id": "phar_q_39",
+    "questionNumber": 39,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Fosphenytoin is preferred to intravenous phenytoin in status epilepticus because fosphenytoin",
+    "options": [
+      "Acts by a different mechanism",
+      "Is not protein bound",
+      "Has no cardiac effects at any dose",
+      "Can be given faster and causes less local tissue injury and fewer infusion-site reactions"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Phenytoin's propylene glycol vehicle causes phlebitis and purple glove syndrome. Fosphenytoin is water-soluble and converted to phenytoin. Both can cause hypotension and arrhythmia, so cardiac monitoring is still needed.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (high-dose fosphenytoin toxicity — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (high-dose fosphenytoin toxicity — T/F)"
+    }
+  },
+  {
+    "id": "phar_q_40",
+    "questionNumber": 40,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Thiopentone has a short duration of action after a single intravenous dose mainly because of",
+    "options": [
+      "Rapid renal excretion",
+      "Rapid hepatic metabolism",
+      "Redistribution from brain to muscle and fat",
+      "Plasma esterase hydrolysis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Metabolism is slow, so repeated doses accumulate and the effect becomes prolonged. Propofol also terminates by redistribution but is cleared much faster, which allows infusion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (thiopentone short action due to renal excretion — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (thiopentone short action due to renal excretion — false)"
+    }
+  },
+  {
+    "id": "phar_q_41",
+    "questionNumber": 41,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The intravenous induction agent most associated with adrenocortical suppression is",
+    "options": [
+      "Propofol",
+      "Ketamine",
+      "Etomidate",
+      "Thiopentone"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Etomidate inhibits 11β-hydroxylase, so even a single dose can suppress cortisol for hours. It is still valued for cardiovascular stability in shocked patients. Ketamine raises blood pressure and causes emergence delirium, and is also used as a rapid-acting antidepressant.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (anaesthetic causing prolonged adrenal insufficiency), 2020 INI-CET (ketamine — rapid-acting antidepressant)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (anaesthetic causing prolonged adrenal insufficiency), 2020 INI-CET (ketamine — rapid-acting antidepressant)"
+    }
+  },
+  {
+    "id": "phar_q_42",
+    "questionNumber": 42,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Sugammadex reverses rocuronium by",
+    "options": [
+      "Inhibiting acetylcholinesterase",
+      "Encapsulating the drug molecule in plasma, forming an inactive complex",
+      "Blocking nicotinic receptors",
+      "Enhancing acetylcholine release"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This γ-cyclodextrin reverses even deep block within minutes and avoids the muscarinic effects of neostigmine, which must be given with glycopyrrolate or atropine. It works on aminosteroid blockers (rocuronium, vecuronium) but not on atracurium.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fastest reversal of rocuronium — sugammadex), 2023 NEET-PG (vecuronium reversal), 2020 INI-CET (neostigmine reversal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (fastest reversal of rocuronium — sugammadex), 2023 NEET-PG (vecuronium reversal), 2020 INI-CET (neostigmine reversal)"
+    }
+  },
+  {
+    "id": "phar_q_43",
+    "questionNumber": 43,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Atracurium and cisatracurium are preferred in hepatic and renal failure because they are eliminated by",
+    "options": [
+      "Biliary excretion",
+      "Plasma cholinesterase",
+      "Hofmann elimination, a spontaneous non-enzymatic degradation",
+      "Glomerular filtration"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cisatracurium is preferred to atracurium because it releases less histamine and produces less laudanosine. Succinylcholine, by contrast, is hydrolysed by plasma pseudocholinesterase.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (Hofmann elimination), 2018 AIIMS (cisatracurium preferred — less histamine), 2018 AIIMS (curare blocks ACh receptor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2018 AIIMS (Hofmann elimination), 2018 AIIMS (cisatracurium preferred — less histamine), 2018 AIIMS (curare blocks ACh receptor)"
+    }
+  },
+  {
+    "id": "phar_q_44",
+    "questionNumber": 44,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient under halothane anaesthesia given succinylcholine develops masseter spasm, rising end-tidal CO2 and hyperthermia. The specific treatment is",
+    "options": [
+      "Dantrolene, with cooling and supportive care",
+      "Neostigmine",
+      "Sugammadex",
+      "Bromocriptine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dantrolene blocks the ryanodine receptor and stops calcium release from the sarcoplasmic reticulum. Malignant hyperthermia is triggered by volatile agents and succinylcholine in genetically susceptible people. Bromocriptine is used for neuroleptic malignant syndrome.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (halothane with succinylcholine — malignant hyperthermia), 2018 AIIMS (dantrolene not a neuromuscular junction drug)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2020 NEET-PG (halothane with succinylcholine — malignant hyperthermia), 2018 AIIMS (dantrolene not a neuromuscular junction drug)"
+    }
+  },
+  {
+    "id": "phar_q_45",
+    "questionNumber": 45,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient on fluoxetine is given an opioid for chronic pain and develops agitation, hyperreflexia, clonus and fever. Besides stopping the drugs, the specific agent used is",
+    "options": [
+      "Dantrolene",
+      "Flumazenil",
+      "Naloxone",
+      "Cyproheptadine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cyproheptadine is a 5-HT2A antagonist. Serotonin syndrome is distinguished from neuroleptic malignant syndrome by its rapid onset, clonus and hyperreflexia, whereas NMS has lead-pipe rigidity and evolves over days. Tramadol, pethidine, methadone, linezolid and MAO inhibitors are common precipitants.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (sertraline with MAOI — cyproheptadine), 2023 INI-CET (fluoxetine with methadone — QT prolongation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 NEET-PG (sertraline with MAOI — cyproheptadine), 2023 INI-CET (fluoxetine with methadone — QT prolongation)"
+    }
+  },
+  {
+    "id": "phar_q_46",
+    "questionNumber": 46,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Which antidepressant is most likely to be chosen when sexual dysfunction is a major concern?",
+    "options": [
+      "Paroxetine",
+      "Sertraline",
+      "Mirtazapine",
+      "Venlafaxine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mirtazapine blocks presynaptic α2 and 5-HT2 and 5-HT3 receptors, so it causes little sexual dysfunction and also improves sleep and appetite, at the cost of sedation and weight gain. Bupropion is the other option with minimal sexual effects.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (least sexual side effect — mirtazapine), 2021 NEET-PG (depression with low libido — mirtazapine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET (least sexual side effect — mirtazapine), 2021 NEET-PG (depression with low libido — mirtazapine)"
+    }
+  },
+  {
+    "id": "phar_q_47",
+    "questionNumber": 47,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Abrupt withdrawal of which antidepressant most often causes dizziness, anxiety and electric-shock sensations?",
+    "options": [
+      "Fluoxetine",
+      "Venlafaxine",
+      "Vilazodone",
+      "Agomelatine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Short half-life and absence of an active long-lived metabolite make discontinuation symptoms prominent with venlafaxine and paroxetine. Fluoxetine's long-acting metabolite norfluoxetine effectively self-tapers.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (discontinuation syndrome — venlafaxine), 2021 INI-CET (vilazodone — novel antidepressant), 2018 NEET-PG / 2017 AIIMS (SNRIs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (discontinuation syndrome — venlafaxine), 2021 INI-CET (vilazodone — novel antidepressant), 2018 NEET-PG / 2017 AIIMS (SNRIs)"
+    }
+  },
+  {
+    "id": "phar_q_48",
+    "questionNumber": 48,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient who has taken an overdose of a tricyclic antidepressant has a widened QRS. The immediate treatment is",
+    "options": [
+      "Intravenous sodium bicarbonate",
+      "Oral activated charcoal alone",
+      "Flumazenil",
+      "Physostigmine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Bicarbonate overcomes sodium-channel blockade by raising pH and sodium load, narrowing the QRS and preventing arrhythmia. Tricyclic overdose causes the \"three Cs\": coma, convulsions and cardiotoxicity, plus antimuscarinic features such as mydriasis and hyperthermia.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (TCA poisoning — IV sodium bicarbonate), 2023 INI-CET (features of TCA poisoning — not hypothermia), 2017 AIIMS (TCA side effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 NEET-PG (TCA poisoning — IV sodium bicarbonate), 2023 INI-CET (features of TCA poisoning — not hypothermia), 2017 AIIMS (TCA side effects)"
+    }
+  },
+  {
+    "id": "phar_q_49",
+    "questionNumber": 49,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Chlorpromazine causes postural hypotension, sedation and dry mouth because it also blocks",
+    "options": [
+      "GABA-A receptors",
+      "D2 receptors only",
+      "5-HT2A receptors only",
+      "α1, H1 and muscarinic receptors"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Low-potency typical antipsychotics have more autonomic effects and fewer extrapyramidal effects; high-potency drugs such as haloperidol are the reverse. Risperidone causes the greatest rise in prolactin.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chlorpromazine — H1, muscarinic, α1), 2018 NEET-PG / 2017 AIIMS (maximum prolactin — risperidone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET (chlorpromazine — H1, muscarinic, α1), 2018 NEET-PG / 2017 AIIMS (maximum prolactin — risperidone)"
+    }
+  },
+  {
+    "id": "phar_q_50",
+    "questionNumber": 50,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A young man on risperidone develops a sustained upward deviation of the eyes and neck stiffness a day after starting treatment. The correct management is",
+    "options": [
+      "Increase the risperidone dose",
+      "Start clozapine immediately",
+      "Dantrolene",
+      "Parenteral promethazine or an anticholinergic such as benzhexol"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Acute dystonia (including oculogyric crisis) appears within hours to days and responds quickly to anticholinergics or antihistamines. Metoclopramide is a common non-psychiatric cause. Tardive dyskinesia, by contrast, appears after months and is worsened by anticholinergics.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (risperidone — fixed upward gaze, promethazine), 2022 NEET-PG / 2015 AIIMS (metoclopramide causing dystonia), 2019 NEET-PG (benzhexol), 2020 NEET-PG (fluphenazine parkinsonism — trihexyphenidyl)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2020 INI-CET (risperidone — fixed upward gaze, promethazine), 2022 NEET-PG / 2015 AIIMS (metoclopramide causing dystonia), 2019 NEET-PG (benzhexol), 2020 NEET-PG (fluphenazine parkinsonism — trihexyphenidyl)"
+    }
+  },
+  {
+    "id": "phar_q_51",
+    "questionNumber": 51,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Clozapine is reserved for treatment-resistant schizophrenia and requires regular monitoring of",
+    "options": [
+      "Serum potassium",
+      "Thyroid function",
+      "The absolute neutrophil count",
+      "Serum amylase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Agranulocytosis occurs in about 1%. Clozapine also causes myocarditis, seizures, weight gain, metabolic syndrome and, paradoxically, hypersalivation despite its antimuscarinic profile. It has the lowest risk of extrapyramidal effects.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (clozapine side effect needing monitoring), 2021 INI-CET (sialorrhoea — clozapine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (clozapine side effect needing monitoring), 2021 INI-CET (sialorrhoea — clozapine)"
+    }
+  },
+  {
+    "id": "phar_q_52",
+    "questionNumber": 52,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient on lithium who has been fasting presents with coarse tremor, ataxia, confusion and seizures. The most useful immediate investigation and definitive treatment are",
+    "options": [
+      "Serum lithium level; haemodialysis if severely raised",
+      "EEG; benzodiazepines only",
+      "CT brain; mannitol",
+      "Thyroid function; levothyroxine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lithium is cleared entirely by the kidney, so dehydration, NSAIDs, ACE inhibitors and thiazides precipitate toxicity. Haemodialysis is effective because lithium is a small, unbound ion with a low volume of distribution. Fine tremor is acceptable within the therapeutic range of about 0.6–1.2 mEq/L.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (lithium with coarse tremors — serum level), 2021 NEET-PG (haemodialysis useful in lithium overdose), 2023 INI-CET (fine tremors normal), 2022 INI-CET (safe plasma concentration)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 NEET-PG (lithium with coarse tremors — serum level), 2021 NEET-PG (haemodialysis useful in lithium overdose), 2023 INI-CET (fine tremors normal), 2022 INI-CET (safe plasma concentration)"
+    }
+  },
+  {
+    "id": "phar_q_53",
+    "questionNumber": 53,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Lithium taken in the first trimester is associated with",
+    "options": [
+      "Neural tube defects",
+      "Ebstein anomaly of the tricuspid valve",
+      "Phocomelia",
+      "Nasal hypoplasia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Other classic associations are valproate with neural tube defects, thalidomide with phocomelia, warfarin with nasal hypoplasia and stippled epiphyses, and ACE inhibitors with renal dysgenesis and oligohydramnios.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (lithium — Ebstein anomaly), 2016 AIIMS (lithium — cardiac defects), 2020 INI-CET (match — teratogens)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 INI-CET (lithium — Ebstein anomaly), 2016 AIIMS (lithium — cardiac defects), 2020 INI-CET (match — teratogens)"
+    }
+  },
+  {
+    "id": "phar_q_54",
+    "questionNumber": 54,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "A patient with catatonia showing waxy flexibility and mutism is best treated initially with",
+    "options": [
+      "Haloperidol",
+      "Fluoxetine",
+      "Risperidone",
+      "Lorazepam"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A benzodiazepine challenge is both diagnostic and therapeutic in catatonia. Electroconvulsive therapy is used when it fails. Antipsychotics may worsen catatonia and can precipitate neuroleptic malignant syndrome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (waxy flexibility — lorazepam)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET (waxy flexibility — lorazepam)"
+    }
+  },
+  {
+    "id": "phar_q_55",
+    "questionNumber": 55,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each drug used in substance-use disorders with its mechanism.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Disulfiram | a. Partial agonist at α4β2 nicotinic receptors |\n| 2. Acamprosate | b. Inhibits aldehyde dehydrogenase |\n| 3. Varenicline | c. Partial agonist at µ opioid receptors |\n| 4. Buprenorphine | d. Modulates NMDA and GABA transmission, reducing craving |",
+    "options": [
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Disulfiram's effect persists for about a week after stopping, because the enzyme must be resynthesised. Varenicline carries a warning about cardiovascular events. Naltrexone is an opioid antagonist used in both alcohol and opioid dependence.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — acamprosate, oxazepam, varenicline), 2022 INI-CET (disulfiram mechanism and persistence), 2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (varenicline for smoking cessation, 4X), 2023 NEET-PG (buprenorphine maintenance), 2016 AIIMS (detoxification drugs)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (match — acamprosate, oxazepam, varenicline), 2022 INI-CET (disulfiram mechanism and persistence), 2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (varenicline for smoking cessation, 4X), 2023 NEET-PG (buprenorphine maintenance), 2016 AIIMS (detoxification drugs)"
+    }
+  },
+  {
+    "id": "phar_q_56",
+    "questionNumber": 56,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "In alcohol withdrawal with impaired liver function, the preferred benzodiazepine is",
+    "options": [
+      "Diazepam",
+      "Chlordiazepoxide",
+      "Oxazepam or lorazepam",
+      "Alprazolam"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "These undergo only glucuronide conjugation (Phase II) and have no active metabolites, so they do not accumulate in liver disease. Thiamine must be given before glucose to avoid precipitating Wernicke encephalopathy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (delirium tremens — oxazepam), 2020 INI-CET / 2018 NEET-PG (alcohol withdrawal — lorazepam), 2022 INI-CET (alcoholic seizure — IV diazepam and thiamine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET (delirium tremens — oxazepam), 2020 INI-CET / 2018 NEET-PG (alcohol withdrawal — lorazepam), 2022 INI-CET (alcoholic seizure — IV diazepam and thiamine)"
+    }
+  },
+  {
+    "id": "phar_q_57",
+    "questionNumber": 57,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Flumazenil is used for",
+    "options": [
+      "Long-term management of alcohol dependence",
+      "Reversal of benzodiazepine-induced sedation, used cautiously because it can precipitate seizures",
+      "Opioid overdose",
+      "Paracetamol overdose"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is a competitive antagonist at the benzodiazepine site. In a patient dependent on benzodiazepines, or who has also taken a tricyclic, reversal can cause status epilepticus. Its short half-life means re-sedation can occur.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (flumazenil for benzodiazepine toxicity), 2022 INI-CET (flumazenil not for alcohol dependence — false), 2016 AIIMS (not used in detoxification)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (flumazenil for benzodiazepine toxicity), 2022 INI-CET (flumazenil not for alcohol dependence — false), 2016 AIIMS (not used in detoxification)"
+    }
+  },
+  {
+    "id": "phar_q_58",
+    "questionNumber": 58,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Naloxone is given by all the following routes in opioid overdose EXCEPT",
+    "options": [
+      "Intravenous",
+      "Intramuscular",
+      "Intranasal",
+      "Oral"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Naloxone has extensive first-pass metabolism, so it is ineffective orally. That property is exploited in fixed combinations where oral naloxone deters misuse while remaining inactive systemically. Its short duration means repeated doses or infusion are needed for long-acting opioids.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (naloxone routes — not oral), 2020 NEET-PG (opioid poisoning — naloxone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2017 AIIMS (naloxone routes — not oral), 2020 NEET-PG (opioid poisoning — naloxone)"
+    }
+  },
+  {
+    "id": "phar_q_59",
+    "questionNumber": 59,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Morphine is traditionally avoided in biliary colic because it",
+    "options": [
+      "Causes hepatotoxicity",
+      "Is not analgesic",
+      "Causes spasm of the sphincter of Oddi and raises biliary pressure",
+      "Precipitates gallstones"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "All opioids do this to some degree, and modern practice allows their use with an antispasmodic. Morphine also causes constipation, to which tolerance does not develop, along with miosis and respiratory depression.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (morphine in biliary colic), 2021 NEET-PG (avoid morphine in biliary colic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (morphine in biliary colic), 2021 NEET-PG (avoid morphine in biliary colic)"
+    }
+  },
+  {
+    "id": "phar_q_60",
+    "questionNumber": 60,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Atropine is added to diphenoxylate in antidiarrhoeal preparations to",
+    "options": [
+      "Increase the antidiarrhoeal effect",
+      "Slow absorption",
+      "Prevent nausea",
+      "Discourage misuse by producing unpleasant antimuscarinic effects at higher doses"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The atropine dose is subtherapeutic at normal use. Loperamide does not cross the blood–brain barrier appreciably, so it has little abuse potential and is preferred, including for chemotherapy-induced diarrhoea.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (atropine with diphenoxylate — prevent abuse), 2019 NEET-PG (chemotherapy diarrhoea — loperamide)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 NEET-PG (atropine with diphenoxylate — prevent abuse), 2019 NEET-PG (chemotherapy diarrhoea — loperamide)"
+    }
+  },
+  {
+    "id": "phar_q_61",
+    "questionNumber": 61,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The drug most effective for the motor symptoms of Parkinson disease, and the reason carbidopa is combined with it, are",
+    "options": [
+      "Levodopa; carbidopa inhibits peripheral dopa decarboxylase, reducing nausea and increasing brain delivery",
+      "Pramipexole; carbidopa prolongs its action",
+      "Selegiline; carbidopa blocks MAO-B",
+      "Amantadine; carbidopa enhances its release"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Carbidopa does not cross the blood–brain barrier. Entacapone inhibits COMT to prolong the levodopa effect. Long-term levodopa causes motor fluctuations and dyskinesias.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (most effective for tremor, rigidity, bradykinesia — levodopa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2022 NEET-PG (most effective for tremor, rigidity, bradykinesia — levodopa)"
+    }
+  },
+  {
+    "id": "phar_q_62",
+    "questionNumber": 62,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "Match each drug used in dementia with its mechanism or special feature.\n\n| Drug | Feature |\n|---|---|\n| 1. Donepezil | a. NMDA receptor antagonist for moderate to severe disease |\n| 2. Memantine | b. Monoclonal antibody against amyloid beta |\n| 3. Rivastigmine | c. Long-acting cholinesterase inhibitor given once daily |\n| 4. Lecanemab | d. Cholinesterase inhibitor available as a transdermal patch |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Acetylcholine is the neurotransmitter most reduced in Alzheimer disease. The rivastigmine patch is useful when a patient refuses oral medication. Memantine is often combined with a cholinesterase inhibitor in advanced disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (memantine — NMDA antagonist, combination therapy), 2023 INI-CET (refusing oral drug — rivastigmine), 2022 NEET-PG (neurotransmitter reduced in Alzheimer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2023 INI-CET (memantine — NMDA antagonist, combination therapy), 2023 INI-CET (refusing oral drug — rivastigmine), 2022 NEET-PG (neurotransmitter reduced in Alzheimer)"
+    }
+  },
+  {
+    "id": "phar_q_63",
+    "questionNumber": 63,
+    "subject": "Pharmacology",
+    "subTopic": "Central Nervous System",
+    "sub_topic": "Central Nervous System",
+    "stem": "The drug of choice for restless legs syndrome presenting with crawling sensations relieved by movement is",
+    "options": [
+      "Metoclopramide",
+      "Haloperidol",
+      "Amitriptyline",
+      "Gabapentin or a dopamine agonist"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Iron deficiency should be corrected first, as ferritin below 75 µg/L is a common reversible cause. Dopamine antagonists such as metoclopramide and antidepressants worsen the condition. Gabapentin enacarbil and α2δ ligands avoid the augmentation seen with long-term dopamine agonists.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (restless legs — gabapentin), 2023 INI-CET (pregabalin in neuropathic pain)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Central Nervous System",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (restless legs — gabapentin), 2023 INI-CET (pregabalin in neuropathic pain)"
+    }
+  },
+  {
+    "id": "phar_q_64",
+    "questionNumber": 64,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "Match each antiarrhythmic with its Vaughan Williams class and main action.\n\n| Drug | Class and action |\n|---|---|\n| 1. Quinidine | a. Class II — β blockade |\n| 2. Lidocaine | b. Class III — potassium channel blockade |\n| 3. Metoprolol | c. Class IB — sodium channel block, shortens action potential |\n| 4. Ibutilide | d. Class IA — sodium channel block, prolongs action potential and QT |",
+    "options": [
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-a, 3-c, 4-b",
+      "1-d, 2-c, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Quinidine prolongs the QT interval and can cause torsades de pointes. Lidocaine is the drug of choice for digitalis-induced ventricular arrhythmia because it shortens the action potential and acts on ischaemic tissue. Digoxin is not in this classification; it inhibits Na⁺/K⁺ ATPase.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (match — quinidine, ibutilide, digoxin, 3X), 2023 INI-CET (quinidine prolongs action potential; VT with QT prolongation), 2018 NEET-PG / 2018 AIIMS (digitalis-induced VT — lidocaine)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (match — quinidine, ibutilide, digoxin, 3X), 2023 INI-CET (quinidine prolongs action potential; VT with QT prolongation), 2018 NEET-PG / 2018 AIIMS (digitalis-induced VT — lidocaine)"
+    }
+  },
+  {
+    "id": "phar_q_65",
+    "questionNumber": 65,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A patient on long-term amiodarone should be monitored for all of the following EXCEPT",
+    "options": [
+      "Thyroid dysfunction",
+      "Pulmonary fibrosis",
+      "Corneal microdeposits and slate-grey skin discoloration",
+      "Nephrotic syndrome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Amiodarone is iodine-rich, so both hypothyroidism and thyrotoxicosis occur. It also causes hepatotoxicity and peripheral neuropathy, and is contraindicated in interstitial lung disease. Its half-life is several weeks, so effects persist long after stopping.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (blue-pink skin discoloration — amiodarone), 2023 NEET-PG (pulmonary fibrosis; contraindicated in ILD), 2020 NEET-PG (IV amiodarone for VT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2023 INI-CET (blue-pink skin discoloration — amiodarone), 2023 NEET-PG (pulmonary fibrosis; contraindicated in ILD), 2020 NEET-PG (IV amiodarone for VT)"
+    }
+  },
+  {
+    "id": "phar_q_66",
+    "questionNumber": 66,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A patient on digoxin develops nausea, confusion and yellow-green visual halos. The factor most likely to have precipitated this is",
+    "options": [
+      "Hyperkalaemia",
+      "Hypokalaemia from a loop diuretic",
+      "Hypernatraemia",
+      "Hypocalcaemia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Potassium competes with digoxin for binding to Na⁺/K⁺ ATPase, so low potassium increases binding and toxicity. Hypomagnesaemia, hypercalcaemia, renal impairment and interacting drugs such as clarithromycin, verapamil and amiodarone also raise levels. Severe toxicity is treated with digoxin-specific antibody fragments.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (digoxin — xanthopsia, hypokalaemia), 2021 NEET-PG (digoxin overdose — immune Fab), 2019 NEET-PG (clarithromycin raising digoxin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2021 INI-CET (digoxin — xanthopsia, hypokalaemia), 2021 NEET-PG (digoxin overdose — immune Fab), 2019 NEET-PG (clarithromycin raising digoxin)"
+    }
+  },
+  {
+    "id": "phar_q_67",
+    "questionNumber": 67,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "In acute angina, the main benefit of sublingual nitroglycerin comes from",
+    "options": [
+      "Venodilatation that reduces preload and myocardial oxygen demand",
+      "Direct coronary arteriolar dilatation only",
+      "Increased heart rate",
+      "Increased contractility"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Nitrates are converted to nitric oxide, which activates guanylyl cyclase and raises cGMP. Sublingual administration avoids extensive first-pass metabolism, and nitroglycerin's lipid solubility allows rapid absorption. Tolerance requires a nitrate-free interval.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (nitrate decreases preload; nitroprusside activates guanylyl cyclase), 2014 AIIMS (sublingual nitroglycerin — lipid soluble), 2016 AIIMS (NO second messenger — cGMP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (nitrate decreases preload; nitroprusside activates guanylyl cyclase), 2014 AIIMS (sublingual nitroglycerin — lipid soluble), 2016 AIIMS (NO second messenger — cGMP)"
+    }
+  },
+  {
+    "id": "phar_q_68",
+    "questionNumber": 68,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A man taking tadalafil for erectile dysfunction presents with chest pain. The drug that must be avoided is",
+    "options": [
+      "Aspirin",
+      "Metoprolol",
+      "Atorvastatin",
+      "Any nitrate"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both raise cGMP, and together they cause profound, refractory hypotension. Nitrates should be withheld for 24 hours after sildenafil and 48 hours after tadalafil, which is the longest-acting PDE-5 inhibitor. Sildenafil and tadalafil are also used in pulmonary arterial hypertension.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2018 AIIMS (avoid vasodilators with sildenafil and tadalafil), 2023 NEET-PG (longest-acting PDE inhibitor — tadalafil)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2023 NEET-PG / 2018 AIIMS (avoid vasodilators with sildenafil and tadalafil), 2023 NEET-PG (longest-acting PDE inhibitor — tadalafil)"
+    }
+  },
+  {
+    "id": "phar_q_69",
+    "questionNumber": 69,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A patient with heart failure and reduced ejection fraction is started on sacubitril–valsartan. Sacubitril acts by",
+    "options": [
+      "Blocking angiotensin II receptors",
+      "Inhibiting neprilysin, so natriuretic peptides are not degraded",
+      "Inhibiting renin",
+      "Blocking aldosterone receptors"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It must be combined with an ARB rather than an ACE inhibitor, because combining neprilysin and ACE inhibition causes angioedema; a 36-hour washout is required when switching. Omapatrilat inhibited both and was abandoned for that reason.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2017 AIIMS (sacubitril — neutral endopeptidase inhibitor), 2023 NEET-PG (omapatrilat — ACE and NEP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2017 AIIMS (sacubitril — neutral endopeptidase inhibitor), 2023 NEET-PG (omapatrilat — ACE and NEP)"
+    }
+  },
+  {
+    "id": "phar_q_70",
+    "questionNumber": 70,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "The drug classes proven to reduce mortality in heart failure with reduced ejection fraction include all EXCEPT",
+    "options": [
+      "ACE inhibitors or ARNI",
+      "β blockers such as bisoprolol, carvedilol and metoprolol succinate",
+      "Mineralocorticoid receptor antagonists",
+      "Loop diuretics"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Diuretics relieve congestion and symptoms but do not improve survival. SGLT2 inhibitors such as dapagliflozin and empagliflozin are now the fourth pillar, with benefit regardless of diabetes status.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (nocturnal dyspnoea with cardiomegaly — captopril), 2022 NEET-PG (prevents remodelling, increases longevity — metoprolol/bisoprolol), 2022 INI-CET (empagliflozin/dapagliflozin in HFrEF)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2024 INI-CET (nocturnal dyspnoea with cardiomegaly — captopril), 2022 NEET-PG (prevents remodelling, increases longevity — metoprolol/bisoprolol), 2022 INI-CET (empagliflozin/dapagliflozin in HFrEF)"
+    }
+  },
+  {
+    "id": "phar_q_71",
+    "questionNumber": 71,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "ACE inhibitors are contraindicated in pregnancy because they cause",
+    "options": [
+      "Neural tube defects",
+      "Cardiac septal defects",
+      "Limb reduction defects",
+      "Fetal renal dysgenesis, oligohydramnios and skull hypoplasia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fetal renal perfusion depends on angiotensin II. Methyldopa, labetalol and nifedipine are the preferred antihypertensives in pregnancy. ACE inhibitors also cause a dry cough from bradykinin accumulation and hyperkalaemia.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (avoid ACE inhibitors in pregnancy), 2016 AIIMS (hypertension with seizures — nifedipine), 2021 INI-CET (avoid losartan in hyperkalaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2021 NEET-PG (avoid ACE inhibitors in pregnancy), 2016 AIIMS (hypertension with seizures — nifedipine), 2021 INI-CET (avoid losartan in hyperkalaemia)"
+    }
+  },
+  {
+    "id": "phar_q_72",
+    "questionNumber": 72,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A hypertensive patient with type 2 diabetes and albuminuria is best started on",
+    "options": [
+      "Atenolol",
+      "Hydrochlorothiazide",
+      "An ACE inhibitor or ARB",
+      "Prazosin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "These reduce intraglomerular pressure and slow progression of diabetic nephropathy. Telmisartan additionally has partial PPAR-γ agonist activity. Thiazides can worsen glycaemic control and raise urate.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hypertension with HbA1c >8 — telmisartan), 2015 AIIMS (telmisartan — PPAR-γ), 2020 INI-CET (hydrochlorothiazide not safe in diabetes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2022 INI-CET (hypertension with HbA1c >8 — telmisartan), 2015 AIIMS (telmisartan — PPAR-γ), 2020 INI-CET (hydrochlorothiazide not safe in diabetes)"
+    }
+  },
+  {
+    "id": "phar_q_73",
+    "questionNumber": 73,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A hypertensive patient with recurrent calcium oxalate stones benefits most from",
+    "options": [
+      "Furosemide",
+      "A thiazide diuretic",
+      "Spironolactone",
+      "Acetazolamide"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Thiazides increase distal tubular calcium reabsorption and lower urinary calcium. Loop diuretics do the opposite and promote stones. Acetazolamide alkalinises urine and predisposes to calcium phosphate stones.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (hypertension with renal colic — thiazides), 2021 NEET-PG (thiazide acts in DCT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2022 NEET-PG (hypertension with renal colic — thiazides), 2021 NEET-PG (thiazide acts in DCT)"
+    }
+  },
+  {
+    "id": "phar_q_74",
+    "questionNumber": 74,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "Verapamil combined with a β blocker is hazardous because the combination can cause",
+    "options": [
+      "Severe bradycardia and atrioventricular block",
+      "Hypertensive crisis",
+      "Ventricular tachycardia",
+      "Hyperkalaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Both suppress the sinoatrial and atrioventricular nodes and reduce contractility. Verapamil also causes constipation and inhibits P-glycoprotein, which raises digoxin levels. Dihydropyridines such as amlodipine do not have this nodal effect.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (metoprolol with verapamil — bradycardia and AV block), 2023 INI-CET (verapamil — constipation), 2024 INI-CET (verapamil inhibits ABC efflux)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular",
+      "basedOn": "2016 AIIMS (metoprolol with verapamil — bradycardia and AV block), 2023 INI-CET (verapamil — constipation), 2024 INI-CET (verapamil inhibits ABC efflux)"
+    }
+  },
+  {
+    "id": "phar_q_75",
+    "questionNumber": 75,
+    "subject": "Pharmacology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "Ranolazine relieves angina without lowering heart rate or blood pressure because it",
+    "options": [
+      "Blocks L-type calcium channels",
+      "Is a nitric oxide donor",
+      "Opens potassium channels",
+      "Inhibits the late inward sodium current, reducing calcium overload and diastolic wall tension"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is useful when heart rate and blood pressure are already low. It prolongs the QT interval and is metabolised by CYP3A4. Nicorandil, by contrast, is a potassium-channel opener with a nitrate component.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (late inward sodium channel blocker — ranolazine), 2018 NEET-PG / 2018 AIIMS (nicorandil — potassium channel opener)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cardiovascular",
+      "basedOn": "2020 NEET-PG (late inward sodium channel blocker — ranolazine), 2018 NEET-PG / 2018 AIIMS (nicorandil — potassium channel opener)"
+    }
+  },
+  {
+    "id": "phar_q_76",
+    "questionNumber": 76,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Heparin produces its anticoagulant effect by",
+    "options": [
+      "Directly inhibiting thrombin",
+      "Accelerating antithrombin III, which then inactivates thrombin and factor Xa",
+      "Blocking vitamin K epoxide reductase",
+      "Blocking ADP receptors"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Low-molecular-weight heparins are too short to bridge thrombin, so they act mainly on factor Xa and need no routine monitoring. Protamine reverses unfractionated heparin fully but LMWH only partly.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (heparin acts via antithrombin III), 2024 INI-CET / 2015 AIIMS (LMWH in cancer-associated thrombosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (heparin acts via antithrombin III), 2024 INI-CET / 2015 AIIMS (LMWH in cancer-associated thrombosis)"
+    }
+  },
+  {
+    "id": "phar_q_77",
+    "questionNumber": 77,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "A woman at 36 weeks of pregnancy with a prosthetic heart valve is on warfarin. The correct step is",
+    "options": [
+      "Continue warfarin until delivery",
+      "Stop all anticoagulation",
+      "Switch to heparin, because it does not cross the placenta",
+      "Switch to a direct oral anticoagulant"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Warfarin crosses the placenta and causes embryopathy in the first trimester (nasal hypoplasia and stippled epiphyses, through effects on osteocalcin) and fetal bleeding near delivery. Direct oral anticoagulants are contraindicated in pregnancy and with mechanical valves.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (36 weeks on warfarin — switch to heparin, 4X), 2016 AIIMS (switch at 36 weeks), 2017 AIIMS (warfarin embryopathy — osteocalcin)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2021 NEET-PG (36 weeks on warfarin — switch to heparin, 4X), 2016 AIIMS (switch at 36 weeks), 2017 AIIMS (warfarin embryopathy — osteocalcin)"
+    }
+  },
+  {
+    "id": "phar_q_78",
+    "questionNumber": 78,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Warfarin-induced skin necrosis in the first days of therapy occurs because",
+    "options": [
+      "Protein C, which has a short half-life, falls before the procoagulant factors, causing a transient prothrombotic state",
+      "Factor VII rises",
+      "Platelets are activated directly",
+      "Vitamin K accumulates"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The risk is greatest in people with inherited protein C deficiency, which is why heparin is overlapped with warfarin for at least 5 days. Purple toe syndrome is a separate late complication.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (purple toe and skin necrosis — warfarin), 2014 AIIMS pathology (rat poison and dermal necrosis — protein C deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2020 NEET-PG (purple toe and skin necrosis — warfarin), 2014 AIIMS pathology (rat poison and dermal necrosis — protein C deficiency)"
+    }
+  },
+  {
+    "id": "phar_q_79",
+    "questionNumber": 79,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Warfarin dose requirements vary between individuals largely because of genetic variation in",
+    "options": [
+      "CYP2D6 and MDR1",
+      "UGT1A1",
+      "CYP2C19 only",
+      "CYP2C9 and VKORC1"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "CYP2C9 metabolises the active S-isomer and VKORC1 is the drug target. CYP2C19 loss-of-function is the reason some patients fail to respond to clopidogrel, which is a prodrug.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (warfarin — CYP2C9 and VKORC1), 2022 INI-CET (clopidogrel failure — CYP2C19)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2017 AIIMS (warfarin — CYP2C9 and VKORC1), 2022 INI-CET (clopidogrel failure — CYP2C19)"
+    }
+  },
+  {
+    "id": "phar_q_80",
+    "questionNumber": 80,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Match each antiplatelet or anticoagulant with its mechanism.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Aspirin | a. Direct factor Xa inhibitor |\n| 2. Clopidogrel | b. Blocks glycoprotein IIb/IIIa |\n| 3. Rivaroxaban | c. Irreversibly inhibits cyclo-oxygenase, reducing thromboxane A2 |\n| 4. Tirofiban | d. Irreversibly blocks the P2Y12 ADP receptor |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ticagrelor is a reversible P2Y12 blocker that does not need activation. Abciximab and eptifibatide are the other glycoprotein IIb/IIIa inhibitors. Andexanet alfa reverses factor Xa inhibitors and idarucizumab reverses dabigatran.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2015 AIIMS (aspirin — thromboxane A2), 2018 AIIMS (ADP receptor blockers), 2023 INI-CET / 2014 AIIMS (GpIIb/IIIa inhibitors), 2022 NEET-PG / 2016 AIIMS (rivaroxaban), 2020 INI-CET (andexanet alfa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2018 NEET-PG / 2015 AIIMS (aspirin — thromboxane A2), 2018 AIIMS (ADP receptor blockers), 2023 INI-CET / 2014 AIIMS (GpIIb/IIIa inhibitors), 2022 NEET-PG / 2016 AIIMS (rivaroxaban), 2020 INI-CET (andexanet alfa)"
+    }
+  },
+  {
+    "id": "phar_q_81",
+    "questionNumber": 81,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Alteplase dissolves thrombi by",
+    "options": [
+      "Directly degrading fibrin",
+      "Converting plasminogen to plasmin, preferentially on fibrin-bound plasminogen",
+      "Inhibiting antithrombin",
+      "Blocking factor Xa"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This fibrin selectivity limits systemic fibrinogen depletion compared with streptokinase. The opposite effect is produced by tranexamic acid and aminocaproic acid, which block the conversion of plasminogen to plasmin.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (tPA — enhances fibrin degradation), 2018 NEET-PG / 2015 AIIMS (aminocaproic acid — antifibrinolytic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2023 NEET-PG (tPA — enhances fibrin degradation), 2018 NEET-PG / 2015 AIIMS (aminocaproic acid — antifibrinolytic)"
+    }
+  },
+  {
+    "id": "phar_q_82",
+    "questionNumber": 82,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Oral iron absorption is best when the tablet is taken",
+    "options": [
+      "With milk",
+      "With an antacid",
+      "On an empty stomach, with vitamin C",
+      "With tea"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ascorbate reduces ferric to the better-absorbed ferrous form. Phytates, tannins in tea, calcium, antacids and proton pump inhibitors reduce absorption. In iron poisoning, the chelator is desferrioxamine; dimercaprol is contraindicated because its iron complex is itself toxic.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (vitamin C increases iron absorption), 2023 NEET-PG (desferrioxamine), 2023 NEET-PG (BAL contraindicated in iron poisoning), 2022 INI-CET (serum iron >500 µg/dL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2020 NEET-PG (vitamin C increases iron absorption), 2023 NEET-PG (desferrioxamine), 2023 NEET-PG (BAL contraindicated in iron poisoning), 2022 INI-CET (serum iron >500 µg/dL)"
+    }
+  },
+  {
+    "id": "phar_q_83",
+    "questionNumber": 83,
+    "subject": "Pharmacology",
+    "subTopic": "Blood And Coagulation",
+    "sub_topic": "Blood And Coagulation",
+    "stem": "Erythropoietin is most clearly indicated for anaemia due to",
+    "options": [
+      "Chronic kidney disease",
+      "Iron deficiency",
+      "Acute blood loss",
+      "Thalassaemia major"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Iron stores must be adequate first, or the response fails. Over-correction of haemoglobin raises the risk of hypertension, thrombosis and stroke, so a target below normal is used. Oprelvekin (IL-11) is used for chemotherapy-induced thrombocytopenia and filgrastim for neutropenia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (erythropoietin in CKD anaemia, 2X), 2023 NEET-PG (oprelvekin), 2022 NEET-PG (filgrastim)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Blood And Coagulation",
+      "basedOn": "2020 INI-CET (erythropoietin in CKD anaemia, 2X), 2023 NEET-PG (oprelvekin), 2022 NEET-PG (filgrastim)"
+    }
+  },
+  {
+    "id": "phar_q_84",
+    "questionNumber": 84,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Match each oral antidiabetic class with its mechanism.\n\n| Class | Mechanism |\n|---|---|\n| 1. Metformin | a. Inhibits DPP-4, raising GLP-1 and GIP |\n| 2. Sitagliptin | b. Activates PPAR-γ, improving insulin sensitivity |\n| 3. Pioglitazone | c. Blocks renal sodium–glucose cotransporter 2 |\n| 4. Dapagliflozin | d. Activates AMP kinase and reduces hepatic gluconeogenesis |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Sulfonylureas close the ATP-sensitive potassium channel on β cells and cause hypoglycaemia and weight gain. Metformin, DPP-4 inhibitors and SGLT2 inhibitors do not cause hypoglycaemia when used alone.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sitagliptin raises GIP and GLP-1), 2023 NEET-PG (pioglitazone), 2023 INI-CET (dapagliflozin and UTI), 2015 AIIMS (rosiglitazone does not increase insulin secretion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2023 INI-CET (sitagliptin raises GIP and GLP-1), 2023 NEET-PG (pioglitazone), 2023 INI-CET (dapagliflozin and UTI), 2015 AIIMS (rosiglitazone does not increase insulin secretion)"
+    }
+  },
+  {
+    "id": "phar_q_85",
+    "questionNumber": 85,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "An SGLT2 inhibitor is particularly indicated, independent of glycaemic control, in a patient with",
+    "options": [
+      "Severe hepatic failure",
+      "Recurrent genital candidiasis",
+      "Type 1 diabetes alone",
+      "Heart failure with reduced ejection fraction or chronic kidney disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cardiorenal benefit is now the main reason for prescribing them. Adverse effects include genital mycotic infections, urinary infection, volume depletion, euglycaemic ketoacidosis and rarely Fournier gangrene.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (empagliflozin/dapagliflozin in HFrEF), 2020 INI-CET (canagliflozin — vulvovaginal itching; SGLT2 side effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2022 INI-CET (empagliflozin/dapagliflozin in HFrEF), 2020 INI-CET (canagliflozin — vulvovaginal itching; SGLT2 side effects)"
+    }
+  },
+  {
+    "id": "phar_q_86",
+    "questionNumber": 86,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "The antidiabetic that needs NO dose reduction in advanced renal impairment is",
+    "options": [
+      "Metformin",
+      "Glibenclamide",
+      "Linagliptin",
+      "Sitagliptin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Linagliptin is excreted mainly through the bile. Metformin is stopped when eGFR falls below 30 because of lactic acidosis risk, which is also increased by advanced age, liver disease and hypoxia. Metformin additionally causes B12 malabsorption and unexplained diarrhoea.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (linagliptin in CKD), 2022 NEET-PG (no dose reduction in renal failure), 2016 AIIMS (metformin lactic acidosis risk factors), 2023 INI-CET (metformin and diarrhoea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (linagliptin in CKD), 2022 NEET-PG (no dose reduction in renal failure), 2016 AIIMS (metformin lactic acidosis risk factors), 2023 INI-CET (metformin and diarrhoea)"
+    }
+  },
+  {
+    "id": "phar_q_87",
+    "questionNumber": 87,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "A child with type 1 diabetes presents with ketoacidosis and a blood glucose of 400 mg/dL. The correct first step is",
+    "options": [
+      "Intravenous bolus insulin alone",
+      "Sodium bicarbonate first",
+      "Subcutaneous long-acting insulin",
+      "Normal saline in the first hour, then an insulin infusion"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fluid is given first because these children are markedly volume depleted, and starting insulin too early worsens the shift of fluid and potassium. Potassium is added once urine output is confirmed, and bicarbonate is reserved for extreme acidosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (type 1 diabetes with acidosis — saline then insulin infusion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2022 INI-CET (type 1 diabetes with acidosis — saline then insulin infusion)"
+    }
+  },
+  {
+    "id": "phar_q_88",
+    "questionNumber": 88,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "The GLP-1 receptor agonist approved for long-term weight management is",
+    "options": [
+      "Liraglutide",
+      "Sitagliptin",
+      "Glimepiride",
+      "Acarbose"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "GLP-1 agonists slow gastric emptying and reduce appetite centrally. Semaglutide and tirzepatide have larger effects. Adverse effects are nausea, pancreatitis and gallstones, and they are avoided in medullary thyroid carcinoma and MEN 2.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (liraglutide for long-term obesity treatment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2020 INI-CET (liraglutide for long-term obesity treatment)"
+    }
+  },
+  {
+    "id": "phar_q_89",
+    "questionNumber": 89,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Which drug REDUCES bone resorption rather than stimulating bone formation?",
+    "options": [
+      "Teriparatide",
+      "Abaloparatide",
+      "Zoledronic acid",
+      "Romosozumab"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Bisphosphonates, denosumab, raloxifene and oestrogen are antiresorptive. Teriparatide is anabolic when given intermittently, but continuous exposure increases resorption, and long use has been linked to osteosarcoma in animals. Oral bisphosphonates are taken on an empty stomach with water, sitting upright.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (drugs decreasing bone resorption — not teriparatide, 3X), 2023 INI-CET (teriparatide and osteosarcoma), 2015 AIIMS (bisphosphonates on empty stomach)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (drugs decreasing bone resorption — not teriparatide, 3X), 2023 INI-CET (teriparatide and osteosarcoma), 2015 AIIMS (bisphosphonates on empty stomach)"
+    }
+  },
+  {
+    "id": "phar_q_90",
+    "questionNumber": 90,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "A patient in thyroid storm should receive all of the following EXCEPT",
+    "options": [
+      "Propranolol",
+      "Propylthiouracil, then iodine at least an hour later",
+      "Hydrocortisone",
+      "Aspirin for fever"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Aspirin displaces thyroid hormone from thyroid-binding globulin and raises free hormone levels, so paracetamol is used instead. Propylthiouracil is preferred in storm because it also blocks peripheral T4 to T3 conversion. Iodine must follow the thionamide to avoid fuelling hormone synthesis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (thyroid storm — propranolol, Lugol's iodine, acetaminophen, not aspirin), 2016 AIIMS (thionamide side effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2022 INI-CET (thyroid storm — propranolol, Lugol's iodine, acetaminophen, not aspirin), 2016 AIIMS (thionamide side effects)"
+    }
+  },
+  {
+    "id": "phar_q_91",
+    "questionNumber": 91,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Propylthiouracil rather than carbimazole is preferred in the first trimester of pregnancy because carbimazole is associated with",
+    "options": [
+      "Aplasia cutis and choanal atresia",
+      "Neural tube defects",
+      "Limb reduction defects",
+      "Fetal goitre only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "PTU carries a greater risk of hepatotoxicity, so it is used only in the first trimester and then changed. Both drugs can cause agranulocytosis, and patients are told to report sore throat and fever immediately.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (8-week pregnancy with hyperthyroidism — propylthiouracil), 2016 AIIMS (thionamide adverse effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2019 NEET-PG (8-week pregnancy with hyperthyroidism — propylthiouracil), 2016 AIIMS (thionamide adverse effects)"
+    }
+  },
+  {
+    "id": "phar_q_92",
+    "questionNumber": 92,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "A patient on long-term oral prednisolone for rheumatoid arthritis stops it abruptly and collapses with hypotension, hyponatraemia, hyperkalaemia and hypoglycaemia. The immediate treatment is",
+    "options": [
+      "Dopamine infusion only",
+      "Intravenous insulin",
+      "Oral fludrocortisone alone",
+      "Intravenous hydrocortisone"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Suppression of the hypothalamic–pituitary–adrenal axis means endogenous cortisol cannot rise. Steroids given for more than 2–3 weeks must be tapered. Topical steroid side effects include skin atrophy, striae, telangiectasia and hypertrichosis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (sudden stop of steroid — hydrocortisone), 2024 INI-CET (topical steroid side effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2020 INI-CET (sudden stop of steroid — hydrocortisone), 2024 INI-CET (topical steroid side effects)"
+    }
+  },
+  {
+    "id": "phar_q_93",
+    "questionNumber": 93,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Antenatal corticosteroids for fetal lung maturation are given as",
+    "options": [
+      "Betamethasone 12 mg intramuscularly, two doses 24 hours apart, or dexamethasone 6 mg 12-hourly for four doses",
+      "Oral prednisolone for 7 days",
+      "Hydrocortisone 100 mg once",
+      "Single-dose methylprednisolone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Betamethasone and dexamethasone cross the placenta readily because they are not inactivated by placental 11β-hydroxysteroid dehydrogenase, unlike hydrocortisone and prednisolone.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dexamethasone 6 mg 12-hourly, four doses)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2023 INI-CET (dexamethasone 6 mg 12-hourly, four doses)"
+    }
+  },
+  {
+    "id": "phar_q_94",
+    "questionNumber": 94,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "A woman with chronic hypertension develops postpartum haemorrhage. The uterotonic that must be AVOIDED is",
+    "options": [
+      "Oxytocin",
+      "Misoprostol",
+      "Methylergometrine",
+      "Tranexamic acid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ergot alkaloids cause generalised vasoconstriction and can precipitate hypertensive crisis and stroke. Carboprost (a PGF2α analogue) is avoided in asthma because it causes bronchospasm. Oxytocin is avoided in significant cardiac disease because of its vasodilator and antidiuretic effects.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypertension with headache — avoid methylergometrine), 2023 NEET-PG (asthma with PPH — avoid carboprost), 2021 NEET-PG (oxytocin avoided in heart disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2024 INI-CET (hypertension with headache — avoid methylergometrine), 2023 NEET-PG (asthma with PPH — avoid carboprost), 2021 NEET-PG (oxytocin avoided in heart disease)"
+    }
+  },
+  {
+    "id": "phar_q_95",
+    "questionNumber": 95,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Magnesium sulphate in severe pre-eclampsia should be withheld or stopped when",
+    "options": [
+      "Deep tendon reflexes are present",
+      "Respiratory rate is above 16 per minute",
+      "Patellar reflexes are absent, respiration is below 12 per minute, or urine output is below 30 mL/hour",
+      "Blood pressure falls below 150/100"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Loss of the patellar reflex is the earliest warning. Magnesium is renally excreted, so oliguria causes accumulation. The antidote is intravenous calcium gluconate. Magnesium is also fetal neuroprotective in preterm labour.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (MgSO4 neuroprotective, reduces seizures), 2023 NEET-PG (indication to stop MgSO4 — urine output)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2024 INI-CET (MgSO4 neuroprotective, reduces seizures), 2023 NEET-PG (indication to stop MgSO4 — urine output)"
+    }
+  },
+  {
+    "id": "phar_q_96",
+    "questionNumber": 96,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "A woman whose newborn has died wishes to suppress lactation. The appropriate drug is",
+    "options": [
+      "Cabergoline",
+      "Metoclopramide",
+      "Domperidone",
+      "Oxytocin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cabergoline is a long-acting dopamine D2 agonist that suppresses prolactin. It is also the drug of choice for prolactinoma, where it shrinks the tumour. Metoclopramide and domperidone block D2 receptors and therefore raise prolactin.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (suppress lactation — cabergoline), 2020 NEET-PG (pituitary adenoma — cabergoline)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2024 INI-CET (suppress lactation — cabergoline), 2020 NEET-PG (pituitary adenoma — cabergoline)"
+    }
+  },
+  {
+    "id": "phar_q_97",
+    "questionNumber": 97,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Pegvisomant is used in acromegaly that is resistant to other treatment. It acts as",
+    "options": [
+      "A somatostatin analogue",
+      "A growth hormone receptor antagonist",
+      "A dopamine agonist",
+      "An IGF-1 analogue"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It lowers IGF-1 but not GH levels, so IGF-1 is used for monitoring, and it does not shrink the tumour. Octreotide and lanreotide are somatostatin analogues that do reduce both GH and tumour size.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (pegvisomant — GH receptor blocker), 2021 NEET-PG (lanreotide depot for acromegaly)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (pegvisomant — GH receptor blocker), 2021 NEET-PG (lanreotide depot for acromegaly)"
+    }
+  },
+  {
+    "id": "phar_q_98",
+    "questionNumber": 98,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Finasteride reduces prostate size in benign prostatic hyperplasia by",
+    "options": [
+      "Blocking α1 receptors",
+      "Inhibiting aromatase",
+      "Blocking androgen receptors",
+      "Inhibiting 5α-reductase, lowering intracellular dihydrotestosterone"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It takes 3–6 months to work, roughly halves the PSA value, and causes sexual dysfunction. α blockers relieve symptoms within days by relaxing smooth muscle, so the two are often combined.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (5α-reductase inhibitor — decrease intracellular DHT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2021 INI-CET (5α-reductase inhibitor — decrease intracellular DHT)"
+    }
+  },
+  {
+    "id": "phar_q_99",
+    "questionNumber": 99,
+    "subject": "Pharmacology",
+    "subTopic": "Endocrine And Reproductive",
+    "sub_topic": "Endocrine And Reproductive",
+    "stem": "Metyrapone is used in the investigation and treatment of Cushing syndrome because it inhibits",
+    "options": [
+      "The glucocorticoid receptor",
+      "ACTH release",
+      "11β-hydroxylase, the last step of cortisol synthesis",
+      "21-hydroxylase only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ketoconazole also blocks steroidogenesis at several steps, and mifepristone blocks the glucocorticoid receptor. Etomidate inhibits the same enzyme as metyrapone, which explains its adrenal suppression.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (metyrapone inhibits glucocorticoid synthesis), 2024 INI-CET (etomidate and adrenal insufficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Endocrine And Reproductive",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (metyrapone inhibits glucocorticoid synthesis), 2024 INI-CET (etomidate and adrenal insufficiency)"
+    }
+  },
+  {
+    "id": "phar_q_100",
+    "questionNumber": 100,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "The analgesic of choice for a patient with end-stage renal disease on dialysis is",
+    "options": [
+      "Diclofenac",
+      "Ibuprofen",
+      "Paracetamol",
+      "Ketorolac"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "NSAIDs reduce prostaglandin-dependent afferent arteriolar dilatation and worsen renal function, and also raise cardiovascular and gastrointestinal risk. In paracetamol overdose, N-acetylcysteine replenishes glutathione and neutralises NAPQI.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (analgesic in renal failure on dialysis — acetaminophen), 2020 NEET-PG (paracetamol overdose — N-acetylcysteine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2019 NEET-PG (analgesic in renal failure on dialysis — acetaminophen), 2020 NEET-PG (paracetamol overdose — N-acetylcysteine)"
+    }
+  },
+  {
+    "id": "phar_q_101",
+    "questionNumber": 101,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "A woman at 32 weeks of pregnancy is given indomethacin for polyhydramnios. The main fetal risk is",
+    "options": [
+      "Premature closure of the ductus arteriosus",
+      "Neural tube defect",
+      "Deafness",
+      "Limb defects"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prostaglandins keep the ductus open, so NSAIDs close it; the same mechanism is used therapeutically with indomethacin or ibuprofen to close a patent ductus in preterm babies. Prostaglandin E1 (alprostadil) keeps it open in duct-dependent heart disease.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (indomethacin in pregnancy — premature closure of ductus), 2016 AIIMS (misoprostol — PGE1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2018 NEET-PG (indomethacin in pregnancy — premature closure of ductus), 2016 AIIMS (misoprostol — PGE1)"
+    }
+  },
+  {
+    "id": "phar_q_102",
+    "questionNumber": 102,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "An asthmatic develops wheeze, rhinorrhoea and nasal polyps after taking aspirin. This reaction is",
+    "options": [
+      "An IgE-mediated type I hypersensitivity reaction",
+      "Due to shunting of arachidonic acid down the lipoxygenase pathway, increasing leukotrienes",
+      "A type III immune complex reaction",
+      "Direct bronchial irritation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is aspirin-exacerbated respiratory disease, which is pharmacological and not allergic, so all non-selective COX inhibitors cross-react. Leukotriene modifiers such as montelukast and zileuton are useful.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (aspirin wheeze — not type I hypersensitivity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Autacoids And Others",
+      "basedOn": "2022 NEET-PG (aspirin wheeze — not type I hypersensitivity)"
+    }
+  },
+  {
+    "id": "phar_q_103",
+    "questionNumber": 103,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "In an acute attack of gout, colchicine relieves pain by",
+    "options": [
+      "Lowering serum urate",
+      "Inhibiting xanthine oxidase",
+      "Binding tubulin and preventing neutrophil migration and NLRP3 inflammasome activation",
+      "Increasing uric acid excretion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Colchicine has no effect on urate levels. Its dose-limiting adverse effect is diarrhoea, and it causes metaphase arrest. NSAIDs and short-course steroids are the other options for an acute attack.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2018 AIIMS (colchicine — neutrophil migration, metaphase arrest, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2022 NEET-PG / 2018 AIIMS (colchicine — neutrophil migration, metaphase arrest, 2X)"
+    }
+  },
+  {
+    "id": "phar_q_104",
+    "questionNumber": 104,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Starting allopurinol during an acute attack of gout is avoided because",
+    "options": [
+      "It has no effect on urate",
+      "It raises urate initially",
+      "It causes immediate renal failure",
+      "A sudden fall in serum urate mobilises crystals and can prolong or worsen the attack"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Urate-lowering therapy is started after the attack settles, under cover of colchicine or an NSAID. Allopurinol and febuxostat inhibit xanthine oxidase; probenecid and benzbromarone are uricosuric and avoided when there are urate stones.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (xanthine oxidase inhibition — allopurinol), 2023 INI-CET / 2014 AIIMS (febuxostat for gout), 2021 NEET-PG (probenecid), 2017 AIIMS (uricosuric drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2020 NEET-PG (xanthine oxidase inhibition — allopurinol), 2023 INI-CET / 2014 AIIMS (febuxostat for gout), 2021 NEET-PG (probenecid), 2017 AIIMS (uricosuric drugs)"
+    }
+  },
+  {
+    "id": "phar_q_105",
+    "questionNumber": 105,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Allopurinol markedly increases the toxicity of which drug, requiring a large dose reduction?",
+    "options": [
+      "Azathioprine",
+      "Methotrexate",
+      "Cyclosporine",
+      "Paracetamol"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Azathioprine is converted to 6-mercaptopurine, which is inactivated by xanthine oxidase. Blocking that enzyme causes severe myelosuppression. Azathioprine toxicity also shows as raised transaminases, and TPMT deficiency is a separate cause.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (liver enzyme raised in azathioprine toxicity), 2023 INI-CET (azathioprine not first-line in rheumatoid arthritis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Autacoids And Others",
+      "basedOn": "2015 AIIMS (liver enzyme raised in azathioprine toxicity), 2023 INI-CET (azathioprine not first-line in rheumatoid arthritis)"
+    }
+  },
+  {
+    "id": "phar_q_106",
+    "questionNumber": 106,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "A patient with migraine and known coronary artery disease develops chest pain after taking a triptan. The mechanism is",
+    "options": [
+      "Dopamine blockade",
+      "5-HT2 antagonism",
+      "5-HT1B/1D agonism causing coronary vasoconstriction",
+      "Histamine release"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Triptans are contraindicated in ischaemic heart disease, uncontrolled hypertension and hemiplegic migraine. Ergot alkaloids are even more strongly vasoconstrictive and can cause ergotism with limb ischaemia; the newer CGRP antagonists avoid this.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (migraine with CAD, chest pain — 5-HT1B/1D agonist), 2022 NEET-PG (sumatriptan for migraine), 2021 INI-CET (ergotism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2020 INI-CET (migraine with CAD, chest pain — 5-HT1B/1D agonist), 2022 NEET-PG (sumatriptan for migraine), 2021 INI-CET (ergotism)"
+    }
+  },
+  {
+    "id": "phar_q_107",
+    "questionNumber": 107,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Which antihistamine carries the greatest risk of torsades de pointes when combined with erythromycin?",
+    "options": [
+      "Cetirizine",
+      "Loratadine",
+      "Astemizole",
+      "Fexofenadine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Astemizole and terfenadine block cardiac potassium channels, and erythromycin inhibits their metabolism, so both were withdrawn. Fexofenadine is the safe active metabolite of terfenadine. Promethazine, a sedating antihistamine, is used for motion sickness.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (astemizole with erythromycin — torsades), 2018 NEET-PG (promethazine for motion sickness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2023 NEET-PG (astemizole with erythromycin — torsades), 2018 NEET-PG (promethazine for motion sickness)"
+    }
+  },
+  {
+    "id": "phar_q_108",
+    "questionNumber": 108,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "A patient in the emergency department with severe asthma is given nebulised salbutamol and intravenous hydrocortisone. Steroids help in this setting mainly by",
+    "options": [
+      "Producing immediate bronchodilatation",
+      "Reducing airway inflammation and upregulating β2 receptors, with benefit over hours",
+      "Blocking leukotriene receptors",
+      "Inhibiting phosphodiesterase"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Steroids are not bronchodilators but are essential in acute severe asthma. Salbutamol causes tremor, tachycardia, hypokalaemia and hyperglycaemia. Inhaled steroids predispose to oral candidiasis, which is reduced by rinsing the mouth.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (useful in asthma but not bronchodilator — hydrocortisone), 2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (salbutamol side effects, 4X), 2014 AIIMS (steroids facilitate β agonists), 2023 NEET-PG (inhaled steroid thrush — clotrimazole)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2022 NEET-PG (useful in asthma but not bronchodilator — hydrocortisone), 2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (salbutamol side effects, 4X), 2014 AIIMS (steroids facilitate β agonists), 2023 NEET-PG (inhaled steroid thrush — clotrimazole)"
+    }
+  },
+  {
+    "id": "phar_q_109",
+    "questionNumber": 109,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Theophylline should not be combined with erythromycin or ciprofloxacin because these drugs",
+    "options": [
+      "Antagonise its bronchodilator effect",
+      "Displace it from albumin",
+      "Increase its renal clearance",
+      "Inhibit CYP1A2 and raise theophylline levels towards toxicity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Theophylline has a narrow therapeutic index, causing nausea, arrhythmia and seizures. It inhibits phosphodiesterase (causing gastrointestinal upset through PDE4) and antagonises adenosine receptors, which explains its diuretic effect and the wakefulness caused by caffeine.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (antibiotic not combined with theophylline — erythromycin), 2018 AIIMS (GI discomfort — PDE4), 2020 NEET-PG (diuresis — adenosine A1 antagonism), 2019 NEET-PG (caffeine — adenosine antagonism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2021 NEET-PG (antibiotic not combined with theophylline — erythromycin), 2018 AIIMS (GI discomfort — PDE4), 2020 NEET-PG (diuresis — adenosine A1 antagonism), 2019 NEET-PG (caffeine — adenosine antagonism)"
+    }
+  },
+  {
+    "id": "phar_q_110",
+    "questionNumber": 110,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Omalizumab is used in severe allergic asthma. It acts by",
+    "options": [
+      "Binding free IgE and preventing it from attaching to mast cell FcεRI receptors",
+      "Blocking IL-5",
+      "Blocking leukotriene receptors",
+      "Depleting eosinophils directly"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Mepolizumab and benralizumab target the IL-5 pathway in eosinophilic asthma, and dupilumab targets IL-4Rα. These biologics are reserved for severe disease uncontrolled on inhaled therapy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (IgE antagonist — omalizumab)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2024 INI-CET (IgE antagonist — omalizumab)"
+    }
+  },
+  {
+    "id": "phar_q_111",
+    "questionNumber": 111,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Prokinetic drugs used in gastroparesis include all of the following mechanisms EXCEPT",
+    "options": [
+      "Dopamine D2 antagonism",
+      "5-HT4 receptor agonism",
+      "Motilin receptor agonism",
+      "Muscarinic receptor antagonism"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Antimuscarinics slow gut motility. Metoclopramide and domperidone are D2 blockers, prucalopride is a 5-HT4 agonist, and erythromycin acts on motilin receptors. Metoclopramide crosses into the brain and causes dystonia; domperidone does not.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (prokinetics — 5-HT4 agonist, D2 blocker, macrolides), 2022 INI-CET (prucalopride — 5-HT4 agonist), 2024 INI-CET / 2015 AIIMS (metoclopramide and abnormal posturing), 2018 AIIMS (metoclopramide — D2 antagonism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2023 NEET-PG (prokinetics — 5-HT4 agonist, D2 blocker, macrolides), 2022 INI-CET (prucalopride — 5-HT4 agonist), 2024 INI-CET / 2015 AIIMS (metoclopramide and abnormal posturing), 2018 AIIMS (metoclopramide — D2 antagonism)"
+    }
+  },
+  {
+    "id": "phar_q_112",
+    "questionNumber": 112,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "A patient on phenytoin is also prescribed sucralfate. The two should be separated by about 2 hours because sucralfate",
+    "options": [
+      "Induces phenytoin metabolism",
+      "Binds phenytoin in the gut and reduces its absorption",
+      "Displaces phenytoin from albumin",
+      "Blocks renal excretion of phenytoin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Sucralfate forms a viscous polymer that also chelates other drugs, including fluoroquinolones, digoxin and levothyroxine. Antacids and iron behave similarly, so timing matters.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (minimum gap between phenytoin and sucralfate — 120 min)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Autacoids And Others",
+      "basedOn": "2024 INI-CET (minimum gap between phenytoin and sucralfate — 120 min)"
+    }
+  },
+  {
+    "id": "phar_q_113",
+    "questionNumber": 113,
+    "subject": "Pharmacology",
+    "subTopic": "Autacoids And Others",
+    "sub_topic": "Autacoids And Others",
+    "stem": "Acetazolamide helps in acute mountain sickness by",
+    "options": [
+      "Causing a bicarbonate diuresis and metabolic acidosis, which stimulates ventilation",
+      "Causing direct cerebral vasoconstriction",
+      "Blocking aldosterone",
+      "Increasing haemoglobin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It acts on carbonic anhydrase in the proximal tubule and offsets the respiratory alkalosis of hypoxic hyperventilation. Immediate descent and oxygen remain the definitive measures. Dorzolamide is the topical form used in glaucoma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (altitude sickness — descent, oxygen, acetazolamide, 3X), 2021 INI-CET (carbonic anhydrase inhibitors act in proximal tubule), 2017 AIIMS (acetazolamide, dorzolamide)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Autacoids And Others",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (altitude sickness — descent, oxygen, acetazolamide, 3X), 2021 INI-CET (carbonic anhydrase inhibitors act in proximal tubule), 2017 AIIMS (acetazolamide, dorzolamide)"
+    }
+  },
+  {
+    "id": "phar_q_114",
+    "questionNumber": 114,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Match each antibacterial with its mechanism of action.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Vancomycin | a. Inhibits DNA gyrase (topoisomerase II) |\n| 2. Ciprofloxacin | b. Binds the 50S subunit and blocks formation of the initiation complex |\n| 3. Linezolid | c. Binds D-alanyl-D-alanine and blocks cell wall cross-linking |\n| 4. Gentamicin | d. Binds the 30S subunit, causing misreading of mRNA |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Vancomycin resistance in enterococci comes from replacing the terminal D-alanine with D-lactate. Linezolid's unique binding site means no cross-resistance with other protein synthesis inhibitors.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (binds D-ala-D-ala — vancomycin), 2019 NEET-PG (DNA gyrase — ciprofloxacin), 2016 AIIMS (protein synthesis inhibitors)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET (binds D-ala-D-ala — vancomycin), 2019 NEET-PG (DNA gyrase — ciprofloxacin), 2016 AIIMS (protein synthesis inhibitors)"
+    }
+  },
+  {
+    "id": "phar_q_115",
+    "questionNumber": 115,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Aminoglycosides are ineffective against anaerobic organisms because",
+    "options": [
+      "Anaerobes lack ribosomes",
+      "They are destroyed by low pH",
+      "Anaerobes produce β-lactamase",
+      "Their uptake into the cell requires oxygen-dependent active transport"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The same reason explains poor activity in abscesses and acidic environments. Aminoglycosides show concentration-dependent killing with a post-antibiotic effect, which is why once-daily dosing is used, and they cause nephrotoxicity and ototoxicity.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (aminoglycosides do not act on anaerobes), 2015 AIIMS (drugs causing hearing loss)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (aminoglycosides do not act on anaerobes), 2015 AIIMS (drugs causing hearing loss)"
+    }
+  },
+  {
+    "id": "phar_q_116",
+    "questionNumber": 116,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Imipenem is combined with cilastatin because cilastatin",
+    "options": [
+      "Broadens its antibacterial spectrum",
+      "Inhibits renal dehydropeptidase I, which would otherwise degrade imipenem in the tubule",
+      "Inhibits β-lactamase",
+      "Reduces seizure risk directly"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cilastatin has no antibacterial activity. Imipenem has the highest seizure risk among carbapenems; meropenem is preferred in CNS infection. Ertapenem does not cover *Pseudomonas*, *Acinetobacter* or *Enterococcus*.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (cilastatin and renal enzyme), 2019 NEET-PG / 2018 AIIMS (imipenem — maximum seizures)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (cilastatin and renal enzyme), 2019 NEET-PG / 2018 AIIMS (imipenem — maximum seizures)"
+    }
+  },
+  {
+    "id": "phar_q_117",
+    "questionNumber": 117,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Which antibiotic is NOT active against methicillin-resistant Staphylococcus aureus?",
+    "options": [
+      "Vancomycin",
+      "Linezolid",
+      "Piperacillin–tazobactam",
+      "Daptomycin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Methicillin resistance is due to altered PBP2a, so **all** β-lactams fail, including carbapenems, regardless of β-lactamase inhibitors. Ceftaroline is the exception among cephalosporins. Daptomycin is inactivated by surfactant, so it cannot be used in pneumonia.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (MRSA also resistant to piperacillin), 2020 INI-CET (meropenem not for MRSA), 2016 AIIMS (daptomycin killing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET (MRSA also resistant to piperacillin), 2020 INI-CET (meropenem not for MRSA), 2016 AIIMS (daptomycin killing)"
+    }
+  },
+  {
+    "id": "phar_q_118",
+    "questionNumber": 118,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "A patient on chemotherapy with pancytopenia develops a resistant Gram-positive infection. The antibiotic to use with caution is",
+    "options": [
+      "Linezolid, because it causes myelosuppression",
+      "Vancomycin",
+      "Daptomycin",
+      "Teicoplanin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Thrombocytopenia is the commonest effect and is related to treatment beyond 2 weeks. Linezolid is also a weak MAO inhibitor, so it can cause serotonin syndrome with SSRIs, and prolonged use causes optic and peripheral neuropathy and lactic acidosis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (avoid in chemotherapy with pancytopenia — linezolid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET (avoid in chemotherapy with pancytopenia — linezolid)"
+    }
+  },
+  {
+    "id": "phar_q_119",
+    "questionNumber": 119,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Which antimicrobial is relatively contraindicated in a patient with epilepsy?",
+    "options": [
+      "Amoxicillin",
+      "Ciprofloxacin",
+      "Doxycycline",
+      "Azithromycin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fluoroquinolones antagonise GABA-A and lower the seizure threshold. They also cause tendinitis and tendon rupture, QT prolongation, dysglycaemia and aortic aneurysm, and are avoided in children and pregnancy because of cartilage toxicity. Levofloxacin has the highest oral bioavailability.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (contraindicated in seizure disorder — ciprofloxacin), 2020 NEET-PG (tendon rupture and arthropathy), 2020 NEET-PG / 2017 AIIMS (levofloxacin bioavailability), 2020 NEET-PG (pefloxacin in liver disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2023 NEET-PG (contraindicated in seizure disorder — ciprofloxacin), 2020 NEET-PG (tendon rupture and arthropathy), 2020 NEET-PG / 2017 AIIMS (levofloxacin bioavailability), 2020 NEET-PG (pefloxacin in liver disease)"
+    }
+  },
+  {
+    "id": "phar_q_120",
+    "questionNumber": 120,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "A woman in the third trimester is given cotrimoxazole. The risk to the newborn is",
+    "options": [
+      "Grey baby syndrome",
+      "Kernicterus from displacement of bilirubin from albumin",
+      "Tooth discoloration",
+      "Cartilage damage"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Sulfonamides are avoided near term for this reason, and in the first trimester because trimethoprim is a folate antagonist. Chloramphenicol causes grey baby syndrome, tetracyclines discolour teeth, and fluoroquinolones affect cartilage.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (third trimester drug raising newborn bilirubin — cotrimoxazole)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (third trimester drug raising newborn bilirubin — cotrimoxazole)"
+    }
+  },
+  {
+    "id": "phar_q_121",
+    "questionNumber": 121,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Azithromycin is preferred to erythromycin for outpatient community-acquired pneumonia mainly because it",
+    "options": [
+      "Has a much longer half-life with high tissue concentrations, allowing short once-daily courses",
+      "Is bactericidal",
+      "Has no gastrointestinal effects at all",
+      "Is a stronger CYP inhibitor"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Azithromycin is also a much weaker CYP3A4 inhibitor than erythromycin and clarithromycin, so it has fewer interactions. Macrolides can prolong the QT interval. Erythromycin is the drug of choice for the diphtheria carrier state.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (community-acquired pneumonia in OPD — azithromycin), 2017 AIIMS (diphtheria carrier — erythromycin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (community-acquired pneumonia in OPD — azithromycin), 2017 AIIMS (diphtheria carrier — erythromycin)"
+    }
+  },
+  {
+    "id": "phar_q_122",
+    "questionNumber": 122,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Clindamycin is added to a β-lactam in streptococcal toxic shock syndrome because it",
+    "options": [
+      "Is bactericidal",
+      "Suppresses toxin production by inhibiting protein synthesis, and works even when organisms are not dividing",
+      "Penetrates the CNS better",
+      "Prevents C. difficile infection"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "β-lactams are less effective against a dense, stationary-phase inoculum (the Eagle effect). Clindamycin also achieves high bone concentrations, but carries the highest risk of *C. difficile* colitis.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (toxic shock syndrome — clindamycin), 2016 AIIMS (high bone concentration — clindamycin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2015 AIIMS (toxic shock syndrome — clindamycin), 2016 AIIMS (high bone concentration — clindamycin)"
+    }
+  },
+  {
+    "id": "phar_q_123",
+    "questionNumber": 123,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "The combination of a β-lactam with a β-lactamase inhibitor is effective against ESBL-producing Klebsiella in mild infection because the inhibitor",
+    "options": [
+      "Has intrinsic antibacterial activity",
+      "Binds and inactivates the β-lactamase enzyme, protecting the partner antibiotic",
+      "Blocks efflux pumps",
+      "Alters porin channels"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "For serious ESBL infections, carbapenems remain the standard. Bacterial resistance arises by enzyme production, altered target, reduced porin permeability and active efflux.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (ESBL Klebsiella — β-lactam with inhibitor), 2018 NEET-PG (β-lactamase destroys drug structure), 2017 AIIMS / 2016 AIIMS (mechanisms of resistance)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2017 AIIMS (ESBL Klebsiella — β-lactam with inhibitor), 2018 NEET-PG (β-lactamase destroys drug structure), 2017 AIIMS / 2016 AIIMS (mechanisms of resistance)"
+    }
+  },
+  {
+    "id": "phar_q_124",
+    "questionNumber": 124,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "First-line treatment for a complicated urinary tract infection with septic shock, pending cultures, is",
+    "options": [
+      "Oral nitrofurantoin",
+      "Oral cotrimoxazole",
+      "A carbapenem such as meropenem",
+      "Oral fosfomycin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Broad empirical cover is needed in septic shock, with de-escalation once sensitivities are known. Nitrofurantoin reaches therapeutic levels only in urine, so it is unsuitable for pyelonephritis or systemic infection.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (complicated UTI with septic shock — meropenem), 2020 INI-CET (meropenem indications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2023 INI-CET (complicated UTI with septic shock — meropenem), 2020 INI-CET (meropenem indications)"
+    }
+  },
+  {
+    "id": "phar_q_125",
+    "questionNumber": 125,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Match each first-line antitubercular drug with its characteristic adverse effect.\n\n| Drug | Adverse effect |\n|---|---|\n| 1. Isoniazid | a. Hyperuricaemia and arthralgia |\n| 2. Rifampicin | b. Retrobulbar neuritis with loss of red–green discrimination |\n| 3. Pyrazinamide | c. Peripheral neuropathy, prevented by pyridoxine |\n| 4. Ethambutol | d. Orange discoloration of secretions and enzyme induction |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Isoniazid inhibits mycolic acid synthesis and needs activation by the bacterial catalase-peroxidase KatG; resistance often involves katG mutations. If asymptomatic hyperuricaemia occurs on ATT, pyrazinamide is usually continued unless arthritis is troublesome.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (ethambutol — ocular effects), 2021 INI-CET (isoniazid — mycolic acid via catalase), 2022 INI-CET (raised uric acid on ATT), 2021 NEET-PG (ATT neuropathy — vitamin B6), 2016 AIIMS (isoniazid side effects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (ethambutol — ocular effects), 2021 INI-CET (isoniazid — mycolic acid via catalase), 2022 INI-CET (raised uric acid on ATT), 2021 NEET-PG (ATT neuropathy — vitamin B6), 2016 AIIMS (isoniazid side effects)"
+    }
+  },
+  {
+    "id": "phar_q_126",
+    "questionNumber": 126,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "An HIV-positive patient with a CD4 count of 80 is newly diagnosed with pulmonary tuberculosis. The correct sequence is",
+    "options": [
+      "Start antiretroviral therapy first, then antitubercular treatment after 8 weeks",
+      "Start both on the same day",
+      "Start antitubercular treatment first, and add antiretroviral therapy within 2 weeks",
+      "Treat tuberculosis fully before starting antiretrovirals"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Early ART improves survival at low CD4 counts, but starting both together increases immune reconstitution inflammatory syndrome. Rifampicin induces CYP3A4 and lowers protease inhibitor levels, so rifabutin is substituted or doses adjusted.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (when to start ATT in HIV), 2022 NEET-PG (which ATT drug to change on nevirapine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2021 INI-CET (when to start ATT in HIV), 2022 NEET-PG (which ATT drug to change on nevirapine)"
+    }
+  },
+  {
+    "id": "phar_q_127",
+    "questionNumber": 127,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "A patient on second-line antitubercular treatment develops weight gain, cold intolerance and a raised TSH with low T4. The likely drug is",
+    "options": [
+      "Bedaquiline",
+      "Ethionamide",
+      "Linezolid",
+      "Clofazimine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ethionamide and para-aminosalicylic acid both cause hypothyroidism, which is reversible on stopping. Bedaquiline inhibits mycobacterial ATP synthase and prolongs the QT interval. Linezolid causes myelosuppression and neuropathy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MDR-TB with hypothyroidism — ethionamide), 2021 INI-CET / 2015 AIIMS (bedaquiline — ATP synthase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2022 INI-CET (MDR-TB with hypothyroidism — ethionamide), 2021 INI-CET / 2015 AIIMS (bedaquiline — ATP synthase)"
+    }
+  },
+  {
+    "id": "phar_q_128",
+    "questionNumber": 128,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Dapsone, used in leprosy, acts by",
+    "options": [
+      "Inhibiting dihydropteroate synthase, blocking folate synthesis",
+      "Inhibiting mycolic acid synthesis",
+      "Binding the 30S ribosome",
+      "Inhibiting RNA polymerase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It competes with para-aminobenzoic acid, as sulfonamides do. Dapsone causes haemolysis, especially in G6PD deficiency, and methaemoglobinaemia. Clofazimine causes reddish-brown skin pigmentation and ichthyosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (dapsone mechanism — PABA and folate, 7X), 2023 INI-CET (clofazimine — skin pigmentation)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (dapsone mechanism — PABA and folate, 7X), 2023 INI-CET (clofazimine — skin pigmentation)"
+    }
+  },
+  {
+    "id": "phar_q_129",
+    "questionNumber": 129,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "A patient on multidrug therapy for leprosy develops tender, erythematous nodules with fever. The correct management is",
+    "options": [
+      "Stop antileprosy treatment immediately",
+      "Continue antileprosy treatment and add corticosteroids, with thalidomide for severe or recurrent reactions",
+      "Give antihistamines alone",
+      "Change to monotherapy with dapsone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Lepra reactions are immunological events, not treatment failure, so chemotherapy is continued. Thalidomide is highly teratogenic (phocomelia) and is used under strict pregnancy prevention.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (lepra reaction — continue treatment and add steroids), 2024 INI-CET (thalidomide — teratogenic, lepra reaction, myeloma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2021 NEET-PG (lepra reaction — continue treatment and add steroids), 2024 INI-CET (thalidomide — teratogenic, lepra reaction, myeloma)"
+    }
+  },
+  {
+    "id": "phar_q_130",
+    "questionNumber": 130,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "The drug that provides radical cure of Plasmodium vivax by eliminating hypnozoites, and must be preceded by G6PD testing, is",
+    "options": [
+      "Chloroquine",
+      "Artesunate",
+      "Primaquine",
+      "Doxycycline"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Primaquine is also gametocytocidal against all species, so a single low dose is used in falciparum malaria to block transmission. Tafenoquine is a longer-acting 8-aminoquinoline given as a single dose for radical cure, with the same G6PD caution.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (gametocidal against all species — primaquine), 2022 INI-CET (contraindicated in G6PD deficiency), 2022 INI-CET (tafenoquine — radical cure), 2023 INI-CET (primaquine not for uncomplicated malaria alone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2022 INI-CET / 2015 AIIMS (gametocidal against all species — primaquine), 2022 INI-CET (contraindicated in G6PD deficiency), 2022 INI-CET (tafenoquine — radical cure), 2023 INI-CET (primaquine not for uncomplicated malaria alone)"
+    }
+  },
+  {
+    "id": "phar_q_131",
+    "questionNumber": 131,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Match each antiviral with its mechanism.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Acyclovir | a. Neuraminidase inhibitor |\n| 2. Oseltamivir | b. Pyrophosphate analogue acting directly on viral DNA polymerase |\n| 3. Foscarnet | c. Integrase strand transfer inhibitor |\n| 4. Raltegravir | d. Guanosine analogue activated by viral thymidine kinase |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Because foscarnet needs no viral kinase activation, it works against thymidine kinase-deficient acyclovir-resistant herpes and ganciclovir-resistant CMV. Its main toxicity is nephrotoxicity and electrolyte disturbance.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (foscarnet does not need thymidine kinase), 2017 AIIMS (oseltamivir), 2021 INI-CET (raltegravir — integrase inhibitor), 2023 INI-CET (match — oseltamivir, simeprevir, imiquimod)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (foscarnet does not need thymidine kinase), 2017 AIIMS (oseltamivir), 2021 INI-CET (raltegravir — integrase inhibitor), 2023 INI-CET (match — oseltamivir, simeprevir, imiquimod)"
+    }
+  },
+  {
+    "id": "phar_q_132",
+    "questionNumber": 132,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Ritonavir is added in low dose to other protease inhibitors in order to",
+    "options": [
+      "Broaden antiviral activity",
+      "Inhibit CYP3A4 and raise the partner drug's levels (\"boosting\")",
+      "Reduce resistance by a different mechanism",
+      "Prevent lipodystrophy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cobicistat is a pharmacokinetic booster with no antiviral activity. Because of this strong inhibition, ritonavir-boosted regimens must not be given with midazolam, ergot alkaloids or simvastatin.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (bioavailability of saquinavir increased by ritonavir), 2016 AIIMS (ritonavir not with midazolam), 2015 AIIMS (saquinavir — protease inhibitor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2020 INI-CET (bioavailability of saquinavir increased by ritonavir), 2016 AIIMS (ritonavir not with midazolam), 2015 AIIMS (saquinavir — protease inhibitor)"
+    }
+  },
+  {
+    "id": "phar_q_133",
+    "questionNumber": 133,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Which antiretroviral is also effective against hepatitis B, making it useful in co-infection?",
+    "options": [
+      "Zidovudine",
+      "Tenofovir or emtricitabine",
+      "Efavirenz",
+      "Dolutegravir"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Lamivudine is also active against both. Stopping these drugs in co-infected patients can cause a hepatitis B flare. Zidovudine causes anaemia and myopathy, efavirenz causes vivid dreams and neuropsychiatric effects, and indinavir causes nephrolithiasis.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (treats both AIDS and hepatitis B — emtricitabine), 2021 INI-CET / 2014 AIIMS (indinavir — nephrolithiasis), 2021 INI-CET (emtricitabine — palm and sole pigmentation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2022 NEET-PG (treats both AIDS and hepatitis B — emtricitabine), 2021 INI-CET / 2014 AIIMS (indinavir — nephrolithiasis), 2021 INI-CET (emtricitabine — palm and sole pigmentation)"
+    }
+  },
+  {
+    "id": "phar_q_134",
+    "questionNumber": 134,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "The drug of choice for invasive aspergillosis is",
+    "options": [
+      "Griseofulvin",
+      "Fluconazole",
+      "Voriconazole",
+      "Nystatin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Isavuconazole is an alternative with fewer interactions. Fluconazole has no activity against moulds. Amphotericin B binds ergosterol and forms membrane pores, and causes infusion reactions, nephrotoxicity and hypokalaemia; liposomal forms are less toxic.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (DOC invasive aspergillosis — voriconazole), 2022 NEET-PG / 2017 AIIMS (amphotericin mechanism), 2022 NEET-PG (cryptococcal meningitis — liposomal amphotericin with flucytosine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2022 NEET-PG (DOC invasive aspergillosis — voriconazole), 2022 NEET-PG / 2017 AIIMS (amphotericin mechanism), 2022 NEET-PG (cryptococcal meningitis — liposomal amphotericin with flucytosine)"
+    }
+  },
+  {
+    "id": "phar_q_135",
+    "questionNumber": 135,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Griseofulvin absorption is improved by",
+    "options": [
+      "Taking it on an empty stomach",
+      "Taking it with a fatty meal",
+      "Taking it with antacids",
+      "Taking it with milk of magnesia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Griseofulvin is highly lipophilic and deposits in keratin precursor cells, so treatment must continue until infected keratin is replaced. It is an enzyme inducer that reduces the effect of warfarin and oral contraceptives, and it disrupts the mitotic spindle.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (absorption increased after fatty meal — griseofulvin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2015 AIIMS (absorption increased after fatty meal — griseofulvin)"
+    }
+  },
+  {
+    "id": "phar_q_136",
+    "questionNumber": 136,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "No systemic antifungal is considered clearly safe for treating extensive tinea in pregnancy. The reason griseofulvin in particular is avoided is that it is",
+    "options": [
+      "Ineffective",
+      "Teratogenic and embryotoxic in animal studies",
+      "Hepatotoxic only",
+      "Poorly absorbed"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Itraconazole and fluconazole are also avoided, and high-dose fluconazole causes a recognised embryopathy. Topical treatment is used in pregnancy, with systemic therapy deferred.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (no systemic antifungal safe in pregnancy for tinea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Antimicrobials",
+      "basedOn": "2016 AIIMS (no systemic antifungal safe in pregnancy for tinea)"
+    }
+  },
+  {
+    "id": "phar_q_137",
+    "questionNumber": 137,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "Scabies in a 4-month-old infant is best treated with",
+    "options": [
+      "Oral ivermectin",
+      "5% permethrin cream",
+      "25% benzyl benzoate",
+      "Lindane"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Permethrin is the safest topical scabicide for infants. Oral ivermectin is avoided below 15 kg. Lindane is neurotoxic in infants, and benzyl benzoate is irritant and used in lower strengths in children.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (scabies in infants — permethrin, crotamiton, benzyl benzoate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2023 INI-CET (scabies in infants — permethrin, crotamiton, benzyl benzoate)"
+    }
+  },
+  {
+    "id": "phar_q_138",
+    "questionNumber": 138,
+    "subject": "Pharmacology",
+    "subTopic": "Antimicrobials",
+    "sub_topic": "Antimicrobials",
+    "stem": "In neurocysticercosis with multiple viable cysts, corticosteroids are started BEFORE albendazole because",
+    "options": [
+      "Steroids are the main antiparasitic agent",
+      "Dying cysts provoke inflammation that can raise intracranial pressure and precipitate seizures",
+      "Steroids increase albendazole excretion",
+      "Albendazole causes hypoglycaemia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Antiepileptics are also given. Ophthalmic cysticercosis must be excluded before starting treatment, because inflammation in the eye can destroy vision. Praziquantel is an alternative antiparasitic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (neurocysticercosis — steroids followed by antiparasitic)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Antimicrobials",
+      "basedOn": "2022 INI-CET (neurocysticercosis — steroids followed by antiparasitic)"
+    }
+  },
+  {
+    "id": "phar_q_139",
+    "questionNumber": 139,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Match each cytotoxic drug with its characteristic dose-limiting toxicity.\n\n| Drug | Toxicity |\n|---|---|\n| 1. Bleomycin | a. Haemorrhagic cystitis |\n| 2. Doxorubicin | b. Peripheral neuropathy |\n| 3. Cyclophosphamide | c. Pulmonary fibrosis and flagellate skin pigmentation |\n| 4. Vincristine | d. Dilated cardiomyopathy |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Bleomycin causes little myelosuppression. Capecitabine causes hand–foot syndrome, and cisplatin causes nephrotoxicity, ototoxicity and severe emesis. Vinca alkaloids inhibit microtubule polymerisation; taxanes prevent depolymerisation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (flagellate pigmentation — bleomycin), 2024 INI-CET (match — capecitabine hand–foot), 2014 AIIMS (vinca alkaloids — microtubule polymerisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (flagellate pigmentation — bleomycin), 2024 INI-CET (match — capecitabine hand–foot), 2014 AIIMS (vinca alkaloids — microtubule polymerisation)"
+    }
+  },
+  {
+    "id": "phar_q_140",
+    "questionNumber": 140,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Haemorrhagic cystitis from cyclophosphamide is caused by its metabolite acrolein and is prevented by",
+    "options": [
+      "Dexrazoxane",
+      "Mesna",
+      "Leucovorin",
+      "Amifostine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mesna supplies a sulfhydryl group that binds acrolein in the urine, along with hydration. Dexrazoxane is an iron chelator that protects against anthracycline cardiotoxicity. Leucovorin rescues normal cells after high-dose methotrexate.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (daunorubicin cardiotoxicity prevented by dexrazoxane), 2023 INI-CET (active metabolite of cyclophosphamide), 2020 NEET-PG (cyclophosphamide — DNA cross-linking)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (daunorubicin cardiotoxicity prevented by dexrazoxane), 2023 INI-CET (active metabolite of cyclophosphamide), 2020 NEET-PG (cyclophosphamide — DNA cross-linking)"
+    }
+  },
+  {
+    "id": "phar_q_141",
+    "questionNumber": 141,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Methotrexate exerts its antineoplastic effect by",
+    "options": [
+      "Competitively inhibiting dihydrofolate reductase, which depletes tetrahydrofolate and blocks thymidylate synthesis",
+      "Cross-linking DNA strands",
+      "Inhibiting topoisomerase II",
+      "Blocking microtubule assembly"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Toxicity includes mucositis, myelosuppression, hepatotoxicity and pneumonitis. Folic acid supplementation reduces toxicity in rheumatological use. 5-fluorouracil inhibits thymidylate synthase directly.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (methotrexate — competitive DHFR inhibitor), 2023 NEET-PG (methotrexate inhibits TMP synthesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2019 NEET-PG (methotrexate — competitive DHFR inhibitor), 2023 NEET-PG (methotrexate inhibits TMP synthesis)"
+    }
+  },
+  {
+    "id": "phar_q_142",
+    "questionNumber": 142,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Match each targeted agent with its molecular target.\n\n| Drug | Target |\n|---|---|\n| 1. Imatinib | a. HER2 (ERBB2) |\n| 2. Trastuzumab | b. CD20 on B cells |\n| 3. Rituximab | c. VEGF |\n| 4. Bevacizumab | d. BCR-ABL tyrosine kinase |",
+    "options": [
+      "1-d, 2-b, 3-a, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Imatinib also inhibits KIT and PDGFR, which is why it is used in GIST. Trastuzumab causes a reversible fall in ejection fraction. Bevacizumab causes hypertension, impaired wound healing and bleeding.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — trastuzumab, infliximab, imatinib), 2023 INI-CET (rituximab — anti-CD20), 2018 AIIMS (imatinib-resistant CML options)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2022 INI-CET (match — trastuzumab, infliximab, imatinib), 2023 INI-CET (rituximab — anti-CD20), 2018 AIIMS (imatinib-resistant CML options)"
+    }
+  },
+  {
+    "id": "phar_q_143",
+    "questionNumber": 143,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "A patient with HER2-positive breast cancer progresses on trastuzumab. A reasonable next option is",
+    "options": [
+      "Lapatinib, a small-molecule HER1/HER2 tyrosine kinase inhibitor",
+      "Tamoxifen",
+      "Anastrozole",
+      "Rituximab"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Other options after progression are trastuzumab emtansine and trastuzumab deruxtecan, which are antibody–drug conjugates. Hormonal agents are used for hormone receptor-positive disease, not for HER2 targeting.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (trastuzumab-resistant HER2-positive breast cancer — lapatinib)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (trastuzumab-resistant HER2-positive breast cancer — lapatinib)"
+    }
+  },
+  {
+    "id": "phar_q_144",
+    "questionNumber": 144,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "A patient with non-small cell lung cancer on an EGFR inhibitor progresses, and a T790M resistance mutation is found. The appropriate drug is",
+    "options": [
+      "Gefitinib",
+      "Erlotinib",
+      "Osimertinib",
+      "Cetuximab"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Osimertinib is a third-generation EGFR inhibitor designed to overcome the T790M gatekeeper mutation, and it is now also used first-line. EGFR inhibitors characteristically cause an acneiform rash and diarrhoea.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (T790M — osimertinib), 2024 INI-CET (HER1-targeting drugs), 2018 AIIMS (EGFR blockers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (T790M — osimertinib), 2024 INI-CET (HER1-targeting drugs), 2018 AIIMS (EGFR blockers)"
+    }
+  },
+  {
+    "id": "phar_q_145",
+    "questionNumber": 145,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "PARP inhibitors such as olaparib are most effective in tumours with",
+    "options": [
+      "BRCA1 or BRCA2 mutations, through synthetic lethality",
+      "KRAS mutations",
+      "HER2 amplification",
+      "ALK rearrangement"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BRCA-deficient cells cannot repair double-strand breaks by homologous recombination, so blocking PARP-mediated single-strand repair becomes lethal to the tumour but not to normal cells. They are used in ovarian, breast, pancreatic and prostate cancer.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (PARP inhibitor in breast cancer — rucaparib)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (PARP inhibitor in breast cancer — rucaparib)"
+    }
+  },
+  {
+    "id": "phar_q_146",
+    "questionNumber": 146,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Immune checkpoint inhibitors such as pembrolizumab and nivolumab work by",
+    "options": [
+      "Directly killing tumour cells",
+      "Blocking PD-1, which releases the brake on tumour-specific T cells",
+      "Inhibiting angiogenesis",
+      "Blocking the proteasome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ipilimumab blocks CTLA-4 and atezolizumab blocks PD-L1. Their characteristic toxicities are immune-related: colitis, hepatitis, pneumonitis, thyroiditis and hypophysitis, treated with corticosteroids.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (checkpoint inhibitors — ipilimumab, pembrolizumab, atezolizumab), 2024 INI-CET (KEYNOTE-189 — pembrolizumab with chemotherapy in NSCLC), 2020 INI-CET (nivolumab in Hodgkin lymphoma; pembrolizumab in endometrial cancer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (checkpoint inhibitors — ipilimumab, pembrolizumab, atezolizumab), 2024 INI-CET (KEYNOTE-189 — pembrolizumab with chemotherapy in NSCLC), 2020 INI-CET (nivolumab in Hodgkin lymphoma; pembrolizumab in endometrial cancer)"
+    }
+  },
+  {
+    "id": "phar_q_147",
+    "questionNumber": 147,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Bortezomib, used in multiple myeloma, acts by",
+    "options": [
+      "Alkylating DNA",
+      "Inhibiting tyrosine kinase",
+      "Blocking CD38",
+      "Inhibiting the 26S proteasome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Accumulated misfolded proteins trigger apoptosis, to which plasma cells are especially sensitive. Peripheral neuropathy is the main dose-limiting toxicity, and herpes zoster reactivation is common enough to warrant acyclovir prophylaxis.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (myeloma drug increasing herpes zoster risk — bortezomib), 2024 INI-CET (thalidomide in refractory myeloma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2023 NEET-PG (myeloma drug increasing herpes zoster risk — bortezomib), 2024 INI-CET (thalidomide in refractory myeloma)"
+    }
+  },
+  {
+    "id": "phar_q_148",
+    "questionNumber": 148,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Match each immunosuppressant with its mechanism.\n\n| Drug | Mechanism |\n|---|---|\n| 1. Cyclosporine | a. Blocks the IL-2 receptor (CD25) |\n| 2. Basiliximab | b. Inhibits IL-6 |\n| 3. Tofacitinib | c. Calcineurin inhibitor, reducing IL-2 transcription |\n| 4. Tocilizumab | d. Oral Janus kinase inhibitor |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Tacrolimus is also a calcineurin inhibitor, acting through FKBP. Sirolimus inhibits mTOR instead. Tofacitinib is given orally and is used in rheumatoid arthritis and ulcerative colitis. Infliximab and etanercept target TNF-α.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (cyclosporine — calcineurin inhibitor), 2018 NEET-PG / 2018 AIIMS (basiliximab — IL-2 receptor), 2020 INI-CET / 2017 AIIMS (tofacitinib — oral JAK inhibitor), 2018 NEET-PG (tocilizumab — IL-6), 2015 AIIMS (etanercept — TNF-α)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (cyclosporine — calcineurin inhibitor), 2018 NEET-PG / 2018 AIIMS (basiliximab — IL-2 receptor), 2020 INI-CET / 2017 AIIMS (tofacitinib — oral JAK inhibitor), 2018 NEET-PG (tocilizumab — IL-6), 2015 AIIMS (etanercept — TNF-α)"
+    }
+  },
+  {
+    "id": "phar_q_149",
+    "questionNumber": 149,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Before starting a TNF-α inhibitor such as infliximab, the essential screening test is",
+    "options": [
+      "Screening for latent tuberculosis and hepatitis B",
+      "Serum uric acid",
+      "Thyroid function",
+      "Serum amylase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "TNF-α maintains granuloma integrity, so blocking it can reactivate tuberculosis, often in extrapulmonary or disseminated form. Hepatitis B reactivation is also recognised. Latent infection is treated before the biologic is started.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — infliximab as TNF-α inhibitor), 2015 AIIMS (etanercept — TNF-α inhibition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2022 INI-CET (match — infliximab as TNF-α inhibitor), 2015 AIIMS (etanercept — TNF-α inhibition)"
+    }
+  },
+  {
+    "id": "phar_q_150",
+    "questionNumber": 150,
+    "subject": "Pharmacology",
+    "subTopic": "Anticancer And Immunomodulators",
+    "sub_topic": "Anticancer And Immunomodulators",
+    "stem": "Tumour lysis syndrome after starting chemotherapy for a bulky, rapidly dividing tumour is characterised by",
+    "options": [
+      "Hyperkalaemia, hyperphosphataemia, hyperuricaemia and hypocalcaemia",
+      "Hypokalaemia and hypercalcaemia",
+      "Hyponatraemia alone",
+      "Hypophosphataemia and hyperglycaemia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Prevention is with aggressive hydration and allopurinol, or rasburicase when the risk is high. Rasburicase converts uric acid to the more soluble allantoin, and is avoided in G6PD deficiency because it generates hydrogen peroxide.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hydroxyurea and cytotoxic therapy), 2020 NEET-PG (allopurinol — xanthine oxidase inhibition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Anticancer And Immunomodulators",
+      "basedOn": "2024 INI-CET (hydroxyurea and cytotoxic therapy), 2020 NEET-PG (allopurinol — xanthine oxidase inhibition)"
+    }
+  }
+]

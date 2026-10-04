@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "rad_q_001",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The intensity of radiation from a point source is inversely proportional to",
+    "options": [
+      "The distance from the source",
+      "The square of the distance from the source",
+      "The cube of the distance",
+      "The square root of the distance"
+    ],
+    "correct_index": 1,
+    "explanation": "The inverse square law. Doubling the distance quarters the dose, which makes **distance the most effective of the three protection measures** — time, distance and shielding.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (intensity of radiation is inversely proportional to square of distance from source, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_002",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The investigation that does **not** use ionising radiation is",
+    "options": [
+      "Mammography",
+      "CT",
+      "MRI",
+      "Fluoroscopy"
+    ],
+    "correct_index": 2,
+    "explanation": "MRI uses a static magnetic field with radiofrequency pulses. **Ultrasound** is the other non-ionising modality. Both are therefore preferred in pregnancy and in children where they answer the question.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (which investigation does not use ionising radiation — MRI, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_003",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The investigation contraindicated in pregnancy because of fetal dose is",
+    "options": [
+      "Chest radiography with shielding",
+      "MRI without gadolinium",
+      "Ultrasound",
+      "CT of the abdomen and pelvis"
+    ],
+    "correct_index": 3,
+    "explanation": "The threshold for deterministic fetal injury is about 50 to 100 mGy, which abdominopelvic CT can approach. The last menstrual period is therefore asked of every woman of reproductive age before an ionising study.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (investigation contraindicated during pregnancy — CT), 2020 INI-CET (history to ask in a female of reproductive age — LMP)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_004",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Water has a Hounsfield number of",
+    "options": [
+      "+1000",
+      "−1000",
+      "Zero",
+      "−100"
+    ],
+    "correct_index": 2,
+    "explanation": "The Hounsfield scale is anchored on water at 0 and air at −1000, with dense cortical bone around +1000. Fat is about −60 to −120, which is how a fat-containing lesion is identified on CT.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (water has zero Hounsfield number — true), 2023 NEET-PG (mediastinal mass with −62 HU — fat containing lesion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_005",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "A mediastinal mass with a central attenuation of −62 HU and peripheral calcification most likely contains",
+    "options": [
+      "Pure fluid",
+      "Fat, with calcification — a mature teratoma",
+      "Blood",
+      "Pure soft tissue"
+    ],
+    "correct_index": 1,
+    "explanation": "Negative Hounsfield values in the range of −60 to −120 are diagnostic of fat. Fat with calcification in an anterior mediastinal mass indicates a germ cell tumour; fat alone suggests a lipoma.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (mediastinal mass with −62 HU and peripheral calcification — fat and calcification)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_006",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Examples of CT windows include",
+    "options": [
+      "T1 and T2 windows",
+      "Lung, soft tissue, bone and blood vessel windows",
+      "Diffusion and perfusion windows",
+      "Alpha and beta windows"
+    ],
+    "correct_index": 1,
+    "explanation": "Window **level** sets the central attenuation displayed and window **width** the range of values spread across the greyscale. Narrow windows increase contrast; wide windows show a greater range.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (examples of windows in CT scan — lung window, soft tissue window, blood vessel window)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_007",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The trefoil symbol with three blades separated by 60-degree gaps denotes",
+    "options": [
+      "A magnetic field hazard",
+      "A biohazard",
+      "A radiation hazard",
+      "A laser hazard"
+    ],
+    "correct_index": 2,
+    "explanation": "The ionising radiation trefoil is magenta or black on yellow. A newer supplementary ISO symbol adds a skull and running figure for dangerous sealed sources.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (trefoil symbol with each foil separated by 60 degrees — radiation hazard), 2015 AIIMS (identify the given logo — radiation hazard)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_008",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Occupational radiation dose monitoring is performed with",
+    "options": [
+      "An ionisation chamber implanted in the badge",
+      "A Geiger–Müller counter worn continuously",
+      "A scintillation counter",
+      "A thermoluminescent dosimeter badge"
+    ],
+    "correct_index": 3,
+    "explanation": "Lithium fluoride crystals store energy and emit light proportional to dose when heated. Film badges and optically stimulated luminescence dosimeters are the alternatives, read at fixed intervals.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (radiation dose monitoring in occupation is done by TLD badge)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_009",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "The least radiosensitive phase of the cell cycle is",
+    "options": [
+      "The G1 phase",
+      "The G2/M phase",
+      "The late S phase",
+      "G0"
+    ],
+    "correct_index": 2,
+    "explanation": "DNA repair capacity is maximal during S phase. **G2 and mitosis** are the most radiosensitive, which is why rapidly dividing tissues — bone marrow, gut mucosa, gonads — are most affected.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (least radiosensitive phase of cell cycle — S phase)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_010",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "The cells least affected by radiation exposure are",
+    "options": [
+      "Lymphocytes",
+      "Neurons",
+      "Spermatogonia",
+      "Intestinal crypt cells"
+    ],
+    "correct_index": 1,
+    "explanation": "Radiosensitivity tracks mitotic rate, so post-mitotic neurons and muscle are most resistant. **Lymphocytes** are the most radiosensitive cells, which is why the lymphocyte count is used for biological dosimetry.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (least affected by radiation exposure — neurons in brain)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_011",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "The haematopoietic syndrome of acute radiation syndrome occurs at a whole-body dose of about",
+    "options": [
+      "0.1 to 0.5 Gy",
+      "2 to 8 Gy",
+      "10 to 20 Gy",
+      "Above 50 Gy"
+    ],
+    "correct_index": 1,
+    "explanation": "The gastrointestinal syndrome follows at about 8 to 10 Gy and the neurovascular syndrome above about 20 to 30 Gy, which is uniformly fatal within days. Doses below 1 Gy cause only prodromal symptoms.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (in acute radiation syndrome, haematopoietic syndrome occurs at 2–8 Gy)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_012",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "A stochastic effect of radiation is",
+    "options": [
+      "Cataract",
+      "Skin erythema",
+      "Mutation and carcinogenesis, with no threshold dose",
+      "Sterility"
+    ],
+    "correct_index": 2,
+    "explanation": "Stochastic effects have no threshold and their **probability**, not severity, rises with dose. Deterministic effects — erythema, cataract, sterility, epilation — have a threshold and worsen in severity above it.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (example of stochastic effect of radiation — mutation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_013",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "The most radiosensitive structure in the eye is",
+    "options": [
+      "The optic nerve",
+      "The retina",
+      "The cornea",
+      "The lens"
+    ],
+    "correct_index": 3,
+    "explanation": "Radiation cataract is a deterministic effect with a threshold, and the occupational dose limit for the lens was reduced substantially after evidence of effects at lower doses than previously thought.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (most radiosensitive structure in eye — lens), 2016 AIIMS (exposure limit for lens — 150 mSv in radiologist)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_014",
+    "subject": "Radiology",
+    "sub_topic": "Radiobiology",
+    "stem": "The most radiosensitive organ in the female pelvis is",
+    "options": [
+      "The bladder",
+      "The uterus",
+      "The ovary",
+      "The rectum"
+    ],
+    "correct_index": 2,
+    "explanation": "Germ cells are highly radiosensitive, and oocytes cannot be replaced, so gonadal shielding and dose minimisation matter particularly in women of reproductive age.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (radiosensitive organ located in female pelvis — ovary)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_015",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The nucleus of an atom consists of",
+    "options": [
+      "Protons and electrons",
+      "Protons and neutrons",
+      "Neutrons and electrons",
+      "Protons only"
+    ],
+    "correct_index": 1,
+    "explanation": "Isotopes share proton number but differ in neutron number. Unstable nuclei decay by alpha, beta or gamma emission, or electron capture — the basis of all nuclear medicine.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (nucleus of an atom consists of proton and neutron)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_016",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Naturally occurring radioactive isotopes include",
+    "options": [
+      "Technetium-99m and fluorine-18",
+      "Radon-222 and radium-226",
+      "Iodine-131 and thallium-201",
+      "Cobalt-60 and caesium-137"
+    ],
+    "correct_index": 1,
+    "explanation": "Radon is the largest single contributor to natural background radiation in most populations. The isotopes in options B, C and D are all artificially produced.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (examples of naturally occurring isotopes — radon-222 and radium-226)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_017",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The Bragg peak is produced by",
+    "options": [
+      "Electrons",
+      "Photons",
+      "Protons and heavy charged particles",
+      "Neutrons"
+    ],
+    "correct_index": 2,
+    "explanation": "Energy deposition rises sharply at the end of the particle range and then falls almost to zero, sparing tissue beyond the target. This is the physical basis of proton therapy in paediatric and skull base tumours.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (Bragg's peak is produced by protons, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_018",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The exposure dose rate in a linear accelerator is conventionally expressed in",
+    "options": [
+      "Roentgen per coulomb",
+      "Becquerel per second",
+      "Sievert per hour only",
+      "Monitor units or centigray per minute"
+    ],
+    "correct_index": 3,
+    "explanation": "The gray measures absorbed dose, the sievert equivalent dose weighted for radiation type, and the becquerel activity. Older sources quote rad per minute, where 1 Gy equals 100 rad.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (dose of radiation exposure in linear accelerator is measured in rad/min)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_019",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Which statement about electrons in a linear accelerator is TRUE?",
+    "options": [
+      "Electrons penetrate more deeply than photons",
+      "Electrons cannot be used directly for therapy",
+      "Electron beams are used directly for treating superficial tumours",
+      "Electrons produce a Bragg peak"
+    ],
+    "correct_index": 2,
+    "explanation": "Electrons have a finite range determined by energy and spare deeper tissue, which suits skin, chest wall and superficial nodal disease. Photons are used for deeper targets.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (electrons cannot be used directly for radiotherapy in LINAC — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_020",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Teletherapy beams include all EXCEPT",
+    "options": [
+      "X-rays",
+      "Beta rays",
+      "Gamma rays",
+      "Electrons and photons"
+    ],
+    "correct_index": 1,
+    "explanation": "Beta particles have very short tissue range and are used in **unsealed source** therapy such as iodine-131 and in brachytherapy applicators, not for external beam treatment at a distance.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (teletherapy is associated with X-rays, gamma-rays, electrons, photons, not beta rays)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_021",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "Technetium-99m is characterised by",
+    "options": [
+      "Cyclotron production with a 110-minute half-life",
+      "Production in a generator, a half-life of about 6 hours, and pure gamma emission at 140 keV",
+      "Beta emission with a 8-day half-life",
+      "Alpha emission"
+    ],
+    "correct_index": 1,
+    "explanation": "It is the workhorse of nuclear medicine: short half-life, no particulate emission, ideal photon energy for gamma cameras, and on-site availability from a molybdenum-99 generator.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (Tc99m — produced in a generator, half-life 6 hours)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_022",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The half-life of fluorine-18 is about",
+    "options": [
+      "8 days",
+      "6 hours",
+      "110 minutes",
+      "73 hours"
+    ],
+    "correct_index": 2,
+    "explanation": "Its short half-life means cyclotron production close to the PET scanner. 18-FDG is the standard tracer, taken up in proportion to glucose metabolism and trapped intracellularly after phosphorylation.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (half-life of radioactive 18-F — 110 min)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_023",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The investigation that assesses metabolic activity together with anatomical detail is",
+    "options": [
+      "Plain radiography",
+      "CT alone",
+      "MRI alone",
+      "PET-CT"
+    ],
+    "correct_index": 3,
+    "explanation": "Functional and anatomical datasets are fused in one study, which is why it is used for staging, restaging and response assessment in most solid tumours and lymphoma.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (investigation used to assess metabolic activity as well as anatomy — PET-CT)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_024",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The isotope **not** used in PET imaging is",
+    "options": [
+      "Carbon-11",
+      "Fluorine-18",
+      "Thallium-201",
+      "Gallium-68"
+    ],
+    "correct_index": 2,
+    "explanation": "PET requires **positron** emitters — fluorine-18, carbon-11, nitrogen-13, oxygen-15, gallium-68, rubidium-82. Thallium-201 is a gamma emitter used in SPECT myocardial perfusion imaging.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (isotope not used in PET scan — thallium-201)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_025",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "A tumour that characteristically gives a **negative** result on FDG-PET is",
+    "options": [
+      "Lymphoma",
+      "Typical carcinoid",
+      "Non-small cell lung carcinoma",
+      "Melanoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Well-differentiated neuroendocrine tumours have low glucose metabolism, so they are better imaged with a **somatostatin receptor tracer** such as gallium-68 DOTATATE. Mucinous tumours and prostate cancer are also poorly FDG-avid.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (which tumour gives a negative result on FDG-PET — typical carcinoid), 2018 AIIMS (substance used for diagnosis of neuroendocrine tumours — gallium DOTATATE)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_026",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The tracer used to diagnose neuroendocrine tumours is",
+    "options": [
+      "18-FDG",
+      "Gallium-68 DOTATATE",
+      "Technetium-99m MDP",
+      "Iodine-131 MIBG only"
+    ],
+    "correct_index": 1,
+    "explanation": "It binds somatostatin receptor subtype 2, which is overexpressed on well-differentiated neuroendocrine tumours. The same targeting is exploited therapeutically with lutetium-177 DOTATATE.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (substance used for diagnosis of neuroendocrine tumours — gallium DOTATATE)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_027",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The most sensitive investigation for localising a parathyroid adenoma is",
+    "options": [
+      "Barium swallow",
+      "Plain radiography of the neck",
+      "Technetium-99m sestamibi SPECT, usually with ultrasound",
+      "Thallium scan alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Sestamibi concentrates in mitochondria-rich parathyroid tissue. Combining it with ultrasound raises accuracy, and four-dimensional CT is used when both are inconclusive before focused parathyroidectomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (most sensitive investigation for parathyroid adenoma localisation — Tc sestamibi SPECT, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_028",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "Gated myocardial perfusion scintigraphy uses",
+    "options": [
+      "Technetium-99m MDP",
+      "18-FDG only",
+      "Gallium-68 DOTATATE",
+      "Technetium-99m sestamibi, technetium-99m tetrofosmin or thallium-201"
+    ],
+    "correct_index": 3,
+    "explanation": "Gating to the ECG allows wall motion and ejection fraction to be derived alongside perfusion. Stress and rest imaging distinguishes reversible ischaemia from fixed infarction.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (gated myocardial perfusion scintigraphy uses Tc sestamibi, Tc tetrofosmin, thallium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_029",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The best non-invasive investigation to assess myocardial **viability** is",
+    "options": [
+      "Coronary angiography",
+      "Resting echocardiography",
+      "18-FDG PET-CT",
+      "Plain chest radiography"
+    ],
+    "correct_index": 2,
+    "explanation": "Viable but ischaemic myocardium shows reduced perfusion with **preserved or increased glucose uptake** — perfusion–metabolism mismatch. That distinguishes hibernating myocardium, which benefits from revascularisation, from scar.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (best non-invasive investigation to check viability of myocardium — 18-FDG PET/CT)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_030",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The MUGA scan is used to assess",
+    "options": [
+      "Myocardial perfusion only",
+      "Ejection fraction, wall motion and stroke volume",
+      "Coronary anatomy",
+      "Valvular morphology"
+    ],
+    "correct_index": 1,
+    "explanation": "Multigated acquisition with technetium-labelled red cells gives a highly reproducible ejection fraction, which is why it is used to monitor cardiotoxic chemotherapy such as anthracyclines and trastuzumab.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (MUGA scan is useful for ejection fraction, wall motion, stroke volume)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_031",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The radioactive scan used to assess phagocytic (reticuloendothelial) function is",
+    "options": [
+      "Technetium-99m MDP bone scan",
+      "Technetium-99m sulphur colloid scan",
+      "Technetium-99m DTPA renal scan",
+      "Thallium scan"
+    ],
+    "correct_index": 1,
+    "explanation": "Colloid particles are taken up by Kupffer cells and splenic macrophages, so it images liver, spleen and bone marrow and detects focal nodular hyperplasia and splenunculi.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (radioactive scan used to assess phagocytosis — Tc sulphur colloid scan)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_032",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "The best imaging method to assess **functional** renal status is",
+    "options": [
+      "Ultrasound",
+      "Non-contrast CT",
+      "Technetium-99m DTPA scintigraphy",
+      "Plain radiography"
+    ],
+    "correct_index": 2,
+    "explanation": "DTPA is cleared by glomerular filtration and gives differential GFR and drainage. **DMSA** binds the cortex and is used for scarring, and MAG3 is a tubular agent used in poor function.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (best imaging method to assess functional status of kidney — Tc 99m DTPA scintigraphy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_033",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "Radioactive isotopes of iodine used clinically include all EXCEPT",
+    "options": [
+      "Iodine-131",
+      "Iodine-123",
+      "Iodine-125",
+      "Iodine-127"
+    ],
+    "correct_index": 3,
+    "explanation": "Iodine-127 is the **stable**, non-radioactive natural isotope. Iodine-123 is used for imaging, iodine-125 in brachytherapy seeds and radioimmunoassay, and iodine-131 for both imaging and therapy of thyroid disease.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (radioactive isotopes of iodine used clinically — I-123, I-124, I-125, I-131, not I-127, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_034",
+    "subject": "Radiology",
+    "sub_topic": "Nuclear",
+    "stem": "A thyroid scan showing a well-defined area of increased uptake with suppression of the surrounding gland indicates",
+    "options": [
+      "Graves disease",
+      "A cold nodule requiring biopsy",
+      "A hyperfunctioning (toxic) adenoma",
+      "Thyroiditis"
+    ],
+    "correct_index": 2,
+    "explanation": "Autonomous hormone production suppresses TSH and therefore the rest of the gland. A **hot** nodule is almost never malignant, so it does not need fine-needle aspiration, whereas a cold nodule does.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (thyroid scan shows well defined lesion with increased uptake — hypersecreting adenoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_035",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Water-soluble radiographic contrast media are based on",
+    "options": [
+      "Barium",
+      "Iodine",
+      "Gadolinium",
+      "Technetium"
+    ],
+    "correct_index": 1,
+    "explanation": "Iodine's high atomic number gives photoelectric absorption at diagnostic energies. **Barium** is insoluble and used only in the gastrointestinal lumen, and **gadolinium** is the paramagnetic agent for MRI.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (water soluble contrast is composed of iodine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_036",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "The safest contrast for suspected oesophageal perforation is",
+    "options": [
+      "Barium sulphate",
+      "A low-osmolar water-soluble agent such as iohexol",
+      "High-osmolar ionic contrast (diatrizoate)",
+      "Gadolinium"
+    ],
+    "correct_index": 1,
+    "explanation": "Barium causes a severe chemical mediastinitis if it leaks, and **high-osmolar** agents cause pulmonary oedema if aspirated. Low-osmolar non-ionic agents avoid both hazards.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2017 AIIMS (safest contrast to use in oesophageal perforation — iohexol, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_037",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "The contrast agent that can be used safely in a patient with chronic renal failure is",
+    "options": [
+      "Gadolinium at standard dose",
+      "Iodinated CT contrast at reduced dose",
+      "Ultrasound microbubble contrast",
+      "High-osmolar ionic contrast"
+    ],
+    "correct_index": 2,
+    "explanation": "Microbubbles are exhaled through the lungs and are not nephrotoxic. **Gadolinium** risks nephrogenic systemic fibrosis in severe renal impairment, and iodinated contrast risks contrast-induced acute kidney injury.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (contrast that can be given in chronic renal failure — ultrasound contrast, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_038",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Contrast-induced acute kidney injury characteristically occurs",
+    "options": [
+      "Only after repeated doses",
+      "Within 1 hour",
+      "After 2 weeks",
+      "Within 48 to 72 hours of contrast administration"
+    ],
+    "correct_index": 3,
+    "explanation": "Creatinine peaks at 3 to 5 days and usually recovers. Pre-existing renal impairment, diabetes, dehydration, heart failure and nephrotoxic drugs raise risk; periprocedural hydration is the main preventive measure.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (contrast in chronic renal failure, 2X), 2020 INI-CET (history in reproductive age female before contrast study)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_039",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "The MRI contrast agent used specifically for hepatobiliary imaging is",
+    "options": [
+      "Iohexol",
+      "Gadopentetate dimeglumine",
+      "Gadoxetate disodium",
+      "Barium sulphate"
+    ],
+    "correct_index": 2,
+    "explanation": "It is taken up by hepatocytes and excreted in bile, so a delayed hepatobiliary phase distinguishes hepatocyte-containing lesions such as focal nodular hyperplasia from metastases, which do not take it up.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (MRI contrast used for imaging liver — gadoxetate)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_040",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "The main advantage of ultrasound over mammography is that it is",
+    "options": [
+      "Better at detecting microcalcification",
+      "Useful in young women with dense breasts and can differentiate cystic from solid lesions",
+      "The preferred population screening tool",
+      "Able to replace biopsy"
+    ],
+    "correct_index": 1,
+    "explanation": "Dense parenchyma obscures lesions on mammography. **Mammography remains better for microcalcification** and is the screening modality above 40; ultrasound is the first-line imaging in women under 35.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (advantages of USG over mammography — useful in young females with dense breasts)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_041",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Before an ionising investigation in a woman of reproductive age, the essential history is",
+    "options": [
+      "The family history of cancer",
+      "The date of the last menstrual period",
+      "Previous surgery",
+      "Drug allergy only"
+    ],
+    "correct_index": 1,
+    "explanation": "The ten-day rule, and more recently the twenty-eight-day rule, guide timing of elective ionising studies to minimise inadvertent fetal exposure. Drug allergy is asked separately before contrast.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (what history to ask in a female of reproductive age undergoing imaging — LMP)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_042",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Uses of ultrasound include",
+    "options": [
+      "Imaging the lung parenchyma in detail",
+      "Dissolving coronary thrombus",
+      "Guiding central venous line insertion and assessing vessel patency",
+      "Assessing cortical bone detail"
+    ],
+    "correct_index": 2,
+    "explanation": "Ultrasound cannot cross bone or air, which is why lung parenchyma, bowel gas and the retroperitoneum are poorly seen. It is portable, non-ionising and real-time, which makes it ideal for procedural guidance.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (uses of USG include insertion of central venous line, not dissolving coronary thrombus), 2022 INI-CET (USG is least helpful for retroperitoneal haematoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_043",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Ultrasound is **least** helpful in assessing",
+    "options": [
+      "Hydronephrosis",
+      "A pleural effusion",
+      "Gallstones",
+      "A retroperitoneal haematoma"
+    ],
+    "correct_index": 3,
+    "explanation": "Overlying bowel gas and depth obscure the retroperitoneum, which is why FAST misses retroperitoneal, pancreatic and duodenal injury and CT is required in blunt trauma.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (USG is least helpful for retroperitoneal haematoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_044",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "Remote afterloading is a technique used in",
+    "options": [
+      "Proton therapy",
+      "External beam radiotherapy",
+      "Brachytherapy",
+      "Radioiodine therapy"
+    ],
+    "correct_index": 2,
+    "explanation": "The applicator is positioned first and the source driven in remotely, so staff receive no dose. It is standard in cervical cancer brachytherapy, where high local doses are delivered with rapid fall-off.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (remote after loading is seen in brachytherapy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_045",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "Prophylactic craniospinal irradiation is given in",
+    "options": [
+      "Non-small cell lung carcinoma",
+      "Small cell carcinoma of the lung, as prophylactic cranial irradiation",
+      "Breast carcinoma",
+      "Prostate carcinoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Small cell carcinoma metastasises early to brain, and prophylactic cranial irradiation reduces brain relapse in patients who respond to initial chemotherapy. **Medulloblastoma** receives true craniospinal irradiation.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (prophylactic craniospinal radiation is given in small cell CA lung)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_046",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "The preferred radiotherapy modality for spinal metastasis from medulloblastoma is",
+    "options": [
+      "Brachytherapy",
+      "Craniospinal irradiation using photons, with protons where available to spare growing tissue",
+      "Radioiodine",
+      "Electron beam only"
+    ],
+    "correct_index": 1,
+    "explanation": "Medulloblastoma seeds the cerebrospinal fluid, so the whole neuraxis is treated. Proton therapy's sharp Bragg peak spares the thyroid, heart and vertebral growth plates in children.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (preferred radiotherapy for spinal metastasis in medulloblastoma — proton and photon)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_047",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "The Spetzler–Martin score grades",
+    "options": [
+      "Tumour response to radiotherapy",
+      "Radiation dose to the brain",
+      "Surgical risk of a cerebral arteriovenous malformation, by size, venous drainage and eloquence of adjacent brain",
+      "Severity of subarachnoid haemorrhage"
+    ],
+    "correct_index": 2,
+    "explanation": "It runs from 1 to 5, with higher grades predicting worse surgical outcome and favouring embolisation or stereotactic radiosurgery. Note that the source file files this neurosurgical score under radiophysics.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (calculate Spetzler Martin score for AVM in deep tissue — 4)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_048",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "PERCIST criteria are used for",
+    "options": [
+      "Staging lymphoma",
+      "Anatomical response assessment on CT",
+      "Grading radiation dermatitis",
+      "Quantitative assessment of metabolic response in solid tumours on PET"
+    ],
+    "correct_index": 3,
+    "explanation": "**RECIST** assesses anatomical size change on CT, and PERCIST the metabolic change on PET. Metabolic response often precedes size change, which matters for targeted and immune therapies.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (quantitative assessment of metabolic changes in solid tumours — PERCIST)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_049",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "The radiotherapy technique that delivers a high dose to an irregular target while sparing adjacent organs by modulating beam intensity is",
+    "options": [
+      "Brachytherapy",
+      "Conventional two-field treatment",
+      "Intensity-modulated radiotherapy",
+      "Total body irradiation"
+    ],
+    "correct_index": 2,
+    "explanation": "Multileaf collimators shape the beam dynamically, which allows concave dose distributions around critical structures such as the parotid in head and neck cancer and the rectum in prostate cancer.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (teletherapy beams), 2018 AIIMS (LINAC dose measurement)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_050",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "The 4 Rs of radiobiology that explain the benefit of fractionation are",
+    "options": [
+      "Resistance, recurrence, remission and relapse",
+      "Repair, redistribution, repopulation and reoxygenation",
+      "Radiation, response, recovery and relapse",
+      "Reduction, resection, radiation and review"
+    ],
+    "correct_index": 1,
+    "explanation": "Fractionation lets normal tissue repair sublethal damage between fractions while tumour cells redistribute into sensitive cycle phases and hypoxic regions reoxygenate — the basis of all conventional schedules.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (least radiosensitive phase of cell cycle), 2021 INI-CET (acute radiation syndrome doses)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_051",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Visibility of both the inner and outer surfaces of the bowel wall on an abdominal radiograph is",
+    "options": [
+      "Claw sign, indicating intussusception",
+      "Rigler sign, indicating pneumoperitoneum",
+      "String sign of Kantor",
+      "Thumbprinting of ischaemic colitis"
+    ],
+    "correct_index": 1,
+    "explanation": "Free gas outlines the serosa while luminal gas outlines the mucosa — the double-wall sign. **Tell-tale triangle** sign, the football sign and the cupola sign are the other pneumoperitoneum signs.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (inner and outer aspect of bowel visible — Rigler's sign in pneumoperitoneum, 3X), 2016 AIIMS (tell-tale sign is seen in pneumoperitoneum)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_052",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Severe abdominal pain with gas under the diaphragm on an erect chest radiograph requires",
+    "options": [
+      "Observation with analgesia",
+      "Barium meal to confirm the site",
+      "Resuscitation followed by exploratory laparotomy",
+      "Upper gastrointestinal endoscopy immediately"
+    ],
+    "correct_index": 2,
+    "explanation": "Free gas means hollow viscus perforation, most often a peptic ulcer. An erect film shows gas in about 75% of cases, so a negative film does not exclude it and CT is more sensitive.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG (gas under diaphragm — resuscitation and exploratory laparotomy, 3X), 2021 INI-CET (gas below diaphragm — hollow viscus perforation)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_053",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "FAST in trauma stands for",
+    "options": [
+      "Focal assessment of soft tissue",
+      "Fast abdominal scanning technique",
+      "Full abdominal screening test",
+      "Focused assessment with sonography in trauma"
+    ],
+    "correct_index": 3,
+    "explanation": "It examines the pericardial, perihepatic, perisplenic and pelvic spaces for free fluid. **eFAST** extends it to the thoracic cavity for pneumothorax and haemothorax.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (full form of FAST), 2021 INI-CET (in eFAST, which part is included apart from abdomen — thoracic cavity)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_054",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Fluid in Morison's pouch on a FAST scan indicates",
+    "options": [
+      "Pericardial effusion",
+      "A normal finding",
+      "A positive FAST, implying free intraperitoneal fluid",
+      "A retroperitoneal haematoma"
+    ],
+    "correct_index": 2,
+    "explanation": "The hepatorenal recess is the most dependent part of the supine upper abdomen and so the earliest site of fluid collection. In an unstable patient a positive FAST mandates laparotomy without CT.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (fluid in Morrison pouch during FAST scan indicates positive FAST scan)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_055",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Large bowel obstruction on radiography is characterised by",
+    "options": [
+      "Central loops with valvulae conniventes crossing the full lumen",
+      "Peripheral dilated loops with haustral markings that do not cross the full lumen",
+      "Absent bowel gas",
+      "Gas under the diaphragm"
+    ],
+    "correct_index": 1,
+    "explanation": "Small bowel shows central loops with complete valvulae conniventes in a stepladder pattern. A caecal diameter above 12 cm risks perforation and demands urgent decompression.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (large bowel obstruction — dilated bowel loops with haustrations)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_056",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Narrow, thin, closely spaced valvulae conniventes identify which part of the small bowel?",
+    "options": [
+      "Ileum",
+      "Jejunum",
+      "Duodenum",
+      "Caecum"
+    ],
+    "correct_index": 1,
+    "explanation": "The jejunum has prominent, closely spaced mucosal folds; the ileum is featureless with few folds. On barium studies this distinction localises the level of pathology.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (part of bowel showing narrow, thin and closely spaced valvulae conniventes — jejunum)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_057",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The claw sign is useful in diagnosing",
+    "options": [
+      "Volvulus",
+      "Pneumoperitoneum",
+      "Intussusception, and in determining whether a mass arises from an organ",
+      "Appendicitis"
+    ],
+    "correct_index": 2,
+    "explanation": "Contrast tapers around the intussusceptum like a claw. **Target** and **pseudokidney** signs are the ultrasound equivalents, and pneumatic reduction is the treatment in a stable child.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (claw sign is useful in intussusception, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_058",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Match the signs: string sign, inverted umbrella sign.",
+    "options": [
+      "Achalasia; hiatus hernia",
+      "Intussusception; volvulus",
+      "Crohn disease; appendicitis",
+      "Pyloric stenosis; bowel obstruction"
+    ],
+    "correct_index": 3,
+    "explanation": "A thin thread of barium through a narrowed pylorus gives the string sign — note that the **string sign of Kantor** in Crohn disease is a different entity with the same name, describing a narrowed terminal ileum.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match the following — string sign pyloric stenosis, inverted umbrella bowel obstruction)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_059",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A 6-week-old with recurrent projectile non-bilious vomiting has ultrasound showing a thickened pylorus. The diagnosis is",
+    "options": [
+      "Duodenal atresia",
+      "Gastro-oesophageal reflux",
+      "Congenital hypertrophic pyloric stenosis",
+      "Malrotation"
+    ],
+    "correct_index": 2,
+    "explanation": "A muscle thickness above about 3 mm with a channel length above 15 to 17 mm is diagnostic. A target sign in cross-section and the string sign on contrast studies are the other appearances.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (6-week-old with projectile non-bilious vomiting and USG — congenital hypertrophic pyloric stenosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_060",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A 5-year-old with intermittent upper abdominal pain has a chest radiograph showing a retrocardiac gas-filled structure. The diagnosis is",
+    "options": [
+      "Hiatus hernia alone",
+      "Gastric volvulus",
+      "Congenital diaphragmatic hernia",
+      "Achalasia"
+    ],
+    "correct_index": 1,
+    "explanation": "An abnormally positioned, distended stomach with a double air-fluid level suggests it. Organo-axial volvulus is associated with diaphragmatic defects, and acute presentation with Borchardt triad is a surgical emergency.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (5-year-old with intermittent abdominal pain and CXR finding — gastric volvulus, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_061",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A 30-year-old with progressive difficulty swallowing both solids and liquids should have",
+    "options": [
+      "Barium enema",
+      "Upper gastrointestinal endoscopy with manometry",
+      "Plain abdominal radiography",
+      "Colonoscopy"
+    ],
+    "correct_index": 1,
+    "explanation": "Dysphagia for liquids as much as solids points to a motility disorder. Timed barium swallow shows the bird-beak taper of achalasia, endoscopy excludes malignancy, and manometry is diagnostic.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (progressive difficulty swallowing solids and liquids — UGIE plus manometry for achalasia, 2X), 2020 INI-CET (investigations in achalasia — timed barium swallow, UGIE, manometry, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_062",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "An elderly man with long-standing dysphagia and halitosis has a barium swallow showing a posterior midline outpouching above the cricopharyngeus. The diagnosis is",
+    "options": [
+      "Oesophageal carcinoma",
+      "Achalasia",
+      "Zenker diverticulum",
+      "Hiatus hernia"
+    ],
+    "correct_index": 2,
+    "explanation": "It herniates through Killian dehiscence, between thyropharyngeus and cricopharyngeus, from failure of cricopharyngeal relaxation. **Endoscopy risks perforation of the pouch**, so contrast study comes first.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (old man with long standing dysphagia and bad breath, barium swallow — Zenker's diverticulum)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_063",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A child with difficulty swallowing has a neck radiograph showing a circular opacity with a double-ring (halo) appearance. The foreign body is",
+    "options": [
+      "A plastic cap",
+      "A coin",
+      "A bone fragment",
+      "A button battery"
+    ],
+    "correct_index": 3,
+    "explanation": "The double ring or step-off distinguishes it from a coin, which has a single uniform density. A battery lodged in the **oesophagus** causes caustic injury within hours and needs **urgent** endoscopic removal.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (double ring sign in foreign body in oesophagus — button battery ingestion), 2022 INI-CET (cervical X-ray showing foreign body with double ring — button battery)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_064",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Faint calcification in the region of the pancreas on a plain abdominal radiograph indicates",
+    "options": [
+      "Pancreatic adenocarcinoma",
+      "Acute pancreatitis",
+      "Chronic pancreatitis",
+      "A pseudocyst"
+    ],
+    "correct_index": 2,
+    "explanation": "Intraductal calculi and parenchymal calcification are hallmarks, and tropical calcific pancreatitis is the common pattern in India. CT or MRCP shows duct dilatation, strictures and atrophy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (X-ray shows faint calcifications in region of pancreas — chronic pancreatitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_065",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The best investigation to confirm a post-cholecystectomy biliary leak is",
+    "options": [
+      "Plain radiography",
+      "ERCP, which is both diagnostic and therapeutic",
+      "Barium meal",
+      "Ultrasound alone"
+    ],
+    "correct_index": 1,
+    "explanation": "It demonstrates the leak and allows stenting at the same sitting. **HIDA scintigraphy** is the non-invasive alternative for confirming a leak, and MRCP maps the anatomy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (best investigation to confirm biliary leak — ERCP)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_066",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "MRCP showing a filling defect in the distal common bile duct indicates",
+    "options": [
+      "Cholangiocarcinoma",
+      "Choledocholithiasis",
+      "Choledochal cyst",
+      "Primary sclerosing cholangitis"
+    ],
+    "correct_index": 1,
+    "explanation": "MRCP is highly sensitive and non-invasive, so ERCP is reserved for therapy. **Fusiform dilatation** of the duct instead indicates a type I choledochal cyst, which needs excision because of malignant risk.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (MRCP shows filling defect in distal CBD — choledocholithiasis, 2X), 2018 NEET-PG (MRCP shows fusiform dilatation of CBD — choledochal cyst)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_067",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Obstructive jaundice with a distended gall bladder and dilated intra- and extrahepatic ducts is best imaged by",
+    "options": [
+      "Barium meal",
+      "Plain radiography",
+      "MRCP",
+      "Non-contrast CT"
+    ],
+    "correct_index": 2,
+    "explanation": "It maps the level and cause of obstruction without radiation or instrumentation. A distended non-tender gall bladder with jaundice suggests a malignant distal obstruction — Courvoisier's law.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (obstructive jaundice with distended GB and dilated CBD — MRCP)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_068",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Ultrasound showing folding of the gall bladder fundus back on the body is",
+    "options": [
+      "A gall bladder carcinoma",
+      "Adenomyomatosis",
+      "A porcelain gall bladder",
+      "A Phrygian cap, a normal variant"
+    ],
+    "correct_index": 3,
+    "explanation": "It is the commonest congenital gall bladder variant and has no pathological significance, though it can be mistaken for a septum or a pathological fold.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (USG shows folding of fundus of gall bladder back upon the body — Phrygian cap, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_069",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Non-visualisation of the gall bladder on hepatobiliary scintigraphy indicates",
+    "options": [
+      "Chronic cholecystitis only",
+      "Normal gall bladder function",
+      "Acute cholecystitis with cystic duct obstruction",
+      "Biliary atresia"
+    ],
+    "correct_index": 2,
+    "explanation": "HIDA is the most specific test for acute cholecystitis when ultrasound is equivocal, because tracer cannot enter an obstructed gall bladder. **Non-excretion into the bowel** in a neonate suggests biliary atresia.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (non-visualisation of gall bladder in hepatic scintigraphy — acute cholecystitis due to gall stones)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_070",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A 35-year-old man with fever and right hypochondrial tenderness has a single large liver lesion with no internal septations. The likely diagnosis is",
+    "options": [
+      "Hydatid cyst",
+      "Amoebic liver abscess",
+      "Hepatocellular carcinoma",
+      "Simple cyst"
+    ],
+    "correct_index": 1,
+    "explanation": "It is usually solitary, in the right lobe, in a young adult male, with anchovy-sauce contents. Metronidazole is the treatment, with aspiration for large or left-lobe abscesses or failure to respond.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (fever, right hypochondrium tenderness — amoebic liver abscess)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_071",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A crumpled membrane appearance within a liver lesion on CT indicates",
+    "options": [
+      "An amoebic abscess",
+      "A hydatid cyst with a detached endocyst",
+      "A pyogenic abscess",
+      "Hepatocellular carcinoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Water-lily, cartwheel and daughter-cyst appearances are the other signs. **Percutaneous aspiration risks anaphylaxis and seeding**, so albendazole cover with PAIR or surgery is used instead.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2020 INI-CET (crumpled membrane appearance on CT — echinococcal infection, hydatid cyst, 2X), 2021 INI-CET (multilocular cart wheel structure suggestive of hydatid)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_072",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Diarrhoea for 8 months with CT showing continuous colonic involvement from the rectum indicates",
+    "options": [
+      "Intestinal tuberculosis",
+      "Crohn disease",
+      "Ulcerative colitis",
+      "Ischaemic colitis"
+    ],
+    "correct_index": 2,
+    "explanation": "Continuity from the rectum with mucosal limitation, a lead-pipe colon and loss of haustration are characteristic. **Crohn disease** gives skip lesions, transmural involvement, fistulae and relative rectal sparing.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (diarrhoea for 8 months with continuous colonic involvement — ulcerative colitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_073",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The investigation in which contrast is injected into the rectum and the patient asked to evacuate is",
+    "options": [
+      "Small bowel enema",
+      "Barium enema",
+      "Barium meal follow-through",
+      "Defecography (evacuation proctography)"
+    ],
+    "correct_index": 3,
+    "explanation": "It is a dynamic study used to investigate obstructed defecation, rectal intussusception, rectocele and descending perineum syndrome — functional rather than structural information.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (X-ray investigation in which contrast is injected into rectum — X-ray defecogram)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_074",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Segment 5 of the liver corresponds to the",
+    "options": [
+      "Caudate lobe",
+      "Left lateral segment",
+      "Right anterior lobe, inferior segment",
+      "Right posterior superior segment"
+    ],
+    "correct_index": 2,
+    "explanation": "Couinaud's eight segments are defined by the hepatic veins and the portal plane, each with independent inflow, outflow and biliary drainage — which is what makes segmental resection possible.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (segment 5 of liver corresponds to right anterior lobe inferior segment)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_075",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "A 35-year-old with recurrent fever and chills has MRCP showing multifocal intra- and extrahepatic strictures with a beaded duct. The diagnosis is",
+    "options": [
+      "Choledocholithiasis",
+      "Primary sclerosing cholangitis",
+      "Cholangiocarcinoma",
+      "Caroli disease"
+    ],
+    "correct_index": 1,
+    "explanation": "A beaded or pruned-tree biliary tree is characteristic. It is strongly associated with **ulcerative colitis**, carries a risk of cholangiocarcinoma, and p-ANCA is often positive.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (recurrent fever with chills, MRCP showing multiple strictures — primary sclerosing cholangitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_076",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "A 20-year-old has an eccentric expansile lesion with a soap-bubble appearance at the distal femur reaching the subarticular region. The diagnosis is",
+    "options": [
+      "Aneurysmal bone cyst",
+      "Giant cell tumour (osteoclastoma)",
+      "Simple bone cyst",
+      "Osteosarcoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Eccentric, epiphyseal-to-metaphyseal, lytic with a narrow transition zone and extension to subarticular bone in a skeletally mature patient. Distal femur, proximal tibia and distal radius are the classic sites.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (eccentric expansile lesion with soap bubble appearance — osteoclastoma, 3X), 2021 NEET-PG (expansile eccentric epiphyseal lesion in distal radius — giant cell tumour, 2X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_077",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "An 18-year-old with fever, raised ESR and local tenderness has a radiograph showing a diaphyseal lesion with lamellated periosteal reaction. The diagnosis is",
+    "options": [
+      "Osteosarcoma",
+      "Osteomyelitis",
+      "Ewing sarcoma",
+      "Giant cell tumour"
+    ],
+    "correct_index": 2,
+    "explanation": "Onion-peel periosteal reaction in a diaphyseal lesion with systemic features closely mimics osteomyelitis, and biopsy is what separates them. CD99 positivity and *EWSR1* translocation confirm it.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (18-year-old with fever, raised ESR, Codman/lamellated X-ray — Ewing sarcoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_078",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "A young adult with thigh pain has CT showing new bone formation surrounding a central lucency with a cloaca. The diagnosis is",
+    "options": [
+      "Brodie abscess",
+      "Osteosarcoma",
+      "Osteoid osteoma",
+      "Chronic osteomyelitis with involucrum and sequestrum"
+    ],
+    "correct_index": 3,
+    "explanation": "Involucrum is the new reactive bone, sequestrum the dead avascular fragment, and the cloaca the opening through which pus escapes. CT best demonstrates sequestra for surgical planning.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (young adult with thigh pain, CT shows new bone formation with cloaca — chronic osteomyelitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_079",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "In osteochondroma, malignant transformation is suspected when",
+    "options": [
+      "The lesion is solitary",
+      "The lesion points away from the joint",
+      "The cartilage cap exceeds 2 cm in thickness",
+      "It appears in adolescence"
+    ],
+    "correct_index": 2,
+    "explanation": "MRI measures the cap. New pain after skeletal maturity, rapid growth and an associated soft tissue mass are the other warning features suggesting secondary chondrosarcoma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (in osteochondroma, malignancy is suspected if cartilage cap is more than 2 cm thick), 2024 INI-CET orthopaedics (mushroom-like tumour with 2 cm hyaline cap)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_080",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Multiple well-defined expansile lytic lesions in the phalanges of the hand indicate",
+    "options": [
+      "Multiple myeloma",
+      "Multiple enchondromas (Ollier disease)",
+      "Metastases",
+      "Hyperparathyroidism"
+    ],
+    "correct_index": 1,
+    "explanation": "Enchondromas are commonest in the small bones of the hand. With soft tissue haemangiomas it becomes **Maffucci syndrome**, and both carry a risk of chondrosarcomatous transformation.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (multiple well defined expansile lytic lesions in phalanges — multiple enchondromas)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_081",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The investigation **not** useful in multiple myeloma is",
+    "options": [
+      "Skeletal survey",
+      "Technetium bone scan",
+      "Whole-body MRI",
+      "Low-dose whole-body CT"
+    ],
+    "correct_index": 1,
+    "explanation": "Myeloma lesions are purely lytic with **no osteoblastic reaction**, so they do not take up the tracer and the scan is often falsely negative. Punched-out skull lucencies and vertebral collapse are the plain-film findings.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (investigation not useful in multiple myeloma — bone scan)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_082",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Increased uptake on a bone scan in prostate carcinoma reflects",
+    "options": [
+      "Marrow replacement",
+      "Purely lytic destruction",
+      "Osteoblastic metastatic activity",
+      "Soft tissue uptake"
+    ],
+    "correct_index": 2,
+    "explanation": "Technetium MDP binds hydroxyapatite at sites of bone formation, so osteoblastic metastases light up. Prostate is the classic sclerotic primary; breast and lung give mixed or lytic deposits.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (bone scan shows increased uptake in prostate carcinoma — osteoblastic metastatic activity)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_083",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "A 68-year-old with weight loss sustains a fracture after trivial trauma, with a lytic lesion at the fracture site. The diagnosis is",
+    "options": [
+      "Paget disease",
+      "Simple osteoporotic fracture",
+      "Osteomyelitis",
+      "Pathological fracture through a metastasis"
+    ],
+    "correct_index": 3,
+    "explanation": "Metastasis is the commonest malignant bone lesion overall. Breast, prostate, lung, thyroid and kidney are the usual primaries, and a lytic lesion with a soft tissue mass in an older patient needs staging.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (68-year-old with weight loss and trivial trauma — metastasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_084",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The winking owl sign on an anteroposterior spine radiograph indicates",
+    "options": [
+      "Ankylosing spondylitis",
+      "Spondylolisthesis",
+      "Vertebral metastasis with destruction of a pedicle",
+      "Osteoporotic collapse"
+    ],
+    "correct_index": 2,
+    "explanation": "Loss of one pedicle's cortical ring makes the vertebra appear to wink. Pedicle destruction is characteristic of metastasis, whereas tuberculosis destroys the body and disc.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (winking owl sign is seen in vertebral metastasis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_085",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The ivory vertebra sign can be seen in",
+    "options": [
+      "Osteoporosis only",
+      "Lymphoma, metastasis and Paget disease",
+      "Tuberculous spondylitis",
+      "Ankylosing spondylitis only"
+    ],
+    "correct_index": 1,
+    "explanation": "A uniformly dense, sclerotic vertebral body with preserved size and contour. Osteoblastic prostate metastasis and sclerotic lymphoma are the common causes in adults.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ivory vertebra can be seen in lymphoma, metastasis, Paget's)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_086",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Horizontal sclerotic bands along the superior and inferior vertebral margins give the",
+    "options": [
+      "Ivory vertebra of lymphoma",
+      "Rugger-jersey spine of renal osteodystrophy",
+      "Picture-frame vertebra of Paget disease",
+      "Codfish vertebra of osteoporosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Secondary hyperparathyroidism causes endplate sclerosis alternating with lucent mid-bodies, giving the striped appearance. **Picture-frame** vertebra, with cortical thickening on all sides, indicates Paget disease.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (X-ray spine shows horizontal sclerotic bands along the superior margins — rugger-jersey spine)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_087",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The fish-mouth or codfish vertebra appearance indicates",
+    "options": [
+      "Paget disease",
+      "Metastasis",
+      "Osteoporosis with biconcave vertebral bodies",
+      "Ankylosing spondylitis"
+    ],
+    "correct_index": 2,
+    "explanation": "Weakened trabeculae allow the nucleus pulposus to indent the endplates. Sickle cell disease gives the related **H-shaped (Reynolds)** vertebra from central endplate infarction.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (the given spine is seen in osteoporosis — fish mouth spine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_088",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Sunburst or sunray periosteal reaction in the skull is **not** seen in",
+    "options": [
+      "Haemangioma of bone",
+      "Meningioma",
+      "Thalassaemia",
+      "Paget disease"
+    ],
+    "correct_index": 3,
+    "explanation": "Paget disease of the skull gives osteoporosis circumscripta and a cotton-wool appearance, not spiculated periosteal reaction. Sunburst spiculation occurs in meningioma, haemangioma, thalassaemia and osteosarcoma.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (sunburst appearance in skull is not seen in Paget)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_089",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Lytic skull lesions with bevelled edges, skin lesions and lymphadenopathy indicate",
+    "options": [
+      "Metastasis",
+      "Multiple myeloma",
+      "Langerhans cell histiocytosis",
+      "Hyperparathyroidism"
+    ],
+    "correct_index": 2,
+    "explanation": "Unequal involvement of the inner and outer tables gives the bevelled edge and the \"hole within a hole\". Vertebra plana, diabetes insipidus and CD1a-positive Birbeck-granule cells complete the picture; vinblastine is used in multisystem disease.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (skin lesion, lymphadenopathy, lytic lesions in skull with bevelled edges — vinblastine for LCH)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_090",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The Honda sign on STIR MRI of the pelvis indicates",
+    "options": [
+      "Sacroiliitis",
+      "A sacral insufficiency fracture",
+      "Sacral metastasis",
+      "Sacral chordoma"
+    ],
+    "correct_index": 1,
+    "explanation": "An H-shaped band of marrow oedema through both sacral alae and the body resembles the Honda logo. It occurs in osteoporotic elderly women after minimal or no trauma and is often missed on radiographs.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Honda sign on STIR MRI is seen in sacral insufficiency fracture)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_091",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The investigations used to assess osteoporosis are",
+    "options": [
+      "Bone scan alone",
+      "DEXA, quantitative CT and serum biochemistry",
+      "MRI alone",
+      "Plain radiography alone"
+    ],
+    "correct_index": 1,
+    "explanation": "DEXA of the lumbar spine and hip gives the T-score, with −2.5 or lower defining osteoporosis. Biochemistry is **normal** in osteoporosis, and is done to exclude osteomalacia and myeloma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (investigations used in osteoporosis — DEXA, quantitative CT, serum chemistry)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_092",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The radiological features of rickets include",
+    "options": [
+      "Periosteal reaction with sequestra",
+      "Dense sclerotic metaphyses",
+      "Cupping, fraying and splaying of metaphyses with a widened physis",
+      "Punched-out lytic lesions"
+    ],
+    "correct_index": 2,
+    "explanation": "The wrist, knee and costochondral junctions show it earliest because they grow fastest. Rachitic rosary, bowing and a rickety rosary on the chest complete the picture.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (radiological features of rickets — cupping, fraying and splaying of metaphysis), 2023 INI-CET (cupping, fraying, splaying at distal radius and ulna — rickets, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_093",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "White line of Frenkel and Wimberger ring on a knee radiograph indicate",
+    "options": [
+      "Osteopetrosis",
+      "Rickets",
+      "Lead poisoning",
+      "Scurvy"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin C deficiency impairs collagen and osteoid formation. Frenkel's line is the dense zone of provisional calcification, Wimberger's ring the sclerotic epiphyseal rim, and Pelkan spurs the metaphyseal projections.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (white line of Frenkel and Wimberger ring on knee X-ray — scurvy)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_094",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Radiological features of osteogenesis imperfecta include",
+    "options": [
+      "Dense sclerotic bones",
+      "Saber-shin tibia as a characteristic feature",
+      "Multiple fractures with wormian bones and gracile osteopenic bones",
+      "Metaphyseal cupping"
+    ],
+    "correct_index": 2,
+    "explanation": "Antenatal ultrasound may show multiple long bone fractures. **Saber-shin tibia** belongs to congenital syphilis and Paget disease, which is the recorded distractor.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (radiological features of osteogenesis imperfecta include saber shin — false), 2020 NEET-PG (prenatal USG shows multiple fractures — osteogenesis imperfecta)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_095",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "A child with skin rashes, endocrine abnormality and multiple bone lesions has",
+    "options": [
+      "Neurofibromatosis type 1",
+      "McCune–Albright syndrome",
+      "Langerhans cell histiocytosis",
+      "Multiple enchondromatosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Polyostotic fibrous dysplasia with ground-glass medullary lesions, café-au-lait macules with irregular coast-of-Maine borders, and precocious puberty, from a post-zygotic *GNAS* mutation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (child with skin rashes, endocrine abnormalities, multiple bone lesions — McCune Albright syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_096",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "A 70-year-old with painful limp has a hip radiograph showing flattening and sclerosis of the femoral head with preserved joint space. The diagnosis is",
+    "options": [
+      "Osteoarthritis",
+      "Avascular necrosis",
+      "Septic arthritis",
+      "Metastasis"
+    ],
+    "correct_index": 1,
+    "explanation": "Preserved joint space with subchondral sclerosis and the crescent sign distinguish early avascular necrosis from osteoarthritis, which narrows the joint. MRI is the most sensitive investigation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (70-year-old with painful limp, X-ray shows flattening of femoral head — AVN)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_097",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Flowing anterior vertebral ossification over four contiguous levels with preserved disc spaces and no sacroiliitis indicates",
+    "options": [
+      "Psoriatic spondylitis",
+      "Ankylosing spondylitis",
+      "Diffuse idiopathic skeletal hyperostosis",
+      "Degenerative spondylosis"
+    ],
+    "correct_index": 2,
+    "explanation": "Preserved discs and **normal sacroiliac joints** distinguish it from ankylosing spondylitis, which shows sacroiliitis, syndesmophytes and a bamboo spine. DISH is usually asymptomatic and age-related.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (50-year-old with diffuse backache, cervical X-ray shows flowing ossification — DISH), 2020 INI-CET / 2018 NEET-PG (difficulty bending forwards — ankylosing spondylitis, 3X)",
+    "repeats": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_098",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "Sudden severe headache with neck rigidity and no trauma, with a hyperdense appearance in the basal cisterns on non-contrast CT, indicates",
+    "options": [
+      "Meningitis",
+      "Extradural haematoma",
+      "Subdural haematoma",
+      "Subarachnoid haemorrhage"
+    ],
+    "correct_index": 3,
+    "explanation": "CT sensitivity exceeds 95% within 6 hours and falls thereafter, so a lumbar puncture for xanthochromia is needed when CT is negative but suspicion persists. CT angiography then localises the aneurysm.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (sudden headache, neck rigidity, no trauma, NCCT shows hyperdensity — subarachnoid haemorrhage, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_099",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A biconvex hyperdense collection on CT, limited by suture lines, is",
+    "options": [
+      "An intracerebral haematoma",
+      "A subdural haematoma",
+      "An extradural haematoma",
+      "Subarachnoid haemorrhage"
+    ],
+    "correct_index": 2,
+    "explanation": "It is limited by dural attachment at sutures and arises from the middle meningeal artery, usually with a temporal bone fracture and a lucid interval. A **crescentic** collection crossing sutures indicates subdural haematoma.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (CT brain shows biconvex hyperdensity — EDH)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_100",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A patient after a road traffic accident has a GCS of 10 with a dilated pupil. The management is",
+    "options": [
+      "Observation and repeat GCS in 6 hours",
+      "Urgent imaging with surgical evacuation of the haematoma",
+      "Lumbar puncture",
+      "MRI before any intervention"
+    ],
+    "correct_index": 1,
+    "explanation": "A dilated pupil indicates uncal herniation compressing the third nerve — a surgical emergency. Mannitol, head elevation and normocapnia buy time while theatre is arranged.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (RTA with GCS 10 and dilated pupil — surgical evacuation for intracranial bleed)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_101",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A young man after a road traffic accident has a low GCS with raised intracranial pressure and a normal non-contrast CT. The likely diagnosis is",
+    "options": [
+      "Extradural haematoma",
+      "Diffuse axonal injury",
+      "Subarachnoid haemorrhage",
+      "Skull fracture alone"
+    ],
+    "correct_index": 1,
+    "explanation": "Shearing forces damage axons at grey–white junctions, the corpus callosum and the brainstem. CT is often normal, so **MRI with gradient echo or susceptibility-weighted imaging** is required to show the microhaemorrhages.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (RTA, low GCS, raised ICT, normal NCCT — diffuse axonal injury, 2X), 2020 INI-CET (punctate black dots suggestive of haemorrhages better seen on SWI MRI)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_102",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "Punctate hypointense dots indicating microhaemorrhage are best seen on which MRI sequence?",
+    "options": [
+      "FLAIR",
+      "T1-weighted imaging",
+      "Susceptibility-weighted imaging",
+      "T2-weighted imaging"
+    ],
+    "correct_index": 2,
+    "explanation": "It exploits the magnetic susceptibility of blood breakdown products and is the most sensitive sequence for microbleeds, calcification and venous structures. Gradient echo is the older equivalent.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (punctate black dots suggestive of haemorrhages better seen on SWI MRI)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_103",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The Mount Fuji sign on CT indicates",
+    "options": [
+      "Cerebral oedema",
+      "Bilateral chronic subdural haematoma",
+      "Hydrocephalus",
+      "Tension pneumocephalus"
+    ],
+    "correct_index": 3,
+    "explanation": "Air separates and compresses both frontal lobes with widening of the interhemispheric space, resembling the peak of Mount Fuji. It follows neurosurgery or trauma and needs urgent decompression.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Mount Fuji sign is seen in pneumocephalus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_104",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A child with seizures has contrast CT showing a ring-enhancing lesion with an eccentric dot. The diagnosis is",
+    "options": [
+      "Pyogenic abscess",
+      "Tuberculoma",
+      "Neurocysticercosis",
+      "Glioma"
+    ],
+    "correct_index": 2,
+    "explanation": "The eccentric dot is the scolex, which is pathognomonic. It is the commonest cause of acquired epilepsy in India. **Steroids precede antiparasitic treatment** and ophthalmic cysts must be excluded first.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (child with seizures, CECT shows ring enhancing lesion with scolex — neurocysticercosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_105",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A child with chronic ear discharge has a ring-enhancing lesion with surrounding oedema and restricted diffusion. The diagnosis is",
+    "options": [
+      "Glioblastoma",
+      "A temporal lobe abscess",
+      "Metastasis",
+      "Neurocysticercosis"
+    ],
+    "correct_index": 1,
+    "explanation": "**Restricted diffusion** on DWI distinguishes the viscous pus of an abscess from the central necrosis of a tumour, which does not restrict. Chronic suppurative otitis media is the source.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (child with chronic ear discharge and ring enhancing lesion — temporal lobe abscess), 2018 NEET-PG (ring enhancing lesion with restriction on DWI — abscess)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_106",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "Altered sensorium with bitemporal haemorrhagic changes on CT indicates",
+    "options": [
+      "Tuberculous meningitis",
+      "Herpes simplex encephalitis",
+      "Cerebral malaria",
+      "Japanese encephalitis"
+    ],
+    "correct_index": 1,
+    "explanation": "It has a predilection for the medial temporal and inferior frontal lobes and is often haemorrhagic. **Aciclovir is started empirically** on suspicion, as mortality is high and delay costs outcome; PLEDs appear on EEG.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (altered sensorium with bitemporal haemorrhages on CT — herpes simplex infection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_107",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The eye-of-the-tiger sign on MRI indicates",
+    "options": [
+      "Multiple sclerosis",
+      "Wilson disease",
+      "Pantothenate kinase-associated neurodegeneration",
+      "Leigh disease"
+    ],
+    "correct_index": 2,
+    "explanation": "Central T2 hyperintensity within a hypointense globus pallidus from iron deposition. Formerly Hallervorden–Spatz disease, it causes dystonia, parkinsonism and retinal degeneration in children.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (eye of tiger appearance on MRI — pantothenate kinase associated degeneration)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_108",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A CT showing a hypodense area under 1.5 cm in the basal ganglia indicates",
+    "options": [
+      "A metastasis",
+      "A large vessel infarct",
+      "An abscess",
+      "A lacunar infarct"
+    ],
+    "correct_index": 3,
+    "explanation": "Lacunes result from small-vessel lipohyalinosis in hypertension and diabetes, affecting basal ganglia, thalamus, internal capsule and pons. Pure motor hemiparesis and ataxic hemiparesis are typical syndromes.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (CT shows less than 1.5 cm hypodense area in basal ganglia — lacunar infarct), 2014 AIIMS (MRI shows small infarct in left basal ganglia — lacunar infarct)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_109",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A 65-year-old with right hemiparesis and aphesia within the thrombectomy window should have",
+    "options": [
+      "Carotid Doppler only",
+      "Plain radiography of the skull",
+      "CT angiography to identify large vessel occlusion",
+      "Lumbar puncture"
+    ],
+    "correct_index": 2,
+    "explanation": "Non-contrast CT first excludes haemorrhage, then CT angiography identifies a thrombectomy target. CT perfusion extends selection in the late window by showing salvageable penumbra.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (65-year-old with right hemiparesis and aphasia — CT angio to rule out large vessel occlusion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_110",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The interventional radiology procedure used to treat an intracranial aneurysm is",
+    "options": [
+      "Chemoembolisation",
+      "Endovascular coiling",
+      "Radiofrequency ablation",
+      "Transjugular shunting"
+    ],
+    "correct_index": 1,
+    "explanation": "Detachable platinum coils induce thrombosis within the sac. The ISAT trial favoured coiling over clipping for most ruptured aneurysms, with flow diverters for wide-necked lesions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (interventional radiology procedure for treatment of aneurysm — coiling)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_111",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The main advantage of transcranial Doppler ultrasound after subarachnoid haemorrhage is that it",
+    "options": [
+      "Shows the aneurysm anatomy",
+      "Detects vasospasm non-invasively at the bedside",
+      "Replaces CT angiography",
+      "Measures intracranial pressure directly"
+    ],
+    "correct_index": 1,
+    "explanation": "Rising flow velocities precede clinical deterioration, allowing repeated monitoring between days 4 and 14 when vasospasm peaks. Nimodipine is given prophylactically.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (most important advantage of transcranial USG — detects vasospasm)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_112",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "Herniation of the cerebellar tonsils below the foramen magnum, without a myelomeningocele, is",
+    "options": [
+      "Dandy–Walker malformation",
+      "Chiari malformation type 2",
+      "Chiari malformation type 1",
+      "Encephalocele"
+    ],
+    "correct_index": 2,
+    "explanation": "It presents in adolescence or adulthood with occipital headache worsened by Valsalva, and is associated with syringomyelia. **Type 2** accompanies myelomeningocele and hydrocephalus in infancy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (herniation of cerebellar tonsils into foramen magnum — Chiari malformation type 1)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_113",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The banana and lemon signs on antenatal ultrasound indicate",
+    "options": [
+      "Dandy–Walker malformation",
+      "Anencephaly",
+      "Hydrocephalus alone",
+      "Open spinal dysraphism with Chiari II malformation"
+    ],
+    "correct_index": 3,
+    "explanation": "The banana sign is the curved cerebellum displaced caudally and the lemon sign the scalloped frontal bones. Both are **cranial** signs that detect spina bifida more reliably than direct spinal views.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (banana sign in USG is seen in spina bifida)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_114",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The empty thecal sac sign on myelography or MRI indicates",
+    "options": [
+      "Disc prolapse",
+      "Intradural extramedullary tumour",
+      "Arachnoiditis",
+      "Spinal stenosis"
+    ],
+    "correct_index": 2,
+    "explanation": "Nerve roots clump peripherally and adhere to the dura, leaving the central sac apparently empty. It follows surgery, infection, haemorrhage or intrathecal injection. **Expansion** of the contrast column instead suggests an intradural extramedullary tumour.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (empty thecal sac sign is seen in arachnoiditis, 2X), 2015 AIIMS (expansion of contrast filled space in myelography — intradural extramedullary tumour)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_115",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A solid-cystic enhancing suprasellar lesion with calcification in a child is",
+    "options": [
+      "Pituitary adenoma",
+      "Craniopharyngioma",
+      "Meningioma",
+      "Germinoma"
+    ],
+    "correct_index": 1,
+    "explanation": "Calcification in a suprasellar mass in a child is highly suggestive. It arises from Rathke pouch remnants and presents with bitemporal hemianopia, growth failure and diabetes insipidus.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (solid cystic enhancing lesion in suprasellar region with calcification — craniopharyngioma, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_116",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "An 8-month-old with cough, haemoptysis and fever has a chest radiograph showing opacity obscuring the right heart border with a preserved diaphragm. The diagnosis is",
+    "options": [
+      "Right lower lobe consolidation",
+      "Right middle lobe consolidation",
+      "Right upper lobe collapse",
+      "Pleural effusion"
+    ],
+    "correct_index": 1,
+    "explanation": "The silhouette sign localises the lobe: middle lobe disease effaces the right heart border while sparing the diaphragm, whereas **lower lobe** disease effaces the diaphragm and spares the heart border.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (8-month-old with cough, haemoptysis, fever, X-ray opacity — right middle lobe consolidation, 5X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_117",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "Patchy infiltrates on a chest radiograph are",
+    "options": [
+      "Seen only in tuberculosis",
+      "Diagnostic of lobar pneumonia",
+      "Characteristic of bronchopneumonia rather than lobar pyogenic pneumonia",
+      "Normal findings"
+    ],
+    "correct_index": 2,
+    "explanation": "Lobar pneumonia gives homogeneous consolidation confined by fissures with air bronchograms. Patchy peribronchial infiltrates suggest bronchopneumonia, viral or atypical infection.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (patchy infiltrates are found in pyogenic pneumonia — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_118",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A chest radiograph showing multiple small millet-sized nodules throughout both lungs in a patient with low-grade fever indicates",
+    "options": [
+      "Pneumoconiosis",
+      "Sarcoidosis",
+      "Metastases",
+      "Miliary tuberculosis"
+    ],
+    "correct_index": 3,
+    "explanation": "Uniform 1 to 3 mm nodules of equal size distributed randomly indicate haematogenous spread. HRCT shows random distribution, in contrast to the perilymphatic pattern of sarcoidosis.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (low grade fever with CXR showing millet sized nodules — miliary TB, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_119",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A tree-in-bud appearance on CT with pleural effusion in a diabetic indicates",
+    "options": [
+      "Emphysema",
+      "Pulmonary embolism",
+      "Endobronchial spread of infection, with organisms surrounded by inflammatory cells",
+      "Pulmonary oedema"
+    ],
+    "correct_index": 2,
+    "explanation": "Centrilobular nodules with branching linear opacities reflect filled bronchioles. It indicates endobronchial spread, classically tuberculosis but also fungal and atypical mycobacterial infection.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (diabetic with SOB, pleural effusion, CT shows tree in bud — fungal hyphae surrounded by lymphocytes)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_120",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A 25-year-old with fever, dry cough and night sweats has bilateral hilar lymphadenopathy with no parenchymal lesion. The diagnosis is",
+    "options": [
+      "Tuberculosis",
+      "Sarcoidosis",
+      "Lymphoma",
+      "Silicosis"
+    ],
+    "correct_index": 1,
+    "explanation": "**Symmetrical** bilateral hilar lymphadenopathy, often with right paratracheal nodes, is characteristic; tuberculosis and lymphoma cause asymmetrical nodes. Löfgren syndrome adds erythema nodosum and arthralgia.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (25-year-old with fever, dry cough, night sweats, bilateral hilar lymphadenopathy — sarcoidosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_121",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A patient with skin thickening and breathlessness has reticular opacities at both lung bases. The next investigation is",
+    "options": [
+      "Bronchoscopy",
+      "High-resolution CT of the thorax",
+      "Plain radiography repeated",
+      "Ventilation–perfusion scan"
+    ],
+    "correct_index": 1,
+    "explanation": "Systemic sclerosis causes interstitial lung disease, usually a non-specific interstitial pneumonia pattern. HRCT characterises the pattern and extent, and guides immunosuppression and antifibrotic therapy.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (skin thickening with SOB and reticular opacities — HRCT for scleroderma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_122",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A smoker with right arm pain and Horner syndrome has an apical chest opacity. The diagnosis, and the modality that best assesses local invasion, are",
+    "options": [
+      "Mesothelioma; PET",
+      "Tuberculosis; CT",
+      "Pancoast tumour; MRI",
+      "Aspergilloma; plain radiography"
+    ],
+    "correct_index": 2,
+    "explanation": "A superior sulcus tumour invades the brachial plexus, sympathetic chain and vertebral bodies. **MRI** is superior to CT for brachial plexus, vertebral and subclavian vessel involvement, which determines resectability.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (smoker with right arm pain and Horner's syndrome — Pancoast tumour), 2023 INI-CET (all lung carcinoma requires CECT but MRI is useful for Pancoast tumour)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_123",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A child with recurrent respiratory infections has multiple cystic lucencies in one hemithorax. The likely diagnosis is",
+    "options": [
+      "Pneumonia with abscesses",
+      "Pneumothorax",
+      "Bronchiectasis from cystic fibrosis",
+      "Congenital pulmonary airway malformation"
+    ],
+    "correct_index": 3,
+    "explanation": "Formerly congenital cystic adenomatoid malformation, it presents with respiratory distress in the newborn or recurrent infection later. Congenital diaphragmatic hernia and congenital lobar emphysema are the differentials.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (child with recurrent respiratory infections and multiple cystic lucencies — congenital pulmonary airway malformation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_124",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A 40-year-old with mucopurulent cough has CT showing a dilated bronchus with a wall thicker than the adjacent artery. The diagnosis is",
+    "options": [
+      "Interstitial fibrosis",
+      "Emphysema",
+      "Bronchiectasis",
+      "Bronchiolitis"
+    ],
+    "correct_index": 2,
+    "explanation": "A broncho-arterial ratio above 1 gives the signet-ring sign, with lack of tapering and visible bronchi within 1 cm of the pleura. HRCT is the investigation of choice.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (40-year-old with mucopurulent cough, CT shows dilated bronchus — bronchiectasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_125",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "Nasal discharge, dextrocardia and bronchiectasis together indicate",
+    "options": [
+      "Cystic fibrosis",
+      "Kartagener syndrome",
+      "Alpha-1 antitrypsin deficiency",
+      "Young syndrome"
+    ],
+    "correct_index": 1,
+    "explanation": "The triad is situs inversus, chronic sinusitis and bronchiectasis, from a dynein arm defect causing primary ciliary dyskinesia. Male infertility from immotile sperm accompanies it.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (nasal discharge, dyspnoea, dextrocardia and bronchiectasis — Kartagener syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_126",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A patient with acute epigastric pain and raised lipase develops bilateral alveolar opacities on day 3. The diagnosis is",
+    "options": [
+      "Cardiogenic pulmonary oedema",
+      "ARDS complicating acute pancreatitis",
+      "Aspiration pneumonia",
+      "Pulmonary embolism"
+    ],
+    "correct_index": 1,
+    "explanation": "Pancreatitis is a classic extrapulmonary cause. Bilateral opacities not explained by cardiac failure, appearing within a week of the insult, with a P/F ratio of 300 or less, satisfy the Berlin definition.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (acute epigastric pain, elevated lipase, CXR after 3 days — ARDS after acute pancreatitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_127",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "The sea-shore sign on M-mode lung ultrasound indicates",
+    "options": [
+      "Pleural effusion",
+      "Pneumothorax",
+      "Normal lung sliding",
+      "Consolidation"
+    ],
+    "correct_index": 2,
+    "explanation": "Granular \"sand\" below a linear \"shore\" reflects movement of the visceral pleura. Loss of sliding gives the **barcode or stratosphere sign**, indicating pneumothorax, and the lung point is diagnostic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (normal M-mode USG of lung shows sea shore sign)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_128",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A patient after a road traffic accident has tachycardia, hypotension, raised respiratory rate and a hyperlucent hemithorax with tracheal shift. The management is",
+    "options": [
+      "Intubation alone",
+      "CT thorax before any intervention",
+      "Observation with oxygen",
+      "Immediate needle decompression followed by chest tube placement"
+    ],
+    "correct_index": 3,
+    "explanation": "Tension pneumothorax is a **clinical** diagnosis; waiting for imaging risks cardiac arrest from obstructed venous return. Absent breath sounds, hyperresonance and tracheal deviation away complete the picture.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (RTA with hyperlucent hemithorax — tension pneumothorax, chest tube placement, 2X), 2015 AIIMS (RTA with hyperlucency — pneumothorax, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_129",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "Intercostal drain placement is contraindicated in",
+    "options": [
+      "Haemothorax",
+      "Tension pneumothorax",
+      "Congenital diaphragmatic hernia, where herniated bowel may be mistaken for a pneumothorax",
+      "Empyema"
+    ],
+    "correct_index": 2,
+    "explanation": "Inserting a drain perforates the bowel. The clue is a scaphoid abdomen with bowel gas patterns in the chest and mediastinal shift. Nasogastric decompression and intubation are the correct steps.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (which procedure is contraindicated in diaphragmatic hernia — ICD placement)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_130",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "In blunt chest trauma, which radiographic findings require further evaluation?",
+    "options": [
+      "A single rib fracture",
+      "Diaphragmatic hernia and complete opacification of one hemithorax",
+      "Mild subcutaneous emphysema alone",
+      "Normal cardiothoracic ratio"
+    ],
+    "correct_index": 1,
+    "explanation": "Both suggest major injury — diaphragmatic rupture or massive haemothorax. A widened mediastinum, first and second rib fractures, and apical capping also mandate CT angiography for aortic injury.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (blunt trauma to chest — diaphragmatic hernia, opacity in one hemithorax require evaluation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_131",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "The level of a rib fracture is identified on a chest radiograph by",
+    "options": [
+      "Counting the anterior ends only",
+      "Counting the ribs from the topmost downwards, following each posteriorly",
+      "Counting from the diaphragm upwards",
+      "Counting the vertebrae alone"
+    ],
+    "correct_index": 1,
+    "explanation": "Posterior ribs are more clearly seen and are counted systematically. First and second rib fractures imply high-energy trauma, and lower rib fractures raise concern for liver, spleen or renal injury.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (level of rib fracture can be identified by counting the ribs from the topmost rib)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_132",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "The investigations that best detect a **small** pleural effusion are",
+    "options": [
+      "Plain lateral radiograph alone",
+      "Posteroanterior radiograph alone",
+      "Ultrasound and a lateral decubitus radiograph",
+      "Ventilation–perfusion scan"
+    ],
+    "correct_index": 2,
+    "explanation": "Ultrasound detects as little as 5 to 20 mL and guides aspiration. An erect posteroanterior film needs about 200 to 300 mL before blunting of the costophrenic angle appears.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (radiological investigations to detect small amount of pleural effusion — USG and lateral decubitus X-ray)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_133",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A CORADS score of 5 on CT thorax means the appearance is",
+    "options": [
+      "Proven alternative diagnosis",
+      "Normal",
+      "Indeterminate",
+      "Typical for COVID-19"
+    ],
+    "correct_index": 3,
+    "explanation": "The CO-RADS scale runs 1 (normal) to 5 (typical), with 6 for PCR-proven disease. Peripheral bilateral ground-glass opacity with subpleural sparing and a crazy-paving pattern is the typical appearance.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (CORADS 5 is typical for COVID)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_134",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The investigation of choice for suspected ureteric colic is",
+    "options": [
+      "Plain radiography alone",
+      "Intravenous pyelography",
+      "Non-contrast CT of the kidneys, ureters and bladder",
+      "MRI"
+    ],
+    "correct_index": 2,
+    "explanation": "It detects virtually all stones, including radiolucent uric acid calculi, and shows obstruction and alternative diagnoses. **Indinavir** and pure matrix stones are the only ones CT may miss.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (IOC for ureteric colic/stones — NCCT, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_135",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "A 45-year-old with chronic flank pain and urinary infection has CT showing a bear-paw appearance of the kidney. The diagnosis is",
+    "options": [
+      "Renal cell carcinoma",
+      "Xanthogranulomatous pyelonephritis",
+      "Renal tuberculosis",
+      "Polycystic kidney disease"
+    ],
+    "correct_index": 1,
+    "explanation": "Dilated calyces filled with debris surrounded by inflammatory tissue resemble a bear's paw. It is almost always associated with an obstructing staghorn calculus, and nephrectomy is usually required.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (chronic flank pain, UTI, CT shows bear paw sign — xanthogranulomatous pyelonephritis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_136",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "Abdominal pain with sterile pyuria and a small calcified kidney indicates",
+    "options": [
+      "Acute pyelonephritis",
+      "Genitourinary tuberculosis with a putty kidney",
+      "Renal cell carcinoma",
+      "Medullary sponge kidney"
+    ],
+    "correct_index": 1,
+    "explanation": "Autonephrectomy with dystrophic calcification produces the putty kidney. A golf-hole ureteric orifice, thimble bladder and ureteric strictures are the other classic features; early morning urine for acid-fast bacilli confirms it.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (abdominal pain, sterile pyuria, small calcified kidney — putty kidney in TB, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_137",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "CECT showing a renal mass with a central stellate scar suggests",
+    "options": [
+      "Angiomyolipoma",
+      "Clear cell renal cell carcinoma",
+      "Oncocytoma",
+      "Simple cyst"
+    ],
+    "correct_index": 2,
+    "explanation": "A central stellate scar with a spoke-wheel enhancement pattern is suggestive but not specific, so most are still resected. It is a benign tumour of the collecting duct.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CECT shows mass in kidney with central stellate scar — oncocytoma)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_138",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "A renal lesion as dark as subcutaneous fat on CECT indicates",
+    "options": [
+      "Lymphoma",
+      "Oncocytoma",
+      "Renal cell carcinoma",
+      "Angiomyolipoma"
+    ],
+    "correct_index": 3,
+    "explanation": "Macroscopic fat with negative Hounsfield values is diagnostic. It is associated with **tuberous sclerosis** when multiple and bilateral, and lesions above 4 cm risk haemorrhage, warranting embolisation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (CECT shows lesion in left kidney as dark as subcutaneous fat — angiomyolipoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_139",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The treatment of a 5 cm renal cell carcinoma at the lower pole is",
+    "options": [
+      "Radiotherapy",
+      "Radical nephrectomy in all cases",
+      "Partial nephrectomy, as a nephron-sparing procedure",
+      "Observation"
+    ],
+    "correct_index": 2,
+    "explanation": "Tumours up to about 7 cm (T1) are managed with partial nephrectomy where technically feasible, preserving renal function with equivalent oncological outcome. Renal cell carcinoma is radioresistant.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (treatment in 5 cm RCC at lower pole of kidney)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_140",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "Dysuria and back pain with multiple parenchymal renal calcifications on radiography suggest",
+    "options": [
+      "Renal tuberculosis",
+      "Hyperparathyroidism with nephrocalcinosis",
+      "Medullary sponge kidney alone",
+      "Chronic pyelonephritis"
+    ],
+    "correct_index": 1,
+    "explanation": "Hypercalcaemia and hypercalciuria cause nephrocalcinosis and stones — the \"stones\" of stones, bones, abdominal groans and psychic moans. Distal renal tubular acidosis and medullary sponge kidney are the other causes.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dysuria, back pain, X-ray shows multiple parenchymal calcifications — hyperparathyroidism/parathyroid adenoma, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_141",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "A delayed intravenous pyelogram showing dye collecting in a dilated pelvicalyceal system with a normal ureter indicates",
+    "options": [
+      "Vesicoureteric reflux",
+      "A ureteric stone",
+      "Posterior urethral valve",
+      "Pelvi-ureteric junction obstruction"
+    ],
+    "correct_index": 3,
+    "explanation": "Pelvicalyceal dilatation with a non-dilated ureter localises the block to the junction. It is the commonest cause of antenatally detected hydronephrosis, and a diuretic renogram quantifies obstruction.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (delayed IVP shows dye collecting in pelvicalyceal system — PUJ obstruction, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_142",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "Persistent posterior urethral valve in a neonate is confirmed by",
+    "options": [
+      "Retrograde urethrography",
+      "Intravenous pyelography",
+      "Non-contrast CT",
+      "Micturating cystourethrography, after antenatal and postnatal ultrasound"
+    ],
+    "correct_index": 3,
+    "explanation": "A keyhole sign appears antenatally. MCU shows a dilated posterior urethra with a trabeculated bladder. Bladder drainage precedes endoscopic valve ablation, and renal dysplasia determines prognosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (persistent posterior urethral valve confirmed by antenatal USG, USG abdomen, MCU)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_143",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "Radiopacity in the midline below the pubic symphysis in a man with difficulty voiding is",
+    "options": [
+      "A pelvic phlebolith",
+      "A bladder stone",
+      "A prostatic calculus",
+      "A urethral stone"
+    ],
+    "correct_index": 3,
+    "explanation": "Position below the symphysis in the midline localises it to the bulbar or penile urethra. Most urethral stones have migrated from the bladder and present with acute retention or a poor stream.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (image shows radiopacity in midline below pubic symphysis — urethral stone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_144",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "A man after pelvic fracture cannot pass urine and has blood at the meatus. The injury and the correct first investigation are",
+    "options": [
+      "Ureteric injury; IVP",
+      "Bladder rupture; immediate catheterisation",
+      "Renal injury; CT",
+      "Membranous urethral injury; retrograde urethrography before any catheterisation"
+    ],
+    "correct_index": 3,
+    "explanation": "Pelvic fracture shears the membranous urethra at the urogenital diaphragm. Blind catheterisation can convert a partial tear into a complete one, so urethrography comes first and a suprapubic catheter diverts urine.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (RTA, pelvic fracture, unable to pass urine, blood at meatus — membranous urethra injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_145",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The imaging modalities used in PI-RADS assessment of the prostate are",
+    "options": [
+      "Bone scintigraphy",
+      "CT with contrast",
+      "Ultrasound alone",
+      "T2-weighted imaging, diffusion-weighted imaging and dynamic contrast enhancement"
+    ],
+    "correct_index": 3,
+    "explanation": "Multiparametric MRI is scored 1 to 5 for the likelihood of clinically significant cancer, and now guides targeted biopsy. **Diffusion** is the dominant sequence for the peripheral zone, where most cancers arise.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (imaging modality employed in PIRADS for prostate — T2WI, DWI, dynamic contrast enhancement)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_146",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The mushroom cap sign on MRI indicates",
+    "options": [
+      "A rectal polyp",
+      "Rectal carcinoma",
+      "Rectal prolapse",
+      "Rectal endometriosis"
+    ],
+    "correct_index": 3,
+    "explanation": "Deep infiltrating endometriosis of the anterior rectal wall produces a mushroom-shaped lesion with a hypointense stalk. MRI maps deep disease and is essential for surgical planning.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (mushroom cap sign in MRI is seen in rectal endometriosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_147",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "Hysterosalpingography showing two uterine horns separated by a narrow angle with a single external contour indicates",
+    "options": [
+      "Unicornuate uterus",
+      "Bicornuate uterus",
+      "Uterus didelphys",
+      "Septate uterus"
+    ],
+    "correct_index": 3,
+    "explanation": "A **narrow** intercornual angle, usually under 75 degrees, with a single fundal outline indicates a septum, treated by hysteroscopic resection. A wide angle with a fundal cleft indicates a bicornuate uterus.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (female with infertility, HSG shows two horns separated by narrow angle — septate uterus), 2014 AIIMS (X-ray showing contrast outlining a normal triangular uterine cavity — simple HSG)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_148",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "At 10 weeks of gestation, fresh bleeding with a uterus of 12 weeks' size and a snowstorm appearance on ultrasound indicates",
+    "options": [
+      "Twin pregnancy",
+      "Threatened abortion",
+      "Missed abortion",
+      "Hydatidiform mole"
+    ],
+    "correct_index": 3,
+    "explanation": "Uterine size greater than dates with no fetal parts, a vesicular snowstorm pattern, grossly raised beta-hCG and theca lutein cysts. Suction evacuation with hCG follow-up is the management.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (10-week POG, fresh bleeding, uterus 12 weeks size — hydatidiform mole)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_149",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The investigations used to diagnose placenta accreta spectrum are",
+    "options": [
+      "Hysteroscopy",
+      "Plain radiography",
+      "CT of the abdomen",
+      "Ultrasound with colour Doppler, and MRI where ultrasound is inconclusive"
+    ],
+    "correct_index": 3,
+    "explanation": "Loss of the clear retroplacental zone, placental lacunae and bridging vessels are the signs. A previous caesarean section with an anterior low-lying placenta is the strongest risk factor.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (investigations used for diagnosis of placenta accreta — USG and MRI)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_150",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "The imaging modality of first choice for assessing the thyroid gland is",
+    "options": [
+      "Radioiodine scan",
+      "CT with contrast",
+      "MRI",
+      "Ultrasound"
+    ],
+    "correct_index": 3,
+    "explanation": "It characterises nodules, guides fine-needle aspiration and assesses nodes without radiation. **Iodinated CT contrast is avoided** if radioiodine therapy is contemplated, as it saturates the gland for weeks.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identify the investigation commonly used to assess thyroid gland — USG)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_151",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "ACR TI-RADS assessment of a thyroid nodule includes",
+    "options": [
+      "Patient age and sex",
+      "Size alone",
+      "Vascularity alone",
+      "Composition, echogenicity, shape, margin and echogenic foci"
+    ],
+    "correct_index": 3,
+    "explanation": "Points are summed to give a risk category that, combined with size, determines whether aspiration or follow-up is appropriate. Taller-than-wide shape, irregular margins and microcalcification are the high-risk features.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ACR-TIRADS scan of thyroid nodule includes shape, margin, echogenicity, echogenic foci)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_152",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "The thyroid malignancy most frequently associated with bone metastasis is",
+    "options": [
+      "Anaplastic carcinoma",
+      "Papillary carcinoma",
+      "Medullary carcinoma",
+      "Follicular carcinoma"
+    ],
+    "correct_index": 3,
+    "explanation": "It spreads **haematogenously** to bone and lung, whereas papillary carcinoma spreads by lymphatics to cervical nodes. Both take up radioiodine and are followed with thyroglobulin after total thyroidectomy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (which thyroid malignancy is frequently associated with bone metastasis — follicular carcinoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_153",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "The radiographic view used to assess the frontal sinuses is",
+    "options": [
+      "Lateral view",
+      "Water's (occipitomental) view",
+      "Submentovertical view",
+      "Caldwell view"
+    ],
+    "correct_index": 3,
+    "explanation": "The occipitofrontal Caldwell projection best shows the frontal and ethmoid sinuses, while **Water's view** is for the maxillary sinuses and orbital floor. CT has largely replaced plain views.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (radiographic view used for assessment of frontal sinuses — Caldwell view)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_154",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Opacification of the maxillary sinus on radiography indicates",
+    "options": [
+      "Nasal polyp only",
+      "A normal variant",
+      "A frontal mucocele",
+      "Maxillary sinusitis"
+    ],
+    "correct_index": 3,
+    "explanation": "Mucosal thickening, an air-fluid level or complete opacification are the findings. CT is preferred when complications or fungal disease are suspected, or before functional endoscopic sinus surgery.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (X-ray shows opacification of maxillary sinus — maxillary sinusitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_155",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Non-axial proptosis with a history of trauma years earlier and a homogeneous expansile frontal lesion indicates",
+    "options": [
+      "Thyroid eye disease",
+      "An orbital abscess",
+      "A meningioma",
+      "A frontal mucocele"
+    ],
+    "correct_index": 3,
+    "explanation": "Obstruction of the sinus ostium traps mucus, which slowly expands and remodels bone, displacing the globe. **Non-axial** displacement indicates an extraconal mass; axial proptosis suggests an intraconal lesion.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (non-axial proptosis with trauma 10 years back — frontal mucocele)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_156",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Air within the superior turbinate on CT is",
+    "options": [
+      "A mucocele",
+      "A sign of sinusitis",
+      "An antrochoanal polyp",
+      "A pneumatised superior turbinate, an anatomical variant"
+    ],
+    "correct_index": 3,
+    "explanation": "Concha bullosa most commonly affects the middle turbinate. These variants matter because they narrow drainage pathways and must be recognised before endoscopic sinus surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (image showing air in superior turbinate — pneumatised superior turbinate)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_157",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "A 76-year-old non-smoker with nasal obstruction has a CT showing a unilateral nasal mass with bony remodelling. The likely diagnosis is",
+    "options": [
+      "Allergic polyp",
+      "Antrochoanal polyp",
+      "Juvenile nasopharyngeal angiofibroma",
+      "Inverted papilloma"
+    ],
+    "correct_index": 3,
+    "explanation": "A **unilateral** nasal mass in an adult is always suspicious. A cerebriform pattern on MRI is characteristic; it is locally aggressive, recurs after incomplete excision and can harbour squamous carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (76-year-old non-smoker with nasal obstruction and CT mass — inverted papilloma)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_158",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Laryngeal carcinoma invading the laryngeal cartilage is staged as",
+    "options": [
+      "T1b",
+      "T2",
+      "T3",
+      "T4a"
+    ],
+    "correct_index": 3,
+    "explanation": "Through-cartilage invasion with extralaryngeal extension defines T4a moderately advanced local disease. **T3** is confined to the larynx with vocal cord fixation or inner cortex erosion only.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (stage of laryngeal cancer invading laryngeal cartilages — T4a)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_159",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Recurrent unilateral neck swelling, worse on eating, with a radio-opacity on radiography indicates",
+    "options": [
+      "Lymphadenitis",
+      "Parotid tumour",
+      "Branchial cyst",
+      "Sialolithiasis"
+    ],
+    "correct_index": 3,
+    "explanation": "Mealtime syndrome. The **submandibular** duct is affected in about 80% of cases because its secretion is more mucinous and alkaline and it drains uphill. Sialography or CT confirms it.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (recurrent swelling on one side of neck especially on eating — sialolithiasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_160",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Diplopia with restricted eye movements after blunt orbital trauma, with a tear-drop sign on CT, indicates",
+    "options": [
+      "Lens dislocation",
+      "Retrobulbar haematoma",
+      "Optic nerve avulsion",
+      "Orbital floor blow-out fracture with herniation of orbital contents"
+    ],
+    "correct_index": 3,
+    "explanation": "Herniated fat and inferior rectus hanging into the maxillary sinus produce the tear-drop. Enophthalmos, infraorbital numbness and restricted upgaze accompany it, and entrapment needs repair.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (diplopia, restricted eye movements, CT shows tear drop sign — blow out fracture), 2020 NEET-PG (CT shows orbital muscle involvement — blow out fracture)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_161",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "The investigation for a suspected **metallic** intraocular foreign body after a hammer-and-chisel injury is",
+    "options": [
+      "Plain radiography alone",
+      "MRI",
+      "Ultrasound of the globe",
+      "CT, because MRI risks movement of a ferromagnetic fragment"
+    ],
+    "correct_index": 3,
+    "explanation": "CT localises metallic fragments accurately and safely. MRI is contraindicated until a ferromagnetic foreign body is excluded, and ocular ultrasound is avoided if globe rupture is suspected.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (injury to eye while working with hammer and chisel — recorded as MRI, which is contraindicated for metallic foreign body)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_162",
+    "subject": "Radiology",
+    "sub_topic": "Head & Neck",
+    "stem": "Fever with biphasic stridor after an upper respiratory infection, and a steeple sign on the neck radiograph, indicates",
+    "options": [
+      "Retropharyngeal abscess",
+      "Acute epiglottitis",
+      "Foreign body aspiration",
+      "Acute laryngotracheobronchitis (croup)"
+    ],
+    "correct_index": 3,
+    "explanation": "Subglottic narrowing produces the steeple or wine-bottle sign on the frontal view. **Epiglottitis** gives a thumbprint sign on the lateral view and must not be examined or imaged before the airway is secured.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (fever, biphasic stridor, steeple sign on neck X-ray — croup, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_163",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A chest radiograph showing a boot-shaped heart indicates",
+    "options": [
+      "Transposition of the great arteries",
+      "Total anomalous pulmonary venous connection",
+      "Tricuspid atresia",
+      "Tetralogy of Fallot"
+    ],
+    "correct_index": 3,
+    "explanation": "Right ventricular hypertrophy with a concave pulmonary bay produces the shape, and pulmonary oligaemia accompanies it. It is cyanotic heart disease with **decreased** pulmonary blood flow.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (CXR showing boot shaped heart — tetralogy of Fallot), 2020 INI-CET (child with cyanosis, clubbing, single S2 — TOF)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_164",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A figure-of-eight or snowman heart on a chest radiograph indicates",
+    "options": [
+      "Coarctation of the aorta",
+      "Tetralogy of Fallot",
+      "Ebstein anomaly",
+      "Supracardiac total anomalous pulmonary venous connection"
+    ],
+    "correct_index": 3,
+    "explanation": "The dilated vertical vein and superior vena cava form the upper part of the snowman and the heart the lower. **Pulmonary plethora** accompanies it, since it is cyanotic disease with increased pulmonary flow.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (child with figure of 8 or snowman heart — supracardiac TAPVC), 2020 NEET-PG (pulmonary plethora is seen in TAPVC — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_165",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A box-shaped heart on chest radiography is characterised by",
+    "options": [
+      "A figure-of-3 contour",
+      "A boot shape with pulmonary oligaemia",
+      "A snowman silhouette",
+      "A narrow vascular pedicle with right atrial enlargement, as in Ebstein anomaly"
+    ],
+    "correct_index": 3,
+    "explanation": "Massive right atrial enlargement from tricuspid regurgitation squares the cardiac contour. Lithium exposure in pregnancy is the recognised association.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (CXR shows box shaped heart — narrow vascular pedicle, right atrial enlargement)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_166",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A 20-year-old hypertensive man has a chest radiograph showing a figure-of-3 appearance with rib notching. The diagnosis is",
+    "options": [
+      "Aortic stenosis",
+      "Aortic dissection",
+      "Patent ductus arteriosus",
+      "Coarctation of the aorta"
+    ],
+    "correct_index": 3,
+    "explanation": "Pre- and post-stenotic dilatation with the indented coarctation gives the figure-of-3, and dilated intercostal collaterals cause inferior rib notching. Radio-femoral delay is the clinical sign.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (20-year-old with hypertension, CXR showing figure of 3 appearance — coarctation of aorta)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_167",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A chest radiograph in congestive heart failure shows",
+    "options": [
+      "A narrow mediastinum",
+      "Hyperlucent lung fields",
+      "A boot-shaped heart",
+      "Cardiomegaly with Kerley A and B lines and upper lobe diversion"
+    ],
+    "correct_index": 3,
+    "explanation": "Kerley B lines are short horizontal septal lines at the periphery. Peribronchial cuffing, bat-wing alveolar opacity and pleural effusion complete the picture of raised pulmonary venous pressure.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (CXR of CHF patient will show Kerley A and B lines, cardiomegaly)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_168",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A 60-year-old with acute chest pain radiating to the interscapular region should have",
+    "options": [
+      "Barium swallow",
+      "Plain chest radiography alone",
+      "Exercise stress testing",
+      "CT angiography of the aorta"
+    ],
+    "correct_index": 3,
+    "explanation": "Interscapular radiation suggests aortic dissection. CT angiography is the investigation of choice in a stable patient; **transoesophageal echocardiography** is used when the patient is too unstable to move.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (60-year-old with acute chest pain radiating to interscapular region — acute aortic dissection), 2021 INI-CET (assertion-reason on CTA as IOC for aortic dissection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_169",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "Chest pain with hoarseness and a CT showing a saccular outpouching of the aorta indicates",
+    "options": [
+      "A saccular aortic aneurysm compressing the recurrent laryngeal nerve",
+      "Aortic dissection",
+      "A mediastinal mass",
+      "Oesophageal carcinoma"
+    ],
+    "correct_index": 0,
+    "explanation": "The **left** recurrent laryngeal nerve loops under the aortic arch and is vulnerable to any mediastinal mass — Ortner syndrome. Saccular aneurysms have a higher rupture risk than fusiform ones.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (chest pain, hoarseness of voice, CT shows sac like outpouching — saccular aortic aneurysm)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_170",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A large artery passing **behind** the oesophagus on imaging is",
+    "options": [
+      "An aberrant right subclavian artery",
+      "A double aortic arch",
+      "A pulmonary sling",
+      "A right-sided aortic arch"
+    ],
+    "correct_index": 0,
+    "explanation": "Arteria lusoria arises distal to the left subclavian and courses behind the oesophagus, sometimes causing dysphagia lusoria. A **pulmonary sling** passes between the trachea and oesophagus instead.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (image showing one large artery passing behind the oesophagus — aberrant right subclavian artery)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_171",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A 17-year-old with cough and haemoptysis has a chest radiograph opacity; the investigation to confirm an intracardiac shunt is",
+    "options": [
+      "Contrast echocardiography",
+      "Plain radiography repeated",
+      "Barium swallow",
+      "Bone scan"
+    ],
+    "correct_index": 0,
+    "explanation": "Agitated saline appearing in the left heart confirms a right-to-left shunt, whether intracardiac or intrapulmonary. It is also used to detect pulmonary arteriovenous malformations, which cause haemoptysis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (17-year-old with cough and haemoptysis, CXR opacity — contrast echocardiography)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_172",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "The gold standard investigation for myocarditis is",
+    "options": [
+      "Endomyocardial biopsy",
+      "Echocardiography",
+      "Cardiac MRI",
+      "Troponin measurement"
+    ],
+    "correct_index": 0,
+    "explanation": "It remains the diagnostic standard but is invasive with sampling error, so **cardiac MRI** with the Lake Louise criteria is used in practice, showing oedema, hyperaemia and late gadolinium enhancement.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (gold standard investigation to detect myocarditis — endomyocardial biopsy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_173",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "The best method to confirm the position and integrity of an implantable cardiac device and its leads is",
+    "options": [
+      "Plain radiography",
+      "Echocardiography",
+      "MRI",
+      "CT with contrast"
+    ],
+    "correct_index": 0,
+    "explanation": "Chest and device-specific views show lead position, fracture, displacement and connector integrity. MRI is problematic unless the device is MRI-conditional.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (best method to know position and integrity of implantable cardiac device — plain radiograph)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_174",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "The ultrasound appearance where the femoral vein, the great saphenous vein and the femoral artery form three rounded structures is the",
+    "options": [
+      "Mickey Mouse sign",
+      "Target sign",
+      "Signet-ring sign",
+      "Double-barrel sign"
+    ],
+    "correct_index": 0,
+    "explanation": "It marks the saphenofemoral junction and is the landmark for compression ultrasound in suspected deep vein thrombosis and for great saphenous vein interventions.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (USG sign when the femoral vein meets the GSV and femoral artery — Mickey mouse sign)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_175",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A middle-aged man with acute onset pain in the right lower limb and absent pulses should have",
+    "options": [
+      "Duplex ultrasound Doppler, proceeding to CT angiography if revascularisation is planned",
+      "Plain radiography",
+      "Venography",
+      "Bone scan"
+    ],
+    "correct_index": 0,
+    "explanation": "Acute limb ischaemia is a clinical diagnosis and imaging must not delay heparinisation. Normal lower limb venous flow is **phasic and biphasic** on Doppler, which is how venous and arterial disease are separated.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (acute onset pain in right lower limb — ultrasound doppler), 2015 AIIMS (characteristic of venous blood flow in duplex doppler — biphasic), 2024 INI-CET (smoker with calf pain and foot ulcer — duplex)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_176",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The ALARA principle in radiation protection stands for",
+    "options": [
+      "As Low As Reasonably Achievable, applied to every justified exposure",
+      "Always Limit All Radiation Access",
+      "Avoid Long And Repeated Admissions",
+      "Assess Latent And Remote Actions"
+    ],
+    "correct_index": 0,
+    "explanation": "The three pillars of protection are **justification, optimisation and dose limitation**. Time, distance and shielding are the practical measures, with distance the most powerful because of the inverse square law.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (inverse square law, 2X), 2021 NEET-PG (TLD badge monitoring)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_177",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The annual occupational effective dose limit for a radiation worker is",
+    "options": [
+      "20 mSv averaged over 5 years, not exceeding 50 mSv in any single year",
+      "1 mSv per year",
+      "100 mSv per year",
+      "150 mSv per year"
+    ],
+    "correct_index": 0,
+    "explanation": "The public limit is 1 mSv per year. The lens limit was reduced to 20 mSv per year after evidence of cataract at lower doses, and a declared pregnancy limits fetal dose to 1 mSv.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (exposure limit for lens — 150 mSv in radiologist), 2014 AIIMS (most radiosensitive structure in eye)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_178",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "On MRI, a lesion that is hyperintense on T1 and hypointense on T2 most likely contains",
+    "options": [
+      "Subacute blood (methaemoglobin), melanin or proteinaceous fluid",
+      "Simple fluid",
+      "Air",
+      "Cortical bone"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple fluid is T1 dark and T2 bright; fat is bright on both T1 and T2 and suppresses on STIR. Blood changes signal predictably with age, which allows dating of a haemorrhage.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (white matter lesions of brain visualised by CT and MRI), 2020 INI-CET (SWI for microhaemorrhage)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_179",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "Diffusion-weighted imaging shows restricted diffusion in all EXCEPT",
+    "options": [
+      "A simple arachnoid cyst",
+      "Acute cerebral infarction",
+      "A pyogenic abscess",
+      "An epidermoid cyst"
+    ],
+    "correct_index": 0,
+    "explanation": "Arachnoid cysts follow CSF signal and do not restrict, which distinguishes them from **epidermoid** cysts, which do. Restriction in acute infarct appears within minutes, long before CT change.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (ring enhancing lesion with restriction on DWI — abscess), 2021 NEET-PG (lacunar infarct on CT)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_180",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The imaging modality of choice for acute cholecystitis is",
+    "options": [
+      "Ultrasound, showing wall thickening, pericholecystic fluid and a sonographic Murphy sign",
+      "Non-contrast CT",
+      "Plain radiography",
+      "MRI"
+    ],
+    "correct_index": 0,
+    "explanation": "A wall above 3 mm with stones and a positive sonographic Murphy sign has high accuracy. **HIDA scintigraphy** is the next step when ultrasound is equivocal.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (non-visualisation of gall bladder in scintigraphy — acute cholecystitis), 2023 INI-CET (Phrygian cap, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_181",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Liver calcification can be caused by",
+    "options": [
+      "Old granulomatous infection, healed hydatid disease and haemangioma",
+      "Fatty liver",
+      "Simple cysts only",
+      "Portal hypertension alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Healed tuberculosis and histoplasmosis, calcified hydatid, haemangioma with phleboliths, and treated metastases — particularly mucinous colorectal and ovarian — are the recognised causes.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (calcifications in liver — hepatic adenoma, haemangioma), 2020 INI-CET (crumpled membrane in hydatid, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_182",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Target sign and pseudokidney sign on abdominal ultrasound in a toddler indicate",
+    "options": [
+      "Intussusception",
+      "Pyloric stenosis",
+      "Appendicitis",
+      "Volvulus"
+    ],
+    "correct_index": 0,
+    "explanation": "Concentric rings in transverse section give the target or doughnut sign, and the longitudinal view gives the pseudokidney. Pneumatic or hydrostatic reduction is the treatment in a stable child.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (claw sign is useful in intussusception, 2X), 2023 NEET-PG (hypertrophic pyloric stenosis on USG)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_183",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The coffee-bean sign on abdominal radiography indicates",
+    "options": [
+      "Sigmoid volvulus",
+      "Caecal volvulus",
+      "Pneumoperitoneum",
+      "Toxic megacolon"
+    ],
+    "correct_index": 0,
+    "explanation": "A massively distended loop with an inner cleft resembles a coffee bean, arising from the pelvis towards the right upper quadrant. A **bird-beak** taper appears on contrast enema, and flexible sigmoidoscopic decompression is the first treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (large bowel obstruction with haustrations), 2020 INI-CET (gastric volvulus, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_184",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The investigation of choice for suspected acute appendicitis in an adult is",
+    "options": [
+      "Contrast-enhanced CT of the abdomen, with ultrasound preferred in children and pregnancy",
+      "Plain radiography",
+      "Barium enema",
+      "MRI in all patients"
+    ],
+    "correct_index": 0,
+    "explanation": "CT shows a dilated appendix above 6 mm with wall thickening, periappendiceal fat stranding and an appendicolith. Ultrasound avoids radiation but is operator-dependent and limited by body habitus.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (FAST and abdominal imaging in trauma), 2024 INI-CET (ulcerative colitis on CT)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_185",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Pneumatosis intestinalis with portal venous gas in a preterm neonate indicates",
+    "options": [
+      "Necrotising enterocolitis",
+      "Hirschsprung disease",
+      "Duodenal atresia",
+      "Malrotation"
+    ],
+    "correct_index": 0,
+    "explanation": "Intramural gas is diagnostic, and **portal venous gas** or pneumoperitoneum indicates advanced disease needing surgery. Bell staging guides management, and breast milk with cautious feeding is protective.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Rigler sign in pneumoperitoneum, 3X), 2023 NEET-PG (congenital hypertrophic pyloric stenosis)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_186",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The bone most commonly affected by Paget disease, and its characteristic early radiographic sign, are",
+    "options": [
+      "The pelvis; osteoporosis circumscripta in the skull and a flame-shaped lytic front in long bones",
+      "The femur; sunburst periosteal reaction",
+      "The skull; punched-out lesions",
+      "The spine; winking owl sign"
+    ],
+    "correct_index": 0,
+    "explanation": "The lytic phase is followed by mixed and sclerotic phases with cotton-wool skull, picture-frame vertebra and cortical thickening. Alkaline phosphatase is markedly raised, and sarcomatous change is the feared complication.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ivory vertebra in Paget's), 2017 AIIMS (sunburst appearance not seen in Paget)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_187",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "The Looser zone on radiography indicates",
+    "options": [
+      "Osteomalacia, as an incomplete lucent pseudofracture perpendicular to the cortex",
+      "Osteoporosis",
+      "A stress fracture",
+      "Osteomyelitis"
+    ],
+    "correct_index": 0,
+    "explanation": "It occurs in the medial femoral neck, pubic rami, ribs and scapula. Osteomalacia also gives coarse trabeculae and a generalised loss of definition, with low calcium and phosphate and raised alkaline phosphatase.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (investigations in osteoporosis), 2018 AIIMS (radiological features of rickets, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_188",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "NEXUS criteria are used to decide",
+    "options": [
+      "Whether cervical spine imaging can be omitted after trauma",
+      "The grade of a cerebral arteriovenous malformation",
+      "The need for CT in head injury only",
+      "The severity of pelvic fracture"
+    ],
+    "correct_index": 0,
+    "explanation": "Imaging can be omitted when there is no midline tenderness, no focal deficit, normal alertness, no intoxication and no distracting injury. The Canadian C-spine rule is the alternative decision tool.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (NEXUS criteria is used for cervical spine injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_189",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Whole-body CT in a major trauma patient includes",
+    "options": [
+      "CT of the brain, cervical spine, thorax, abdomen and pelvis",
+      "CT of the abdomen only",
+      "CT of the brain only",
+      "CT of the limbs only"
+    ],
+    "correct_index": 0,
+    "explanation": "Pan-scanning shortens time to diagnosis in polytrauma, at the cost of radiation. It is performed only in a **haemodynamically stable** patient; instability mandates immediate intervention instead.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (whole body CT in RTA will include CT brain, cervical spine, thorax, abdomen)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_190",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "Radiological features of skeletal involvement in neurofibromatosis type 1 include",
+    "options": [
+      "Posterior vertebral scalloping, sphenoid wing dysplasia and ribbon ribs",
+      "Wormian bones with multiple fractures",
+      "Rugger-jersey spine",
+      "Cotton-wool skull"
+    ],
+    "correct_index": 0,
+    "explanation": "Dural ectasia causes the scalloping, and tibial pseudoarthrosis with anterolateral bowing is the other classic skeletal feature. Kyphoscoliosis is common.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (radiological feature of skeletal involvement in NF-1 — posterior scalloping of vertebra, sphenoid dysplasia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_191",
+    "subject": "Radiology",
+    "sub_topic": "Msk",
+    "stem": "One vertebra slipping forwards over the one below on a lateral radiograph is",
+    "options": [
+      "Spondylolisthesis",
+      "Spondylolysis",
+      "Spondylosis",
+      "Spondylodiscitis"
+    ],
+    "correct_index": 0,
+    "explanation": "Meyerding grades it by the percentage of slip, commonly at L5 over S1. A lucency in the pars interarticularis on oblique views gives spondylolysis, which may precede the slip.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (X-ray shows one vertebra slipping over the other — spondylolisthesis), 2014 AIIMS (slippage of L4 forwards — spondylolisthesis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_192",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "White matter lesions of the brain are best visualised by",
+    "options": [
+      "MRI, particularly FLAIR sequences, with CT far less sensitive",
+      "Plain radiography",
+      "Ultrasound",
+      "Bone scintigraphy"
+    ],
+    "correct_index": 0,
+    "explanation": "FLAIR suppresses CSF signal so periventricular lesions stand out, which is why MRI is the modality for multiple sclerosis, small vessel disease and leukodystrophy.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (white matter lesions of brain can be visualised by CT and MRI)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_193",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A neonate with heart failure, an enlarging fontanelle and a cranial bruit has",
+    "options": [
+      "Vein of Galen malformation",
+      "Craniopharyngioma",
+      "Hydrocephalus alone",
+      "Arachnoid cyst"
+    ],
+    "correct_index": 0,
+    "explanation": "A high-flow arteriovenous shunt into the deep venous system causes high-output cardiac failure and hydrocephalus. **Endovascular embolisation** is the treatment, and it is the commonest cause of neonatal heart failure from a cerebral cause.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (neonate with CHF, enlarging fontanelle, bruit — vein of Galen malformation, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_194",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "A preterm baby with jaundice, hepatosplenomegaly and periventricular calcification has",
+    "options": [
+      "Congenital cytomegalovirus infection",
+      "Congenital toxoplasmosis",
+      "Congenital rubella",
+      "Congenital syphilis"
+    ],
+    "correct_index": 0,
+    "explanation": "**Periventricular** calcification with microcephaly indicates CMV, whereas toxoplasmosis gives **scattered** parenchymal calcification with hydrocephalus. CMV is the commonest congenital infection and cause of non-syndromic deafness.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (preterm baby with jaundice, hepatosplenomegaly, periventricular calcification — CMV infection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_195",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The investigation showing contrast outlining the spinal cord on a lateral neck radiograph is",
+    "options": [
+      "Myelography",
+      "Discography",
+      "Vertebral angiography",
+      "Sialography"
+    ],
+    "correct_index": 0,
+    "explanation": "Intrathecal contrast outlines the cord and roots. It has largely been replaced by MRI, and survives as CT myelography where MRI is contraindicated or a CSF leak must be localised.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (lateral view X-ray neck shows contrast outlining spinal cord — myelography, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_196",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "The investigation in which contrast is injected through a cannula into the biliary tree percutaneously is",
+    "options": [
+      "Percutaneous transhepatic biliary drainage",
+      "ERCP",
+      "MRCP",
+      "Intraoperative cholangiography"
+    ],
+    "correct_index": 0,
+    "explanation": "It is used for proximal or hilar obstruction and when ERCP fails or the anatomy is altered after surgery. It permits drainage and stenting, with bleeding and sepsis as the main complications.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (investigation in which contrast is injected via cannula — percutaneous biliary drainage, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_197",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "An angiogram showing an artery giving multiple branches from its left side supplying the small bowel is the",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Coeliac trunk",
+      "Splenic artery"
+    ],
+    "correct_index": 0,
+    "explanation": "Jejunal and ileal branches arise from its left and the colic branches from its right. Its origin at about L1 and the aortomesenteric angle are relevant to Wilkie syndrome and to mesenteric ischaemia.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (angiography of abdomen shows artery giving branches — superior mesenteric artery, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_198",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "A bedridden patient with sudden breathlessness has CT showing a filling defect in a pulmonary artery. The diagnosis is",
+    "options": [
+      "Pulmonary embolism",
+      "Pneumonia",
+      "Pulmonary oedema",
+      "Lung carcinoma"
+    ],
+    "correct_index": 0,
+    "explanation": "CT pulmonary angiography is the investigation of choice. A Westermark sign, Hampton hump and Fleischner sign are the insensitive plain-film findings, and a ventilation–perfusion scan is used in pregnancy and renal failure.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (bedridden patient with sudden SOB, CT shows filling defect — pulmonary embolism, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_199",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A high-grade fever with foul-smelling sputum and a thick-walled lung cavity containing an air-fluid level indicates",
+    "options": [
+      "A lung abscess",
+      "A tuberculous cavity",
+      "An aspergilloma",
+      "A hydatid cyst"
+    ],
+    "correct_index": 0,
+    "explanation": "Foul-smelling sputum indicates anaerobic infection, usually from aspiration, so the dependent segments are affected — the posterior upper and superior lower lobe segments in a supine patient.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (high grade fever, foul smelling sputum, lung cavity with air fluid level — lung abscess)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_200",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "Ptosis, muscle weakness, dysphagia and engorged chest wall veins with an anterior mediastinal mass indicate",
+    "options": [
+      "Thymoma with myasthenia gravis and superior vena cava obstruction",
+      "Lymphoma alone",
+      "Retrosternal goitre",
+      "Teratoma"
+    ],
+    "correct_index": 0,
+    "explanation": "About 10 to 15% of myasthenia patients have a thymoma, and all need CT of the chest. The four Ts of an anterior mediastinal mass are thymoma, teratoma, thyroid and terrible lymphoma.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (ptosis, muscle weakness, dysphagia, engorged veins — thymoma with myasthenia gravis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_201",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "A 65-year-old smoker with a lung mass should have which investigation to assess **distant** staging?",
+    "options": [
+      "18-FDG PET-CT",
+      "Plain chest radiography",
+      "Bronchoscopy alone",
+      "Ultrasound of the chest"
+    ],
+    "correct_index": 0,
+    "explanation": "It detects nodal and distant disease that CT misses and prevents futile thoracotomy. Brain imaging is added separately, since physiological cortical uptake limits PET sensitivity for cerebral metastases.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (CECT for lung carcinoma, MRI for Pancoast tumour), 2014 AIIMS (prophylactic craniospinal radiation in small cell lung cancer)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_202",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The Hounsfield value distinguishing a benign from an indeterminate adrenal adenoma on non-contrast CT is",
+    "options": [
+      "Below 10 HU, indicating a lipid-rich adenoma",
+      "Above 50 HU",
+      "Exactly 0 HU",
+      "Below −100 HU"
+    ],
+    "correct_index": 0,
+    "explanation": "Intracytoplasmic lipid lowers attenuation. Lesions above 10 HU need washout studies on delayed contrast imaging, and **biopsy is avoided until phaeochromocytoma is excluded biochemically**.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (water has zero Hounsfield number), 2023 NEET-PG (mediastinal mass with −62 HU)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_203",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The ultrasound finding that best predicts malignancy in a complex ovarian cyst is",
+    "options": [
+      "Solid components with papillary projections, thick septations and increased vascularity, with ascites",
+      "A thin-walled unilocular cyst",
+      "A simple cyst under 5 cm",
+      "Posterior acoustic enhancement alone"
+    ],
+    "correct_index": 0,
+    "explanation": "The IOTA simple rules and the risk of malignancy index, which combines ultrasound score, menopausal status and CA-125, formalise this assessment.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (placenta accreta investigations), 2022 INI-CET (hydatidiform mole on USG)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_204",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The imaging modality of choice for staging rectal carcinoma locally is",
+    "options": [
+      "MRI of the pelvis, to assess the mesorectal fascia and circumferential resection margin",
+      "Barium enema",
+      "Plain radiography",
+      "Non-contrast CT"
+    ],
+    "correct_index": 0,
+    "explanation": "MRI predicts whether total mesorectal excision will achieve a clear margin and so determines who needs neoadjuvant chemoradiotherapy. Endorectal ultrasound is better for very early T1 and T2 lesions.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ulcerative colitis on CT), 2017 AIIMS (mushroom cap sign in rectal endometriosis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_205",
+    "subject": "Radiology",
+    "sub_topic": "Chest",
+    "stem": "The Fleischner guidelines are used for",
+    "options": [
+      "Follow-up of incidentally detected pulmonary nodules",
+      "Staging lung cancer",
+      "Grading pneumoconiosis",
+      "Reporting COVID-19 CT"
+    ],
+    "correct_index": 0,
+    "explanation": "Interval and modality depend on nodule size, solid or subsolid character, number and the patient's risk. Nodules under 6 mm in a low-risk patient need no routine follow-up.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (CORADS 5 typical for COVID), 2023 INI-CET (CECT for lung carcinoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_206",
+    "subject": "Radiology",
+    "sub_topic": "Contrast",
+    "stem": "Gadolinium-based contrast is contraindicated when the eGFR is below 30 because of the risk of",
+    "options": [
+      "Nephrogenic systemic fibrosis",
+      "Contrast-induced nephropathy",
+      "Thyroid storm",
+      "Lactic acidosis"
+    ],
+    "correct_index": 0,
+    "explanation": "Linear chelates carry the highest risk; macrocyclic agents are far safer. Iodinated contrast causes **contrast-induced nephropathy** instead, and metformin is the drug withheld because of lactic acidosis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (non-ionic contrast has lower osmolality), 2021 NEET-PG (contrast reaction management)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_207",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The absolute contraindication to MRI is",
+    "options": [
+      "A cardiac pacemaker or implanted defibrillator that is not MR-conditional, and an intraocular ferromagnetic foreign body",
+      "A titanium hip prosthesis",
+      "Dental amalgam",
+      "An IUCD"
+    ],
+    "correct_index": 0,
+    "explanation": "Cochlear implants and ferromagnetic aneurysm clips are the other classics. Titanium and modern stents are safe, and a copper IUCD is not a contraindication.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (MRI does not use ionising radiation), 2023 INI-CET (modality of choice in soft tissue)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_208",
+    "subject": "Radiology",
+    "sub_topic": "Breast",
+    "stem": "BI-RADS 4 on mammography means",
+    "options": [
+      "A suspicious abnormality, for which biopsy should be considered",
+      "A normal study",
+      "A benign finding needing no action",
+      "Highly suggestive of malignancy"
+    ],
+    "correct_index": 0,
+    "explanation": "Category 0 is incomplete, 1 negative, 2 benign, 3 probably benign with short-interval follow-up, 4 suspicious, 5 highly suggestive and 6 biopsy-proven malignancy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (microcalcification in breast on mammography), 2017 AIIMS (comet tail sign)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_209",
+    "subject": "Radiology",
+    "sub_topic": "Breast",
+    "stem": "The mammographic finding most suspicious for malignancy is",
+    "options": [
+      "Fine pleomorphic or linear-branching microcalcification with a spiculated mass",
+      "Coarse popcorn calcification",
+      "Rim calcification",
+      "A well-circumscribed oval mass"
+    ],
+    "correct_index": 0,
+    "explanation": "Popcorn calcification indicates an involuting fibroadenoma and rim calcification a cyst or fat necrosis. Architectural distortion and skin or nipple retraction are the other malignant signs.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (microcalcification in breast on mammography), 2020 INI-CET (modality of choice in dense breast)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_210",
+    "subject": "Radiology",
+    "sub_topic": "Breast",
+    "stem": "Ultrasound is preferred over mammography for a breast lump in",
+    "options": [
+      "A woman under 30 years, in whom dense breast tissue reduces mammographic sensitivity",
+      "A woman over 50",
+      "A postmenopausal woman",
+      "Screening the general population"
+    ],
+    "correct_index": 0,
+    "explanation": "Screening mammography begins at 40 to 50 depending on the guideline. MRI is added for BRCA carriers and for assessing extent before breast conservation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (modality of choice in dense breast — ultrasound), 2021 INI-CET (breast imaging)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_211",
+    "subject": "Radiology",
+    "sub_topic": "Gu",
+    "stem": "The Bosniak classification is used for",
+    "options": [
+      "Renal cystic lesions, to predict the risk of malignancy",
+      "Adrenal masses",
+      "Hepatic lesions",
+      "Pancreatic cysts"
+    ],
+    "correct_index": 0,
+    "explanation": "Category I and II are benign, IIF needs follow-up, III is indeterminate with roughly a 50% malignancy rate and IV is treated as malignant. Enhancement and thick septations drive the category up.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (renal cell carcinoma staging), 2018 AIIMS (bear paw sign in xanthogranulomatous pyelonephritis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_212",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "LI-RADS 5 on triple-phase CT of a cirrhotic liver requires",
+    "options": [
+      "Arterial phase hyperenhancement with washout in the portal venous or delayed phase, in a nodule above 10 mm",
+      "Delayed central filling only",
+      "Peripheral puddling",
+      "Restricted diffusion alone"
+    ],
+    "correct_index": 0,
+    "explanation": "This pattern is diagnostic of hepatocellular carcinoma in a cirrhotic liver **without biopsy**. Haemangioma shows progressive centripetal filling and persistent enhancement instead.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hepatocellular carcinoma imaging), 2015 AIIMS (calcifications in liver)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_213",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The CT severity index in acute pancreatitis grades",
+    "options": [
+      "The extent of pancreatic necrosis together with peripancreatic inflammation and collections",
+      "Only the size of the pancreas",
+      "Only the presence of gallstones",
+      "Only serum amylase correlation"
+    ],
+    "correct_index": 0,
+    "explanation": "Contrast CT is best performed **72 hours after onset**, since necrosis is not yet apparent earlier. The revised Atlanta classification separates interstitial oedematous from necrotising pancreatitis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute pancreatitis investigations), 2024 INI-CET (chain of lakes in chronic pancreatitis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_214",
+    "subject": "Radiology",
+    "sub_topic": "Radiotherapy",
+    "stem": "RECIST criteria assess",
+    "options": [
+      "Tumour response to treatment, by the change in the sum of the longest diameters of target lesions",
+      "Radiation dose to organs at risk",
+      "Contrast nephrotoxicity",
+      "Nodule growth rate in screening"
+    ],
+    "correct_index": 0,
+    "explanation": "A 30% decrease is a partial response and a 20% increase or any new lesion is progression. Lymph nodes are measured in the **short** axis, and PERCIST uses metabolic rather than size change.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (PET-CT uses FDG), 2014 AIIMS (tumour response assessment)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_215",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "The imaging window within which thrombolysis may be offered in acute ischaemic stroke, and the score used to quantify early CT change, are",
+    "options": [
+      "4.5 hours, and the ASPECTS score",
+      "24 hours, and the Spetzler–Martin score",
+      "12 hours, and the Fisher grade",
+      "1 hour, and the Hunt and Hess grade"
+    ],
+    "correct_index": 0,
+    "explanation": "ASPECTS scores 10 middle cerebral artery regions, subtracting a point for each with early ischaemic change; below 6 predicts poor outcome. Mechanical thrombectomy extends to 6 to 24 hours with perfusion selection.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (lacunar infarct on CT), 2020 INI-CET (Spetzler-Martin score for AVM)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_216",
+    "subject": "Radiology",
+    "sub_topic": "Cns",
+    "stem": "CT perfusion in acute stroke identifies salvageable tissue as",
+    "options": [
+      "A region with prolonged mean transit time but preserved cerebral blood volume",
+      "A region with reduced cerebral blood volume",
+      "A region of restricted diffusion",
+      "A region of contrast extravasation"
+    ],
+    "correct_index": 0,
+    "explanation": "That mismatch is the ischaemic **penumbra**. Reduced cerebral blood volume marks the infarct core, which will not recover and predicts haemorrhagic transformation if reperfused.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (lacunar infarct), 2022 INI-CET (DWI in acute infarct)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_217",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "Transjugular intrahepatic portosystemic shunting is indicated for",
+    "options": [
+      "Refractory variceal bleeding and refractory ascites in portal hypertension",
+      "Acute cholecystitis",
+      "Hepatocellular carcinoma",
+      "Biliary atresia"
+    ],
+    "correct_index": 0,
+    "explanation": "The shunt runs from the hepatic vein to the portal vein. **Hepatic encephalopathy** is the main complication, because the diverted blood bypasses hepatic detoxification.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (percutaneous biliary drainage, 2X), 2022 INI-CET (portal hypertension imaging)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_218",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "An inferior vena caval filter is placed when",
+    "options": [
+      "Anticoagulation has failed or is contraindicated in a patient with venous thromboembolism",
+      "Anticoagulation has just been started",
+      "A patient has an arterial embolus",
+      "A patient has superficial thrombophlebitis"
+    ],
+    "correct_index": 0,
+    "explanation": "It is sited infrarenally and retrievable filters should be removed once anticoagulation is safe, since long-term dwelling raises the risk of caval thrombosis and filter fracture.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (pulmonary embolism on CT, 2X), 2017 AIIMS (filling defect in pulmonary artery)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_219",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "Uterine artery embolisation is most often performed for",
+    "options": [
+      "Symptomatic fibroids and postpartum haemorrhage",
+      "Endometrial carcinoma",
+      "Ovarian torsion",
+      "Ectopic pregnancy"
+    ],
+    "correct_index": 0,
+    "explanation": "Polyvinyl alcohol or gelatin particles are used. Post-embolisation syndrome with pain and fever is expected, and the procedure is avoided when future fertility is a priority.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (placenta accreta spectrum imaging), 2022 INI-CET (hydatidiform mole on USG)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_220",
+    "subject": "Radiology",
+    "sub_topic": "Cvs",
+    "stem": "The resistive index on Doppler ultrasound is calculated as",
+    "options": [
+      "(Peak systolic velocity − end diastolic velocity) ÷ peak systolic velocity",
+      "Peak systolic velocity ÷ end diastolic velocity",
+      "Mean velocity ÷ peak systolic velocity",
+      "End diastolic velocity ÷ mean velocity"
+    ],
+    "correct_index": 0,
+    "explanation": "A raised index indicates downstream vascular resistance, as in renal parenchymal disease or transplant rejection. In the umbilical artery, **absent or reversed end-diastolic flow** indicates severe fetal compromise.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Doppler in IUGR), 2023 INI-CET (umbilical artery Doppler)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_221",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "Elastography is used clinically to",
+    "options": [
+      "Grade hepatic fibrosis non-invasively and characterise thyroid and breast nodules by stiffness",
+      "Measure hepatic blood flow",
+      "Detect bile duct stones",
+      "Quantify renal function"
+    ],
+    "correct_index": 0,
+    "explanation": "Transient elastography reduces the need for liver biopsy in chronic hepatitis and fatty liver disease. Malignant tissue is stiffer than benign tissue, which underlies nodule assessment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hepatic imaging), 2022 INI-CET (ultrasound in chronic liver disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_222",
+    "subject": "Radiology",
+    "sub_topic": "Head-Neck",
+    "stem": "The TI-RADS system classifies",
+    "options": [
+      "Thyroid nodules on ultrasound, to decide which need fine-needle aspiration",
+      "Thymic masses",
+      "Tracheal stenosis",
+      "Testicular lesions"
+    ],
+    "correct_index": 0,
+    "explanation": "Marked hypoechogenicity, a taller-than-wide shape, irregular margins, microcalcification and extrathyroidal extension are the suspicious features. The size threshold for aspiration falls as the category rises.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (thyroid scintigraphy), 2017 AIIMS (cold nodule on thyroid scan)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_223",
+    "subject": "Radiology",
+    "sub_topic": "Gi",
+    "stem": "The commonest indication for image-guided percutaneous drainage rather than surgery is",
+    "options": [
+      "A well-defined unilocular abscess with a safe access route and no necrotic debris",
+      "Diffuse peritonitis",
+      "A multiloculated collection with thick debris",
+      "An actively bleeding haematoma"
+    ],
+    "correct_index": 0,
+    "explanation": "Ultrasound or CT guidance with the Seldinger technique achieves high success rates for liver, appendicular and tubo-ovarian abscesses, avoiding laparotomy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (amoebic liver abscess management), 2015 AIIMS (liver abscess imaging)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "rad_q_224",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "The average effective dose of a CT of the abdomen and pelvis, compared with a chest radiograph, is approximately",
+    "options": [
+      "10 mSv against 0.02 mSv — about 400 to 500 times greater",
+      "Equal",
+      "1 mSv against 0.5 mSv",
+      "100 mSv against 1 mSv"
+    ],
+    "correct_index": 0,
+    "explanation": "A mammogram is about 0.4 mSv and a PET-CT 15 to 25 mSv. Natural background radiation is roughly 2 to 3 mSv a year, which is the figure these doses are usually set against.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (inverse square law, 2X), 2016 AIIMS (radiation exposure limits)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "rad_q_225",
+    "subject": "Radiology",
+    "sub_topic": "Radiophysics",
+    "stem": "Dose reduction in paediatric CT is achieved mainly by",
+    "options": [
+      "Weight-based tube current modulation, lowering kVp, limiting the scan range and avoiding repeat phases",
+      "Increasing slice thickness only",
+      "Using a higher kVp",
+      "Adding more contrast phases"
+    ],
+    "correct_index": 0,
+    "explanation": "Children are more radiosensitive and have longer to express a stochastic effect, which is the basis of the Image Gently campaign. Ultrasound and MRI are substituted wherever they answer the question.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (radiation exposure limit), 2022 INI-CET (modality avoiding ionising radiation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  }
+]

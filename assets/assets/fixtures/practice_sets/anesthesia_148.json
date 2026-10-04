@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "anes_q_001",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "The modified Mallampati score is used to assess",
+    "options": [
+      "Depth of anaesthesia",
+      "The likelihood of difficult laryngoscopy and intubation",
+      "Degree of neuromuscular blockade",
+      "Perioperative cardiac risk"
+    ],
+    "correct_index": 1,
+    "explanation": "Class I shows soft palate, uvula and pillars; class IV shows only the hard palate. It is one component of airway assessment alongside thyromental distance, mouth opening, neck movement and the upper lip bite test.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (modified Mallampati scoring is done to assess risk of difficult intubation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_002",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "The sniffing position is used to",
+    "options": [
+      "Reduce intracranial pressure",
+      "Improve venous return",
+      "Align the oral, pharyngeal and laryngeal axes for intubation",
+      "Prevent aspiration during induction"
+    ],
+    "correct_index": 2,
+    "explanation": "Lower cervical flexion with upper cervical extension achieves it. In infants the relatively large occiput means a shoulder roll is often needed instead, and in suspected cervical injury the neck is kept neutral with manual in-line stabilisation.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (sniffing position is used for intubation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_003",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "A laryngoscope is correctly held in the",
+    "options": [
+      "Either hand, from the midline",
+      "Right hand, and introduced from the right side",
+      "Left hand, and introduced from the left side",
+      "Left hand, and introduced from the right side of the mouth"
+    ],
+    "correct_index": 3,
+    "explanation": "The blade then sweeps the tongue to the left, clearing the right side of the mouth for the tube. The Macintosh curved blade is placed in the vallecula; the Miller straight blade lifts the epiglottis directly.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (laryngoscope is held in right hand and introduced from right side — false, 2X), 2014 AIIMS (identify the instrument — laryngoscope)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_004",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Preoxygenation before induction is conventionally given for",
+    "options": [
+      "10 minutes",
+      "30 seconds",
+      "3 minutes of tidal breathing, or eight vital capacity breaths",
+      "It is unnecessary in a healthy patient"
+    ],
+    "correct_index": 2,
+    "explanation": "Denitrogenation fills the functional residual capacity with oxygen, extending safe apnoea time. The reserve is much shorter in pregnancy, obesity and children, where functional residual capacity is reduced.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (oxygenation is given for 3 minutes before endotracheal intubation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_005",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "A single episode of tracheal suctioning should not exceed",
+    "options": [
+      "60 seconds",
+      "15 seconds",
+      "5 minutes",
+      "2 minutes"
+    ],
+    "correct_index": 1,
+    "explanation": "Prolonged suction causes hypoxia, bradycardia from vagal stimulation, atelectasis and mucosal injury. The patient is preoxygenated before and reoxygenated after each pass.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (suction is done for less than 15 seconds)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_006",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "A soft elongated silicone device used to maintain the airway through the nose is",
+    "options": [
+      "An oropharyngeal (Guedel) airway",
+      "A nasopharyngeal airway",
+      "A laryngeal mask airway",
+      "A tracheostomy tube"
+    ],
+    "correct_index": 1,
+    "explanation": "It is tolerated at lighter planes of anaesthesia than an oral airway and is useful when the mouth cannot open. It is avoided in suspected basal skull fracture, coagulopathy and nasal obstruction.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (soft elongated silicone device used to maintain airway — nasopharyngeal airway)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_007",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "AMBU AuraGain and LMA ProSeal are examples of",
+    "options": [
+      "Endotracheal tube introducers",
+      "First-generation laryngeal masks",
+      "Second-generation supraglottic airway devices with a gastric drainage channel",
+      "Video laryngoscopes"
+    ],
+    "correct_index": 2,
+    "explanation": "The drainage channel and improved cuff seal give better aspiration protection than the classic laryngeal mask. They still do not protect the airway as definitively as a cuffed tracheal tube.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (AMBU AURA 40 is a 2nd generation LMA), 2023 INI-CET (example of 2nd generation LMA — LMA ProSeal)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_008",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "The drainage tube of a correctly seated laryngeal mask airway should point towards the",
+    "options": [
+      "Epiglottis",
+      "Trachea",
+      "Nasopharynx",
+      "Oesophagus"
+    ],
+    "correct_index": 3,
+    "explanation": "The drain channel is designed to vent regurgitated gastric contents away from the glottis. Gastric insufflation detected through that channel signals malposition.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (drainage tube tip of LMA should point towards oesophagus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_009",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "The best confirmation that an endotracheal tube is correctly placed in the trachea is",
+    "options": [
+      "Auscultation of both axillae",
+      "Chest rise",
+      "A sustained end-tidal CO₂ waveform over several breaths",
+      "Misting of the tube"
+    ],
+    "correct_index": 2,
+    "explanation": "Capnography is the standard of care. A transient trace can occur with oesophageal intubation after mask ventilation, so **persistence** over several breaths is the requirement. Chest rise and misting are unreliable.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (best marker to know whether ET tube is in correct position — end tidal CO₂)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_010",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Signs of **oesophageal** intubation include",
+    "options": [
+      "A sustained square capnograph waveform",
+      "Gastric distension with absent or rapidly disappearing end-tidal CO₂ and progressive desaturation",
+      "Bilateral equal breath sounds with good compliance",
+      "Rising oxygen saturation"
+    ],
+    "correct_index": 1,
+    "explanation": "Sounds transmitted over the epigastrium and a gurgling noise accompany it. When in doubt the tube is removed and the patient ventilated by mask — \"if in doubt, take it out\".",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (signs of oesophageal intubation, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_011",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "A capnogram showing an abrupt drop in end-tidal CO₂ with unilaterally absent breath sounds suggests",
+    "options": [
+      "Oesophageal intubation",
+      "Endobronchial intubation into the right main bronchus",
+      "Bronchospasm",
+      "Malignant hyperthermia"
+    ],
+    "correct_index": 1,
+    "explanation": "The right main bronchus is wider and more vertical, so a tube advanced too far enters it preferentially, collapsing the left lung. Withdrawal until bilateral sounds return corrects it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (capnogram indicating entry into right-sided bronchus, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_012",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "A patient pulls out the endotracheal tube in recovery. The immediate step is",
+    "options": [
+      "Perform a tracheostomy",
+      "Immediately reintubate without ventilating",
+      "Give bag-mask ventilation with oxygen and assess spontaneous respiratory effort",
+      "Observe without intervention"
+    ],
+    "correct_index": 2,
+    "explanation": "Oxygenation always precedes reintubation. Many patients at this stage breathe adequately; those who do not are reintubated after preoxygenation, with help and difficult-airway equipment available.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (next step if patient pulls out the ET tube — give BMV and look for spontaneous respiratory efforts)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_013",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Which syndrome carries a risk of difficult intubation because of a high arched palate?",
+    "options": [
+      "Prader–Willi syndrome",
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Fragile X syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "Treacher Collins, Pierre Robin, Goldenhar, Klippel–Feil and Down syndromes are the other classic difficult airways, through micrognathia, limited neck movement or macroglossia.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (which syndrome carries risk of difficult intubation — fragile X because of high arched palate)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_014",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "In a patient with tracheal deviation on the chest radiograph, the procedure that becomes more difficult is",
+    "options": [
+      "Spinal anaesthesia",
+      "Peripheral venous cannulation",
+      "Tracheostomy",
+      "Nasogastric tube insertion"
+    ],
+    "correct_index": 2,
+    "explanation": "A deviated trachea is not in its expected midline position relative to surface landmarks, so the dissection is harder and the risk to adjacent vessels greater. A large retrosternal goitre is the usual cause.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (X-ray showing tracheal deviation — tracheostomy will be difficult)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_015",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Murphy's eye is",
+    "options": [
+      "The cuff inflation valve",
+      "A side opening near the tip of an endotracheal tube that allows ventilation if the bevel is occluded",
+      "A port on the laryngeal mask",
+      "A window in the laryngoscope blade"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a safety feature against complete obstruction by secretions or by the tracheal wall. A tube without it is called a Magill-tip tube.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (Murphy's eye is found in endotracheal tube)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_016",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Rapid sequence induction is",
+    "options": [
+      "The method of choice in cardiac arrest",
+      "Indicated in a patient at risk of aspiration, but **not** the method of choice in cardiac arrest",
+      "Contraindicated in a full stomach",
+      "Performed without preoxygenation"
+    ],
+    "correct_index": 1,
+    "explanation": "In cardiac arrest the patient is already unconscious and apnoeic, so induction drugs are unnecessary and harmful. Rapid sequence induction is for the unfasted, pregnant, obstructed or refluxing patient who still has airway reflexes.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (rapid sequence induction is the method of choice in cardiac arrest — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_017",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Why is thiopentone with suxamethonium avoided for rapid sequence induction in a haemodynamically unstable patient?",
+    "options": [
+      "The combination precipitates in the cannula",
+      "Suxamethonium is too slow in onset",
+      "Thiopentone causes vasodilatation and myocardial depression, worsening hypotension",
+      "Thiopentone raises intracranial pressure"
+    ],
+    "correct_index": 2,
+    "explanation": "Ketamine or etomidate is preferred when the circulation is compromised. Suxamethonium itself remains the fastest-onset relaxant, with rocuronium at high dose as the alternative.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (rapid sequence induction not preferred with thiopentone and succinylcholine — true, as thiopentone destabilises haemodynamics)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_018",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "Cricoid pressure during rapid sequence induction is applied",
+    "options": [
+      "With maximal force to occlude the trachea",
+      "On the thyroid cartilage throughout",
+      "Only after the tube is placed",
+      "With about 30 newtons of force on the cricoid cartilage, released only once the tube position is confirmed"
+    ],
+    "correct_index": 3,
+    "explanation": "The cricoid is the only complete tracheal ring, so pressure compresses the oesophagus behind it without collapsing the airway. Excessive force worsens the laryngoscopic view, and it must be released if active vomiting occurs.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (rapid sequence induction), 2017 AIIMS (RSI drug choice)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_019",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "The Cormack–Lehane classification describes",
+    "options": [
+      "The depth of neuromuscular blockade",
+      "The Mallampati view on mouth opening",
+      "The laryngoscopic view of the glottis, graded I to IV",
+      "The ASA physical status"
+    ],
+    "correct_index": 2,
+    "explanation": "Grade I shows the full cords, grade II partial cords, grade III only the epiglottis and grade IV neither. It is assessed **at** laryngoscopy, whereas Mallampati is a preoperative bedside predictor.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (modified Mallampati scoring for difficult intubation), 2015 AIIMS (laryngoscopy technique)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_020",
+    "subject": "Anesthesia",
+    "sub_topic": "Airway",
+    "stem": "In a cannot-intubate, cannot-oxygenate emergency, the final airway rescue step is",
+    "options": [
+      "A further attempt at direct laryngoscopy",
+      "Front-of-neck access by cricothyroidotomy",
+      "Blind nasal intubation",
+      "Awakening the patient"
+    ],
+    "correct_index": 1,
+    "explanation": "The cricothyroid membrane is the target because it is superficial and avascular. Declaring the emergency, limiting attempts and calling for help are the steps that make the algorithm work in practice.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (tracheostomy difficulty with tracheal deviation), 2017 AIIMS (airway rescue after extubation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_021",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The device delivering the highest inspired oxygen concentration is",
+    "options": [
+      "A simple face mask",
+      "A non-rebreathing mask with a reservoir bag",
+      "Nasal cannulae at 6 L/min",
+      "A Venturi mask"
+    ],
+    "correct_index": 1,
+    "explanation": "Its one-way valves prevent rebreathing, delivering about 90% or more. A partial rebreathing mask lacks the valve and gives about 60 to 80%, and a Venturi mask gives a **fixed** low concentration, which is its purpose.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (maximum FiO₂ delivered by non-rebreathing mask), 2019 NEET-PG (mask with a reservoir bag — non-rebreathing mask), 2015 AIIMS (highest oxygen delivery — face mask with reservoir bag)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_022",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The maximum oxygen flow rate usable with conventional oxygen therapy is about",
+    "options": [
+      "60 L/min",
+      "5 L/min",
+      "15 L/min",
+      "2 L/min"
+    ],
+    "correct_index": 2,
+    "explanation": "Beyond that, dryness and discomfort limit tolerance. High-flow nasal oxygen overcomes this by heating and humidifying the gas, allowing 30 to 60 L/min, which also generates a small positive airway pressure.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (maximum flow rate of oxygen in conventional oxygen therapy — 15 L/min)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_023",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "Nasal cannulae at 3 L/min in a 5-year-old deliver an approximate FiO₂ of",
+    "options": [
+      "100%",
+      "24%",
+      "60%",
+      "35%"
+    ],
+    "correct_index": 3,
+    "explanation": "As a rule of thumb each litre per minute adds about 4% above room air, so 3 L/min gives roughly 33 to 35%. The actual value varies with the patient's minute ventilation, which is why cannulae are a **variable-performance** device.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (FiO₂ delivered by nasal cannula for a 5-year-old at 3 L/min — 35%)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_024",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "Which is NOT an established advantage of high-flow nasal oxygen?",
+    "options": [
+      "It provides a small positive airway pressure",
+      "It delivers heated, humidified gas improving comfort and secretion clearance",
+      "It reliably removes the need for intubation",
+      "It allows a high and stable FiO₂ with preserved ability to speak and eat"
+    ],
+    "correct_index": 2,
+    "explanation": "It **reduces** the need in selected patients but does not remove it, and delaying intubation while a patient deteriorates on high-flow oxygen causes harm. The ROX index is used to identify likely failure early.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not an obvious advantage of high-pressure oxygen through nasal cannula — decreases need for intubation), 2023 INI-CET (image of high flow nasal cannula)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_025",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The colour coding of a medical oxygen cylinder in the Indian and ISO systems is",
+    "options": [
+      "An entirely blue cylinder",
+      "A black body with a white shoulder",
+      "A grey body with a white shoulder",
+      "An entirely black cylinder"
+    ],
+    "correct_index": 1,
+    "explanation": "Nitrous oxide is blue, air is black with white and black quarters on the shoulder, carbon dioxide grey and entonox blue with white and blue quarters.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (colour of medical oxygen cylinder — black body with white shoulder)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_026",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "A **blue** pipeline in an Indian operating theatre delivers",
+    "options": [
+      "Oxygen",
+      "Nitrous oxide",
+      "Medical air",
+      "Vacuum"
+    ],
+    "correct_index": 1,
+    "explanation": "Pipeline colours differ from cylinder colours and from other countries' codes, which is why the non-interchangeable Pin Index System for cylinders and diameter-indexed connections for pipelines exist as mechanical safeguards.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gas delivered by blue colour pipeline — nitrous oxide)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_027",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The oxygen flush valve on an anaesthesia machine delivers oxygen at",
+    "options": [
+      "5 L/min at atmospheric pressure",
+      "15 L/min through the vaporiser",
+      "35 to 75 L/min at about 50 psi, bypassing the vaporiser",
+      "100 L/min through the common gas outlet with anaesthetic vapour"
+    ],
+    "correct_index": 2,
+    "explanation": "Because it bypasses the vaporiser it dilutes the anaesthetic and can cause awareness, and the high pressure risks barotrauma if used during inspiration with the circuit closed.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (high oxygen jet flush achieved by oxygen flow at 50 psi)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_028",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "Variable-bypass vaporisers work on the principle of",
+    "options": [
+      "Direct injection of liquid agent",
+      "Venturi entrainment of liquid agent",
+      "Ultrasonic nebulisation",
+      "Saturated vapour pressure, splitting fresh gas flow between a bypass and a vaporising chamber"
+    ],
+    "correct_index": 3,
+    "explanation": "They are agent-specific and temperature-compensated. Desflurane needs a heated, pressurised vaporiser because its boiling point of about 23 °C is near room temperature.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (vaporisers are based on the concept of vapour pressure)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_029",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The best Mapleson circuit for a spontaneously breathing patient is",
+    "options": [
+      "Mapleson E",
+      "Mapleson D",
+      "Mapleson A (Magill)",
+      "Mapleson B"
+    ],
+    "correct_index": 2,
+    "explanation": "Mapleson A is most efficient for spontaneous ventilation, and **Mapleson D** (and the Bain coaxial modification) is most efficient for controlled ventilation. \"A for spontaneous, D for controlled\" is the usual memory aid.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (best circuit for spontaneous respiration — Mapleson A)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_030",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The Jackson Rees circuit is used mainly for",
+    "options": [
+      "Adult controlled ventilation",
+      "Paediatric anaesthesia",
+      "Cardiopulmonary bypass",
+      "Long-term ventilation"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a Mapleson F — a modified Mapleson E with an open-tailed bag — offering very low resistance and dead space, which suits a small child. It allows manual ventilation and gives visual feedback on breathing.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (JR circuit is used for paediatric anaesthesia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_031",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "The pressure relief valve of a self-inflating bag-and-mask device opens at about",
+    "options": [
+      "10 cmH₂O",
+      "40 to 45 cmH₂O",
+      "80 cmH₂O",
+      "100 cmH₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "It protects against barotrauma and gastric insufflation. In neonatal resuscitation the valve can sometimes need to be overridden for the first few inflations to establish lung aeration.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (pressure relief valve in bag and mask sets off at 45 cm of H₂O)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_032",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "The initial PEEP setting for a patient started on mechanical ventilation is usually",
+    "options": [
+      "15 cmH₂O",
+      "0 cmH₂O",
+      "5 cmH₂O",
+      "20 cmH₂O"
+    ],
+    "correct_index": 2,
+    "explanation": "Physiological PEEP prevents end-expiratory alveolar collapse. Higher levels are titrated in ARDS, and excessive PEEP reduces venous return and risks barotrauma and hypotension.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (patient started on mechanical ventilation — initial PEEP 5 cm of H₂O)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_033",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "The function of PEEP is to",
+    "options": [
+      "Eliminate carbon dioxide",
+      "Increase tidal volume directly",
+      "Reduce intrathoracic pressure",
+      "Prevent alveolar collapse at end expiration, improving functional residual capacity and oxygenation"
+    ],
+    "correct_index": 3,
+    "explanation": "Recruiting collapsed alveoli reduces shunt. It also redistributes alveolar fluid in pulmonary oedema, but it does not help carbon dioxide clearance, which depends on minute ventilation.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (function of PEEP — prevents collapse of alveoli)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_034",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "A ventilated patient has a respiratory rate of 14, SpO₂ of 100%, FiO₂ of 90% and PEEP of 10 cmH₂O. The appropriate step is",
+    "options": [
+      "Increase the respiratory rate",
+      "Increase the FiO₂",
+      "Reduce the FiO₂",
+      "Make no change"
+    ],
+    "correct_index": 2,
+    "explanation": "A saturation of 100% on 90% oxygen means the patient is over-oxygenated and the FiO₂ can be weaned. Prolonged high FiO₂ causes absorption atelectasis and oxygen toxicity; the usual target is 92 to 96%.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ventilated pneumonia patient, SpO₂ 100%, FiO₂ 90% — decrease FiO₂, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_035",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "In a 70 kg adult with ARDS, the tidal volume should be set at about",
+    "options": [
+      "700 mL",
+      "420 mL, which is 6 mL/kg of predicted body weight",
+      "280 mL",
+      "1,000 mL"
+    ],
+    "correct_index": 1,
+    "explanation": "The ARDSNet strategy limits volutrauma and keeps plateau pressure below 30 cmH₂O, accepting permissive hypercapnia. **Predicted**, not actual, body weight is used — a frequent error in obese patients.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ARDS patient, 70 kg, tidal volume 420 mL — ventilator settings)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_036",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "Oxygen consumption at rest is about 250 mL/min. If it rises to 1,500 mL/min during exercise, the fold increase is",
+    "options": [
+      "3",
+      "6",
+      "10",
+      "2"
+    ],
+    "correct_index": 1,
+    "explanation": "1,500 ÷ 250 = 6. Cardiac output rises about fourfold and oxygen extraction about threefold, so the product can support a far larger increase in trained individuals.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (oxygen consumption 1500 mL/min during exercise versus at rest — 6)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_037",
+    "subject": "Anesthesia",
+    "sub_topic": "Oxygen",
+    "stem": "To prevent an airway fire during laser or electrosurgery near the airway, the FiO₂ should be",
+    "options": [
+      "Unchanged, as FiO₂ is irrelevant",
+      "100% to maximise safety margin",
+      "As low as clinically tolerable, and nitrous oxide avoided",
+      "Replaced by nitrous oxide"
+    ],
+    "correct_index": 2,
+    "explanation": "Both oxygen and nitrous oxide support combustion. The fire triad is an ignition source, fuel and an oxidiser; if a fire occurs, gas flow is stopped, the tube removed and saline poured into the field.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (to prevent airway fire the FiO₂ should be as low as possible)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_038",
+    "subject": "Anesthesia",
+    "sub_topic": "Ventilation",
+    "stem": "Bag-and-mask ventilation is specifically contraindicated in",
+    "options": [
+      "Meconium aspiration",
+      "Respiratory distress syndrome",
+      "Transient tachypnoea of the newborn",
+      "Congenital diaphragmatic hernia"
+    ],
+    "correct_index": 3,
+    "explanation": "Mask ventilation distends the herniated bowel within the chest, worsening lung compression and mediastinal shift. The airway is secured by intubation with nasogastric decompression instead.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (contraindicated in congenital diaphragmatic hernia — bag and mask ventilation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_039",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The correct sequence of basic life support in an adult is",
+    "options": [
+      "Start compressions → assess responsiveness → call for help",
+      "Check pulse → give two breaths → call for help",
+      "Assess responsiveness → call for help → check pulse and breathing → start compressions",
+      "Open the airway → give five breaths → check pulse"
+    ],
+    "correct_index": 2,
+    "explanation": "Calling for help early matters because defibrillation is time-critical. The pulse check is limited to 10 seconds, and in a child or drowning victim rescue breaths are given earlier because arrest is hypoxic.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (arrange the steps of BLS, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_040",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "Components of high-quality chest compressions include",
+    "options": [
+      "A rate of 60 per minute with partial recoil",
+      "A rate of 100 to 120 per minute, a depth of 5 to 6 cm, full recoil and minimal interruptions",
+      "A depth of 2 cm with frequent pauses",
+      "A rate of 150 per minute"
+    ],
+    "correct_index": 1,
+    "explanation": "Full recoil allows venous return and therefore coronary perfusion. Compressors are changed every 2 minutes to limit fatigue, and the chest compression fraction should exceed 60%.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (components of high quality chest compressions — 100–120/min, adequate recoil, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_041",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The compression-to-ventilation ratio for a single rescuer performing adult CPR is",
+    "options": [
+      "15:2",
+      "30:2",
+      "5:1",
+      "50:2"
+    ],
+    "correct_index": 1,
+    "explanation": "In children with two rescuers it becomes 15:2, because paediatric arrest is usually hypoxic and needs relatively more ventilation. Once the airway is secured, compressions are continuous with 10 breaths per minute.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ratio of chest compressions and breaths when a lone person gives CPR — 30:2), 2014 AIIMS (relatively more ventilation in children — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_042",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The manoeuvre used to open the airway in an unresponsive adult with no suspected cervical injury is",
+    "options": [
+      "Triple airway manoeuvre with neck flexion",
+      "Jaw thrust with in-line stabilisation",
+      "Head tilt with chin lift",
+      "Hyperextension of the neck alone"
+    ],
+    "correct_index": 2,
+    "explanation": "It lifts the tongue off the posterior pharyngeal wall. With suspected cervical spine injury, a **jaw thrust** with manual in-line stabilisation is used instead to avoid moving the neck.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (manoeuvre to open airway — head tilt, chin lift, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_043",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The recovery position is used for",
+    "options": [
+      "A fully conscious patient with chest pain",
+      "A patient in cardiac arrest",
+      "A patient with suspected pelvic fracture",
+      "An unresponsive patient who is breathing with a palpable pulse"
+    ],
+    "correct_index": 3,
+    "explanation": "Lateral positioning protects against aspiration while the airway is maintained. A patient in arrest must stay supine on a firm surface for compressions.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (recovery position used in unconscious patient with pulse and breathing present, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_044",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "A person suddenly starts choking while eating and cannot speak or cough. The next step is",
+    "options": [
+      "Immediate chest compressions",
+      "Blind finger sweep of the pharynx",
+      "Abdominal thrusts (Heimlich manoeuvre)",
+      "Encourage continued coughing"
+    ],
+    "correct_index": 2,
+    "explanation": "Inability to speak or cough indicates **complete** obstruction. If the victim can still cough effectively, coughing is encouraged instead. Once unconscious, CPR is begun; in infants, back blows with chest thrusts replace abdominal thrusts.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (person suddenly starts choking while eating — Heimlich manoeuvre)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_045",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "During paediatric CPR, chest compressions should depress the chest by",
+    "options": [
+      "One-half of the anteroposterior diameter",
+      "One-third of the anteroposterior diameter",
+      "2 cm in all ages",
+      "One-fifth of the anteroposterior diameter"
+    ],
+    "correct_index": 1,
+    "explanation": "About 4 cm in infants and 5 cm in children. Two fingers or the two-thumb encircling technique is used in infants, with one or two hands in older children.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (paediatric resuscitation — compression 1/3rd of AP diameter of chest)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_046",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "In a child being resuscitated whose monitor shows pulseless ventricular tachycardia, the next step is",
+    "options": [
+      "Synchronised cardioversion",
+      "Defibrillate at 2 J/kg then resume compressions for 2 minutes",
+      "Adrenaline without shock",
+      "Check the rhythm again after 5 minutes"
+    ],
+    "correct_index": 1,
+    "explanation": "Subsequent shocks use 4 J/kg. Compressions resume immediately without a pulse check, since any pause reduces coronary perfusion pressure. Adrenaline is given every 3 to 5 minutes alongside.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (paediatric patient with ventricular tachycardia — give shock then continue CPR for 2 minutes)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_047",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The shockable rhythms in cardiac arrest are",
+    "options": [
+      "Atrial fibrillation and atrial flutter",
+      "Asystole and pulseless electrical activity",
+      "Ventricular fibrillation and pulseless ventricular tachycardia",
+      "Complete heart block and sinus bradycardia"
+    ],
+    "correct_index": 2,
+    "explanation": "Asystole and pulseless electrical activity are treated with compressions and adrenaline while reversible causes are sought. Defibrillating a non-shockable rhythm wastes time and interrupts compressions.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (paediatric VT — shock then CPR), 2020 INI-CET (high quality chest compressions, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_048",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "The reversible causes of cardiac arrest are conventionally remembered as",
+    "options": [
+      "The six Ps of ischaemia",
+      "The three Ps",
+      "The five Ds",
+      "The four Hs and four Ts — hypoxia, hypovolaemia, hypo/hyperkalaemia, hypothermia; tension pneumothorax, tamponade, toxins, thrombosis"
+    ],
+    "correct_index": 3,
+    "explanation": "They are the checklist run during every 2-minute cycle, because fixing the cause is what converts a non-shockable rhythm. Point-of-care ultrasound helps identify tamponade, pneumothorax and hypovolaemia quickly.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (chest compression quality), 2024 INI-CET (venous air embolism during surgery, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_049",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "A patient develops hypotension, ventricular arrhythmia and a mill-wheel murmur while the surgeon elevates the internal jugular vein for ligation. The diagnosis and immediate management are",
+    "options": [
+      "Myocardial infarction; aspirin",
+      "Pulmonary thromboembolism; thrombolysis",
+      "Venous air embolism; flood the field, stop nitrous oxide, give 100% oxygen and place the patient head-down in the left lateral position",
+      "Anaphylaxis; adrenaline"
+    ],
+    "correct_index": 2,
+    "explanation": "Air entrained through an open neck vein above the level of the heart lodges in the right ventricle. Nitrous oxide is stopped because it expands the bubble. Aspiration through a central line may help.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (ligating jugular vein with hypotension and ventricular arrhythmia — venous air embolism, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_050",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "After a subarachnoid block the heart rate and blood pressure both fall sharply. The reflex responsible is",
+    "options": [
+      "The Cushing reflex",
+      "The Bezold–Jarisch reflex",
+      "The oculocardiac reflex",
+      "The baroreceptor reflex"
+    ],
+    "correct_index": 1,
+    "explanation": "Reduced venous return leaves an underfilled ventricle whose mechanoreceptors trigger paradoxical bradycardia and vasodilatation. Fluids, vasopressors and atropine are used, with leg elevation.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (after subarachnoid block the heart rate and BP reduced — Bezold Jarisch reflex)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_051",
+    "subject": "Anesthesia",
+    "sub_topic": "Cpr",
+    "stem": "Hypotension occurring 7 to 8 minutes after spinal anaesthesia is managed with",
+    "options": [
+      "Immediate general anaesthesia",
+      "Fluids with a vasopressor such as phenylephrine, mephentermine or ephedrine",
+      "Deepening the block",
+      "A beta blocker"
+    ],
+    "correct_index": 1,
+    "explanation": "Sympathetic blockade causes vasodilatation. Phenylephrine is preferred in obstetrics because it preserves uteroplacental flow better than ephedrine, which crosses the placenta and causes fetal acidosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (hypotension within seven to eight minutes of spinal anaesthesia — dopamine, phenylephrine, mephentermine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_052",
+    "subject": "Anesthesia",
+    "sub_topic": "Complications",
+    "stem": "A patient suddenly develops a rising end-tidal CO₂, generalised muscle rigidity and hyperthermia under anaesthesia. The trigger and the antidote are",
+    "options": [
+      "An opioid; naloxone",
+      "Propofol; flumazenil",
+      "A volatile agent or suxamethonium; dantrolene",
+      "A non-depolarising relaxant; neostigmine"
+    ],
+    "correct_index": 2,
+    "explanation": "Malignant hyperthermia is a ryanodine receptor disorder causing uncontrolled calcium release. **A rising end-tidal CO₂ is the earliest sign.** Dantrolene 2.5 mg/kg is given with cooling, hyperventilation and treatment of hyperkalaemia and acidosis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (increased ETCO₂, muscular rigidity, hyperthermia — halothane), 2020 NEET-PG (drug causing hyperthermia during anaesthesia — succinylcholine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_053",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "The graphical display of exhaled carbon dioxide against time is",
+    "options": [
+      "Oximetry",
+      "Spirometry",
+      "Plethysmography",
+      "Capnography"
+    ],
+    "correct_index": 3,
+    "explanation": "It is mandatory for every general anaesthetic. It confirms tube placement, detects disconnection, circuit leaks, bronchospasm, air embolism and malignant hyperthermia, and guides ventilation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (image showing graphical representation of ETCO₂ — capnography)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_054",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Phase III of a normal capnogram represents",
+    "options": [
+      "Expiration of dead space gas",
+      "The inspiratory baseline",
+      "The alveolar plateau",
+      "The expiratory upstroke"
+    ],
+    "correct_index": 2,
+    "explanation": "Phase I is anatomical dead space gas, phase II the rapid upstroke of mixed gas, phase III the alveolar plateau whose end point is end-tidal CO₂, and phase IV the inspiratory downstroke.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (phase III in capnogram indicates alveolar plateau phase)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_055",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "A curare notch on the capnogram indicates",
+    "options": [
+      "Oesophageal intubation",
+      "Spontaneous respiratory effort against residual neuromuscular blockade",
+      "Complete circuit disconnection",
+      "Malignant hyperthermia"
+    ],
+    "correct_index": 1,
+    "explanation": "A cleft appears in the alveolar plateau as the patient's own effort interrupts the ventilator breath. The response is to deepen relaxation or allow full recovery — not to ignore it.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (capnogram showing curare notch — spontaneous breathing under muscle relaxation), 2014 AIIMS (next step for curare notch — increase muscle relaxant)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_056",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "A capnogram with a sloping upstroke and loss of the plateau — a shark-fin appearance — indicates",
+    "options": [
+      "Hyperventilation",
+      "Bronchospasm or airflow obstruction",
+      "Rebreathing",
+      "Cardiac arrest"
+    ],
+    "correct_index": 1,
+    "explanation": "Uneven alveolar emptying prolongs the upstroke. It is seen in asthma, COPD and a kinked tube, and the shape improves as bronchospasm is treated — making it a real-time measure of response.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (15-year-old with breathing difficulty, capnogram shows shark fin appearance — bronchospasm)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_057",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "A rising inspiratory **baseline** on the capnogram suggests",
+    "options": [
+      "Hypothermia",
+      "Bronchospasm",
+      "Rebreathing, from an exhausted soda lime absorber or an incompetent expiratory valve",
+      "Pulmonary embolism"
+    ],
+    "correct_index": 2,
+    "explanation": "The baseline should return to zero in each cycle; failure means CO₂ is being re-inhaled. Soda lime exhaustion is also signalled by a colour change in the indicator dye and by warmth of the canister.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (phase III of capnogram), 2024 INI-CET (capnography interpretation)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_058",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "A sudden fall of end-tidal CO₂ to near zero with loss of the waveform indicates",
+    "options": [
+      "Light anaesthesia",
+      "Malignant hyperthermia",
+      "Hypoventilation",
+      "Circuit disconnection, complete obstruction, oesophageal intubation or cardiac arrest"
+    ],
+    "correct_index": 3,
+    "explanation": "A gradual **fall** instead suggests hyperventilation, falling cardiac output, hypothermia or pulmonary embolism, while a gradual **rise** suggests hypoventilation, absorber exhaustion or hypermetabolism.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (best marker for correct ET tube position — ETCO₂), 2024 INI-CET (capnography)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_059",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "The most reliable site for measuring core temperature during general anaesthesia is",
+    "options": [
+      "The forehead skin",
+      "The axilla",
+      "The pulmonary artery",
+      "The rectum"
+    ],
+    "correct_index": 2,
+    "explanation": "It is the gold standard but requires invasive catheterisation, so the nasopharynx, oesophagus and tympanic membrane are the practical alternatives. Skin and axillary readings lag and underestimate core temperature.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (most reliable site to measure core temperature during general anaesthesia — pulmonary artery), 2017 AIIMS (identify the image — temperature probe)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_060",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Pulse oximetry gives a falsely **normal** reading in",
+    "options": [
+      "Severe anaemia",
+      "Carbon monoxide poisoning",
+      "Hypothermia",
+      "Hyperbilirubinaemia"
+    ],
+    "correct_index": 1,
+    "explanation": "Carboxyhaemoglobin absorbs light similarly to oxyhaemoglobin at 660 nm. Methaemoglobinaemia instead drives the reading towards 85% regardless of truth, and co-oximetry is needed in both.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (EMLA causing methaemoglobinaemia), 2024 INI-CET (oxygen delivery and monitoring)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_061",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Central venous pressure monitoring",
+    "options": [
+      "Measures cardiac output directly",
+      "Estimates right-sided filling pressure but does **not** measure cardiac output",
+      "Measures left atrial pressure directly",
+      "Replaces echocardiography"
+    ],
+    "correct_index": 1,
+    "explanation": "A single CVP value also predicts fluid responsiveness poorly. Cardiac output needs thermodilution, pulse contour analysis or echocardiography.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (central venous catheter is used to measure cardiac output — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_062",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Allen's test is performed to assess",
+    "options": [
+      "Peripheral neuropathy",
+      "Deep venous patency in the leg",
+      "Collateral circulation between the radial and ulnar arteries before radial artery cannulation",
+      "Thoracic outlet obstruction"
+    ],
+    "correct_index": 2,
+    "explanation": "Both arteries are occluded, then the ulnar is released; colour should return within about 5 to 10 seconds. The radial artery is preferred for arterial lines precisely because of this collateral supply.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (test to check collateral blood supply between radial and ulnar artery — Allen's test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_063",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "The nerve most commonly used for neuromuscular monitoring is the",
+    "options": [
+      "Posterior tibial nerve",
+      "Median nerve at the wrist",
+      "Facial nerve at the orbicularis oculi",
+      "Ulnar nerve, with the response recorded at the adductor pollicis"
+    ],
+    "correct_index": 3,
+    "explanation": "It is accessible and gives reproducible results. The facial nerve is the alternative when the arms are inaccessible, but the orbicularis oculi recovers earlier than the diaphragm and so can mislead about readiness for extubation.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (nerve most commonly used for neuromuscular monitoring — ulnar nerve), 2018 AIIMS (nerve used for monitoring in anaesthesia — ulnar nerve, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_064",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Post-tetanic count uses a tetanic stimulus at a frequency of",
+    "options": [
+      "100 Hz",
+      "2 Hz",
+      "50 Hz",
+      "1 Hz"
+    ],
+    "correct_index": 2,
+    "explanation": "Tetanus at 50 Hz for 5 seconds mobilises acetylcholine, so single twitches given afterwards become visible. It is used to quantify **deep** block, when train-of-four gives no response at all.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (frequency of stimulation in post tetanic count — 50 Hz)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_065",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Adequate recovery from neuromuscular blockade before extubation is indicated by a train-of-four ratio of",
+    "options": [
+      "0.5",
+      "0.9 or more",
+      "0.25",
+      "Any four visible twitches regardless of ratio"
+    ],
+    "correct_index": 1,
+    "explanation": "Below 0.9 the pharyngeal muscles remain weak and aspiration risk persists, even though four twitches are visible. Clinical assessment alone cannot detect residual block in this range, which is the argument for objective monitoring.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (post tetanic count), 2023 NEET-PG (drug to regain strength after anaesthesia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_066",
+    "subject": "Anesthesia",
+    "sub_topic": "Monitoring",
+    "stem": "Train-of-four stimulation is delivered at",
+    "options": [
+      "50 Hz over 5 seconds",
+      "2 Hz over 2 seconds, with the fade between the first and fourth twitch indicating non-depolarising block",
+      "0.1 Hz single twitches",
+      "100 Hz bursts"
+    ],
+    "correct_index": 1,
+    "explanation": "Fade is characteristic of **non-depolarising** blockade, because presynaptic receptors are also blocked. A depolarising block from suxamethonium reduces all four twitches equally with no fade.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (post tetanic count frequency), 2020 INI-CET (reversal of vecuronium blockade)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_067",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "The rapid termination of thiopentone's effect after a single dose is due to",
+    "options": [
+      "Rapid hepatic metabolism",
+      "High renal clearance",
+      "Redistribution from brain to muscle and fat, not rapid clearance",
+      "Plasma esterase hydrolysis"
+    ],
+    "correct_index": 2,
+    "explanation": "Elimination is slow, so repeated doses accumulate and produce prolonged hangover — the classic distinction between a short duration of **action** and a long elimination half-life.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (high renal clearance of thiopentone is the reason for its fast termination — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_068",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "The induction agent most associated with adrenal suppression is",
+    "options": [
+      "Thiopentone",
+      "Propofol",
+      "Ketamine",
+      "Etomidate"
+    ],
+    "correct_index": 3,
+    "explanation": "It inhibits 11-beta-hydroxylase, so even a single dose suppresses cortisol for hours — the reason its routine use in septic patients is debated. Its advantage is cardiovascular stability.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (adrenal gland suppression is a side effect of etomidate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_069",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "The induction agent of choice in a patient with coronary artery disease and poor ventricular function is",
+    "options": [
+      "Propofol",
+      "Thiopentone",
+      "Etomidate",
+      "Ketamine"
+    ],
+    "correct_index": 2,
+    "explanation": "It causes the least change in heart rate, blood pressure and cardiac output. Propofol and thiopentone cause vasodilatation and myocardial depression, while ketamine raises heart rate and myocardial oxygen demand.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (induction agent in patient with coronary artery disease — etomidate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_070",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Which intravenous anaesthetic causes the most pain on injection?",
+    "options": [
+      "Thiopentone",
+      "Etomidate, followed by propofol",
+      "Ketamine",
+      "Midazolam"
+    ],
+    "correct_index": 1,
+    "explanation": "Lignocaine pre-treatment, a large vein and a carrier of intralipid reduce it. Etomidate also causes myoclonus and a high incidence of nausea and vomiting.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (anaesthetic agent causing pain on IV administration — etomidate > propofol, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_071",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Propofol is",
+    "options": [
+      "Absolutely contraindicated in any egg allergy",
+      "Safe in egg allergy in most patients, because the lecithin used is purified",
+      "An analgesic as well as a hypnotic",
+      "A bronchoconstrictor"
+    ],
+    "correct_index": 1,
+    "explanation": "True anaphylaxis is rare. Propofol has antiemetic and bronchodilator properties and a rapid clear-headed recovery, which is why it suits day-case work; propofol infusion syndrome is the risk of prolonged high-dose infusion.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match side effects — propofol safe in egg allergy, fentanyl rigid chest syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_072",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Ketamine is characterised by",
+    "options": [
+      "Profound respiratory depression at anaesthetic doses",
+      "Myocardial stimulation with a fall in intracranial pressure",
+      "Bronchodilatation with a rise in heart rate, blood pressure and intracranial pressure, and preserved airway reflexes",
+      "Loss of airway reflexes"
+    ],
+    "correct_index": 2,
+    "explanation": "It is an NMDA antagonist producing dissociative anaesthesia with analgesia. It is a **direct** myocardial depressant whose sympathomimetic effect usually masks that; emergence delirium is reduced by a benzodiazepine.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ketamine — myocardial depressant, raises ICP, bronchodilatation)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_073",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "A woman with placenta praevia, active bleeding and hypotension needs urgent caesarean section. The appropriate anaesthetic is",
+    "options": [
+      "Propofol induction with a volatile agent",
+      "Spinal anaesthesia",
+      "Epidural anaesthesia",
+      "General anaesthesia with ketamine induction"
+    ],
+    "correct_index": 3,
+    "explanation": "Regional block would deepen the hypotension through sympathetic blockade in a hypovolaemic woman. Ketamine supports blood pressure through sympathetic stimulation; etomidate is the alternative.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (pregnant woman with placenta praevia, bleeding, low BP — general anaesthesia with IV ketamine)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_074",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Benzodiazepines used as induction agents",
+    "options": [
+      "Have no amnesic effect",
+      "Cannot induce anaesthesia at any dose",
+      "Can induce anaesthesia, though slowly, and are reversible with flumazenil",
+      "Are reversed by naloxone"
+    ],
+    "correct_index": 2,
+    "explanation": "Midazolam is the usual agent. Slow onset and prolonged recovery make it a poor sole induction agent, so it is mainly used for premedication, sedation and co-induction.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (benzodiazepines can be used as induction agents — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_075",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Barbiturates and benzodiazepines",
+    "options": [
+      "Act at different receptors with no interaction",
+      "Both act at the GABA-A receptor and show additive sedation with alcohol",
+      "Are both reversible with flumazenil",
+      "Both increase the frequency of chloride channel opening"
+    ],
+    "correct_index": 1,
+    "explanation": "Benzodiazepines increase the **frequency** of chloride channel opening and barbiturates the **duration**, which is why barbiturates can open the channel without GABA and have no ceiling to their respiratory depression.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (barbiturates and benzodiazepines both act on GABA and cause additive sedation with alcohol)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_076",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "The drug combination suited to day-care surgery is",
+    "options": [
+      "Thiopentone, morphine and halothane",
+      "Propofol, remifentanil and midazolam",
+      "Ketamine, pethidine and ether",
+      "Etomidate, fentanyl and methoxyflurane"
+    ],
+    "correct_index": 1,
+    "explanation": "All are short-acting with rapid clear recovery. Remifentanil is metabolised by plasma esterases, so its effect ends within minutes regardless of infusion duration — but that also means analgesia must be arranged before it stops.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (combination used for day care surgery — propofol, remifentanil, midazolam)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_077",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "The purpose of giving glycopyrrolate before general anaesthesia is to",
+    "options": [
+      "Prevent aspiration by raising gastric pH",
+      "Provide analgesia",
+      "Reduce airway secretions",
+      "Deepen the plane of anaesthesia"
+    ],
+    "correct_index": 2,
+    "explanation": "It is a quaternary antimuscarinic that does not cross the blood–brain barrier, so it causes no central anticholinergic effects — unlike atropine. It also blocks the bradycardia of neostigmine reversal.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (purpose of glycopyrrolate before GA — to decrease airway secretions), 2015 AIIMS (example of preanaesthetic medication — glycopyrrolate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_078",
+    "subject": "Anesthesia",
+    "sub_topic": "Induction",
+    "stem": "Fentanyl given rapidly in high dose characteristically causes",
+    "options": [
+      "Methaemoglobinaemia",
+      "Adrenal suppression",
+      "Malignant hyperthermia",
+      "Rigid chest syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "Chest wall and glottic rigidity makes mask ventilation impossible. It is treated with a muscle relaxant, or naloxone, and prevented by slow administration.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match side effects — fentanyl rigid chest syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_079",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The correct order of potency of inhaled anaesthetic agents is",
+    "options": [
+      "Isoflurane > methoxyflurane > nitrous oxide > halothane",
+      "Nitrous oxide > isoflurane > halothane > methoxyflurane",
+      "Methoxyflurane > halothane > isoflurane > nitrous oxide",
+      "Halothane > methoxyflurane > nitrous oxide > isoflurane"
+    ],
+    "correct_index": 2,
+    "explanation": "Potency is inversely proportional to MAC, and MAC correlates with lipid solubility (the Meyer–Overton rule). Nitrous oxide has a MAC of about 104%, so it cannot produce anaesthesia alone at atmospheric pressure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (correct sequence of potency of anaesthetic agents — methoxyflurane > halothane > isoflurane > N₂O)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_080",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The order of blood–gas partition coefficients, from lowest to highest, is",
+    "options": [
+      "Halothane < isoflurane < sevoflurane < desflurane",
+      "Desflurane < nitrous oxide < sevoflurane < isoflurane < halothane",
+      "Sevoflurane < desflurane < halothane < isoflurane",
+      "Isoflurane < halothane < desflurane < nitrous oxide"
+    ],
+    "correct_index": 1,
+    "explanation": "A **low** blood–gas coefficient means the agent saturates blood quickly, so alveolar and brain partial pressures rise fast — hence rapid induction and recovery. Desflurane is therefore the fastest and halothane the slowest.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (order of blood gas coefficient — xenon",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_081",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "MAC varies with age such that it is",
+    "options": [
+      "Highest in neonates and falls with age",
+      "Highest in infants, lower in neonates, and falls progressively through adult life",
+      "Constant at all ages",
+      "Highest in the elderly"
+    ],
+    "correct_index": 1,
+    "explanation": "MAC peaks at about 1 to 6 months. It is reduced by pregnancy, hypothermia, hypotension, opioids, benzodiazepines and acute alcohol intake, and increased by chronic alcohol use, hyperthermia and hyperthyroidism.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (correct sequence of MAC with respect to age — infants > neonates > adults)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_082",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The only high-potency inhaled agent suitable for **both** inhalational induction and maintenance is",
+    "options": [
+      "Isoflurane",
+      "Desflurane",
+      "Sevoflurane",
+      "Nitrous oxide"
+    ],
+    "correct_index": 2,
+    "explanation": "It is non-pungent with a low blood–gas coefficient, so it is pleasant to breathe and acts fast. Desflurane and isoflurane are too irritant for induction, and nitrous oxide is not potent enough alone.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sole high potency inhaled agent for both induction and maintenance — sevoflurane), 2020 INI-CET (inhaled agent used for paediatric induction — sevoflurane)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_083",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The inhaled agent with the greatest airway irritation is",
+    "options": [
+      "Nitrous oxide",
+      "Sevoflurane",
+      "Halothane",
+      "Desflurane"
+    ],
+    "correct_index": 3,
+    "explanation": "Its pungency causes coughing, breath-holding and laryngospasm, so it is unsuitable for inhalational induction. A rapid rise in desflurane concentration also causes sympathetic stimulation with tachycardia and hypertension.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (anaesthetic agent with maximum respiratory irritation — desflurane)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_084",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "Halothane compared with sevoflurane for day-care surgery is",
+    "options": [
+      "Equivalent in every respect",
+      "Superior, because of faster recovery",
+      "Inferior, because of slower recovery and the risk of hepatitis and arrhythmia",
+      "Preferred because it is non-irritant"
+    ],
+    "correct_index": 2,
+    "explanation": "Halothane's high blood–gas coefficient delays recovery. It also sensitises the myocardium to catecholamines and causes halothane hepatitis, so sevoflurane has replaced it.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (halothane is the agent of choice for day care surgery over sevoflurane — false, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_085",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "Why is 100% oxygen given for a few minutes after nitrous oxide is discontinued?",
+    "options": [
+      "To reverse neuromuscular blockade",
+      "To prevent diffusion hypoxia",
+      "To prevent malignant hyperthermia",
+      "To speed hepatic metabolism"
+    ],
+    "correct_index": 1,
+    "explanation": "Nitrous oxide is 34 times more soluble than nitrogen, so it floods out of the blood into the alveoli and dilutes alveolar oxygen. The same high solubility causes the second gas effect and expansion of closed air spaces.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (why 100% oxygen is administered after nitrous oxide is discontinued — diffusion hypoxia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_086",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "Nitrous oxide should be avoided in all of the following EXCEPT",
+    "options": [
+      "Pneumothorax",
+      "A short general anaesthetic for an uncomplicated day-case procedure",
+      "Bowel obstruction",
+      "Middle ear surgery and venous air embolism"
+    ],
+    "correct_index": 1,
+    "explanation": "Nitrous oxide expands any closed gas-filled space, so it is avoided wherever one exists. It also inhibits methionine synthase, causing megaloblastic change on prolonged exposure.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (diffusion hypoxia after nitrous oxide), 2024 INI-CET (venous air embolism, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_087",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "Anaesthetic agents relatively contraindicated in chronic renal failure include",
+    "options": [
+      "Nitrous oxide alone",
+      "Isoflurane and desflurane",
+      "Methoxyflurane and sevoflurane at low flows, because of fluoride and Compound A",
+      "Propofol and etomidate"
+    ],
+    "correct_index": 2,
+    "explanation": "Methoxyflurane caused fluoride nephrotoxicity and was withdrawn. Sevoflurane degrades in soda lime to Compound A, which is why minimum fresh gas flows are specified. Isoflurane and desflurane are minimally metabolised.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (anaesthetics contraindicated in chronic renal failure — ketamine, methoxyflurane, sevoflurane)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_088",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The volatile agent most strongly implicated as a trigger of malignant hyperthermia is",
+    "options": [
+      "Ketamine",
+      "Nitrous oxide",
+      "Propofol",
+      "Halothane, along with all other potent volatiles and suxamethonium"
+    ],
+    "correct_index": 3,
+    "explanation": "Nitrous oxide, propofol, opioids, non-depolarising relaxants and regional anaesthesia are all safe. A susceptible patient needs a vapour-free machine and a total intravenous technique.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (increased ETCO₂, rigidity, hyperthermia — halothane), 2020 NEET-PG (drug causing hyperthermia — succinylcholine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_089",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "The second gas effect refers to",
+    "options": [
+      "The rebound rise in CO₂ after hyperventilation",
+      "The effect of two volatile agents given together",
+      "Acceleration of the uptake of a volatile agent when it is given with a high concentration of nitrous oxide",
+      "Expansion of a pneumothorax"
+    ],
+    "correct_index": 2,
+    "explanation": "Rapid absorption of large volumes of nitrous oxide concentrates the remaining alveolar gas, raising the partial pressure of the companion agent. The concentration effect is the related phenomenon for nitrous oxide itself.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (blood gas coefficients, 2X), 2024 INI-CET (potency of anaesthetic agents)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_090",
+    "subject": "Anesthesia",
+    "sub_topic": "Inhaled",
+    "stem": "MAC is defined as the alveolar concentration that",
+    "options": [
+      "Abolishes awareness in 95% of subjects",
+      "Prevents movement in response to a standard surgical stimulus in 50% of subjects at one atmosphere",
+      "Produces apnoea in 50% of subjects",
+      "Produces loss of eyelash reflex in all subjects"
+    ],
+    "correct_index": 1,
+    "explanation": "MAC-awake is about 0.3 to 0.4 MAC and MAC-BAR, which blunts the autonomic response, about 1.5 MAC. MAC values of different agents are additive, which is how nitrous oxide spares volatile dose.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (MAC with respect to age), 2024 INI-CET (potency sequence)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_091",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Fast reversal of a deep rocuronium block is achieved with",
+    "options": [
+      "Neostigmine",
+      "Sugammadex",
+      "Physostigmine",
+      "Edrophonium"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a modified gamma-cyclodextrin that encapsulates the aminosteroid molecule, so it works at any depth of block, unlike anticholinesterases. It also reverses vecuronium, but not atracurium or cisatracurium.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fast reversal of rocuronium — sugammadex), 2020 NEET-PG (immediate reversal of vecuronium — sugammadex)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_092",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Conventional reversal of a vecuronium block uses",
+    "options": [
+      "Flumazenil",
+      "Neostigmine alone",
+      "Neostigmine with glycopyrrolate or atropine",
+      "Naloxone"
+    ],
+    "correct_index": 2,
+    "explanation": "Neostigmine raises acetylcholine at both nicotinic and muscarinic receptors, so an antimuscarinic must accompany it to prevent bradycardia, bronchospasm and secretions. It cannot reverse a profound block.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (reversal of vecuronium blockade — neostigmine), 2023 NEET-PG (drug used to regain strength from muscular weakness after anaesthesia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_093",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "The muscle relaxant of choice in a patient with both hepatic and renal failure is",
+    "options": [
+      "Pancuronium",
+      "Vecuronium",
+      "Rocuronium",
+      "Atracurium or cisatracurium"
+    ],
+    "correct_index": 3,
+    "explanation": "They undergo Hofmann elimination, a spontaneous non-organ-dependent degradation at body pH and temperature. Atracurium releases histamine and produces laudanosine; cisatracurium does neither to a significant degree.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (muscle relaxant usable with high serum bilirubin and creatinine — atracurium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_094",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Suxamethonium is contraindicated in all of the following EXCEPT",
+    "options": [
+      "Known malignant hyperthermia susceptibility",
+      "Burns more than 24 hours old",
+      "Spinal cord injury with paralysis",
+      "A fasted patient needing rapid sequence induction for a full stomach"
+    ],
+    "correct_index": 3,
+    "explanation": "Rapid sequence induction is its main indication. Upregulation of extrajunctional receptors in burns, denervation and prolonged immobility causes life-threatening hyperkalaemia; it also raises intraocular and intragastric pressure.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (drug causing hyperthermia during anaesthesia — succinylcholine), 2017 AIIMS (RSI with thiopentone and succinylcholine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_095",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Prolonged apnoea after suxamethonium in a patient with a low dibucaine number indicates",
+    "options": [
+      "Residual non-depolarising block",
+      "Malignant hyperthermia",
+      "Myasthenia gravis",
+      "Atypical plasma pseudocholinesterase"
+    ],
+    "correct_index": 3,
+    "explanation": "The dibucaine number measures enzyme **quality**, not quantity: about 80 is normal and about 20 indicates a homozygous atypical enzyme. Management is continued ventilation and sedation until the block wears off.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (local anaesthetics — dibucaine), 2020 NEET-PG (succinylcholine complications)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_096",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "The relaxant with the fastest onset, suitable when suxamethonium is contraindicated, is",
+    "options": [
+      "Cisatracurium",
+      "Atracurium",
+      "Pancuronium",
+      "Rocuronium at a high dose"
+    ],
+    "correct_index": 3,
+    "explanation": "At 1.2 mg/kg it gives intubating conditions in about 60 seconds. The resulting long block is acceptable because sugammadex can reverse it immediately if the airway proves impossible.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fast reversal of rocuronium — sugammadex), 2017 AIIMS (rapid sequence induction drug choice)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_097",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Pancuronium characteristically causes",
+    "options": [
+      "Hofmann elimination",
+      "Bradycardia",
+      "Histamine release with hypotension",
+      "Tachycardia, from vagolytic and sympathomimetic effects"
+    ],
+    "correct_index": 3,
+    "explanation": "It is long-acting and renally excreted, so it accumulates in renal failure. Atracurium and mivacurium are the histamine releasers, and vecuronium and cisatracurium are the cardiovascularly neutral agents.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (muscle relaxant in hepatic and renal failure — atracurium), 2020 INI-CET (reversal of vecuronium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_098",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Residual neuromuscular blockade after anaesthesia is best treated with",
+    "options": [
+      "Flumazenil",
+      "Physostigmine",
+      "Doxapram",
+      "An appropriate reversal agent — neostigmine or sugammadex — with continued ventilation until recovery"
+    ],
+    "correct_index": 3,
+    "explanation": "Physostigmine is a **tertiary** anticholinesterase that crosses into the brain and is used for central anticholinergic syndrome, not for neuromuscular reversal — a distinction the past papers have recorded loosely.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (drug used to regain strength from muscular weakness after anaesthesia — recorded as physostigmine, questionable)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_099",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Allergic reactions in the immediate perioperative period are most often caused by",
+    "options": [
+      "Local anaesthetics",
+      "Volatile agents",
+      "Nitrous oxide",
+      "Neuromuscular blocking agents"
+    ],
+    "correct_index": 3,
+    "explanation": "Suxamethonium and rocuronium lead, with antibiotics, chlorhexidine and latex next. Management is to stop the trigger, give adrenaline, fluids and oxygen, with mast cell tryptase and later skin testing to confirm.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (allergic reaction in immediate perioperative period is due to neuromuscular block)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_100",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "In myasthenia gravis, the response to neuromuscular blocking agents is",
+    "options": [
+      "Normal to both",
+      "Sensitivity to both",
+      "Resistance to both",
+      "Resistance to suxamethonium and marked sensitivity to non-depolarising agents"
+    ],
+    "correct_index": 3,
+    "explanation": "Fewer functional acetylcholine receptors mean less depolarising effect but far greater blockade by competitive antagonists, so doses are reduced substantially or relaxants avoided altogether with monitoring.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (reversal of vecuronium), 2023 NEET-PG (muscular weakness after anaesthesia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_101",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "A depolarising block from suxamethonium differs from a non-depolarising block in that it shows",
+    "options": [
+      "Antagonism by sugammadex",
+      "Marked fade with post-tetanic potentiation",
+      "Reversal by neostigmine",
+      "No fade on train-of-four and no post-tetanic potentiation"
+    ],
+    "correct_index": 3,
+    "explanation": "All four twitches are reduced equally. Neostigmine **prolongs** a phase I depolarising block rather than reversing it, which is why it must not be given for suxamethonium apnoea.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (post tetanic count frequency), 2020 INI-CET (reversal of vecuronium blockade)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_102",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Suxamethonium causes a rise in serum potassium of about",
+    "options": [
+      "A fall of 0.5 mmol/L",
+      "5 mmol/L in everyone",
+      "No change in any patient",
+      "0.5 mmol/L in a normal patient, but far more in burns or denervation injury"
+    ],
+    "correct_index": 3,
+    "explanation": "Extrajunctional receptor upregulation from about 24 to 48 hours after injury allows massive potassium efflux and cardiac arrest, and that risk persists for months.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (succinylcholine complications), 2014 AIIMS (perioperative allergy to neuromuscular blockers)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_103",
+    "subject": "Anesthesia",
+    "sub_topic": "Relaxants",
+    "stem": "Muscles recover from neuromuscular blockade in the order",
+    "options": [
+      "Extraocular muscles last",
+      "Pharyngeal muscles first, diaphragm last",
+      "All muscles simultaneously",
+      "Diaphragm first, then limb muscles, with the pharyngeal and upper airway muscles last"
+    ],
+    "correct_index": 3,
+    "explanation": "This is why a patient can breathe adequately yet still be unable to protect the airway. It is the physiological basis for requiring a train-of-four ratio above 0.9 before extubation.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (nerve used for monitoring — ulnar, 2X), 2021 INI-CET (post tetanic count)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_104",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "Local anaesthetics act by",
+    "options": [
+      "Acting as GABA agonists",
+      "Opening potassium channels",
+      "Blocking calcium channels",
+      "Binding voltage-gated sodium channels from the intracellular side and holding them inactivated"
+    ],
+    "correct_index": 3,
+    "explanation": "The unionised base crosses the membrane and the ionised form binds inside, which is why inflamed acidic tissue reduces efficacy — less drug is available in the lipid-soluble form to cross.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (MOA of local anaesthetics — binding sodium channels causing inactivation), 2016 AIIMS (local anaesthetic acts by blocking sodium channels, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_105",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "The nerve fibre type **least** sensitive to local anaesthetic blockade is",
+    "options": [
+      "A-delta fibres",
+      "A-alpha fibres",
+      "B fibres",
+      "C fibres"
+    ],
+    "correct_index": 3,
+    "explanation": "Small unmyelinated C fibres require a longer length of exposure to achieve block, so although thin fibres are blocked at low concentrations in principle, C fibres are in practice the most resistant. Autonomic B fibres are blocked first clinically, which is why sympathetic block exceeds sensory, which exceeds motor.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (fibre least sensitive to local anaesthesia — C fibres)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_106",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "The longest-acting local anaesthetic among the following is",
+    "options": [
+      "Prilocaine",
+      "Lignocaine",
+      "Chloroprocaine",
+      "Dibucaine (cinchocaine)"
+    ],
+    "correct_index": 3,
+    "explanation": "Duration tracks protein binding and lipid solubility. Bupivacaine, ropivacaine and levobupivacaine are the long-acting agents in routine use; chloroprocaine is the shortest acting, being hydrolysed by plasma esterases.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (local anaesthetics — dibucaine is the longest acting, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_107",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "The concentrations of lignocaine and bupivacaine used for spinal anaesthesia are",
+    "options": [
+      "Lignocaine 10% and bupivacaine 1%",
+      "Lignocaine 0.5% and bupivacaine 5%",
+      "Lignocaine 2% and bupivacaine 0.125%",
+      "Lignocaine 5% heavy and bupivacaine 0.5%"
+    ],
+    "correct_index": 3,
+    "explanation": "Hyperbaric solutions contain dextrose so that spread can be controlled by position. Bupivacaine 0.5% is the standard spinal agent in current practice; lignocaine fell out of favour because of transient neurological symptoms.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (anaesthetic agent used in spinal anaesthesia — lignocaine 1.5% and 5%, bupivacaine 0.5% and 0.75%)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_108",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "During lumbar puncture, the structure pierced immediately **after** the interspinous ligament is the",
+    "options": [
+      "Supraspinous ligament",
+      "Dura mater",
+      "Arachnoid mater",
+      "Ligamentum flavum"
+    ],
+    "correct_index": 3,
+    "explanation": "The order is skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, epidural space, dura and finally arachnoid. The ligamentum flavum gives the characteristic resistance then loss of resistance.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (structure pierced after the interspinous ligament — ligamentum flavum, 2X), 2023 NEET-PG (layer punctured last during lumbar puncture — arachnoid mater)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_109",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "In an adult, lumbar puncture is performed below which vertebral level, and why?",
+    "options": [
+      "At any level, as the cord is mobile",
+      "Below T12, because the cord ends there",
+      "Below L5, because the dura ends at L4",
+      "Below L2, because the spinal cord ends at about L1–L2"
+    ],
+    "correct_index": 3,
+    "explanation": "The L3–L4 or L4–L5 interspace is used, identified from Tuffier's line between the iliac crests. In infants the cord ends lower, at about L3, so a lower interspace is chosen.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (lumbar puncture layers, 2X), 2018 AIIMS (identify the needle — lumbar puncture needle)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_110",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "Coagulopathy is regarded as which kind of contraindication to lumbar puncture?",
+    "options": [
+      "An indication",
+      "An absolute contraindication in all cases",
+      "Not a contraindication at all",
+      "A relative contraindication, depending on severity"
+    ],
+    "correct_index": 3,
+    "explanation": "Risk rises with the degree of derangement because of spinal or epidural haematoma. Raised intracranial pressure with a mass lesion, local sepsis and patient refusal are the absolute contraindications.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (coagulopathy is a relative contraindication for lumbar puncture)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_111",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "When four serial CSF samples are collected, the biochemistry sample should be",
+    "options": [
+      "Sent only for cell count",
+      "The first tube, always for culture",
+      "Discarded",
+      "Used for protein and glucose, with microbiology and cytology in separate tubes"
+    ],
+    "correct_index": 3,
+    "explanation": "Serial tubes also help distinguish a traumatic tap from subarachnoid haemorrhage: the red cell count falls across successive tubes in a traumatic tap but stays constant in true haemorrhage.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (four serial samples from lumbar puncture — biochemical tests for protein and glucose)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_112",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "Xylocaine intended for epidural use produces sudden profound hypotension with high sensory block and apnoea. The cause is",
+    "options": [
+      "Inadvertent subarachnoid injection",
+      "Local anaesthetic systemic toxicity",
+      "Anaphylaxis",
+      "Epidural haematoma"
+    ],
+    "correct_index": 0,
+    "explanation": "An epidural dose placed in the subarachnoid space produces a total spinal — rapid high block, bradycardia, hypotension and respiratory arrest. A test dose and incremental injection are the safeguards.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (xylocaine used for epidural anaesthesia with hypotension — penetration into subarachnoid space)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_113",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "Local anaesthetic systemic toxicity is characterised by",
+    "options": [
+      "Early CNS features followed by cardiovascular collapse, with bupivacaine the most cardiotoxic agent",
+      "Cardiovascular collapse before any CNS feature in all cases",
+      "Involvement of the respiratory system only",
+      "Renal failure as the first manifestation"
+    ],
+    "correct_index": 0,
+    "explanation": "Perioral tingling, tinnitus, metallic taste and agitation precede seizures, then arrhythmia and arrest. Bupivacaine binds cardiac sodium channels avidly, which is why levobupivacaine and ropivacaine were developed.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (local anaesthetic systemic toxicity affects mainly CVS and CNS)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_114",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "The immediate treatment of cardiovascular collapse from bupivacaine toxicity is",
+    "options": [
+      "A 20% intralipid bolus, with standard resuscitation and prolonged CPR",
+      "Adrenaline alone",
+      "Sodium bicarbonate alone",
+      "Methylene blue"
+    ],
+    "correct_index": 0,
+    "explanation": "Lipid emulsion creates a lipid sink that sequesters the drug. Resuscitation may need to continue for an hour or more, because recovery follows redistribution rather than metabolism.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (20% intralipid bolus for local anaesthetic systemic toxicity), 2023 NEET-PG (cardiovascular collapse with bupivacaine — intralipid, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_115",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "The maximum safe dose of lignocaine **with** adrenaline is approximately",
+    "options": [
+      "7 mg/kg",
+      "3 mg/kg",
+      "15 mg/kg",
+      "1 mg/kg"
+    ],
+    "correct_index": 0,
+    "explanation": "Without adrenaline it is about 3 to 4.5 mg/kg; vasoconstriction slows absorption and prolongs the block. Adrenaline-containing solutions are avoided in digits, the penis, the nose tip and the ear lobe by convention.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (local anaesthetic properties, 2X), 2024 INI-CET (local anaesthetic systemic toxicity)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_116",
+    "subject": "Anesthesia",
+    "sub_topic": "Local",
+    "stem": "EMLA cream can cause",
+    "options": [
+      "Methaemoglobinaemia, through the prilocaine metabolite o-toluidine",
+      "Malignant hyperthermia",
+      "Agranulocytosis",
+      "Hepatic failure"
+    ],
+    "correct_index": 0,
+    "explanation": "EMLA is a eutectic mixture of lignocaine and prilocaine. It is used before venepuncture in children and is applied for about an hour under occlusion. Methylene blue is the antidote for methaemoglobinaemia.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (EMLA has potential to cause methaemoglobinaemia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_117",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "Intravenous regional anaesthesia of the upper limb after inflating a tourniquet is called",
+    "options": [
+      "Bier's block",
+      "Brachial plexus block",
+      "Stellate ganglion block",
+      "Wrist block"
+    ],
+    "correct_index": 0,
+    "explanation": "Lignocaine is injected distal to a double tourniquet. **Bupivacaine must never be used**, and the cuff is kept inflated for at least 20 minutes, because early release floods the circulation with local anaesthetic.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (intravenous regional anaesthesia in upper limb after inflating BP cuff — Bier's block)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_118",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "For femoral artery catheterisation, local anaesthetic infiltrated just below the inguinal ligament risks blocking the",
+    "options": [
+      "Femoral nerve, which lies lateral to the artery",
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Lateral cutaneous nerve of the thigh only"
+    ],
+    "correct_index": 0,
+    "explanation": "The order from lateral to medial is nerve, artery, vein, then empty space and lymphatics — remembered as NAVEL. That anatomy also underlies the femoral nerve block for hip and femoral fractures.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (femoral artery catheterisation, local anaesthetic below inguinal ligament — femoral nerve)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_119",
+    "subject": "Anesthesia",
+    "sub_topic": "Regional",
+    "stem": "A patient with multiple rib fractures has inadequate pain relief with systemic analgesics. The next step is",
+    "options": [
+      "A thoracic epidural block",
+      "A higher opioid dose alone",
+      "Intercostal drainage",
+      "Mechanical ventilation"
+    ],
+    "correct_index": 0,
+    "explanation": "Good analgesia allows deep breathing and coughing, preventing atelectasis and pneumonia — the real threat in rib fractures. Paravertebral and serratus anterior plane blocks are alternatives.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (fracture of multiple ribs without pain relief from systemic analgesics — thoracic epidural block)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_120",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "ASA physical status class 3 describes a patient with",
+    "options": [
+      "Severe systemic disease that is not an immediate threat to life",
+      "Mild systemic disease",
+      "Severe disease that is a constant threat to life",
+      "No systemic disease"
+    ],
+    "correct_index": 0,
+    "explanation": "Class 4 is severe disease that is a constant threat to life, class 5 a moribund patient not expected to survive without the operation, and class 6 a brain-dead organ donor. \"E\" is appended for emergency surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ASA-3 class is severe illness)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_121",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "Clopidogrel should be stopped before elective surgery by",
+    "options": [
+      "7 days",
+      "24 hours",
+      "3 days",
+      "1 month"
+    ],
+    "correct_index": 0,
+    "explanation": "It irreversibly inhibits the P2Y12 receptor for the platelet's lifespan. Aspirin is often continued, and stopping dual therapy early after coronary stenting risks stent thrombosis, so cardiology advice is needed.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (clopidogrel should be stopped 7 days before surgery)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_122",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "In thrombocytopenia, the platelet count usually targeted before major surgery is",
+    "options": [
+      "50,000/mm³",
+      "20,000/mm³",
+      "150,000/mm³",
+      "10,000/mm³"
+    ],
+    "correct_index": 0,
+    "explanation": "Neurosurgery and ophthalmic surgery need about 100,000/mm³, and 10,000/mm³ is the threshold for prophylactic transfusion in a stable non-bleeding patient. Neuraxial block generally needs at least 75,000 to 80,000.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (platelet transfusion before surgery to achieve 50,000/mm³)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_123",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "The preoperative antibiotic of choice for cardiac surgery is",
+    "options": [
+      "Cefazolin",
+      "Metronidazole",
+      "Gentamicin",
+      "Ciprofloxacin"
+    ],
+    "correct_index": 0,
+    "explanation": "It covers skin flora, chiefly staphylococci. It is given within 60 minutes of incision and redosed for long procedures or major blood loss; vancomycin is substituted where MRSA is prevalent or there is beta-lactam allergy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (preop DOC for prophylaxis in cardiac surgery — cefazolin)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_124",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "A patient who had coronary artery bypass grafting 4 years ago is asymptomatic with good exercise tolerance before minor surgery. The appropriate workup is",
+    "options": [
+      "Routine investigations only",
+      "Coronary angiography",
+      "Stress echocardiography in all cases",
+      "Cancellation of surgery"
+    ],
+    "correct_index": 0,
+    "explanation": "Functional capacity above 4 metabolic equivalents with no symptoms predicts low perioperative risk, so further cardiac testing adds nothing and delays treatment. Testing is driven by symptoms and functional capacity, not by past history alone.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (preop investigation in patient who underwent CABG 4 years back — normal investigations are required)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_125",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "Risk factors for postoperative pulmonary complications include all EXCEPT",
+    "options": [
+      "Lower abdominal or limb surgery",
+      "A BMI above 30",
+      "Upper abdominal or thoracic surgery",
+      "Age above 70 with chronic lung disease"
+    ],
+    "correct_index": 0,
+    "explanation": "Risk rises as the incision approaches the diaphragm, because diaphragmatic splinting impairs coughing and lung expansion. Smoking, prolonged surgery and residual neuromuscular blockade add to it.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (pulmonary complications seen in BMI >30, upper abdominal surgery, age >70)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_126",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "A patient who had symptomatic COVID-19 and recovered at home without admission can have elective surgery after about",
+    "options": [
+      "7 weeks",
+      "1 week",
+      "6 months",
+      "24 hours"
+    ],
+    "correct_index": 0,
+    "explanation": "Operating within 7 weeks of infection carried excess mortality in large cohort studies; longer delays are advised after severe or critical illness. Recommendations have been revised as the clinical picture changed, so verify the current guidance.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET surgery (elective surgery after home-recovered symptomatic COVID — 6 weeks)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_127",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "Standard preoperative fasting guidance for an adult is",
+    "options": [
+      "2 hours for clear fluids, 6 hours for a light meal and 8 hours for a fatty meal",
+      "Nil by mouth from midnight in every case",
+      "1 hour for all intake",
+      "12 hours for all intake"
+    ],
+    "correct_index": 0,
+    "explanation": "Breast milk is allowed up to 4 hours and formula up to 6 hours in infants. Prolonged fasting causes dehydration, hypoglycaemia and discomfort without reducing aspiration risk.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (rapid sequence induction and full stomach), 2024 INI-CET (ASA classification)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_128",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "Which patient is at highest risk of aspiration and therefore needs rapid sequence induction?",
+    "options": [
+      "A woman in the third trimester of pregnancy presenting for emergency surgery",
+      "A fasted healthy adult for elective surgery",
+      "A patient having a regional block alone",
+      "A patient with controlled hypertension"
+    ],
+    "correct_index": 0,
+    "explanation": "Progesterone relaxes the lower oesophageal sphincter and the gravid uterus raises intragastric pressure. Trauma, bowel obstruction, diabetic gastroparesis, hiatus hernia and emergency surgery carry the same concern.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (rapid sequence induction), 2016 AIIMS (anaesthesia for placenta praevia with bleeding)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_129",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "The most important preoperative consideration in paediatric anaesthesia is that",
+    "options": [
+      "Drug doses, airway sizes and equipment are all calculated from the child's weight and age",
+      "Adult equipment can be used with care",
+      "Doses are fixed fractions of adult doses regardless of weight",
+      "Fasting rules are the same as for adults"
+    ],
+    "correct_index": 0,
+    "explanation": "Tube size is roughly (age ÷ 4) + 4 for an uncuffed tube. A child has a higher metabolic rate, lower functional residual capacity and a relatively large head and tongue, so desaturation is faster.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (true about paediatric anaesthesiology — drug dose and airway size calculated upon the child's age and weight)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_130",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "Equipment that must be checked and available before every anaesthetic includes",
+    "options": [
+      "Suction, oxygen supply, self-inflating bag, airway adjuncts and emergency drugs",
+      "A defibrillator only",
+      "A nerve stimulator only",
+      "An arterial line kit in all cases"
+    ],
+    "correct_index": 0,
+    "explanation": "A dedicated difficult-airway cart holds laryngoscopes of several sizes, supraglottic devices, bougies, a videolaryngoscope and front-of-neck access equipment, and its availability is checked before induction.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (image showing multiple laryngoscope handles on a cart — airway cart)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_131",
+    "subject": "Anesthesia",
+    "sub_topic": "Preop",
+    "stem": "A full-stomach emergency patient also has severe aortic stenosis. The principal haemodynamic goal is",
+    "options": [
+      "Maintain sinus rhythm, adequate preload and systemic vascular resistance, avoiding tachycardia and vasodilatation",
+      "Induce deliberate hypotension to reduce gradient",
+      "Maximise heart rate to improve output",
+      "Use a high-dose spinal block for rapid onset"
+    ],
+    "correct_index": 0,
+    "explanation": "The hypertrophied ventricle has a fixed stroke volume and depends on coronary perfusion pressure, so vasodilatation is poorly tolerated. A single-shot spinal is avoided for exactly that reason.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (induction agent in coronary artery disease — etomidate), 2017 AIIMS (RSI and haemodynamic instability)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_132",
+    "subject": "Anesthesia",
+    "sub_topic": "Opioids",
+    "stem": "Tramadol produces analgesia through",
+    "options": [
+      "Weak mu-opioid agonism plus inhibition of serotonin and noradrenaline reuptake",
+      "Pure mu-opioid agonism alone",
+      "COX-2 inhibition",
+      "NMDA antagonism"
+    ],
+    "correct_index": 0,
+    "explanation": "The monoaminergic action explains both its usefulness in neuropathic pain and its risks — serotonin syndrome with SSRIs and a lowered seizure threshold. It needs CYP2D6 activation, so poor metabolisers get little benefit.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (tramadol and its metabolites act by 5-HT and NE reuptake inhibition)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_133",
+    "subject": "Anesthesia",
+    "sub_topic": "Opioids",
+    "stem": "A patient on 3 mg of epidural morphine daily is given 12 mg by mistake. The most likely immediate consequence is",
+    "options": [
+      "Severe pruritus, with a risk of delayed respiratory depression",
+      "Immediate cardiac arrest",
+      "Hypertension and tachycardia",
+      "Seizures"
+    ],
+    "correct_index": 0,
+    "explanation": "Morphine is hydrophilic, so it spreads rostrally in CSF and can cause respiratory depression up to 24 hours later — the reason for prolonged monitoring. Pruritus is the commonest side effect and responds to low-dose naloxone.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (12 mg morphine given epidurally instead of 3 mg — severe itching)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_134",
+    "subject": "Anesthesia",
+    "sub_topic": "Opioids",
+    "stem": "The drug used to treat pruritus and respiratory depression from epidural opioids is",
+    "options": [
+      "Naloxone",
+      "Flumazenil",
+      "Neostigmine",
+      "Physostigmine"
+    ],
+    "correct_index": 0,
+    "explanation": "Low-dose infusion relieves pruritus while preserving analgesia; larger doses reverse respiratory depression but also the analgesia. Its half-life is shorter than morphine's, so repeated doses or an infusion may be needed.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (analgesia via epidural opioids — which drug should be given: naloxone)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_135",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "The commonest cause of unplanned admission after day-care surgery is",
+    "options": [
+      "Pain",
+      "Bleeding",
+      "Hypotension",
+      "Fever"
+    ],
+    "correct_index": 0,
+    "explanation": "Postoperative nausea and vomiting is the next commonest. Both are addressed by multimodal analgesia, regional blocks, minimal opioid use and prophylactic antiemetics in at-risk patients.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (MCC of admission after day care surgery — pain)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_136",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "Transcutaneous electrical nerve stimulation relieves pain by a mechanism based on",
+    "options": [
+      "The gate control theory, where large-fibre stimulation inhibits transmission of small-fibre nociceptive input",
+      "Direct opioid receptor binding",
+      "Peripheral sodium channel blockade",
+      "Prostaglandin inhibition"
+    ],
+    "correct_index": 0,
+    "explanation": "A-beta fibre activity closes the \"gate\" at the dorsal horn. Endogenous opioid release contributes at low-frequency settings, which is why naloxone partially reverses that mode.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (transcutaneous nerve stimulation mechanism based on gate control theory)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_137",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "The strongest risk factors for postoperative nausea and vomiting in the Apfel score are",
+    "options": [
+      "Female sex, non-smoking status, previous PONV or motion sickness, and postoperative opioid use",
+      "Male sex and smoking",
+      "Age above 70 and hypertension",
+      "Regional anaesthesia and short surgery"
+    ],
+    "correct_index": 0,
+    "explanation": "Each factor adds about 20% risk. Prophylaxis combines agents of different classes — ondansetron, dexamethasone, droperidol — and total intravenous anaesthesia with propofol lowers baseline risk.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (commonest cause of admission after day care surgery — pain), 2021 INI-CET (propofol antiemetic property)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_138",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "Multimodal analgesia is preferred after surgery because it",
+    "options": [
+      "Combines drugs with different mechanisms to improve analgesia while reducing opioid dose and side effects",
+      "Uses the maximum dose of a single opioid",
+      "Avoids all regional techniques",
+      "Relies on pethidine as the mainstay"
+    ],
+    "correct_index": 0,
+    "explanation": "Paracetamol, NSAIDs, regional blocks, ketamine, dexmedetomidine and gabapentinoids are combined. Pethidine is now avoided because its metabolite norpethidine is neurotoxic and accumulates in renal impairment.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (pain as commonest cause of day-care admission), 2020 INI-CET (TENS and gate control theory)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_139",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "Shivering after spinal anaesthesia is best treated with",
+    "options": [
+      "Active warming with low-dose pethidine or tramadol",
+      "Neostigmine",
+      "A beta blocker",
+      "Naloxone"
+    ],
+    "correct_index": 0,
+    "explanation": "Redistribution of heat from core to periphery after sympathetic block causes it. Shivering trebles oxygen consumption, which matters in cardiac and respiratory disease. Warmed fluids and forced-air warming prevent it.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (hypotension after spinal anaesthesia), 2015 AIIMS (core temperature measurement under anaesthesia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_140",
+    "subject": "Anesthesia",
+    "sub_topic": "Postop",
+    "stem": "Emergence delirium after ketamine is reduced by",
+    "options": [
+      "Co-administration of a benzodiazepine, with recovery in a quiet environment",
+      "Naloxone",
+      "Neostigmine",
+      "A higher ketamine dose"
+    ],
+    "correct_index": 0,
+    "explanation": "Midazolam blunts the dissociative emergence phenomena. They are commoner in adults than children and with larger, rapidly given doses, which is why ketamine is more freely used in paediatric sedation.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ketamine characteristics), 2016 AIIMS (ketamine for placenta praevia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_141",
+    "subject": "Anesthesia",
+    "sub_topic": "Access",
+    "stem": "Complications of central venous catheter insertion include all EXCEPT",
+    "options": [
+      "Refeeding syndrome",
+      "Pneumothorax",
+      "Catheter-related bloodstream infection",
+      "Arterial puncture and haematoma"
+    ],
+    "correct_index": 0,
+    "explanation": "Refeeding syndrome is a metabolic complication of **feeding** a malnourished patient, not of inserting the line through which feed is given. Air embolism, arrhythmia from guidewire irritation and thoracic duct injury are the others.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (complications of inserting central line — infection, refeeding syndrome, pneumothorax)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_142",
+    "subject": "Anesthesia",
+    "sub_topic": "Access",
+    "stem": "The complication specific to attempting venous access **below the left clavicle** is",
+    "options": [
+      "Chylothorax, from thoracic duct injury",
+      "Pneumothorax only",
+      "Carotid puncture",
+      "Phrenic nerve palsy"
+    ],
+    "correct_index": 0,
+    "explanation": "The thoracic duct enters the venous system at the junction of the left subclavian and internal jugular veins, so it is at risk only on the left. The right-sided approach is preferred partly for this reason.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (venous access below clavicle — specific complication can be chylothorax)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "anes_q_143",
+    "subject": "Anesthesia",
+    "sub_topic": "Access",
+    "stem": "For intravenous cannulation of a newborn, the appropriate equipment is",
+    "options": [
+      "A 24-gauge cannula, a 5 mL syringe with normal saline, and adhesive tape",
+      "An 18-gauge cannula with a 20 mL syringe",
+      "A 16-gauge cannula with heparinised saline",
+      "A central line in all cases"
+    ],
+    "correct_index": 0,
+    "explanation": "Small gauge suits small veins; a larger syringe generates pressures that rupture them. Transillumination helps, and the umbilical vein or intraosseous route is used when peripheral access fails in an emergency.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (IV cannulation in newborn — 24G cannula, adhesive patch, normal saline, 5 mL syringe), 2020 INI-CET (instruments for cannulation in a newborn)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_144",
+    "subject": "Anesthesia",
+    "sub_topic": "Access",
+    "stem": "The best confirmation of correct central venous catheter tip position after insertion is",
+    "options": [
+      "A chest radiograph showing the tip at the cavoatrial junction",
+      "Free aspiration of blood alone",
+      "Absence of pain",
+      "Easy flushing alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Too deep a tip risks arrhythmia and cardiac perforation. Pulsatile bright red blood or a transduced arterial trace signals arterial placement, in which case the catheter is left in place and vascular help sought.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (complications of central line insertion), 2018 AIIMS (central venous catheter does not measure cardiac output)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_145",
+    "subject": "Anesthesia",
+    "sub_topic": "Access",
+    "stem": "Ultrasound guidance for central venous access",
+    "options": [
+      "Reduces arterial puncture, pneumothorax and the number of attempts, and is now standard practice",
+      "Offers no advantage over landmarks",
+      "Is useful only for femoral access",
+      "Increases infection risk"
+    ],
+    "correct_index": 0,
+    "explanation": "Real-time visualisation of the needle tip is what delivers the benefit. Full barrier precautions with chlorhexidine skin preparation reduce catheter-related bloodstream infection independently.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (chylothorax from infraclavicular access), 2024 INI-CET (central line complications)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_146",
+    "subject": "Anesthesia",
+    "sub_topic": "Complications",
+    "stem": "Postoperative hypoxia in the recovery room is most commonly caused by",
+    "options": [
+      "Atelectasis with hypoventilation, including residual anaesthetic and neuromuscular blockade",
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Pneumonia"
+    ],
+    "correct_index": 0,
+    "explanation": "Diffusion hypoxia, airway obstruction, laryngospasm, opioid-induced hypoventilation and shivering add to it. Oxygen, airway support and reversal of residual block are the first measures.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (diffusion hypoxia after nitrous oxide), 2020 INI-CET (postoperative pulmonary complications)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_147",
+    "subject": "Anesthesia",
+    "sub_topic": "Complications",
+    "stem": "Laryngospasm on emergence from anaesthesia is managed by",
+    "options": [
+      "100% oxygen with continuous positive airway pressure and jaw thrust, then propofol or a small dose of suxamethonium if it persists",
+      "Immediate tracheostomy",
+      "Deepening with a volatile agent by mask alone",
+      "Observation until it resolves"
+    ],
+    "correct_index": 0,
+    "explanation": "Removing the stimulus and applying CPAP breaks most episodes. Persistent spasm causes negative-pressure pulmonary oedema and hypoxia, so it must be broken quickly rather than waited out.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (desflurane airway irritation), 2017 AIIMS (next step if patient pulls out the ET tube)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "anes_q_148",
+    "subject": "Anesthesia",
+    "sub_topic": "Complications",
+    "stem": "Intraoperative anaphylaxis is managed first with",
+    "options": [
+      "Stopping the trigger and giving intramuscular or intravenous adrenaline with fluids and oxygen",
+      "Hydrocortisone alone",
+      "An antihistamine alone",
+      "Noradrenaline infusion as the first drug"
+    ],
+    "correct_index": 0,
+    "explanation": "Adrenaline is the only intervention that addresses both the vasodilatation and the bronchospasm. Steroids and antihistamines are adjuncts; mast cell tryptase is sampled and the patient referred for later skin testing.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (allergic reaction in immediate perioperative period due to neuromuscular block)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  }
+]

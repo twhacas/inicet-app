@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "fmt_q_1",
+    "questionNumber": 1,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A man presents with severe metabolic acidosis, hypocalcaemia, acute kidney injury and calcium oxalate crystals in the urine. The preferred antidote is",
+    "options": [
+      "N-acetylcysteine",
+      "Fomepizole, with sodium bicarbonate and calcium",
+      "Methylene blue",
+      "Physostigmine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is ethylene glycol poisoning. Fomepizole inhibits alcohol dehydrogenase and prevents the formation of glycolate and oxalate; ethanol does the same but is harder to titrate. Haemodialysis removes both the parent alcohol and its metabolites.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (ethylene glycol case — 6X), 2024 INI-CET (calcium oxalate crystals case)",
+    "repeats": 6,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (ethylene glycol case — 6X), 2024 INI-CET (calcium oxalate crystals case)"
+    }
+  },
+  {
+    "id": "fmt_q_2",
+    "questionNumber": 2,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "The anion-gap metabolic acidosis of methanol poisoning, with visual loss, is caused by",
+    "options": [
+      "Methanol itself",
+      "Formic acid, which inhibits cytochrome oxidase in the optic nerve",
+      "Oxalic acid",
+      "Acetone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Methanol is oxidised to formaldehyde and then formate. Lactate also accumulates. Treatment is fomepizole or ethanol, bicarbonate, folinic acid and haemodialysis. Oxalic acid is the ethylene glycol metabolite.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2020 NEET-PG (metabolites of methyl alcohol — formic and lactic acid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 NEET-PG / 2020 NEET-PG (metabolites of methyl alcohol — formic and lactic acid)"
+    }
+  },
+  {
+    "id": "fmt_q_3",
+    "questionNumber": 3,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A farmer brought 14 hours after ingesting an insecticide has pinpoint pupils, bronchorrhoea and a kerosene-like smell on the breath. The step that should NOT be done is",
+    "options": [
+      "Atropine titrated to drying of secretions",
+      "Gastric lavage",
+      "Oxygen and airway protection",
+      "Pralidoxime"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Lavage has no value beyond about 1 hour and risks aspiration of the hydrocarbon solvent, which causes chemical pneumonitis. Organophosphates inhibit acetylcholinesterase irreversibly by phosphorylation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (do not do gastric lavage after 12 hours), 2022 INI-CET (mechanism of OP compounds)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (do not do gastric lavage after 12 hours), 2022 INI-CET (mechanism of OP compounds)"
+    }
+  },
+  {
+    "id": "fmt_q_4",
+    "questionNumber": 4,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Oximes such as pralidoxime are most effective when given early in organophosphate poisoning because, with time, the enzyme undergoes",
+    "options": [
+      "Competitive displacement",
+      "Denaturation by acid",
+      "Ageing, the loss of an alkyl group that makes the bond irreversible",
+      "Renal excretion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Once aged, the phosphorylated enzyme cannot be reactivated and recovery depends on new enzyme synthesis. Ageing is fast with some agents and slow with others, which is why oximes are given as early as possible.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (irreversible inhibition), 2021 INI-CET (OP compounds are irreversible inhibitors)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (irreversible inhibition), 2021 INI-CET (OP compounds are irreversible inhibitors)"
+    }
+  },
+  {
+    "id": "fmt_q_5",
+    "questionNumber": 5,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which triad of features best fits acute organophosphate poisoning?",
+    "options": [
+      "Mydriasis, dry skin, tachycardia",
+      "Miosis, bradycardia, excessive secretions",
+      "Miosis, tachycardia, dry mouth",
+      "Mydriasis, bradycardia, hypersalivation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Muscarinic effects are remembered as DUMBBELS: Diarrhoea, Urination, Miosis, Bronchorrhoea, Bradycardia, Emesis, Lacrimation, Salivation. Nicotinic effects add fasciculations and weakness, and central effects add confusion and seizures.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (OP poisoning features), 2021 INI-CET (salivation, diarrhoea, watery eyes — atropine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (OP poisoning features), 2021 INI-CET (salivation, diarrhoea, watery eyes — atropine)"
+    }
+  },
+  {
+    "id": "fmt_q_6",
+    "questionNumber": 6,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Pinpoint pupils are MOST characteristic of poisoning with",
+    "options": [
+      "Amphetamine",
+      "Datura",
+      "Cocaine",
+      "Opioids"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Opioids classically give the triad of pinpoint pupils, respiratory depression and coma, reversed by naloxone. Organophosphates also cause miosis but with the full muscarinic picture. Datura, cocaine and amphetamine all cause mydriasis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (pinpoint pupils — opioid > OP), 2023 INI-CET (morphine respiratory depression — naloxone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (pinpoint pupils — opioid > OP), 2023 INI-CET (morphine respiratory depression — naloxone)"
+    }
+  },
+  {
+    "id": "fmt_q_7",
+    "questionNumber": 7,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A man eating wild berries develops dry hot skin, dilated pupils, urinary retention, delirium and hyperthermia. The plant and antidote are",
+    "options": [
+      "Datura stramonium; physostigmine",
+      "Nerium odorum; atropine",
+      "Abrus precatorius; pralidoxime",
+      "Cannabis; naloxone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Datura contains hyoscine, hyoscyamine and atropine. The picture is remembered as \"hot as a hare, dry as a bone, red as a beet, blind as a bat, mad as a hatter\". Most cases need only supportive care and sedation.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (consumed fruit, dry mouth, dilated pupils — Datura with physostigmine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 NEET-PG (consumed fruit, dry mouth, dilated pupils — Datura with physostigmine)"
+    }
+  },
+  {
+    "id": "fmt_q_8",
+    "questionNumber": 8,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each plant with its toxic principle or characteristic effect.\n\n| Plant | Toxic principle or effect |\n|---|---|\n| 1. Abrus precatorius | a. Aconitine, causing arrhythmia and atrioventricular block |\n| 2. Aconitum napellus | b. Bhilawanol, a vesicant |\n| 3. Semecarpus anacardium (marking nut) | c. Sanguinarine, causing epidemic dropsy |\n| 4. Argemone mexicana | d. Abrin, a toxalbumin used in cattle poisoning |",
+    "options": [
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*Abrus* seeds (\"gunja\") are made into needles called sui. *Argemone* has yellow flowers and prickly seed capsules, and its oil adulterates mustard oil, causing epidemic dropsy with pitting oedema and glaucoma.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (match — Abrus gunja, 3X), 2022 INI-CET (aconite — AV block), 2021 NEET-PG (marking nut — bhilawanol), 2021 INI-CET (yellow flowers, prickly capsules — Argemone)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (match — Abrus gunja, 3X), 2022 INI-CET (aconite — AV block), 2021 NEET-PG (marking nut — bhilawanol), 2021 INI-CET (yellow flowers, prickly capsules — Argemone)"
+    }
+  },
+  {
+    "id": "fmt_q_9",
+    "questionNumber": 9,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Ingestion of unknown seeds causes vomiting followed by ascending paralysis and death from respiratory muscle paralysis, with a clear mind until the end. The plant is",
+    "options": [
+      "Oleander",
+      "Nux vomica",
+      "Conium maculatum",
+      "Castor"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Hemlock contains coniine, a nicotinic blocker producing an ascending flaccid paralysis with preserved consciousness. This is the classical \"Socrates poison\". Treatment is supportive, with ventilation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (ascending paralysis after seeds — Conium, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (ascending paralysis after seeds — Conium, 4X)"
+    }
+  },
+  {
+    "id": "fmt_q_10",
+    "questionNumber": 10,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A patient has repeated generalised convulsions with opisthotonos and risus sardonicus, but remains conscious between the episodes. The poison is",
+    "options": [
+      "Barbiturate",
+      "Organophosphate",
+      "Opioid",
+      "Strychnine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Strychnine (from *Nux vomica*) blocks spinal glycine receptors, so spasms are triggered by stimuli while consciousness is preserved. This mirrors tetanus, where toxin prevents glycine release. Management is darkness, quiet and benzodiazepines or neuromuscular blockade.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (seizures with conscious intervals and arching of back — strychnine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 NEET-PG (seizures with conscious intervals and arching of back — strychnine)"
+    }
+  },
+  {
+    "id": "fmt_q_11",
+    "questionNumber": 11,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Cardiac glycoside poisoning from oleander ingestion characteristically causes",
+    "options": [
+      "Hyperkalaemia with bradyarrhythmia and heart block",
+      "Hypokalaemia with tachycardia",
+      "Pure respiratory depression",
+      "Isolated hyperthermia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Yellow oleander (*Thevetia*) seeds are a common means of self-poisoning in South India. Inhibition of Na⁺/K⁺ ATPase raises serum potassium. Digoxin-specific antibody fragments are effective, and calcium is traditionally avoided.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (aconite — AV block), plant poison cluster 2014–2024",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (aconite — AV block), plant poison cluster 2014–2024"
+    }
+  },
+  {
+    "id": "fmt_q_12",
+    "questionNumber": 12,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Methylene blue is the antidote for poisoning that produces",
+    "options": [
+      "Carboxyhaemoglobinaemia",
+      "Methaemoglobinaemia, as from nitrites and aniline dyes",
+      "Cyanide poisoning",
+      "Opioid overdose"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Methylene blue acts through NADPH methaemoglobin reductase to reduce Fe³⁺ back to Fe²⁺. It is avoided in G6PD deficiency, where it can cause haemolysis; ascorbic acid or exchange transfusion is used instead. The blood is chocolate-brown and saturation does not improve with oxygen.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (methylene blue — antidote for nitrites)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET (methylene blue — antidote for nitrites)"
+    }
+  },
+  {
+    "id": "fmt_q_13",
+    "questionNumber": 13,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "In cyanide poisoning, sodium thiosulfate works by",
+    "options": [
+      "Forming methaemoglobin",
+      "Providing sulphur for rhodanese to convert cyanide to thiocyanate",
+      "Chelating iron",
+      "Binding cyanide directly in plasma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Nitrites form methaemoglobin, which pulls cyanide off cytochrome oxidase; thiosulfate then allows its excretion. Hydroxocobalamin binds cyanide directly and is preferred in smoke inhalation, where methaemoglobin formation would be harmful.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cyanide antidotes — amyl nitrite, sodium nitrite, thiosulfate), 2024 INI-CET (cytochrome oxidase inhibited by cyanide, H₂S, CO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET (cyanide antidotes — amyl nitrite, sodium nitrite, thiosulfate), 2024 INI-CET (cytochrome oxidase inhibited by cyanide, H₂S, CO)"
+    }
+  },
+  {
+    "id": "fmt_q_14",
+    "questionNumber": 14,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A person rescued from a house fire has a normal arterial PO₂ but a saturation gap and lactic acidosis. The pulse oximeter reads 98%. The explanation is",
+    "options": [
+      "Pure smoke irritation",
+      "Methaemoglobinaemia only",
+      "Carbon monoxide poisoning, because carboxyhaemoglobin is misread as oxyhaemoglobin",
+      "Anaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Diagnosis needs co-oximetry. CO binds haemoglobin with about 240 times the affinity of oxygen and also shifts the dissociation curve left. Treatment is high-flow or hyperbaric oxygen. Cherry-red discoloration is a classical but unreliable post-mortem sign.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cytochrome oxidase inhibitors include CO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET (cytochrome oxidase inhibitors include CO)"
+    }
+  },
+  {
+    "id": "fmt_q_15",
+    "questionNumber": 15,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each poison with its specific antidote.\n\n| Poison | Antidote |\n|---|---|\n| 1. Paracetamol | a. Desferrioxamine |\n| 2. Iron | b. Vitamin K and prothrombin complex |\n| 3. Warfarin-type rodenticide | c. N-acetylcysteine |\n| 4. Methotrexate | d. Folinic acid (leucovorin) |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "N-acetylcysteine replenishes glutathione and detoxifies NAPQI; it is most effective within 8 hours. Dimercaprol is contraindicated in iron poisoning because the complex it forms is itself toxic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — paracetamol, nicotine, morphine, HCN), 2023 NEET-PG (desferrioxamine; BAL contraindicated in iron)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (match — paracetamol, nicotine, morphine, HCN), 2023 NEET-PG (desferrioxamine; BAL contraindicated in iron)"
+    }
+  },
+  {
+    "id": "fmt_q_16",
+    "questionNumber": 16,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which chelating agent is used for acute inorganic arsenic poisoning?",
+    "options": [
+      "Dimercaprol (BAL) or DMSA",
+      "Calcium disodium EDTA alone",
+      "Desferrioxamine",
+      "Penicillamine alone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dimercaprol supplies sulfhydryl groups that compete with tissue enzymes for the metal. EDTA is used mainly for lead, and desferrioxamine for iron. Penicillamine is used for copper in Wilson disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (acute arsenic poisoning — dimercaprol), 2024 INI-CET / 2018 NEET-PG (chelating agents — BAL, EDTA, desferrioxamine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET (acute arsenic poisoning — dimercaprol), 2024 INI-CET / 2018 NEET-PG (chelating agents — BAL, EDTA, desferrioxamine)"
+    }
+  },
+  {
+    "id": "fmt_q_17",
+    "questionNumber": 17,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Chronic arsenic poisoning is characterised by all of the following EXCEPT",
+    "options": [
+      "Transverse white bands on the nails",
+      "Rain-drop pigmentation with hyperkeratosis",
+      "Mixed sensorimotor peripheral neuropathy",
+      "A blue line along the gums"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Burton's line on the gums is a feature of chronic lead poisoning. Arsenic gives Aldrich–Mees lines on the nails, rain-drop pigmentation, palmoplantar hyperkeratosis, neuropathy and marrow suppression. Hair and nails are used for analysis, and arsenic can be detected in exhumed bodies.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2022 INI-CET / 2014 AIIMS (chronic arsenic features, 2X), 2023 NEET-PG (Aldrich–Mees lines and rain-drop pigmentation), 2021 NEET-PG (detected in exhumed bodies)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET / 2022 INI-CET / 2014 AIIMS (chronic arsenic features, 2X), 2023 NEET-PG (Aldrich–Mees lines and rain-drop pigmentation), 2021 NEET-PG (detected in exhumed bodies)"
+    }
+  },
+  {
+    "id": "fmt_q_18",
+    "questionNumber": 18,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "In chronic inorganic lead poisoning in an industrial worker, the commonest route of absorption is",
+    "options": [
+      "Transdermal",
+      "Inhalation of fumes and dust",
+      "Ingestion only",
+      "Conjunctival"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Organic lead (tetraethyl lead) is absorbed through skin. Lead inhibits ALA dehydratase and ferrochelatase, giving microcytic anaemia with basophilic stippling and raised urinary coproporphyrin, plus wrist drop and colic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (commonest route for inorganic lead — inhalational)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (commonest route for inorganic lead — inhalational)"
+    }
+  },
+  {
+    "id": "fmt_q_19",
+    "questionNumber": 19,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Blue-black discoloration of the gastric mucosa at autopsy suggests poisoning with",
+    "options": [
+      "Nitric acid",
+      "Copper sulphate",
+      "A barbiturate preparation containing a blue dye",
+      "Carbolic acid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Amylobarbitone capsules contain a blue colouring agent. Useful autopsy colour clues: copper sulphate gives a blue-green stomach, nitric acid yellow, sulphuric acid blackened and charred, and carbolic acid a greyish-white leathery mucosa.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (bluish stomach — amytal, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (bluish stomach — amytal, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_20",
+    "questionNumber": 20,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "\"Blind staggers\" or alkali disease in livestock is caused by",
+    "options": [
+      "Manganese",
+      "Thallium",
+      "Cadmium",
+      "Selenium"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Selenium toxicity gives a garlicky breath, hair and nail loss and neurological signs. Thallium is the classic cause of alopecia with painful neuropathy, and cadmium causes itai-itai disease with osteomalacia.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (blind staggers — selenium)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (blind staggers — selenium)"
+    }
+  },
+  {
+    "id": "fmt_q_21",
+    "questionNumber": 21,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A patient has hypertension, tachycardia, mydriasis, agitation and a perforated nasal septum. The substance is",
+    "options": [
+      "Cocaine",
+      "Heroin",
+      "Cannabis",
+      "Barbiturate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cocaine blocks catecholamine reuptake, causing a sympathomimetic state with a risk of myocardial infarction, stroke and aortic dissection. Chronic snorting causes septal perforation. Pure β blockers are traditionally avoided; benzodiazepines are first-line.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (poisoning with predominant hypertension — cocaine), 2021 INI-CET (not a feature — constricted pupil and bradycardia), 2022 NEET-PG (cocaine overdose case)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET (poisoning with predominant hypertension — cocaine), 2021 INI-CET (not a feature — constricted pupil and bradycardia), 2022 NEET-PG (cocaine overdose case)"
+    }
+  },
+  {
+    "id": "fmt_q_22",
+    "questionNumber": 22,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Formication, the tactile hallucination of insects crawling under the skin, is characteristic of",
+    "options": [
+      "Opioid withdrawal",
+      "Chronic cocaine use (Magnan's symptom)",
+      "Cannabis intoxication",
+      "Lead poisoning"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Patients may excoriate the skin trying to remove the imagined insects. Cocaine is obtained from the leaves of *Erythroxylum coca*. The street name \"white lady\" appears in older question banks.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (formication), 2022 NEET-PG (Magnan's symptom — cocaine), 2024 INI-CET (cocaine from Erythroxylum coca)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (formication), 2022 NEET-PG (Magnan's symptom — cocaine), 2024 INI-CET (cocaine from Erythroxylum coca)"
+    }
+  },
+  {
+    "id": "fmt_q_23",
+    "questionNumber": 23,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A person who stopped drinking alcohol 3 days ago is disoriented with visual hallucinations, tremor and autonomic overactivity. The condition and first-line treatment are",
+    "options": [
+      "Alcoholic hallucinosis; antipsychotics only",
+      "Wernicke encephalopathy; glucose first",
+      "Delirium tremens; benzodiazepines with thiamine",
+      "Korsakoff psychosis; no treatment"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Delirium tremens typically begins 48–96 hours after the last drink and carries appreciable mortality. Thiamine must precede glucose. Korsakoff psychosis is the chronic amnestic state with confabulation and polyneuropathy.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (abstained 3 days — delirium tremens), 2022 INI-CET (Korsakoff features), 2020 INI-CET (match — de-addiction drugs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 NEET-PG (abstained 3 days — delirium tremens), 2022 INI-CET (Korsakoff features), 2020 INI-CET (match — de-addiction drugs)"
+    }
+  },
+  {
+    "id": "fmt_q_24",
+    "questionNumber": 24,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A driver smells of alcohol and has red conjunctivae, but his gait, speech and coordination are all normal. The correct medico-legal opinion is",
+    "options": [
+      "No opinion can be given without a blood level",
+      "He is drunk and incapable of taking care of himself",
+      "He is not under the influence of alcohol at all",
+      "He has consumed alcohol but is not under its influence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The examining doctor reports clinical findings and may state only whether the person is under the influence to the extent of being unable to take proper care of himself. The legal limit (30 mg/100 mL in India) is decided on the blood or breath level, not on the clinical opinion alone.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (red conjunctiva, stable walking, normal motor function)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (red conjunctiva, stable walking, normal motor function)"
+    }
+  },
+  {
+    "id": "fmt_q_25",
+    "questionNumber": 25,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Blood for alcohol estimation in a medico-legal case must be collected using a skin preparation of",
+    "options": [
+      "Ethyl alcohol",
+      "Isopropyl alcohol",
+      "Aqueous mercuric chloride or soap and water",
+      "Tincture iodine in spirit"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Any alcohol-based antiseptic may contaminate the sample and invalidate the result. The sample is collected with sodium fluoride as preservative (to stop fermentation) and potassium oxalate as anticoagulant.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (alcohol examination opinion), 2022 NEET-PG (viscera preservation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (alcohol examination opinion), 2022 NEET-PG (viscera preservation)"
+    }
+  },
+  {
+    "id": "fmt_q_26",
+    "questionNumber": 26,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "For routine toxicological analysis, viscera are preserved in",
+    "options": [
+      "Saturated salt solution for most organs, with rectified spirit as an alternative",
+      "10% formalin",
+      "Bouin solution",
+      "Absolute alcohol only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Formalin is never used, because it destroys many poisons and interferes with analysis. Rectified spirit must not be used when alcohol, paraldehyde, acetic acid or phosphorus is suspected; saturated salt solution is used instead.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (viscera stored in rectified spirit)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (viscera stored in rectified spirit)"
+    }
+  },
+  {
+    "id": "fmt_q_27",
+    "questionNumber": 27,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A snake-bite victim is drowsy with local pain, swelling and bleeding from the bite site and gums. The snake is most likely",
+    "options": [
+      "A krait",
+      "A viper",
+      "A cobra",
+      "A sea snake"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Viper venom is vasculotoxic, causing local necrosis and consumption coagulopathy with a prolonged 20-minute whole blood clotting time. Cobra and krait venoms are neurotoxic with minimal local signs; krait bites are typically painless and present with early-morning paralysis.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (drowsy with bleeding at site — viper), 2024 INI-CET / 2015 AIIMS (neostigmine in krait bite — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 NEET-PG (drowsy with bleeding at site — viper), 2024 INI-CET / 2015 AIIMS (neostigmine in krait bite — false)"
+    }
+  },
+  {
+    "id": "fmt_q_28",
+    "questionNumber": 28,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "In snake-bite first aid, the RIGHT approach excludes",
+    "options": [
+      "Reassurance",
+      "Immobilisation of the limb",
+      "Incision and suction at the bite site",
+      "Getting the patient to hospital"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Incision, suction, tourniquets, ice and electrical treatment all cause harm. \"RIGHT\" stands for Reassure, Immobilise, Get to hospital, Tell the doctor of evolving symptoms. Antivenom is given for systemic envenomation, with adrenaline ready for reactions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (RIGHT approach does not include incision)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (RIGHT approach does not include incision)"
+    }
+  },
+  {
+    "id": "fmt_q_29",
+    "questionNumber": 29,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A child stung on the foot develops hypertension, tachycardia, cool peripheries, priapism and pulmonary oedema. The drug of choice is",
+    "options": [
+      "Adrenaline",
+      "Atropine",
+      "Prazosin",
+      "Propranolol"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Indian red scorpion venom causes a massive catecholamine surge. The α1 blocker prazosin reduces afterload and is the standard treatment, with scorpion antivenom where available. Priapism is a characteristic sign.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (bite with hypertension, priapism, cold peripheries — prazosin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (bite with hypertension, priapism, cold peripheries — prazosin)"
+    }
+  },
+  {
+    "id": "fmt_q_30",
+    "questionNumber": 30,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Alkalinisation of urine with sodium bicarbonate is used to enhance elimination of",
+    "options": [
+      "Morphine",
+      "Amphetamine",
+      "Quinine",
+      "Salicylates and phenobarbitone"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both are weak acids, so alkaline urine ionises them and traps them in the tubule. Bicarbonate in salicylate poisoning also corrects acidosis and reduces CNS entry. Salicylate overdose classically gives a mixed respiratory alkalosis and metabolic acidosis with tinnitus and hyperpyrexia.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (alkalinisation helps excretion of salicylates), 2023 NEET-PG / 2020 NEET-PG (bicarbonate in aspirin poisoning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET (alkalinisation helps excretion of salicylates), 2023 NEET-PG / 2020 NEET-PG (bicarbonate in aspirin poisoning)"
+    }
+  },
+  {
+    "id": "fmt_q_31",
+    "questionNumber": 31,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which poison is NOT effectively removed by haemodialysis?",
+    "options": [
+      "Methanol",
+      "Lithium",
+      "Salicylate",
+      "Organophosphate"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Dialysis works for small, water-soluble, poorly protein-bound molecules with a low volume of distribution (\"SLIME\": Salicylate, Lithium, Isopropanol, Methanol, Ethylene glycol). Organophosphates are lipid-soluble with a large volume of distribution.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (haemodialysis in lithium overdose), 2024 INI-CET (ethylene glycol management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2021 NEET-PG (haemodialysis in lithium overdose), 2024 INI-CET (ethylene glycol management)"
+    }
+  },
+  {
+    "id": "fmt_q_32",
+    "questionNumber": 32,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Activated charcoal is of LITTLE value in poisoning with",
+    "options": [
+      "Carbamazepine",
+      "Iron, lithium and strong acids or alkalis",
+      "Theophylline",
+      "Dapsone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Charcoal does not adsorb metals, ions, alcohols or corrosives, and it obscures endoscopic views after corrosive ingestion. Multiple-dose charcoal is useful for drugs with enterohepatic recycling, such as carbamazepine, dapsone, theophylline and phenobarbitone.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gastric lavage contraindications), 2023 NEET-PG (decontamination in poisoning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET (gastric lavage contraindications), 2023 NEET-PG (decontamination in poisoning)"
+    }
+  },
+  {
+    "id": "fmt_q_33",
+    "questionNumber": 33,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Gastric lavage is absolutely contraindicated after ingestion of",
+    "options": [
+      "Barbiturates",
+      "A corrosive acid",
+      "Organophosphate within 1 hour",
+      "Aspirin"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Passing a tube through a chemically burned oesophagus risks perforation. Lavage is also avoided after hydrocarbon ingestion (aspiration risk) and in an unprotected airway or convulsing patient. Neutralising agents and emetics are not used in corrosive poisoning.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (gastric lavage not to be done)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (gastric lavage not to be done)"
+    }
+  },
+  {
+    "id": "fmt_q_34",
+    "questionNumber": 34,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "The commonest cause of death in acute corrosive acid poisoning in the first few hours is",
+    "options": [
+      "Circulatory collapse and asphyxia from glottic oedema",
+      "Renal failure",
+      "Oesophageal stricture",
+      "Liver failure"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Strictures are a late complication, appearing weeks later. Acids cause coagulative necrosis with a well-demarcated eschar, whereas alkalis cause liquefactive necrosis that penetrates deeper.",
+    "tag": "INI-CET",
+    "exam": "2019 toxicology cluster; corrosive poisoning features in 2014 AIIMS stomach-colour questions",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2019 toxicology cluster; corrosive poisoning features in 2014 AIIMS stomach-colour questions"
+    }
+  },
+  {
+    "id": "fmt_q_35",
+    "questionNumber": 35,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Carbolic acid (phenol) poisoning characteristically produces",
+    "options": [
+      "Bright red urine",
+      "Dark green or olive-coloured urine (carboluria) with a leathery white oral mucosa",
+      "Yellow staining of skin",
+      "Blue-green vomitus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Phenol is both corrosive and systemically toxic, causing CNS depression and renal failure. It has a characteristic antiseptic smell at autopsy. Copper sulphate causes blue-green vomitus.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS stomach discoloration cluster, 2023 INI-CET (autopsy appearances)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2014 AIIMS stomach discoloration cluster, 2023 INI-CET (autopsy appearances)"
+    }
+  },
+  {
+    "id": "fmt_q_36",
+    "questionNumber": 36,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each substance of abuse with a characteristic feature.\n\n| Substance | Feature |\n|---|---|\n| 1. Cannabis | a. Run amok, and the most widely used illegal drug worldwide |\n| 2. LSD | b. Formication and septal perforation |\n| 3. Cocaine | c. Flashbacks and synaesthesia |\n| 4. Opium | d. Historically transported by the East India Company from India to China |",
+    "options": [
+      "1-a, 2-b, 3-c, 4-d",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cannabis preparations are bhang, ganja and charas, in increasing potency. LSD's street name in older banks is \"purple heart\". Opium is obtained from the unripe capsule of *Papaver somniferum*.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (match — cocaine white lady, LSD purple heart, 3X), 2022 NEET-PG (most widely used illegal drug — cannabis), 2023 INI-CET (East India Company — opium)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (match — cocaine white lady, LSD purple heart, 3X), 2022 NEET-PG (most widely used illegal drug — cannabis), 2023 INI-CET (East India Company — opium)"
+    }
+  },
+  {
+    "id": "fmt_q_37",
+    "questionNumber": 37,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Buprenorphine is used for maintenance in opioid dependence rather than methadone in many Indian settings because it",
+    "options": [
+      "Is given intravenously only",
+      "Is a pure antagonist",
+      "Has no abuse potential at all",
+      "Is a partial µ agonist with a ceiling effect on respiratory depression"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The ceiling effect makes overdose less likely. It is often combined with naloxone to deter injection, since oral naloxone is inactive. Naltrexone, a pure antagonist, is used after detoxification to prevent relapse.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (maintenance in opioid abuse — buprenorphine), 2023 INI-CET (naloxone for respiratory depression)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 NEET-PG (maintenance in opioid abuse — buprenorphine), 2023 INI-CET (naloxone for respiratory depression)"
+    }
+  },
+  {
+    "id": "fmt_q_38",
+    "questionNumber": 38,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which feature distinguishes opioid withdrawal from opioid overdose?",
+    "options": [
+      "Mydriasis, lacrimation, yawning, diarrhoea and piloerection",
+      "Pinpoint pupils",
+      "Respiratory depression",
+      "Coma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Withdrawal is intensely unpleasant but rarely life-threatening in adults, unlike alcohol or benzodiazepine withdrawal. Overdose gives the opposite pupillary sign and needs naloxone, which may precipitate acute withdrawal in a dependent person.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (pinpoint pupils in opioid poisoning), 2023 NEET-PG (opioid maintenance)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2023 INI-CET (pinpoint pupils in opioid poisoning), 2023 NEET-PG (opioid maintenance)"
+    }
+  },
+  {
+    "id": "fmt_q_39",
+    "questionNumber": 39,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each occupational or environmental poison with its classic feature.\n\n| Poison | Feature |\n|---|---|\n| 1. Mercury (chronic) | a. Garlic odour of breath with vomiting and \"rice water\" stools |\n| 2. Arsenic (acute) | b. Erethism, intention tremor and gingivitis |\n| 3. Lead | c. Burton's line and wrist drop |\n| 4. Thallium | d. Alopecia with painful peripheral neuropathy |",
+    "options": [
+      "1-a, 2-b, 3-c, 4-d",
+      "1-b, 2-a, 3-c, 4-d",
+      "1-b, 2-c, 3-a, 4-d",
+      "1-b, 2-a, 3-d, 4-c"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Erethism is the triad of excessive shyness, irritability and emotional lability, seen in hat-makers exposed to mercury. Acute arsenic poisoning mimics cholera and may be mistaken for gastroenteritis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (chronic arsenic skin changes), 2022 INI-CET (lead route), 2021 INI-CET (acute arsenic — dimercaprol)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (chronic arsenic skin changes), 2022 INI-CET (lead route), 2021 INI-CET (acute arsenic — dimercaprol)"
+    }
+  },
+  {
+    "id": "fmt_q_40",
+    "questionNumber": 40,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "In India, the statute that governs the handling of narcotic drugs and psychotropic substances is the",
+    "options": [
+      "Poisons Act, 1919",
+      "Drugs and Cosmetics Act, 1940",
+      "NDPS Act, 1985",
+      "Epidemic Diseases Act, 1897"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It covers cultivation, manufacture, possession, sale and transport, with a provision for treating addicts who come forward voluntarily (immunity from prosecution). Schedule X drugs under the Drugs and Cosmetics Act require separate record-keeping by the prescriber and chemist.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (McNaughten rule and statutory provisions), 2021 INI-CET pharmacology (Schedule X — ketamine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (McNaughten rule and statutory provisions), 2021 INI-CET pharmacology (Schedule X — ketamine)"
+    }
+  },
+  {
+    "id": "fmt_q_41",
+    "questionNumber": 41,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "The McNaughten rule, which forms the basis of the insanity defence, corresponds in the Indian Penal Code to",
+    "options": [
+      "Section 376",
+      "Section 304A",
+      "Section 320",
+      "Section 84"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It exempts a person who, at the time of the act, was incapable of knowing its nature or that it was wrong or contrary to law. The corresponding provision in the Bharatiya Nyaya Sanhita is section 22. Durham and Currens rules are American alternatives.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (McNaughten rule — section 84 IPC), 2021 INI-CET (Durham and Currens rules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (McNaughten rule — section 84 IPC), 2021 INI-CET (Durham and Currens rules)"
+    }
+  },
+  {
+    "id": "fmt_q_42",
+    "questionNumber": 42,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which test is used to detect a stupefying agent in a suspected case of drug-facilitated crime?",
+    "options": [
+      "Barberio test",
+      "Chemical analysis of blood and urine for benzodiazepines or chloral hydrate",
+      "Lugol iodine test",
+      "Benzidine test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Urine is the preferred sample and must be collected early, since many agents are cleared within hours. Barberio and Lugol tests relate to seminal and vaginal cells; benzidine is an older presumptive blood test.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — chloral hydrate as stupefying agent), 2022 INI-CET (Barberio test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (match — chloral hydrate as stupefying agent), 2022 INI-CET (Barberio test)"
+    }
+  },
+  {
+    "id": "fmt_q_43",
+    "questionNumber": 43,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each poison with the category it falls under in forensic classification.\n\n| Poison | Category |\n|---|---|\n| 1. Potassium cyanide | a. Irritant |\n| 2. Zinc chloride | b. Cardiac poison |\n| 3. Oleander | c. Spinal poison |\n| 4. Strychnine | d. Asphyxiant (cellular) |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Forensic classification groups poisons as corrosives, irritants, systemic (neurotic, cardiac, asphyxiant, spinal, peripheral) and others. Quinine is classified among abortifacients in older texts.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — quinine abortifacient, chloral hydrate stupefying, zinc chloride irritant, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (match — quinine abortifacient, chloral hydrate stupefying, zinc chloride irritant, 2X)"
+    }
+  },
+  {
+    "id": "fmt_q_44",
+    "questionNumber": 44,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Hunan hand syndrome, a painful burning dermatitis of the fingers, follows handling of",
+    "options": [
+      "Calotropis",
+      "Capsicum",
+      "Croton",
+      "Plumbago"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Capsaicin acts on TRPV1 receptors. It is the active agent in pepper sprays used for riot control. Cooling and vinegar-based washes relieve the symptoms.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (match — Capsicum and Hunan hand, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (match — Capsicum and Hunan hand, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_45",
+    "questionNumber": 45,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A cattle poison that is also notorious as a means of criminal poisoning of animals, prepared as a sharpened spike from its seeds, is",
+    "options": [
+      "Datura",
+      "Calotropis",
+      "Abrus precatorius",
+      "Oleander"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The seeds are red with a black spot. Abrin is a toxalbumin that causes local necrosis at the puncture site and systemic toxicity, and is destroyed by heat.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (Abrus precatorius — gunja, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (Abrus precatorius — gunja, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_46",
+    "questionNumber": 46,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Match each term in forensic psychiatry and sexual medicine with its meaning.\n\n| Term | Meaning |\n|---|---|\n| 1. Frotteurism | a. Sexual gratification from wearing clothes of the opposite sex |\n| 2. Eonism | b. Sexual gratification from rubbing against a non-consenting person |\n| 3. Voyeurism | c. Sexual gratification from exposing one's genitals to others |\n| 4. Exhibitionism | d. Sexual gratification from watching others undress or in intimacy |",
+    "options": [
+      "1-b, 2-a, 3-c, 4-d",
+      "1-a, 2-b, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "These are paraphilias. Several are specific offences under Indian law, and the examining doctor's role is documentation rather than diagnosis of intent.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match — frotteurism, eonism, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 INI-CET (match — frotteurism, eonism, 2X)"
+    }
+  },
+  {
+    "id": "fmt_q_47",
+    "questionNumber": 47,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "In India, the drug-of-abuse screening sample of choice for recent use, with the longest detection window for cannabis, is",
+    "options": [
+      "Urine",
+      "Blood",
+      "Saliva",
+      "Sweat"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Cannabis metabolites persist in urine for weeks in chronic users because they are stored in fat. Blood reflects current intoxication better, and hair gives a long retrospective window of months.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (cannabis as most widely used illegal drug), 2022 NEET-PG (sample preservation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (cannabis as most widely used illegal drug), 2022 NEET-PG (sample preservation)"
+    }
+  },
+  {
+    "id": "fmt_q_48",
+    "questionNumber": 48,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Aconite is sometimes called \"the queen of poisons\" in forensic texts because",
+    "options": [
+      "It is tasteless and odourless",
+      "It produces tingling and numbness of the mouth followed by arrhythmia, and is rapidly fatal with little morphological change",
+      "It is undetectable in any sample",
+      "It has no antidote and causes instant unconsciousness"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Aconitine opens voltage-gated sodium channels persistently. Death is from ventricular arrhythmia, and treatment is supportive with antiarrhythmics. Characteristic early paraesthesia of the lips distinguishes it clinically.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (aconite causes AV block)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (aconite causes AV block)"
+    }
+  },
+  {
+    "id": "fmt_q_49",
+    "questionNumber": 49,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which poison is classically described as an \"arrow poison\" and acts by blocking nicotinic receptors at the neuromuscular junction?",
+    "options": [
+      "Strychnine",
+      "Curare",
+      "Nicotine",
+      "Cyanide"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Curare causes flaccid paralysis with preserved consciousness, so death is from respiratory muscle paralysis. Neostigmine reverses competitive blockade. Nicotine in large doses causes depolarising blockade after initial stimulation.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS pharmacology (curare blocks ACh receptors), 2020 INI-CET (Conium — nicotinic blockade)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2018 AIIMS pharmacology (curare blocks ACh receptors), 2020 INI-CET (Conium — nicotinic blockade)"
+    }
+  },
+  {
+    "id": "fmt_q_50",
+    "questionNumber": 50,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A patient on long-term treatment presents with a garlic odour of the breath, vomiting and diarrhoea. On Wood's lamp examination the vomitus is luminous. The poison is",
+    "options": [
+      "Selenium",
+      "Arsenic",
+      "Yellow phosphorus",
+      "Thallium"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Classically from rodenticide or firework paste. It gives luminous, garlicky vomitus and a \"smoking stool\". Hepatic necrosis follows after a deceptive symptom-free interval. Viscera must not be preserved in rectified spirit when phosphorus is suspected.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (viscera preservation), 2022 INI-CET / 2014 AIIMS (blind staggers — selenium, garlic odour group)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (viscera preservation), 2022 INI-CET / 2014 AIIMS (blind staggers — selenium, garlic odour group)"
+    }
+  },
+  {
+    "id": "fmt_q_51",
+    "questionNumber": 51,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Paraquat poisoning is particularly lethal because",
+    "options": [
+      "It causes early cardiac arrest",
+      "It generates free radicals concentrated in the lung, causing progressive pulmonary fibrosis",
+      "It is a cholinesterase inhibitor",
+      "It causes renal failure alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Supplemental oxygen worsens the lung injury, so it is given only when strictly needed. Early oral adsorbents (Fuller's earth or bentonite) are used, and there is no effective antidote.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET pesticide and 2023 INI-CET agricultural poisoning cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET pesticide and 2023 INI-CET agricultural poisoning cluster"
+    }
+  },
+  {
+    "id": "fmt_q_52",
+    "questionNumber": 52,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Aluminium phosphide poisoning, common in grain-storage areas, causes death mainly from",
+    "options": [
+      "Renal failure",
+      "Respiratory muscle paralysis",
+      "Hepatic failure",
+      "Refractory shock from phosphine-induced myocardial injury"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Contact with moisture liberates phosphine gas. The tablets smell of garlic and the silver nitrate breath test is positive. There is no antidote, so treatment is supportive with magnesium and vasopressors.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET and 2023 INI-CET agricultural poisoning cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET and 2023 INI-CET agricultural poisoning cluster"
+    }
+  },
+  {
+    "id": "fmt_q_53",
+    "questionNumber": 53,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "The commonest cause of death in acute datura poisoning, if untreated, is",
+    "options": [
+      "Hyperthermia with cardiovascular collapse",
+      "Respiratory muscle paralysis",
+      "Renal failure",
+      "Haemorrhage"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Antimuscarinic blockade of sweating prevents heat loss. Cooling, sedation with benzodiazepines and fluids are the mainstays; physostigmine is reserved for severe delirium or arrhythmia.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (Datura case with hot dry skin — physostigmine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2021 NEET-PG (Datura case with hot dry skin — physostigmine)"
+    }
+  },
+  {
+    "id": "fmt_q_54",
+    "questionNumber": 54,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Which of the following is NOT a recognised feature of chronic cannabis use?",
+    "options": [
+      "Amotivational syndrome",
+      "Precipitation of psychosis in susceptible people",
+      "Hyperemesis syndrome relieved by hot showers",
+      "Miosis with bradycardia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cannabis causes conjunctival injection, tachycardia and dry mouth, with pupils normal or slightly dilated. \"Running amok\" is the classic acute behavioural description in forensic texts.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (cannabis — most widely used illegal drug), 2022 INI-CET (match — cannabis preparations)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 NEET-PG (cannabis — most widely used illegal drug), 2022 INI-CET (match — cannabis preparations)"
+    }
+  },
+  {
+    "id": "fmt_q_55",
+    "questionNumber": 55,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "Hydrogen sulphide poisoning in a sewer worker is dangerous partly because",
+    "options": [
+      "It has no systemic effect",
+      "Olfactory fatigue causes loss of the warning rotten-egg smell at high concentrations",
+      "It causes delayed symptoms only",
+      "It is heavier than air and therefore harmless"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Like cyanide, it inhibits cytochrome oxidase, causing \"knockdown\" with sudden collapse. Rescuers must not enter without breathing apparatus. Nitrites and oxygen are used in treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cytochrome oxidase inhibited by cyanide, H₂S and CO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Toxicology",
+      "basedOn": "2024 INI-CET (cytochrome oxidase inhibited by cyanide, H₂S and CO)"
+    }
+  },
+  {
+    "id": "fmt_q_56",
+    "questionNumber": 56,
+    "subject": "Forensic Medicine",
+    "subTopic": "Toxicology",
+    "sub_topic": "Toxicology",
+    "stem": "A poison is described as a \"cumulative poison\". The best example among the following is",
+    "options": [
+      "Alcohol",
+      "Cyanide",
+      "Lead",
+      "Organophosphate"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cumulative poisons are excreted more slowly than they are absorbed, so repeated small doses produce toxicity. Lead is stored in bone with a half-life of years. Arsenic, mercury and strychnine are other examples cited in forensic texts.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (lead absorption route), 2021 NEET-PG (arsenic detectable in exhumed bodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Toxicology",
+      "basedOn": "2022 INI-CET (lead absorption route), 2021 NEET-PG (arsenic detectable in exhumed bodies)"
+    }
+  },
+  {
+    "id": "fmt_q_57",
+    "questionNumber": 57,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Match each post-mortem change with its description.\n\n| Change | Description |\n|---|---|\n| 1. Adipocere | a. Dehydration and desiccation with preservation of features |\n| 2. Livor mortis | b. Saponification of body fat into a waxy substance |\n| 3. Mummification | c. Greenish-black branching pattern of superficial veins |\n| 4. Marbling | d. Post-mortem lividity from settling of blood |",
+    "options": [
+      "1-b, 2-d, 3-c, 4-a",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Adipocere needs a moist environment and takes weeks to months; mummification needs a dry, hot environment. Both are modifications of putrefaction that preserve identity and injuries.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (match — adipocere, livor mortis, mummification, 3X), 2021 INI-CET (marbling, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (match — adipocere, livor mortis, mummification, 3X), 2021 INI-CET (marbling, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_58",
+    "questionNumber": 58,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Discoloration of the skin due to post-mortem pooling of blood in dependent vessels is termed",
+    "options": [
+      "Suggillations",
+      "Contusion",
+      "Tardieu spots",
+      "Vibices"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Also called livor mortis or post-mortem staining. It starts within 30 minutes to 2 hours, becomes fixed by about 6–8 hours, and is absent over pressure areas. Tardieu spots are petechial haemorrhages within the stained area.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (post-mortem pooling — suggillations, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2024 INI-CET (post-mortem pooling — suggillations, 2X)"
+    }
+  },
+  {
+    "id": "fmt_q_59",
+    "questionNumber": 59,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Rigor mortis in a temperate climate classically appears and disappears in which sequence?",
+    "options": [
+      "Feet first, progressing upwards",
+      "Head and face first, progressing downwards, and disappearing in the same order",
+      "Trunk first, then limbs",
+      "Randomly"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Rigor results from ATP depletion with persistent actin–myosin binding. It is hastened by exertion before death and high temperature, and delayed by cold. Cadaveric spasm, by contrast, is instantaneous and affects only the muscles in use at death.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (sequence of rigor mortis — head to foot)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2023 NEET-PG (sequence of rigor mortis — head to foot)"
+    }
+  },
+  {
+    "id": "fmt_q_60",
+    "questionNumber": 60,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "The post-mortem finding that most reliably indicates that a hand grip occurred at the moment of death is",
+    "options": [
+      "Contracture from heat",
+      "Rigor mortis",
+      "Cadaveric spasm",
+      "Post-mortem caloricity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cadaveric spasm cannot be reproduced after death, so grass or weeds clutched in the hand of a drowning victim indicates antemortem entry into water. It is associated with sudden death during intense emotion or exertion.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (cadaveric spasm with mud in hands in drowning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2020 INI-CET (cadaveric spasm with mud in hands in drowning)"
+    }
+  },
+  {
+    "id": "fmt_q_61",
+    "questionNumber": 61,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "A body recovered 3 hours after death has a rectal temperature of 39 °C. The most likely explanation is",
+    "options": [
+      "Immersion in cold water",
+      "Hypothermia",
+      "Normal cooling",
+      "Septicaemia or another cause of post-mortem caloricity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Post-mortem caloricity is a rise or failure of fall in body temperature after death, seen in septicaemia, tetanus, strychnine poisoning, heat stroke and pontine haemorrhage, where heat production continues or heat loss fails.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (dead body temperature 39 °C — septicaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Thanatology",
+      "basedOn": "2022 NEET-PG (dead body temperature 39 °C — septicaemia)"
+    }
+  },
+  {
+    "id": "fmt_q_62",
+    "questionNumber": 62,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "In a suspected intrauterine fetal death, gas within the fetal heart and great vessels on imaging is known as",
+    "options": [
+      "Robert sign",
+      "Spalding sign",
+      "Ball sign",
+      "Hydrops"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Spalding sign is overlapping of the fetal skull bones, and Ball sign is hyperflexion of the spine. All are radiological signs of fetal death that appear after some days of retention.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (gas in fetal aorta on USG — Robert sign)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2022 INI-CET (gas in fetal aorta on USG — Robert sign)"
+    }
+  },
+  {
+    "id": "fmt_q_63",
+    "questionNumber": 63,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Early post-mortem blister formation, skin slippage and generalised discoloration indicate",
+    "options": [
+      "Antemortem scalding",
+      "Decomposition",
+      "Electrocution",
+      "Chemical burns"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Putrefaction follows a recognisable order: greenish discoloration of the right iliac fossa, marbling, bloating, skin slippage and blister formation with foul-smelling gas. Post-mortem blisters contain gas or thin fluid and lack a surrounding zone of inflammation.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (post-mortem blisters, skin slippage — decomposition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2021 NEET-PG (post-mortem blisters, skin slippage — decomposition)"
+    }
+  },
+  {
+    "id": "fmt_q_64",
+    "questionNumber": 64,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "The earliest external sign of putrefaction in a body lying in a temperate climate is",
+    "options": [
+      "Protrusion of the tongue",
+      "Marbling of the limbs",
+      "Greenish discoloration of the skin over the right iliac fossa",
+      "Loss of hair"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This reflects sulphaemoglobin formation where the caecum, rich in bacteria, lies against the abdominal wall. Casper's dictum states that one week of putrefaction in air equals two in water and eight in soil.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (marbling), 2021 NEET-PG (decomposition sequence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thanatology",
+      "basedOn": "2021 INI-CET (marbling), 2021 NEET-PG (decomposition sequence)"
+    }
+  },
+  {
+    "id": "fmt_q_65",
+    "questionNumber": 65,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "The most reliable single method of estimating the time since death in the first 24 hours is",
+    "options": [
+      "Stomach contents",
+      "Extent of rigor mortis",
+      "Fixation of post-mortem staining",
+      "Measurement of body temperature with a nomogram"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Algor mortis is the most quantifiable early change, best used with Henssge's nomogram allowing for body mass, clothing and environment. All methods only estimate a range, and multiple findings should be combined.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (post-mortem temperature), 2021 INI-CET (post-mortem changes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2022 NEET-PG (post-mortem temperature), 2021 INI-CET (post-mortem changes)"
+    }
+  },
+  {
+    "id": "fmt_q_66",
+    "questionNumber": 66,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Vitreous humour potassium is used in estimating time since death because",
+    "options": [
+      "It rises steadily after death as potassium leaks from retinal cells",
+      "It falls steadily",
+      "It is unaffected by death",
+      "It reflects antemortem renal function"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The eye is relatively protected from contamination and putrefaction. Vitreous is also useful for post-mortem alcohol and glucose estimation, being less affected by diffusion from the stomach.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (post-mortem changes and temperature)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thanatology",
+      "basedOn": "2022 NEET-PG (post-mortem changes and temperature)"
+    }
+  },
+  {
+    "id": "fmt_q_67",
+    "questionNumber": 67,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thanatology",
+    "sub_topic": "Thanatology",
+    "stem": "Brain-stem death certification in India for the purpose of organ donation is governed by the",
+    "options": [
+      "Anatomy Act",
+      "Transplantation of Human Organs and Tissues Act",
+      "NDPS Act",
+      "Mental Healthcare Act"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It requires a board of four registered medical practitioners, including the treating doctor and an independent specialist, with two sets of tests separated by a prescribed interval. Neither the transplant surgeon nor the recipient's doctor may be on the board.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Indian Medical Council Act record provisions), legal-procedure cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thanatology",
+      "basedOn": "2024 INI-CET (Indian Medical Council Act record provisions), legal-procedure cluster"
+    }
+  },
+  {
+    "id": "fmt_q_68",
+    "questionNumber": 68,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Which finding is NOT confirmatory of antemortem drowning?",
+    "options": [
+      "Paltauf haemorrhages under the pleura",
+      "Fine persistent froth at the mouth and nostrils",
+      "Washerwoman's hands",
+      "Diatoms in bone marrow"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Maceration of the skin indicates only immersion in water, whether before or after death, and reflects duration (over about 24 hours) rather than the mechanism of death. The other three indicate active respiration under water.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not confirmatory of antemortem drowning), 2021 NEET-PG (washerwoman's feet), 2020 INI-CET (froth reappearing on wiping)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2024 INI-CET (not confirmatory of antemortem drowning), 2021 NEET-PG (washerwoman's feet), 2020 INI-CET (froth reappearing on wiping)"
+    }
+  },
+  {
+    "id": "fmt_q_69",
+    "questionNumber": 69,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Diatoms are used as evidence of antemortem drowning because",
+    "options": [
+      "They are found only in sea water",
+      "They are present in all bodies",
+      "They multiply after death",
+      "Their silica shells resist putrefaction and reach marrow only if circulation was active"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Diatoms must be recovered from closed bones such as the femur or sternum, and a control sample of the water must match. The shell is made of silica, not chlorophyll, so the 2020 key wording is inaccurate.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (diatom wall contains silica and chlorophyll)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Asphyxia",
+      "basedOn": "2020 NEET-PG (diatom wall contains silica and chlorophyll)"
+    }
+  },
+  {
+    "id": "fmt_q_70",
+    "questionNumber": 70,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Death in fresh-water drowning differs from sea-water drowning because fresh water causes",
+    "options": [
+      "Haemodilution with hyponatraemia, haemolysis and ventricular arrhythmia",
+      "Haemoconcentration and pulmonary oedema",
+      "Hypernatraemia",
+      "No electrolyte change"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hypotonic water is absorbed rapidly across the alveoli. Sea water is hypertonic and draws fluid into the alveoli instead. Both disrupt surfactant. In practice, hypoxia dominates and the distinction matters less clinically than in examinations.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (fresh water drowning — haemodilution, hyponatraemia, arrhythmia, surfactant disruption, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Asphyxia",
+      "basedOn": "2023 INI-CET (fresh water drowning — haemodilution, hyponatraemia, arrhythmia, surfactant disruption, 2X)"
+    }
+  },
+  {
+    "id": "fmt_q_71",
+    "questionNumber": 71,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "\"Dry drowning\" refers to death in which",
+    "options": [
+      "The body is found on dry land",
+      "Laryngospasm prevents water entering the lungs",
+      "Water enters only the stomach",
+      "Death occurs after rescue"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It accounts for roughly 10–15% of drownings, and the lungs appear dry at autopsy. Sudden death on entering very cold water is usually due to vagal inhibition, a separate mechanism.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (cause of death in dry drowning — laryngospasm), 2021 INI-CET (death in cold-water drowning — vagal inhibition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2020 INI-CET (cause of death in dry drowning — laryngospasm), 2021 INI-CET (death in cold-water drowning — vagal inhibition)"
+    }
+  },
+  {
+    "id": "fmt_q_72",
+    "questionNumber": 72,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "In a body recovered from water, post-mortem staining is characteristically seen",
+    "options": [
+      "Over the back",
+      "In the limbs only",
+      "Over the head, face and upper chest, because the body floats head-down",
+      "Nowhere"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A drowned body typically floats with the head and limbs hanging down, so blood settles in those regions. This is why the 2024 statement that staining is seen in the limbs alone is false.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (post-mortem staining in limbs in drowning — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Asphyxia",
+      "basedOn": "2024 INI-CET (post-mortem staining in limbs in drowning — false)"
+    }
+  },
+  {
+    "id": "fmt_q_73",
+    "questionNumber": 73,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "An elderly man with alcohol intoxication collapses suddenly at a dinner table. At autopsy a large food bolus is impacted in the laryngopharynx. This is termed",
+    "options": [
+      "Traumatic asphyxia",
+      "Burking",
+      "Smothering",
+      "Café coronary"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The sudden collapse mimics a cardiac event, hence the name. Alcohol, dentures, old age and neurological disease predispose. Death is partly from vagal inhibition as well as airway obstruction.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (food bolus with alcoholism — café coronary)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2023 INI-CET (food bolus with alcoholism — café coronary)"
+    }
+  },
+  {
+    "id": "fmt_q_74",
+    "questionNumber": 74,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Multiple abrasions and bruises around the mouth and nostrils, with no ligature mark on the neck, suggest",
+    "options": [
+      "Smothering",
+      "Throttling",
+      "Hanging",
+      "Drowning"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Closure of the external airways leaves injuries around the nose and lips, often with injuries to the inner surface of the lips from pressure against the teeth. Signs may be minimal in infants and the frail, so the diagnosis is often one of exclusion.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (abrasions around mouth and nose — smothering)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2023 NEET-PG (abrasions around mouth and nose — smothering)"
+    }
+  },
+  {
+    "id": "fmt_q_75",
+    "questionNumber": 75,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Simultaneous smothering with compression of the chest, described in a classical pair of nineteenth-century cases, is called",
+    "options": [
+      "Garrotting",
+      "Burking",
+      "Mugging",
+      "Bansdola"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Named after Burke and Hare, who supplied bodies for anatomy dissection. Traumatic asphyxia from chest compression alone produces a deeply congested, cyanosed face with petechiae above the level of compression (Masque ecchymotique).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (sat on chest and closed mouth and nostrils — burking)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2022 INI-CET (sat on chest and closed mouth and nostrils — burking)"
+    }
+  },
+  {
+    "id": "fmt_q_76",
+    "questionNumber": 76,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Strangulation by means of a rope tightened with a stick or rod, the \"Spanish windlass\", is termed",
+    "options": [
+      "Bansdola",
+      "Mugging",
+      "Garrotting",
+      "Throttling"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Mugging is strangulation with the forearm or elbow, bansdola with two sticks placed either side of the neck, and throttling is manual strangulation with the hands, which leaves disc-shaped bruises and crescentic nail abrasions.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Spanish windlass technique — garrotting)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Asphyxia",
+      "basedOn": "2020 INI-CET (Spanish windlass technique — garrotting)"
+    }
+  },
+  {
+    "id": "fmt_q_77",
+    "questionNumber": 77,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "Which feature favours ligature strangulation over hanging?",
+    "options": [
+      "A knot mark high behind the ear",
+      "An oblique, incompletely encircling mark above the thyroid cartilage",
+      "Dribbling of saliva down the chin",
+      "A transverse mark completely encircling the neck below the level of the thyroid cartilage"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In hanging, body weight pulls the ligature upwards, giving an oblique, incomplete mark that rides above the thyroid, with the groove deepest opposite the knot. Dribbling of saliva is characteristic of hanging, not strangulation.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (transverse encircling mark with no salivary dribbling — ligature strangulation, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Asphyxia",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (transverse encircling mark with no salivary dribbling — ligature strangulation, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_78",
+    "questionNumber": 78,
+    "subject": "Forensic Medicine",
+    "subTopic": "Asphyxia",
+    "sub_topic": "Asphyxia",
+    "stem": "In a case of hanging, one eye is found open and saliva has dribbled from the corresponding angle of the mouth. The explanation for the open eye is",
+    "options": [
+      "Compression of the cervical sympathetic chain on that side",
+      "Facial nerve palsy",
+      "Post-mortem change",
+      "Direct trauma to the eyelid"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Unequal pressure on the two sides of the neck produces asymmetry of the eyes and of the face. Dribbling of saliva from the dependent angle of the mouth is a vital sign, indicating the person was alive when suspended.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (right eye open with saliva dribbling — cervical sympathetic chain compression)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Asphyxia",
+      "basedOn": "2022 INI-CET (right eye open with saliva dribbling — cervical sympathetic chain compression)"
+    }
+  },
+  {
+    "id": "fmt_q_79",
+    "questionNumber": 79,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "Match each weapon or mechanism with the wound it produces.\n\n| Weapon or mechanism | Wound |\n|---|---|\n| 1. Lathi (blunt rod) | a. Grazed abrasion |\n| 2. Dragging on a road surface | b. Chop wound |\n| 3. Knife blade | c. Tram-line (railway-track) bruise |\n| 4. Axe | d. Incised wound |",
+    "options": [
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A tram-line bruise has a pale central zone because blood is displaced from directly beneath the rod. A chop wound combines the features of an incised and a lacerated wound with underlying bone damage.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — lathi, RTA, blade, axe), 2024 INI-CET (injuries in road traffic accidents)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2023 INI-CET (match — lathi, RTA, blade, axe), 2024 INI-CET (injuries in road traffic accidents)"
+    }
+  },
+  {
+    "id": "fmt_q_80",
+    "questionNumber": 80,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "A wound with clean-looking edges that on close inspection shows tissue bridging across its depth and irregular margins is",
+    "options": [
+      "A stab wound",
+      "A true incised wound",
+      "An incised-looking lacerated wound",
+      "A chop wound"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Tissue bridges (strands of nerve or vessel crossing the wound depth) indicate tearing, not cutting, and so point to a blunt mechanism. These occur where skin lies directly over bone, such as the scalp, eyebrow and shin.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (incised-looking lacerated wound, 2X), 2022 INI-CET (laceration reaching bone mechanism)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (incised-looking lacerated wound, 2X), 2022 INI-CET (laceration reaching bone mechanism)"
+    }
+  },
+  {
+    "id": "fmt_q_81",
+    "questionNumber": 81,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "Multiple superficial parallel incised wounds on the flexor aspect of the wrist, of varying depth and alongside a deeper wound, indicate",
+    "options": [
+      "Accidental injury",
+      "Defence wounds",
+      "Torture marks",
+      "Hesitation (tentative) cuts"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "They suggest self-infliction. Defence wounds, by contrast, are irregular deep cuts on the palms, the ulnar border of the forearm and the finger clefts, caused by grasping a blade or warding off a blow.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (parallel cuts over wrist — hesitation cuts), 2022 NEET-PG (deep cuts on palmar fingers — defence wounds)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2022 INI-CET (parallel cuts over wrist — hesitation cuts), 2022 NEET-PG (deep cuts on palmar fingers — defence wounds)"
+    }
+  },
+  {
+    "id": "fmt_q_82",
+    "questionNumber": 82,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "A bruise that appears at a site distant from the point of impact is called",
+    "options": [
+      "Ectopic (migratory) bruise",
+      "Patterned bruise",
+      "Tram-line bruise",
+      "Artificial bruise"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Blood tracks along fascial planes under gravity, for example a black eye appearing after a fracture of the orbital roof, or thigh bruising after a pelvic injury. This can mislead about the site of impact.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — bruise patterns), 2023 NEET-PG (Battle sign)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2023 INI-CET (match — bruise patterns), 2023 NEET-PG (Battle sign)"
+    }
+  },
+  {
+    "id": "fmt_q_83",
+    "questionNumber": 83,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "Bluish discoloration over the mastoid region appearing a day or two after head injury (Battle sign) indicates",
+    "options": [
+      "Direct blow to the mastoid",
+      "Fracture of the middle cranial fossa or petrous temporal bone",
+      "Anterior cranial fossa fracture",
+      "Subdural haematoma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Raccoon eyes (periorbital ecchymosis) similarly indicate an anterior cranial fossa fracture. Both are ectopic bruises that take time to appear, which helps date the injury.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2021 NEET-PG (blackish discoloration post-auricular — Battle sign)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2023 NEET-PG / 2021 NEET-PG (blackish discoloration post-auricular — Battle sign)"
+    }
+  },
+  {
+    "id": "fmt_q_84",
+    "questionNumber": 84,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "A transverse fracture running across the base of the skull, dividing it into anterior and posterior halves, is called a",
+    "options": [
+      "Pond fracture",
+      "Ring fracture",
+      "Hinge fracture",
+      "Gutter fracture"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It usually follows a lateral blow or a fall on the side of the head. A ring fracture encircles the foramen magnum, typically after a fall from a height on the feet or buttocks. A pond (indented) fracture occurs in the elastic infant skull.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (transverse basal fracture separating skull into two — hinge fracture)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2024 INI-CET (transverse basal fracture separating skull into two — hinge fracture)"
+    }
+  },
+  {
+    "id": "fmt_q_85",
+    "questionNumber": 85,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "The commonest source of bleeding in a subdural haematoma is",
+    "options": [
+      "Diploic veins",
+      "The middle meningeal artery",
+      "A berry aneurysm",
+      "Rupture of the bridging cortical veins"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Because the bleeding is venous and slow, there is often a latent interval, and chronic subdural haematoma is common in the elderly and in alcohol users where brain atrophy stretches these veins. Extradural bleeding is usually arterial, from the middle meningeal artery at the pterion.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (commonest cause of SDH — rupture of bridging veins)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2021 INI-CET (commonest cause of SDH — rupture of bridging veins)"
+    }
+  },
+  {
+    "id": "fmt_q_86",
+    "questionNumber": 86,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "A person is found restrained prone on a flat surface with the wrists and ankles tied together behind the back. This position is termed",
+    "options": [
+      "Hog tying, and carries a risk of positional asphyxia",
+      "The recovery position",
+      "Lithotomy",
+      "The Trendelenburg position"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hyperextension of the spine with the chest compressed against the ground restricts respiratory movement, and death may follow without any external injury. It is a recognised issue in deaths in custody.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (prone with wrists and ankles tied behind — hog tying)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2023 INI-CET (prone with wrists and ankles tied behind — hog tying)"
+    }
+  },
+  {
+    "id": "fmt_q_87",
+    "questionNumber": 87,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "An abrasion is best described as",
+    "options": [
+      "Extravasation of blood into deep tissue",
+      "Removal of the superficial layers of skin with minimal bleeding, which heals without a scar",
+      "A full-thickness skin tear",
+      "A wound with clean edges"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Abrasions reproduce the pattern of the object and the direction of force (from heaped-up epithelium at the far end), which makes them valuable in reconstruction. Types include graze, scratch, pressure and imprint abrasions.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (abrasion — scraped skin with minimal bleeding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2020 INI-CET (abrasion — scraped skin with minimal bleeding)"
+    }
+  },
+  {
+    "id": "fmt_q_88",
+    "questionNumber": 88,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "Injuries expected in a pedestrian struck by a vehicle include all of the following EXCEPT",
+    "options": [
+      "Multiple bruises and graze abrasions",
+      "Lacerations over bony prominences",
+      "Bumper fracture of the leg",
+      "Multiple parallel superficial incised wounds on the forearm"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Those are hesitation cuts, indicating self-infliction. A vehicle produces primary impact, secondary impact, secondary (ground) and crush injuries. Comparing bumper height with the leg injury helps reconstruct the event.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (injuries suspected in road traffic accident), 2022 INI-CET (hesitation cuts)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2024 INI-CET (injuries suspected in road traffic accident), 2022 INI-CET (hesitation cuts)"
+    }
+  },
+  {
+    "id": "fmt_q_89",
+    "questionNumber": 89,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "The commonest mechanism by which a laceration reaching down to bone is produced is",
+    "options": [
+      "Stretching of skin alone",
+      "Clean cutting by a sharp edge",
+      "Crushing of soft tissue between the weapon and the underlying bone",
+      "Thermal injury"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This explains why scalp lacerations from a blunt weapon can look deceptively clean-edged. Split lacerations occur where skin is thin over bone; stretch lacerations occur over joints; and avulsion lacerations follow a grinding force.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (mechanism of lacerated wound reaching bone)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2022 INI-CET (mechanism of lacerated wound reaching bone)"
+    }
+  },
+  {
+    "id": "fmt_q_90",
+    "questionNumber": 90,
+    "subject": "Forensic Medicine",
+    "subTopic": "Mechanical Injuries",
+    "sub_topic": "Mechanical Injuries",
+    "stem": "For a wound to be certified as \"grievous hurt\" on the basis of hospitalisation, the law requires",
+    "options": [
+      "Any admission at all",
+      "Admission for 7 days",
+      "Admission for 10 days",
+      "Inability to follow ordinary pursuits for 20 days"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Under the eighth clause of section 320 IPC, the test is severe bodily pain or inability to follow ordinary pursuits for 20 days, not the duration of admission. This is why both the 7-day admission and the 5-day pain statements in past papers are false.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (7 days admission as grievous hurt — false), 2022 INI-CET (severe pain for 5 days — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Mechanical Injuries",
+      "basedOn": "2024 INI-CET (7 days admission as grievous hurt — false), 2022 INI-CET (severe pain for 5 days — false)"
+    }
+  },
+  {
+    "id": "fmt_q_91",
+    "questionNumber": 91,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "Blackening around a firearm entry wound is produced by",
+    "options": [
+      "Smoke and soot particles",
+      "Unburnt powder grains",
+      "Hot gases",
+      "Grease from the barrel"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Blackening is washable. Tattooing is caused by unburnt and partly burnt powder grains driven into the skin, and is not washable. Singeing of hair and charring indicate flame, and together these features estimate range.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (blackening — black smoke particles), 2020 INI-CET (tattooing — unburnt gunpowder)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2024 INI-CET (blackening — black smoke particles), 2020 INI-CET (tattooing — unburnt gunpowder)"
+    }
+  },
+  {
+    "id": "fmt_q_92",
+    "questionNumber": 92,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "An entry wound shows tattooing but no blackening, singeing or charring. This indicates",
+    "options": [
+      "Contact shot",
+      "Intermediate range",
+      "Close range",
+      "Distant range"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Flame reaches about 15 cm, smoke about 30 cm, and powder grains about 60–100 cm, depending on the weapon. Beyond the powder range only the mechanical effect of the projectile remains, giving a distant-range wound.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (only tattooing — intermediate range)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Firearms",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (only tattooing — intermediate range)"
+    }
+  },
+  {
+    "id": "fmt_q_93",
+    "questionNumber": 93,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "A greyish ring of dirt and lubricant deposited at the margin of an entry wound, derived from the barrel, is called",
+    "options": [
+      "Tattooing",
+      "Abrasion collar",
+      "Bullet wipe",
+      "Grease collar only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The abrasion collar is the ring of abraded skin produced by the bullet's indentation and rotation, and is a separate finding. Bullet wipe can be present at any range and helps identify the entry wound.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bullet wipe derived from residue in the barrel)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2022 INI-CET (bullet wipe derived from residue in the barrel)"
+    }
+  },
+  {
+    "id": "fmt_q_94",
+    "questionNumber": 94,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "In firearm identification, a fired bullet is matched to a particular weapon on the basis of",
+    "options": [
+      "Calibre alone",
+      "Class characteristics alone",
+      "Weight alone",
+      "Both class (primary) and individual (secondary) markings"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Primary markings (number, width and direction of twist of the lands and grooves) narrow it to a make and model. Secondary markings, from microscopic imperfections unique to the barrel, allow identification of the individual weapon.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (bullet fingerprinting — primary and secondary markings)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (bullet fingerprinting — primary and secondary markings)"
+    }
+  },
+  {
+    "id": "fmt_q_95",
+    "questionNumber": 95,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "Assertion (A): The range of a shotgun discharge can be estimated from the spread of the pellets.\nReason (R): A shotgun cartridge contains multiple pellets.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The spread increases with distance because the pellets diverge progressively after leaving the muzzle; merely containing pellets does not explain the relationship with range. The \"one inch per yard\" rule is a rough guide, and test firing with the same weapon and ammunition is needed.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (assertion — range from spread of pellets)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Firearms",
+      "basedOn": "2022 INI-CET (assertion — range from spread of pellets)"
+    }
+  },
+  {
+    "id": "fmt_q_96",
+    "questionNumber": 96,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "Multiple separate pellet wounds spread over an area of skin indicate discharge from a",
+    "options": [
+      "Shotgun",
+      "Rifled handgun",
+      "Rifle",
+      "Air gun"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A smooth-bore shotgun fires many pellets, so there is no rifling and no individual bullet markings. At very close range the charge enters as a single large hole with scalloped margins; the pellets separate with increasing distance.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (multiple pellet marks — shotgun)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2021 INI-CET (multiple pellet marks — shotgun)"
+    }
+  },
+  {
+    "id": "fmt_q_97",
+    "questionNumber": 97,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "In a blast, injuries caused by fragments and flying debris belong to which phase?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Primary blast injury is from the pressure wave and affects gas-containing organs (ear, lung, bowel). Tertiary injury is from the body being thrown against objects. Quaternary covers burns, crush injury and toxic exposure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Marshall's triad in the secondary phase of bomb injury), 2021 INI-CET (abrasions and lacerations from flying missiles)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2024 INI-CET (Marshall's triad in the secondary phase of bomb injury), 2021 INI-CET (abrasions and lacerations from flying missiles)"
+    }
+  },
+  {
+    "id": "fmt_q_98",
+    "questionNumber": 98,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "The organ most sensitive to primary blast overpressure is the",
+    "options": [
+      "Bowel",
+      "Lung",
+      "Tympanic membrane",
+      "Brain"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It ruptures at relatively low overpressure, so an intact drum makes significant primary blast lung injury less likely, though it does not exclude it. Blast lung (\"blast chest\") presents with hypoxia and alveolar haemorrhage.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (phases of blast injury), 2021 INI-CET (explosion injuries)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Firearms",
+      "basedOn": "2024 INI-CET (phases of blast injury), 2021 INI-CET (explosion injuries)"
+    }
+  },
+  {
+    "id": "fmt_q_99",
+    "questionNumber": 99,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "Which feature best distinguishes an exit wound from an entry wound in a rifled firearm injury?",
+    "options": [
+      "Circular shape",
+      "Smaller size always",
+      "Presence of tattooing",
+      "Everted margins with no abrasion collar or soot"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Entry wounds are inverted with an abrasion collar and may carry soot or tattooing. Exit wounds are usually larger and irregular, but may be smaller if the bullet has lost energy, so margins and the absence of residue are more reliable than size.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (blackening), 2020 INI-CET (tattooing), 2023 INI-CET (range determination)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Firearms",
+      "basedOn": "2024 INI-CET (blackening), 2020 INI-CET (tattooing), 2023 INI-CET (range determination)"
+    }
+  },
+  {
+    "id": "fmt_q_100",
+    "questionNumber": 100,
+    "subject": "Forensic Medicine",
+    "subTopic": "Firearms",
+    "sub_topic": "Firearms",
+    "stem": "Residue tests on the hands of a suspected shooter detect",
+    "options": [
+      "Barium, antimony and lead from the primer",
+      "Nitrates from the propellant only",
+      "Diatoms",
+      "Spermine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Scanning electron microscopy with energy-dispersive X-ray analysis detects these particles. The dermal nitrate (paraffin) test is obsolete because of false positives from fertilisers, tobacco and cosmetics.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bullet wipe residue), 2023 INI-CET (firearm identification)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Firearms",
+      "basedOn": "2022 INI-CET (bullet wipe residue), 2023 INI-CET (firearm identification)"
+    }
+  },
+  {
+    "id": "fmt_q_101",
+    "questionNumber": 101,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "Using the Rule of Nines in an adult, burns involving the whole anterior trunk, the entire right upper limb and the full circumference of the right thigh amount to about",
+    "options": [
+      "27%",
+      "36%",
+      "45%",
+      "18%"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Anterior trunk (chest 9 plus abdomen 9) is 18%, one whole upper limb is 9%, and the full circumference of one thigh is about 9%, giving 36%. In children the head contributes proportionally more, so the Lund and Browder chart is used.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (burn percentage calculation, 4X), 2023 NEET-PG (burn percentage in a child)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (burn percentage calculation, 4X), 2023 NEET-PG (burn percentage in a child)"
+    }
+  },
+  {
+    "id": "fmt_q_102",
+    "questionNumber": 102,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "A branching, fern-like reddish pattern on the skin after an electrical injury is called",
+    "options": [
+      "Crocodile skin",
+      "Joule burn",
+      "Filigree (Lichtenberg) burn",
+      "Spalding sign"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is characteristic of lightning strike and is caused by rupture of small vessels along the surface flashover. It fades within hours and is not a true burn. A Joule burn is the crater-like endogenous burn at an electrical contact point.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (branching fern-like reddish pattern — filigree burn)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2023 INI-CET (branching fern-like reddish pattern — filigree burn)"
+    }
+  },
+  {
+    "id": "fmt_q_103",
+    "questionNumber": 103,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "\"Paradoxical undressing\" shortly before death is characteristically described in",
+    "options": [
+      "Electrocution",
+      "Heat stroke",
+      "Strychnine poisoning",
+      "Hypothermia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "As core temperature falls, peripheral vasoconstriction fails and a paradoxical sensation of warmth leads victims to remove clothing. Hide-and-die syndrome (terminal burrowing) is another behavioural finding. Wischnewsky spots in the gastric mucosa are an autopsy sign.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (paradoxical undressing — hypothermia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2024 INI-CET (paradoxical undressing — hypothermia)"
+    }
+  },
+  {
+    "id": "fmt_q_104",
+    "questionNumber": 104,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "The feature that best indicates a person was alive during a fire is",
+    "options": [
+      "Soot in the lower airways with raised blood carboxyhaemoglobin",
+      "Pugilistic attitude of the body",
+      "Heat haematoma in the extradural space",
+      "Skin splits over the limbs"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This requires active respiration during the fire. The pugilistic attitude, heat haematoma and heat ruptures are all post-mortem artefacts of heat, caused by protein coagulation and contraction, and do not indicate antemortem burning.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (carbon monoxide and cytochrome oxidase), 2023 INI-CET (thermal injury patterns)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Thermal Injury",
+      "basedOn": "2024 INI-CET (carbon monoxide and cytochrome oxidase), 2023 INI-CET (thermal injury patterns)"
+    }
+  },
+  {
+    "id": "fmt_q_105",
+    "questionNumber": 105,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "The most important factor determining the severity of injury in low-voltage domestic electrocution is",
+    "options": [
+      "Voltage alone",
+      "Current and the duration of contact, with the path through the body",
+      "The colour of the wire",
+      "Ambient temperature"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Low resistance (wet skin) allows more current to flow. A hand-to-hand or hand-to-foot path crossing the heart causes ventricular fibrillation, which is the usual mechanism of death in domestic electrocution.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (filigree burn), 2024 INI-CET (thermal and electrical injury cluster)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2023 INI-CET (filigree burn), 2024 INI-CET (thermal and electrical injury cluster)"
+    }
+  },
+  {
+    "id": "fmt_q_106",
+    "questionNumber": 106,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "A scald differs from a flame burn in that a scald",
+    "options": [
+      "Singes the hair",
+      "Always chars the skin",
+      "Is caused by moist heat, spares hair, and shows trickle marks with no charring",
+      "Produces a pugilistic attitude"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Splash and trickle patterns suggest an accidental spill, while a clear horizontal \"tide line\" with sparing of flexures suggests forced immersion, which is important in suspected child abuse.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (filigree burn), 2021 INI-CET (burn calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2023 INI-CET (filigree burn), 2021 INI-CET (burn calculation)"
+    }
+  },
+  {
+    "id": "fmt_q_107",
+    "questionNumber": 107,
+    "subject": "Forensic Medicine",
+    "subTopic": "Thermal Injury",
+    "sub_topic": "Thermal Injury",
+    "stem": "In a surviving victim of extensive burns, the commonest cause of death in the first 48 hours is",
+    "options": [
+      "Pulmonary embolism",
+      "Septicaemia",
+      "Renal failure",
+      "Hypovolaemic shock from fluid loss"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Septicaemia, usually from *Pseudomonas* or *Staphylococcus*, becomes the leading cause after the first few days. Curling ulcer of the duodenum and acute kidney injury from myoglobinuria are other recognised complications.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (burns percentage and management), 2023 NEET-PG (burn assessment in a child)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Thermal Injury",
+      "basedOn": "2021 INI-CET (burns percentage and management), 2023 NEET-PG (burn assessment in a child)"
+    }
+  },
+  {
+    "id": "fmt_q_108",
+    "questionNumber": 108,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "A girl claims to be 18 years old and documentary proof is unavailable. The radiographs of greatest value for age estimation are",
+    "options": [
+      "The medial end of the clavicle together with the wrist",
+      "The skull only",
+      "The pelvis only",
+      "The lumbar spine"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "By 18 the wrist epiphyses are largely fused, so the medial clavicular epiphysis, which fuses between about 18 and 22, becomes the discriminating site. Dental age and other epiphyses are used alongside, and an age range is reported rather than a single figure.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (X-ray to prove age of 18 — medial clavicle and wrist)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (X-ray to prove age of 18 — medial clavicle and wrist)"
+    }
+  },
+  {
+    "id": "fmt_q_109",
+    "questionNumber": 109,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Complete fusion of all parts of the body of the sternum together with fusion of the medial end of the clavicle indicates an age of",
+    "options": [
+      "16–18 years",
+      "Over 25 years",
+      "20–21 years",
+      "Over 40 years"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The medial clavicular epiphysis is the last to fuse in the body. Once all these sites are fused, age estimation shifts to degenerative changes, cranial suture closure and dental features, which are far less precise.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (sternum and clavicle fused — over 25, 6X)",
+    "repeats": 6,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Identification",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2014 AIIMS (sternum and clavicle fused — over 25, 6X)"
+    }
+  },
+  {
+    "id": "fmt_q_110",
+    "questionNumber": 110,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "A fetus has a crown–rump length of 23 cm, a total length of 35 cm, a foot length of 7 cm, an ossified talus, and testes at the superficial inguinal ring. The estimated gestational age is",
+    "options": [
+      "9 months",
+      "5 months",
+      "7 months",
+      "6 months"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Haase's rule: for the second half of pregnancy, length in cm divided by 5 gives the age in months (35/5 = 7). Ossification of the talus appears at about 7 months, and the testes reach the scrotum by about 9 months.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (fetal age estimation, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (fetal age estimation, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_111",
+    "questionNumber": 111,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Match each eruption with its usual age in a permanent dentition.\n\n| Tooth | Age of eruption |\n|---|---|\n| 1. First molar | a. 11–12 years |\n| 2. Central incisor | b. 17–25 years |\n| 3. Canine | c. 6–7 years |\n| 4. Third molar | d. 7–8 years |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The first permanent molar is the earliest to erupt and the third molar the latest and most variable. Gustafson's method uses six degenerative dental changes for adult age estimation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match — eruption of permanent teeth)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2020 INI-CET (match — eruption of permanent teeth)"
+    }
+  },
+  {
+    "id": "fmt_q_112",
+    "questionNumber": 112,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Which feature indicates a MALE pelvis?",
+    "options": [
+      "A V-shaped subpubic angle with a large, heart-shaped obturator foramen",
+      "A U-shaped subpubic angle",
+      "A wide, shallow greater sciatic notch",
+      "A pre-auricular sulcus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The pelvis is the most reliable bone for sexing, followed by the skull. Female features are a U-shaped subpubic angle, a wide greater sciatic notch, a circular inlet and a pre-auricular sulcus related to childbirth.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (male pelvis features, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2021 INI-CET (male pelvis features, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_113",
+    "questionNumber": 113,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Fingerprints first develop in intrauterine life at about",
+    "options": [
+      "6–8 weeks",
+      "12–16 weeks",
+      "24–28 weeks",
+      "32 weeks"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ridge patterns are fully formed by about 24 weeks and remain unchanged for life. Because they are shaped partly by intrauterine mechanical forces, even monozygotic twins have different fingerprints despite identical DNA.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (fingerprints first appear at 12–16 weeks), 2021 NEET-PG / 2018 AIIMS (identical twins differ in fingerprints)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2021 INI-CET (fingerprints first appear at 12–16 weeks), 2021 NEET-PG / 2018 AIIMS (identical twins differ in fingerprints)"
+    }
+  },
+  {
+    "id": "fmt_q_114",
+    "questionNumber": 114,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Match each cause of altered fingerprints with its effect on the ridge pattern.\n\n| Cause | Effect |\n|---|---|\n| 1. Chronic dermatitis | a. Ridge atrophy with distorted pattern |\n| 2. Acromegaly | b. Ridges widely spaced but the pattern retained |\n| 3. Leprosy | c. Complete destruction with scarring |\n| 4. Deep burn or acid injury | d. Thinning of ridges with sensory loss |",
+    "options": [
+      "1-a, 2-d, 3-b, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-a, 2-b, 3-d, 4-c",
+      "1-a, 2-b, 3-c, 4-d"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Growth of the hand in acromegaly separates the ridges without changing the pattern, so identification is still possible. Deliberate mutilation to destroy prints leaves scars that are themselves identifying features.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — ridge atrophy, acromegaly, pattern retained)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Identification",
+      "basedOn": "2022 INI-CET (match — ridge atrophy, acromegaly, pattern retained)"
+    }
+  },
+  {
+    "id": "fmt_q_115",
+    "questionNumber": 115,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "For DNA identification of a decomposed body, which sample is LEAST useful?",
+    "options": [
+      "Blood from the heart",
+      "Femoral bone or tooth pulp",
+      "Deep skeletal muscle",
+      "Nail clippings"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Nail is largely keratin with little nucleated cellular material, so yields are poor. Teeth and dense cortical bone protect DNA best in decomposed or burnt remains, and the nail bed rather than the clipping would be sampled.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identification by hair, blood, muscle but not nail)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (identification by hair, blood, muscle but not nail)"
+    }
+  },
+  {
+    "id": "fmt_q_116",
+    "questionNumber": 116,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Mitochondrial DNA is particularly useful in identifying very old or degraded remains because it",
+    "options": [
+      "Is present in many copies per cell and is inherited maternally",
+      "Is unique to each individual",
+      "Is present only in nucleated cells",
+      "Does not mutate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "High copy number improves recovery from degraded samples, and maternal inheritance allows comparison with any maternal relative. The drawback is that it cannot distinguish between maternal relatives, so it excludes rather than individualises.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (samples for identification of a dead body)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (samples for identification of a dead body)"
+    }
+  },
+  {
+    "id": "fmt_q_117",
+    "questionNumber": 117,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Short tandem repeat profiling is preferred to older DNA fingerprinting methods in forensic work because it",
+    "options": [
+      "Requires large amounts of intact DNA",
+      "Can be amplified by PCR from tiny or partly degraded samples",
+      "Detects point mutations",
+      "Needs a fresh blood sample only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Classic DNA fingerprinting used restriction fragment analysis of VNTRs by Southern blot, which needs much more intact DNA. Y-STR profiling is used in sexual assault cases to characterise the male contribution in mixtures.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identification samples), 2024 INI-CET pathology (RFLP for identity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (identification samples), 2024 INI-CET pathology (RFLP for identity)"
+    }
+  },
+  {
+    "id": "fmt_q_118",
+    "questionNumber": 118,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Superimposition is a technique used for identification by comparing",
+    "options": [
+      "Dental casts only",
+      "Two fingerprints",
+      "A radiograph or photograph of the skull with an antemortem photograph of the face",
+      "DNA profiles"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is a method of exclusion rather than positive identification. Frontal sinus patterns on radiographs are, by contrast, individually unique and give strong positive identification.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identification of a dead body), 2023 INI-CET (age estimation methods)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (identification of a dead body), 2023 INI-CET (age estimation methods)"
+    }
+  },
+  {
+    "id": "fmt_q_119",
+    "questionNumber": 119,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "Tattoo marks are useful in identification, and when a tattoo has been removed the pigment may still be found in",
+    "options": [
+      "Bone marrow",
+      "The liver",
+      "The spleen",
+      "The regional lymph nodes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Macrophages carry pigment to draining nodes, so a tattoo that has faded or been excised can still be demonstrated histologically. Tattoos also give information about occupation, religion and prior custody.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identification features and samples)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (identification features and samples)"
+    }
+  },
+  {
+    "id": "fmt_q_120",
+    "questionNumber": 120,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "The \"corpus delicti\" in medico-legal terms means",
+    "options": [
+      "The essential facts proving that a crime has occurred, including the body in a case of homicide",
+      "The weapon used",
+      "The site of the crime",
+      "The post-mortem report"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Identification of the deceased is central to establishing it. Conviction without a body is possible on strong circumstantial evidence, but identification remains the first step in every unnatural death inquiry.",
+    "tag": "INI-CET",
+    "exam": "legal-procedure and identification clusters 2014–2024",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Identification",
+      "basedOn": "legal-procedure and identification clusters 2014–2024"
+    }
+  },
+  {
+    "id": "fmt_q_121",
+    "questionNumber": 121,
+    "subject": "Forensic Medicine",
+    "subTopic": "Identification",
+    "sub_topic": "Identification",
+    "stem": "In a mass disaster, the primary identifiers accepted internationally are",
+    "options": [
+      "Clothing, jewellery and documents",
+      "Fingerprints, dental records and DNA",
+      "Tattoos and scars",
+      "Visual recognition by relatives"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These are objective and comparable with antemortem records. Visual recognition, personal effects and medical findings are secondary identifiers, used in support. Interpol disaster victim identification forms standardise the process.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (identification samples), 2021 NEET-PG (fingerprint uniqueness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Identification",
+      "basedOn": "2024 INI-CET (identification samples), 2021 NEET-PG (fingerprint uniqueness)"
+    }
+  },
+  {
+    "id": "fmt_q_122",
+    "questionNumber": 122,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "A school principal learns that an 11-year-old pupil has been inappropriately touched by a relative. Under the POCSO Act the principal's legal obligation is to",
+    "options": [
+      "Wait for the parents to decide",
+      "Counsel the family privately and take no further step",
+      "Report the matter to the police or the Special Juvenile Police Unit",
+      "Arrange a medical examination first and then decide"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Reporting is mandatory for any person who has knowledge of an offence against a child, and failure to report is itself punishable. The same duty binds doctors. The Act is gender-neutral for victims and covers anyone under 18.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (11-year-old girl, inappropriate touching — inform police)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2023 INI-CET (11-year-old girl, inappropriate touching — inform police)"
+    }
+  },
+  {
+    "id": "fmt_q_123",
+    "questionNumber": 123,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "Under the POCSO Act, \"aggravated penetrative sexual assault\" includes an act committed",
+    "options": [
+      "Only by a stranger",
+      "Only when the child is under 10",
+      "Only when injury is caused",
+      "By a police officer, by a group, or during communal violence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Aggravating circumstances include offences by persons in a position of trust or authority (police, armed forces, public servants, staff of institutions, relatives), gang assault, use of a weapon, and assault causing grievous harm or pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2015 AIIMS (aggressive sexual assault — by gang, police, during communal violence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2024 INI-CET / 2015 AIIMS (aggressive sexual assault — by gang, police, during communal violence)"
+    }
+  },
+  {
+    "id": "fmt_q_124",
+    "questionNumber": 124,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "A 13-year-old is brought with an alleged history of sexual assault and the parents refuse medical examination. The correct course is",
+    "options": [
+      "Record the refusal in writing, inform the police, and do not examine against refusal",
+      "Examine the child anyway under emergency provisions",
+      "Discharge the child and take no further action",
+      "Wait for a court order before informing anyone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Examination requires valid consent, from the guardian for a child under 12. The mandatory duty to report is separate and is not waived by refusal of examination, and the child's welfare may then be addressed through the Child Welfare Committee.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (13-year-old, parents refuse — inform police and record refusal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Sexual Offences",
+      "basedOn": "2020 INI-CET (13-year-old, parents refuse — inform police and record refusal)"
+    }
+  },
+  {
+    "id": "fmt_q_125",
+    "questionNumber": 125,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "A 16-year-old girl attends with a forearm fracture she attributes to a fall, but has cigarette burns on the same forearm. The appropriate next step is",
+    "options": [
+      "Treat the fracture and discharge",
+      "A complete physical examination, with documentation of all injuries",
+      "Confront the accompanying adult",
+      "Refer only to orthopaedics"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Injuries inconsistent with the stated history, of varying ages and in protected sites, suggest abuse. Full documentation with a body chart, photographs where consented, and reporting under the relevant child protection provisions follow.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (16-year-old, cigarette burns — complete physical examination)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (16-year-old, cigarette burns — complete physical examination)"
+    }
+  },
+  {
+    "id": "fmt_q_126",
+    "questionNumber": 126,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "A 16-year-old alleged rape victim attends with her mother. The first step by the examining doctor is to",
+    "options": [
+      "Collect samples before taking any history",
+      "Perform the examination immediately without history",
+      "Take a detailed history and obtain informed consent, having ensured the police are informed",
+      "Send her away until the police arrive"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A doctor cannot refuse to examine a survivor of sexual assault; refusal is punishable. History guides sample collection, and consent must be taken from the survivor if 12 or over, with the guardian involved for younger children.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (16-year-old rape victim — detailed history then inform police)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2020 INI-CET (16-year-old rape victim — detailed history then inform police)"
+    }
+  },
+  {
+    "id": "fmt_q_127",
+    "questionNumber": 127,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "Vaginal swabs for the detection of spermatozoa in an adult survivor of sexual assault are considered worth collecting up to about",
+    "options": [
+      "2 weeks",
+      "6 hours",
+      "12 hours",
+      "72–96 hours after the incident"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Motile sperm persist only a few hours, non-motile sperm up to about 3–4 days in the vagina, and longer in the cervix. DNA may be recoverable even later, so samples are taken even beyond the classical window.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (vaginal swab up to 4 days)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Sexual Offences",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (vaginal swab up to 4 days)"
+    }
+  },
+  {
+    "id": "fmt_q_128",
+    "questionNumber": 128,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "The Barberio test used in the examination of a suspected seminal stain detects",
+    "options": [
+      "Spermine, as yellow needle-shaped crystals of spermine picrate",
+      "Acid phosphatase",
+      "Choline",
+      "Prostate-specific antigen"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The Florence test detects choline and gives dark brown rhombic crystals. Acid phosphatase and prostate-specific antigen (p30) are more sensitive modern markers, and microscopic identification of spermatozoa remains confirmatory.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Barberio's test detects spermine), 2020 NEET-PG (spermine picrate crystals, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2022 INI-CET (Barberio's test detects spermine), 2020 NEET-PG (spermine picrate crystals, 3X)"
+    }
+  },
+  {
+    "id": "fmt_q_129",
+    "questionNumber": 129,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "Vaginal epithelial cells on the penis of an accused are demonstrated by",
+    "options": [
+      "Barberio test",
+      "Lugol iodine, which stains their glycogen",
+      "Benzidine test",
+      "Takayama test"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Oestrogen-rich vaginal epithelium is glycogen-laden and stains mahogany-brown. Benzidine and Takayama tests are for blood. Swabs must be taken early, as the cells are lost on washing.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (vaginal cells on penis — Lugol's iodine test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2021 INI-CET (vaginal cells on penis — Lugol's iodine test)"
+    }
+  },
+  {
+    "id": "fmt_q_130",
+    "questionNumber": 130,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "An 18-year-old woman examined for an alleged sexual offence has an intact but lax hymen, separated labia majora, a flabby labia minora, a torn fourchette and a roomy vagina. The appropriate description is",
+    "options": [
+      "A virgin",
+      "Definite evidence of recent assault",
+      "A \"pseudo-virgin\" — habituated to intercourse despite an unruptured hymen",
+      "Evidence of childbirth"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "An elastic, distensible hymen can remain intact despite repeated intercourse. Conversely, an intact hymen never excludes assault, and its condition is not evidence of consent, which is why modern guidelines have abandoned the term \"virginity\" in reports.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2016 AIIMS (untorn hymen with roomy vagina — pseudo-virgin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Sexual Offences",
+      "basedOn": "2024 INI-CET / 2016 AIIMS (untorn hymen with roomy vagina — pseudo-virgin)"
+    }
+  },
+  {
+    "id": "fmt_q_131",
+    "questionNumber": 131,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "In the trial of a sexual offence involving a woman, the recording of evidence is conducted",
+    "options": [
+      "By the police, not the court",
+      "In open court always",
+      "Only in writing",
+      "In camera, with the identity of the survivor protected"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Disclosure of the survivor's identity is itself an offence. Under POCSO, child-friendly procedures apply, with a support person and no direct confrontation with the accused, and the trial is to be completed within a prescribed period.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (recording evidence in sexual assault — in camera proceeding)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2021 NEET-PG (recording evidence in sexual assault — in camera proceeding)"
+    }
+  },
+  {
+    "id": "fmt_q_132",
+    "questionNumber": 132,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "Match each term with its meaning.\n\n| Term | Meaning |\n|---|---|\n| 1. Posthumous child | a. Twins fathered by two different men |\n| 2. Superfecundation | b. A child born after the death of the father |\n| 3. Superfetation | c. Fertilisation of a second ovum in a later cycle during an existing pregnancy |\n| 4. Surrogacy | d. Gestation carried by a woman for another couple |",
+    "options": [
+      "1-b, 2-a, 3-c, 4-d",
+      "1-a, 2-b, 3-c, 4-d",
+      "1-b, 2-c, 3-a, 4-d",
+      "1-b, 2-a, 3-d, 4-c"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Superfecundation is established by DNA testing when twins have different fathers. These terms matter in questions of legitimacy and inheritance.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (posthumous child), 2022 NEET-PG (not the father of one twin — superfecundation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2023 NEET-PG (posthumous child), 2022 NEET-PG (not the father of one twin — superfecundation)"
+    }
+  },
+  {
+    "id": "fmt_q_133",
+    "questionNumber": 133,
+    "subject": "Forensic Medicine",
+    "subTopic": "Sexual Offences",
+    "sub_topic": "Sexual Offences",
+    "stem": "The constitutional articles commonly cited in relation to the rights of children in India include",
+    "options": [
+      "Articles 14, 19 and 21 only",
+      "Articles 39, 42 and 45",
+      "Articles 32 and 226",
+      "Articles 370 and 371"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Article 39 directs the State to protect children against exploitation, Article 42 covers maternity relief and humane working conditions, and Article 45 covers early childhood care and education. Article 24 prohibits child labour in hazardous work.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (articles related to child rights — 39, 42, 45)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Sexual Offences",
+      "basedOn": "2023 NEET-PG (articles related to child rights — 39, 42, 45)"
+    }
+  },
+  {
+    "id": "fmt_q_134",
+    "questionNumber": 134,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "Leading questions may be asked of a witness during",
+    "options": [
+      "Re-examination",
+      "Examination-in-chief",
+      "Cross-examination",
+      "No stage of a trial"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A leading question suggests its own answer, so it is not allowed in examination-in-chief, where the witness's own account is sought. The purpose of cross-examination is to test credibility, so the restriction is lifted. Re-examination is limited to clarifying matters raised in cross-examination.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (leading questions permitted during cross-examination)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 NEET-PG (leading questions permitted during cross-examination)"
+    }
+  },
+  {
+    "id": "fmt_q_135",
+    "questionNumber": 135,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "A witness who testifies to a fact that he personally perceived is a",
+    "options": [
+      "Hearsay witness",
+      "Expert witness",
+      "Hostile witness",
+      "Common witness, giving direct evidence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A common witness gives first-hand knowledge. An expert witness gives an opinion based on special skill. A witness who turns against the party that called him is declared hostile.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (first-hand knowledge — common witness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (first-hand knowledge — common witness)"
+    }
+  },
+  {
+    "id": "fmt_q_136",
+    "questionNumber": 136,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "A man testifies that he saw the accused carrying a knife in a park shortly before a killing. This is",
+    "options": [
+      "Circumstantial (indirect) evidence",
+      "Direct evidence of the killing",
+      "Hearsay",
+      "Documentary evidence"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The witness did not see the act itself; the fact proved only supports an inference. A conviction can rest on circumstantial evidence if the chain of circumstances is complete and points only to the accused.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET ('Z' saw 'A' with a knife before the murder — indirect evidence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2021 INI-CET ('Z' saw 'A' with a knife before the murder — indirect evidence)"
+    }
+  },
+  {
+    "id": "fmt_q_137",
+    "questionNumber": 137,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "Arrange the clauses of section 320 IPC (grievous hurt) in their statutory order.\n1. Permanent privation of the sight of either eye\n2. Emasculation\n3. Permanent privation of the hearing of either ear\n4. Destruction or permanent impairment of the powers of any member or joint",
+    "options": [
+      "1 → 2 → 3 → 4",
+      "2 → 1 → 3 → 4",
+      "2 → 3 → 1 → 4",
+      "2 → 1 → 4 → 3"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The eight clauses run: emasculation; privation of sight of either eye; privation of hearing of either ear; privation of any member or joint; destruction or permanent impairment of powers of any member or joint; permanent disfiguration of head or face; fracture or dislocation of a bone or tooth; and any hurt endangering life or causing 20 days of incapacity. The corresponding provision in the Bharatiya Nyaya Sanhita is section 116.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (arrange clauses of section 320 IPC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 INI-CET (arrange clauses of section 320 IPC)"
+    }
+  },
+  {
+    "id": "fmt_q_138",
+    "questionNumber": 138,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "A doctor discusses the benefits, risks and alternatives of a procedure with a patient, who then agrees. This is",
+    "options": [
+      "Expressed oral consent without more",
+      "Implied consent",
+      "Informed consent",
+      "Proxy consent"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Implied consent is inferred from conduct, as when a patient offers an arm for examination. Loco parentis consent is given by a person temporarily in charge of a child. Consent for a general physical examination is valid from age 12; for most procedures the age is 18.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (discussion of advantages and disadvantages — informed consent)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 NEET-PG (discussion of advantages and disadvantages — informed consent)"
+    }
+  },
+  {
+    "id": "fmt_q_139",
+    "questionNumber": 139,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "An emergency hysterectomy is performed in good faith to save the life of an unconscious patient without consent. The doctor's position is that he",
+    "options": [
+      "Must obtain retrospective consent for protection",
+      "Is liable for assault",
+      "Is liable for negligence automatically",
+      "Is protected, because an act done in good faith for the benefit of a person unable to consent is not an offence"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Sections 88 to 92 IPC (now sections 26 to 32 of the Bharatiya Nyaya Sanhita) cover acts done in good faith. The protection extends only to what is necessary to save life or prevent serious harm, and the reasons must be documented.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (emergency hysterectomy without consent — doctor not liable)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 NEET-PG (emergency hysterectomy without consent — doctor not liable)"
+    }
+  },
+  {
+    "id": "fmt_q_140",
+    "questionNumber": 140,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "In an action for civil medical negligence, the burden of proof lies on",
+    "options": [
+      "The patient, who must establish duty, breach and resulting damage",
+      "The doctor",
+      "The hospital",
+      "The State"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The standard is the balance of probabilities, and the Bolam principle is applied. The burden shifts to the defendant where *res ipsa loquitur* applies, as when a swab or instrument is left inside the body.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (civil negligence — onus of proof on patient)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 NEET-PG (civil negligence — onus of proof on patient)"
+    }
+  },
+  {
+    "id": "fmt_q_141",
+    "questionNumber": 141,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "A surgeon who operates while intoxicated and injures a major vessel, causing death, is liable for",
+    "options": [
+      "Civil negligence only",
+      "Criminal negligence",
+      "No liability",
+      "Contributory negligence"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Criminal negligence requires gross negligence or recklessness, proved beyond reasonable doubt, and is charged under section 304A IPC (section 106 of the Bharatiya Nyaya Sanhita). Operating while intoxicated is reckless disregard, not mere error of judgement.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (drunk doctor injures major vessel — criminal negligence), 2023 NEET-PG (burden of proof in civil negligence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2020 NEET-PG (drunk doctor injures major vessel — criminal negligence), 2023 NEET-PG (burden of proof in civil negligence)"
+    }
+  },
+  {
+    "id": "fmt_q_142",
+    "questionNumber": 142,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "Under the doctrine of \"borrowed servant\", a nurse assisting at an operation under the surgeon's direct control is regarded for that period as the servant of",
+    "options": [
+      "The patient",
+      "The hospital",
+      "The surgeon",
+      "The nursing council"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is why the statement that she remains the hospital's servant is false. The related doctrine of *respondeat superior* makes an employer vicariously liable for employees' acts, and the \"captain of the ship\" doctrine holds the surgeon responsible for the operating team.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (borrowed servant — nurse is servant of the hospital, false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Legal Procedure",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (borrowed servant — nurse is servant of the hospital, false)"
+    }
+  },
+  {
+    "id": "fmt_q_143",
+    "questionNumber": 143,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "Under the regulations governing medical practice in India, a patient who requests a copy of the hospital records must be supplied them within",
+    "options": [
+      "30 days",
+      "24 hours",
+      "7 days",
+      "72 hours"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Medico-legal records are retained for a minimum of 3 years from the last entry, and in-patient records are commonly kept longer. Refusal to supply records on request is professional misconduct.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (hospital records returned within 72 hours)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2024 INI-CET / 2014 AIIMS (hospital records returned within 72 hours)"
+    }
+  },
+  {
+    "id": "fmt_q_144",
+    "questionNumber": 144,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "Under the MTP Act as amended in 2021, the minimum age at which a woman may give valid consent for termination on her own is",
+    "options": [
+      "18 years",
+      "16 years",
+      "21 years",
+      "12 years"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Below 18, or for a woman with mental illness, the guardian's written consent is required. The husband's consent is never needed. Termination up to 20 weeks needs one registered medical practitioner's opinion, and 20–24 weeks needs two for specified categories.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (minimum legal age of consent under MTP Act), 2023 NEET-PG (whose presence is not required for MTP authorisation — lawyer)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2024 INI-CET (minimum legal age of consent under MTP Act), 2023 NEET-PG (whose presence is not required for MTP authorisation — lawyer)"
+    }
+  },
+  {
+    "id": "fmt_q_145",
+    "questionNumber": 145,
+    "subject": "Forensic Medicine",
+    "subTopic": "Legal Procedure",
+    "sub_topic": "Legal Procedure",
+    "stem": "The Declaration of Oslo deals with",
+    "options": [
+      "Human experimentation",
+      "Therapeutic abortion",
+      "Torture",
+      "Organ transplantation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The Declaration of Helsinki covers biomedical research on human subjects, Tokyo covers torture, Geneva is the physician's oath, Sydney covers determination of death, and Lisbon covers patients' rights.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Declaration of Oslo — therapeutic abortion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Legal Procedure",
+      "basedOn": "2022 INI-CET (Declaration of Oslo — therapeutic abortion)"
+    }
+  },
+  {
+    "id": "fmt_q_146",
+    "questionNumber": 146,
+    "subject": "Forensic Medicine",
+    "subTopic": "Post-Mortem Examination",
+    "sub_topic": "Post-Mortem Examination",
+    "stem": "Match each autopsy technique with its description.\n\n| Technique | Description |\n|---|---|\n| 1. Virchow | a. En masse removal of the organs from tongue to prostate |\n| 2. Rokitansky | b. Removal and examination of organs one by one |\n| 3. Ghon | c. In situ dissection with minimal removal |\n| 4. Letulle | d. Removal en bloc as cervical, thoracic, abdominal and urogenital groups |",
+    "options": [
+      "1-b, 2-d, 3-c, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-b, 2-c, 3-d, 4-a",
+      "1-b, 2-c, 3-a, 4-d"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Letulle's technique preserves anatomical relationships best and is favoured where vascular connections matter. Rokitansky's in situ method is quickest but least satisfactory for demonstrating relationships.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — Rokitansky, Virchow, Ghon, Letulle), 2023 NEET-PG (en masse tongue to prostate — Letulle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Post-Mortem Examination",
+      "basedOn": "2024 INI-CET (match — Rokitansky, Virchow, Ghon, Letulle), 2023 NEET-PG (en masse tongue to prostate — Letulle)"
+    }
+  },
+  {
+    "id": "fmt_q_147",
+    "questionNumber": 147,
+    "subject": "Forensic Medicine",
+    "subTopic": "Post-Mortem Examination",
+    "sub_topic": "Post-Mortem Examination",
+    "stem": "A medico-legal autopsy in India differs from a clinical autopsy in that it",
+    "options": [
+      "Can be performed by any doctor without a requisition",
+      "Requires written consent from the next of kin",
+      "May be limited to one organ at the doctor's discretion",
+      "Requires no consent from relatives and is conducted on the authority of the investigating officer or magistrate"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It must be complete, with all three cavities opened, and is performed only on a written requisition with the body formally identified. A clinical (pathological) autopsy needs consent and may be restricted in scope.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (autopsy techniques), 2023 NEET-PG (Letulle technique)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Post-Mortem Examination",
+      "basedOn": "2024 INI-CET (autopsy techniques), 2023 NEET-PG (Letulle technique)"
+    }
+  },
+  {
+    "id": "fmt_q_148",
+    "questionNumber": 148,
+    "subject": "Forensic Medicine",
+    "subTopic": "Post-Mortem Examination",
+    "sub_topic": "Post-Mortem Examination",
+    "stem": "Exhumation in India can be ordered by",
+    "options": [
+      "A magistrate, with no time limit in law",
+      "The police alone",
+      "The treating doctor",
+      "Relatives of the deceased"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is usually carried out in daylight in the presence of the magistrate and the investigating officer, with samples of the earth above, below and around the body collected as controls. Arsenic and heavy metals may still be detected after long burial.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (arsenic detected in exhumed decomposed bodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Post-Mortem Examination",
+      "basedOn": "2021 NEET-PG (arsenic detected in exhumed decomposed bodies)"
+    }
+  },
+  {
+    "id": "fmt_q_149",
+    "questionNumber": 149,
+    "subject": "Forensic Medicine",
+    "subTopic": "Post-Mortem Examination",
+    "sub_topic": "Post-Mortem Examination",
+    "stem": "The incision used to examine the neck structures in a suspected case of strangulation, allowing a bloodless field, is best done",
+    "options": [
+      "As the first step before any other dissection",
+      "After removing the brain and draining the neck veins, using a layered anterior dissection",
+      "Through a posterior approach only",
+      "By blunt finger dissection alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Draining the venous bed first prevents post-mortem artefactual haemorrhage that could be mistaken for antemortem bruising. The hyoid, thyroid cartilage and strap muscles are then examined layer by layer.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (ligature strangulation findings), 2022 INI-CET (hanging asymmetry)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Post-Mortem Examination",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (ligature strangulation findings), 2022 INI-CET (hanging asymmetry)"
+    }
+  },
+  {
+    "id": "fmt_q_150",
+    "questionNumber": 150,
+    "subject": "Forensic Medicine",
+    "subTopic": "Post-Mortem Examination",
+    "sub_topic": "Post-Mortem Examination",
+    "stem": "A \"negative autopsy\" is one in which",
+    "options": [
+      "Only external examination was done",
+      "The autopsy was refused by relatives",
+      "No cause of death is found even after full dissection, histology and toxicology",
+      "The report was not submitted"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It accounts for a small percentage of cases. An \"obscure autopsy\" is one where findings are minimal or indefinite. Recognised causes include vagal inhibition, certain arrhythmias, anaphylaxis and some poisons.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (autopsy techniques), 2021 INI-CET (vagal inhibition in cold-water drowning)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Post-Mortem Examination",
+      "basedOn": "2024 INI-CET (autopsy techniques), 2021 INI-CET (vagal inhibition in cold-water drowning)"
+    }
+  }
+]

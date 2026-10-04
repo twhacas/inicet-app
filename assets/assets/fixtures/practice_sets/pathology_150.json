@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "path_q_1",
+    "questionNumber": 1,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "Match each condition with its iron profile.\n\n| Condition | Profile |\n|---|---|\n| 1. Iron-deficiency anaemia | a. Ferritin raised, TIBC low, transferrin saturation low |\n| 2. Anaemia of chronic disease | b. Ferritin normal, iron studies normal, HbA₂ raised |\n| 3. β-thalassaemia trait | c. Ferritin raised, transferrin saturation raised, ring sideroblasts |\n| 4. Sideroblastic anaemia | d. Ferritin low, TIBC raised, transferrin saturation low |",
+    "options": [
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ferritin is the best single test for iron deficiency, but it is an acute-phase reactant and rises in inflammation. In anaemia of chronic disease, iron is plentiful but locked away in macrophages.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (IDA iron profile — 7X), 2020 INI-CET (ACD — 5X)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (IDA iron profile — 7X), 2020 INI-CET (ACD — 5X)"
+    }
+  },
+  {
+    "id": "path_q_2",
+    "questionNumber": 2,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A 22-year-old has Hb 10.8 g/dL, MCV 64 fL and an RBC count of 5.8 million/µL. The Mentzer index and the most likely diagnosis are",
+    "options": [
+      "18; iron-deficiency anaemia",
+      "11; β-thalassaemia trait",
+      "11; iron-deficiency anaemia",
+      "15; anaemia of chronic disease"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mentzer index = MCV ÷ RBC count (millions) = 64 ÷ 5.8 ≈ 11. Below 13 suggests thalassaemia trait, where many small red cells are made; above 13 suggests iron deficiency. Confirm with HbA₂ by HPLC.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (Hb 9, MCV 60, RBC 5.2 million — next test HbA₂)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2020 NEET-PG (Hb 9, MCV 60, RBC 5.2 million — next test HbA₂)"
+    }
+  },
+  {
+    "id": "path_q_3",
+    "questionNumber": 3,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "The key mediator that traps iron in macrophages in anaemia of chronic disease is",
+    "options": [
+      "Transferrin",
+      "Erythropoietin",
+      "Hepcidin, induced by IL-6, which degrades ferroportin",
+      "DMT1"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ferroportin is the only cellular iron exporter. Without it, both gut absorption and release from macrophages are blocked. Iron overload also raises hepcidin, while hypoxia and active erythropoiesis (via erythroferrone) lower it.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (hepcidin downregulates ferroportin — 3X), 2021 INI-CET (ferritin raised in ACD)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (hepcidin downregulates ferroportin — 3X), 2021 INI-CET (ferritin raised in ACD)"
+    }
+  },
+  {
+    "id": "path_q_4",
+    "questionNumber": 4,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "The earliest peripheral smear finding of a developing megaloblastic anaemia, which may appear before macrocytosis, is",
+    "options": [
+      "Macro-ovalocytes",
+      "Howell–Jolly bodies",
+      "Basophilic stippling",
+      "Hypersegmented neutrophils"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This means at least one neutrophil with 6 or more lobes, or more than 5% with 5 lobes. It reflects impaired DNA synthesis in all dividing cells. The marrow shows nuclear–cytoplasmic asynchrony and giant metamyelocytes.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (hypersegmented neutrophils — B12), 2022 NEET-PG (B12 deficiency case)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2022 INI-CET (hypersegmented neutrophils — B12), 2022 NEET-PG (B12 deficiency case)"
+    }
+  },
+  {
+    "id": "path_q_5",
+    "questionNumber": 5,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A young software engineer living on fast food develops macrocytic anaemia within a few months, while his B₁₂ is normal. Folate deficiency appears so quickly because",
+    "options": [
+      "Folate is absorbed only in the terminal ileum",
+      "Folate needs intrinsic factor",
+      "Body folate stores last only about 3–4 months, whereas B₁₂ stores last 3–5 years",
+      "Folate is destroyed by gastric acid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Folate comes from green vegetables and fruit, is destroyed by cooking, and is absorbed in the jejunum. Giving folate alone to a B₁₂-deficient patient can correct the anaemia while the neurological damage gets worse.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (junk food, raised MCV — folate, 4X), 2021 NEET-PG (folate therapy worsening neurology)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (junk food, raised MCV — folate, 4X), 2021 NEET-PG (folate therapy worsening neurology)"
+    }
+  },
+  {
+    "id": "path_q_6",
+    "questionNumber": 6,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A 2-year-old with frontal bossing and a transfusion-dependent anaemia has HbF of 92% on HPLC. The investigation that identifies the exact defect, for prenatal counselling of the family, is",
+    "options": [
+      "Osmotic fragility test",
+      "Repeat HPLC of both parents only",
+      "Bone marrow examination",
+      "β-globin gene mutation analysis (ARMS-PCR or sequencing)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "HPLC and the smear (target cells, microcytes, nucleated RBCs, teardrop cells) establish β-thalassaemia major. Prenatal diagnosis by chorionic villus sampling needs the specific mutations to be known.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (definitive investigation — globin gene sequencing), 2020 INI-CET (HbF 90% smear — 4X), 2020 INI-CET (smear and HPLC)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2023 INI-CET (definitive investigation — globin gene sequencing), 2020 INI-CET (HbF 90% smear — 4X), 2020 INI-CET (smear and HPLC)"
+    }
+  },
+  {
+    "id": "path_q_7",
+    "questionNumber": 7,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A child with hereditary spherocytosis suddenly develops severe anaemia with a reticulocyte count close to zero. The virus responsible enters erythroid progenitors through",
+    "options": [
+      "CD21",
+      "CD4",
+      "P antigen (globoside)",
+      "Duffy antigen"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Parvovirus B19 causes a transient aplastic crisis. It is dangerous in conditions with a short red-cell lifespan (spherocytosis, sickle cell disease, thalassaemia). Giant pronormoblasts are seen in the marrow. CD21 is the EBV receptor; Duffy is the receptor for *P. vivax*.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (virus causing aplasia in thalassaemia — parvovirus), 2020 INI-CET (EBV receptor CD21)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (virus causing aplasia in thalassaemia — parvovirus), 2020 INI-CET (EBV receptor CD21)"
+    }
+  },
+  {
+    "id": "path_q_8",
+    "questionNumber": 8,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "Hydroxyurea reduces vaso-occlusive crises in sickle cell anaemia mainly by",
+    "options": [
+      "Increasing HbF, which inhibits HbS polymerisation",
+      "Converting the β-globin mutation",
+      "Increasing intracellular 2,3-BPG",
+      "Raising the platelet count"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It also lowers neutrophil counts and adhesion. Polymerisation is promoted by deoxygenation, dehydration (raised MCHC) and acidosis. The underlying lesion is a missense point mutation (Glu6Val).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (hydroxyurea reduces crises), 2023 INI-CET / 2024 INI-CET (sickle mutation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2023 INI-CET (hydroxyurea reduces crises), 2023 INI-CET / 2024 INI-CET (sickle mutation)"
+    }
+  },
+  {
+    "id": "path_q_9",
+    "questionNumber": 9,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "The smear of a 10-year-old with sickle cell anaemia shows small, round, dark-purple inclusions in many red cells. These indicate",
+    "options": [
+      "Lead poisoning",
+      "Functional asplenia (autosplenectomy)",
+      "Iron overload",
+      "Megaloblastic change"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "These are Howell–Jolly bodies (nuclear remnants), normally removed by the spleen. Loss of splenic function predisposes to infection with encapsulated organisms. Salmonella is the classic cause of osteomyelitis in sickle cell disease.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Howell–Jolly — nuclear remnants), 2021 NEET-PG (small spleen), 2020 NEET-PG (Salmonella osteomyelitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2024 INI-CET (Howell–Jolly — nuclear remnants), 2021 NEET-PG (small spleen), 2020 NEET-PG (Salmonella osteomyelitis)"
+    }
+  },
+  {
+    "id": "path_q_10",
+    "questionNumber": 10,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "The most sensitive and specific screening test for hereditary spherocytosis is",
+    "options": [
+      "Incubated osmotic fragility test",
+      "Eosin-5′-maleimide (EMA) binding by flow cytometry",
+      "Direct Coombs test",
+      "Hb electrophoresis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "EMA binds band 3; spherocytes show reduced fluorescence. Hereditary spherocytosis is caused by defects of ankyrin, spectrin, band 3 or protein 4.2, is mostly autosomal dominant, and characteristically has a raised MCHC. A negative DAT helps rule out autoimmune haemolysis.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (EMA flow — hereditary spherocytosis), 2021 NEET-PG (HS — osmotic fragility), 2020 INI-CET (family history in HS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2017 AIIMS (EMA flow — hereditary spherocytosis), 2021 NEET-PG (HS — osmotic fragility), 2020 INI-CET (family history in HS)"
+    }
+  },
+  {
+    "id": "path_q_11",
+    "questionNumber": 11,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "In a G6PD-deficient patient with acute haemolysis, Heinz bodies are best demonstrated with",
+    "options": [
+      "Leishman stain",
+      "Perls' Prussian blue",
+      "A supravital stain such as crystal violet or new methylene blue",
+      "Periodic acid–Schiff"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Heinz bodies are precipitates of denatured haemoglobin and are not seen with Romanowsky stains. When splenic macrophages pluck them out, \"bite cells\" form. G6PD deficiency is X-linked, so males are mainly affected.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (G6PD — males and females equally affected T/F), 2021 INI-CET (G6PD features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2024 INI-CET (G6PD — males and females equally affected T/F), 2021 INI-CET (G6PD features)"
+    }
+  },
+  {
+    "id": "path_q_12",
+    "questionNumber": 12,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "Which statement about paroxysmal nocturnal haemoglobinuria is FALSE?",
+    "options": [
+      "It is caused by an acquired somatic PIGA mutation in a stem cell",
+      "Cells lack GPI-anchored CD55 and CD59",
+      "Thrombosis, especially of hepatic and abdominal veins, is the main cause of death",
+      "It is inherited in an X-linked recessive pattern"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "PIGA is on the X chromosome, but the mutation is acquired, not inherited. That is why PNH is \"the haemolytic anaemia that is not inherited\" (an intracorpuscular yet acquired defect). Flow cytometry (CD55/CD59, FLAER) is the gold standard. Eculizumab blocks C5.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not an inherited disorder — PNH), 2022 INI-CET / NEET-PG (PNH features; flow cytometry), 2019 NEET-PG (CD59)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2024 INI-CET (not an inherited disorder — PNH), 2022 INI-CET / NEET-PG (PNH features; flow cytometry), 2019 NEET-PG (CD59)"
+    }
+  },
+  {
+    "id": "path_q_13",
+    "questionNumber": 13,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A woman develops acrocyanosis in winter. Her blood clumps on the slide at room temperature, and the direct Coombs test is positive. The DAT is most likely positive for",
+    "options": [
+      "IgG only",
+      "C3d only",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In cold agglutinin disease, the IgM antibody binds red cells in cool peripheral blood, fixes complement and then falls off on warming, leaving only C3d. Causes include *Mycoplasma pneumoniae*, EBV and lymphoplasmacytic lymphoma. Warm AIHA (IgG) causes spherocytes and splenic destruction.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (December, cyanosis, RBC clumping — IgM cold AIHA, 3X), 2015 AIIMS (DCT positive conditions)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Rbc Disorders",
+      "basedOn": "2016 AIIMS (December, cyanosis, RBC clumping — IgM cold AIHA, 3X), 2015 AIIMS (DCT positive conditions)"
+    }
+  },
+  {
+    "id": "path_q_14",
+    "questionNumber": 14,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A patient has a reticulocyte count of 10% and a haematocrit of 22% (normal 45%). The corrected reticulocyte count is about",
+    "options": [
+      "4.9%",
+      "10%",
+      "20%",
+      "2.2%"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Corrected count = observed × (patient Hct ÷ normal Hct) = 10 × 22/45 ≈ 4.9%. Dividing further by the maturation factor (about 2 at this Hct) gives a reticulocyte production index of about 2.4. An index above 2–3 indicates an adequate marrow response, as in haemolysis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (corrected reticulocyte count calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2016 AIIMS (corrected reticulocyte count calculation)"
+    }
+  },
+  {
+    "id": "path_q_15",
+    "questionNumber": 15,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A patient has pancytopenia, a reticulocyte count of 0.3% and no splenomegaly. Aspiration gives a dry tap, and trephine biopsy shows more than 75% fat with no abnormal cells. The diagnosis is",
+    "options": [
+      "Myelofibrosis",
+      "Hairy cell leukaemia",
+      "Aplastic anaemia",
+      "Megaloblastic anaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Splenomegaly argues against aplastic anaemia. A dry tap with a **fibrotic, cellular** trephine suggests myelofibrosis or hairy cell leukaemia. Aplastic anaemia is mostly immune-mediated (T-cell attack on stem cells).",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (fatty marrow — aplastic anaemia), 2021 INI-CET (splenomegaly not seen in aplastic anaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2020 NEET-PG (fatty marrow — aplastic anaemia), 2021 INI-CET (splenomegaly not seen in aplastic anaemia)"
+    }
+  },
+  {
+    "id": "path_q_16",
+    "questionNumber": 16,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "A 55-year-old with isolated severe anaemia has a reticulocyte count close to zero, normal WBC and platelets, and a marrow almost devoid of erythroid precursors. CT shows an anterior mediastinal mass. The mass is most likely a",
+    "options": [
+      "Teratoma",
+      "Thymoma",
+      "Lymphoma",
+      "Retrosternal goitre"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Thymoma is associated with pure red cell aplasia, myasthenia gravis and hypogammaglobulinaemia (Good syndrome). Removing the tumour can reverse the aplasia.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (mediastinal mass and red cell aplasia), 2020 INI-CET (thymoma vs ALL — cytokeratin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2020 NEET-PG (mediastinal mass and red cell aplasia), 2020 INI-CET (thymoma vs ALL — cytokeratin)"
+    }
+  },
+  {
+    "id": "path_q_17",
+    "questionNumber": 17,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "\"Spur cell\" anaemia, with numerous acanthocytes on the smear, is classically seen in",
+    "options": [
+      "Advanced alcoholic liver disease",
+      "Iron-deficiency anaemia",
+      "Hereditary spherocytosis",
+      "Lead poisoning"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An excess of membrane cholesterol produces irregular spiky cells, which the spleen destroys. Acanthocytes are also seen in abetalipoproteinaemia, McLeod phenotype and neuroacanthocytosis (PKAN). Echinocytes (\"burr cells\") have regular short spines.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (acanthocytes — abetalipoproteinaemia, PKAN)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (acanthocytes — abetalipoproteinaemia, PKAN)"
+    }
+  },
+  {
+    "id": "path_q_18",
+    "questionNumber": 18,
+    "subject": "Pathology",
+    "subTopic": "Rbc Disorders",
+    "sub_topic": "Rbc Disorders",
+    "stem": "Schistocytes on a peripheral smear are expected in all of the following EXCEPT",
+    "options": [
+      "Thrombotic thrombocytopenic purpura",
+      "A malfunctioning mechanical heart valve",
+      "Disseminated intravascular coagulation",
+      "Hereditary spherocytosis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Schistocytes are red cells cut by fibrin strands or abnormal flow (microangiopathic or macroangiopathic haemolysis), with raised LDH and low haptoglobin. Spherocytosis is a membrane defect without fragmentation.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (schistocytes — mechanical valve), 2024 INI-CET (TTP — MAHA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Rbc Disorders",
+      "basedOn": "2020 NEET-PG (schistocytes — mechanical valve), 2024 INI-CET (TTP — MAHA)"
+    }
+  },
+  {
+    "id": "path_q_19",
+    "questionNumber": 19,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 9-year-old has an abdominal mass. Biopsy shows sheets of medium-sized cells with a \"starry sky\" pattern, Ki-67 close to 100%, CD10 positive and BCL2 negative. The characteristic genetic lesion is",
+    "options": [
+      "t(14;18) involving BCL2",
+      "t(11;14) involving cyclin D1",
+      "t(8;14) involving MYC",
+      "t(2;5) involving ALK"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is Burkitt lymphoma, the fastest-growing human tumour. The \"stars\" are tingible-body macrophages that have engulfed apoptotic cells. The endemic African form is associated with EBV and involves the jaw; the sporadic form involves the abdomen (ileocaecal region).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (starry sky — c-MYC, 10X), 2019 NEET-PG (CD19+, CD10+ — Burkitt)",
+    "repeats": 10,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (starry sky — c-MYC, 10X), 2019 NEET-PG (CD19+, CD10+ — Burkitt)"
+    }
+  },
+  {
+    "id": "path_q_20",
+    "questionNumber": 20,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Match each lymphoma with its characteristic translocation.\n\n| Lymphoma | Translocation |\n|---|---|\n| 1. Follicular lymphoma | a. t(11;18) API2–MALT1 |\n| 2. Mantle cell lymphoma | b. t(14;18) IGH–BCL2 |\n| 3. Gastric MALT lymphoma not responding to H. pylori eradication | c. t(8;14) MYC–IGH |\n| 4. Burkitt lymphoma | d. t(11;14) CCND1–IGH |",
+    "options": [
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BCL2 is anti-apoptotic and located on the mitochondrial membrane, so follicular lymphoma grows slowly by escaping cell death. t(11;14) also marks a good-prognosis subgroup of myeloma.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (follicular lymphoma — BCL-2), 2017 AIIMS (myeloma t(11;14)), 2016 AIIMS (BCL2 in mitochondria)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2018 AIIMS (follicular lymphoma — BCL-2), 2017 AIIMS (myeloma t(11;14)), 2016 AIIMS (BCL2 in mitochondria)"
+    }
+  },
+  {
+    "id": "path_q_21",
+    "questionNumber": 21,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 65-year-old man has generalised lymphadenopathy and splenomegaly. Lymph node cells are CD5+, CD23−, CD10− and cyclin D1+. The diagnosis is",
+    "options": [
+      "CLL/small lymphocytic lymphoma",
+      "Follicular lymphoma",
+      "Marginal zone lymphoma",
+      "Mantle cell lymphoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "CLL is also CD5+, but it is CD23+ and cyclin D1−. In the few cyclin D1-negative mantle cell lymphomas, nuclear SOX11 confirms the diagnosis. Lymphomatous polyposis of the gut is a classic presentation.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (cyclin D1-negative mantle cell lymphoma — SOX11), 2021 INI-CET (CLL — flow cytometry)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Wbc Disorders",
+      "basedOn": "2016 AIIMS (cyclin D1-negative mantle cell lymphoma — SOX11), 2021 INI-CET (CLL — flow cytometry)"
+    }
+  },
+  {
+    "id": "path_q_22",
+    "questionNumber": 22,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A woman with known CLL develops rapidly enlarging neck nodes, fever and weight loss over 6 weeks, with a sharp rise in LDH. Node biopsy will most likely show",
+    "options": [
+      "Diffuse large B-cell lymphoma (Richter transformation)",
+      "Reactive follicular hyperplasia",
+      "Hodgkin lymphoma in every case",
+      "Burkitt lymphoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Transformation occurs in about 5–10% of CLL and carries a poor prognosis. Smudge cells on the smear and CD5+/CD23+ flow cytometry establish the original CLL, which arises from mature naïve or memory B cells.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (CLL with rapid nodes — Richter), 2021 INI-CET / 2018 NEET-PG (smudge cells — flow, 3X), 2022 INI-CET (CLL origin)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2016 AIIMS (CLL with rapid nodes — Richter), 2021 INI-CET / 2018 NEET-PG (smudge cells — flow, 3X), 2022 INI-CET (CLL origin)"
+    }
+  },
+  {
+    "id": "path_q_23",
+    "questionNumber": 23,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A man has massive splenomegaly, pancytopenia, monocytopenia and a dry tap. Circulating cells have hair-like cytoplasmic projections. The most specific molecular abnormality is",
+    "options": [
+      "JAK2 V617F",
+      "BRAF V600E",
+      "BCR–ABL1",
+      "NPM1 mutation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hairy cell leukaemia is CD11c+, CD25+, CD103+, annexin A1+ and TRAP-positive, and is present in almost all classic cases. Reticulin fibrosis causes the dry tap. Cladribine is the treatment, and BRAF inhibitors are used when it relapses.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hair-like projections), 2023 INI-CET (dry tap — hairy cell)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2024 INI-CET (hair-like projections), 2023 INI-CET (dry tap — hairy cell)"
+    }
+  },
+  {
+    "id": "path_q_24",
+    "questionNumber": 24,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "The immunophenotype of a classic Reed–Sternberg cell is",
+    "options": [
+      "CD15+, CD30+, CD45−, CD20 usually negative",
+      "CD20+, CD45+, CD15−, CD30−",
+      "CD3+, CD4+, CD30−",
+      "CD19+, CD10+, TdT+"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The \"popcorn\" (L&H) cells of nodular lymphocyte-predominant Hodgkin lymphoma have the opposite profile: CD20+, CD45+, CD15−, CD30−. They are EBV-negative and have a good prognosis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (NLPHL — popcorn cells CD20+), 2019 NEET-PG (L&H cells), 2015 AIIMS (EBV not with NLPHL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (NLPHL — popcorn cells CD20+), 2019 NEET-PG (L&H cells), 2015 AIIMS (EBV not with NLPHL)"
+    }
+  },
+  {
+    "id": "path_q_25",
+    "questionNumber": 25,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Which feature favours non-Hodgkin lymphoma over Hodgkin lymphoma?",
+    "options": [
+      "Localised to a single axial group of nodes",
+      "Orderly, contiguous spread",
+      "Involvement of Waldeyer's ring and mesenteric nodes",
+      "Rare extranodal involvement"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "NHL spreads non-contiguously and is often extranodal. Hodgkin lymphoma typically involves cervical and mediastinal nodes, spreads in an orderly way, and rarely involves Waldeyer's ring or the mesentery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Waldeyer's ring in Hodgkin — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2024 INI-CET (Waldeyer's ring in Hodgkin — false)"
+    }
+  },
+  {
+    "id": "path_q_26",
+    "questionNumber": 26,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 15-year-old boy has a large anterior mediastinal mass and a high WBC count. The blasts are TdT+, CD7+ and cytoplasmic CD3+. The diagnosis is",
+    "options": [
+      "B-lymphoblastic leukaemia/lymphoma",
+      "T-lymphoblastic leukaemia/lymphoma",
+      "Thymoma",
+      "Hodgkin lymphoma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "TdT marks lymphoblasts (precursors). B-ALL is CD19+, CD10+, CD22+ and TdT+. Thymoma also contains TdT+ thymocytes, but its epithelial cells are cytokeratin-positive, which separates it from lymphoblastic lymphoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CD10, CD19, CD22, TdT — B-ALL), 2020 INI-CET / 2014 AIIMS (ALL vs thymoma — cytokeratin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2024 INI-CET (CD10, CD19, CD22, TdT — B-ALL), 2020 INI-CET / 2014 AIIMS (ALL vs thymoma — cytokeratin)"
+    }
+  },
+  {
+    "id": "path_q_27",
+    "questionNumber": 27,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Which finding indicates a POOR prognosis in childhood B-ALL?",
+    "options": [
+      "Hyperdiploidy (more than 50 chromosomes)",
+      "t(12;21) ETV6–RUNX1",
+      "Age between 2 and 10 years",
+      "KMT2A (MLL, 11q23) rearrangement in an infant"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Other poor-prognosis features are age under 1 or over 10, very high WBC, t(9;22), hypodiploidy and poor early response to steroids or therapy (minimal residual disease). Hyperdiploidy and ETV6–RUNX1 are favourable.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (good prognosis in ALL — hyperploidy), 2015 AIIMS (most important prognostic factor — steroid response)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2020 INI-CET (good prognosis in ALL — hyperploidy), 2015 AIIMS (most important prognostic factor — steroid response)"
+    }
+  },
+  {
+    "id": "path_q_28",
+    "questionNumber": 28,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 30-year-old presents with gum bleeding and DIC. The marrow is packed with hypergranular promyelocytes containing bundles of Auer rods. The drug that induces maturation of the leukaemic cells is",
+    "options": [
+      "Imatinib",
+      "All-trans retinoic acid (ATRA)",
+      "Cytarabine",
+      "Hydroxyurea"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Acute promyelocytic leukaemia carries t(15;17) PML–RARA. ATRA and arsenic trioxide release the block on differentiation. DIC comes from procoagulants and annexin II in the granules, and is a medical emergency.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (Auer rods — AML t(15;17)), 2021 NEET-PG (ATRA — PML–RARA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2022 NEET-PG (Auer rods — AML t(15;17)), 2021 NEET-PG (ATRA — PML–RARA)"
+    }
+  },
+  {
+    "id": "path_q_29",
+    "questionNumber": 29,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 2-year-old with Down syndrome has acute leukaemia. The blasts show cytoplasmic blebs and express CD41 and CD61. The mutation typically involved is",
+    "options": [
+      "GATA1",
+      "NPM1",
+      "FLT3-ITD",
+      "PML–RARA"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Acute megakaryoblastic leukaemia (AML-M7) is about 500 times more common in Down syndrome. It may follow transient abnormal myelopoiesis in the newborn. Marrow fibrosis often causes a dry tap.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (blebbed blasts — 47,XY,+21 megakaryoblastic), 2023 INI-CET (dry tap in AML-M7)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Wbc Disorders",
+      "basedOn": "2022 NEET-PG (blebbed blasts — 47,XY,+21 megakaryoblastic), 2023 INI-CET (dry tap in AML-M7)"
+    }
+  },
+  {
+    "id": "path_q_30",
+    "questionNumber": 30,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "In chronic myeloid leukaemia, which finding defines blast crisis (WHO)?",
+    "options": [
+      "Basophils of 20% or more in blood",
+      "Persistent thrombocytopenia",
+      "Blasts of 20% or more in blood or marrow, or extramedullary blast proliferation",
+      "Splenomegaly not responding to therapy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Options A, B and D are features of accelerated phase (with blasts 10–19%), together with new clonal abnormalities and resistance to TKIs. About two-thirds of blast crises are myeloid and one-third lymphoid.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (accelerated phase of CML), 2021 INI-CET / 2018 NEET-PG (CML t(9;22)), 2017 AIIMS (p190 BCR–ABL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Wbc Disorders",
+      "basedOn": "2023 INI-CET (accelerated phase of CML), 2021 INI-CET / 2018 NEET-PG (CML t(9;22)), 2017 AIIMS (p190 BCR–ABL)"
+    }
+  },
+  {
+    "id": "path_q_31",
+    "questionNumber": 31,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A man from a hilly region has Hb 19 g/dL with normal WBC and platelet counts. The single best test to separate polycythaemia vera from secondary polycythaemia is",
+    "options": [
+      "Red cell mass",
+      "Serum erythropoietin",
+      "Leucocyte alkaline phosphatase score",
+      "Bone marrow iron stain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In PV (JAK2 V617F in more than 95%), EPO is low because red cell production is autonomous. In hypoxic or EPO-secreting causes such as high altitude or renal tumours, it is normal or high. Aquagenic pruritus and erythromelalgia suggest PV.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (hilly area polycythaemia — EPO levels), 2023 INI-CET (PV — JAK2, pruritus after bath)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2016 AIIMS (hilly area polycythaemia — EPO levels), 2023 INI-CET (PV — JAK2, pruritus after bath)"
+    }
+  },
+  {
+    "id": "path_q_32",
+    "questionNumber": 32,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A \"dry tap\" on bone marrow aspiration is expected in all of the following EXCEPT",
+    "options": [
+      "Primary myelofibrosis",
+      "Hairy cell leukaemia",
+      "Immune thrombocytopenic purpura",
+      "Acute megakaryoblastic leukaemia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "ITP marrow is normal or hypercellular with increased megakaryocytes and aspirates easily. Dry taps result from fibrosis or a tightly packed marrow, as in metastases or some CML and ALL. Trephine biopsy is then essential.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (dry tap — hairy cell, AML-M7, CML), 2024 INI-CET (ITP marrow)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2023 INI-CET (dry tap — hairy cell, AML-M7, CML), 2024 INI-CET (ITP marrow)"
+    }
+  },
+  {
+    "id": "path_q_33",
+    "questionNumber": 33,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Which of the following indicates a POOR prognosis in multiple myeloma?",
+    "options": [
+      "t(11;14)",
+      "Low serum β₂-microglobulin",
+      "Hyperdiploidy",
+      "del(17p) with high serum β₂-microglobulin"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The International Staging System uses β₂-microglobulin and albumin. High-risk cytogenetics include del(17p), t(4;14) and t(14;16). Myeloma presents with CRAB features (hyperCalcaemia, Renal failure, Anaemia, lytic Bone lesions).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (myeloma case — 5X), 2020 NEET-PG (poor prognosis — β₂-microglobulin), 2017 AIIMS (t(11;14) good)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2022 INI-CET (myeloma case — 5X), 2020 NEET-PG (poor prognosis — β₂-microglobulin), 2017 AIIMS (t(11;14) good)"
+    }
+  },
+  {
+    "id": "path_q_34",
+    "questionNumber": 34,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "A 68-year-old has blurred vision, headache and nosebleeds. Serum shows an IgM M-spike, and the marrow has lymphoplasmacytic cells without lytic bone lesions. The mutation found in more than 90% of such cases is",
+    "options": [
+      "MYD88 L265P",
+      "BRAF V600E",
+      "JAK2 V617F",
+      "CALR"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is Waldenström macroglobulinaemia, which arises from post-germinal-centre B cells. Large pentameric IgM causes hyperviscosity, which is treated urgently with plasmapheresis. Unlike myeloma, lytic bone lesions are absent.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Waldenström — post-germinal centre B cells), myeloma cluster 2014–2023",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Wbc Disorders",
+      "basedOn": "2016 AIIMS (Waldenström — post-germinal centre B cells), myeloma cluster 2014–2023"
+    }
+  },
+  {
+    "id": "path_q_35",
+    "questionNumber": 35,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Besides Birbeck granules on electron microscopy, the most specific immunohistochemical marker of Langerhans cell histiocytosis is",
+    "options": [
+      "CD68",
+      "S100",
+      "CD163",
+      "Langerin (CD207)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Langerin is the protein that forms the tennis-racket Birbeck granules. LCH is also CD1a+ and S100+, and over half of cases carry BRAF V600E. Lytic skull lesions, diabetes insipidus and exophthalmos form the Hand–Schüller–Christian triad.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (LCH — Birbeck granules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (LCH — Birbeck granules)"
+    }
+  },
+  {
+    "id": "path_q_36",
+    "questionNumber": 36,
+    "subject": "Pathology",
+    "subTopic": "Wbc Disorders",
+    "sub_topic": "Wbc Disorders",
+    "stem": "Match each inclusion with what it is.\n\n| Inclusion | Nature |\n|---|---|\n| 1. Döhle bodies | a. Fused primary (azurophilic) granules |\n| 2. Auer rods | b. Iron-containing (siderotic) granules |\n| 3. Howell–Jolly bodies | c. Remnants of rough endoplasmic reticulum in toxic neutrophils |\n| 4. Pappenheimer bodies | d. Nuclear (DNA) remnants in red cells |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pappenheimer bodies stain with Perls' Prussian blue (when they are called siderotic granules). Basophilic stippling is aggregated ribosomal RNA, as seen in lead poisoning and thalassaemia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — Howell–Jolly, Döhle, flame bodies), 2021 INI-CET (match — granulocyte granules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Wbc Disorders",
+      "basedOn": "2024 INI-CET (match — Howell–Jolly, Döhle, flame bodies), 2021 INI-CET (match — granulocyte granules)"
+    }
+  },
+  {
+    "id": "path_q_37",
+    "questionNumber": 37,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A 24-year-old woman has menorrhagia and easy bruising. Her father and sister have similar symptoms. Platelet count is normal, bleeding time is prolonged and aPTT is mildly prolonged. The test that best confirms the diagnosis is",
+    "options": [
+      "Factor IX assay",
+      "Clot solubility in 5 M urea",
+      "Platelet aggregation with ADP",
+      "vWF antigen with ristocetin cofactor activity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "von Willebrand disease is the most common inherited bleeding disorder and is mostly autosomal dominant, affecting both sexes. vWF also carries factor VIII, so the aPTT may be prolonged. Type 1 is a mild quantitative defect, type 2 qualitative and type 3 severe.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (father and sister affected — vWD), 2023 NEET-PG (vWD types; raised BT), 2020 INI-CET (commonest inherited bleeding disorder)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (father and sister affected — vWD), 2023 NEET-PG (vWD types; raised BT), 2020 INI-CET (commonest inherited bleeding disorder)"
+    }
+  },
+  {
+    "id": "path_q_38",
+    "questionNumber": 38,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "Match each platelet disorder with its laboratory feature.\n\n| Disorder | Feature |\n|---|---|\n| 1. Bernard–Soulier syndrome | a. No aggregation with ADP, collagen or epinephrine; normal ristocetin response |\n| 2. Glanzmann thrombasthenia | b. Absent ristocetin response that corrects with normal plasma |\n| 3. von Willebrand disease | c. Giant platelets, thrombocytopenia, absent ristocetin response not corrected by plasma |\n| 4. Storage pool disease | d. Absent secondary wave of aggregation (dense-granule deficiency) |",
+    "options": [
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Bernard–Soulier is a defect of GPIb–IX–V (the receptor for vWF). Glanzmann is a defect of GPIIb/IIIa (the fibrinogen receptor). In vWD the platelets are normal and the plasma factor is missing, so adding normal plasma corrects it.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Bernard–Soulier — GpIb/IX), 2022 NEET-PG / 2018 AIIMS (Glanzmann — GpIIb/IIIa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2023 NEET-PG (Bernard–Soulier — GpIb/IX), 2022 NEET-PG / 2018 AIIMS (Glanzmann — GpIIb/IIIa)"
+    }
+  },
+  {
+    "id": "path_q_39",
+    "questionNumber": 39,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A 5-year-old develops petechiae two weeks after a viral illness. Platelets are 8,000/µL, other counts and the smear are normal, and there is wet purpura with mucosal bleeding. The most appropriate first-line treatment is",
+    "options": [
+      "Platelet transfusion alone",
+      "IV immunoglobulin (or corticosteroids)",
+      "Splenectomy",
+      "Fresh frozen plasma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Acute childhood ITP usually resolves on its own. Observation is enough when only skin bleeding is present, but mucosal bleeding with very low counts needs IVIG or steroids. The marrow shows increased megakaryocytes and is rarely needed. Splenectomy is for chronic, refractory adult ITP.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ITP — IVIG), 2022 NEET-PG (acute ITP — IVIG), 2015 AIIMS (ITP treatment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2024 INI-CET (ITP — IVIG), 2022 NEET-PG (acute ITP — IVIG), 2015 AIIMS (ITP treatment)"
+    }
+  },
+  {
+    "id": "path_q_40",
+    "questionNumber": 40,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "Platelet transfusion is relatively CONTRAINDICATED in",
+    "options": [
+      "Dengue with platelets of 15,000/µL and active severe bleeding",
+      "Thrombotic thrombocytopenic purpura",
+      "Chemotherapy-induced thrombocytopenia with bleeding",
+      "Massive transfusion"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In TTP, transfused platelets feed more microthrombi. HIT is the other classic contraindication, and transfusion is usually ineffective in ITP. TTP is treated with urgent plasma exchange, which removes anti-ADAMTS13 antibodies and replaces the enzyme. A stable dengue patient without significant bleeding needs only observation and fluids.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (contraindications to platelet transfusion), 2023 INI-CET (plasma in TTP; dengue with platelets 14,000)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2017 AIIMS (contraindications to platelet transfusion), 2023 INI-CET (plasma in TTP; dengue with platelets 14,000)"
+    }
+  },
+  {
+    "id": "path_q_41",
+    "questionNumber": 41,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A 4-year-old develops acute kidney injury, thrombocytopenia and microangiopathic haemolysis a week after bloody diarrhoea. ADAMTS13 activity is normal. The cause is most likely",
+    "options": [
+      "Shiga toxin-producing E. coli (O157:H7)",
+      "Acquired autoantibody to ADAMTS13",
+      "Complement factor H mutation",
+      "Disseminated intravascular coagulation from sepsis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is typical haemolytic uraemic syndrome: the toxin damages glomerular endothelium. TTP has ADAMTS13 below 10% with more neurological features. Atypical HUS (complement dysregulation, such as factor H) has no diarrhoeal prodrome. In DIC, PT and aPTT are prolonged.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (TTP triad), 2023 INI-CET (ADAMTS13 in TTP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2024 INI-CET (TTP triad), 2023 INI-CET (ADAMTS13 in TTP)"
+    }
+  },
+  {
+    "id": "path_q_42",
+    "questionNumber": 42,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A patient has delayed bleeding after surgery and poor wound healing. Platelet count, bleeding time, PT, aPTT and fibrinogen are all normal. The most useful screening test is",
+    "options": [
+      "Ristocetin-induced platelet aggregation",
+      "Thrombin time",
+      "Clot solubility test in 5 M urea or 1% monochloroacetic acid",
+      "D-dimer"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Factor XIII deficiency gives normal routine coagulation tests. Without XIIIa cross-linking, the fibrin clot dissolves in urea. Umbilical stump bleeding in newborns and intracranial bleeding are classic.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (umbilical bleeding, normal PT/aPTT — factor XIII), 2015 AIIMS (factor XIII cross-links clot)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2024 INI-CET (umbilical bleeding, normal PT/aPTT — factor XIII), 2015 AIIMS (factor XIII cross-links clot)"
+    }
+  },
+  {
+    "id": "path_q_43",
+    "questionNumber": 43,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A man found to have a markedly prolonged aPTT before surgery has never had abnormal bleeding, even after tooth extraction. The most likely deficiency is",
+    "options": [
+      "Factor VIII",
+      "Factor IX",
+      "Factor XI",
+      "Factor XII"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Contact activation by factor XII is important in the test tube but not for haemostasis in the body, where coagulation starts with tissue factor and factor VIIa. Factor XI deficiency (haemophilia C) causes mild bleeding after trauma.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (factor deficiency not affecting coagulation in vivo — XII), 2021 INI-CET (factor VII in extrinsic pathway)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2021 INI-CET (factor deficiency not affecting coagulation in vivo — XII), 2021 INI-CET (factor VII in extrinsic pathway)"
+    }
+  },
+  {
+    "id": "path_q_44",
+    "questionNumber": 44,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "Arrange these clotting factors in the order in which they act along the intrinsic pathway to fibrin.\n1. Factor IX\n2. Factor X\n3. Factor XI\n4. Prothrombin (factor II)",
+    "options": [
+      "3 → 1 → 2 → 4",
+      "1 → 3 → 2 → 4",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 4 → 2"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Factor XIIa activates XI, XIa activates IX, and IXa with VIIIa (the tenase complex) activates X. Xa with Va (prothrombinase) converts II to thrombin, which forms fibrin and activates XIII. The aPTT tests the intrinsic and common pathways; the PT tests the extrinsic and common pathways.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (arrange clotting factors 12-9-10-5-13), 2023 INI-CET (aPTT measures intrinsic pathway)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2020 INI-CET (arrange clotting factors 12-9-10-5-13), 2023 INI-CET (aPTT measures intrinsic pathway)"
+    }
+  },
+  {
+    "id": "path_q_45",
+    "questionNumber": 45,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "A woman with recurrent miscarriages has a prolonged aPTT that does NOT correct when her plasma is mixed 1:1 with normal plasma. She has had a deep vein thrombosis. The most likely cause is",
+    "options": [
+      "Factor VIII deficiency",
+      "Factor XII deficiency",
+      "Lupus anticoagulant",
+      "Vitamin K deficiency"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "If the mixing study corrects, a factor is missing; if it does not, an inhibitor is present. The antiphospholipid antibody prolongs phospholipid-dependent tests in vitro but causes **thrombosis** in vivo. It is confirmed with the dRVVT test.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (thrombophilia — lupus anticoagulant), 2023 INI-CET (aPTT), 2016 AIIMS (DIC labs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Haemostasis",
+      "basedOn": "2018 AIIMS (thrombophilia — lupus anticoagulant), 2023 INI-CET (aPTT), 2016 AIIMS (DIC labs)"
+    }
+  },
+  {
+    "id": "path_q_46",
+    "questionNumber": 46,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "Match each thromboelastography (TEG) parameter with what it mainly reflects.\n\n| TEG parameter | Reflects |\n|---|---|\n| 1. R time | a. Fibrinolysis |\n| 2. K time / α-angle | b. Platelet number and function |\n| 3. Maximum amplitude (MA) | c. Clotting factor activity (time to first fibrin) |\n| 4. LY30 | d. Fibrinogen level (speed of clot build-up) |",
+    "options": [
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "TEG gives a rapid, whole-blood picture of clot formation, strength and lysis. It guides targeted replacement in trauma, cardiac surgery and liver transplantation: FFP for a long R, cryoprecipitate for a low angle, platelets for a low MA, and tranexamic acid for a high LY30.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (MA in TEG — platelet function), 2022 INI-CET / NEET-PG (TEG — whole coagulation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Haemostasis",
+      "basedOn": "2020 INI-CET (MA in TEG — platelet function), 2022 INI-CET / NEET-PG (TEG — whole coagulation)"
+    }
+  },
+  {
+    "id": "path_q_47",
+    "questionNumber": 47,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "In suspected DIC, the most useful single laboratory evidence of ongoing intravascular coagulation and fibrinolysis is",
+    "options": [
+      "A prolonged bleeding time",
+      "A raised D-dimer (fibrin degradation products)",
+      "A low haemoglobin",
+      "A raised fibrinogen"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "D-dimer comes from plasmin breaking down cross-linked fibrin. DIC also shows falling platelets, prolonged PT and aPTT, low fibrinogen and schistocytes. Fibrinogen is an acute-phase reactant and may be falsely normal early on.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (best test for bleeding in DIC — raised FDP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2016 AIIMS (best test for bleeding in DIC — raised FDP)"
+    }
+  },
+  {
+    "id": "path_q_48",
+    "questionNumber": 48,
+    "subject": "Pathology",
+    "subTopic": "Haemostasis",
+    "sub_topic": "Haemostasis",
+    "stem": "Factor V Leiden predisposes to venous thrombosis because",
+    "options": [
+      "Factor V levels are greatly increased",
+      "Mutant factor Va resists inactivation by activated protein C",
+      "Antithrombin cannot bind heparin",
+      "Prothrombin levels are increased"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The Arg506Gln point mutation destroys the APC cleavage site. It is the commonest inherited thrombophilia in white populations. Protein C deficiency, by contrast, predisposes to warfarin-induced skin necrosis, because protein C falls before the procoagulant factors.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (commonest hypercoagulable state — factor V Leiden, 3X), 2018 AIIMS (thrombophilia through protein C), 2014 AIIMS (warfarin necrosis — protein C)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Haemostasis",
+      "basedOn": "2024 INI-CET (commonest hypercoagulable state — factor V Leiden, 3X), 2018 AIIMS (thrombophilia through protein C), 2014 AIIMS (warfarin necrosis — protein C)"
+    }
+  },
+  {
+    "id": "path_q_49",
+    "questionNumber": 49,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Match each vacutainer cap colour with its additive and a typical use.\n\n| Cap | Additive and use |\n|---|---|\n| 1. Lavender | a. Sodium fluoride with potassium oxalate — plasma glucose |\n| 2. Light blue | b. Lithium heparin — plasma electrolytes, ammonia |\n| 3. Grey | c. K₂/K₃ EDTA — CBC, HbA1c |\n| 4. Green | d. 3.2% trisodium citrate — PT, aPTT |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Fluoride inhibits enolase, which stops glycolysis in the tube. Citrate is used for coagulation tests at a 9:1 blood-to-anticoagulant ratio. *The 2023 INI-CET stem pairs \"blue cap\" with plasma glucose; glucose samples go in grey-cap fluoride tubes.*",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (EDTA for HbA1c; green for electrolytes), 2023 INI-CET (blue cap — trisodium citrate), 2021 INI-CET / 2014 AIIMS (grey cap — fluoride)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2024 INI-CET (EDTA for HbA1c; green for electrolytes), 2023 INI-CET (blue cap — trisodium citrate), 2021 INI-CET / 2014 AIIMS (grey cap — fluoride)"
+    }
+  },
+  {
+    "id": "path_q_50",
+    "questionNumber": 50,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Arrange the CLSI order of draw for venepuncture with multiple tubes.\n1. Lavender (EDTA)\n2. Light blue (citrate)\n3. Grey (fluoride/oxalate)\n4. Plain red / gold (serum)",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Full order: blood cultures → citrate → serum → heparin → EDTA → fluoride. Following it prevents additives carrying over between tubes; for example, EDTA carried over chelates calcium and gives a falsely low calcium. Prolonged tourniquet time also falsely raises calcium and proteins.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (serum calcium sampling — release tourniquet, 3X), 2016 AIIMS (sequence of events in sample collection)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2020 INI-CET (serum calcium sampling — release tourniquet, 3X), 2016 AIIMS (sequence of events in sample collection)"
+    }
+  },
+  {
+    "id": "path_q_51",
+    "questionNumber": 51,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Platelet concentrates are stored at 20–24 °C with constant agitation rather than refrigerated, because cold storage",
+    "options": [
+      "Causes bacterial overgrowth",
+      "Clusters GPIb on platelets, which are then quickly cleared by hepatic macrophages after transfusion",
+      "Activates factor XIII",
+      "Causes haemolysis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The price of room-temperature storage is a higher risk of bacterial contamination and a shelf life of only about 5 days. Red cells are stored at 2–6 °C and FFP at −18 °C or colder. Platelets left over in an emergency should be kept at room temperature, never in the fridge.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (storage temperatures — 3X), 2018 AIIMS (product not refrigerated — platelets), 2020 INI-CET (store platelets at room temperature)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2022 INI-CET / 2015 AIIMS (storage temperatures — 3X), 2018 AIIMS (product not refrigerated — platelets), 2020 INI-CET (store platelets at room temperature)"
+    }
+  },
+  {
+    "id": "path_q_52",
+    "questionNumber": 52,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "In an emergency when the patient's blood group is unknown, the \"universal\" donor groups for packed red cells and for plasma are, respectively",
+    "options": [
+      "AB negative and O positive",
+      "O positive and O negative",
+      "AB positive and AB positive",
+      "O negative and AB"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "O red cells lack A and B antigens. AB plasma lacks anti-A and anti-B antibodies. Rh matters for red cells, especially in women of child-bearing age, but not for plasma. ABO inheritance is codominant.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (FFP for unknown group — AB, 4X), 2016 AIIMS (ABO codominance)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (FFP for unknown group — AB, 4X), 2016 AIIMS (ABO codominance)"
+    }
+  },
+  {
+    "id": "path_q_53",
+    "questionNumber": 53,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Gamma irradiation of cellular blood components is done primarily to prevent",
+    "options": [
+      "Transfusion-associated graft-versus-host disease",
+      "Febrile non-haemolytic transfusion reactions",
+      "HLA alloimmunisation",
+      "Transmission of CMV"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Irradiation stops donor T lymphocytes from dividing. Options B to D are prevented by **leucodepletion**. *The 2021 INI-CET key credits irradiation with preventing HLA sensitisation and CMV, which mixes up the two methods.* Indications include immunodeficiency, intrauterine transfusion, transfusion from relatives, and stem cell transplant.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (irradiated blood prevents …), 2021 INI-CET / 2014 AIIMS (leucodepleted and irradiated blood — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2021 INI-CET (irradiated blood prevents …), 2021 INI-CET / 2014 AIIMS (leucodepleted and irradiated blood — 3X)"
+    }
+  },
+  {
+    "id": "path_q_54",
+    "questionNumber": 54,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Two hours into a plasma transfusion, a patient develops sudden breathlessness, fever and hypotension with bilateral infiltrates. BNP is normal, and there is no response to diuretics. The mechanism is",
+    "options": [
+      "Circulatory volume overload",
+      "ABO incompatibility",
+      "Donor anti-HLA or anti-HNA antibodies activating recipient neutrophils in the lungs",
+      "IgA deficiency with anaphylaxis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is TRALI, which occurs within 6 hours. Plasma from women who have had several pregnancies carries the highest risk. TACO, by contrast, causes hypertension, a raised BNP and improvement with diuretics.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (TRALI onset within 6 h), 2018 NEET-PG (TACO case)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (TRALI onset within 6 h), 2018 NEET-PG (TACO case)"
+    }
+  },
+  {
+    "id": "path_q_55",
+    "questionNumber": 55,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "Ten days after transfusion, a previously pregnant woman has a falling Hb, mild jaundice (raised unconjugated bilirubin) and a positive DAT. The antibody most often responsible for this delayed haemolytic reaction is",
+    "options": [
+      "Anti-A",
+      "Anti-Lewis",
+      "Anti-Kidd (Jk)",
+      "Anti-I"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Kidd antibodies drop to undetectable levels and are missed at cross-match, then return in an anamnestic response 3–14 days later. Kell is the most immunogenic system after ABO and D.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (delayed haemolytic reaction — unconjugated bilirubin), 2018 AIIMS (most immunogenic — Kell)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2023 INI-CET (delayed haemolytic reaction — unconjugated bilirubin), 2018 AIIMS (most immunogenic — Kell)"
+    }
+  },
+  {
+    "id": "path_q_56",
+    "questionNumber": 56,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "With CPDA-1 anticoagulant–preservative, the permitted shelf life of whole blood or packed red cells is",
+    "options": [
+      "21 days",
+      "35 days",
+      "42 days",
+      "5 days"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Adenine allows ATP to be regenerated, extending storage from 21 days (CPD) to 35 days. Additive solutions such as SAGM give 42 days. During storage, 2,3-BPG falls (left shift of the curve), and K⁺ and free Hb rise.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (CPDA for 35 days), 2023 NEET-PG (CPD vs ACD), 2024 INI-CET (stored blood left shift)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2017 AIIMS (CPDA for 35 days), 2023 NEET-PG (CPD vs ACD), 2024 INI-CET (stored blood left shift)"
+    }
+  },
+  {
+    "id": "path_q_57",
+    "questionNumber": 57,
+    "subject": "Pathology",
+    "subTopic": "Transfusion And Lab",
+    "sub_topic": "Transfusion And Lab",
+    "stem": "In flow cytometry, forward scatter (FSC) and side scatter (SSC) are proportional, respectively, to",
+    "options": [
+      "Cell size and internal complexity (granularity)",
+      "Granularity and cell size",
+      "DNA content and RNA content",
+      "Surface antigen and viability"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An FSC versus SSC dot plot separates lymphocytes, monocytes and granulocytes. Antigen expression is shown on fluorescence histograms and dot plots. Flow cytometry is the gold standard for PNH and for immunophenotyping CLL.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (forward scatter — cell size), 2022 INI-CET (flow shown by histogram and dot plot)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Transfusion And Lab",
+      "basedOn": "2018 AIIMS (forward scatter — cell size), 2022 INI-CET (flow shown by histogram and dot plot)"
+    }
+  },
+  {
+    "id": "path_q_58",
+    "questionNumber": 58,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Which laboratory finding is characteristic of apoptosis and NOT of necrosis?",
+    "options": [
+      "A diffuse \"smear\" of DNA on agarose gel",
+      "A \"ladder\" of DNA fragments in multiples of about 180–200 bp",
+      "Release of cell contents with inflammation",
+      "Cell swelling with membrane rupture"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Caspase-activated DNase cuts DNA between nucleosomes. Apoptotic cells shrink, keep their membranes intact, show phosphatidylserine for phagocytosis, and cause no inflammation. Enzyme activation occurs in both forms of death, so it does not separate them.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not a difference — enzyme activation), 2018 AIIMS (electrophoresis pattern of necrosis), 2020 INI-CET / 2014 AIIMS (apoptosis features — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2024 INI-CET (not a difference — enzyme activation), 2018 AIIMS (electrophoresis pattern of necrosis), 2020 INI-CET / 2014 AIIMS (apoptosis features — 3X)"
+    }
+  },
+  {
+    "id": "path_q_59",
+    "questionNumber": 59,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Arrange the events of the intrinsic (mitochondrial) pathway of apoptosis after DNA damage.\n1. Release of cytochrome c from mitochondria\n2. Activation of BAX/BAK by BH3-only proteins (such as PUMA, NOXA)\n3. Activation of executioner caspase-3\n4. Formation of the apoptosome (APAF-1 + caspase-9)",
+    "options": [
+      "1 → 2 → 4 → 3",
+      "2 → 4 → 1 → 3",
+      "2 → 1 → 3 → 4",
+      "2 → 1 → 4 → 3"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "p53 switches on PUMA and NOXA. Anti-apoptotic BCL2, BCL-XL and MCL-1 normally hold BAX/BAK in check. The extrinsic (Fas/TNF receptor) pathway goes through caspase-8 and joins at caspase-3.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (anti-apoptotic gene MCL-1), 2017 AIIMS (BCL2, BCL-XL, MCL1), 2020 INI-CET (apoptosis activated intrinsically or extrinsically)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (anti-apoptotic gene MCL-1), 2017 AIIMS (BCL2, BCL-XL, MCL1), 2020 INI-CET (apoptosis activated intrinsically or extrinsically)"
+    }
+  },
+  {
+    "id": "path_q_60",
+    "questionNumber": 60,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Venetoclax, used in CLL and AML, kills tumour cells by",
+    "options": [
+      "Inhibiting BTK",
+      "Blocking CD20",
+      "Acting as a BH3 mimetic that inhibits BCL2, freeing BAX/BAK to trigger apoptosis",
+      "Inhibiting the proteasome"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "CLL cells depend heavily on BCL2. Tumour lysis syndrome is the main early risk. BTK inhibitors (ibrutinib), anti-CD20 antibodies (rituximab) and proteasome inhibitors (bortezomib) act differently.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (anti-apoptotic genes), 2016 AIIMS (BCL2 in mitochondria)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cell Injury",
+      "basedOn": "2024 INI-CET (anti-apoptotic genes), 2016 AIIMS (BCL2 in mitochondria)"
+    }
+  },
+  {
+    "id": "path_q_61",
+    "questionNumber": 61,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Match each form of regulated cell death with its defining feature.\n\n| Cell death | Feature |\n|---|---|\n| 1. Pyroptosis | a. Iron-dependent lipid peroxidation, prevented by GPX4 |\n| 2. Necroptosis | b. One live cell invades and dies inside another |\n| 3. Ferroptosis | c. Caspase-1 activated by the inflammasome, releasing IL-1β |\n| 4. Entosis | d. RIPK1–RIPK3–MLKL signalling, independent of caspases |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Caspase-1 also converts pro-IL-1β into IL-1β. In emperipolesis, by contrast, the engulfed cell (for example a lymphocyte inside a histiocyte or megakaryocyte) survives and passes through.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (caspase-1 — pyroptosis), 2022 INI-CET (cell-in-cell — entosis), 2021 NEET-PG / 2018 AIIMS (IL-1 activated by caspase-1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cell Injury",
+      "basedOn": "2020 INI-CET (caspase-1 — pyroptosis), 2022 INI-CET (cell-in-cell — entosis), 2021 NEET-PG / 2018 AIIMS (IL-1 activated by caspase-1)"
+    }
+  },
+  {
+    "id": "path_q_62",
+    "questionNumber": 62,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Prominent emperipolesis of lymphocytes within large S100-positive histiocytes in massively enlarged cervical lymph nodes is the hallmark of",
+    "options": [
+      "Langerhans cell histiocytosis",
+      "Rosai–Dorfman disease",
+      "Kikuchi lymphadenitis",
+      "Castleman disease"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is sinus histiocytosis with massive lymphadenopathy. The histiocytes are S100+, CD68+ and CD1a−. Emperipolesis (one viable cell passing through another) is also seen in megakaryocytes and in autoimmune hepatitis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (one viable cell within another — emperipolesis), 2016 AIIMS (emperipolesis in autoimmune hepatitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2021 INI-CET (one viable cell within another — emperipolesis), 2016 AIIMS (emperipolesis in autoimmune hepatitis)"
+    }
+  },
+  {
+    "id": "path_q_63",
+    "questionNumber": 63,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "The ultrastructural change most reliably indicating IRREVERSIBLE cell injury is",
+    "options": [
+      "Cell swelling with loss of microvilli",
+      "Large, amorphous flocculent densities in mitochondria",
+      "Dilated endoplasmic reticulum with detached ribosomes",
+      "Myelin figures"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Irreversibility comes from severe mitochondrial dysfunction (failure to make ATP) and membrane damage, including lysosomal rupture. Nuclear pyknosis, karyorrhexis and karyolysis follow. The other options are features of reversible injury.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (signs of reversible injury)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2020 INI-CET (signs of reversible injury)"
+    }
+  },
+  {
+    "id": "path_q_64",
+    "questionNumber": 64,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Match each type of necrosis with its classic setting.\n\n| Necrosis | Setting |\n|---|---|\n| 1. Coagulative | a. Brain infarct, abscess |\n| 2. Liquefactive | b. Tuberculosis |\n| 3. Caseous | c. Immune complex vasculitis, malignant hypertension |\n| 4. Fibrinoid | d. Myocardial or renal infarct (outlines preserved) |",
+    "options": [
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-d, 2-a, 3-b, 4-c",
+      "1-d, 2-a, 3-c, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In coagulative necrosis, protein denaturation outpaces enzyme digestion, so \"ghost\" cell outlines remain, as in a wedge-shaped adrenal or renal infarct. Fat necrosis (pancreatitis) shows chalky saponification.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2017 AIIMS (necrosis in vessels — fibrinoid), 2015 AIIMS (wedge-shaped area with outlines — coagulative)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2020 NEET-PG / 2017 AIIMS (necrosis in vessels — fibrinoid), 2015 AIIMS (wedge-shaped area with outlines — coagulative)"
+    }
+  },
+  {
+    "id": "path_q_65",
+    "questionNumber": 65,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Psammoma bodies in papillary thyroid carcinoma are an example of",
+    "options": [
+      "Metastatic calcification",
+      "Dystrophic calcification",
+      "Heterotopic ossification",
+      "Hypercalcaemia-related calcification"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Dystrophic calcification occurs in dead or damaged tissue with normal serum calcium: atheromas, damaged valves, TB caseation, psammoma bodies. Metastatic calcification affects normal tissues in hypercalcaemia (lungs, kidneys, gastric mucosa). *Myositis ossificans, keyed in 2021, is heterotopic ossification, a different process.*",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (dystrophic calcification seen in …)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2021 INI-CET (dystrophic calcification seen in …)"
+    }
+  },
+  {
+    "id": "path_q_66",
+    "questionNumber": 66,
+    "subject": "Pathology",
+    "subTopic": "Cell Injury",
+    "sub_topic": "Cell Injury",
+    "stem": "Calorie restriction prolongs lifespan in experimental models, partly by activating sirtuins. Sirtuins are",
+    "options": [
+      "NAD⁺-dependent protein deacetylases that promote DNA repair and insulin sensitivity",
+      "Telomerase subunits",
+      "Pro-apoptotic caspases",
+      "Growth factor receptors"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Calorie restriction also dampens IGF-1/insulin signalling and mTOR. Ageing involves telomere shortening (telomerase activity falls with age), accumulated DNA damage (Werner syndrome, WRN helicase), and failing protein homeostasis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sirtuins), 2023 NEET-PG (calorie restriction), 2022 NEET-PG (telomerase with ageing), 2021 NEET-PG (Werner — helicase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cell Injury",
+      "basedOn": "2023 INI-CET (sirtuins), 2023 NEET-PG (calorie restriction), 2022 NEET-PG (telomerase with ageing), 2021 NEET-PG (Werner — helicase)"
+    }
+  },
+  {
+    "id": "path_q_67",
+    "questionNumber": 67,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Arrange the steps of leucocyte recruitment in acute inflammation.\n1. Firm adhesion by integrins binding ICAM-1\n2. Rolling mediated by selectins\n3. Transmigration (diapedesis) mediated by PECAM-1\n4. Margination",
+    "options": [
+      "4 → 1 → 2 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 3 → 1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "After transmigration, chemotaxis (driven by C5a, IL-8, LTB₄ and bacterial peptides) guides cells to the site. Chemokines switch integrins to a high-affinity state, which links rolling to firm adhesion.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (sequence of acute inflammation — 3X), 2021 INI-CET (PECAM-1)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (sequence of acute inflammation — 3X), 2021 INI-CET (PECAM-1)"
+    }
+  },
+  {
+    "id": "path_q_68",
+    "questionNumber": 68,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Match each adhesion molecule with its role.\n\n| Molecule | Role |\n|---|---|\n| 1. P- and E-selectin | a. Transmigration through intercellular junctions |\n| 2. LFA-1 (β2 integrin) | b. Initial rolling of leucocytes |\n| 3. VLA-4 (β1 integrin) | c. Firm adhesion of neutrophils to ICAM-1 |\n| 4. PECAM-1 (CD31) | d. Adhesion of lymphocytes, monocytes and eosinophils to VCAM-1 |",
+    "options": [
+      "1-b, 2-c, 3-d, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-c, 3-a, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "VLA-4 is the target of natalizumab (multiple sclerosis, Crohn's disease). Selectins bind sialyl-Lewis X on leucocytes; failure of that binding is leucocyte adhesion deficiency type 2.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (adhesion molecule — VLA), 2021 INI-CET (PECAM-1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Inflammation",
+      "basedOn": "2022 INI-CET (adhesion molecule — VLA), 2021 INI-CET (PECAM-1)"
+    }
+  },
+  {
+    "id": "path_q_69",
+    "questionNumber": 69,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "A newborn's umbilical cord has not separated by 4 weeks. He has recurrent bacterial skin infections without pus formation, and a very high neutrophil count. The defect is in",
+    "options": [
+      "NADPH oxidase",
+      "Sialyl-Lewis X fucosylation",
+      "CD18 (β2 integrin subunit)",
+      "LYST (lysosomal trafficking)"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is leucocyte adhesion deficiency type 1: neutrophils cannot adhere firmly and leave the vessels, so blood counts are high but tissues contain no pus. NADPH oxidase defects cause CGD; LYST defects cause Chédiak–Higashi syndrome.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (adhesion molecules), 2024 INI-CET (CGD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2022 INI-CET (adhesion molecules), 2024 INI-CET (CGD)"
+    }
+  },
+  {
+    "id": "path_q_70",
+    "questionNumber": 70,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Vascular leakage that starts 2–12 hours after sunburn and lasts for hours to days is the",
+    "options": [
+      "Immediate transient response",
+      "Immediate sustained response",
+      "Delayed prolonged response",
+      "Late-phase IgE response"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is due to direct endothelial damage in capillaries and venules (mild heat, UV, X-rays). Histamine (for example a thorn prick with mast cell release) gives the immediate transient type in venules. Severe burns give the immediate sustained type.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match — endothelial injury: sunburn, thorn prick)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2020 INI-CET (match — endothelial injury: sunburn, thorn prick)"
+    }
+  },
+  {
+    "id": "path_q_71",
+    "questionNumber": 71,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Anti-TNF therapy for rheumatoid arthritis can reactivate latent tuberculosis because TNF",
+    "options": [
+      "Directly kills mycobacteria",
+      "Is needed for antibody production",
+      "Maintains granuloma structure and macrophage activation",
+      "Inhibits IL-12"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "IL-12 from macrophages drives Th1 cells, whose IFN-γ turns macrophages into epithelioid cells and giant cells. TNF holds the granuloma together. Caseation reflects a type IV hypersensitivity response.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (caseous granuloma — IFN-γ), 2024 INI-CET (caseous granuloma — TB), 2017 AIIMS (caseous TB pathogenesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2023 INI-CET (caseous granuloma — IFN-γ), 2024 INI-CET (caseous granuloma — TB), 2017 AIIMS (caseous TB pathogenesis)"
+    }
+  },
+  {
+    "id": "path_q_72",
+    "questionNumber": 72,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Match each type of granuloma with its usual cause.\n\n| Granuloma | Cause |\n|---|---|\n| 1. Caseating with Langhans giant cells | a. Coxiella burnetii (Q fever) |\n| 2. Stellate with central neutrophils (suppurative) | b. Sarcoidosis |\n| 3. Ring of fibrin around a central lipid vacuole (\"doughnut\") | c. Tuberculosis |\n| 4. Non-caseating with asteroid and Schaumann bodies | d. Bartonella henselae (cat-scratch disease) |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Stellate suppurative granulomas are also seen in lymphogranuloma venereum and tularaemia. Asteroid bodies are not specific to sarcoidosis, but they suggest it in the right clinical setting.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2016 AIIMS (stellate granuloma — cat scratch), 2016 AIIMS (doughnut granuloma — Q fever)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2019 NEET-PG / 2016 AIIMS (stellate granuloma — cat scratch), 2016 AIIMS (doughnut granuloma — Q fever)"
+    }
+  },
+  {
+    "id": "path_q_73",
+    "questionNumber": 73,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Compared with healing by first intention, healing by second intention is characterised mainly by",
+    "options": [
+      "Less granulation tissue",
+      "No inflammation",
+      "Wound contraction by myofibroblasts and much more granulation tissue",
+      "Healing by regeneration without scarring"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Large wounds with lost tissue heal from the base upwards. Myofibroblasts (α-SMA positive) pull the edges together. \"Tertiary intention\" (delayed primary closure) is when a contaminated wound is left open for a few days and then sutured.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (wound sutured after 5 days — tertiary intention), 2014 AIIMS (collagen fibrils at 4–5 days)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2024 INI-CET (wound sutured after 5 days — tertiary intention), 2014 AIIMS (collagen fibrils at 4–5 days)"
+    }
+  },
+  {
+    "id": "path_q_74",
+    "questionNumber": 74,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "When skin sutures are removed at the end of the first week, the wound's tensile strength is about what percentage of unwounded skin?",
+    "options": [
+      "10%",
+      "50%",
+      "70–80%",
+      "100%"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Strength rises steeply over the next 4 weeks and plateaus at about 70–80% by 3 months. It never returns to 100%. Granulation tissue is rich in type III collagen, which is later replaced by type I collagen with lysyl oxidase cross-links.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (collagen type III in granulation tissue), 2019 NEET-PG / 2017 AIIMS (tensile strength — tropocollagen cross-linking)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (collagen type III in granulation tissue), 2019 NEET-PG / 2017 AIIMS (tensile strength — tropocollagen cross-linking)"
+    }
+  },
+  {
+    "id": "path_q_75",
+    "questionNumber": 75,
+    "subject": "Pathology",
+    "subTopic": "Inflammation",
+    "sub_topic": "Inflammation",
+    "stem": "Hepatic synthesis of acute-phase proteins such as CRP, fibrinogen, serum amyloid A and hepcidin is driven mainly by",
+    "options": [
+      "IL-6",
+      "IL-4",
+      "IL-10",
+      "TGF-β"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "IL-1 and TNF also contribute. Fever is produced by PGE₂ in the hypothalamus. IL-4 drives Th2 responses (eosinophils, IgE). IL-8 is the main neutrophil chemokine (important in ARDS).",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2016 AIIMS (fever — PGE₂), 2020 NEET-PG (IL-1 endogenous pyrogen), 2023 NEET-PG (IL-8 in ARDS; IL-4 eosinophils)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Inflammation",
+      "basedOn": "2018 NEET-PG / 2016 AIIMS (fever — PGE₂), 2020 NEET-PG (IL-1 endogenous pyrogen), 2023 NEET-PG (IL-8 in ARDS; IL-4 eosinophils)"
+    }
+  },
+  {
+    "id": "path_q_76",
+    "questionNumber": 76,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "Match each primary immunodeficiency with its defect.\n\n| Disorder | Defect |\n|---|---|\n| 1. Bruton agammaglobulinaemia | a. MHC class II not expressed (CIITA/RFX) |\n| 2. Chronic granulomatous disease | b. Btk — B cells fail to mature |\n| 3. Bare lymphocyte syndrome (type II) | c. CD40 ligand on activated T cells |\n| 4. X-linked hyper-IgM syndrome | d. NADPH oxidase |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In bare lymphocyte syndrome, the lack of MHC means HLA-mismatched transplants are poorly recognised, so rejection is least likely. CGD patients are infected by catalase-positive organisms (Staphylococcus aureus, Aspergillus, Serratia, Nocardia).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CGD; bare lymphocyte transplant; CD19+ CD40−), 2022 INI-CET (bare lymphocyte — MHC non-expression), 2023 INI-CET (CD40 — class switching)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2024 INI-CET (CGD; bare lymphocyte transplant; CD19+ CD40−), 2022 INI-CET (bare lymphocyte — MHC non-expression), 2023 INI-CET (CD40 — class switching)"
+    }
+  },
+  {
+    "id": "path_q_77",
+    "questionNumber": 77,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "A boy has recurrent sinopulmonary infections and Pneumocystis pneumonia. IgM is high, and IgG and IgA are almost absent. B cells are present in normal numbers. Activated CD4 T cells fail to express the molecule needed for",
+    "options": [
+      "Antigen presentation on MHC II",
+      "Signalling through the T-cell receptor",
+      "IL-2 receptor signalling",
+      "CD40L–CD40 interaction that drives class switching in B cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is X-linked hyper-IgM syndrome (CD40L defect). Autosomal forms involve CD40 itself on B cells (CD19+ CD40−) or AID. CD40L also activates macrophages, which explains the Pneumocystis infection.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CD19+ CD40− — hyper-IgM), 2023 INI-CET (absent CD40 — no class switching)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2024 INI-CET (CD19+ CD40− — hyper-IgM), 2023 INI-CET (absent CD40 — no class switching)"
+    }
+  },
+  {
+    "id": "path_q_78",
+    "questionNumber": 78,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "The preferred modern screening test for chronic granulomatous disease is",
+    "options": [
+      "Dihydrorhodamine (DHR) 123 oxidation by flow cytometry",
+      "Nitroblue tetrazolium test giving a blue colour",
+      "CD18 expression by flow cytometry",
+      "Serum immunoglobulin levels"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Normal neutrophils oxidise DHR to fluorescent rhodamine during the respiratory burst; CGD neutrophils do not. In the older NBT test, CGD cells **fail** to turn blue. X-linked CGD (gp91phox) is the commonest form.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (catalase-positive infections — CGD), 2020 INI-CET (free radicals — respiratory burst)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2024 INI-CET (catalase-positive infections — CGD), 2020 INI-CET (free radicals — respiratory burst)"
+    }
+  },
+  {
+    "id": "path_q_79",
+    "questionNumber": 79,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "The most common form of severe combined immunodeficiency is caused by mutation of",
+    "options": [
+      "Adenosine deaminase (autosomal recessive)",
+      "JAK3",
+      "RAG1/RAG2",
+      "The common γ chain of cytokine receptors (IL2RG), X-linked"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The γc chain is shared by the IL-2, -4, -7, -9, -15 and -21 receptors, so T and NK cells fail. ADA deficiency (the commonest autosomal recessive form) poisons lymphocytes with dATP. Absent thymic shadow and lymphopenia are typical findings.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (SCID — ADA, IL2R, JAK3), 2023 NEET-PG (absent thymic shadow, low ADA — SCID)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2020 INI-CET (SCID — ADA, IL2R, JAK3), 2023 NEET-PG (absent thymic shadow, low ADA — SCID)"
+    }
+  },
+  {
+    "id": "path_q_80",
+    "questionNumber": 80,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "In Wiskott–Aldrich syndrome, the typical immunoglobulin pattern is",
+    "options": [
+      "Low IgM, with high IgA and IgE",
+      "All immunoglobulins absent",
+      "High IgM, with low IgG and IgA",
+      "Normal immunoglobulins"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "WAS is X-linked (defect of the WASP actin regulator). Its triad is eczema, thrombocytopenia with **small** platelets, and recurrent infections, especially with encapsulated organisms because the IgM response to polysaccharides is poor. Lymphoma risk is increased.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (petechiae, eczema, small platelets — WASP, 2X), 2019 NEET-PG (WAS X-linked)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (petechiae, eczema, small platelets — WASP, 2X), 2019 NEET-PG (WAS X-linked)"
+    }
+  },
+  {
+    "id": "path_q_81",
+    "questionNumber": 81,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "An infant has neonatal tetany, a conotruncal heart defect and recurrent viral infections. Chest X-ray shows no thymic shadow. The confirmatory test is",
+    "options": [
+      "Sweat chloride",
+      "FISH for a 22q11.2 microdeletion",
+      "Flow cytometry for CD18",
+      "Karyotype for trisomy 18"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "DiGeorge syndrome (TBX1) results from failed development of the 3rd and 4th pharyngeal pouches: hypocalcaemia, T-cell deficiency, and truncus arteriosus or tetralogy. Chromosomal microarray is now often used instead of FISH.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (22q11 deletion — hypocalcaemia), 2024 INI-CET (FISH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2017 AIIMS (22q11 deletion — hypocalcaemia), 2024 INI-CET (FISH)"
+    }
+  },
+  {
+    "id": "path_q_82",
+    "questionNumber": 82,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "A child has chronic mucocutaneous candidiasis, hypoparathyroidism and adrenal insufficiency. The defective gene normally",
+    "options": [
+      "Encodes the IL-2 receptor",
+      "Mediates peripheral tolerance through FOXP3",
+      "Drives expression of tissue-specific self-antigens in thymic medullary epithelium for negative selection",
+      "Encodes CTLA-4"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is AIRE, and its loss causes autoimmune polyendocrine syndrome type 1 (APECED). Antibodies against IL-17 and IL-22 explain the candidiasis. FOXP3 defects (Tregs) cause IPEX syndrome.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (thymic gene regulating T cells — AIRE)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (thymic gene regulating T cells — AIRE)"
+    }
+  },
+  {
+    "id": "path_q_83",
+    "questionNumber": 83,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "Ipilimumab, used in metastatic melanoma, enhances anti-tumour T-cell responses by",
+    "options": [
+      "Blocking PD-1",
+      "Blocking CTLA-4, which otherwise competes with CD28 for B7 on antigen-presenting cells",
+      "Stimulating CD28 directly",
+      "Depleting B cells"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Full T-cell activation needs signal 1 (TCR–MHC) plus signal 2 (CD28–B7). CTLA-4 binds B7 more tightly and acts as a brake. PD-1 blockers (nivolumab, pembrolizumab) release a different checkpoint. Autoimmune side effects are common.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (T cells activated by CD28), 2020 INI-CET (anti-CTLA-4 in advanced cancer — T/F), 2016 AIIMS (co-stimulatory molecules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2024 INI-CET (T cells activated by CD28), 2020 INI-CET (anti-CTLA-4 in advanced cancer — T/F), 2016 AIIMS (co-stimulatory molecules)"
+    }
+  },
+  {
+    "id": "path_q_84",
+    "questionNumber": 84,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "Match each disorder with its hypersensitivity type.\n\n| Disorder | Type |\n|---|---|\n| 1. Allergic asthma (early phase) | a. Type IV |\n| 2. Myasthenia gravis | b. Type III |\n| 3. Arthus reaction | c. Type I |\n| 4. Contact dermatitis to nickel | d. Type II |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In type I reactions, mast cells release histamine and prostaglandins immediately and leukotrienes later. Graves disease and myasthenia gravis are type II reactions in which antibodies stimulate or block receptors. Serum sickness and the Arthus reaction are type III. Aspirin-exacerbated respiratory disease is **not** IgE-mediated.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (early phase type I — mast cells), 2018 AIIMS / 2017 AIIMS (serum sickness, Arthus — type III), 2022 NEET-PG (aspirin wheeze not type I)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2021 INI-CET (early phase type I — mast cells), 2018 AIIMS / 2017 AIIMS (serum sickness, Arthus — type III), 2022 NEET-PG (aspirin wheeze not type I)"
+    }
+  },
+  {
+    "id": "path_q_85",
+    "questionNumber": 85,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "The tuberculin (Mantoux) reaction is mediated principally by",
+    "options": [
+      "CD8⁺ cytotoxic T cells",
+      "IgE on mast cells",
+      "Immune complexes and complement",
+      "CD4⁺ Th1 cells, with IFN-γ-activated macrophages"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Delayed-type hypersensitivity peaks at 48–72 hours. CD8⁺ T-cell killing is the cytotoxic form of type IV reaction (for example virus-infected cells, some contact dermatitis). *The 2021 INI-CET key names CD8 T cells for DTH, which is not the classic answer.*",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (cell involved in DTH), 2022 INI-CET (Th1 cytokines — IL-2, IL-12, IFN-γ)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Immunity",
+      "basedOn": "2021 INI-CET (cell involved in DTH), 2022 INI-CET (Th1 cytokines — IL-2, IL-12, IFN-γ)"
+    }
+  },
+  {
+    "id": "path_q_86",
+    "questionNumber": 86,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "Match each amyloid protein with its clinical setting.\n\n| Amyloid | Setting |\n|---|---|\n| 1. AL (immunoglobulin light chain) | a. Long-term haemodialysis — carpal tunnel, joints |\n| 2. AA (serum amyloid A) | b. Plasma cell dyscrasias, \"primary\" amyloidosis |\n| 3. Aβ₂-microglobulin | c. Wild-type senile cardiac amyloid, familial neuropathy |\n| 4. ATTR (transthyretin) | d. Chronic inflammation (RA, TB, familial Mediterranean fever) |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cardiac amyloid causes restrictive cardiomyopathy. Aβ (from APP) is cerebral amyloid in Alzheimer disease. Plasma cells above 10% with eosinophilic deposits suggest AL amyloid.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (AL — primary), 2022 INI-CET (dialysis — β₂-microglobulin), 2020 INI-CET (match — SAA in FMF), 2024 INI-CET (cardiac amyloid image)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2023 INI-CET (AL — primary), 2022 INI-CET (dialysis — β₂-microglobulin), 2020 INI-CET (match — SAA in FMF), 2024 INI-CET (cardiac amyloid image)"
+    }
+  },
+  {
+    "id": "path_q_87",
+    "questionNumber": 87,
+    "subject": "Pathology",
+    "subTopic": "Immunity",
+    "sub_topic": "Immunity",
+    "stem": "With Congo red, amyloid appears salmon-pink in ordinary light and shows apple-green birefringence under polarised light. The birefringence is due to",
+    "options": [
+      "The high iron content of amyloid",
+      "Glycosaminoglycans alone",
+      "The cross-β-pleated sheet structure of the fibrils",
+      "Associated calcium"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Congo red binds regularly along the fibrils, which are 7.5–10 nm wide and non-branching on EM. Serum amyloid P and GAGs are minor components. Abdominal fat pad aspiration is a simple way to obtain tissue.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Congo red — salmon pink), 2020 INI-CET (Congo red not used for Aspergillus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Immunity",
+      "basedOn": "2022 INI-CET (Congo red — salmon pink), 2020 INI-CET (Congo red not used for Aspergillus)"
+    }
+  },
+  {
+    "id": "path_q_88",
+    "questionNumber": 88,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Match each disorder with its mode of inheritance.\n\n| Disorder | Inheritance |\n|---|---|\n| 1. Marfan syndrome | a. X-linked dominant |\n| 2. Cystic fibrosis | b. Mitochondrial |\n| 3. Rett syndrome | c. Autosomal dominant |\n| 4. Leber hereditary optic neuropathy | d. Autosomal recessive |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Marfan syndrome is caused by FBN1 (fibrillin). Rett syndrome (MECP2) is lethal in males, so mostly girls are affected. Albinism is also autosomal recessive.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (match — inheritance, 4X), 2022 INI-CET (Marfan pedigree — AD), 2021 INI-CET (XLD — Rett), 2021 NEET-PG (AR — CF)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (match — inheritance, 4X), 2022 INI-CET (Marfan pedigree — AD), 2021 INI-CET (XLD — Rett), 2021 NEET-PG (AR — CF)"
+    }
+  },
+  {
+    "id": "path_q_89",
+    "questionNumber": 89,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "In a pedigree, an affected father passes the trait to ALL his daughters and to NONE of his sons. Affected mothers pass it to half of their children of either sex. The pattern is",
+    "options": [
+      "Autosomal dominant",
+      "X-linked dominant",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A father gives his X only to daughters. In mitochondrial inheritance, affected **mothers** pass the trait to all their children and affected fathers to none. In X-linked recessive inheritance, mostly males are affected and carrier mothers transmit it.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (mitochondrial pedigree; only males affected — XLR), 2021 INI-CET (XLD — Rett)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2020 INI-CET (mitochondrial pedigree; only males affected — XLR), 2021 INI-CET (XLD — Rett)"
+    }
+  },
+  {
+    "id": "path_q_90",
+    "questionNumber": 90,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Match each trinucleotide repeat disorder with its repeat.\n\n| Disorder | Repeat |\n|---|---|\n| 1. Huntington disease | a. GAA (intronic) |\n| 2. Fragile X syndrome | b. CTG (3′ UTR) |\n| 3. Myotonic dystrophy type 1 | c. CAG (coding, polyglutamine) |\n| 4. Friedreich ataxia | d. CGG (5′ UTR) |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "In fragile X, CGG expansion causes hypermethylation and silencing of FMR1. It leads to macro-orchidism, a long face, large ears and intellectual disability. Myotonic dystrophy maps to chromosome 19.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (Huntington — trinucleotide), 2017 AIIMS (fragile X — FMR1), 2014 AIIMS (myotonic dystrophy — chromosome 19)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2022 NEET-PG (Huntington — trinucleotide), 2017 AIIMS (fragile X — FMR1), 2014 AIIMS (myotonic dystrophy — chromosome 19)"
+    }
+  },
+  {
+    "id": "path_q_91",
+    "questionNumber": 91,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Anticipation in Huntington disease (earlier and more severe onset in later generations) is most marked when the gene is inherited from the",
+    "options": [
+      "Father, because CAG repeats are unstable during spermatogenesis",
+      "Mother, because of mitochondrial transmission",
+      "Mother, because of oocyte arrest",
+      "Either parent equally"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Juvenile Huntington disease is usually paternally inherited. Fragile X expands mainly during **maternal** transmission, through the premutation stage. Anticipation itself is defined as earlier and more severe disease in successive generations.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (anticipation), 2022 NEET-PG (Huntington — trinucleotide expansion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Genetics",
+      "basedOn": "2015 AIIMS (anticipation), 2022 NEET-PG (Huntington — trinucleotide expansion)"
+    }
+  },
+  {
+    "id": "path_q_92",
+    "questionNumber": 92,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "The most common cardiovascular abnormality in Turner syndrome (45,X) is",
+    "options": [
+      "Ventricular septal defect",
+      "Tetralogy of Fallot",
+      "Bicuspid aortic valve",
+      "Patent ductus arteriosus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Bicuspid valve (about 30%) and preductal coarctation are typical, with a risk of aortic dissection. Other features: short stature (SHOX), webbed neck (cystic hygroma), widely spaced nipples, short 4th metacarpals, horseshoe kidney and streak ovaries.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Turner features), 2023 NEET-PG (45,X)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2024 INI-CET (Turner features), 2023 NEET-PG (45,X)"
+    }
+  },
+  {
+    "id": "path_q_93",
+    "questionNumber": 93,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "How many Barr bodies are present in the somatic cells of a 48,XXXY male?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Number of Barr bodies = number of X chromosomes − 1. Classic Klinefelter (47,XXY) has 1, and features gynaecomastia, long limbs, small firm testes and hypergonadotropic hypogonadism. Each extra X makes intellectual disability more likely.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (XXY — Klinefelter), 2024 INI-CET (aneuploidy — Klinefelter)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (XXY — Klinefelter), 2024 INI-CET (aneuploidy — Klinefelter)"
+    }
+  },
+  {
+    "id": "path_q_94",
+    "questionNumber": 94,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "A couple has had two children with Down syndrome. The mother is 26. The most likely karyotype finding in one parent is",
+    "options": [
+      "47,XX,+21",
+      "Mosaic trisomy 21",
+      "Normal karyotype, because recurrence is due only to age",
+      "A balanced Robertsonian translocation, 45,XX,t(14;21)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "About 95% of Down syndrome is free trisomy from maternal meiotic non-disjunction, linked to maternal age and with a low recurrence risk. About 4% is translocation Down syndrome, which carries a high familial recurrence risk, especially when the mother is the carrier.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (aneuploidy — trisomy 21), 2021 INI-CET (partial aneuploidy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Genetics",
+      "basedOn": "2024 INI-CET (aneuploidy — trisomy 21), 2021 INI-CET (partial aneuploidy)"
+    }
+  },
+  {
+    "id": "path_q_95",
+    "questionNumber": 95,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Arrange the steps of a peripheral blood karyotype.\n1. Arrest cells in metaphase with colcemid\n2. Culture heparinised blood with phytohaemagglutinin for about 72 hours\n3. G-band the chromosomes with trypsin–Giemsa and analyse\n4. Swell cells in hypotonic KCl and fix in methanol–acetic acid",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "1 → 2 → 4 → 3",
+      "2 → 1 → 3 → 4"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Phytohaemagglutinin makes T lymphocytes divide. Heparin is used because EDTA damages viable cells. C-banding stains centromeric heterochromatin (useful for dicentric chromosomes). Standard banding resolution (about 5–10 Mb) misses microdeletions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (arrange karyotyping steps), 2021 INI-CET (C-banding — dicentric chromosome), 2017 AIIMS (high-resolution karyotype and microdeletion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2023 INI-CET (arrange karyotyping steps), 2021 INI-CET (C-banding — dicentric chromosome), 2017 AIIMS (high-resolution karyotype and microdeletion)"
+    }
+  },
+  {
+    "id": "path_q_96",
+    "questionNumber": 96,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Which test detects copy-number gains and losses across the whole genome but CANNOT detect a balanced translocation?",
+    "options": [
+      "Conventional G-banded karyotype",
+      "Chromosomal microarray (array CGH / SNP array)",
+      "FISH with a break-apart probe",
+      "Sanger sequencing"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A balanced translocation has no net gain or loss of DNA, so arrays miss it, while karyotype and FISH detect it. FISH cannot detect point mutations, and Sanger sequencing misses mosaic or low-level variants below about 15–20%.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (FISH cannot detect point mutation), 2024 INI-CET (tests for aneuploidy), 2022 INI-CET (low allele frequency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Genetics",
+      "basedOn": "2023 INI-CET (FISH cannot detect point mutation), 2024 INI-CET (tests for aneuploidy), 2022 INI-CET (low allele frequency)"
+    }
+  },
+  {
+    "id": "path_q_97",
+    "questionNumber": 97,
+    "subject": "Pathology",
+    "subTopic": "Genetics",
+    "sub_topic": "Genetics",
+    "stem": "Prader–Willi syndrome without any deletion on chromosome 15 is most often caused by",
+    "options": [
+      "Paternal uniparental disomy of chromosome 15",
+      "Maternal uniparental disomy of chromosome 15",
+      "UBE3A point mutation",
+      "Trinucleotide expansion"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Two maternal copies mean the paternally expressed genes (SNRPN cluster) are missing, which is the same outcome as a paternal deletion. Imprinting works through DNA methylation. Paternal UPD or loss of maternal UBE3A causes Angelman syndrome.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (paternal 15q deletion — Prader–Willi), 2020 INI-CET (genomic imprinting), 2015 AIIMS (imprinting via methylation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Genetics",
+      "basedOn": "2023 NEET-PG (paternal 15q deletion — Prader–Willi), 2020 INI-CET (genomic imprinting), 2015 AIIMS (imprinting via methylation)"
+    }
+  },
+  {
+    "id": "path_q_98",
+    "questionNumber": 98,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "Arrange the cyclin–CDK complexes in the order in which they act through the cell cycle.\n1. Cyclin B–CDK1\n2. Cyclin E–CDK2\n3. Cyclin D–CDK4/6\n4. Cyclin A–CDK2",
+    "options": [
+      "3 → 4 → 2 → 1",
+      "2 → 3 → 4 → 1",
+      "3 → 2 → 4 → 1",
+      "3 → 2 → 1 → 4"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cyclin D–CDK4/6 starts RB phosphorylation in G1, cyclin E–CDK2 drives the G1→S transition, cyclin A–CDK2 runs S phase, and cyclin B–CDK1 drives the G2→M transition. The G1–S restriction point is the main checkpoint, and CDK4/6 inhibitors (palbociclib) act there.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (arrange cyclin events), 2014 AIIMS (G1–S main regulation), 2015 AIIMS (defective RB phosphorylation — G1 arrest)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2023 INI-CET (arrange cyclin events), 2014 AIIMS (G1–S main regulation), 2015 AIIMS (defective RB phosphorylation — G1 arrest)"
+    }
+  },
+  {
+    "id": "path_q_99",
+    "questionNumber": 99,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "High-risk HPV E6 protein promotes cervical carcinogenesis mainly by",
+    "options": [
+      "Binding and inactivating RB",
+      "Activating RAS",
+      "Integrating into MYC",
+      "Targeting p53 for ubiquitin-mediated degradation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "E7 binds RB, which frees E2F; E6 degrades p53 and activates telomerase (TERT). HPV 16 and 18 are the main high-risk types. Integration of the viral DNA disrupts E2, which then switches on E6 and E7.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (HPV E7 acts on RB), 2023 INI-CET (HPV 16 and 18)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2021 INI-CET (HPV E7 acts on RB), 2023 INI-CET (HPV 16 and 18)"
+    }
+  },
+  {
+    "id": "path_q_100",
+    "questionNumber": 100,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "After DNA damage, p53 arrests the cell in G1 mainly by inducing transcription of",
+    "options": [
+      "p21 (CDKN1A), a CDK inhibitor",
+      "Cyclin D1",
+      "MDM2 only",
+      "BCL2"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "p21 stops CDK2 and CDK4 from phosphorylating RB. p53 also turns on GADD45 for repair, and on PUMA, NOXA and BAX for apoptosis if repair fails. A germline TP53 mutation causes Li–Fraumeni syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gene arresting cell cycle on DNA damage — p53), 2017 AIIMS (p53 transactivation domain mutation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2024 INI-CET (gene arresting cell cycle on DNA damage — p53), 2017 AIIMS (p53 transactivation domain mutation)"
+    }
+  },
+  {
+    "id": "path_q_101",
+    "questionNumber": 101,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "Match each gene with the tumour it is classically associated with.\n\n| Gene | Tumour |\n|---|---|\n| 1. N-MYC amplification | a. Clear cell renal cell carcinoma |\n| 2. RET gain of function | b. Bilateral vestibular schwannomas, meningiomas |\n| 3. VHL loss | c. Neuroblastoma (poor prognosis) |\n| 4. NF2 loss | d. Medullary thyroid carcinoma |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "VHL syndrome combines cerebellar haemangioblastoma, renal cell carcinoma and phaeochromocytoma. KRAS (pancreas), KIT (GIST), JAK2 (myeloproliferative) and ALK (lung adenocarcinoma) are other common pairs.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match — tumours and mutations, N-myc), 2021 INI-CET (match — KRAS, KIT, JAK2, ALK), 2023 NEET-PG (cerebellar and renal mass — VHL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2020 INI-CET (match — tumours and mutations, N-myc), 2021 INI-CET (match — KRAS, KIT, JAK2, ALK), 2023 NEET-PG (cerebellar and renal mass — VHL)"
+    }
+  },
+  {
+    "id": "path_q_102",
+    "questionNumber": 102,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "FDG-PET detects most malignant tumours because tumour cells",
+    "options": [
+      "Have a high mitochondrial density",
+      "Rely only on fatty acid oxidation",
+      "Take up much more glucose (upregulated GLUT1) and use aerobic glycolysis even when oxygen is plentiful",
+      "Lack hexokinase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is the Warburg effect. Glycolytic intermediates are diverted into making nucleotides, lipids and proteins for rapid growth. FDG is phosphorylated by hexokinase and trapped inside the cell.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (cancer cells consume more glucose), 2019 NEET-PG (Warburg — intermediates)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2023 INI-CET (cancer cells consume more glucose), 2019 NEET-PG (Warburg — intermediates)"
+    }
+  },
+  {
+    "id": "path_q_103",
+    "questionNumber": 103,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "The central event in epithelial–mesenchymal transition (EMT), which promotes invasion, is",
+    "options": [
+      "Increased expression of E-cadherin",
+      "Downregulation of E-cadherin by transcription factors such as SNAIL and TWIST, with vimentin gained",
+      "Increased desmosome formation",
+      "Loss of matrix metalloproteinases"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Losing E-cadherin loosens cell-to-cell adhesion. Cells then use MMPs to digest the basement membrane. A germline CDH1 mutation causes hereditary diffuse gastric cancer and lobular breast cancer.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (EMT genes — TWIST, SNAIL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2021 INI-CET (EMT genes — TWIST, SNAIL)"
+    }
+  },
+  {
+    "id": "path_q_104",
+    "questionNumber": 104,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "Match each carcinogen with the cancer it causes.\n\n| Carcinogen | Cancer |\n|---|---|\n| 1. Vinyl chloride | a. Urothelial carcinoma of the bladder |\n| 2. Aflatoxin B1 | b. Acute myeloid leukaemia |\n| 3. Benzene | c. Hepatic angiosarcoma |\n| 4. β-Naphthylamine (aromatic amines) | d. Hepatocellular carcinoma (TP53 codon 249 mutation) |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Alcohol is linked to cancers of the oesophagus, larynx and liver (HCC). Obesity is linked to many cancers, including endometrium, kidney, oesophageal adenocarcinoma, colon, pancreas and meningioma.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (vinyl chloride — haemangiosarcoma), 2020 NEET-PG (benzene — blood cancer), 2018 AIIMS (alcohol), 2022 INI-CET (obesity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2017 AIIMS (vinyl chloride — haemangiosarcoma), 2020 NEET-PG (benzene — blood cancer), 2018 AIIMS (alcohol), 2022 INI-CET (obesity)"
+    }
+  },
+  {
+    "id": "path_q_105",
+    "questionNumber": 105,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "A 4-year-old has a rapidly growing orbital mass of small round blue cells. Tumour nuclei are strongly positive for myogenin and MYOD1. The diagnosis is",
+    "options": [
+      "Neuroblastoma",
+      "Retinoblastoma",
+      "Ewing sarcoma",
+      "Embryonal rhabdomyosarcoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Desmin is cytoplasmic and less specific than nuclear myogenin and MYOD1. The alveolar subtype carries t(2;13) PAX3–FOXO1. Ewing sarcoma is CD99+ with t(11;22). Retinoblastoma shows Flexner–Wintersteiner rosettes.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (orbital spindle cell tumour — desmin), 2023 NEET-PG (Flexner–Wintersteiner — retinoblastoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (orbital spindle cell tumour — desmin), 2023 NEET-PG (Flexner–Wintersteiner — retinoblastoma)"
+    }
+  },
+  {
+    "id": "path_q_106",
+    "questionNumber": 106,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "A sensitive and specific NUCLEAR immunohistochemical marker of neuroendocrine differentiation is",
+    "options": [
+      "Chromogranin A",
+      "INSM1",
+      "Synaptophysin",
+      "Neuron-specific enolase"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Chromogranin and synaptophysin are cytoplasmic markers of dense-core neurosecretory granules. Those granules are seen on EM in small cell carcinoma, carcinoid, medullary thyroid carcinoma and paraganglioma.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nuclear stain for NE tumours — INSM1), 2022 INI-CET (neurosecretory bodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2022 INI-CET (nuclear stain for NE tumours — INSM1), 2022 INI-CET (neurosecretory bodies)"
+    }
+  },
+  {
+    "id": "path_q_107",
+    "questionNumber": 107,
+    "subject": "Pathology",
+    "subTopic": "Neoplasia",
+    "sub_topic": "Neoplasia",
+    "stem": "Match each tumour with its typical paraneoplastic syndrome.\n\n| Tumour | Syndrome |\n|---|---|\n| 1. Small cell carcinoma of lung | a. Polycythaemia (EPO) |\n| 2. Squamous cell carcinoma of lung | b. Myasthenia gravis, pure red cell aplasia |\n| 3. Renal cell carcinoma | c. Hypercalcaemia from PTHrP |\n| 4. Thymoma | d. SIADH, ectopic ACTH, Lambert–Eaton syndrome |",
+    "options": [
+      "1-d, 2-a, 3-c, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Squamous cell carcinoma of the lung is central and strongly linked to smoking. Hypercalcaemia in a smoker with a lung mass points to it.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (smoker, raised calcium — SCC lung), 2020 NEET-PG (mediastinal mass and red cell aplasia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neoplasia",
+      "basedOn": "2021 NEET-PG (smoker, raised calcium — SCC lung), 2020 NEET-PG (mediastinal mass and red cell aplasia)"
+    }
+  },
+  {
+    "id": "path_q_108",
+    "questionNumber": 108,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "A 17-year-old has intussusception caused by multiple small-bowel polyps that show arborising bands of smooth muscle. He also has dark freckles on his lips and buccal mucosa. The gene involved is",
+    "options": [
+      "APC",
+      "SMAD4",
+      "PTEN",
+      "STK11 (LKB1)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Peutz–Jeghers syndrome is autosomal dominant and causes hamartomatous polyps. It raises the risk of cancers of the breast, pancreas, gut and sex cords (SCTAT). APC causes familial adenomatous polyposis, SMAD4/BMPR1A juvenile polyposis, and PTEN Cowden syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — APC, SMAD, STK11), 2018 NEET-PG / 2014 AIIMS (arborising polyps — PJS), 2020 INI-CET (PJS — AD), 2022 NEET-PG / 2017 AIIMS (Cowden — PTEN)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2024 INI-CET (match — APC, SMAD, STK11), 2018 NEET-PG / 2014 AIIMS (arborising polyps — PJS), 2020 INI-CET (PJS — AD), 2022 NEET-PG / 2017 AIIMS (Cowden — PTEN)"
+    }
+  },
+  {
+    "id": "path_q_109",
+    "questionNumber": 109,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "A 38-year-old has a right-sided, mucinous colon carcinoma with many tumour-infiltrating lymphocytes, and a strong family history of colorectal and endometrial cancer. Immunohistochemistry will most likely show",
+    "options": [
+      "Loss of MLH1/PMS2 or MSH2/MSH6 nuclear staining",
+      "Loss of APC",
+      "Strong p53 overexpression",
+      "HER2 amplification"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lynch syndrome (HNPCC) is a germline mismatch-repair defect that causes microsatellite instability. MSI-high tumours respond well to PD-1 blockade. Sporadic MSI tumours usually show MLH1 promoter methylation with BRAF mutation.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (HNPCC — mismatch repair), 2023 NEET-PG (HNPCC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2021 NEET-PG (HNPCC — mismatch repair), 2023 NEET-PG (HNPCC)"
+    }
+  },
+  {
+    "id": "path_q_110",
+    "questionNumber": 110,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "The best initial screening test for coeliac disease in a patient on a normal diet is",
+    "options": [
+      "Antinuclear antibody",
+      "Anti-mitochondrial antibody",
+      "IgA anti-tissue transglutaminase, with total IgA measured",
+      "p-ANCA"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "IgA deficiency, which is more common in coeliac disease, gives a falsely negative IgA test; IgG-DGP is then used. Biopsy shows intraepithelial lymphocytes, crypt hyperplasia and villous atrophy, and HLA-DQ2/DQ8 is almost always present. *The 2023 NEET-PG key (\"ANA, AMA, ANCA\") is incorrect.*",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (HLA-DQ2/DQ8), 2022 NEET-PG (biopsy features), 2023 NEET-PG (antibodies in coeliac)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2024 INI-CET (HLA-DQ2/DQ8), 2022 NEET-PG (biopsy features), 2023 NEET-PG (antibodies in coeliac)"
+    }
+  },
+  {
+    "id": "path_q_111",
+    "questionNumber": 111,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "On colonic biopsy, which finding most strongly favours Crohn's disease over ulcerative colitis?",
+    "options": [
+      "Crypt abscesses",
+      "Inflammation limited to the mucosa",
+      "Pseudopolyps",
+      "Non-caseating epithelioid granulomas"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Granulomas are found in only about 35% of Crohn's cases, but they are specific when present. Crohn's disease is also transmural with skip lesions, fissures, fistulae and creeping fat, and aphthous ulcers are its earliest lesion. UC is continuous from the rectum, limited to the mucosa, forms pseudopolyps and is linked to PSC.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (UC vs Crohn's — pseudopolyps), 2018 NEET-PG (first feature of Crohn's — aphthous ulcer), 2016 AIIMS (UC features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (UC vs Crohn's — pseudopolyps), 2018 NEET-PG (first feature of Crohn's — aphthous ulcer), 2016 AIIMS (UC features)"
+    }
+  },
+  {
+    "id": "path_q_112",
+    "questionNumber": 112,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "Barrett oesophagus is diagnosed on biopsy above the gastro-oesophageal junction by finding",
+    "options": [
+      "Eosinophils above 15 per high-power field",
+      "Columnar epithelium with intestinal-type goblet cells",
+      "Basal cell hyperplasia alone",
+      "Squamous dysplasia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Goblet cells mark intestinal metaplasia, the precursor of oesophageal **adenocarcinoma** (via dysplasia). Option A describes eosinophilic oesophagitis, which with GERD can give the \"feline oesophagus\" appearance.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (columnar metaplasia — Barrett with goblet cells), 2018 AIIMS (feline oesophagus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2014 AIIMS (columnar metaplasia — Barrett with goblet cells), 2018 AIIMS (feline oesophagus)"
+    }
+  },
+  {
+    "id": "path_q_113",
+    "questionNumber": 113,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "A gastric spindle-cell tumour is positive for CD117 and DOG1 and negative for desmin and S100. Its cell of origin is the",
+    "options": [
+      "Smooth muscle cell",
+      "Schwann cell",
+      "Enterochromaffin cell",
+      "Interstitial cell of Cajal"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is GIST. Most have KIT mutations (exon 11) and some PDGFRA. SDH-deficient GISTs occur in younger patients and in Carney triad. Imatinib is effective, but PDGFRA D842V tumours resist it.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (GIST mutations — KIT, PDGFRA, SDH), 2021 INI-CET (CD117+, CK and S100 negative — GIST)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2024 INI-CET (GIST mutations — KIT, PDGFRA, SDH), 2021 INI-CET (CD117+, CK and S100 negative — GIST)"
+    }
+  },
+  {
+    "id": "path_q_114",
+    "questionNumber": 114,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "A metastatic adenocarcinoma in the liver is CK7+, CK20−, TTF-1+ and Napsin A+. The most likely primary site is",
+    "options": [
+      "Lung",
+      "Colon",
+      "Stomach",
+      "Prostate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "CK7−/CK20+/CDX2+ points to the colon. CK7+/CK20+ suggests urothelium, pancreas or stomach. CK7−/CK20− suggests liver (HCC), prostate (PSA, NKX3.1) or kidney (PAX8).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (CK7−, CK20+, CDX2+ — colon), 2023 NEET-PG (TTF-1 — adenocarcinoma lung)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Gastrointestinal",
+      "basedOn": "2021 INI-CET (CK7−, CK20+, CDX2+ — colon), 2023 NEET-PG (TTF-1 — adenocarcinoma lung)"
+    }
+  },
+  {
+    "id": "path_q_115",
+    "questionNumber": 115,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "In alcoholic hepatitis, the eosinophilic, rope-like inclusions in ballooned hepatocytes (Mallory–Denk bodies) are composed of",
+    "options": [
+      "Lipofuscin",
+      "Aggregated, ubiquitinated keratin 8/18 intermediate filaments",
+      "Denatured haemoglobin",
+      "Viral nucleocapsid"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "They are also seen in NASH, Wilson disease, PBC and HCC. GGT is the most characteristic enzyme rise in alcoholic liver disease. Other intermediate filaments include desmin (muscle), vimentin (mesenchyme) and GFAP (glia).",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (cirrhosis — intermediate filaments), 2016 AIIMS (CK8/18 and ubiquitin), 2022 INI-CET (GGT in alcoholic liver disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2021 NEET-PG (cirrhosis — intermediate filaments), 2016 AIIMS (CK8/18 and ubiquitin), 2022 INI-CET (GGT in alcoholic liver disease)"
+    }
+  },
+  {
+    "id": "path_q_116",
+    "questionNumber": 116,
+    "subject": "Pathology",
+    "subTopic": "Gastrointestinal",
+    "sub_topic": "Gastrointestinal",
+    "stem": "A pancreatic head mass with obstructive jaundice resolves on steroids. Histology showed dense lymphoplasmacytic infiltrates, storiform fibrosis and obliterative phlebitis. The diagnosis is confirmed by finding",
+    "options": [
+      "CA 19-9 above 1000 U/mL",
+      "Positive anti-tTG",
+      "Mucin-filled cysts",
+      "Many IgG4-positive plasma cells, with raised serum IgG4"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Type 1 autoimmune pancreatitis belongs to IgG4-related disease, which can also cause sclerosing cholangitis, Riedel thyroiditis and retroperitoneal fibrosis. It mimics pancreatic carcinoma, whose markers are CEA and CA 19-9.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (autoimmune pancreatitis — storiform fibrosis, IgG4), 2016 AIIMS (pancreatic carcinoma markers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Gastrointestinal",
+      "basedOn": "2016 AIIMS (autoimmune pancreatitis — storiform fibrosis, IgG4), 2016 AIIMS (pancreatic carcinoma markers)"
+    }
+  },
+  {
+    "id": "path_q_117",
+    "questionNumber": 117,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "Match each molecular subtype of breast cancer with its profile.\n\n| Subtype | Profile |\n|---|---|\n| 1. Luminal A | a. ER−, PR−, HER2+ |\n| 2. Luminal B | b. ER−, PR−, HER2−, often CK5/6+, associated with BRCA1 |\n| 3. HER2-enriched | c. ER+, PR+, HER2−, low Ki-67 |\n| 4. Basal-like (triple negative) | d. ER+ with high Ki-67 and/or HER2+ |",
+    "options": [
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Luminal A has the best prognosis and responds to hormone therapy. Triple-negative tumours are aggressive and are the typical pattern in BRCA1 carriers.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (luminal A — ER+, PR+, HER2−, low Ki-67), 2024 INI-CET (BRCA1 features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2024 INI-CET (luminal A — ER+, PR+, HER2−, low Ki-67), 2024 INI-CET (BRCA1 features)"
+    }
+  },
+  {
+    "id": "path_q_118",
+    "questionNumber": 118,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "A 58-year-old man has invasive ductal carcinoma of the breast. The germline gene most likely to be mutated is",
+    "options": [
+      "BRCA2",
+      "BRCA1",
+      "TP53",
+      "CDH1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BRCA2 carries the greater risk of male breast cancer, and also of prostate and pancreatic cancer. BRCA1 is tested first in young women with a strong family history and triple-negative tumours. Both genes repair double-strand breaks by homologous recombination, which is why PARP inhibitors work against them.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (breast lump, mother died young — test BRCA1), 2024 INI-CET (BRCA1 DSB repair), 2020 INI-CET (BRCA testing — sequencing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2022 INI-CET (breast lump, mother died young — test BRCA1), 2024 INI-CET (BRCA1 DSB repair), 2020 INI-CET (BRCA testing — sequencing)"
+    }
+  },
+  {
+    "id": "path_q_119",
+    "questionNumber": 119,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "A breast carcinoma shows weak-to-moderate complete membrane staining for HER2 in more than 10% of cells (IHC 2+). The next step is",
+    "options": [
+      "Report as HER2 positive and start trastuzumab",
+      "Report as HER2 negative",
+      "Repeat IHC with a different chromogen",
+      "In-situ hybridisation (FISH or SISH) for HER2 gene amplification"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "IHC 3+ is positive and 0 or 1+ is negative; 2+ is equivocal and needs ISH. The brown colour on IHC comes from the DAB (diaminobenzidine) chromogen reacting with peroxidase.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (stain giving brown colour to HER2 — DAB)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2024 INI-CET (stain giving brown colour to HER2 — DAB)"
+    }
+  },
+  {
+    "id": "path_q_120",
+    "questionNumber": 120,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "A breast carcinoma shows small, uniform cells infiltrating in single file with no tubules, and the tumour cells are negative for E-cadherin. The diagnosis is",
+    "options": [
+      "Mucinous (colloid) carcinoma",
+      "Invasive lobular carcinoma",
+      "Medullary carcinoma",
+      "Invasive ductal carcinoma, no special type"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Loss of E-cadherin (CDH1) stops the cells sticking together. The tumour is often multicentric and bilateral, and spreads unusually to peritoneum, ovary and GI tract. Mucinous carcinoma shows clusters of cells floating in pools of mucin.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (cells floating in mucin — colloid carcinoma), 2021 INI-CET (EMT and E-cadherin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2023 NEET-PG (cells floating in mucin — colloid carcinoma), 2021 INI-CET (EMT and E-cadherin)"
+    }
+  },
+  {
+    "id": "path_q_121",
+    "questionNumber": 121,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "Match each ovarian tumour with its hallmark.\n\n| Tumour | Hallmark |\n|---|---|\n| 1. Granulosa cell tumour | a. Schiller–Duval bodies, raised AFP |\n| 2. Yolk sac tumour | b. Psammoma bodies, WT1+, raised CA-125 |\n| 3. Dysgerminoma | c. Call–Exner bodies, inhibin+, oestrogen excess |\n| 4. High-grade serous carcinoma | d. Large clear cells with lymphocytes, OCT3/4+, raised LDH |",
+    "options": [
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-a, 3-b, 4-d"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Dysgerminoma is the ovarian counterpart of seminoma and is very radiosensitive. High-grade serous carcinoma is the commonest malignant ovarian tumour, is often bilateral, and frequently starts in the fallopian tube (STIC).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (granulosa — Call–Exner, inhibin; bilateral cysts with CA-125 — serous), 2020 INI-CET (Schiller–Duval — endodermal sinus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2024 INI-CET (granulosa — Call–Exner, inhibin; bilateral cysts with CA-125 — serous), 2020 INI-CET (Schiller–Duval — endodermal sinus)"
+    }
+  },
+  {
+    "id": "path_q_122",
+    "questionNumber": 122,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "The most common testicular tumour in a man over 60 years old is",
+    "options": [
+      "Lymphoma (usually diffuse large B-cell)",
+      "Seminoma",
+      "Spermatocytic tumour",
+      "Leydig cell tumour"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is often bilateral and spreads to the CNS. Seminoma (OCT3/4, KIT, PLAP, with lymphocytes in the septa) peaks at 30–40 years. Leydig cell tumours contain Reinke crystals.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (70-year-old, testicular swelling — NHL), 2022 INI-CET (seminoma markers), 2023 INI-CET (Reinke crystals)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Breast And Genital",
+      "basedOn": "2022 INI-CET (70-year-old, testicular swelling — NHL), 2022 INI-CET (seminoma markers), 2023 INI-CET (Reinke crystals)"
+    }
+  },
+  {
+    "id": "path_q_123",
+    "questionNumber": 123,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "Strong, diffuse (\"block\") p16 staining in a cervical biopsy with CIN 3 indicates",
+    "options": [
+      "Low-risk HPV 6/11 infection",
+      "Reactive squamous metaplasia",
+      "Herpes simplex infection",
+      "Transforming high-risk HPV infection, with E7 inactivating RB"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "When RB is inactivated, the cell overexpresses the CDK inhibitor p16. This makes p16 a surrogate marker for high-risk HPV. Multinucleated cells with intranuclear inclusions on a Pap smear suggest herpes simplex infection instead.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (HPV E7 acts on RB), 2023 INI-CET (HPV 16 and 18), 2018 NEET-PG (herpes on Pap smear)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Breast And Genital",
+      "basedOn": "2021 INI-CET (HPV E7 acts on RB), 2023 INI-CET (HPV 16 and 18), 2018 NEET-PG (herpes on Pap smear)"
+    }
+  },
+  {
+    "id": "path_q_124",
+    "questionNumber": 124,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "A 70-year-old woman has a uterine cancer arising in an atrophic endometrium. It has a papillary architecture, marked nuclear atypia and a diffuse, strong (\"all-or-none\") p53 pattern. This tumour is",
+    "options": [
+      "Endometrioid carcinoma linked to unopposed oestrogen and PTEN loss",
+      "Leiomyosarcoma",
+      "Serous carcinoma (type II), driven by TP53 mutation",
+      "Clear cell carcinoma caused by DES exposure"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Type I endometrioid carcinomas arise from atypical hyperplasia in younger, obese women and carry a better prognosis. Serous carcinoma spreads early to the peritoneum even when it invades the uterine wall only slightly. DES is linked to clear cell adenocarcinoma of the vagina and cervix.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (DES — clear cell carcinoma), 2024 INI-CET (p53 role)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Breast And Genital",
+      "basedOn": "2021 INI-CET (DES — clear cell carcinoma), 2024 INI-CET (p53 role)"
+    }
+  },
+  {
+    "id": "path_q_125",
+    "questionNumber": 125,
+    "subject": "Pathology",
+    "subTopic": "Breast And Genital",
+    "sub_topic": "Breast And Genital",
+    "stem": "In a prostate needle biopsy, the most helpful immunohistochemical support for invasive adenocarcinoma is",
+    "options": [
+      "Strong PSA staining",
+      "Presence of corpora amylacea",
+      "Positive CK7",
+      "Absence of basal cells (p63 and high-molecular-weight cytokeratin negative), with AMACR positivity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Benign glands keep a layer of basal cells; invasive carcinoma loses it. Corpora amylacea (eosinophilic, laminated concretions) are common in benign glands. PSA confirms prostatic origin but not malignancy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (prostate biopsy — corpora amylacea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Breast And Genital",
+      "basedOn": "2023 INI-CET (prostate biopsy — corpora amylacea)"
+    }
+  },
+  {
+    "id": "path_q_126",
+    "questionNumber": 126,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "Match each glomerular disease with its electron microscopy finding.\n\n| Disease | EM finding |\n|---|---|\n| 1. Minimal change disease | a. Subendothelial deposits with \"tram-track\" GBM duplication |\n| 2. Membranous nephropathy | b. Diffuse effacement of podocyte foot processes only |\n| 3. Post-streptococcal GN | c. Subepithelial deposits with intervening GBM \"spikes\" |\n| 4. MPGN type I | d. Subepithelial \"humps\" |",
+    "options": [
+      "1-b, 2-c, 3-d, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-c, 3-a, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Membranous nephropathy is linked to anti-PLA2R antibodies, hepatitis B, SLE, drugs and tumours. Minimal change disease responds to steroids. Post-streptococcal GN presents with cola-coloured urine, hypertension and periorbital puffiness.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (foot process loss — MCD), 2018 NEET-PG / 2017 AIIMS (membranous — spike and dome, 3X), 2022 NEET-PG (PSGN — subepithelial deposits)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2021 NEET-PG (foot process loss — MCD), 2018 NEET-PG / 2017 AIIMS (membranous — spike and dome, 3X), 2022 NEET-PG (PSGN — subepithelial deposits)"
+    }
+  },
+  {
+    "id": "path_q_127",
+    "questionNumber": 127,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "A 28-year-old woman with SLE has nephrotic-range proteinuria, active urinary sediment and falling GFR. Biopsy shows proliferation in more than 50% of glomeruli and \"wire-loop\" capillaries. The wire loops are caused by",
+    "options": [
+      "Subepithelial deposits",
+      "Large subendothelial immune-complex deposits",
+      "Mesangial deposits only",
+      "Linear IgG along the GBM"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is ISN/RPS class IV diffuse lupus nephritis, the commonest and most severe class. Immunofluorescence is \"full house\" (IgG, IgA, IgM, C3, C1q). Anti-dsDNA is associated with nephritis, whereas anti-La is linked to a lower risk.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (full-house IF — lupus nephritis, 3X), 2015 AIIMS (anti-La lower risk)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (full-house IF — lupus nephritis, 3X), 2015 AIIMS (anti-La lower risk)"
+    }
+  },
+  {
+    "id": "path_q_128",
+    "questionNumber": 128,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "A 60-year-old has haemoptysis, rapidly progressive renal failure and positive MPO-ANCA. Renal biopsy shows pauci-immune crescentic GN, and there are no granulomas anywhere. The diagnosis is",
+    "options": [
+      "Goodpasture syndrome",
+      "Granulomatosis with polyangiitis",
+      "IgA vasculitis",
+      "Microscopic polyangiitis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "RPGN is classified by immunofluorescence: type I is linear anti-GBM, type II is granular immune complex (lupus, PSGN, IgA), and type III is pauci-immune ANCA disease. GPA is usually PR3-ANCA with granulomas. Crescents are the most consistent feature of RPGN.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (pauci-immune crescentic GN — ANCA), 2018 NEET-PG (p-ANCA, pulmonary–renal — MPA), 2015 AIIMS (type II RPGN), 2014 AIIMS (crescents in RPGN)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2023 INI-CET (pauci-immune crescentic GN — ANCA), 2018 NEET-PG (p-ANCA, pulmonary–renal — MPA), 2015 AIIMS (type II RPGN), 2014 AIIMS (crescents in RPGN)"
+    }
+  },
+  {
+    "id": "path_q_129",
+    "questionNumber": 129,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "The earliest morphological change in diabetic nephropathy, seen on electron microscopy, is",
+    "options": [
+      "Thickening of the glomerular basement membrane",
+      "Kimmelstiel–Wilson nodules",
+      "Crescents",
+      "Papillary necrosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Diffuse mesangial expansion follows, then nodular glomerulosclerosis (Kimmelstiel–Wilson nodules). Hyaline arteriolosclerosis of **both** afferent and efferent arterioles and loss of podocytes are typical.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (diabetic nephropathy — podocyte loss, mesangial widening, GBM thickening)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2020 INI-CET (diabetic nephropathy — podocyte loss, mesangial widening, GBM thickening)"
+    }
+  },
+  {
+    "id": "path_q_130",
+    "questionNumber": 130,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "A patient develops fever, rash and rising creatinine 10 days after starting a β-lactam antibiotic for tonsillitis. The most characteristic urine finding is",
+    "options": [
+      "Red cell casts with dysmorphic RBCs",
+      "Heavy proteinuria with oval fat bodies",
+      "White cell casts with eosinophiluria",
+      "Muddy-brown granular casts only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is drug-induced acute (tubulo)interstitial nephritis, a type IV (± type I) reaction. NSAIDs, PPIs, β-lactams and rifampicin are common causes. Red cell casts and dysmorphic RBCs point to glomerular disease, and muddy-brown casts to ATN.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (antibiotics, eosinophilia, WBC casts — TIN), 2016 AIIMS (dysmorphic RBCs — glomerular)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2024 INI-CET (antibiotics, eosinophilia, WBC casts — TIN), 2016 AIIMS (dysmorphic RBCs — glomerular)"
+    }
+  },
+  {
+    "id": "path_q_131",
+    "questionNumber": 131,
+    "subject": "Pathology",
+    "subTopic": "Renal",
+    "sub_topic": "Renal",
+    "stem": "A renal tumour shows large cells with pale reticulated cytoplasm, prominent cell membranes (\"plant-cell\" look), perinuclear halos and diffuse Hale's colloidal iron positivity. The diagnosis is",
+    "options": [
+      "Clear cell RCC",
+      "Papillary RCC",
+      "Oncocytoma",
+      "Chromophobe RCC"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It has extensive chromosome loss (hypodiploidy) and a good prognosis. Clear cell RCC (VHL, 3p loss) arises from the PCT and is full of glycogen and lipid. Oncocytoma is benign and has a central scar. Angiomyolipoma is the classic renal tumour of tuberous sclerosis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (perinuclear halo — chromophobe), 2020 INI-CET (clear cell RCC features), 2016 AIIMS (tuberous sclerosis — angiomyolipoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Renal",
+      "basedOn": "2018 NEET-PG (perinuclear halo — chromophobe), 2020 INI-CET (clear cell RCC features), 2016 AIIMS (tuberous sclerosis — angiomyolipoma)"
+    }
+  },
+  {
+    "id": "path_q_132",
+    "questionNumber": 132,
+    "subject": "Pathology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "Match the age of a myocardial infarct with its dominant histological feature.\n\n| Infarct age | Histology |\n|---|---|\n| 1. 1–3 days | a. Dense collagenous scar |\n| 2. 3–7 days | b. Early granulation tissue at the margins |\n| 3. 7–10 days | c. Coagulative necrosis with neutrophilic infiltrate |\n| 4. More than 2 months | d. Macrophages removing dead myocytes (maximum softening) |",
+    "options": [
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Rupture of the free wall, septum or papillary muscle is most likely at 3–7 days, when macrophages have softened the infarct. In the first 4 hours, light microscopy may show only wavy fibres.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2015 AIIMS (coagulative necrosis with neutrophils — day 1–3), 2017 AIIMS (rupture 2–4 days)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2023 NEET-PG / 2015 AIIMS (coagulative necrosis with neutrophils — day 1–3), 2017 AIIMS (rupture 2–4 days)"
+    }
+  },
+  {
+    "id": "path_q_133",
+    "questionNumber": 133,
+    "subject": "Pathology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "After thrombolysis, the reperfused myocardium shows intensely eosinophilic transverse bands in necrotic myocytes. These are caused by",
+    "options": [
+      "Calcium influx causing hypercontraction of myofibrils",
+      "Lipofuscin deposition",
+      "Amyloid deposition",
+      "Neutrophil degranulation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Contraction band necrosis is the hallmark of reperfusion. Reperfusion injury also involves oxygen free radicals and the mitochondrial permeability transition. The hydroxyl radical is the most reactive free radical.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (post-MI reperfusion — contraction bands), 2015 AIIMS (most reactive free radical)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2020 NEET-PG (post-MI reperfusion — contraction bands), 2015 AIIMS (most reactive free radical)"
+    }
+  },
+  {
+    "id": "path_q_134",
+    "questionNumber": 134,
+    "subject": "Pathology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "At autopsy, a heart slice is incubated in triphenyltetrazolium chloride (TTC). An infarct about 6 hours old appears pale because",
+    "options": [
+      "Neutrophils have digested the tissue",
+      "Collagen has replaced the myocytes",
+      "Iron has been lost",
+      "Dehydrogenase enzymes have leaked out of the dead myocytes, so the dye is not reduced to red formazan"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Viable myocardium stains brick-red. TTC shows infarcts only 2–3 hours old, well before the changes visible on routine histology.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (TTC — viable myocardium red)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2015 AIIMS (TTC — viable myocardium red)"
+    }
+  },
+  {
+    "id": "path_q_135",
+    "questionNumber": 135,
+    "subject": "Pathology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "Match each type of endocarditis with its vegetations.\n\n| Endocarditis | Vegetations |\n|---|---|\n| 1. Rheumatic | a. Small, warty, along the lines of closure, with commissural fusion |\n| 2. Infective | b. Small, sterile, on both surfaces of the leaflets |\n| 3. Libman–Sacks (SLE) | c. Small, bland, sterile, loosely attached, in cancer or hypercoagulable states |\n| 4. Non-bacterial thrombotic (marantic) | d. Large, bulky, friable and destructive |",
+    "options": [
+      "1-a, 2-d, 3-b, 4-c",
+      "1-d, 2-a, 3-b, 4-c",
+      "1-a, 2-d, 3-c, 4-b",
+      "1-a, 2-b, 3-d, 4-c"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In acute rheumatic carditis, Aschoff bodies containing Anitschkow (caterpillar) cells are diagnostic. Chronic rheumatic disease causes fish-mouth mitral stenosis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (vegetations along lines of closure, commissural fusion — rheumatic), 2019 NEET-PG (bulky friable — infective; Aschoff bodies), 2018 AIIMS (fish-mouth)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (vegetations along lines of closure, commissural fusion — rheumatic), 2019 NEET-PG (bulky friable — infective; Aschoff bodies), 2018 AIIMS (fish-mouth)"
+    }
+  },
+  {
+    "id": "path_q_136",
+    "questionNumber": 136,
+    "subject": "Pathology",
+    "subTopic": "Cardiovascular",
+    "sub_topic": "Cardiovascular",
+    "stem": "A 19-year-old athlete collapses and dies on the field. The heart shows asymmetric septal hypertrophy. The characteristic histology and the most commonly mutated gene are",
+    "options": [
+      "Lymphocytic infiltrate with myocyte necrosis — coxsackievirus",
+      "Fibrofatty replacement of the right ventricle — plakophilin-2",
+      "Disorganised myocytes (myofibre disarray) with interstitial fibrosis — MYH7 (β-myosin heavy chain, chromosome 14)",
+      "Amyloid deposits — transthyretin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "HCM is autosomal dominant, mostly from sarcomere gene mutations (MYH7, MYBPC3). Large \"box-car\" nuclei show myocyte hypertrophy of any cause, including hypertension. Option B is arrhythmogenic RV cardiomyopathy, and option D causes a restrictive cardiomyopathy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (young athlete — HOCM), 2021 INI-CET (match — myocyte disarray HOCM, box-car hypertension), 2017 AIIMS (MYH7 on chromosome 14)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cardiovascular",
+      "basedOn": "2023 NEET-PG (young athlete — HOCM), 2021 INI-CET (match — myocyte disarray HOCM, box-car hypertension), 2017 AIIMS (MYH7 on chromosome 14)"
+    }
+  },
+  {
+    "id": "path_q_137",
+    "questionNumber": 137,
+    "subject": "Pathology",
+    "subTopic": "Endocrine",
+    "sub_topic": "Endocrine",
+    "stem": "Match each thyroid carcinoma with its hallmark.\n\n| Carcinoma | Hallmark |\n|---|---|\n| 1. Papillary | a. Calcitonin-derived amyloid stroma, RET mutation |\n| 2. Follicular | b. Older patients, very aggressive, TP53 loss |\n| 3. Medullary | c. Capsular or vascular invasion, blood-borne spread to bone, RAS mutation |\n| 4. Anaplastic | d. Ground-glass \"Orphan Annie\" nuclei, psammoma bodies, BRAF V600E, lymphatic spread |",
+    "options": [
+      "1-d, 2-a, 3-c, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Follicular carcinoma can present with punched-out lytic deposits in the skull. Medullary carcinoma arises from parafollicular C cells.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (amyloid — parafollicular cells), 2023 NEET-PG (papillary — BRAF), 2021 INI-CET (Orphan Annie), 2020 INI-CET (skull lytic lesions — follicular), 2015 AIIMS (lymphatic spread — papillary)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine",
+      "basedOn": "2023 INI-CET (amyloid — parafollicular cells), 2023 NEET-PG (papillary — BRAF), 2021 INI-CET (Orphan Annie), 2020 INI-CET (skull lytic lesions — follicular), 2015 AIIMS (lymphatic spread — papillary)"
+    }
+  },
+  {
+    "id": "path_q_138",
+    "questionNumber": 138,
+    "subject": "Pathology",
+    "subTopic": "Endocrine",
+    "sub_topic": "Endocrine",
+    "stem": "FNAC of a solitary thyroid nodule shows a \"follicular neoplasm\" (Bethesda IV). FNAC cannot separate follicular adenoma from carcinoma because",
+    "options": [
+      "Diagnosing carcinoma needs capsular or vascular invasion, which can only be assessed on the excised specimen",
+      "Follicular carcinoma has no distinctive nuclei",
+      "Thyroglobulin is absent in carcinoma",
+      "Follicular carcinoma contains psammoma bodies"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Diagnostic lobectomy is therefore needed. Papillary carcinoma, by contrast, **can** be diagnosed on FNAC from its nuclear features (grooves, pseudo-inclusions, ground-glass chromatin).",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (FNAC not enough for follicular carcinoma), 2016 AIIMS (follicular vs benign — invasion), 2022 NEET-PG (Orphan Annie — FNAC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine",
+      "basedOn": "2015 AIIMS (FNAC not enough for follicular carcinoma), 2016 AIIMS (follicular vs benign — invasion), 2022 NEET-PG (Orphan Annie — FNAC)"
+    }
+  },
+  {
+    "id": "path_q_139",
+    "questionNumber": 139,
+    "subject": "Pathology",
+    "subTopic": "Endocrine",
+    "sub_topic": "Endocrine",
+    "stem": "The features that separate MEN 2B from MEN 2A are",
+    "options": [
+      "Medullary carcinoma and phaeochromocytoma",
+      "Pituitary adenoma and gastrinoma",
+      "Mucosal neuromas and a marfanoid habitus, with no primary hyperparathyroidism",
+      "Parathyroid hyperplasia and cutaneous lichen amyloidosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Both types are caused by RET gain-of-function mutations (classically M918T in MEN 2B) and both include medullary carcinoma and phaeochromocytoma. MEN 1 (menin) comprises parathyroid, pituitary and pancreatic neuroendocrine tumours.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (MEN 2B — 3X), 2020 NEET-PG (phaeochromocytoma — MEN 2A)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Endocrine",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (MEN 2B — 3X), 2020 NEET-PG (phaeochromocytoma — MEN 2A)"
+    }
+  },
+  {
+    "id": "path_q_140",
+    "questionNumber": 140,
+    "subject": "Pathology",
+    "subTopic": "Endocrine",
+    "sub_topic": "Endocrine",
+    "stem": "In a phaeochromocytoma, the chief cells are arranged in nests (\"Zellballen\"). The S100-positive cells at the edge of each nest are",
+    "options": [
+      "Chief cells",
+      "Langerhans cells",
+      "Schwann cells",
+      "Sustentacular cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Chief cells are chromogranin- and synaptophysin-positive. Raised urinary or plasma metanephrines and VMA support the diagnosis. Up to 40% of cases are hereditary (MEN 2, VHL, NF1, SDH), so the old \"rule of 10s\" is outdated.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (raised VMA, Zellballen — phaeochromocytoma), 2022 INI-CET (paraganglioma neurosecretory granules)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine",
+      "basedOn": "2020 NEET-PG (raised VMA, Zellballen — phaeochromocytoma), 2022 INI-CET (paraganglioma neurosecretory granules)"
+    }
+  },
+  {
+    "id": "path_q_141",
+    "questionNumber": 141,
+    "subject": "Pathology",
+    "subTopic": "Endocrine",
+    "sub_topic": "Endocrine",
+    "stem": "A woman with long-standing Hashimoto thyroiditis develops a rapidly enlarging, painless thyroid mass. The tumour she is at specific increased risk of is",
+    "options": [
+      "Extranodal marginal zone (MALT) lymphoma or DLBCL of the thyroid",
+      "Medullary carcinoma",
+      "Anaplastic carcinoma only",
+      "Parathyroid carcinoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Hashimoto thyroiditis shows lymphoid follicles with germinal centres and Hürthle (oncocytic) cells. Chronic antigen stimulation of the acquired lymphoid tissue predisposes to lymphoma. A small increase in papillary carcinoma is also reported.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (lymphocytic infiltrate with germinal centres — Hashimoto, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Endocrine",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (lymphocytic infiltrate with germinal centres — Hashimoto, 3X)"
+    }
+  },
+  {
+    "id": "path_q_142",
+    "questionNumber": 142,
+    "subject": "Pathology",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A smoker has a central lung mass. Biopsy shows a poorly differentiated non-small cell carcinoma that is p40+ and CK5/6+, and TTF-1 and Napsin A negative. The tumour is",
+    "options": [
+      "Adenocarcinoma",
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Large cell neuroendocrine carcinoma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "p40 is the most specific squamous marker. Adenocarcinoma is TTF-1+ and Napsin A+ and is tested for EGFR, ALK and ROS1. Small cell carcinoma is TTF-1+, neuroendocrine-marker positive and has a very high Ki-67. PTHrP-related hypercalcaemia favours squamous cell carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (TTF-1 — adenocarcinoma), 2021 NEET-PG (smoker with hypercalcaemia — SCC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2023 NEET-PG (TTF-1 — adenocarcinoma), 2021 NEET-PG (smoker with hypercalcaemia — SCC)"
+    }
+  },
+  {
+    "id": "path_q_143",
+    "questionNumber": 143,
+    "subject": "Pathology",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A bronchial neuroendocrine tumour with organoid nests has 4 mitoses per 2 mm² and focal punctate necrosis. It is classified as",
+    "options": [
+      "Typical carcinoid",
+      "Small cell carcinoma",
+      "Large cell neuroendocrine carcinoma",
+      "Atypical carcinoid"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Typical carcinoid has fewer than 2 mitoses per 2 mm² and no necrosis. Atypical carcinoid has 2–10 and/or necrosis. More than 10 means a high-grade carcinoma (small cell or large cell neuroendocrine). Carcinoids often present as intrabronchial polypoid masses and are chromogranin-positive.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (intrabronchial polyp, chromogranin — atypical carcinoid), 2018 AIIMS (carcinoid cell of origin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Respiratory",
+      "basedOn": "2015 AIIMS (intrabronchial polyp, chromogranin — atypical carcinoid), 2018 AIIMS (carcinoid cell of origin)"
+    }
+  },
+  {
+    "id": "path_q_144",
+    "questionNumber": 144,
+    "subject": "Pathology",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "In workers exposed to asbestos, the most common asbestos-related MALIGNANCY is",
+    "options": [
+      "Bronchogenic carcinoma",
+      "Malignant mesothelioma",
+      "Laryngeal carcinoma",
+      "Peritoneal mesothelioma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Asbestos and smoking together multiply the risk of lung cancer. Mesothelioma is more **specific** to asbestos but less common. Ferruginous (asbestos) bodies are golden-brown and beaded, and stain with Prussian blue. Pleural plaques are the commonest lesion overall.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (golden-brown beaded bodies — asbestosis), 2020 NEET-PG (asbestos bodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (golden-brown beaded bodies — asbestosis), 2020 NEET-PG (asbestos bodies)"
+    }
+  },
+  {
+    "id": "path_q_145",
+    "questionNumber": 145,
+    "subject": "Pathology",
+    "subTopic": "Respiratory",
+    "sub_topic": "Respiratory",
+    "stem": "A 40-year-old non-smoker with lower-lobe panacinar emphysema also has cirrhosis. Liver biopsy is expected to show",
+    "options": [
+      "Mallory–Denk bodies",
+      "Copper deposits in periportal hepatocytes",
+      "PAS-positive, diastase-resistant globules in periportal hepatocytes",
+      "Iron in Kupffer cells only"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In α1-antitrypsin deficiency (PiZZ), misfolded protein is trapped in the ER of hepatocytes, causing liver damage. The lack of circulating protease inhibitor allows neutrophil elastase to destroy the lungs. Smoking-related emphysema is centriacinar and affects the upper lobes.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (panacinar emphysema — α1-AT deficiency), 2022 NEET-PG / 2018 AIIMS (α1-AT inhibits proteases)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Respiratory",
+      "basedOn": "2020 NEET-PG (panacinar emphysema — α1-AT deficiency), 2022 NEET-PG / 2018 AIIMS (α1-AT inhibits proteases)"
+    }
+  },
+  {
+    "id": "path_q_146",
+    "questionNumber": 146,
+    "subject": "Pathology",
+    "subTopic": "Cns Bone And Skin",
+    "sub_topic": "Cns Bone And Skin",
+    "stem": "A 25-year-old has bilateral vestibular schwannomas and a meningioma. The defective gene product is",
+    "options": [
+      "Neurofibromin (NF1, chromosome 17)",
+      "Merlin (NF2, chromosome 22)",
+      "Hamartin (TSC1)",
+      "pVHL"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Schwannomas show cellular Antoni A areas with Verocay bodies, loose Antoni B areas, and diffuse S100. They cause tinnitus and hearing loss at the cerebellopontine angle. NF1 causes neurofibromas, café-au-lait spots and Lisch nodules.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CP angle — Verocay bodies, schwannoma), 2020 INI-CET (Verocay bodies — schwannoma), 2017 AIIMS (CP angle schwannoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cns Bone And Skin",
+      "basedOn": "2024 INI-CET (CP angle — Verocay bodies, schwannoma), 2020 INI-CET (Verocay bodies — schwannoma), 2017 AIIMS (CP angle schwannoma)"
+    }
+  },
+  {
+    "id": "path_q_147",
+    "questionNumber": 147,
+    "subject": "Pathology",
+    "subTopic": "Cns Bone And Skin",
+    "sub_topic": "Cns Bone And Skin",
+    "stem": "Match each sarcoma with its characteristic translocation.\n\n| Sarcoma | Translocation |\n|---|---|\n| 1. Ewing sarcoma | a. t(11;22) EWSR1–FLI1 |\n| 2. Alveolar rhabdomyosarcoma | b. t(12;16) FUS–DDIT3 |\n| 3. Synovial sarcoma | c. t(2;13) PAX3–FOXO1 |\n| 4. Myxoid liposarcoma | d. t(X;18) SS18–SSX |",
+    "options": [
+      "1-a, 2-c, 3-d, 4-b",
+      "1-a, 2-d, 3-c, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-a, 2-c, 3-b, 4-d"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ewing sarcoma is a diaphyseal small round blue cell tumour with an onion-skin periosteal reaction, CD99+ and NKX2.2+. FISH (EWSR1 break-apart) or RT-PCR confirms these translocations.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / NEET-PG (Ewing — t(11;22), MIC-2), 2023 NEET-PG (t(12;16) — myxoid liposarcoma), 2016 AIIMS (FISH for t(11;22))",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cns Bone And Skin",
+      "basedOn": "2020 INI-CET / NEET-PG (Ewing — t(11;22), MIC-2), 2023 NEET-PG (t(12;16) — myxoid liposarcoma), 2016 AIIMS (FISH for t(11;22))"
+    }
+  },
+  {
+    "id": "path_q_148",
+    "questionNumber": 148,
+    "subject": "Pathology",
+    "subTopic": "Cns Bone And Skin",
+    "sub_topic": "Cns Bone And Skin",
+    "stem": "A 30-year-old has an expansile lytic lesion in the epiphysis of the distal femur, extending to the subchondral bone. Biopsy shows many osteoclast-like giant cells evenly scattered among mononuclear stromal cells. The neoplastic cell and the targeted therapy are",
+    "options": [
+      "The giant cell — bisphosphonate",
+      "The osteoblast — methotrexate",
+      "The mononuclear stromal cell (H3F3A G34W mutation, RANKL-expressing) — denosumab",
+      "The macrophage — imatinib"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In giant cell tumour of bone, the stromal cells recruit the reactive giant cells through RANKL. The tumour typically occurs after the growth plate closes (age 20–40), around the knee.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (knee swelling, giant cells among mononuclear cells — GCT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cns Bone And Skin",
+      "basedOn": "2020 NEET-PG (knee swelling, giant cells among mononuclear cells — GCT)"
+    }
+  },
+  {
+    "id": "path_q_149",
+    "questionNumber": 149,
+    "subject": "Pathology",
+    "subTopic": "Cns Bone And Skin",
+    "sub_topic": "Cns Bone And Skin",
+    "stem": "Basal cell carcinoma of the face rarely metastasises. The pathway most consistently disrupted in it, which is targeted by vismodegib, is",
+    "options": [
+      "BRAF–MEK",
+      "p53 alone",
+      "WNT/β-catenin",
+      "Hedgehog signalling (PTCH1 loss or SMO activation)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Histology shows nests of basaloid cells with peripheral palisading and retraction artefact. Germline PTCH1 mutation causes Gorlin syndrome (multiple BCCs, jaw keratocysts). BCC is the malignancy least likely to spread by lymphatics.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2016 AIIMS (least lymphatic spread — BCC), 2023 NEET-PG (palisading nests — BCC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cns Bone And Skin",
+      "basedOn": "2024 INI-CET / 2016 AIIMS (least lymphatic spread — BCC), 2023 NEET-PG (palisading nests — BCC)"
+    }
+  },
+  {
+    "id": "path_q_150",
+    "questionNumber": 150,
+    "subject": "Pathology",
+    "subTopic": "Cns Bone And Skin",
+    "sub_topic": "Cns Bone And Skin",
+    "stem": "A patient has long-standing eczema-like patches progressing to plaques. Skin biopsy shows atypical CD4⁺ T cells with cerebriform nuclei collected in small clusters within the epidermis. These clusters are called",
+    "options": [
+      "Munro microabscesses",
+      "Pautrier microabscesses",
+      "Kogoj pustules",
+      "Civatte bodies"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is mycosis fungoides, the commonest primary cutaneous lymphoma (a T-cell lymphoma, also called Alibert–Bazin disease). Sézary syndrome is the leukaemic form, with erythroderma and circulating Sézary cells. Munro microabscesses and Kogoj pustules are neutrophil collections in psoriasis; Civatte bodies are found in lichen planus.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2017 AIIMS (commonest skin lymphoma — mycosis fungoides), 2017 AIIMS (Alibert–Bazin — T lymphocyte)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cns Bone And Skin",
+      "basedOn": "2021 NEET-PG / 2017 AIIMS (commonest skin lymphoma — mycosis fungoides), 2017 AIIMS (Alibert–Bazin — T lymphocyte)"
+    }
+  }
+]

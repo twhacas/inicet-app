@@ -1,0 +1,3080 @@
+[
+  {
+    "id": "ortho_q_001",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A fall on the outstretched hand causes a fracture of the radial shaft at the junction of its middle and distal thirds with dislocation of the distal radio-ulnar joint. This is",
+    "options": [
+      "Monteggia fracture-dislocation",
+      "Galeazzi fracture-dislocation",
+      "Colles fracture",
+      "Essex-Lopresti injury"
+    ],
+    "correct_index": 1,
+    "explanation": "Remember it as **GRUM**: Galeazzi is a Radius fracture with Ulnar (distal) dislocation; Monteggia is an Ulnar fracture with radial head dislocation. Both need open reduction and internal fixation of the shaft fracture.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (fall on outstretched hand with radial shaft fracture at junction — Galeazzi fracture, 6X)",
+    "repeats": 6,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_002",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Monteggia fracture-dislocation consists of",
+    "options": [
+      "Fracture of the radial shaft with distal radio-ulnar dislocation",
+      "Fracture of the distal radius with ulnar styloid avulsion",
+      "Fracture of the proximal ulna with anterior dislocation of the radial head",
+      "Isolated radial head fracture"
+    ],
+    "correct_index": 2,
+    "explanation": "The Bado classification grades it by the direction of radial head displacement. A missed radial head dislocation is the classic error, so the elbow must be imaged in every forearm fracture.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Galeazzi fracture, 6X), 2014 AIIMS (forearm fracture patterns)",
+    "repeats": 6,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_003",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "The commonest fractured bone of the wrist, and the part of it most liable to avascular necrosis, are",
+    "options": [
+      "Lunate; the proximal pole",
+      "Scaphoid; the distal third",
+      "Triquetrum; the body",
+      "Scaphoid; the proximal third"
+    ],
+    "correct_index": 3,
+    "explanation": "Blood supply enters distally and runs retrograde, so a proximal fragment loses its supply. Tenderness in the anatomical snuffbox with a normal initial radiograph warrants immobilisation and repeat imaging or MRI.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (most common bone fracture in wrist — scaphoid), 2018 AIIMS (part of scaphoid most susceptible to avascular necrosis — proximal 1/3)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_004",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "The bone that does **not** take part in forming the wrist joint is the",
+    "options": [
+      "Scaphoid",
+      "Radius",
+      "Ulna",
+      "Lunate"
+    ],
+    "correct_index": 2,
+    "explanation": "The radiocarpal joint is formed by the distal radius and the articular disc with the scaphoid, lunate and triquetrum. The ulna articulates with the carpus only indirectly through the triangular fibrocartilage complex.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (bone not taking part in formation of wrist joint — ulna, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_005",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "The first carpal bone to ossify is the",
+    "options": [
+      "Scaphoid",
+      "Capitate",
+      "Pisiform",
+      "Lunate"
+    ],
+    "correct_index": 1,
+    "explanation": "Capitate and hamate ossify at about 2 to 3 months, and the pisiform last at about 9 to 12 years. Carpal ossification sequence is used for bone age estimation in children.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (first carpal bone to ossify — capitate)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_006",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A child has a supracondylar fracture of the humerus. The three bony point relationship is",
+    "options": [
+      "Lost, because the joint is disrupted",
+      "Maintained, because the fracture is proximal to the elbow joint",
+      "Maintained only in displaced fractures",
+      "Irrelevant in children"
+    ],
+    "correct_index": 1,
+    "explanation": "The olecranon, medial and lateral epicondyles keep their equilateral triangle. The relationship is **lost in elbow dislocation**, which is the whole point of the test.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (three bony point relationship maintained in supracondylar fracture of humerus, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_007",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "The vessel most at risk in a supracondylar fracture of the humerus is the",
+    "options": [
+      "Axillary artery",
+      "Radial artery",
+      "Brachial artery",
+      "Ulnar artery"
+    ],
+    "correct_index": 2,
+    "explanation": "The sharp proximal fragment of an extension-type fracture threatens it anteriorly. Untreated ischaemia causes Volkmann contracture, so pulses and capillary refill are documented before and after every reduction.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2016 AIIMS (vessel affected in supracondylar fracture of humerus — brachial artery, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_008",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Cubitus varus or gun-stock deformity follows",
+    "options": [
+      "Radial head fracture",
+      "Lateral condyle fracture of the humerus",
+      "Medial epicondyle avulsion",
+      "Malunited supracondylar fracture of the humerus"
+    ],
+    "correct_index": 3,
+    "explanation": "Medial tilt of the distal fragment produces it. A **lateral condyle** fracture that malunites or fails to unite instead produces cubitus **valgus**, which stretches the ulnar nerve over time.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (cubitus varus or gun stock deformity caused by supracondylar fracture, 3X), 2021 NEET-PG (cubitus varus deformity)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_009",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A child treated for a lateral condyle fracture of the humerus gradually develops an elbow deformity and later cannot adduct the fingers. The mechanism is",
+    "options": [
+      "Median nerve entrapment",
+      "Cubitus varus causing radial nerve palsy",
+      "Cubitus valgus causing tardy ulnar nerve palsy",
+      "Volkmann ischaemic contracture"
+    ],
+    "correct_index": 2,
+    "explanation": "The valgus deformity stretches the ulnar nerve behind the medial epicondyle over years. Loss of finger adduction reflects palmar interossei weakness. Anterior transposition of the nerve is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (lateral condyle fracture with gradual elbow deformity — inability to adduct fingers from tardy ulnar nerve palsy, 3X)",
+    "repeats": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_010",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A lateral condyle fracture of the humerus in a child is managed by",
+    "options": [
+      "Collar and cuff alone",
+      "Open reduction and internal fixation, because it is an intra-articular Salter–Harris IV injury",
+      "Closed reduction and cast in all cases",
+      "Observation"
+    ],
+    "correct_index": 1,
+    "explanation": "Crossing the physis and the joint surface means that any displacement risks non-union, growth disturbance and progressive valgus. Displaced fractures therefore need anatomical fixation.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (lateral condylar fracture of humerus is managed by open reduction — true), 2014 AIIMS (supracondylar fracture — Salter Harris type 4 classification)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_011",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A maid lifted a toddler by the forearms and the child now refuses to use the arm, holding it pronated. The diagnosis is",
+    "options": [
+      "Supracondylar fracture",
+      "Pulled elbow (radial head subluxation)",
+      "Shoulder dislocation",
+      "Clavicle fracture"
+    ],
+    "correct_index": 1,
+    "explanation": "Longitudinal traction on a pronated forearm slips the annular ligament over the radial head. Supination with flexion reduces it, often with an audible click, and radiographs are normal.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (maid rotated child by holding forearms, child started crying — pulled elbow)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_012",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Regarding anterior shoulder dislocation, which statement is TRUE?",
+    "options": [
+      "The radial nerve is most often injured",
+      "Posterior dislocation is commoner",
+      "It is the commonest type, and the axillary nerve is the most commonly injured nerve",
+      "It is associated with internal rotation deformity"
+    ],
+    "correct_index": 2,
+    "explanation": "Over 95% are anterior, with the arm held abducted and externally rotated. Sensation over the deltoid is tested before and after reduction. Posterior dislocation is associated with seizures and electrocution.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (anterior shoulder dislocation is MC type, axillary nerve most commonly injured, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_013",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A Bankart lesion is",
+    "options": [
+      "An avulsion of the greater tuberosity",
+      "A compression fracture of the posterolateral humeral head",
+      "A rotator cuff tear",
+      "Injury to the anteroinferior glenoid labrum"
+    ],
+    "correct_index": 3,
+    "explanation": "A **Hill–Sachs** lesion is the paired humeral head impression fracture. Both predispose to recurrent dislocation, and a bony Bankart lesion involves the glenoid rim.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Bankart lesion is injury to anterior inferior glenoid labrum)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_014",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Injury to the axillary nerve can result from",
+    "options": [
+      "Supracondylar fracture",
+      "Fracture of the humeral shaft",
+      "Fracture of the surgical neck of the humerus or shoulder dislocation",
+      "Fracture of the medial epicondyle"
+    ],
+    "correct_index": 2,
+    "explanation": "The nerve winds round the surgical neck in the quadrangular space. Deltoid paralysis with loss of sensation over the regimental badge area results; abduction beyond the first 15 degrees is lost.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (injury to axillary nerve due to fracture of surgical neck of humerus, shoulder dislocation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_015",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "A spiral fracture of the humeral shaft characteristically injures the",
+    "options": [
+      "Axillary nerve",
+      "Radial nerve in the spiral groove",
+      "Ulnar nerve",
+      "Median nerve"
+    ],
+    "correct_index": 1,
+    "explanation": "Wrist drop with preserved triceps function results, because triceps branches arise proximally. Most are neuropraxic and recover, so expectant management with a cock-up splint is usual.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (spiral fracture of shaft of humerus can cause injury to radial nerve)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_016",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Ligaments disrupted in acromioclavicular joint dislocation are the",
+    "options": [
+      "Coracoacromial and glenohumeral ligaments",
+      "Acromioclavicular and coracoclavicular ligaments",
+      "Costoclavicular and sternoclavicular ligaments",
+      "Transverse humeral and coracohumeral ligaments"
+    ],
+    "correct_index": 1,
+    "explanation": "The Rockwood classification grades injury by the degree of disruption and displacement. Grades I and II are treated conservatively; higher grades in active patients may need reconstruction.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (ligaments disrupted in acromioclavicular joint dislocation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_017",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Popeye sign indicates",
+    "options": [
+      "Triceps rupture",
+      "Rotator cuff tear",
+      "Rupture of the long head of the biceps tendon",
+      "Deltoid detachment"
+    ],
+    "correct_index": 2,
+    "explanation": "Distal migration of the muscle belly produces the bulge. It usually follows chronic degeneration in older patients and is often managed conservatively, as elbow flexion is preserved by the short head and brachialis.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Popeye's sign represents long head of biceps tendon rupture)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_018",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "In painful arc syndrome, pain is felt during",
+    "options": [
+      "Terminal abduction only",
+      "The first 15 degrees of abduction",
+      "Full adduction",
+      "Mid-abduction, between about 60 and 120 degrees"
+    ],
+    "correct_index": 3,
+    "explanation": "Subacromial impingement of the supraspinatus tendon and bursa against the acromion causes it. Neer and Hawkins tests reproduce it, and a subacromial injection relieving pain confirms the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (in painful arc syndrome, pain is felt during mid abduction)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_019",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "The treatment of choice for an irreparable rotator cuff tear in a young patient is",
+    "options": [
+      "Prolonged immobilisation",
+      "Total shoulder replacement",
+      "Tendon transfer",
+      "Steroid injection alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Latissimus dorsi transfer is used for posterosuperior tears and pectoralis major for anterosuperior tears. **Reverse** shoulder arthroplasty is reserved for older patients with cuff tear arthropathy.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (treatment of choice for irreparable tear of rotator cuff in a young patient — tendon transfer)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_020",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Mallet finger is characterised by",
+    "options": [
+      "Flexion of the proximal interphalangeal joint with extension of the DIP",
+      "Flexion deformity of the distal interphalangeal joint from extensor tendon avulsion at its insertion",
+      "Hyperextension at the metacarpophalangeal joint",
+      "Inability to flex the DIP joint"
+    ],
+    "correct_index": 1,
+    "explanation": "It is treated with an extension splint for 6 to 8 weeks. **Jersey finger** is the counterpart injury — avulsion of flexor digitorum profundus, so the DIP cannot be actively flexed.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (mallet finger characterised by PIP extension and DIP flexion), 2017 AIIMS (flexion of DIP joint — mallet finger), 2015 AIIMS (jersey finger from flexor digitorum profundus rupture, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_021",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Hyperextension at the metacarpophalangeal joint with flexion at the interphalangeal joints indicates loss of",
+    "options": [
+      "Flexor digitorum profundus",
+      "Lumbrical and interosseous function",
+      "Extensor digitorum",
+      "Flexor pollicis longus"
+    ],
+    "correct_index": 1,
+    "explanation": "The intrinsics flex the MCP joints and extend the IP joints through the extensor expansion, so their loss reverses both — the intrinsic-minus or claw position.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (hyperextension at MCP with flexion at IP joint — lumbricals)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_022",
+    "subject": "Orthopedics",
+    "sub_topic": "Upper Limb",
+    "stem": "Madelung deformity is characterised by",
+    "options": [
+      "Dorsal subluxation of the ulna after Colles fracture",
+      "Radial deviation of the hand with absent radius",
+      "Volar and ulnar deviation of the hand from premature fusion of the volar-ulnar distal radial physis",
+      "Fixed flexion of the fingers from palmar fascia contracture"
+    ],
+    "correct_index": 2,
+    "explanation": "It is associated with Léri–Weill dyschondrosteosis and Turner syndrome, and presents in adolescent girls. Option D describes Dupuytren contracture.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match the following — Madelung deformity with volar and ulnar deviation of hand)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_023",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "After a road traffic accident a patient has severe left hip pain with the limb held in flexion, adduction and internal rotation. The diagnosis is",
+    "options": [
+      "Central dislocation of the hip",
+      "Anterior dislocation of the hip",
+      "Fracture neck of femur",
+      "Posterior dislocation of the hip"
+    ],
+    "correct_index": 3,
+    "explanation": "Posterior dislocation is far commoner, typically from a dashboard injury, and the limb is shortened. **Anterior** dislocation holds the limb in abduction, external rotation and slight flexion — the mirror image.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (posterior dislocation of hip — flexion, adduction, internal rotation, 2X), 2024 INI-CET (RTA with hip pain — anterior dislocation of hip, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_024",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The nerve most at risk in posterior dislocation of the hip is the",
+    "options": [
+      "Obturator nerve",
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Superior gluteal nerve"
+    ],
+    "correct_index": 2,
+    "explanation": "It lies directly behind the joint, and the common peroneal division is most vulnerable, causing foot drop. Dislocation is reduced urgently to limit both nerve injury and avascular necrosis of the femoral head.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (nerve injury is more common in anterior hip dislocation compared to posterior — false)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_025",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A 75-year-old man has an intracapsular fracture of the femoral neck. The treatment of choice is",
+    "options": [
+      "Cannulated screw fixation",
+      "Hemiarthroplasty",
+      "Dynamic hip screw",
+      "Conservative traction"
+    ],
+    "correct_index": 1,
+    "explanation": "The retrograde blood supply through the retinacular vessels is disrupted, so union and head survival are poor in the elderly. Replacement allows early mobilisation. Internal fixation is preferred in young patients to preserve the head.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (treatment for intracapsular fracture of femur neck in a 75-year-old — hemiarthroplasty)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_026",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A 60-year-old has a limping gait with left hip pain and radiographs showing a sclerosed irregular femoral head with preserved joint space. The diagnosis is",
+    "options": [
+      "Osteoarthritis of the hip",
+      "Avascular necrosis of the femoral head",
+      "Tuberculous arthritis",
+      "Perthes disease"
+    ],
+    "correct_index": 1,
+    "explanation": "Preserved joint space with subchondral sclerosis and the crescent sign distinguishes it early. MRI is the most sensitive investigation. Steroids, alcohol, sickle cell disease, trauma and caisson disease are the causes.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (60-year-old with limping gait, sclerosed irregular femoral head — avascular necrosis of femur, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_027",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The gold standard treatment for a closed fracture of the femoral shaft in an adult is",
+    "options": [
+      "Skeletal traction to union",
+      "Plate osteosynthesis",
+      "Intramedullary nailing",
+      "External fixation"
+    ],
+    "correct_index": 2,
+    "explanation": "A load-sharing device in the mechanical axis allows early weight-bearing and gives high union rates. Reaming raises a theoretical fat embolism risk, and the operation is best done within the first 24 hours in a stable patient.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (gold standard treatment for fracture shaft of femur in adults — intramedullary nailing, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_028",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "An **open** fracture of the femoral shaft with significant contamination is best managed by",
+    "options": [
+      "Primary closure with plating",
+      "Immediate intramedullary nailing in all cases",
+      "Plaster cast alone",
+      "Debridement with external fixation"
+    ],
+    "correct_index": 3,
+    "explanation": "Thorough debridement, antibiotics and tetanus cover come first; external fixation avoids placing a large implant in a contaminated medullary canal. Definitive internal fixation follows once the wound is clean.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (treatment of open fracture of femur — open reduction and external fixation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_029",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "Gustilo–Anderson type IIIB open fracture is defined by",
+    "options": [
+      "Arterial injury requiring repair",
+      "A wound under 1 cm",
+      "Extensive soft tissue loss requiring flap coverage, with periosteal stripping, but intact vascularity",
+      "A wound of 1 to 10 cm with moderate soft tissue damage"
+    ],
+    "correct_index": 2,
+    "explanation": "Type IIIC adds an arterial injury needing repair and carries the worst prognosis. The grading drives antibiotic choice, timing of coverage and amputation decisions.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Gustilo Anderson injury type 3b — open wound >10 cm with extensive injury requiring soft tissue coverage)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_030",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A pelvic fracture with bleeding and shock is immediately managed by",
+    "options": [
+      "Immediate external fixation in theatre",
+      "Applying a circumferential pelvic binder, such as a sheet tied around the pelvis",
+      "Angiography before any other step",
+      "Skeletal traction"
+    ],
+    "correct_index": 1,
+    "explanation": "It reduces pelvic volume and tamponades venous bleeding at the level of the greater trochanters. Massive transfusion, then angioembolisation or pelvic packing, follow. Pelvic fracture is a major cause of exsanguination in blunt trauma.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (pelvic fracture with bleeding and shock — tie a bedsheet around the pelvis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_031",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The Judet view radiograph is used to assess",
+    "options": [
+      "Scaphoid fractures",
+      "Acetabular fractures",
+      "Calcaneal fractures",
+      "Cervical spine injury"
+    ],
+    "correct_index": 1,
+    "explanation": "Judet oblique (iliac and obturator) views demonstrate the anterior and posterior columns. CT with three-dimensional reconstruction has largely superseded them but the eponym is still examined.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (Judet view of X-ray is used for acetabular fractures, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_032",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A patient with chronic knee pain and no trauma has radiographs showing a fragmented patella. The appropriate advice is",
+    "options": [
+      "Tension band wiring",
+      "Immediate open reduction",
+      "Radiograph the other knee, as this is likely a bipartite patella",
+      "Long leg cast for 6 weeks"
+    ],
+    "correct_index": 2,
+    "explanation": "Bipartite patella is a developmental variant, usually superolateral and often bilateral, with smooth corticated margins. Absence of trauma and bilaterality distinguish it from a fracture.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (chronic knee pain, no trauma, patellar fragmentation — bipartite patella, advise X-ray of other knee, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_033",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A displaced transverse fracture of the patella is managed by",
+    "options": [
+      "Intramedullary nailing",
+      "Patellectomy in all cases",
+      "Cylinder cast alone",
+      "Tension band wiring"
+    ],
+    "correct_index": 3,
+    "explanation": "It converts the distracting pull of the quadriceps into a compressive force across the fracture, allowing early movement. Undisplaced fractures with an intact extensor mechanism are treated conservatively.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (fracture of patella managed by tension band wiring, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_034",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "An impact on the **medial** aspect of the knee produces",
+    "options": [
+      "Anterior cruciate ligament injury alone",
+      "Medial collateral ligament injury",
+      "Lateral collateral ligament injury",
+      "Posterior cruciate ligament injury"
+    ],
+    "correct_index": 2,
+    "explanation": "A medial blow forces the knee into varus, stretching the structures on the opposite (lateral) side. A **lateral** blow causes valgus and injures the medial collateral ligament, often with the ACL and medial meniscus — the unhappy triad.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (impact on medial aspect of knee results in lateral collateral ligament injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_035",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The posterior cruciate ligament",
+    "options": [
+      "Is the main restraint to internal rotation",
+      "Arises from the posterior tibial plateau and attaches to the lateral aspect of the medial femoral condyle",
+      "Arises from the anterior tibia",
+      "Prevents anterior translation of the tibia"
+    ],
+    "correct_index": 1,
+    "explanation": "It prevents **posterior** tibial translation, tested by the posterior drawer and sag signs. The ACL is the primary restraint to anterior translation and contributes to rotational control.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (PCL arises from posterior aspect of tibial plateau), 2018 AIIMS (PCL is the main restraint to internal rotation — false)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_036",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A fracture of the base of the fifth metatarsal is immobilised in a below-knee cast for",
+    "options": [
+      "2 weeks",
+      "6 to 8 weeks",
+      "12 weeks",
+      "3 days"
+    ],
+    "correct_index": 1,
+    "explanation": "An avulsion of the tuberosity by peroneus brevis usually unites well. A **Jones fracture** at the metaphyseal-diaphyseal junction is in a watershed zone and often needs screw fixation because of non-union risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (fracture of base of fifth metatarsal — below knee POP cast for 6–8 weeks, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_037",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "March fracture refers to a stress fracture of the",
+    "options": [
+      "Calcaneum",
+      "Base of the fifth metatarsal",
+      "Neck of the second metatarsal",
+      "Navicular"
+    ],
+    "correct_index": 2,
+    "explanation": "Repetitive loading in soldiers and runners causes it. Early radiographs are often normal and **MRI is the investigation of choice** for a suspected stress fracture; callus later confirms it.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (march fracture seen in neck of second metatarsal), 2015 AIIMS (investigation of choice in stress fracture — MRI)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_038",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A young marathon runner has pain over the anteromedial border of the tibia on running. The diagnosis is",
+    "options": [
+      "Osteosarcoma",
+      "Compartment syndrome",
+      "Stress fracture of the femoral neck",
+      "Medial tibial stress syndrome (shin splints)"
+    ],
+    "correct_index": 3,
+    "explanation": "It is an overuse periostitis along the posteromedial tibial border, relieved by rest and load modification. Persistent focal pain with night symptoms needs MRI to exclude a tibial stress fracture.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (young marathon runner with pain on anterior and medial tibia — shin splints)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_039",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A Pilon fracture is",
+    "options": [
+      "An avulsion of the medial malleolus",
+      "A fracture of the tibial tuberosity",
+      "A comminuted intra-articular fracture of the distal tibia",
+      "A proximal tibial plateau fracture"
+    ],
+    "correct_index": 2,
+    "explanation": "Axial loading drives the talus into the tibial plafond. Soft tissue swelling is severe, so staged management with spanning external fixation followed by definitive fixation is standard.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match the following — Pilon fracture is comminuted intra-articular fracture of distal tibia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_040",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The bony tuberosity on the anterior aspect of the upper end of the tibia is the",
+    "options": [
+      "Tibial plateau",
+      "Tibial tuberosity, the insertion of the patellar tendon",
+      "Medial malleolus",
+      "Gerdy tubercle"
+    ],
+    "correct_index": 1,
+    "explanation": "Traction apophysitis here in an adolescent is Osgood–Schlatter disease. **Gerdy tubercle** is the lateral tibial site of iliotibial band insertion and is avulsed in Segond fracture.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (bony tuberosity on anterior aspect of upper end of tibia — tibial tuberosity)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_041",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "Triple arthrodesis involves fusion of the",
+    "options": [
+      "Ankle, subtalar and talonavicular joints",
+      "Talonavicular, calcaneocuboid and subtalar joints",
+      "Metatarsophalangeal, interphalangeal and tarsometatarsal joints",
+      "Tibiotalar, subtalar and calcaneocuboid joints"
+    ],
+    "correct_index": 1,
+    "explanation": "It corrects hindfoot deformity and gives a stable, painless foot in polio, neglected clubfoot and arthritis. The **ankle joint itself is preserved**, so dorsiflexion and plantarflexion remain.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (triple arthrodesis involves talonavicular joint, calcaneocuboid joint, subtalar joint)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_042",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "The talocalcaneonavicular joint is a",
+    "options": [
+      "Pivot joint",
+      "Hinge joint",
+      "Ball-and-socket type of synovial joint",
+      "Saddle joint"
+    ],
+    "correct_index": 2,
+    "explanation": "The talar head sits in a socket formed by the navicular, the spring ligament and the calcaneal facets, permitting inversion and eversion. The ankle (talocrural) joint itself is a hinge.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (talocalcaneonavicular joint is a ball and socket joint)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_043",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "A deformity in which the great toe deviates laterally is",
+    "options": [
+      "Claw toe",
+      "Hallux rigidus",
+      "Hammer toe",
+      "Hallux valgus"
+    ],
+    "correct_index": 3,
+    "explanation": "A medial bunion forms over the first metatarsal head. Narrow footwear, female sex and a positive family history predispose. Hallux rigidus is instead first metatarsophalangeal osteoarthritis with restricted dorsiflexion.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (deformity in which great toe is deviated laterally — hallux valgus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_044",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "Haglund deformity affects which region?",
+    "options": [
+      "The knee",
+      "The first metatarsophalangeal joint",
+      "The posterosuperior calcaneum at the ankle, causing retrocalcaneal bursitis",
+      "The hip"
+    ],
+    "correct_index": 2,
+    "explanation": "A prominent calcaneal bump impinges against the Achilles tendon and shoe counter, producing the \"pump bump\". Footwear modification, physiotherapy and sometimes surgical resection are used.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Haglund deformity is seen in ankle joint)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_045",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "Reduced angle between the neck and shaft of the femur is",
+    "options": [
+      "Coxa valga",
+      "Coxa vara",
+      "Genu varum",
+      "Protrusio acetabuli"
+    ],
+    "correct_index": 1,
+    "explanation": "The normal neck-shaft angle is about 125 to 135 degrees. Coxa vara shortens the limb and produces a Trendelenburg gait; rickets, fibrous dysplasia, slipped epiphysis and malunion cause it.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (reduced angle between neck and shaft of femur — coxa vara), 2017 AIIMS (identify the deformity — coxa vara)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_046",
+    "subject": "Orthopedics",
+    "sub_topic": "Lower Limb",
+    "stem": "Shenton line is assessed on a radiograph of the",
+    "options": [
+      "Knee",
+      "Hip",
+      "Shoulder",
+      "Wrist"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a smooth curve from the inferior border of the femoral neck to the inferior margin of the superior pubic ramus. Disruption indicates femoral neck fracture, developmental dysplasia or slipped capital femoral epiphysis.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (Shenton's line is seen in X-ray of hip)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_047",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "A patient cannot move the fourth and fifth digits and cannot hold a sheet of paper between the fingers. The likely fracture site is the",
+    "options": [
+      "Surgical neck of the humerus",
+      "Lateral condyle of the humerus",
+      "Medial condyle of the humerus",
+      "Radial shaft"
+    ],
+    "correct_index": 2,
+    "explanation": "The ulnar nerve runs behind the medial epicondyle. Loss of the card test reflects palmar interossei weakness, and Froment sign reflects adductor pollicis weakness with compensatory flexor pollicis longus action.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (unable to move 4th and 5th digit, cannot hold paper — medial condyle of humerus, ulnar nerve injury, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_048",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Claw hand involving the ring and little fingers indicates injury to the",
+    "options": [
+      "Musculocutaneous nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve"
+    ],
+    "correct_index": 3,
+    "explanation": "The ulnar nerve supplies the medial two lumbricals, so only the ring and little fingers claw. A **combined** ulnar and median injury produces a complete claw hand affecting all four fingers.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (claw hand involving ring and little finger — ulnar nerve injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_049",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "A cock-up splint is used for",
+    "options": [
+      "Median nerve palsy",
+      "Ulnar nerve palsy",
+      "Radial nerve palsy",
+      "Brachial plexus injury"
+    ],
+    "correct_index": 2,
+    "explanation": "It holds the wrist in extension to overcome wrist drop and restore a functional grip while the nerve recovers. A **knuckle-bender** splint is used for ulnar palsy and an opponens splint for median palsy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2020 INI-CET (cock up splint is used for radial nerve palsy, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_050",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Injury to the neck of the fibula causes",
+    "options": [
+      "Tibial nerve palsy with loss of plantarflexion",
+      "Common peroneal nerve palsy with foot drop and a steppage gait",
+      "Femoral nerve palsy",
+      "Sciatic nerve palsy with complete paralysis"
+    ],
+    "correct_index": 1,
+    "explanation": "The nerve winds superficially round the fibular neck, so it is vulnerable to fracture, tight plaster and prolonged squatting. Dorsiflexion and eversion are lost with sensory loss over the dorsum of the foot.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (injury to neck of fibula leads to steppage gait), 2022 INI-CET (nerve injured in neck of fibula fracture — common peroneal nerve), 2018 AIIMS (foot drop caused by common peroneal nerve)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_051",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "When a patient bears weight on the right lower limb the left pelvis drops. The lesion is",
+    "options": [
+      "Left superior gluteal nerve palsy",
+      "Right superior gluteal nerve palsy",
+      "Right femoral nerve palsy",
+      "Left sciatic nerve palsy"
+    ],
+    "correct_index": 1,
+    "explanation": "A positive Trendelenburg sign indicates failure of the **stance-side** abductors. The superior gluteal nerve supplies gluteus medius and minimus, which abduct and internally rotate the hip and stabilise the pelvis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bearing weight on right lower limb, left pelvis dropped — right superior gluteal nerve palsy, 2X), 2022 INI-CET (Trendelenburg gait — gluteus medius)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_052",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "The muscle action tested by the Trendelenburg mechanism is",
+    "options": [
+      "Hip flexion",
+      "Hip adduction",
+      "Hip abduction with internal rotation",
+      "Knee extension"
+    ],
+    "correct_index": 2,
+    "explanation": "Gluteus medius and minimus perform both. A positive test also occurs in coxa vara, hip dislocation, avascular necrosis and any painful hip, so it is not specific to nerve injury.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (muscle action tested in Trendelenburg mechanism — abduction and external rotation, recorded loosely)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_053",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "A nerve injury in which the axon is disrupted but the nerve sheath remains intact is",
+    "options": [
+      "Wallerian degeneration",
+      "Neurapraxia",
+      "Neurotmesis",
+      "Axonotmesis"
+    ],
+    "correct_index": 3,
+    "explanation": "Wallerian degeneration follows, then regeneration at about 1 mm per day along the intact sheath, so recovery is slow but possible. **Neurapraxia** is a conduction block with recovery in weeks; **neurotmesis** divides the sheath and needs repair.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (nerve injury with intact nerve sheath — axonotmesis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_054",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "In polio, a hand-knee gait results from weakness of the",
+    "options": [
+      "Tibialis anterior",
+      "Gluteus medius",
+      "Quadriceps",
+      "Gastrocnemius"
+    ],
+    "correct_index": 2,
+    "explanation": "Without active knee extension the patient presses on the thigh with the hand to stabilise the knee in stance. Quadriceps weakness also gives a positive Hoover and a hand-to-knee gait pattern.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (in polio, hand-knee gait is due to weakness of quadriceps)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_055",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Numbness and tingling of the lateral three digits with nocturnal symptoms indicates",
+    "options": [
+      "Ulnar tunnel syndrome",
+      "Carpal tunnel syndrome, confirmed by the Durkan test",
+      "Cervical radiculopathy at C8",
+      "Thoracic outlet syndrome"
+    ],
+    "correct_index": 1,
+    "explanation": "Median nerve compression beneath the flexor retinaculum. Durkan carpal compression is more sensitive than Tinel or Phalen signs. Pregnancy, hypothyroidism, diabetes, acromegaly and rheumatoid arthritis predispose.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (numbness and tingling in lateral 3 digits — carpal tunnel syndrome, Durkan test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_056",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "The pen test assesses",
+    "options": [
+      "Ulnar nerve function",
+      "Median nerve function, through abductor pollicis brevis",
+      "Radial nerve function",
+      "Axillary nerve function"
+    ],
+    "correct_index": 1,
+    "explanation": "The patient abducts the thumb to touch a pen held above the hand; failure indicates thenar weakness. The **book test** assesses ulnar function by testing adductor pollicis grip strength.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (pen test is used to assess median nerve), 2020 INI-CET (book test is done for ulnar nerve testing)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_057",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Erb palsy involves which nerve roots, and what is the characteristic posture?",
+    "options": [
+      "C7 alone; wrist drop",
+      "C8 and T1; a claw hand",
+      "C5 and C6; the arm adducted and internally rotated with the forearm pronated — a waiter's tip deformity",
+      "C5 to T1; a flail arm"
+    ],
+    "correct_index": 2,
+    "explanation": "It follows excessive traction on the shoulder, as in shoulder dystocia. **Klumpke palsy** involves C8 and T1, gives a claw hand and may include Horner syndrome from T1 sympathetic involvement.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (axillary nerve injury), 2023 INI-CET (claw hand from ulnar nerve injury)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_058",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Winging of the scapula results from injury to the",
+    "options": [
+      "Suprascapular nerve",
+      "Thoracodorsal nerve",
+      "Axillary nerve",
+      "Long thoracic nerve, paralysing serratus anterior"
+    ],
+    "correct_index": 3,
+    "explanation": "It is commonly injured during axillary dissection. Serratus anterior protracts the scapula and holds it against the chest wall, so its loss prevents full overhead abduction.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (axillary nerve injury), 2022 INI-CET (superior gluteal nerve palsy, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_059",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "Meralgia paraesthetica is caused by entrapment of the",
+    "options": [
+      "Obturator nerve",
+      "Femoral nerve in the femoral canal",
+      "Lateral cutaneous nerve of the thigh beneath the inguinal ligament",
+      "Common peroneal nerve at the fibular neck"
+    ],
+    "correct_index": 2,
+    "explanation": "Burning anterolateral thigh pain with no motor weakness results. Obesity, tight belts, pregnancy and iliac crest bone graft harvesting are the causes, and it is purely sensory.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nerve injured at neck of fibula), 2018 AIIMS (foot drop from common peroneal nerve)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_060",
+    "subject": "Orthopedics",
+    "sub_topic": "Nerve",
+    "stem": "The earliest clinical sign of nerve recovery after repair is",
+    "options": [
+      "Return of full motor power",
+      "Return of an advancing Tinel sign along the nerve",
+      "Return of deep tendon reflexes",
+      "Normal nerve conduction velocity"
+    ],
+    "correct_index": 1,
+    "explanation": "Tapping over the regenerating axon tips produces tingling in its distribution, and the point of maximal response advances distally at about 1 mm per day. Motor recovery comes much later.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (axonotmesis with intact nerve sheath), 2018 NEET-PG (carpal tunnel syndrome and Durkan test)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_061",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Thomas test is performed to detect",
+    "options": [
+      "Hip abductor weakness",
+      "Fixed flexion deformity (flexion contracture) of the hip",
+      "Meniscal tear",
+      "Anterior cruciate ligament laxity"
+    ],
+    "correct_index": 1,
+    "explanation": "Lumbar lordosis masks hip flexion deformity, so the opposite hip is flexed to flatten the spine and reveal it. It is one of the most repeated clinical tests in the subject.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (test done in cases of hip flexion contracture — Thomas test), 2017 AIIMS (test done for hip flexor contracture — Thomas test), 2015 AIIMS (identify the test — Thomas test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_062",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The correct sequence of the Thomas test is",
+    "options": [
+      "Abduct the hip then adduct it",
+      "Flex both hips simultaneously then extend",
+      "Square the pelvis, flex the normal hip to obliterate lordosis, then observe the opposite thigh rising off the couch",
+      "Internally rotate the hip in extension"
+    ],
+    "correct_index": 2,
+    "explanation": "The angle between the thigh and the couch measures the fixed flexion deformity. Squaring the pelvis first is essential, or an apparent deformity may simply be pelvic tilt.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sequence of Thomas test — squaring of pelvis, flexion of hip, overcorrection)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_063",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The McMurray test detects",
+    "options": [
+      "Hip impingement",
+      "Anterior cruciate ligament rupture",
+      "Patellar instability",
+      "A meniscal tear"
+    ],
+    "correct_index": 3,
+    "explanation": "The knee is flexed then extended with rotation and valgus or varus stress, seeking a click or pain. Apley grinding and Thessaly tests are alternatives, and MRI is the imaging investigation of choice.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (test used to detect meniscal tear — McMurray test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_064",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Finkelstein test involves which tendons?",
+    "options": [
+      "Flexor pollicis longus and flexor carpi radialis",
+      "Extensor pollicis longus and extensor indicis",
+      "Abductor pollicis longus and extensor pollicis brevis",
+      "Extensor carpi radialis brevis and longus"
+    ],
+    "correct_index": 2,
+    "explanation": "These occupy the first extensor compartment in de Quervain tenosynovitis. Ulnar deviation of the wrist with the thumb held in the palm reproduces the pain. It is common in new mothers and racquet players.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (tendons involved in Finkelstein's test — APL and EPB), 2014 AIIMS (de Quervain tenosynovitis involves extensor pollicis brevis and abductor pollicis longus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_065",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Roos (elevated arm stress) test is used to diagnose",
+    "options": [
+      "Carpal tunnel syndrome",
+      "Thoracic outlet syndrome",
+      "Rotator cuff tear",
+      "Cervical radiculopathy"
+    ],
+    "correct_index": 1,
+    "explanation": "The arms are held abducted and externally rotated while the hands open and close for 3 minutes, reproducing symptoms. Adson test is the alternative; a cervical rib may be the cause.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Roos test is done to diagnose thoracic outlet syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_066",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Allen test is performed to",
+    "options": [
+      "Test median nerve function",
+      "Confirm collateral flow through the ulnar artery before radial artery cannulation",
+      "Detect a scaphoid fracture",
+      "Assess deep venous patency"
+    ],
+    "correct_index": 1,
+    "explanation": "Both arteries are occluded, then the ulnar released; colour should return within about 5 to 10 seconds. Adequate collateral supply is what makes the radial artery safe to cannulate or harvest.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Allen test is used to check patency of ulnar artery before radial artery cannulation)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_067",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Hoover sign is used to",
+    "options": [
+      "Detect a meniscal tear",
+      "Test hip abductors",
+      "Detect feigned or non-organic lower limb weakness, by feeling for involuntary heel pressure on the opposite side",
+      "Assess scoliosis"
+    ],
+    "correct_index": 2,
+    "explanation": "The examiner cups both heels; genuine effort to lift one leg produces downward pressure from the other. Its absence suggests the patient is not truly trying.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (examiner keeps hands under the heels in supine position — Hoover sign)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_068",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Ortolani and Barlow manoeuvres are used to detect",
+    "options": [
+      "Septic arthritis of the hip",
+      "Perthes disease",
+      "Slipped capital femoral epiphysis",
+      "Developmental dysplasia of the hip in a newborn"
+    ],
+    "correct_index": 3,
+    "explanation": "Barlow **dislocates** a dislocatable hip and Ortolani **relocates** a dislocated one. Narath sign is the additional recorded sign. Ultrasound is used for confirmation, as radiographs are unhelpful before ossification.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (signs seen in cases of DDH — Ortolani, Barlow, Narath)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_069",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "A positive Trendelenburg test indicates",
+    "options": [
+      "Hip flexion contracture",
+      "Failure of the abductors on the non-weight-bearing side",
+      "Failure of the hip abductors on the weight-bearing side",
+      "Knee instability"
+    ],
+    "correct_index": 2,
+    "explanation": "The pelvis drops on the **unsupported** side, which is the commonest point of confusion in this question. Any painful or unstable hip, as well as abductor paralysis, produces it.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (weight bearing on right lower limb with left pelvis dropping, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_070",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The Lachman test assesses",
+    "options": [
+      "The posterior cruciate ligament",
+      "The anterior cruciate ligament, and is more sensitive than the anterior drawer test",
+      "The medial collateral ligament",
+      "The meniscus"
+    ],
+    "correct_index": 1,
+    "explanation": "It is performed at about 20 to 30 degrees of flexion, where hamstring spasm interferes least. The pivot-shift test assesses rotational instability and is the most specific.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (McMurray test for meniscal tear), 2024 INI-CET (PCL anatomy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_071",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "Gaenslen and FABER (Patrick) tests are used to assess",
+    "options": [
+      "The hip joint alone",
+      "The sacroiliac joint",
+      "The lumbar discs",
+      "The knee menisci"
+    ],
+    "correct_index": 1,
+    "explanation": "FABER stands for flexion, abduction and external rotation. Sacroiliac stress tests are central to assessing inflammatory back pain, as in ankylosing spondylitis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ankylosing spondylitis with sacroiliac involvement), 2017 AIIMS (Thomas test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_072",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "The straight leg raising test is positive when pain radiates down the leg between",
+    "options": [
+      "80 and 90 degrees only",
+      "0 and 10 degrees",
+      "30 and 70 degrees of hip flexion, indicating lumbar nerve root tension",
+      "Any range, which is always abnormal"
+    ],
+    "correct_index": 2,
+    "explanation": "Below 30 degrees the nerve roots are not yet stretched, and beyond 70 degrees hamstring tightness confounds it. A positive **crossed** straight leg raise is more specific for disc herniation.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (lower backache radiating to right leg — S1 root), 2024 INI-CET (cauda equina syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_073",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "Apparent and true limb length are distinguished because",
+    "options": [
+      "They are identical measurements",
+      "Both are measured from the umbilicus",
+      "Apparent length is always greater",
+      "True length is measured from the anterior superior iliac spine to the medial malleolus, and apparent length from the xiphisternum or umbilicus"
+    ],
+    "correct_index": 3,
+    "explanation": "Apparent shortening with normal true length indicates pelvic tilt from adduction deformity. Galeazzi and Bryant tests localise shortening above or below the knee.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Thomas test sequence and squaring of pelvis), 2021 INI-CET (coxa vara)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_074",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "Intra-articular fractures are characterised by",
+    "options": [
+      "Painless passive movement",
+      "Pain only on active movement",
+      "Pain on both active and passive movement",
+      "No restriction of movement"
+    ],
+    "correct_index": 2,
+    "explanation": "Any movement displaces the fractured articular surfaces. Pain only on **active** movement suggests a muscle or tendon lesion, which is the discriminating principle.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (intra-articular fractures — active and passive movements are painful)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_075",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "Inflammatory arthritis is distinguished from degenerative arthritis by",
+    "options": [
+      "Pain worse with activity and relieved by rest",
+      "Morning stiffness lasting over an hour, raised ESR, joint swelling and juxta-articular rarefaction",
+      "Asymmetrical large joint involvement with osteophytes",
+      "Absence of systemic features"
+    ],
+    "correct_index": 1,
+    "explanation": "Inflammatory pain improves with use, whereas degenerative pain worsens with it. Radiographs show periarticular osteopenia and erosions rather than osteophytes and subchondral sclerosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (inflammatory arthritis — morning stiffness, elevated ESR, swelling of joints, rarefaction)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_076",
+    "subject": "Orthopedics",
+    "sub_topic": "Clinical Tests",
+    "stem": "Measurement of the angle of a scoliotic curve on radiograph is known as",
+    "options": [
+      "Boehler angle",
+      "Cobb angle",
+      "Baumann angle",
+      "Neck-shaft angle"
+    ],
+    "correct_index": 1,
+    "explanation": "It is measured between the end vertebrae of the curve. Above 20 degrees warrants bracing and above 45 to 50 degrees surgery in a growing child. Boehler angle assesses the calcaneum.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (angle of scoliosis is known as Cobb's angle)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_077",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "A 22-year-old woman has a lytic lesion at the distal radius with a soap-bubble appearance reaching the subarticular region. The diagnosis is",
+    "options": [
+      "Simple bone cyst",
+      "Aneurysmal bone cyst",
+      "Giant cell tumour",
+      "Osteosarcoma"
+    ],
+    "correct_index": 2,
+    "explanation": "An eccentric epiphyseal-to-metaphyseal lytic lesion with a distinct margin extending to subarticular bone in a skeletally mature patient. Distal femur, proximal tibia and distal radius are the usual sites.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (22-year-old with lytic lesion at distal radius — giant cell tumour), 2022 INI-CET (soap bubble appearance in distal epiphysis — GCT), 2015 AIIMS (identify the diagnosis — giant cell tumour, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_078",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Giant cell tumour of bone is characterised by",
+    "options": [
+      "Sunray spiculation with Codman triangle",
+      "Diaphyseal location with onion-skin periosteal reaction",
+      "A central lytic lesion with a fallen fragment",
+      "Epiphyseal-to-metaphyseal location, a distinct margin and eccentric expansion, with multinucleate giant cells on a mononuclear stromal background"
+    ],
+    "correct_index": 3,
+    "explanation": "The **mononuclear stromal cell** is the proliferating neoplastic component; the giant cells are reactive. Denosumab, an anti-RANKL antibody, is used in unresectable disease.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (GCT — epiphyseal to metaphyseal location, distinct margin, eccentric), 2024 INI-CET (osteoclast giant cell constitutes the proliferative component — false, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_079",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The standard treatment of a giant cell tumour of bone is",
+    "options": [
+      "Radiotherapy alone",
+      "Wide resection in all cases",
+      "Extended curettage with adjuvant and bone grafting or cement filling",
+      "Observation"
+    ],
+    "correct_index": 2,
+    "explanation": "Simple curettage recurs in up to half of cases, so the cavity is extended with a burr and treated with phenol, hydrogen peroxide or cement. Immunohistochemistry is used where the histology is equivocal.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match the following — GCT curettage), 2020 INI-CET (lytic lesion in lower third of femur with biopsy — IHC for GCT, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_080",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "A 10-year-old has a swelling in the tibial diaphysis with onion-skin periosteal reaction. The diagnosis is",
+    "options": [
+      "Osteosarcoma",
+      "Ewing sarcoma",
+      "Osteomyelitis",
+      "Osteochondroma"
+    ],
+    "correct_index": 1,
+    "explanation": "Lamellated or onion-peel periosteal reaction in a **diaphyseal** lesion in the first or second decade is characteristic, often with fever and raised inflammatory markers that mimic osteomyelitis. *EWSR1-FLI1* translocation confirms it.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (10-year-old with swelling in tibial diaphysis and periosteal reaction — Ewing sarcoma), 2018 NEET-PG (fever, limb pain, lamellated X-ray — Ewing's sarcoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_081",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Ewing sarcoma is characterised by",
+    "options": [
+      "Sunray spiculation with a Codman triangle",
+      "Involvement of both bone and soft tissue, presentation in the second decade, and small round blue cells that are PAS positive",
+      "A cartilage cap on MRI",
+      "Punched-out skull lesions with paraproteinaemia"
+    ],
+    "correct_index": 1,
+    "explanation": "CD99 membrane positivity is the immunohistochemical marker. It is highly chemosensitive and radiosensitive, so treatment is chemotherapy with local control by surgery or radiotherapy.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Ewing sarcoma — affects both bone and soft tissues, seen in second decade, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_082",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The peak incidence of osteosarcoma is in the",
+    "options": [
+      "Fourth decade",
+      "First decade",
+      "Second decade",
+      "Seventh decade"
+    ],
+    "correct_index": 2,
+    "explanation": "It arises at the metaphysis of rapidly growing bone, most often the distal femur, with sunray spiculation and a Codman triangle. A **second peak** occurs in the elderly, arising in Paget disease or irradiated bone.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (peak incidence of osteosarcoma occurs at 2nd decade)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_083",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Staging investigations for osteosarcoma include all EXCEPT",
+    "options": [
+      "CT of the chest",
+      "Radiograph of the affected limb",
+      "Chest radiograph",
+      "PET scan as a routine requirement"
+    ],
+    "correct_index": 3,
+    "explanation": "Chest CT is essential because the **lung** is the commonest site of metastasis. MRI of the whole bone assesses local extent and skip lesions, and bone scan detects distant bony deposits.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (investigations in osteosarcoma — X-ray of limb, chest X-ray, CT chest, not PET scan)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_084",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "A 14-year-old has a mushroom-like bony tumour at the distal femur. The feature that most suggests malignant transformation is",
+    "options": [
+      "Pain on exercise",
+      "A stalk arising from the metaphysis",
+      "A cartilage cap thicker than 2 cm on MRI",
+      "Multiple lesions"
+    ],
+    "correct_index": 2,
+    "explanation": "Osteochondroma is the commonest benign bone tumour and points away from the joint. A thick, growing cap, new pain after skeletal maturity or rapid enlargement suggests chondrosarcoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (14-year-old with mushroom like tumour in distal femur — 2 cm hyaline cap thickness on MRI, osteochondroma)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_085",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The fallen fragment sign is characteristic of",
+    "options": [
+      "Aneurysmal bone cyst",
+      "Simple (unicameral) bone cyst with a pathological fracture",
+      "Giant cell tumour",
+      "Fibrous dysplasia"
+    ],
+    "correct_index": 1,
+    "explanation": "A fracture fragment falls to the dependent part of the fluid-filled cavity, confirming that the lesion is cystic. Treatment is intralesional steroid injection or curettage with grafting.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (fallen fragment sign is seen in simple bone cyst), 2021 INI-CET (match — simple bone cyst intralesional injection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_086",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The treatment of an aneurysmal bone cyst is",
+    "options": [
+      "Radiotherapy alone",
+      "Extended curettage with bone grafting",
+      "Amputation",
+      "Observation only"
+    ],
+    "correct_index": 1,
+    "explanation": "It is an expansile, eccentric, blood-filled lesion showing fluid-fluid levels on MRI. It is locally aggressive with a recurrence rate of 20 to 30%, and selective arterial embolisation is used for inaccessible lesions.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (treatment of aneurysmal bone cyst — extended curettage with allograft)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_087",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The treatment of choice for osteoid osteoma is",
+    "options": [
+      "Radiotherapy",
+      "Wide excision",
+      "Radiofrequency ablation",
+      "Chemotherapy"
+    ],
+    "correct_index": 2,
+    "explanation": "A small cortical nidus with surrounding sclerosis causes night pain **dramatically relieved by aspirin or NSAIDs** — the diagnostic hallmark. CT-guided ablation has replaced open excision.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match the following — osteoid osteoma RFA)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_088",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "A 55-year-old man has bone pain and a skull radiograph showing multiple punched-out lytic lesions. The diagnosis is",
+    "options": [
+      "Hyperparathyroidism",
+      "Metastatic carcinoma",
+      "Paget disease",
+      "Multiple myeloma"
+    ],
+    "correct_index": 3,
+    "explanation": "Lesions are purely lytic with **no osteoblastic reaction**, so the bone scan is often negative — skeletal survey or whole-body MRI is used instead. Anaemia, renal failure, hypercalcaemia and M-band complete the picture.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (55-year-old with bone pain and skull X-ray showing punched out lesions — multiple myeloma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_089",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Lytic lesions in the limb bones with biopsy showing proliferating histiocytes containing Birbeck granules indicate",
+    "options": [
+      "Osteomyelitis",
+      "Ewing sarcoma",
+      "Langerhans cell histiocytosis",
+      "Multiple myeloma"
+    ],
+    "correct_index": 2,
+    "explanation": "Eosinophilic granuloma is its localised bony form, and vertebral involvement causes vertebra plana. CD1a and S100 positivity confirm it; solitary lesions may be observed or curetted.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (lytic lesions in lower limb bones with fibroblast proliferation — LCH)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_090",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Excess teriparatide therapy carries a risk of",
+    "options": [
+      "Osteonecrosis of the jaw",
+      "Osteosarcoma",
+      "Atypical femoral fracture",
+      "Nephrolithiasis only"
+    ],
+    "correct_index": 1,
+    "explanation": "Teriparatide is recombinant PTH 1-34 given intermittently to stimulate bone formation; continuous exposure instead causes resorption. Treatment is limited to about 2 years. Jaw osteonecrosis and atypical fractures belong to **bisphosphonates**.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (teriparatide in excess can cause osteosarcoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_091",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Chondromyxoid fibroma typically presents as",
+    "options": [
+      "A diaphyseal lesion with onion-skin reaction",
+      "An eccentric metaphyseal lytic lesion with a sclerotic margin in an adolescent, commonly in the proximal tibia",
+      "A subarticular lesion with soap-bubble appearance",
+      "A central lesion with a fallen fragment"
+    ],
+    "correct_index": 1,
+    "explanation": "It is a rare benign cartilaginous tumour treated by curettage. The chondroid, myxoid and fibrous lobular pattern on histology is diagnostic.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (identify the diagnosis in adolescent boy — chondromyxoid fibroma)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_092",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The commonest malignant bone tumour overall is",
+    "options": [
+      "Ewing sarcoma",
+      "Osteosarcoma",
+      "Metastatic carcinoma",
+      "Chondrosarcoma"
+    ],
+    "correct_index": 2,
+    "explanation": "Breast, prostate, lung, thyroid and kidney are the usual primaries, spreading to the axial skeleton through Batson plexus. Prostate metastases are characteristically osteoblastic; the others are predominantly lytic.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (multiple myeloma with punched out skull lesions), 2015 AIIMS (osteosarcoma peak incidence)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_093",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "Enchondroma differs from chondrosarcoma in that it",
+    "options": [
+      "Arises in the epiphysis",
+      "Causes night pain with cortical breach",
+      "Shows onion-skin periosteal reaction",
+      "Is painless, with no cortical destruction or periosteal reaction, and is commonest in the small bones of the hand"
+    ],
+    "correct_index": 3,
+    "explanation": "New pain, cortical thinning, endosteal scalloping or growth suggest malignant change. Multiple enchondromas define Ollier disease, and with soft tissue haemangiomas, Maffucci syndrome.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (osteochondroma with cartilage cap thickness), 2016 AIIMS (chondromyxoid fibroma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_094",
+    "subject": "Orthopedics",
+    "sub_topic": "Oncology",
+    "stem": "The commonest site of metastasis from osteosarcoma is the",
+    "options": [
+      "Brain",
+      "Liver",
+      "Lung",
+      "Regional lymph nodes"
+    ],
+    "correct_index": 2,
+    "explanation": "Spread is haematogenous, which is why chest CT is mandatory at staging and nodal dissection is not performed. Pulmonary metastasectomy can still be curative in selected patients.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (investigations in osteosarcoma — chest X-ray and CT chest), 2015 AIIMS (peak incidence of osteosarcoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_095",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Osteoporosis is characterised biochemically by",
+    "options": [
+      "Low calcium with high alkaline phosphatase",
+      "Normal calcium, phosphate and alkaline phosphatase",
+      "High calcium with low phosphate",
+      "Low phosphate with high parathyroid hormone"
+    ],
+    "correct_index": 1,
+    "explanation": "Osteoporosis is reduced bone **quantity** with normal mineralisation, so biochemistry is normal — the key contrast with osteomalacia, where calcium and phosphate fall and alkaline phosphatase rises.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2016 AIIMS (osteoporosis is characterised by normal calcium and ALP levels, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_096",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Osteoporosis is associated with a raised level of",
+    "options": [
+      "Alkaline phosphatase",
+      "Tartrate-resistant acid phosphatase",
+      "Serum calcium",
+      "Parathyroid hormone"
+    ],
+    "correct_index": 1,
+    "explanation": "It is an osteoclast marker reflecting increased resorption. Urinary hydroxyproline, N-telopeptide and C-telopeptide are the other resorption markers, while osteocalcin and bone-specific alkaline phosphatase mark formation.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (osteoporosis is characterised by raised levels of tartrate resistant acid phosphatase)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_097",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "The commonest site of an osteoporotic fracture is the",
+    "options": [
+      "Distal radius",
+      "Hip",
+      "Vertebra",
+      "Proximal humerus"
+    ],
+    "correct_index": 2,
+    "explanation": "Vertebral compression fractures are commonest and often silent, found incidentally as loss of height or kyphosis. Hip fractures carry the greatest mortality, and a distal radius fracture is often the first clinical event.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (osteoporotic fracture is usually seen in vertebra)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_098",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A fish-mouth or codfish appearance of the vertebrae on radiograph indicates",
+    "options": [
+      "Metastatic disease",
+      "Ankylosing spondylitis",
+      "Tuberculous spondylitis",
+      "Osteoporosis with biconcave vertebral bodies"
+    ],
+    "correct_index": 3,
+    "explanation": "Weakened trabeculae allow the nucleus pulposus to indent the endplates. Picture-frame vertebrae indicate Paget disease, and a rugger-jersey spine indicates renal osteodystrophy.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (the given spine is seen in osteoporosis — fish mouth spine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_099",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A 75-year-old woman sustains a femoral shaft fracture after a fall in the bathroom. The underlying condition is",
+    "options": [
+      "Multiple myeloma",
+      "Osteomalacia",
+      "Osteoporosis",
+      "Paget disease"
+    ],
+    "correct_index": 2,
+    "explanation": "A fracture from a fall from standing height in someone over 50 is by definition a fragility fracture. It warrants DEXA assessment and treatment, since one fragility fracture strongly predicts the next.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (75-year-old female with fall and fracture shaft of femur — osteoporosis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_100",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A 60-year-old woman with a Colles fracture has a DEXA T-score of −2.8. The drug of choice is",
+    "options": [
+      "Teriparatide as first line",
+      "Alendronate, with calcium and vitamin D",
+      "Calcitonin",
+      "Oestrogen replacement"
+    ],
+    "correct_index": 1,
+    "explanation": "Bisphosphonates are first line for postmenopausal osteoporosis. They must be taken fasting with water, sitting upright, because of oesophagitis risk. Jaw osteonecrosis and atypical femoral fracture are the long-term concerns.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (60-year-old with Colles fracture and DEXA — alendronate), 2021 NEET-PG (first line drug for postmenopausal osteoporosis — bisphosphonates)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_101",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A DEXA T-score defining osteoporosis is",
+    "options": [
+      "−1.0 or lower",
+      "−2.5 or lower",
+      "−2.0 or lower",
+      "−4.0 or lower"
+    ],
+    "correct_index": 1,
+    "explanation": "Between −1 and −2.5 is osteopenia. The **T**-score compares with a young adult reference and defines the diagnosis; the **Z**-score compares with age-matched peers and is used in children and premenopausal women.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (DEXA scan with Colles fracture — alendronate), 2018 NEET-PG (osteoporosis biochemistry, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_102",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A child with bowing of the legs and widening of the wrists has",
+    "options": [
+      "Blount disease",
+      "Osteogenesis imperfecta",
+      "Vitamin D deficiency rickets",
+      "Achondroplasia"
+    ],
+    "correct_index": 2,
+    "explanation": "Rachitic rosary, Harrison sulcus, delayed fontanelle closure and craniotabes accompany it. Biochemistry shows low or normal calcium, low phosphate, high alkaline phosphatase and high parathyroid hormone.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (child with bowing of legs — vitamin D deficiency)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_103",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Cupping, fraying and splaying at the distal radius and ulna on radiograph indicate",
+    "options": [
+      "Hypophosphatasia",
+      "Scurvy",
+      "Osteopetrosis",
+      "Rickets"
+    ],
+    "correct_index": 3,
+    "explanation": "Defective mineralisation widens the physis and deforms the metaphysis. The wrist, knee and costochondral junctions are the sites of fastest growth and so show changes earliest.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (cupping, fraying and splaying in distal end of radius and ulna — rickets, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_104",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Antenatal ultrasound showing multiple long bone fractures suggests",
+    "options": [
+      "Rickets",
+      "Achondroplasia",
+      "Osteogenesis imperfecta",
+      "Osteopetrosis"
+    ],
+    "correct_index": 2,
+    "explanation": "A type I collagen defect, usually autosomal dominant, with blue sclerae, deafness, dentinogenesis imperfecta and wormian bones. Type II is lethal perinatally. Bisphosphonates reduce fracture rate in childhood.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (antenatal USG showing multiple fractures of long bones — osteogenesis imperfecta), 2018 AIIMS (identify the disease — osteogenesis imperfecta)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_105",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A child has a shepherd's crook deformity of the femur with hyperpigmented skin lesions. The diagnosis is",
+    "options": [
+      "Rickets",
+      "Fibrous dysplasia",
+      "Osteogenesis imperfecta",
+      "Neurofibromatosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Ground-glass medullary lesions with café-au-lait macules having irregular \"coast of Maine\" borders. A *GNAS* mutation underlies it, and the varus proximal femoral deformity is the shepherd's crook.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (child with shepherd's crook deformity and hyperpigmented skin lesions — fibrous dysplasia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_106",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "A 14-year-old girl has multiple brown patches, multiple bony swellings and precocious puberty. The diagnosis is",
+    "options": [
+      "Neurofibromatosis type 1",
+      "McCune–Albright syndrome",
+      "Multiple enchondromatosis",
+      "Hyperparathyroidism"
+    ],
+    "correct_index": 1,
+    "explanation": "The triad is polyostotic fibrous dysplasia, café-au-lait macules and endocrinopathy, classically precocious puberty, from a post-zygotic *GNAS* mutation causing mosaicism.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (14-year-old with multiple brown patches, multiple swellings — McCune Albright syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_107",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Osteitis fibrosa cystica is characterised by",
+    "options": [
+      "Reduced osteoclastic activity",
+      "Normal parathyroid hormone with low calcium",
+      "Raised parathyroid hormone with increased osteoclastic activity and generalised bone resorption",
+      "Raised calcitonin"
+    ],
+    "correct_index": 2,
+    "explanation": "Severe hyperparathyroidism produces brown tumours, subperiosteal resorption of the radial side of the middle phalanges, and a salt-and-pepper skull. \"Stones, bones, abdominal groans and psychic moans\" summarises it.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (osteitis fibrosa cystica — increased PTH, increased osteoclastic activity, generalised resorption)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_108",
+    "subject": "Orthopedics",
+    "sub_topic": "Metabolic",
+    "stem": "Osteomalacia differs from osteoporosis in that it shows",
+    "options": [
+      "Dense sclerotic bone",
+      "Normal biochemistry with reduced bone mass",
+      "Raised calcium with lytic lesions",
+      "Defective mineralisation with low calcium and phosphate, high alkaline phosphatase, and Looser zones on radiograph"
+    ],
+    "correct_index": 3,
+    "explanation": "Looser zones are pseudofractures. Osteomalacia causes bone **pain and proximal myopathy**, whereas osteoporosis is painless until a fracture occurs — the clinical discriminator.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (osteoporosis with normal calcium and ALP, 2X), 2022 NEET-PG (vitamin D deficiency with bowing of legs)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_109",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "Acute osteomyelitis is characterised by",
+    "options": [
+      "Absent constitutional symptoms",
+      "Painless swelling with early radiographic change",
+      "Immediate radiographic lysis",
+      "Severe pain, limitation of movement and periosteal reaction appearing after about 10 days"
+    ],
+    "correct_index": 3,
+    "explanation": "Radiographs are **normal for the first 10 to 14 days**, so MRI is the early investigation of choice. The metaphysis is affected because its sluggish sinusoidal blood flow favours bacterial seeding.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (acute osteomyelitis — severe pain, limitation of movements, periosteal reaction, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_110",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "An 18-year-old boy has fever, limb pain and a local rise of temperature with tenderness over the metaphysis. The likely diagnosis is",
+    "options": [
+      "Septic arthritis",
+      "Ewing sarcoma",
+      "Osteosarcoma",
+      "Acute osteomyelitis"
+    ],
+    "correct_index": 3,
+    "explanation": "*Staphylococcus aureus* is the commonest organism at all ages. Ewing sarcoma is the key differential, as it also presents with fever, pain and raised inflammatory markers — biopsy settles it.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG (18-year-old with fever, limb pain, local rise of temperature — osteomyelitis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_111",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "In chronic osteomyelitis with a discharging sinus, newly formed bone surrounding dead bone is called",
+    "options": [
+      "Brodie abscess",
+      "Sequestrum",
+      "Cloaca",
+      "Involucrum"
+    ],
+    "correct_index": 3,
+    "explanation": "**Sequestrum** is the dead avascular bone, and a **cloaca** is the opening in the involucrum through which pus escapes to the sinus. Sequestrectomy with saucerisation is the surgical treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (low grade fever with discharging sinus, newly formed bone — involucrum, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_112",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "A Brodie abscess is",
+    "options": [
+      "A bone infarct",
+      "Acute osteomyelitis with sequestrum",
+      "A tuberculous cold abscess",
+      "A localised subacute osteomyelitis with a well-defined lytic cavity surrounded by sclerosis, usually in the tibial metaphysis"
+    ],
+    "correct_index": 3,
+    "explanation": "It reflects a balance between organism virulence and host resistance, so systemic features are minimal and night pain predominates — closely mimicking osteoid osteoma.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (identify the condition — Brodie abscess, answer carries a leaked heading)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_113",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "A child with sickle cell disease has fever and joint pain. The organism most characteristically responsible for osteomyelitis is",
+    "options": [
+      "*Haemophilus influenzae*",
+      "*Staphylococcus aureus*",
+      "*Pseudomonas aeruginosa*",
+      "*Salmonella*"
+    ],
+    "correct_index": 3,
+    "explanation": "Bowel infarction allows seeding, and functional asplenia impairs clearance of encapsulated organisms. *Staphylococcus aureus* nevertheless remains common even in sickle cell disease, so cover is broad initially.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (fever, joint pain, sickle shaped RBCs — *Salmonella*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_114",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "The commonest joint involved in septic arthritis is the",
+    "options": [
+      "Ankle",
+      "Hip",
+      "Shoulder",
+      "Knee"
+    ],
+    "correct_index": 3,
+    "explanation": "In **infants**, however, the hip is commonest and more dangerous because intracapsular pressure compromises the femoral head blood supply. Joint aspiration before antibiotics is essential, and drainage is urgent.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (most common joint involved in septic arthritis — knee)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_115",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "Tom Smith arthritis involves the",
+    "options": [
+      "Shoulder in neonates",
+      "Knee joint in adults",
+      "Sacroiliac joint",
+      "Epiphysis of the femoral head in infantile septic arthritis of the hip"
+    ],
+    "correct_index": 3,
+    "explanation": "Infantile hip sepsis destroys the capital epiphysis and leaves gross deformity with shortening and instability. It is a preventable cause of lifelong disability, so neonatal hip sepsis is an emergency.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Tom Smith arthritis involves epiphyseal part of head of femur)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_116",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "The commonest cause of **non-purulent multifocal** osteomyelitis is",
+    "options": [
+      "*Salmonella*",
+      "*Staphylococcus aureus*",
+      "*Mycobacterium tuberculosis*",
+      "SAPHO syndrome"
+    ],
+    "correct_index": 3,
+    "explanation": "Synovitis, acne, pustulosis, hyperostosis and osteitis — a sterile autoinflammatory condition. Chronic recurrent multifocal osteomyelitis is its paediatric counterpart, and cultures are negative, which is the diagnostic clue.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (most common cause of non-purulent multifocal osteomyelitis — SAPHO syndrome)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_117",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "The commonest pattern of spinal involvement in tuberculosis is",
+    "options": [
+      "Appendiceal",
+      "Central",
+      "Anterior",
+      "Paradiscal"
+    ],
+    "correct_index": 3,
+    "explanation": "Two adjacent vertebrae share a segmental artery, so infection straddles the disc and destroys it — unlike tumour, which spares the disc. Progressive collapse gives the gibbus deformity.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (most common pattern of Pott's spine involvement — paradiscal)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_118",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "A cold abscess in Pott spine is distinguished from a pyogenic abscess by",
+    "options": [
+      "High fever with rigors",
+      "Marked local heat and redness",
+      "Rapid onset over hours",
+      "Absence of the local signs of acute inflammation, with gradual painless tracking along fascial planes"
+    ],
+    "correct_index": 3,
+    "explanation": "Psoas abscess tracking to the thigh is the classic example. Tuberculosis of the spine is treated medically, with surgery for neurological deficit, instability or severe deformity.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (paradiscal Pott's spine), 2024 INI-CET (acute osteomyelitis features, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_119",
+    "subject": "Orthopedics",
+    "sub_topic": "Infections",
+    "stem": "Chronic osteomyelitis is best imaged for the extent of sequestrum by",
+    "options": [
+      "Bone scan alone",
+      "Plain radiograph alone",
+      "Ultrasound",
+      "CT, with MRI for soft tissue and marrow involvement"
+    ],
+    "correct_index": 3,
+    "explanation": "CT best demonstrates dead bone and cortical detail for surgical planning. A sinogram maps the track, and culture from deep tissue rather than sinus swab guides antibiotic choice.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (involucrum in chronic osteomyelitis, 3X), 2016 AIIMS (Brodie abscess)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_120",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Symmetrical arthritis involving the wrists, metacarpophalangeal joints and small joints of both hands indicates",
+    "options": [
+      "Gout",
+      "Osteoarthritis",
+      "Psoriatic arthritis",
+      "Rheumatoid arthritis"
+    ],
+    "correct_index": 3,
+    "explanation": "Symmetry, MCP and wrist involvement with sparing of the distal interphalangeal joints is characteristic. Anti-CCP is the most specific antibody, and methotrexate is the anchor drug.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (symmetric arthritis involving bilateral wrist and hands — RA)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_121",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Involvement of the proximal and distal interphalangeal joints and the first carpometacarpal joint, with sparing of the wrist and metacarpophalangeal joints, indicates",
+    "options": [
+      "Septic arthritis",
+      "Rheumatoid arthritis",
+      "Psoriatic arthritis",
+      "Osteoarthritis"
+    ],
+    "correct_index": 3,
+    "explanation": "Hand osteoarthritis spares the MCP joints and wrist — the mirror image of rheumatoid arthritis. Bouchard nodes are at the PIP joints and Heberden nodes at the DIP joints.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (involvement of PIP, DIP, 1st CMC with sparing of wrist and MCP — osteoarthritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_122",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "The radiographic hallmark of osteoarthritis is",
+    "options": [
+      "Ankylosis with syndesmophytes",
+      "Symmetrical narrowing with periarticular erosions",
+      "Juxta-articular osteopenia",
+      "Asymmetrical joint space narrowing with osteophytes, subchondral sclerosis and cysts"
+    ],
+    "correct_index": 3,
+    "explanation": "Osteoarthritis is a **productive** process with new bone formation, whereas inflammatory arthritis is erosive with periarticular osteopenia — the key radiological distinction.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (osteoarthritis hand distribution), 2018 AIIMS (inflammatory arthritis features)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_123",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Glucosamine supplementation is used in",
+    "options": [
+      "Septic arthritis",
+      "Rheumatoid arthritis as a disease-modifying drug",
+      "Gout",
+      "Osteoarthritis, as a symptomatic agent with modest and debated benefit"
+    ],
+    "correct_index": 3,
+    "explanation": "Weight loss, exercise and quadriceps strengthening have the strongest evidence in knee osteoarthritis, with paracetamol and topical NSAIDs for symptoms and arthroplasty for end-stage disease.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (glucosamine supplementation is given in arthritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_124",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Ankylosing spondylitis is characterised by",
+    "options": [
+      "Distal interphalangeal involvement with nail pitting",
+      "Onset after 60 years with female predominance",
+      "HLA-DR4 positivity",
+      "Onset at 20 to 40 years, male predominance, HLA-B27 positivity and sacroiliac joint involvement"
+    ],
+    "correct_index": 3,
+    "explanation": "Inflammatory back pain improving with exercise, reduced chest expansion and a bamboo spine from syndesmophytes are the features. Uveitis, aortitis and apical fibrosis are extra-articular associations.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ankylosing spondylitis — 20–40 years, males, HLA B27, SI joint involvement)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_125",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "A Charcot joint is",
+    "options": [
+      "A congenitally dislocated joint",
+      "An acutely painful septic joint",
+      "A joint with crystal deposition",
+      "A grossly destroyed, unstable but relatively painless joint resulting from loss of protective sensation"
+    ],
+    "correct_index": 3,
+    "explanation": "Diabetes is now the commonest cause, affecting the foot and ankle; tabes dorsalis, syringomyelia and leprosy are the classical ones. The mismatch between gross destruction and minimal pain is diagnostic.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (identify the diagnosis — Charcot joint, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_126",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Mseleni joint disease is",
+    "options": [
+      "A paediatric autoimmune arthritis",
+      "A form of septic arthritis",
+      "A crystal arthropathy",
+      "An endemic osteoarthropathy of northern KwaZulu-Natal in South Africa"
+    ],
+    "correct_index": 3,
+    "explanation": "A geographically restricted degenerative joint disease affecting hips and other large joints, with a female predominance. Kashin–Beck disease is the comparable endemic osteoarthropathy of parts of Asia.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Mseleni joint disease is endemic to northern KwaZulu Natal area in South Africa)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_127",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Acute gout is confirmed by",
+    "options": [
+      "Radiographic chondrocalcinosis",
+      "A raised serum urate alone",
+      "Rhomboid positively birefringent crystals",
+      "Negatively birefringent needle-shaped monosodium urate crystals in joint fluid under polarised light"
+    ],
+    "correct_index": 3,
+    "explanation": "Serum urate may be normal during an attack, so it cannot confirm or exclude gout. Rhomboid positively birefringent crystals with chondrocalcinosis indicate **pseudogout** from calcium pyrophosphate.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (symmetric arthritis — RA), 2018 AIIMS (inflammatory arthritis features)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_128",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Acute gout in a patient already on allopurinol is managed by",
+    "options": [
+      "Starting febuxostat in addition",
+      "Stopping allopurinol during the attack",
+      "Increasing the allopurinol dose acutely",
+      "Continuing allopurinol and treating the attack with an NSAID, colchicine or steroid"
+    ],
+    "correct_index": 3,
+    "explanation": "Stopping or changing urate-lowering therapy during an attack causes urate flux and prolongs it. Conversely, urate-lowering therapy is **started** only under anti-inflammatory cover, since initiation can precipitate a flare.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (rheumatoid arthritis), 2017 AIIMS (glucosamine in arthritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_129",
+    "subject": "Orthopedics",
+    "sub_topic": "Arthritis",
+    "stem": "Total knee replacement in osteoarthritis is indicated when",
+    "options": [
+      "There is severe pain with functional limitation despite adequate conservative management",
+      "Radiographic changes appear, regardless of symptoms",
+      "The patient is over 60, regardless of symptoms",
+      "Glucosamine has failed"
+    ],
+    "correct_index": 0,
+    "explanation": "Radiographic severity correlates poorly with symptoms, so the **patient**, not the film, is the indication. Active infection, uncorrectable extensor mechanism deficiency and poor rehabilitation potential are contraindications.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (glucosamine supplementation in arthritis), 2022 NEET-PG (hand osteoarthritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_130",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Congenital talipes equinovarus is characterised by",
+    "options": [
+      "Male predominance, frequent bilaterality, and about 90% correction with conservative treatment",
+      "Female predominance with unilateral involvement",
+      "Poor response to conservative treatment",
+      "Onset after walking age"
+    ],
+    "correct_index": 0,
+    "explanation": "The deformity is CAVE — Cavus, Adductus, Varus, Equinus. The Ponseti method of serial manipulation and casting, with percutaneous tenotomy and bracing, is the standard of care.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (CTEV — more common in males, bilateral, correction rate 90% with conservative treatment, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_131",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "CTEV (Dennis Browne) shoes are characterised by",
+    "options": [
+      "No heel, a straight inner border and an outer shoe raise",
+      "A raised heel with a curved inner border",
+      "An inner shoe raise",
+      "A rocker-bottom sole"
+    ],
+    "correct_index": 0,
+    "explanation": "Each feature counteracts one component: the straight inner border opposes forefoot adduction, the outer raise opposes varus, and removing the heel opposes equinus.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CTEV shoes — no heel, straight inner border, outer shoe raise)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_132",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "The sequence of surgery in open reduction for developmental dysplasia of the hip is",
+    "options": [
+      "Capsulotomy, locate the acetabulum by tracing the ligamentum teres, excise obstructing tissue, then reduce",
+      "Femoral osteotomy first, then capsulotomy",
+      "Pelvic osteotomy before reduction",
+      "Adductor tenotomy only"
+    ],
+    "correct_index": 0,
+    "explanation": "The ligamentum teres reliably leads to the true acetabulum, which may be hard to identify when filled with pulvinar and an inverted limbus. Femoral and pelvic osteotomies are added if reduction is unstable.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (sequence of surgery in DDH — capsulotomy, locate acetabulum by tracing ligamentum teres)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_133",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Risk factors for Perthes disease include",
+    "options": [
+      "Male sex, a positive family history and passive smoking",
+      "Female sex and obesity",
+      "Breech presentation",
+      "Maternal diabetes"
+    ],
+    "correct_index": 0,
+    "explanation": "Idiopathic avascular necrosis of the capital femoral epiphysis in a child of 4 to 8 years, presenting with painless limp and limited abduction and internal rotation. Containment of the head is the treatment principle.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (risk factor for Perthes disease — male sex, positive family history, passive smoking)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_134",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Salter–Harris type I injury involves",
+    "options": [
+      "Separation through the hypertrophic zone of the physis, without a metaphyseal or epiphyseal fragment",
+      "A fracture through the metaphysis only",
+      "A fracture crossing the physis into the epiphysis",
+      "Crush injury of the physis"
+    ],
+    "correct_index": 0,
+    "explanation": "The hypertrophic zone is the weakest layer. Types I and II spare the germinal layer and have good prognosis; **types IV and V** cross or crush the growth plate and risk growth arrest.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Salter Harris type 1 fracture involves hypertrophic zone of physis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_135",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "A fracture line passing through which part of the bone impairs longitudinal growth?",
+    "options": [
+      "The epiphyseal plate (physis)",
+      "The diaphysis",
+      "The periosteum",
+      "The apophysis"
+    ],
+    "correct_index": 0,
+    "explanation": "Longitudinal growth occurs by endochondral ossification at the physis, so damage there causes shortening or angular deformity. Periosteal (appositional) growth increases width only.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (fracture line through which part of bone impairs longitudinal growth — epiphyseal plate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_136",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "A supracondylar fracture of the humerus crossing the physis and the joint surface is classified as",
+    "options": [
+      "Salter–Harris type IV",
+      "Salter–Harris type I",
+      "Salter–Harris type II",
+      "Salter–Harris type V"
+    ],
+    "correct_index": 0,
+    "explanation": "Crossing both the physis and the articular surface requires anatomical reduction and fixation to prevent growth arrest and joint incongruity. Type V is a crush injury recognised only in retrospect.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (supracondylar fracture of humerus — type 4 Salter Harris classification, 2X)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_137",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Gallows (Bryant) traction is used for",
+    "options": [
+      "Fracture of the femoral shaft in a child under about 2 years or 12 kg",
+      "Tibial fractures in adolescents",
+      "Humeral fractures in adults",
+      "Pelvic fractures"
+    ],
+    "correct_index": 0,
+    "explanation": "Both legs are suspended vertically with the buttocks just clear of the bed. The weight limit matters because vascular compromise of the elevated legs can occur in heavier children.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2014 AIIMS (gallows traction is used for fracture shaft of femur, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_138",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Congenital pseudoarthrosis most commonly affects which bone, and with which syndrome is it associated?",
+    "options": [
+      "The tibia, associated with neurofibromatosis type 1",
+      "The femur, associated with Down syndrome",
+      "The clavicle, associated with Marfan syndrome",
+      "The radius, associated with Turner syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Anterolateral bowing of the tibia in infancy progresses to fracture that fails to unite. Treatment is difficult, with vascularised grafting or bone transport, and amputation sometimes needed.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (the given condition is seen in congenital pseudoarthrosis of tibia)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_139",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Sprengel deformity is associated with",
+    "options": [
+      "Klippel–Feil syndrome, congenital scoliosis and diastematomyelia",
+      "Osteogenesis imperfecta",
+      "Achondroplasia",
+      "Marfan syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Sprengel deformity is congenital undescent of the scapula, giving a high small scapula with limited abduction, sometimes tethered by an omovertebral bar. Renal anomalies are also associated.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Sprengel deformity is associated with Klippel Feil syndrome, congenital scoliosis, diastematomyelia), 2023 INI-CET (match — Klippel Feil syndrome and Sprengel deformity)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_140",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Slipped capital femoral epiphysis typically presents in",
+    "options": [
+      "An obese adolescent with hip or referred knee pain and the limb held in external rotation",
+      "A toddler with painless limp",
+      "A neonate with a dislocatable hip",
+      "An elderly patient after a fall"
+    ],
+    "correct_index": 0,
+    "explanation": "The epiphysis slips posteromedially, and Klein line fails to intersect the head on the frontal view. **Knee pain in an adolescent demands examination of the hip**, or the diagnosis is missed.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Perthes disease risk factors), 2015 AIIMS (Shenton line at the hip)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_141",
+    "subject": "Orthopedics",
+    "sub_topic": "Paediatric",
+    "stem": "Genu varum in a toddler that is physiological can be distinguished from Blount disease by",
+    "options": [
+      "Symmetry, absence of a sharp metaphyseal beak, and spontaneous correction by about 2 years of age",
+      "Progressive asymmetrical deformity",
+      "The presence of a metaphyseal beak",
+      "Associated short stature"
+    ],
+    "correct_index": 0,
+    "explanation": "Physiological bowing corrects to valgus by age 3. Blount disease shows a sharp medial metaphyseal beak with progressive, often asymmetrical deformity, and rickets must also be excluded.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (child with bowing of legs — vitamin D deficiency), 2020 INI-CET (CTEV features, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_142",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Severe backache with urinary incontinence and intervertebral disc prolapse indicates",
+    "options": [
+      "Cauda equina syndrome",
+      "Simple mechanical back pain",
+      "Spondylolisthesis",
+      "Ankylosing spondylitis"
+    ],
+    "correct_index": 0,
+    "explanation": "Saddle anaesthesia, bilateral sciatica, reduced anal tone and bladder dysfunction define it. It is a **surgical emergency** requiring urgent MRI and decompression, because delay causes permanent sphincter damage.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (severe backache, urinary incontinence, IV disc prolapse — cauda equina syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_143",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "A 65-year-old woman has backache after heavy weight lifting, worse on bending forward, with no neurological deficit. The likely diagnosis is",
+    "options": [
+      "Prolapsed intervertebral disc",
+      "Spinal metastasis",
+      "Ankylosing spondylitis",
+      "Pott spine"
+    ],
+    "correct_index": 0,
+    "explanation": "Mechanical pain worsened by flexion and relieved by rest, with no red flags, suggests disc disease. Night pain, weight loss, fever, age over 70 with no trauma, or neurological deficit would demand urgent imaging.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (65-year-old with backache and heavy weight lifting, worsens on bending — PIVD, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_144",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "A young woman has lower backache radiating to the right leg with numbness over the lateral foot and a reduced ankle jerk. The root involved is",
+    "options": [
+      "S1",
+      "L4",
+      "L5",
+      "L3"
+    ],
+    "correct_index": 0,
+    "explanation": "S1 supplies the lateral foot and little toe, powers plantarflexion and mediates the ankle jerk. **L5** affects the dorsum of the foot and great toe with weak dorsiflexion and a normal ankle jerk; **L4** affects the medial leg with a reduced knee jerk.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (lifting heavy weight, lower backache radiating to right leg — S1)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_145",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "The normal curvature of the lumbar spine is",
+    "options": [
+      "Lordosis",
+      "Kyphosis",
+      "Scoliosis",
+      "Straight"
+    ],
+    "correct_index": 0,
+    "explanation": "Cervical and lumbar regions are lordotic; thoracic and sacral regions are kyphotic. Lumbar lordosis masks hip flexion deformity, which is why the Thomas test obliterates it first.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (normal curvature of lumbar spine is lordosis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_146",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "After a road traffic accident a patient has backache and radiographs show reduced anterior vertebral height with an intact posterior wall. The injury is",
+    "options": [
+      "A compression (wedge) fracture",
+      "A burst fracture",
+      "A chance fracture",
+      "Fracture-dislocation"
+    ],
+    "correct_index": 0,
+    "explanation": "Only the anterior column fails, so it is usually stable and managed conservatively. A **burst** fracture involves the posterior wall with retropulsion and risks canal compromise; a Chance fracture is a flexion-distraction injury.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (RTA with backache, X-ray showing decrease in anterior height of vertebra — compression fracture)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_147",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Chronic low back pain with mild forward slippage of L5 over S1 on imaging is",
+    "options": [
+      "Spondylolisthesis",
+      "Spondylolysis alone",
+      "Spondylosis",
+      "Spondylodiscitis"
+    ],
+    "correct_index": 0,
+    "explanation": "Meyerding grades it by the percentage of slip. **Spondylolysis** is a pars interarticularis defect without slip, often in young athletes; spondylosis is degenerative change.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (chronic low back pain with slippage of L5 over S1 — spondylolisthesis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_148",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Removal of a vertebral disc can be performed by all EXCEPT",
+    "options": [
+      "Laminoplasty",
+      "Laminotomy",
+      "Laminectomy",
+      "Hemilaminectomy"
+    ],
+    "correct_index": 0,
+    "explanation": "Laminoplasty **reconstructs and expands** the canal, typically in cervical myelopathy, rather than providing access for discectomy. Microdiscectomy through a laminotomy window is the usual modern approach.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (removal of vertebral disc can be done by laminotomy, laminectomy, hemilaminectomy, not laminoplasty)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_149",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Scoliosis requiring surgical correction in a growing adolescent is generally a Cobb angle above",
+    "options": [
+      "45 to 50 degrees",
+      "10 degrees",
+      "20 degrees",
+      "80 degrees"
+    ],
+    "correct_index": 0,
+    "explanation": "Curves under 20 degrees are observed and 20 to 40 degrees braced while growth continues. Risser sign grades skeletal maturity and predicts progression; adolescent idiopathic scoliosis is the commonest type.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (angle of scoliosis — Cobb's angle)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_150",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Lumbar canal stenosis is distinguished from vascular claudication by",
+    "options": [
+      "Pain relieved by sitting or spinal flexion, with preserved peripheral pulses",
+      "Pain relieved by standing still",
+      "Absent peripheral pulses",
+      "Pain unrelated to posture"
+    ],
+    "correct_index": 0,
+    "explanation": "Flexion widens the canal, producing the \"shopping trolley\" posture. Vascular claudication is relieved simply by stopping, regardless of position, and the pulses are diminished.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (backache worsening on bending — PIVD, 2X), 2024 INI-CET (cauda equina syndrome)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_151",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "In tuberculosis of the spine, the deformity that develops with progressive vertebral collapse is",
+    "options": [
+      "A sharp angular kyphosis (gibbus)",
+      "Scoliosis",
+      "Hyperlordosis",
+      "Flat back"
+    ],
+    "correct_index": 0,
+    "explanation": "Anterior vertebral body destruction with a preserved posterior column produces the angular deformity. Paraplegia may occur early from abscess and oedema, or late from fibrosis and bony ridging.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (paradiscal Pott's spine involvement), 2023 INI-CET (ankylosing spondylitis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_152",
+    "subject": "Orthopedics",
+    "sub_topic": "Spine",
+    "stem": "Cervical spondylotic myelopathy is suggested by",
+    "options": [
+      "A spastic gait with hyperreflexia below the level of compression and a positive Hoffmann sign",
+      "Flaccid weakness with areflexia",
+      "Isolated neck pain",
+      "A positive straight leg raise"
+    ],
+    "correct_index": 0,
+    "explanation": "Clumsy hands, loss of dexterity and gait disturbance are early features. MRI is the investigation of choice and surgical decompression prevents progression, as recovery of established deficit is limited.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (laminoplasty and canal expansion), 2024 INI-CET (cauda equina syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_153",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Forceps with a serrated margin on one side and a smooth margin on the other, used in fracture fixation, are",
+    "options": [
+      "Plate-holding forceps",
+      "Bone-holding forceps",
+      "Lion forceps",
+      "Kocher forceps"
+    ],
+    "correct_index": 0,
+    "explanation": "The serrated jaw grips the bone while the smooth jaw holds the plate without damaging it. Bone-holding (Lane or Fergusson) forceps instead have two serrated jaws for gripping bone alone.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (forceps with serrated margin on one side and smooth on other — plate holding forceps), 2014 AIIMS (identify the instrument — bone holding forceps)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_154",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "A bone nibbler is used to",
+    "options": [
+      "Remove fibrous tissue and sclerotic bone from a non-union site",
+      "Hold a plate against bone",
+      "Insert a Steinmann pin",
+      "Measure screw length"
+    ],
+    "correct_index": 0,
+    "explanation": "Freshening the bone ends restores a bleeding surface for union. Rongeurs, curettes and osteotomes serve related functions, and bone grafting usually follows.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (bone nibbler is used to remove fibrous tissue from non-union site)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_155",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Instruments needed for skeletal traction through the tibia include",
+    "options": [
+      "Steinmann pin, Denham pin, Bohler stirrup and Bohler–Braun frame",
+      "Kirschner wire and tension band wire only",
+      "Dynamic hip screw and guide wire",
+      "Intramedullary nail and reamer"
+    ],
+    "correct_index": 0,
+    "explanation": "A Denham pin has a central thread that grips bone and resists sliding. The pin is inserted from the **lateral** side of the tibia to avoid the common peroneal nerve, 2 cm below and behind the tubercle.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (instruments needed for skeletal traction in tibia — Steinmann's pin, Denham's pin, Bohler stirrup, Bohler Braun frame)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_156",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Arrange external fixator configurations in increasing order of stability.",
+    "options": [
+      "Uniplanar one rod → uniplanar two rods → biplanar → circular (ring) fixator",
+      "Circular → biplanar → uniplanar two rods → uniplanar one rod",
+      "Biplanar → circular → uniplanar",
+      "All configurations are equally stable"
+    ],
+    "correct_index": 0,
+    "explanation": "Stability increases with more pins, more planes and shorter bone-to-rod distance. The Ilizarov ring fixator is the most stable and allows distraction osteogenesis and deformity correction.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (arrange the following in order of stability — uniplanar with one rod, two rods, biplanar)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_157",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "A spanning external fixator is used for",
+    "options": [
+      "A periarticular fracture about the knee, bridging the joint temporarily",
+      "A diaphyseal femoral fracture definitively",
+      "A clavicle fracture",
+      "A metacarpal fracture"
+    ],
+    "correct_index": 0,
+    "explanation": "It maintains length and alignment while soft tissue swelling settles, as part of staged management — the same principle as in Pilon fractures. Definitive internal fixation follows.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (spanning external fixator is used for periarticular fracture knee, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_158",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "A comminuted fracture of the lower end of the femur can be stabilised by",
+    "options": [
+      "A rail (monolateral) fixator or bridge plating",
+      "Tension band wiring",
+      "A dynamic hip screw",
+      "Gallows traction"
+    ],
+    "correct_index": 0,
+    "explanation": "Comminuted metaphyseal fractures are treated by **relative** stability, spanning the zone of comminution without disturbing the fragments, so that secondary bone healing by callus occurs.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (comminuted fracture in lower end of femur stabilised by rail fixator)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_159",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Application of a compression plate to a diaphyseal fracture leads to",
+    "options": [
+      "Primary bone healing, without visible callus",
+      "Secondary healing with abundant callus",
+      "Non-union",
+      "Fibrous union"
+    ],
+    "correct_index": 0,
+    "explanation": "Absolute stability with interfragmentary compression permits direct osteonal remodelling through cutting cones. **Relative** stability from nails and bridge plates instead produces callus-mediated secondary healing.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (application of a plate on a diaphyseal fracture leads to primary healing of fracture)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_160",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Callus formation at a fracture site is increased by",
+    "options": [
+      "Small repeated movements at the fracture site",
+      "Absolute rigid fixation",
+      "Complete immobilisation in plaster",
+      "Distraction of the fragments"
+    ],
+    "correct_index": 0,
+    "explanation": "Micromotion stimulates periosteal callus and cartilage formation, which is why nailed fractures show abundant callus. **Excessive** motion or distraction instead causes non-union, so the stimulus must be controlled.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (growth of cartilage following fracture increased by repeated tiny movements at fracture site), 2015 AIIMS (which increases callus formation — movement at fracture site)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_161",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "In an intertrochanteric femoral fracture, one-year morbidity is reduced by",
+    "options": [
+      "Early internal fixation with early mobilisation",
+      "Six weeks of skeletal traction",
+      "Delayed surgery after 2 weeks",
+      "Bed rest until union"
+    ],
+    "correct_index": 0,
+    "explanation": "Prolonged recumbency causes pneumonia, pressure sores, thromboembolism and deconditioning, which drive mortality rather than the fracture itself. A dynamic hip screw or cephalomedullary nail is used.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (in intertrochanteric fracture femur, one year morbidity can be reduced — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_162",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "The ideal treatment for a distal radius fracture with sharp fragment ends threatening the skin and nerve is",
+    "options": [
+      "Neurological assessment, closed reduction, then repeat neurological assessment",
+      "Immediate open reduction without assessment",
+      "Cast application without reduction",
+      "Observation"
+    ],
+    "correct_index": 0,
+    "explanation": "Documenting neurovascular status **before and after** any manipulation is the principle, because reduction itself can cause or relieve nerve injury and the sequence determines liability and management.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (ideal treatment for distal radius fracture with sharp ends — neurological assessment, closed reduction, again neurological assessment)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_163",
+    "subject": "Orthopedics",
+    "sub_topic": "Implants",
+    "stem": "Structures divided during a fasciotomy are",
+    "options": [
+      "Skin, subcutaneous fat, superficial fascia and deep fascia",
+      "Skin and deep fascia only, leaving the superficial fascia intact",
+      "Deep fascia and muscle",
+      "Skin only"
+    ],
+    "correct_index": 0,
+    "explanation": "The deep fascia is the constricting layer, but the skin itself becomes constricting once swelling is severe, so skin incisions must be generous and are left open for delayed closure or grafting.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (structures cut in fasciotomy — skin, subcutaneous fat, superficial fascia, deep fascia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_164",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "The earliest sign of compartment syndrome that a nurse can detect in a patient with a limb fracture is",
+    "options": [
+      "Excessive pain not relieved by the usual dose of analgesia",
+      "Absent distal pulse",
+      "Paralysis",
+      "Pallor of the limb"
+    ],
+    "correct_index": 0,
+    "explanation": "Pain out of proportion to the injury, worsened by passive stretch of the compartment muscles, is the earliest and most reliable sign. **Pulselessness and paralysis are late** and indicate established damage.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (earliest way to detect compartment syndrome — excessive pain not relieved by usual dose of analgesics, 3X), 2019 NEET-PG (which finding appears late in compartment syndrome — paralysis)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_165",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Compartment syndrome is most commonly associated with",
+    "options": [
+      "Supracondylar fracture of the humerus and fractures of the tibia",
+      "Clavicle fracture",
+      "Scaphoid fracture",
+      "Femoral neck fracture"
+    ],
+    "correct_index": 0,
+    "explanation": "Both involve tight fascial compartments close to major vessels. Untreated forearm ischaemia causes **Volkmann contracture**, with fixed flexion of the wrist and fingers from muscle fibrosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (compartment syndrome is commonly seen with supracondylar fracture of humerus — answer not recorded in source)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_166",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "A patient with a femoral shaft fracture develops breathlessness, confusion and a petechial rash 12 hours after injury. The diagnosis is",
+    "options": [
+      "Fat embolism syndrome",
+      "Pulmonary thromboembolism",
+      "Pneumonia",
+      "Transfusion reaction"
+    ],
+    "correct_index": 0,
+    "explanation": "Gurd criteria require hypoxia, neurological change and a petechial rash, typically 24 to 72 hours after a long bone fracture — earlier than thromboembolism. Early fracture fixation and supportive care are the management.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2019 NEET-PG (shaft of femur fracture with SOB 12 hours later and confusion — fat embolism, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_167",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Avascular necrosis is a recognised risk after fracture of all EXCEPT",
+    "options": [
+      "The clavicle",
+      "The femoral neck",
+      "The proximal scaphoid",
+      "The talus"
+    ],
+    "correct_index": 0,
+    "explanation": "Avascular necrosis follows injury where the blood supply is retrograde and single-source — femoral head, scaphoid proximal pole, talus, humeral head and lunate. The clavicle has a rich periosteal supply and unites readily.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (proximal 1/3 of scaphoid susceptible to avascular necrosis), 2023 INI-CET (avascular necrosis of femoral head, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_168",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Myositis ossificans traumatica is",
+    "options": [
+      "Heterotopic bone formation in a muscle haematoma after injury, classically at the elbow",
+      "Calcification of a tendon",
+      "A malignant tumour of muscle",
+      "Infection of muscle"
+    ],
+    "correct_index": 0,
+    "explanation": "It follows supracondylar fracture or elbow dislocation, particularly after repeated forceful passive manipulation — which is why vigorous physiotherapy early after elbow injury is avoided.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (supracondylar fracture of humerus and three bony points, 3X), 2018 AIIMS (intra-articular fracture features)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_169",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Non-union of a fracture is most reliably distinguished from delayed union by",
+    "options": [
+      "Absence of any progression towards healing over three consecutive months with a sclerotic, sealed medullary canal",
+      "Failure to unite within 6 weeks",
+      "Persistent pain alone",
+      "Visible callus on radiograph"
+    ],
+    "correct_index": 0,
+    "explanation": "Hypertrophic non-union reflects excess motion with adequate blood supply and needs stability; atrophic non-union reflects poor vascularity and needs bone graft as well.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (bone nibbler for non-union site), 2016 AIIMS (movement at fracture site increasing callus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "ortho_q_170",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Complex regional pain syndrome after a fracture is characterised by",
+    "options": [
+      "Pain disproportionate to the injury with vasomotor, sudomotor and trophic changes",
+      "Pain relieved completely by immobilisation",
+      "Objective nerve transection",
+      "Normal skin and sweating"
+    ],
+    "correct_index": 0,
+    "explanation": "Allodynia, swelling, colour and temperature change, altered sweating and later stiffness and osteoporosis occur. Early mobilisation, physiotherapy, neuropathic analgesia and sometimes sympathetic blockade are used.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (compartment syndrome detection, 3X), 2020 NEET-PG (distal radius fracture management)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "ortho_q_171",
+    "subject": "Orthopedics",
+    "sub_topic": "Complications",
+    "stem": "Volkmann ischaemic contracture results from",
+    "options": [
+      "Untreated forearm compartment syndrome causing muscle necrosis and fibrosis with fixed flexion of the wrist and fingers",
+      "Nerve transection alone",
+      "Joint stiffness from prolonged plaster",
+      "Heterotopic ossification"
+    ],
+    "correct_index": 0,
+    "explanation": "Flexor digitorum profundus is affected most, so finger flexion deformity improves on wrist flexion — the Volkmann sign. Prevention by timely fasciotomy is the only effective management.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (vessel affected in supracondylar fracture — brachial artery, 2X), 2021 INI-CET (compartment syndrome, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  }
+]

@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "bioc_q_1",
+    "questionNumber": 1,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "A 3-year-old has hepatomegaly, fasting hypoglycaemia, raised AST/ALT, ketosis and mild proximal muscle weakness. Blood lactate is normal. Glucagon given 2 hours after a meal raises blood glucose, but glucagon given after an overnight fast does not. The deficient enzyme is",
+    "options": [
+      "Glucose-6-phosphatase",
+      "Debranching enzyme (amylo-α-1,6-glucosidase)",
+      "Hepatic glycogen phosphorylase",
+      "Branching enzyme"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is Cori disease (GSD III). After a meal, phosphorylase can still release glucose from the newly added outer chains. After a fast, only the limit-dextrin branch points remain, and they cannot be broken down. Muscle involvement, ketosis and normal lactate also favour GSD III over von Gierke disease, which has lactic acidosis and no response to glucagon at any time. *Note: the source file keys this exact 8X stem as glucose-6-phosphatase; the clinical pattern described is Cori disease.*",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (GSD case — 8X), 2017 AIIMS (limit dextrin — Cori)",
+    "repeats": 8,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Carbohydrates",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG / 2014 AIIMS (GSD case — 8X), 2017 AIIMS (limit dextrin — Cori)"
+    }
+  },
+  {
+    "id": "bioc_q_2",
+    "questionNumber": 2,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Which finding is NOT expected in von Gierke disease (GSD Ia)?",
+    "options": [
+      "Lactic acidosis",
+      "Hyperuricaemia",
+      "Hypertriglyceridaemia",
+      "A brisk rise in blood glucose after glucagon"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Glucose-6-phosphate cannot be converted to free glucose, so glucagon only raises lactate. The trapped G6P is pushed into glycolysis (lactate), the HMP shunt (more purine synthesis, so urate), and lipogenesis (TAG). The liver enlarges with glycogen and fat.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (hepatomegaly in G6Pase deficiency), 2017 AIIMS (von Gierke)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG (hepatomegaly in G6Pase deficiency), 2017 AIIMS (von Gierke)"
+    }
+  },
+  {
+    "id": "bioc_q_3",
+    "questionNumber": 3,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Match each glycogen storage disease with its defect and feature.\n\n| Disease | Defect and feature |\n|---|---|\n| 1. Pompe | a. Branching enzyme — long unbranched chains, cirrhosis |\n| 2. McArdle | b. Debranching enzyme — limit dextrin |\n| 3. Cori | c. Lysosomal acid α-1,4-glucosidase — cardiomegaly |\n| 4. Andersen | d. Muscle phosphorylase — exercise cramps, \"second wind\" |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Pompe disease is the only GSD that is also a lysosomal storage disease. Its enzyme is acid maltase, not \"acid lipase\" (the 2017 AIIMS key wording is wrong).",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — Pompe, von Gierke, McArdle), 2022 INI-CET (Pompe enzyme), 2017 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET (match — Pompe, von Gierke, McArdle), 2022 INI-CET (Pompe enzyme), 2017 AIIMS"
+    }
+  },
+  {
+    "id": "bioc_q_4",
+    "questionNumber": 4,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "In a forearm ischaemic exercise test on a patient with McArdle disease, the expected result is",
+    "options": [
+      "Normal rises in lactate and ammonia",
+      "Exaggerated rises in both lactate and ammonia",
+      "No rise in lactate, with an exaggerated rise in ammonia",
+      "A rise in lactate, with no rise in ammonia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Muscle cannot break down glycogen, so no lactate is produced. Extra ATP breakdown drives the purine nucleotide cycle (AMP deaminase), which releases ammonia.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (calf pain on exercise — muscle phosphorylase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2018 AIIMS (calf pain on exercise — muscle phosphorylase)"
+    }
+  },
+  {
+    "id": "bioc_q_5",
+    "questionNumber": 5,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "During vigorous muscle contraction, glycogen phosphorylase is activated even without adrenaline, mainly because",
+    "options": [
+      "Ca²⁺ binds the calmodulin subunit of phosphorylase kinase, and AMP allosterically activates phosphorylase b",
+      "Insulin activates protein phosphatase-1",
+      "Glucagon receptors on muscle are stimulated",
+      "Glucose-6-phosphate activates phosphorylase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Ca²⁺ released from the SR links contraction to fuel supply. Muscle has no glucagon receptors. G6P and ATP inhibit phosphorylase. In the liver, the main route is glucagon → cAMP → PKA.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (phosphorylase activated by calcium; by cAMP-dependent kinase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2024 INI-CET (phosphorylase activated by calcium; by cAMP-dependent kinase)"
+    }
+  },
+  {
+    "id": "bioc_q_6",
+    "questionNumber": 6,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Arrange the steps by which glucagon activates hepatic glycogenolysis.\n1. Phosphorylation of phosphorylase kinase\n2. Activation of adenylyl cyclase\n3. Conversion of glycogen phosphorylase b to a\n4. Activation of protein kinase A",
+    "options": [
+      "2 → 1 → 4 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 4 → 3 → 1",
+      "2 → 4 → 1 → 3"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Each step amplifies the signal. PKA also phosphorylates and inactivates glycogen synthase, so synthesis and breakdown are not active at the same time.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (correct sequence — adenylyl cyclase → cAMP → PKA), 2024 INI-CET",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET (correct sequence — adenylyl cyclase → cAMP → PKA), 2024 INI-CET"
+    }
+  },
+  {
+    "id": "bioc_q_7",
+    "questionNumber": 7,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "During fasting, PFK-1 activity in the liver falls mainly because",
+    "options": [
+      "ATP levels fall",
+      "Fructose-2,6-bisphosphate levels fall",
+      "Citrate levels fall",
+      "AMP levels rise"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Glucagon → PKA phosphorylates the bifunctional PFK-2/FBPase-2 enzyme. Its kinase is switched off and its phosphatase switched on. F-2,6-BP (the strongest activator of PFK-1 and an inhibitor of FBPase-1) falls, so the liver shifts from glycolysis to gluconeogenesis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (enzyme decreased during fasting — PFK-1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (enzyme decreased during fasting — PFK-1)"
+    }
+  },
+  {
+    "id": "bioc_q_8",
+    "questionNumber": 8,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Arsenite poisoning causes lactic acidosis mainly because arsenite",
+    "options": [
+      "Inhibits lactate dehydrogenase",
+      "Uncouples oxidative phosphorylation",
+      "Binds the lipoic acid of pyruvate dehydrogenase and α-ketoglutarate dehydrogenase",
+      "Inhibits pyruvate carboxylase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Arsenite forms a stable complex with the two –SH groups of reduced lipoamide. Pyruvate then builds up and is converted to lactate. Arsenate, by contrast, uncouples substrate-level phosphorylation at glyceraldehyde-3-phosphate dehydrogenase.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (congenital lactic acidosis — PDH), 2022 INI-CET (thiamine and PDH)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET (congenital lactic acidosis — PDH), 2022 INI-CET (thiamine and PDH)"
+    }
+  },
+  {
+    "id": "bioc_q_9",
+    "questionNumber": 9,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "A child with confirmed pyruvate dehydrogenase deficiency has persistent lactic acidosis. The most appropriate dietary therapy is",
+    "options": [
+      "A high-carbohydrate, low-fat diet",
+      "A high-protein diet rich in alanine",
+      "A ketogenic (high-fat, low-carbohydrate) diet",
+      "Frequent glucose feeds"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fatty acids and ketones provide acetyl-CoA without going through PDH, and the lower glucose load reduces pyruvate and lactate. A thiamine trial is also given. Lysine and leucine are purely ketogenic amino acids.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (congenital lactic acidosis — PDH deficiency), 2022 INI-CET / 2015 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET (congenital lactic acidosis — PDH deficiency), 2022 INI-CET / 2015 AIIMS"
+    }
+  },
+  {
+    "id": "bioc_q_10",
+    "questionNumber": 10,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Which of the following CANNOT provide carbon for the net synthesis of glucose?",
+    "options": [
+      "Propionate",
+      "Leucine",
+      "Glycerol",
+      "Alanine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Leucine (and lysine) give only acetyl-CoA or acetoacetate. The two carbons of acetyl-CoA are lost as CO₂ in the TCA cycle, so there is no net gain of oxaloacetate. Propionate (from odd-chain fatty acids) enters through succinyl-CoA, so it is glucogenic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (glucogenic substrates — not acetyl-CoA, 3X), 2016 AIIMS (odd-chain fatty acids → propionyl-CoA)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2022 INI-CET / 2015 AIIMS (glucogenic substrates — not acetyl-CoA, 3X), 2016 AIIMS (odd-chain fatty acids → propionyl-CoA)"
+    }
+  },
+  {
+    "id": "bioc_q_11",
+    "questionNumber": 11,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "In prolonged fasting, high mitochondrial acetyl-CoA from β-oxidation promotes gluconeogenesis by",
+    "options": [
+      "Activating PDH",
+      "Inhibiting PEPCK",
+      "Converting directly into oxaloacetate",
+      "Allosterically activating pyruvate carboxylase while inhibiting PDH"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pyruvate is diverted away from oxidation towards oxaloacetate. Pyruvate carboxylase needs biotin, and its reaction is the classic anaplerotic reaction.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (acetyl-CoA stimulates pyruvate carboxylase — T/F), 2016 AIIMS (anaplerotic reaction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2014 AIIMS (acetyl-CoA stimulates pyruvate carboxylase — T/F), 2016 AIIMS (anaplerotic reaction)"
+    }
+  },
+  {
+    "id": "bioc_q_12",
+    "questionNumber": 12,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Which enzyme does NOT produce cytosolic NADPH?",
+    "options": [
+      "Glyceraldehyde-3-phosphate dehydrogenase",
+      "Glucose-6-phosphate dehydrogenase",
+      "Malic enzyme",
+      "Cytosolic isocitrate dehydrogenase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "GAPDH produces NADH. NADPH comes from the oxidative HMP shunt (G6PD and 6-phosphogluconate dehydrogenase), malic enzyme, and cytosolic NADP⁺-linked isocitrate dehydrogenase. The HMP shunt makes NADPH and ribose-5-P but no acetyl-CoA.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (sources of cytosolic NADPH), 2024 INI-CET (HMP pathway)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (sources of cytosolic NADPH), 2024 INI-CET (HMP pathway)"
+    }
+  },
+  {
+    "id": "bioc_q_13",
+    "questionNumber": 13,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Assertion (A): Red cells deficient in G6PD haemolyse after a patient takes primaquine.\nReason (R): NADPH is needed by glutathione reductase to keep glutathione in its reduced form.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Without NADPH, reduced glutathione falls. H₂O₂ then accumulates, causing **increased** membrane lipid peroxidation, haemoglobin precipitation (Heinz bodies) and bite cells. RBCs depend entirely on the HMP shunt for NADPH.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (G6PD — lipid peroxidation T/F), 2020 NEET-PG (primaquine haemolysis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2022 INI-CET (G6PD — lipid peroxidation T/F), 2020 NEET-PG (primaquine haemolysis)"
+    }
+  },
+  {
+    "id": "bioc_q_14",
+    "questionNumber": 14,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Thiamine status is best assessed by measuring",
+    "options": [
+      "Erythrocyte glutathione reductase activity",
+      "Erythrocyte aspartate aminotransferase activity",
+      "Urinary N-methylnicotinamide",
+      "Erythrocyte transketolase activity, with and without added TPP"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A large increase in activity when TPP is added (the \"TPP effect\") indicates deficiency. Glutathione reductase measures riboflavin status, AST measures B6, and N-methylnicotinamide measures niacin.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (polished rice — transketolase defect), 2021 INI-CET (B2 by glutathione reductase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2021 NEET-PG (polished rice — transketolase defect), 2021 INI-CET (B2 by glutathione reductase)"
+    }
+  },
+  {
+    "id": "bioc_q_15",
+    "questionNumber": 15,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "In galactokinase deficiency, the main clinical problem is cataract. It results from",
+    "options": [
+      "Accumulation of galactose-1-phosphate in the lens",
+      "Accumulation of galactitol formed by aldose reductase",
+      "Deficiency of UDP-galactose",
+      "Glycation of lens proteins by fructose"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Galactitol is osmotically active and draws water into the lens. Classic galactosaemia (GALT deficiency) adds liver failure, E. coli sepsis and intellectual disability from galactose-1-phosphate. Urine is Benedict-positive but negative on glucose oxidase (GOD-POD) tests.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (commonest defect in galactosaemia — GALT), 2016 AIIMS (Benedict-positive, GOD-POD normal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2018 AIIMS (commonest defect in galactosaemia — GALT), 2016 AIIMS (Benedict-positive, GOD-POD normal)"
+    }
+  },
+  {
+    "id": "bioc_q_16",
+    "questionNumber": 16,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "A child with hereditary fructose intolerance develops hypoglycaemia after eating fruit. The main mechanism is",
+    "options": [
+      "Excess insulin secretion",
+      "Deficiency of fructokinase",
+      "Fructose-1-phosphate trapping inorganic phosphate, which depletes ATP and inhibits glycogen phosphorylase and gluconeogenesis",
+      "Loss of glucose in the urine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The defect is aldolase B. Pᵢ depletion also increases AMP breakdown, leading to hyperuricaemia. Fructokinase deficiency (essential fructosuria) is harmless.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (reducing sugar in urine), 2023 INI-CET (GSD hypoglycaemia mechanisms)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Carbohydrates",
+      "basedOn": "2016 AIIMS (reducing sugar in urine), 2023 INI-CET (GSD hypoglycaemia mechanisms)"
+    }
+  },
+  {
+    "id": "bioc_q_17",
+    "questionNumber": 17,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "If all glycolytic flux in a red cell passes through the Rapoport–Luebering (2,3-BPG) shunt, the net ATP yield per glucose is",
+    "options": [
+      "2",
+      "0",
+      "4",
+      "1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The shunt bypasses phosphoglycerate kinase, the step that makes 2 ATP per glucose. That leaves only the 2 ATP from pyruvate kinase, which exactly repays the 2 ATP invested. Red cells give up ATP to make 2,3-BPG, which regulates O₂ delivery.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (RBC fuel during fasting — glucose), 2024 INI-CET (2,3-BPG binds globin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Carbohydrates",
+      "basedOn": "2021 INI-CET (RBC fuel during fasting — glucose), 2024 INI-CET (2,3-BPG binds globin)"
+    }
+  },
+  {
+    "id": "bioc_q_18",
+    "questionNumber": 18,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Under anaerobic conditions, the net ATP yield per glucose unit taken from glycogen, compared with free blood glucose, is",
+    "options": [
+      "3 versus 2",
+      "2 versus 3",
+      "2 versus 2",
+      "4 versus 2"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Phosphorolysis by glycogen phosphorylase produces glucose-1-phosphate without spending ATP, which saves the hexokinase step. Glucose-1-P is converted to glucose-6-P by phosphoglucomutase.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (glycogen yields 3 ATP anaerobically), 2015 AIIMS (phosphoglucomutase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2016 AIIMS (glycogen yields 3 ATP anaerobically), 2015 AIIMS (phosphoglucomutase)"
+    }
+  },
+  {
+    "id": "bioc_q_19",
+    "questionNumber": 19,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "A subject consumes 250 mL of O₂ and produces 175 mL of CO₂ per minute. The main fuel being oxidised is",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "A mixed diet",
+      "Fat"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "RQ = 175/250 = 0.7, which corresponds to fat. Carbohydrate gives 1.0, protein about 0.8 and a mixed diet about 0.85. An RQ above 1 means net lipogenesis from carbohydrate, for example overfeeding with glucose in TPN.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (RQ calculation), 2020 INI-CET / 2014 AIIMS (RQ of carbohydrate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2021 INI-CET (RQ calculation), 2020 INI-CET / 2014 AIIMS (RQ of carbohydrate)"
+    }
+  },
+  {
+    "id": "bioc_q_20",
+    "questionNumber": 20,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "In hepatic encephalopathy, ammonia impairs brain energy production mainly by",
+    "options": [
+      "Inhibiting hexokinase",
+      "Uncoupling oxidative phosphorylation",
+      "Activating PDH",
+      "Draining α-ketoglutarate into glutamate and glutamine, which depletes TCA cycle intermediates"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Glutamate dehydrogenase uses up α-KG, and ammonia also inhibits α-KG dehydrogenase. Glutamine produced in astrocytes is osmotically active and causes cerebral oedema.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (ammonia inhibits α-KG dehydrogenase), 2020 INI-CET (advanced liver disease), 2015 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (ammonia inhibits α-KG dehydrogenase), 2020 INI-CET (advanced liver disease), 2015 AIIMS"
+    }
+  },
+  {
+    "id": "bioc_q_21",
+    "questionNumber": 21,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Fluoroacetate (a rodenticide) blocks the TCA cycle because it is converted into",
+    "options": [
+      "Fluoride, which inhibits enolase",
+      "Fluorocitrate, which inhibits aconitase",
+      "Fluoromalonate, which inhibits succinate dehydrogenase",
+      "Fluoropyruvate, which inhibits PDH"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is \"lethal synthesis\", and citrate builds up. Fluoride itself inhibits enolase, which is why it is used in sugar sample tubes. Malonate inhibits succinate dehydrogenase competitively.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (fluoroacetate inhibits TCA cycle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (fluoroacetate inhibits TCA cycle)"
+    }
+  },
+  {
+    "id": "bioc_q_22",
+    "questionNumber": 22,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Match each inhibitor with its site of action in oxidative phosphorylation.\n\n| Inhibitor | Site |\n|---|---|\n| 1. Rotenone | a. Complex IV (cytochrome oxidase) |\n| 2. Antimycin A | b. F₀ portion of ATP synthase |\n| 3. Cyanide | c. Complex I |\n| 4. Oligomycin | d. Complex III |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Other complex I inhibitors include amobarbital and other barbiturates. Other complex IV inhibitors are CO, H₂S and azide.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (rotenone — complex I), 2020 INI-CET (cytochrome oxidase inhibitors — 3X), 2019 NEET-PG",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 NEET-PG (rotenone — complex I), 2020 INI-CET (cytochrome oxidase inhibitors — 3X), 2019 NEET-PG"
+    }
+  },
+  {
+    "id": "bioc_q_23",
+    "questionNumber": 23,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "When 2,4-dinitrophenol is given to an animal, the expected changes are",
+    "options": [
+      "O₂ consumption falls, ATP synthesis rises",
+      "O₂ consumption rises, ATP synthesis falls, heat production rises",
+      "O₂ consumption and ATP synthesis both fall",
+      "No change in O₂ consumption"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Uncouplers carry protons back across the inner membrane without passing through ATP synthase. The electron transport chain runs unchecked, and the energy is lost as heat. Thermogenin (UCP1) in brown fat does the same thing physiologically.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (uncouplers — thermogenin, 2,4-DNP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2016 AIIMS (uncouplers — thermogenin, 2,4-DNP)"
+    }
+  },
+  {
+    "id": "bioc_q_24",
+    "questionNumber": 24,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "In cyanide poisoning, amyl nitrite or sodium nitrite works by",
+    "options": [
+      "Forming methaemoglobin, which binds cyanide and pulls it away from cytochrome oxidase",
+      "Converting cyanide into thiocyanate directly",
+      "Reactivating complex I",
+      "Chelating iron"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The Fe³⁺ in methaemoglobin has a high affinity for CN⁻, forming cyanmethaemoglobin. Thiosulfate then lets rhodanese convert cyanide to thiocyanate, which is excreted. Hydroxocobalamin binds cyanide directly to form cyanocobalamin.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (inhibitors of cytochrome oxidase), 2016 AIIMS (cyanide)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2020 INI-CET (inhibitors of cytochrome oxidase), 2016 AIIMS (cyanide)"
+    }
+  },
+  {
+    "id": "bioc_q_25",
+    "questionNumber": 25,
+    "subject": "Biochemistry",
+    "subTopic": "Carbohydrates",
+    "sub_topic": "Carbohydrates",
+    "stem": "Glucose uptake in which tissue depends on insulin?",
+    "options": [
+      "Brain neurons",
+      "Red blood cells",
+      "Hepatocytes",
+      "Adipocytes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Insulin moves GLUT4 to the membrane in adipose tissue and skeletal muscle. The brain (GLUT1/3), RBCs (GLUT1), liver and β-cells (GLUT2) and kidney take up glucose independently of insulin. Insulin does increase liver glucose use, but through glucokinase, not transport.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (insulin-independent uptake — 2X), 2019 NEET-PG (GLUT4)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Carbohydrates",
+      "basedOn": "2023 INI-CET (insulin-independent uptake — 2X), 2019 NEET-PG (GLUT4)"
+    }
+  },
+  {
+    "id": "bioc_q_26",
+    "questionNumber": 26,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "For fatty acid synthesis, acetyl-CoA is carried from the mitochondria to the cytosol in the form of",
+    "options": [
+      "Acetylcarnitine",
+      "Citrate",
+      "Malate",
+      "Acetoacetate"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Citrate lyase regenerates acetyl-CoA in the cytosol. The oxaloacetate released returns via malate, which malic enzyme converts with production of NADPH. Synthesis needs ATP, NADPH, biotin (ACC) and Mn²⁺, and its main product is palmitate.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (fatty acid synthesis in cytoplasm), 2017 AIIMS (cofactors), 2020 NEET-PG / 2018 AIIMS (palmitate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2015 AIIMS (fatty acid synthesis in cytoplasm), 2017 AIIMS (cofactors), 2020 NEET-PG / 2018 AIIMS (palmitate)"
+    }
+  },
+  {
+    "id": "bioc_q_27",
+    "questionNumber": 27,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "In the fed state, newly made fatty acids are not immediately oxidised because malonyl-CoA inhibits",
+    "options": [
+      "Acetyl-CoA carboxylase",
+      "Hormone-sensitive lipase",
+      "Carnitine palmitoyltransferase-1",
+      "HMG-CoA synthase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This prevents a futile cycle of synthesis and oxidation. A carbohydrate-rich diet raises insulin, which activates ACC, so malonyl-CoA rises. Glucagon and AMPK inhibit ACC.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (obese man on carbohydrate-rich diet — malonyl-CoA, ACC raised)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2020 INI-CET (obese man on carbohydrate-rich diet — malonyl-CoA, ACC raised)"
+    }
+  },
+  {
+    "id": "bioc_q_28",
+    "questionNumber": 28,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "A child has hypoketotic hypoglycaemia on fasting, cardiomyopathy, muscle weakness with lipid vacuoles on muscle biopsy, and a very low plasma free carnitine. The most likely defect is",
+    "options": [
+      "Primary systemic carnitine deficiency (OCTN2 transporter)",
+      "Medium-chain acyl-CoA dehydrogenase deficiency",
+      "Pompe disease",
+      "McArdle disease"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Without carnitine, long-chain fatty acids cannot enter mitochondria for β-oxidation. They are stored as TAG droplets, and ketones cannot be made. MCAD deficiency causes hypoketotic hypoglycaemia but with raised C8-acylcarnitine and usually no myopathy.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (TAG with long-chain FA and muscle fat vacuoles — carnitine deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2023 NEET-PG (TAG with long-chain FA and muscle fat vacuoles — carnitine deficiency)"
+    }
+  },
+  {
+    "id": "bioc_q_29",
+    "questionNumber": 29,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Assertion (A): The liver is the main site of ketone body synthesis but cannot use ketone bodies itself.\nReason (R): The liver lacks HMG-CoA synthase.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The liver has plenty of HMG-CoA synthase, the rate-limiting enzyme of ketogenesis. What it lacks is thiophorase (succinyl-CoA:acetoacetate CoA-transferase), which is needed to use ketones. RBCs cannot use ketones because they have no mitochondria.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (liver lacks thiophorase), 2017 AIIMS (liver and RBCs cannot use ketones)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lipids",
+      "basedOn": "2022 INI-CET (liver lacks thiophorase), 2017 AIIMS (liver and RBCs cannot use ketones)"
+    }
+  },
+  {
+    "id": "bioc_q_30",
+    "questionNumber": 30,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "In severe diabetic ketoacidosis, the nitroprusside (Rothera's) test may underestimate the degree of ketosis because",
+    "options": [
+      "Acetone evaporates from urine",
+      "β-hydroxybutyrate, which predominates in DKA, is not detected",
+      "Acetoacetate is converted to glucose",
+      "The test detects only glucose"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A high NADH/NAD⁺ ratio pushes acetoacetate to β-HB, often in a 3–10:1 ratio. Nitroprusside reacts with acetoacetate and acetone only, forming a purple ring. As DKA is treated, β-HB is converted back to acetoacetate, so the test can paradoxically turn more positive.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Rothera's test — purple ring), 2015 AIIMS (prolonged starvation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lipids",
+      "basedOn": "2021 INI-CET (Rothera's test — purple ring), 2015 AIIMS (prolonged starvation)"
+    }
+  },
+  {
+    "id": "bioc_q_31",
+    "questionNumber": 31,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "In uncontrolled type 2 diabetes, plasma triglycerides and VLDL rise mainly because",
+    "options": [
+      "Hepatic LDL receptors increase",
+      "LCAT activity is high",
+      "Bile acid synthesis is high",
+      "Lipoprotein lipase activity falls while hormone-sensitive lipase activity rises"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "LPL needs insulin, so fewer TAG-rich particles are cleared. Unrestrained HSL releases free fatty acids, which the liver re-esterifies and exports as VLDL. Insulin normally suppresses HSL.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (diabetic TAG and VLDL raised), 2021 INI-CET (lipase downregulated by insulin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (diabetic TAG and VLDL raised), 2021 INI-CET (lipase downregulated by insulin)"
+    }
+  },
+  {
+    "id": "bioc_q_32",
+    "questionNumber": 32,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Match each apolipoprotein with its function.\n\n| Apolipoprotein | Function |\n|---|---|\n| 1. ApoB-48 | a. Activates LCAT |\n| 2. ApoB-100 | b. Activates lipoprotein lipase |\n| 3. ApoC-II | c. Structural protein of chylomicrons, made by RNA editing |\n| 4. ApoA-I | d. Ligand for the LDL receptor |",
+    "options": [
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "ApoE is the ligand for the remnant receptor. HDL has the highest protein (apoprotein) content of all lipoproteins.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (ApoB-48 by RNA editing), 2020 NEET-PG (ApoC-II), 2015 AIIMS (HDL maximum apoprotein)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2022 NEET-PG (ApoB-48 by RNA editing), 2020 NEET-PG (ApoC-II), 2015 AIIMS (HDL maximum apoprotein)"
+    }
+  },
+  {
+    "id": "bioc_q_33",
+    "questionNumber": 33,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Which feature is NOT seen in familial chylomicronaemia (type I hyperlipoproteinaemia)?",
+    "options": [
+      "A creamy supernatant layer when plasma is refrigerated overnight",
+      "Recurrent acute pancreatitis",
+      "Eruptive xanthomas",
+      "Markedly premature coronary artery disease"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Chylomicrons are too large to enter the arterial wall, so atherosclerosis risk is not greatly increased. The cause is LPL or ApoC-II deficiency. Lipaemia retinalis and hepatosplenomegaly also occur.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG / 2015 AIIMS (type I — chylomicrons), 2015 AIIMS (milky blood case), 2022 NEET-PG (LPL deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2022 NEET-PG / 2015 AIIMS (type I — chylomicrons), 2015 AIIMS (milky blood case), 2022 NEET-PG (LPL deficiency)"
+    }
+  },
+  {
+    "id": "bioc_q_34",
+    "questionNumber": 34,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "A patient has very high LDL-cholesterol and tendon xanthomas. Fibroblasts show normal LDL-receptor number and function, and PCSK9 is normal. The most likely defect is in",
+    "options": [
+      "LDL receptor",
+      "ApoB-100",
+      "Lipoprotein lipase",
+      "ABCA1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "In familial defective apoB-100, LDL particles cannot bind normal receptors, so they are cleared slowly. Classic familial hypercholesterolaemia is a receptor defect. Gain-of-function PCSK9 mutations raise LDL by degrading receptors.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (high LDL with normal receptors — ApoB-100), 2022 INI-CET / 2023 NEET-PG (FH — LDL receptor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2014 AIIMS (high LDL with normal receptors — ApoB-100), 2022 INI-CET / 2023 NEET-PG (FH — LDL receptor)"
+    }
+  },
+  {
+    "id": "bioc_q_35",
+    "questionNumber": 35,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "A fasting lipid profile shows total cholesterol 260 mg/dL, HDL 40 mg/dL and triglycerides 200 mg/dL. The calculated LDL-cholesterol is",
+    "options": [
+      "180 mg/dL",
+      "200 mg/dL",
+      "140 mg/dL",
+      "220 mg/dL"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Friedewald formula: LDL = TC − HDL − TG/5 = 260 − 40 − 40 = 180 mg/dL. It is valid only when TG is below 400 mg/dL.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (LDL calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2014 AIIMS (LDL calculation)"
+    }
+  },
+  {
+    "id": "bioc_q_36",
+    "questionNumber": 36,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "The ABCA1 transporter, which is defective in Tangier disease, normally",
+    "options": [
+      "Takes up LDL into hepatocytes",
+      "Transfers cholesteryl ester from HDL to VLDL",
+      "Moves cellular cholesterol and phospholipid out to lipid-poor apoA-I, forming nascent HDL",
+      "Hydrolyses TAG in chylomicrons"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Without it, HDL is almost absent and cholesteryl esters build up in macrophages. This produces large orange tonsils, hepatosplenomegaly and neuropathy. Option B is CETP.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ABCA1 mutation, orange tonsils — Tangier)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2024 INI-CET (ABCA1 mutation, orange tonsils — Tangier)"
+    }
+  },
+  {
+    "id": "bioc_q_37",
+    "questionNumber": 37,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Assertion (A): Familial LCAT deficiency causes a high plasma HDL-cholesterol.\nReason (R): LCAT esterifies free cholesterol on HDL, and is activated by apoA-I.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Without esterification, HDL cannot mature into spherical particles, so HDL-C is very **low**. Free cholesterol accumulates and causes corneal opacities, haemolytic anaemia and renal failure. *Note: the 2021 NEET-PG key (\"increases HDL\") is incorrect.*",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG / 2018 AIIMS (LCAT deficiency), 2017 AIIMS (LCAT expansion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lipids",
+      "basedOn": "2021 NEET-PG / 2018 AIIMS (LCAT deficiency), 2017 AIIMS (LCAT expansion)"
+    }
+  },
+  {
+    "id": "bioc_q_38",
+    "questionNumber": 38,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Which of the following is NOT a criterion for the metabolic syndrome (NCEP ATP III / IDF)?",
+    "options": [
+      "Raised waist circumference",
+      "Low HDL-cholesterol",
+      "Raised fasting glucose",
+      "Raised LDL-cholesterol"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The criteria are central obesity, TG ≥ 150 mg/dL, HDL below 40 (men) or 50 (women), BP ≥ 130/85 and fasting glucose ≥ 100 mg/dL. LDL is a separate risk factor.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (criteria of metabolic syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2023 INI-CET (criteria of metabolic syndrome)"
+    }
+  },
+  {
+    "id": "bioc_q_39",
+    "questionNumber": 39,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Match each peroxisomal disorder with its defect.\n\n| Disorder | Defect |\n|---|---|\n| 1. Zellweger syndrome | a. ABCD1 transporter for very-long-chain fatty acids |\n| 2. Refsum disease | b. Failure of peroxisome assembly (PEX genes) |\n| 3. X-linked adrenoleukodystrophy | c. Alanine–glyoxylate aminotransferase |\n| 4. Primary hyperoxaluria type 1 | d. Phytanoyl-CoA hydroxylase (α-oxidation) |",
+    "options": [
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-a, 2-d, 3-b, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "VLCFAs accumulate in both Zellweger syndrome and X-ALD. In Refsum disease, dietary phytanic acid accumulates because its β-methyl group blocks β-oxidation until α-oxidation removes one carbon.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Refsum — α-oxidation), 2020 INI-CET / 2016 AIIMS (Zellweger — VLCFA), 2021 NEET-PG (peroxisomes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2023 INI-CET (Refsum — α-oxidation), 2020 INI-CET / 2016 AIIMS (Zellweger — VLCFA), 2021 NEET-PG (peroxisomes)"
+    }
+  },
+  {
+    "id": "bioc_q_40",
+    "questionNumber": 40,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Match each sphingolipidosis with its enzyme and hallmark.\n\n| Disease | Enzyme and hallmark |\n|---|---|\n| 1. Tay–Sachs | a. Glucocerebrosidase — \"crumpled tissue paper\" macrophages |\n| 2. Niemann–Pick | b. Galactocerebrosidase — globoid cells |\n| 3. Gaucher | c. Hexosaminidase A — cherry-red spot without organomegaly |\n| 4. Krabbe | d. Sphingomyelinase — cherry-red spot with hepatosplenomegaly, foam cells |",
+    "options": [
+      "1-c, 2-d, 3-a, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "All are autosomal recessive. Gaucher disease is the commonest, and type 1 has no CNS involvement. Fabry disease is the X-linked exception.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (Gaucher; Niemann–Pick case), 2022 NEET-PG (Tay–Sachs), 2021 INI-CET (Gaucher), 2017 AIIMS (Krabbe)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2024 INI-CET (Gaucher; Niemann–Pick case), 2022 NEET-PG (Tay–Sachs), 2021 INI-CET (Gaucher), 2017 AIIMS (Krabbe)"
+    }
+  },
+  {
+    "id": "bioc_q_41",
+    "questionNumber": 41,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "A 16-year-old boy has burning pain in his hands and feet, reduced sweating, dark red papules in the bathing-trunk area, and proteinuria. The enzyme deficiency and inheritance are",
+    "options": [
+      "α-Galactosidase A — X-linked recessive",
+      "Hexosaminidase A — autosomal recessive",
+      "Arylsulfatase A — autosomal recessive",
+      "Glucocerebrosidase — autosomal recessive"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is Fabry disease. Globotriaosylceramide builds up in vessels, kidney, heart and nerves. Enzyme replacement or chaperone therapy (migalastat) is available. Arylsulfatase A deficiency is metachromatic leukodystrophy.",
+    "tag": "INI-CET",
+    "exam": "sphingolipidosis cluster — 2024 INI-CET, 2022 NEET-PG, 2021 INI-CET",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "sphingolipidosis cluster — 2024 INI-CET, 2022 NEET-PG, 2021 INI-CET"
+    }
+  },
+  {
+    "id": "bioc_q_42",
+    "questionNumber": 42,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Fetal lung maturity is assessed from amniotic fluid by",
+    "options": [
+      "The lecithin/sphingomyelin ratio",
+      "Alpha-fetoprotein level",
+      "The bilirubin optical density",
+      "Acetylcholinesterase level"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A ratio above 2 suggests mature surfactant, which is mainly dipalmitoyl phosphatidylcholine made by type II pneumocytes. Phosphatidylglycerol is an additional marker of maturity.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (preterm ARDS — DPPC deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2023 NEET-PG (preterm ARDS — DPPC deficiency)"
+    }
+  },
+  {
+    "id": "bioc_q_43",
+    "questionNumber": 43,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "The phospholipid found almost only in the inner mitochondrial membrane, which is also the antigen detected by the VDRL test, is",
+    "options": [
+      "Sphingomyelin",
+      "Cardiolipin",
+      "Phosphatidylserine",
+      "Plasmalogen"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cardiolipin (diphosphatidylglycerol) holds the respiratory chain complexes in place. In Barth syndrome, defective tafazzin causes abnormal cardiolipin, with cardiomyopathy, neutropenia and myopathy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Barth syndrome — cardiolipin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2022 INI-CET (Barth syndrome — cardiolipin)"
+    }
+  },
+  {
+    "id": "bioc_q_44",
+    "questionNumber": 44,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "Statins lower plasma LDL mainly because a fall in hepatocyte cholesterol leads to",
+    "options": [
+      "Inhibition of LDL receptor synthesis",
+      "Activation of SREBP-2 and increased LDL-receptor expression",
+      "Increased VLDL secretion",
+      "Increased PCSK9 activity"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. With less cholesterol in the ER, SREBP-2 is processed and switches on LDLR transcription. Statins work poorly in homozygous receptor-negative FH. SREBP-2 also raises PCSK9, which blunts the response.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (FH on statins), 2022 INI-CET (FH — LDL receptor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Lipids",
+      "basedOn": "2023 NEET-PG (FH on statins), 2022 INI-CET (FH — LDL receptor)"
+    }
+  },
+  {
+    "id": "bioc_q_45",
+    "questionNumber": 45,
+    "subject": "Biochemistry",
+    "subTopic": "Lipids",
+    "sub_topic": "Lipids",
+    "stem": "\"Post-heparin lipolytic activity\" in plasma reflects the release of",
+    "options": [
+      "Hormone-sensitive lipase and pancreatic lipase",
+      "LCAT and CETP",
+      "Lipoprotein lipase and hepatic lipase",
+      "Lysosomal acid lipase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "These enzymes are anchored to endothelial heparan sulphate. Heparin displaces them into plasma, which is how LPL deficiency is confirmed.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (heparin releases lipoprotein lipase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lipids",
+      "basedOn": "2016 AIIMS (heparin releases lipoprotein lipase)"
+    }
+  },
+  {
+    "id": "bioc_q_46",
+    "questionNumber": 46,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Nitisinone, now approved for alkaptonuria, lowers homogentisic acid production by inhibiting",
+    "options": [
+      "Phenylalanine hydroxylase",
+      "Homogentisate 1,2-dioxygenase",
+      "4-Hydroxyphenylpyruvate dioxygenase",
+      "Fumarylacetoacetate hydrolase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Blocking the step just before homogentisate production prevents it from forming. Alkaptonuria itself is a deficiency of homogentisate oxidase, causing urine that darkens on standing and ochronosis of cartilage. Nitisinone is also the main treatment for tyrosinaemia type I.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (alkaptonuria — 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Proteins",
+      "basedOn": "2023 INI-CET / 2018 NEET-PG / 2015 AIIMS (alkaptonuria — 4X)"
+    }
+  },
+  {
+    "id": "bioc_q_47",
+    "questionNumber": 47,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "An infant has liver failure, renal Fanconi syndrome, a \"cabbage-like\" odour and raised urinary succinylacetone. The deficient enzyme is",
+    "options": [
+      "Fumarylacetoacetate hydrolase",
+      "Tyrosine aminotransferase",
+      "Homogentisate oxidase",
+      "Tyrosinase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is tyrosinaemia type I (hepatorenal). Succinylacetone is diagnostic and also inhibits ALA dehydratase, causing porphyria-like crises. Tyrosine aminotransferase deficiency is type II (oculocutaneous).",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (tyrosinosis — fumarylacetoacetate hydrolase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (tyrosinosis — fumarylacetoacetate hydrolase)"
+    }
+  },
+  {
+    "id": "bioc_q_48",
+    "questionNumber": 48,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "A child with hyperphenylalaninaemia deteriorates neurologically despite a strict low-phenylalanine diet. Phenylalanine hydroxylase activity is normal. Effective treatment must also include",
+    "options": [
+      "Tyrosine restriction",
+      "Vitamin B₁₂",
+      "L-dopa and 5-hydroxytryptophan, with tetrahydrobiopterin",
+      "Biotin"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is BH₄ deficiency (for example DHPR deficiency). BH₄ is also the cofactor for tyrosine hydroxylase and tryptophan hydroxylase, so dopamine and serotonin must be replaced. Lowering phenylalanine alone is not enough.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (PKU with normal PAH — dihydrobiopterin reductase deficiency), 2020 INI-CET (Guthrie-positive PKU)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Proteins",
+      "basedOn": "2022 NEET-PG (PKU with normal PAH — dihydrobiopterin reductase deficiency), 2020 INI-CET (Guthrie-positive PKU)"
+    }
+  },
+  {
+    "id": "bioc_q_49",
+    "questionNumber": 49,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Assertion (A): The urine and sweat of untreated phenylketonuric children have a \"mousy\" odour.\nReason (R): Excess phenylalanine is diverted to phenylpyruvate and phenylacetate, which are excreted.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Phenylacetate causes the odour. In 2023 the reason given was low tyrosine, dopamine and noradrenaline. Those are real features (fair skin, neurological effects), but they do not explain the odour.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (assertion — mousy odour in PKU)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2023 INI-CET (assertion — mousy odour in PKU)"
+    }
+  },
+  {
+    "id": "bioc_q_50",
+    "questionNumber": 50,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Match each amino acid with a biologically important product.\n\n| Amino acid | Product |\n|---|---|\n| 1. Tyrosine | a. Nitric oxide |\n| 2. Tryptophan | b. Histamine |\n| 3. Histidine | c. Thyroxine |\n| 4. Arginine | d. Melatonin |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Tyrosine also gives catecholamines and melanin. Tryptophan also gives serotonin and niacin. Glutamate gives GABA, and glycine is used for haem, creatine and glutathione.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (amino acids for hormone synthesis; amino-acid-derived neurotransmitters)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2022 INI-CET (amino acids for hormone synthesis; amino-acid-derived neurotransmitters)"
+    }
+  },
+  {
+    "id": "bioc_q_51",
+    "questionNumber": 51,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "A child has a pellagra-like photosensitive rash, intermittent cerebellar ataxia and large amounts of neutral amino acids in the urine. Plasma amino acids are normal. The defect is in",
+    "options": [
+      "Dibasic amino acid transporter (SLC3A1)",
+      "Branched-chain ketoacid dehydrogenase",
+      "Tryptophan hydroxylase",
+      "Neutral amino acid transporter B⁰AT1 (SLC6A19)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is Hartnup disease. Tryptophan is poorly absorbed in the gut and lost in the urine, which limits niacin synthesis. It responds to nicotinamide and a high-protein diet.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Hartnup — SLC6A19)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2016 AIIMS (Hartnup — SLC6A19)"
+    }
+  },
+  {
+    "id": "bioc_q_52",
+    "questionNumber": 52,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Which amino acid is NOT excreted in excess in cystinuria?",
+    "options": [
+      "Ornithine",
+      "Lysine",
+      "Methionine",
+      "Arginine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "\"COLA\": Cystine, Ornithine, Lysine, Arginine share a dibasic transporter in the PCT and gut. Only cystine is insoluble, forming hexagonal stones; the cyanide–nitroprusside test is positive.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2015 AIIMS (cystinuria — 6X), 2023 NEET-PG (hexagonal crystals)",
+    "repeats": 6,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2018 NEET-PG / 2015 AIIMS (cystinuria — 6X), 2023 NEET-PG (hexagonal crystals)"
+    }
+  },
+  {
+    "id": "bioc_q_53",
+    "questionNumber": 53,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "The branched-chain α-ketoacid dehydrogenase complex, which is deficient in maple syrup urine disease, needs all of the following cofactors EXCEPT",
+    "options": [
+      "Thiamine pyrophosphate",
+      "Lipoic acid",
+      "FAD",
+      "Biotin"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Like PDH and α-KGDH, it needs TPP, lipoate, CoA, FAD and NAD⁺. Some patients respond to thiamine. Treatment restricts valine, leucine and isoleucine.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (MSUD restriction), 2016 AIIMS (thiamine cofactor for BCKAD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (MSUD restriction), 2016 AIIMS (thiamine cofactor for BCKAD)"
+    }
+  },
+  {
+    "id": "bioc_q_54",
+    "questionNumber": 54,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "A tall boy with downward lens dislocation and a recent venous thrombosis is found to have cystathionine β-synthase deficiency. Which of the following is NOT part of management?",
+    "options": [
+      "Pyridoxine",
+      "Methionine supplementation",
+      "Betaine",
+      "Folate and vitamin B₁₂"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Methionine is **restricted** and cysteine supplemented, since cysteine becomes essential. Betaine remethylates homocysteine to methionine. About half of patients respond to B₆, the cofactor of CBS. Marfan syndrome, by contrast, causes upward lens dislocation.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (vitamin in homocystinuria treatment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2023 NEET-PG (vitamin in homocystinuria treatment)"
+    }
+  },
+  {
+    "id": "bioc_q_55",
+    "questionNumber": 55,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "A newborn boy has hyperammonaemia, a low plasma citrulline and very high urinary orotic acid. The deficient enzyme is",
+    "options": [
+      "Carbamoyl phosphate synthetase I",
+      "N-acetylglutamate synthase",
+      "Ornithine transcarbamoylase",
+      "Argininosuccinate lyase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Carbamoyl phosphate cannot enter the urea cycle, so it spills into pyrimidine synthesis and produces orotic acid. CPS-I and NAGS defects cause hyperammonaemia without orotic aciduria. OTC deficiency is the only X-linked urea cycle defect.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (glutamine raised — CPS-I deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2021 NEET-PG (glutamine raised — CPS-I deficiency)"
+    }
+  },
+  {
+    "id": "bioc_q_56",
+    "questionNumber": 56,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Arrange the urea cycle enzymes in the order in which they act.\n1. Argininosuccinate lyase\n2. Ornithine transcarbamoylase\n3. Arginase\n4. Argininosuccinate synthetase",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The cycle starts with CPS-I and OTC in mitochondria, then continues with ASS, ASL and arginase in the cytosol. ASL releases fumarate, which links the urea cycle to the TCA cycle.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (urea cycle enzymes), 2021 NEET-PG / 2014 AIIMS (fumarate as linking compound)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2017 AIIMS (urea cycle enzymes), 2021 NEET-PG / 2014 AIIMS (fumarate as linking compound)"
+    }
+  },
+  {
+    "id": "bioc_q_57",
+    "questionNumber": 57,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Sodium phenylbutyrate removes waste nitrogen in urea cycle disorders because its metabolite phenylacetate conjugates with",
+    "options": [
+      "Glycine, to form hippurate",
+      "Aspartate",
+      "Glutamine, to form phenylacetylglutamine",
+      "Arginine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Each conjugate removes 2 nitrogen atoms, which makes it more efficient than sodium benzoate. Benzoate conjugates with glycine to form hippurate, removing 1 N.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (benzoate takes N from glycine), 2020 INI-CET / 2016 AIIMS (phenylbutyrate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2022 INI-CET (benzoate takes N from glycine), 2020 INI-CET / 2016 AIIMS (phenylbutyrate)"
+    }
+  },
+  {
+    "id": "bioc_q_58",
+    "questionNumber": 58,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Cerebral oedema in acute hyperammonaemia is mainly due to",
+    "options": [
+      "Urea accumulating in neurons",
+      "Direct disruption of the blood–brain barrier by ammonia",
+      "Excess GABA synthesis",
+      "Osmotic swelling of astrocytes as glutamine synthetase converts ammonia and glutamate into glutamine"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The brain has no urea cycle, so ammonia is detoxified as glutamine. This also uses up glutamate and α-ketoglutarate.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (ammonia removed from brain as glutamine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2015 AIIMS (ammonia removed from brain as glutamine)"
+    }
+  },
+  {
+    "id": "bioc_q_59",
+    "questionNumber": 59,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Glycine has a pK₁ (–COOH) of 2.34 and a pK₂ (–NH₃⁺) of 9.60. Its isoelectric pH is",
+    "options": [
+      "7.00",
+      "5.97",
+      "6.50",
+      "11.94"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "For an amino acid with no ionisable side chain, pI = (pK₁ + pK₂)/2 = (2.34 + 9.60)/2 = 5.97. At its pI a molecule carries no net charge and does not move in an electric field.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (charged amino acids), 2017 AIIMS (pH calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (charged amino acids), 2017 AIIMS (pH calculation)"
+    }
+  },
+  {
+    "id": "bioc_q_60",
+    "questionNumber": 60,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "On haemoglobin electrophoresis at alkaline pH (8.6), HbS moves",
+    "options": [
+      "Faster towards the anode than HbA",
+      "Towards the cathode",
+      "More slowly towards the anode than HbA",
+      "At the same rate as HbA"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Replacing glutamate with valine at β6 (a point missense mutation) removes a negative charge. HbC (Glu→Lys) is even slower because it gains a positive charge.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (mobility of HbS decreased), 2020 INI-CET (sickle cell — point mutation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2018 AIIMS (mobility of HbS decreased), 2020 INI-CET (sickle cell — point mutation)"
+    }
+  },
+  {
+    "id": "bioc_q_61",
+    "questionNumber": 61,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Proteins destined for proteasomal degradation are tagged with a polyubiquitin chain attached to",
+    "options": [
+      "Lysine residues of the target protein",
+      "The N-terminal methionine",
+      "Cysteine residues",
+      "Serine or threonine residues"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The E1–E2–E3 enzyme cascade links ubiquitin's C-terminal glycine to the ε-amino group of lysine. The 26S proteasome then degrades short-lived, misfolded or regulatory proteins in the cytosol using ATP. The \"N-end rule\" links the N-terminal residue to protein half-life.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (function of proteasomes), 2018 AIIMS (protein folding enzymes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2017 AIIMS (function of proteasomes), 2018 AIIMS (protein folding enzymes)"
+    }
+  },
+  {
+    "id": "bioc_q_62",
+    "questionNumber": 62,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "An infant boy with kinky, brittle hair, hypotonia and arterial tortuosity has low serum copper and ceruloplasmin. The connective tissue defect is due to reduced activity of the copper-dependent enzyme",
+    "options": [
+      "Prolyl hydroxylase",
+      "Glutathione peroxidase",
+      "Lysyl oxidase",
+      "Tyrosine hydroxylase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is Menkes disease (ATP7A, X-linked): copper cannot be exported from enterocytes. Lysyl oxidase forms the cross-links of collagen and elastin. Prolyl hydroxylase needs vitamin C and Fe²⁺.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (Menkes — lysyl oxidase), 2017 AIIMS (Menkes features), 2020 INI-CET (copper deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2020 NEET-PG (Menkes — lysyl oxidase), 2017 AIIMS (Menkes features), 2020 INI-CET (copper deficiency)"
+    }
+  },
+  {
+    "id": "bioc_q_63",
+    "questionNumber": 63,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "In a diabetic patient with sickle cell disease, HbA1c is unreliable. Fructosamine is used instead. It reflects glycaemic control over the previous",
+    "options": [
+      "24–48 hours",
+      "3 months",
+      "6 months",
+      "2–3 weeks"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Fructosamine is mainly glycated albumin, which has a half-life of about 20 days. HbA1c depends on red cell lifespan (about 120 days), so it is falsely low in haemolysis or after recent transfusion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (fructosamine — glycated albumin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2024 INI-CET (fructosamine — glycated albumin)"
+    }
+  },
+  {
+    "id": "bioc_q_64",
+    "questionNumber": 64,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Insulin lispro acts faster than regular insulin because reversing the order of Pro(B28) and Lys(B29)",
+    "options": [
+      "Increases its affinity for the receptor",
+      "Reduces the tendency to form dimers and hexamers in the injection depot",
+      "Prevents cleavage of the C-peptide",
+      "Adds a fatty acid chain"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The C-terminal part of the B chain (B26–B30) helps with self-association, but not with receptor binding, so changes here leave biological activity intact. Adding a fatty acid (option D) is how detemir and degludec are made long-acting.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (changes at B29–B30 do not alter activity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Proteins",
+      "basedOn": "2024 INI-CET (changes at B29–B30 do not alter activity)"
+    }
+  },
+  {
+    "id": "bioc_q_65",
+    "questionNumber": 65,
+    "subject": "Biochemistry",
+    "subTopic": "Proteins",
+    "sub_topic": "Proteins",
+    "stem": "Specific dynamic action (diet-induced thermogenesis) is highest for protein mainly because",
+    "options": [
+      "Protein is absorbed more slowly",
+      "Protein is stored as glycogen",
+      "Deamination, urea synthesis and protein turnover consume a lot of ATP",
+      "Protein has the highest calorific value"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "SDA is about 20–30% of the energy in protein, compared with about 5–10% for carbohydrate and 0–3% for fat. Fat has the highest calorific value (9 kcal/g).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (thermogenic food — high-protein diet, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Proteins",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (thermogenic food — high-protein diet, 3X)"
+    }
+  },
+  {
+    "id": "bioc_q_66",
+    "questionNumber": 66,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Which enzyme does NOT require thiamine pyrophosphate?",
+    "options": [
+      "Pyruvate dehydrogenase",
+      "α-Ketoglutarate dehydrogenase",
+      "Transketolase",
+      "Pyruvate carboxylase"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pyruvate carboxylase needs biotin. The TPP-dependent enzymes are PDH, α-KGDH, branched-chain ketoacid dehydrogenase and transketolase.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (thiamine is cofactor for PDH, α-KGDH, BCKAD)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2016 AIIMS (thiamine is cofactor for PDH, α-KGDH, BCKAD)"
+    }
+  },
+  {
+    "id": "bioc_q_67",
+    "questionNumber": 67,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "In a malnourished alcoholic presenting with confusion, thiamine must be given before intravenous glucose because",
+    "options": [
+      "Glucose inactivates thiamine in the blood",
+      "Thiamine is needed for glucose uptake into neurons",
+      "A glucose load increases flux through TPP-dependent enzymes, using up the remaining thiamine and precipitating Wernicke's encephalopathy",
+      "Glucose causes lactic alkalosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Wernicke's triad is confusion, ophthalmoplegia and ataxia. Untreated, it progresses to Korsakoff psychosis (amnesia with confabulation).",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (thiamine before dextrose), 2024 INI-CET (Korsakoff features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2022 NEET-PG (thiamine before dextrose), 2024 INI-CET (Korsakoff features)"
+    }
+  },
+  {
+    "id": "bioc_q_68",
+    "questionNumber": 68,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "The high-output cardiac failure of wet beriberi is mainly caused by",
+    "options": [
+      "Peripheral vasodilatation from accumulated pyruvate and lactate, lowering systemic vascular resistance",
+      "Primary myocardial necrosis",
+      "Severe anaemia",
+      "Thyrotoxicosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The circulation behaves like an arteriovenous shunt, so cardiac output rises and causes oedema and cardiomegaly. Dry beriberi is a peripheral neuropathy. Polished rice and alcohol are classic causes.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (wet beriberi — B1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG / 2014 AIIMS (wet beriberi — B1)"
+    }
+  },
+  {
+    "id": "bioc_q_69",
+    "questionNumber": 69,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Riboflavin status is assessed by measuring",
+    "options": [
+      "Erythrocyte transketolase activity",
+      "The erythrocyte glutathione reductase activity coefficient (stimulation by FAD)",
+      "Serum methylmalonic acid",
+      "The urinary xanthurenic acid after a tryptophan load"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Glutathione reductase is FAD-dependent. A coefficient above 1.2–1.4 indicates deficiency. The xanthurenic acid test assesses B₆ status.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (B2 status — glutathione reductase, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (B2 status — glutathione reductase, 3X)"
+    }
+  },
+  {
+    "id": "bioc_q_70",
+    "questionNumber": 70,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A patient with metastatic carcinoid tumour develops dermatitis, diarrhoea and confusion. The vitamin deficiency arises because",
+    "options": [
+      "Serotonin destroys niacin",
+      "Tumour metastases cause malabsorption",
+      "Most dietary tryptophan is diverted to serotonin instead of niacin synthesis",
+      "Carcinoid inhibits NAD⁺ synthetase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Normally about 60 mg of tryptophan yields 1 mg of niacin. Pellagra also occurs with maize diets (bound niacytin), Hartnup disease and isoniazid (via B₆ deficiency). A necklace-shaped neck rash (Casal's necklace) is typical.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (Casal's necklace — tryptophan/niacin), 2023 NEET-PG (maize diet)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG (Casal's necklace — tryptophan/niacin), 2023 NEET-PG (maize diet)"
+    }
+  },
+  {
+    "id": "bioc_q_71",
+    "questionNumber": 71,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A patient on isoniazid develops microcytic anaemia with ringed sideroblasts in the marrow. It responds to pyridoxine because PLP is the cofactor for",
+    "options": [
+      "δ-Aminolevulinic acid synthase",
+      "Ferrochelatase",
+      "Transferrin receptor synthesis",
+      "Ferroportin"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Without ALA synthase activity, haem synthesis fails and iron piles up in mitochondria around the nucleus. Isoniazid forms an inactive hydrazone with PLP, which also causes peripheral neuropathy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (vitamin for sideroblastic anaemia — B6), 2021 NEET-PG (ATT neuropathy — B6)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2023 INI-CET (vitamin for sideroblastic anaemia — B6), 2021 NEET-PG (ATT neuropathy — B6)"
+    }
+  },
+  {
+    "id": "bioc_q_72",
+    "questionNumber": 72,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Which reaction does NOT require pyridoxal phosphate?",
+    "options": [
+      "Alanine aminotransferase",
+      "Glutamate decarboxylase (GABA synthesis)",
+      "Prolyl hydroxylase",
+      "Cystathionine β-synthase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Prolyl hydroxylase needs vitamin C, Fe²⁺, α-ketoglutarate and O₂. PLP serves transamination, decarboxylation, transsulfuration, deamination of hydroxy amino acids, ALA synthase and glycogen phosphorylase.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (pyridoxine required for transamination, decarboxylation, transsulfuration), 2017 AIIMS (glycogen phosphorylase cofactor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2017 AIIMS (pyridoxine required for transamination, decarboxylation, transsulfuration), 2017 AIIMS (glycogen phosphorylase cofactor)"
+    }
+  },
+  {
+    "id": "bioc_q_73",
+    "questionNumber": 73,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A bodybuilder eating a dozen raw egg whites daily develops dermatitis, alopecia and lethargy. Which enzyme is NOT affected?",
+    "options": [
+      "Pyruvate carboxylase",
+      "Acetyl-CoA carboxylase",
+      "Propionyl-CoA carboxylase",
+      "Methylmalonyl-CoA mutase"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Avidin in raw egg white binds biotin, the cofactor for all carboxylases (CO₂ transfer). Methylmalonyl-CoA mutase needs B₁₂ (adenosylcobalamin).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (raw eggs — pyruvate carboxylase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (raw eggs — pyruvate carboxylase)"
+    }
+  },
+  {
+    "id": "bioc_q_74",
+    "questionNumber": 74,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A patient with megaloblastic anaemia has raised serum homocysteine and NORMAL methylmalonic acid. The most likely deficiency is",
+    "options": [
+      "Vitamin B₁₂",
+      "Folate",
+      "Vitamin B₆",
+      "Iron"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "B₁₂ is needed by two enzymes, methionine synthase (homocysteine) and methylmalonyl-CoA mutase (MMA), so B₁₂ deficiency raises both. Folate is needed only for methionine synthase.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (folate — high homocysteine, low MMA), 2022 INI-CET (enzymes affected by B12)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2021 INI-CET (folate — high homocysteine, low MMA), 2022 INI-CET (enzymes affected by B12)"
+    }
+  },
+  {
+    "id": "bioc_q_75",
+    "questionNumber": 75,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "In B₁₂ deficiency, DNA synthesis is impaired even when folate intake is adequate. This is because of the",
+    "options": [
+      "Direct inhibition of DNA polymerase",
+      "Loss of intrinsic factor",
+      "\"Methyl-folate trap\": N⁵-methyl-THF cannot be demethylated, so the THF available for thymidylate synthesis falls",
+      "Increased dihydrofolate reductase activity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "N⁵,N¹⁰-methylene-THF is the methyl donor for thymidylate synthase (dUMP → dTMP). Uracil is then wrongly built into DNA and cell division is delayed, giving megaloblasts.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (deficiencies preventing thymine insertion — folate and B12)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Vitamins",
+      "basedOn": "2024 INI-CET (deficiencies preventing thymine insertion — folate and B12)"
+    }
+  },
+  {
+    "id": "bioc_q_76",
+    "questionNumber": 76,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Subacute combined degeneration of the cord in B₁₂ deficiency is best explained by",
+    "options": [
+      "Impaired methionine synthase (less SAM for methylation) together with methylmalonyl-CoA accumulation causing abnormal myelin lipids",
+      "Iron overload in neurons",
+      "Hyperhomocysteinaemia causing thrombosis of spinal arteries",
+      "Folate excess"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Dorsal columns and lateral corticospinal tracts degenerate. Giving folate alone can correct the anaemia while the neurological damage progresses.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (methylmalonyl-CoA → succinyl-CoA needs B12), 2022 NEET-PG (B12 paraesthesia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Vitamins",
+      "basedOn": "2023 INI-CET / 2015 AIIMS (methylmalonyl-CoA → succinyl-CoA needs B12), 2022 NEET-PG (B12 paraesthesia)"
+    }
+  },
+  {
+    "id": "bioc_q_77",
+    "questionNumber": 77,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Leucovorin (folinic acid) \"rescues\" normal cells after high-dose methotrexate because it",
+    "options": [
+      "Inhibits methotrexate uptake by cells",
+      "Reactivates dihydrofolate reductase",
+      "Is a reduced folate that supplies THF without needing dihydrofolate reductase",
+      "Increases renal methotrexate excretion"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Methotrexate blocks DHFR, so THF and thymidylate (TMP) cannot be regenerated. Leucovorin is 5-formyl-THF, which enters the folate pool after the blocked step.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (methotrexate reduces TMP synthesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2020 NEET-PG (methotrexate reduces TMP synthesis)"
+    }
+  },
+  {
+    "id": "bioc_q_78",
+    "questionNumber": 78,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Perifollicular haemorrhages, \"corkscrew\" hairs and swollen bleeding gums in scurvy are due to",
+    "options": [
+      "Defective γ-carboxylation of clotting factors",
+      "Defective collagen cross-linking by lysyl oxidase",
+      "Platelet dysfunction",
+      "Defective hydroxylation of proline and lysine, producing an unstable collagen triple helix"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ascorbate keeps the iron of prolyl and lysyl hydroxylases in the Fe²⁺ state. Without it, the weak capillary walls bleed. Option A is vitamin K; option B is copper.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (collagen defect — scurvy), 2021 NEET-PG (bleeding gums), 2016 AIIMS (hydroxyproline — post-translational)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2023 INI-CET (collagen defect — scurvy), 2021 NEET-PG (bleeding gums), 2016 AIIMS (hydroxyproline — post-translational)"
+    }
+  },
+  {
+    "id": "bioc_q_79",
+    "questionNumber": 79,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Warfarin produces its anticoagulant effect by inhibiting",
+    "options": [
+      "γ-Glutamyl carboxylase directly",
+      "Antithrombin III",
+      "Vitamin K epoxide reductase (VKORC1)",
+      "Factor Xa directly"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Vitamin K hydroquinone is the cofactor for γ-carboxylation of glutamate residues in factors II, VII, IX and X and in proteins C and S. Each carboxylation turns vitamin K into the epoxide, which must be recycled. VKORC1 variants explain differences in warfarin dose between patients.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (vitamin K — factors II, VII, IX, X), 2015 AIIMS (γ-carboxylation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (vitamin K — factors II, VII, IX, X), 2015 AIIMS (γ-carboxylation)"
+    }
+  },
+  {
+    "id": "bioc_q_80",
+    "questionNumber": 80,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "The EARLIEST clinical sign of vitamin A deficiency in a child is usually",
+    "options": [
+      "Bitot's spots",
+      "Night blindness",
+      "Corneal xerosis",
+      "Keratomalacia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Rod function needs 11-cis-retinal to regenerate rhodopsin. Bitot's spots (conjunctival xerosis) and corneal changes come later. Follicular hyperkeratosis of the skin (phrynoderma) is an extra-ocular sign.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (night blindness, Bitot spots, toad skin), 2018 AIIMS (provitamin A — β-carotene)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2020 NEET-PG (night blindness, Bitot spots, toad skin), 2018 AIIMS (provitamin A — β-carotene)"
+    }
+  },
+  {
+    "id": "bioc_q_81",
+    "questionNumber": 81,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A child with fat malabsorption, acanthocytes and absent plasma apoB-containing lipoproteins develops ataxia, loss of position sense and haemolysis. The vitamin deficiency responsible for the neurological features is",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is abetalipoproteinaemia (MTP defect). Vitamin E, a lipid-soluble antioxidant, cannot be transported, so spinocerebellar tracts, dorsal columns, peripheral nerves and the retina degenerate, and red cells undergo oxidative haemolysis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (vitamin E deficiency features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2016 AIIMS (vitamin E deficiency features)"
+    }
+  },
+  {
+    "id": "bioc_q_82",
+    "questionNumber": 82,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Assertion (A): Humans must obtain ascorbic acid from the diet.\nReason (R): Ascorbic acid is the cofactor for prolyl hydroxylase.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Humans need dietary vitamin C because they lack L-gulonolactone oxidase, the last enzyme of the synthesis pathway. Its role in prolyl hydroxylation is true but unrelated. Intakes above about 100 mg/day saturate tissues, and the excess is excreted.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (L-gulonolactone oxidase), 2020 INI-CET (vitamin C above 100 units)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (L-gulonolactone oxidase), 2020 INI-CET (vitamin C above 100 units)"
+    }
+  },
+  {
+    "id": "bioc_q_83",
+    "questionNumber": 83,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A breast-fed infant develops a rash around the mouth and anus, diarrhoea, alopecia and poor wound healing after weaning. The defect is in",
+    "options": [
+      "The intestinal zinc transporter ZIP4 (SLC39A4)",
+      "Biotinidase",
+      "Copper-transporting ATPase ATP7A",
+      "Niacin absorption"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "This is acrodermatitis enteropathica. Breast milk contains a zinc-binding ligand that helps absorption, so symptoms appear after weaning. Zinc deficiency also causes hypogonadism, loss of taste and growth failure.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (perioral scaly patches — zinc), 2024 INI-CET (zinc — hypogonadism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2022 NEET-PG (perioral scaly patches — zinc), 2024 INI-CET (zinc — hypogonadism)"
+    }
+  },
+  {
+    "id": "bioc_q_84",
+    "questionNumber": 84,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A teenager with chronic hepatitis and Kayser–Fleischer rings has low serum ceruloplasmin. The defective protein is",
+    "options": [
+      "ATP7A, an intestinal copper exporter",
+      "Ceruloplasmin gene",
+      "ATP7B, a hepatocyte copper transporter for biliary excretion and ceruloplasmin loading",
+      "Metallothionein"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is Wilson disease (autosomal recessive). Copper builds up in liver, brain (basal ganglia) and cornea. The ATP7A defect in Menkes disease causes copper **deficiency**.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (copper deficiency — Menkes), 2017 AIIMS (Menkes copper ATPase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2020 INI-CET (copper deficiency — Menkes), 2017 AIIMS (Menkes copper ATPase)"
+    }
+  },
+  {
+    "id": "bioc_q_85",
+    "questionNumber": 85,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A young woman from a selenium-poor region develops dilated cardiomyopathy. The selenium-dependent enzymes include",
+    "options": [
+      "Carbonic anhydrase and alcohol dehydrogenase",
+      "Cytochrome oxidase and tyrosinase",
+      "Xanthine oxidase and sulphite oxidase",
+      "Glutathione peroxidase and iodothyronine deiodinases"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is Keshan disease. These enzymes contain selenocysteine (the \"21st amino acid\") at the active site, encoded by UGA. Zinc is in option A, copper in B, and molybdenum in C.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (selenocysteine enzyme — glutathione peroxidase), 2014 AIIMS (codon for selenocysteine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2023 INI-CET (selenocysteine enzyme — glutathione peroxidase), 2014 AIIMS (codon for selenocysteine)"
+    }
+  },
+  {
+    "id": "bioc_q_86",
+    "questionNumber": 86,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "A patient whose sweat and breath smell of rotting fish is advised to restrict dietary choline. The defective enzyme is",
+    "options": [
+      "Trimethylamine N-oxide reductase",
+      "Choline kinase",
+      "Flavin-containing monooxygenase 3 (FMO3)",
+      "Betaine-homocysteine methyltransferase"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is trimethylaminuria. Gut bacteria make trimethylamine from choline and carnitine, and the liver normally oxidises it to odourless TMA N-oxide.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (fish odour disease — restrict choline)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2018 AIIMS (fish odour disease — restrict choline)"
+    }
+  },
+  {
+    "id": "bioc_q_87",
+    "questionNumber": 87,
+    "subject": "Biochemistry",
+    "subTopic": "Vitamins",
+    "sub_topic": "Vitamins",
+    "stem": "Hepcidin lowers plasma iron by",
+    "options": [
+      "Inhibiting DMT1 on the apical membrane of enterocytes",
+      "Binding ferroportin and causing it to be internalised and degraded",
+      "Increasing transferrin synthesis",
+      "Stimulating ferritin breakdown"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "With ferroportin gone, iron is trapped in enterocytes and macrophages. Inflammation (via IL-6) raises hepcidin, causing anaemia of chronic disease. Hepcidin deficiency causes haemochromatosis. Haem iron and Fe²⁺ are absorbed in the duodenum.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (ileal resection — vitamin deficiencies), mineral cluster 2020–2024",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Vitamins",
+      "basedOn": "2024 INI-CET (ileal resection — vitamin deficiencies), mineral cluster 2020–2024"
+    }
+  },
+  {
+    "id": "bioc_q_88",
+    "questionNumber": 88,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "Match each type of enzyme inhibition with its effect.\n\n| Inhibition | Effect |\n|---|---|\n| 1. Competitive | a. Both Km and Vmax decrease |\n| 2. Non-competitive | b. Irreversible covalent inactivation after the enzyme acts on the inhibitor |\n| 3. Uncompetitive | c. Km increases, Vmax unchanged |\n| 4. Suicide (mechanism-based) | d. Km unchanged, Vmax decreases |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Raising [S] overcomes competitive inhibition but not non-competitive inhibition. An uncompetitive inhibitor binds only the ES complex.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Vmax decreases, Km same — 3X), 2020 NEET-PG (competitive), 2024 INI-CET (suicide inhibition)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2022 INI-CET (Vmax decreases, Km same — 3X), 2020 NEET-PG (competitive), 2024 INI-CET (suicide inhibition)"
+    }
+  },
+  {
+    "id": "bioc_q_89",
+    "questionNumber": 89,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "On a Lineweaver–Burk plot, lines for an enzyme with and without a competitive inhibitor",
+    "options": [
+      "Intersect on the y-axis",
+      "Intersect on the x-axis",
+      "Are parallel",
+      "Intersect in the second quadrant above the x-axis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The y-intercept (1/Vmax) is unchanged, and the x-intercept (−1/Km) moves towards the origin. Non-competitive inhibition gives lines that meet on the x-axis; uncompetitive inhibition gives parallel lines.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (competitive — Vmax same, Km increases)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2020 NEET-PG (competitive — Vmax same, Km increases)"
+    }
+  },
+  {
+    "id": "bioc_q_90",
+    "questionNumber": 90,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "For an enzyme following Michaelis–Menten kinetics, when [S] = 4 × Km the reaction velocity is",
+    "options": [
+      "0.50 Vmax",
+      "0.75 Vmax",
+      "0.80 Vmax",
+      "0.90 Vmax"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "v = Vmax[S]/(Km + [S]) = 4Km/5Km × Vmax = 0.8 Vmax. At [S] = Km, v = ½ Vmax; at [S] = 9 Km, v = 0.9 Vmax.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (catalytic efficiency), 2020 INI-CET (kinetics calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2021 INI-CET (catalytic efficiency), 2020 INI-CET (kinetics calculation)"
+    }
+  },
+  {
+    "id": "bioc_q_91",
+    "questionNumber": 91,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "An enzyme works with substrate at 1000 × Km and converts 1% of it to product in 10 minutes. If the enzyme concentration is doubled and the substrate is halved (still far above Km), the time to form the same amount of product is",
+    "options": [
+      "10 minutes",
+      "5 minutes",
+      "20 minutes",
+      "2.5 minutes"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "At [S] far above Km the enzyme is saturated, so the reaction is zero order in substrate: rate = kcat[E] and does not depend on [S]. Doubling [E] doubles the rate and halves the time. This is the same logic as the 2020 question (enzyme reduced to ⅓ → 3 × 9 = 27 min).",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (substrate 1000 × Km — 27 min)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Enzymes",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (substrate 1000 × Km — 27 min)"
+    }
+  },
+  {
+    "id": "bioc_q_92",
+    "questionNumber": 92,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "The best single measure of an enzyme's catalytic efficiency and substrate preference is",
+    "options": [
+      "Km alone",
+      "Vmax alone",
+      "kcat alone",
+      "kcat/Km (the specificity constant)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A high kcat and a low Km together give high efficiency. The upper limit is about 10⁸–10⁹ M⁻¹s⁻¹, set by diffusion, and is reached by \"catalytically perfect\" enzymes such as triose phosphate isomerase and carbonic anhydrase.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (highest catalytic efficiency — kcat high, Km low)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2021 INI-CET (highest catalytic efficiency — kcat high, Km low)"
+    }
+  },
+  {
+    "id": "bioc_q_93",
+    "questionNumber": 93,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "Which drug is NOT a suicide (mechanism-based) inhibitor of its target enzyme?",
+    "options": [
+      "Allopurinol (xanthine oxidase)",
+      "5-Fluorouracil (thymidylate synthase)",
+      "Methotrexate (dihydrofolate reductase)",
+      "Aspirin (cyclo-oxygenase)"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Methotrexate is a tight-binding competitive substrate analogue and is not chemically changed by DHFR. Suicide inhibitors are processed by the enzyme into a reactive form that inactivates it: allopurinol becomes oxypurinol, and 5-FU becomes FdUMP. Aspirin acetylates COX irreversibly.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (suicidal inhibition)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Enzymes",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (suicidal inhibition)"
+    }
+  },
+  {
+    "id": "bioc_q_94",
+    "questionNumber": 94,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "Allosteric regulatory enzymes such as aspartate transcarbamoylase show a sigmoid velocity–substrate curve because",
+    "options": [
+      "They have several subunits with cooperative binding",
+      "They follow Michaelis–Menten kinetics",
+      "They are inhibited by their substrate",
+      "They contain metal ions"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Effectors bind at a site other than the active site and shift the curve (K-type) or change Vmax (V-type). ATCase is inhibited by CTP and activated by ATP.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (allosteric inhibitors bind another site), 2015 AIIMS (modifier at allosteric site — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2018 AIIMS (allosteric inhibitors bind another site), 2015 AIIMS (modifier at allosteric site — T/F)"
+    }
+  },
+  {
+    "id": "bioc_q_95",
+    "questionNumber": 95,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "Five days after an MI, a patient has new chest pain. The best biochemical marker for diagnosing reinfarction is",
+    "options": [
+      "Troponin I",
+      "LDH₁/LDH₂ ratio",
+      "CK-MB",
+      "AST"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "CK-MB returns to normal within 48–72 hours, so a fresh rise means a new infarct. Troponins stay raised for 7–14 days. The LDH \"flip\" (LDH₁",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (LDH flip in MI)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (LDH flip in MI)"
+    }
+  },
+  {
+    "id": "bioc_q_96",
+    "questionNumber": 96,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "A raised serum alkaline phosphatase can come from bone or liver. The enzyme that confirms a hepatobiliary source is",
+    "options": [
+      "ALT",
+      "γ-Glutamyl transferase (GGT)",
+      "Amylase",
+      "Creatine kinase"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "GGT (or 5′-nucleotidase) rises with ALP in cholestasis but not in bone disease. GGT is also induced by alcohol, making it the most characteristic enzyme rise in alcoholic liver disease.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (bile duct obstruction — GGT), 2017 AIIMS (alcoholic hepatitis — GGT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2023 NEET-PG (bile duct obstruction — GGT), 2017 AIIMS (alcoholic hepatitis — GGT)"
+    }
+  },
+  {
+    "id": "bioc_q_97",
+    "questionNumber": 97,
+    "subject": "Biochemistry",
+    "subTopic": "Enzymes",
+    "sub_topic": "Enzymes",
+    "stem": "Match each enzyme with its metal cofactor.\n\n| Enzyme | Metal |\n|---|---|\n| 1. Carbonic anhydrase | a. Molybdenum |\n| 2. Glutathione peroxidase | b. Copper and iron |\n| 3. Cytochrome c oxidase | c. Zinc |\n| 4. Xanthine oxidase | d. Selenium |",
+    "options": [
+      "1-c, 2-b, 3-d, 4-a",
+      "1-d, 2-c, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Other zinc enzymes include alcohol dehydrogenase, ALP and carboxypeptidase. Copper enzymes include tyrosinase, lysyl oxidase and superoxide dismutase (cytosolic, Cu/Zn).",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (zinc enzyme — carbonic anhydrase), 2023 INI-CET (selenocysteine — glutathione peroxidase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Enzymes",
+      "basedOn": "2016 AIIMS (zinc enzyme — carbonic anhydrase), 2023 INI-CET (selenocysteine — glutathione peroxidase)"
+    }
+  },
+  {
+    "id": "bioc_q_98",
+    "questionNumber": 98,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "In Lesch–Nyhan syndrome, uric acid overproduction is mainly due to",
+    "options": [
+      "Failure of purine salvage, which leads to accumulation of PRPP and loss of feedback inhibition, accelerating de novo purine synthesis",
+      "Increased xanthine oxidase synthesis",
+      "Reduced renal excretion of urate",
+      "Increased pyrimidine breakdown"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "HGPRT deficiency is X-linked. It causes self-mutilation, choreoathetosis, intellectual disability and gout. Overactive PRPP synthetase also causes hyperuricaemia, by the same mechanism.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Lesch–Nyhan case), 2017 AIIMS (hyperuricaemia — HGPRT, PRPP synthase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nucleotides",
+      "basedOn": "2023 NEET-PG (Lesch–Nyhan case), 2017 AIIMS (hyperuricaemia — HGPRT, PRPP synthase)"
+    }
+  },
+  {
+    "id": "bioc_q_99",
+    "questionNumber": 99,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "Binge drinking precipitates an attack of gout mainly because",
+    "options": [
+      "Ethanol inhibits xanthine oxidase",
+      "Alcohol contains purines only in wine",
+      "Alcohol increases urate binding to albumin",
+      "Lactate competes with urate for renal excretion, and alcohol metabolism speeds ATP breakdown to purines"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A high NADH/NAD⁺ ratio turns pyruvate into lactate, which is exchanged for urate in the tubule and so reduces urate secretion. Converting acetate to acetyl-CoA uses ATP, producing AMP and then urate. Beer also contains guanosine.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (alcoholic gout — raised urate and lactate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nucleotides",
+      "basedOn": "2022 NEET-PG (alcoholic gout — raised urate and lactate)"
+    }
+  },
+  {
+    "id": "bioc_q_100",
+    "questionNumber": 100,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "An infant has megaloblastic anaemia that does not respond to B₁₂ or folate, with crystals of orotic acid in the urine and normal ammonia. The appropriate treatment is",
+    "options": [
+      "Arginine",
+      "Uridine",
+      "Sodium benzoate",
+      "Allopurinol"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "This is hereditary orotic aciduria (UMP synthase deficiency). Uridine supplies pyrimidines through salvage and, by feedback, switches off CPS-II. Orotic aciduria with **hyperammonaemia** points instead to OTC deficiency.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (CPS-I deficiency), 2020 NEET-PG (methotrexate and TMP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nucleotides",
+      "basedOn": "2021 NEET-PG (CPS-I deficiency), 2020 NEET-PG (methotrexate and TMP)"
+    }
+  },
+  {
+    "id": "bioc_q_101",
+    "questionNumber": 101,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "Basophilic stippling of red cells in lead poisoning results from inhibition of",
+    "options": [
+      "δ-ALA dehydratase",
+      "Ferrochelatase",
+      "Glucose-6-phosphate dehydrogenase",
+      "Pyrimidine 5′-nucleotidase"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Without it, ribosomal RNA breakdown products are not cleared and clump as basophilic dots. Inherited deficiency of the enzyme causes a haemolytic anaemia with the same stippling.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (basophilic stippling — pyrimidine-specific 5′-nucleotidase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nucleotides",
+      "basedOn": "2017 AIIMS (basophilic stippling — pyrimidine-specific 5′-nucleotidase)"
+    }
+  },
+  {
+    "id": "bioc_q_102",
+    "questionNumber": 102,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "Spontaneous deamination of cytosine in DNA produces uracil. This lesion is removed first by",
+    "options": [
+      "Uracil-DNA glycosylase, through base excision repair",
+      "Nucleotide excision repair",
+      "Mismatch repair proteins MSH2/MLH1",
+      "Photolyase"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Deamination of **5-methylcytosine** gives thymine, a normal DNA base, which is much harder to recognise. This is why methylated CpG sites are mutation hotspots (C→T transitions).",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (deamination of methylcytosine → thymine), 2015 AIIMS (CpG islands)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nucleotides",
+      "basedOn": "2022 INI-CET (deamination of methylcytosine → thymine), 2015 AIIMS (CpG islands)"
+    }
+  },
+  {
+    "id": "bioc_q_103",
+    "questionNumber": 103,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "Hydroxyurea, used in sickle cell disease and myeloproliferative disorders, inhibits",
+    "options": [
+      "Thymidylate synthase",
+      "Ribonucleotide reductase",
+      "Dihydrofolate reductase",
+      "IMP dehydrogenase"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ribonucleotide reductase makes all the deoxyribonucleotides (using thioredoxin as reductant). Hydroxyurea quenches its tyrosyl free radical. In sickle cell disease it also raises HbF.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (methotrexate — TMP synthesis), nucleotide synthesis cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nucleotides",
+      "basedOn": "2020 NEET-PG (methotrexate — TMP synthesis), nucleotide synthesis cluster"
+    }
+  },
+  {
+    "id": "bioc_q_104",
+    "questionNumber": 104,
+    "subject": "Biochemistry",
+    "subTopic": "Nucleotides",
+    "sub_topic": "Nucleotides",
+    "stem": "In which genome would the content of adenine NOT equal that of thymine, and guanine NOT equal that of cytosine?",
+    "options": [
+      "Human mitochondrial DNA",
+      "Bacterial plasmid",
+      "Herpes simplex virus",
+      "Parvovirus B19"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Chargaff's rules (A = T, G = C) apply only to double-stranded DNA, where hydrogen-bonded base pairing enforces them. Parvovirus has single-stranded DNA. HIV's RNA genome has no thymine at all.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (virus in which A ≠ T — HIV), 2016 AIIMS (base pairing — hydrogen bonds)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nucleotides",
+      "basedOn": "2023 INI-CET (virus in which A ≠ T — HIV), 2016 AIIMS (base pairing — hydrogen bonds)"
+    }
+  },
+  {
+    "id": "bioc_q_105",
+    "questionNumber": 105,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "Arrange these enzymes of haem synthesis in the order in which they act.\n1. Porphobilinogen deaminase\n2. Ferrochelatase\n3. δ-ALA dehydratase\n4. Uroporphyrinogen decarboxylase",
+    "options": [
+      "3 → 1 → 4 → 2",
+      "1 → 3 → 4 → 2",
+      "3 → 4 → 1 → 2",
+      "3 → 1 → 2 → 4"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "ALA synthase (glycine + succinyl-CoA, PLP-dependent) acts first, in mitochondria. The middle steps are cytosolic, and the last steps return to mitochondria. Mature RBCs cannot make haem because they have no mitochondria.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (TCA intermediate in haem synthesis — succinyl-CoA), 2016 AIIMS (RBC not a site of haem synthesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Heme",
+      "basedOn": "2021 INI-CET (TCA intermediate in haem synthesis — succinyl-CoA), 2016 AIIMS (RBC not a site of haem synthesis)"
+    }
+  },
+  {
+    "id": "bioc_q_106",
+    "questionNumber": 106,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "Assertion (A): In chronic lead poisoning, urinary δ-aminolevulinic acid is raised.\nReason (R): Lead inhibits δ-ALA dehydratase.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Lead also inhibits ferrochelatase, so zinc protoporphyrin rises and microcytic anaemia with basophilic stippling develops. Urinary coproporphyrin also rises. Eosinophilia is not a feature, as the 2022 assertion tested.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (assertion — lead and ALA dehydratase), 2018 NEET-PG (urinary coproporphyrin), 2016 AIIMS (lead — ALA synthase activity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Heme",
+      "basedOn": "2022 INI-CET (assertion — lead and ALA dehydratase), 2018 NEET-PG (urinary coproporphyrin), 2016 AIIMS (lead — ALA synthase activity)"
+    }
+  },
+  {
+    "id": "bioc_q_107",
+    "questionNumber": 107,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "A young woman has an attack of severe abdominal pain, psychosis and dark urine after starting barbiturates. Giving intravenous haemin helps because it",
+    "options": [
+      "Supplies iron for haem synthesis",
+      "Activates PBG deaminase",
+      "Binds porphobilinogen in the urine",
+      "Represses hepatic ALA synthase-1 by feedback"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is acute intermittent porphyria (PBG deaminase deficiency). Drugs that induce cytochrome P450 deplete haem, which induces ALAS1 and floods the pathway with ALA and PBG. Glucose also represses ALAS1. There is no photosensitivity, because the block comes before porphyrin rings form.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (ALA synthase activity increased), 2021 INI-CET (haem synthesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Heme",
+      "basedOn": "2016 AIIMS (ALA synthase activity increased), 2021 INI-CET (haem synthesis)"
+    }
+  },
+  {
+    "id": "bioc_q_108",
+    "questionNumber": 108,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "Match each porphyria with its enzyme and hallmark.\n\n| Porphyria | Enzyme and hallmark |\n|---|---|\n| 1. Acute intermittent porphyria | a. Ferrochelatase — painful, non-blistering photosensitivity |\n| 2. Porphyria cutanea tarda | b. PBG deaminase — neurovisceral attacks, no skin lesions |\n| 3. Congenital erythropoietic porphyria | c. Uroporphyrinogen decarboxylase — blistering of sun-exposed skin |\n| 4. Erythropoietic protoporphyria | d. Uroporphyrinogen III synthase — red teeth and red urine from infancy |",
+    "options": [
+      "1-b, 2-d, 3-c, 4-a",
+      "1-b, 2-c, 3-d, 4-a",
+      "1-c, 2-b, 3-d, 4-a",
+      "1-b, 2-c, 3-a, 4-d"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "PCT is the commonest porphyria and is linked to hepatitis C, alcohol, oestrogens and iron overload. Photosensitivity comes from porphyrins that absorb light around 400 nm (the Soret band).",
+    "tag": "INI-CET",
+    "exam": "haem synthesis cluster — 2022 INI-CET, 2018 NEET-PG, 2016 AIIMS",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Heme",
+      "basedOn": "haem synthesis cluster — 2022 INI-CET, 2018 NEET-PG, 2016 AIIMS"
+    }
+  },
+  {
+    "id": "bioc_q_109",
+    "questionNumber": 109,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "The only reaction in the body that produces carbon monoxide endogenously is catalysed by",
+    "options": [
+      "Biliverdin reductase",
+      "Cytochrome P450",
+      "UDP-glucuronyl transferase",
+      "Haem oxygenase"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Haem oxygenase opens the haem ring to give biliverdin, Fe²⁺ and CO; biliverdin reductase then forms bilirubin. Endogenous CO is a vasodilator and signalling molecule, and it explains raised carboxyhaemoglobin in haemolysis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (products of haem catabolism — Fe²⁺, biliverdin, CO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Heme",
+      "basedOn": "2023 INI-CET (products of haem catabolism — Fe²⁺, biliverdin, CO)"
+    }
+  },
+  {
+    "id": "bioc_q_110",
+    "questionNumber": 110,
+    "subject": "Biochemistry",
+    "subTopic": "Heme",
+    "sub_topic": "Heme",
+    "stem": "Fetal haemoglobin has a higher O₂ affinity than HbA because",
+    "options": [
+      "It contains Fe³⁺",
+      "Its γ chains bind 2,3-BPG weakly, because His143 of the β chain is replaced by serine",
+      "It has four α chains",
+      "2,3-BPG binds its α chains"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "2,3-BPG binds in the central cavity between the two β chains of deoxy-HbA and stabilises the T (taut) state. With fewer positive charges there, HbF binds it weakly, so the curve shifts left and O₂ moves from mother to fetus.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (2,3-BPG binds globin), 2023 INI-CET (β globin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Heme",
+      "basedOn": "2024 INI-CET (2,3-BPG binds globin), 2023 INI-CET (β globin)"
+    }
+  },
+  {
+    "id": "bioc_q_111",
+    "questionNumber": 111,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "In E. coli, the RNA primers of Okazaki fragments are removed and replaced with DNA by",
+    "options": [
+      "DNA ligase",
+      "Primase",
+      "DNA polymerase III",
+      "DNA polymerase I, using its 5′→3′ exonuclease activity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ligase then seals the nick, using NAD⁺ in bacteria and ATP in eukaryotes. In eukaryotes, RNase H and FEN1 remove primers. Okazaki fragments form on the lagging strand, which is made discontinuously.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (Okazaki fragments — 6X), 2022 NEET-PG (DNA Pol I proofreading)",
+    "repeats": 6,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2022 INI-CET / 2018 NEET-PG / 2014 AIIMS (Okazaki fragments — 6X), 2022 NEET-PG (DNA Pol I proofreading)"
+    }
+  },
+  {
+    "id": "bioc_q_112",
+    "questionNumber": 112,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The Klenow fragment of DNA polymerase I keeps which activities?",
+    "options": [
+      "5′→3′ polymerase and 3′→5′ exonuclease (proofreading)",
+      "5′→3′ polymerase and 5′→3′ exonuclease",
+      "5′→3′ exonuclease only",
+      "Reverse transcriptase activity"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Protease cleavage removes the N-terminal domain that carries 5′→3′ exonuclease activity. Klenow is used to fill in sticky ends and was used in early Sanger sequencing.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (Klenow lacks 5′→3′ exonuclease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (Klenow lacks 5′→3′ exonuclease)"
+    }
+  },
+  {
+    "id": "bioc_q_113",
+    "questionNumber": 113,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Telomerase is best described as",
+    "options": [
+      "A DNA-dependent RNA polymerase",
+      "A ribonucleoprotein reverse transcriptase that carries its own RNA template and adds TTAGGG repeats to the 3′ end",
+      "A DNA ligase that joins chromosome ends",
+      "An exonuclease that shortens telomeres"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It solves the end-replication problem. It is active in germ cells, stem cells and most cancers, but inactive in most somatic cells, which therefore age.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (telomerase is a ribonucleoprotein — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2016 AIIMS (telomerase is a ribonucleoprotein — T/F)"
+    }
+  },
+  {
+    "id": "bioc_q_114",
+    "questionNumber": 114,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Match each disorder with the defective DNA repair pathway.\n\n| Disorder | Repair pathway |\n|---|---|\n| 1. Xeroderma pigmentosum | a. Homologous recombination |\n| 2. Lynch syndrome (HNPCC) | b. ATM kinase signalling of double-strand breaks |\n| 3. BRCA1/2-associated breast cancer | c. Nucleotide excision repair |\n| 4. Ataxia telangiectasia | d. Mismatch repair |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Double-strand breaks are repaired by homologous recombination or non-homologous end joining (NHEJ). Mismatch repair does not handle them. UV-induced thymine dimers need NER, which is why xeroderma pigmentosum causes skin cancers in sun-exposed areas.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (photosensitivity — NER, 3X), 2023 NEET-PG (HNPCC — mismatch), 2024 INI-CET (not useful in dsDNA break)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2022 INI-CET (photosensitivity — NER, 3X), 2023 NEET-PG (HNPCC — mismatch), 2024 INI-CET (not useful in dsDNA break)"
+    }
+  },
+  {
+    "id": "bioc_q_115",
+    "questionNumber": 115,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Arrange the steps of base excision repair.\n1. DNA polymerase β fills the single-nucleotide gap\n2. A DNA glycosylase removes the damaged base\n3. DNA ligase seals the nick\n4. AP endonuclease cuts the backbone at the abasic site",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "4 → 2 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "2 → 4 → 3 → 1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "BER repairs small, non-distorting lesions such as uracil, oxidised bases (8-oxoguanine) and abasic sites. Bulky, helix-distorting lesions go to NER.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (DNA repair mechanisms), 2022 INI-CET (methylcytosine deamination)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2024 INI-CET (DNA repair mechanisms), 2022 INI-CET (methylcytosine deamination)"
+    }
+  },
+  {
+    "id": "bioc_q_116",
+    "questionNumber": 116,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "To correct a single point mutation exactly using CRISPR–Cas9 and a donor DNA template, the cell must repair the Cas9 cut by",
+    "options": [
+      "Non-homologous end joining",
+      "Homology-directed repair",
+      "Mismatch repair",
+      "Nucleotide excision repair"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "HDR copies the donor template and works mainly in the S and G2 phases. NHEJ is error-prone and introduces small insertions or deletions, which is used to knock genes out.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2015 AIIMS (CRISPR nick → NHEJ knockout)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2023 INI-CET / 2015 AIIMS (CRISPR nick → NHEJ knockout)"
+    }
+  },
+  {
+    "id": "bioc_q_117",
+    "questionNumber": 117,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The key mechanistic difference between siRNA and miRNA is that",
+    "options": [
+      "siRNA acts in the nucleus, miRNA in mitochondria",
+      "miRNA is double-stranded while siRNA is single-stranded",
+      "Only miRNA uses the RISC complex",
+      "siRNA pairs perfectly and directs cleavage of its target mRNA, whereas miRNA pairs imperfectly, usually in the 3′ UTR, and mainly represses translation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both are processed by Dicer and loaded onto Argonaute in RISC. Both \"knock down\" genes, unlike CRISPR, which knocks them out. One miRNA can regulate hundreds of mRNAs.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (miRNA binds 3′ UTR), 2023 INI-CET / 2015 AIIMS (RNAi — knockdown)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2023 INI-CET (miRNA binds 3′ UTR), 2023 INI-CET / 2015 AIIMS (RNAi — knockdown)"
+    }
+  },
+  {
+    "id": "bioc_q_118",
+    "questionNumber": 118,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The template strand of a gene reads 5′-TACGGA-3′. The mRNA transcribed from it is",
+    "options": [
+      "5′-UCCGUA-3′",
+      "5′-AUGCCU-3′",
+      "5′-UACGGA-3′",
+      "3′-UCCGUA-5′"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "mRNA is complementary and antiparallel to the template. Pairing gives 3′-AUGCCU-5′, which written 5′→3′ is UCCGUA. Option B is the trap of writing the complement in the same direction. The mRNA matches the coding strand with U in place of T.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (template GATCTAC → RNA product)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Molecular Biology",
+      "basedOn": "2024 INI-CET (template GATCTAC → RNA product)"
+    }
+  },
+  {
+    "id": "bioc_q_119",
+    "questionNumber": 119,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The 7-methylguanosine cap on eukaryotic mRNA does all of the following EXCEPT",
+    "options": [
+      "Protect the mRNA from 5′ exonucleases",
+      "Help the ribosome recognise the mRNA through eIF4E",
+      "Signal termination of transcription",
+      "Promote nuclear export and splicing of the first intron"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Cleavage and polyadenylation are signalled by AAUAAA near the 3′ end. Capping, splicing, polyadenylation and editing are post-transcriptional changes; glycosylation is post-translational. tRNA and rRNA are not capped.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (mRNA binds ribosome via 7-methylguanosine cap), 2024 INI-CET (post-transcriptional modification), 2017 AIIMS (RNAs without cap)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2020 INI-CET (mRNA binds ribosome via 7-methylguanosine cap), 2024 INI-CET (post-transcriptional modification), 2017 AIIMS (RNAs without cap)"
+    }
+  },
+  {
+    "id": "bioc_q_120",
+    "questionNumber": 120,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "In the intestine, apoB-48 is produced from the same gene as apoB-100 because",
+    "options": [
+      "Alternative splicing removes the exons after exon 26",
+      "APOBEC-1 deaminates cytidine to uridine, turning a CAA codon into the stop codon UAA",
+      "A proteolytic enzyme cleaves apoB-100 after translation",
+      "A different promoter is used"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The protein is cut off at 48% of apoB-100's length and lacks the LDL-receptor-binding domain. This is classic RNA editing. The liver does not edit, so it makes apoB-100.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (ApoB-48 — RNA editing), 2021 INI-CET (RNA editing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2022 NEET-PG (ApoB-48 — RNA editing), 2021 INI-CET (RNA editing)"
+    }
+  },
+  {
+    "id": "bioc_q_121",
+    "questionNumber": 121,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Antibodies against the Sm proteins of small nuclear ribonucleoproteins (snRNPs), which form the spliceosome, are highly specific for",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Systemic sclerosis",
+      "Sjögren syndrome",
+      "Mixed connective tissue disease"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The spliceosome (U1, U2, U4/U6, U5 snRNPs) removes introns at GU…AG boundaries. Anti-U1 RNP antibodies define mixed connective tissue disease. Splice-site mutations cause some forms of β-thalassaemia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (post-transcriptional processing), 2022 NEET-PG (RNA processing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2024 INI-CET (post-transcriptional processing), 2022 NEET-PG (RNA processing)"
+    }
+  },
+  {
+    "id": "bioc_q_122",
+    "questionNumber": 122,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "In human mitochondria, UGA codes for tryptophan instead of acting as a stop codon. This is an exception to which property of the genetic code?",
+    "options": [
+      "Degeneracy",
+      "Non-overlapping",
+      "Commaless reading",
+      "Universality"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Mitochondria also read AUA as methionine and AGA/AGG as stop. Degeneracy, explained by wobble at the third base, means several codons code for one amino acid.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (wobble — degeneracy), 2018 AIIMS (stop codons UAA, UAG, UGA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Molecular Biology",
+      "basedOn": "2021 INI-CET (wobble — degeneracy), 2018 AIIMS (stop codons UAA, UAG, UGA)"
+    }
+  },
+  {
+    "id": "bioc_q_123",
+    "questionNumber": 123,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Peptide bond formation on the eukaryotic ribosome is catalysed by",
+    "options": [
+      "A protein of the 40S subunit",
+      "28S rRNA of the 60S subunit",
+      "Aminoacyl-tRNA synthetase",
+      "Elongation factor eEF-2"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Peptidyl transferase is a ribozyme (23S rRNA in prokaryotes). RNase P and self-splicing introns are other ribozymes. eEF-2 drives translocation.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ribozymes — RNase P, peptidyl transferase)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2018 AIIMS (ribozymes — RNase P, peptidyl transferase)"
+    }
+  },
+  {
+    "id": "bioc_q_124",
+    "questionNumber": 124,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Match each agent with its effect on protein synthesis.\n\n| Agent | Effect |\n|---|---|\n| 1. Diphtheria toxin | a. Aminoacyl-tRNA analogue that causes premature chain release |\n| 2. Shiga toxin / ricin | b. Binds the 30S subunit and causes misreading (prokaryotes) |\n| 3. Puromycin | c. ADP-ribosylates eEF-2 |\n| 4. Streptomycin | d. Depurinates an adenine in 28S rRNA |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Pseudomonas exotoxin A also ADP-ribosylates eEF-2 (at diphthamide). Puromycin acts on both prokaryotic and eukaryotic ribosomes.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (ribozymes — peptidyl transferase), translation cluster 2017–2021",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Molecular Biology",
+      "basedOn": "2018 AIIMS (ribozymes — peptidyl transferase), translation cluster 2017–2021"
+    }
+  },
+  {
+    "id": "bioc_q_125",
+    "questionNumber": 125,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The commonest CFTR mutation (ΔF508) is a deletion of three nucleotides. Its consequence is",
+    "options": [
+      "Loss of a single phenylalanine without a frameshift, producing a misfolded protein that is degraded in the ER",
+      "A frameshift with premature stop codon",
+      "A silent mutation",
+      "A splice-site mutation"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Deletions in multiples of three keep the reading frame. This is a class II (processing/trafficking) defect, the target of corrector drugs. Sickle cell disease is a missense point mutation; a nonsense mutation creates a stop codon.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (CF — phenylalanine deletion at 508), 2020 INI-CET / NEET-PG (mutation types)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2023 INI-CET (CF — phenylalanine deletion at 508), 2020 INI-CET / NEET-PG (mutation types)"
+    }
+  },
+  {
+    "id": "bioc_q_126",
+    "questionNumber": 126,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Assertion (A): Acetylation of histone tails increases gene transcription.\nReason (R): Acetylation neutralises the positive charge of lysine residues, loosening histone binding to DNA.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Open euchromatin lets the transcription machinery in. By contrast, methylation of cytosine at CpG islands and histone deacetylation silence genes, which is how X-inactivation and imprinting work.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (methylation does not favour euchromatin), 2019 NEET-PG (cytosine methylation lowers expression)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2021 INI-CET (methylation does not favour euchromatin), 2019 NEET-PG (cytosine methylation lowers expression)"
+    }
+  },
+  {
+    "id": "bioc_q_127",
+    "questionNumber": 127,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "A hypotonic newborn with feeding difficulty becomes a hyperphagic, obese child with hypogonadism. Testing shows a 15q11–q13 deletion. The deleted copy was inherited from the",
+    "options": [
+      "Mother, giving Angelman syndrome",
+      "Mother, giving Prader–Willi syndrome",
+      "Father, giving Angelman syndrome",
+      "Father, giving Prader–Willi syndrome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This is genomic imprinting: the maternal genes in this region are silenced by methylation. Losing the paternal copy (or having maternal uniparental disomy) causes Prader–Willi syndrome. Losing the maternal UBE3A causes Angelman syndrome (a happy demeanour, seizures and ataxia).",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (CpG methylation), 2021 INI-CET (epigenetic methylation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2015 AIIMS (CpG methylation), 2021 INI-CET (epigenetic methylation)"
+    }
+  },
+  {
+    "id": "bioc_q_128",
+    "questionNumber": 128,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Transcription of the lac operon in E. coli is maximal when",
+    "options": [
+      "Glucose is high and lactose is absent",
+      "Glucose is absent and lactose is present",
+      "Both glucose and lactose are high",
+      "Both are absent"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Allolactose releases the repressor (negative control). Low glucose raises cAMP, so the CAP–cAMP complex activates the promoter (positive control).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (thyroid hormone as transcription factor), gene regulation cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2021 INI-CET (thyroid hormone as transcription factor), gene regulation cluster"
+    }
+  },
+  {
+    "id": "bioc_q_129",
+    "questionNumber": 129,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Assertion (A): Retroviruses carry the enzyme reverse transcriptase.\nReason (R): The retroviral genome is double-stranded DNA.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is NOT the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Retroviruses have two copies of single-stranded (+) RNA. Reverse transcriptase copies it into DNA, which integrase inserts into the host genome. Because the genome is RNA, A ≠ T in HIV.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (assertion — central dogma and retroviruses), 2023 INI-CET (HIV — A ≠ T)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2024 INI-CET (assertion — central dogma and retroviruses), 2023 INI-CET (HIV — A ≠ T)"
+    }
+  },
+  {
+    "id": "bioc_q_130",
+    "questionNumber": 130,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Thyroid hormone, steroid and vitamin D receptors bind DNA through which structural motif?",
+    "options": [
+      "Zinc finger",
+      "Leucine zipper",
+      "Helix–turn–helix",
+      "β-barrel"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "These receptors are ligand-activated transcription factors that bind hormone response elements. Leucine zippers are found in AP-1 (Fos/Jun) and CREB; helix–turn–helix in homeodomain and bacterial repressors.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (T3/T4 act as transcription factor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (T3/T4 act as transcription factor)"
+    }
+  },
+  {
+    "id": "bioc_q_131",
+    "questionNumber": 131,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Which mucopolysaccharidosis is inherited as X-linked recessive?",
+    "options": [
+      "Hurler syndrome",
+      "Hunter syndrome",
+      "Sanfilippo syndrome",
+      "Morquio syndrome"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Hunter syndrome (iduronate-2-sulfatase) causes no corneal clouding, and patients are aggressive (\"hunters see clearly\"). Hurler syndrome (α-L-iduronidase) is autosomal recessive with corneal clouding. Fabry disease is the other X-linked lysosomal disorder.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (Hurler case), 2018 AIIMS (X-linked disorder)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (Hurler case), 2018 AIIMS (X-linked disorder)"
+    }
+  },
+  {
+    "id": "bioc_q_132",
+    "questionNumber": 132,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Children of a mother with MELAS are affected to very different degrees. The main reason is",
+    "options": [
+      "Autosomal dominant inheritance with incomplete penetrance",
+      "Genomic imprinting",
+      "Paternal transmission of mitochondria",
+      "Heteroplasmy, with a threshold effect for the proportion of mutant mtDNA"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Mitochondrial DNA is inherited only from the mother, and different cells carry different mixes of normal and mutant copies. mtDNA mutates faster than nuclear DNA because it lacks histones, is exposed to reactive oxygen species and has limited repair.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (mtDNA higher mutation rate — T/F)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2016 AIIMS (mtDNA higher mutation rate — T/F)"
+    }
+  },
+  {
+    "id": "bioc_q_133",
+    "questionNumber": 133,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "The Human Genome Project estimated the number of protein-coding genes in the human genome at about",
+    "options": [
+      "20,000",
+      "1,00,000",
+      "5,000",
+      "2,00,000"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The international project published a draft in 2001 and was declared complete in 2003. Coding exons are only about 1–2% of the genome. The largest gene family encodes olfactory receptors. *Note: the 2023 INI-CET key gives \"1 lakh genes\", which was a pre-project estimate.*",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Human Genome Project), 2016 AIIMS (largest gene family — odorant receptors)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Molecular Biology",
+      "basedOn": "2023 INI-CET (Human Genome Project), 2016 AIIMS (largest gene family — odorant receptors)"
+    }
+  },
+  {
+    "id": "bioc_q_134",
+    "questionNumber": 134,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "In I-cell disease (mucolipidosis II), lysosomal enzyme levels are very high in plasma because",
+    "options": [
+      "Lysosomes rupture",
+      "The liver overproduces the enzymes",
+      "The enzymes are not glycosylated at all",
+      "N-acetylglucosamine phosphotransferase is deficient, so the enzymes lack the mannose-6-phosphate tag and are secreted instead of being sent to lysosomes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The defect is in the Golgi, but the organelle affected is the lysosome. Cells fill with inclusions, giving coarse features, gingival hyperplasia, joint contractures and early death.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (organelle in I-cell disease — lysosomes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Molecular Biology",
+      "basedOn": "2017 AIIMS (organelle in I-cell disease — lysosomes)"
+    }
+  },
+  {
+    "id": "bioc_q_135",
+    "questionNumber": 135,
+    "subject": "Biochemistry",
+    "subTopic": "Molecular Biology",
+    "sub_topic": "Molecular Biology",
+    "stem": "Selenocysteine is built into proteins at a UGA codon, rather than translation stopping there, because of",
+    "options": [
+      "A special aminoacyl-tRNA synthetase acting on UAA",
+      "A SECIS element in the mRNA (3′ UTR in eukaryotes) together with a dedicated tRNA^Sec",
+      "RNA editing of UGA to UGG",
+      "Post-translational conversion of cysteine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Serine is loaded onto tRNA^Sec and converted to selenocysteine on the tRNA. Pyrrolysine (UAG) is the \"22nd amino acid\", found only in some archaea and bacteria.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (codon for selenocysteine — UGA), 2023 INI-CET (selenocysteine enzyme)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Molecular Biology",
+      "basedOn": "2014 AIIMS (codon for selenocysteine — UGA), 2023 INI-CET (selenocysteine enzyme)"
+    }
+  },
+  {
+    "id": "bioc_q_136",
+    "questionNumber": 136,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Match each blotting technique with the molecule it detects.\n\n| Technique | Detects |\n|---|---|\n| 1. Southern blot | a. Protein |\n| 2. Northern blot | b. DNA-binding proteins |\n| 3. Western blot | c. DNA |\n| 4. Southwestern blot | d. RNA |",
+    "options": [
+      "1-c, 2-a, 3-d, 4-b",
+      "1-d, 2-c, 3-a, 4-b",
+      "1-c, 2-d, 3-b, 4-a",
+      "1-c, 2-d, 3-a, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Western blot uses antibodies (for example, confirming HIV). An \"Eastern\" blot looks for post-translational modifications.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — Southern, Northern, Western), 2021 INI-CET / 2015 AIIMS (Northern — RNA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2024 INI-CET (match — Southern, Northern, Western), 2021 INI-CET / 2015 AIIMS (Northern — RNA)"
+    }
+  },
+  {
+    "id": "bioc_q_137",
+    "questionNumber": 137,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "In real-time quantitative PCR, sample A reaches threshold at cycle 22 and sample B at cycle 25 (100% efficiency). Compared with B, sample A contains",
+    "options": [
+      "8 times as much starting template",
+      "3 times as much",
+      "6 times as much",
+      "One-eighth as much"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Each cycle doubles the product, so a difference of 3 cycles means 2³ = 8-fold. A lower Ct means more starting template. This is why the 2024 answer was 25 cycles: one cycle earlier means half the amount.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (qPCR cycles for half the DNA amount)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Techniques",
+      "basedOn": "2024 INI-CET (qPCR cycles for half the DNA amount)"
+    }
+  },
+  {
+    "id": "bioc_q_138",
+    "questionNumber": 138,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "To measure how much of a particular mRNA a tissue is expressing by real-time PCR, the first essential step is",
+    "options": [
+      "Digestion with restriction enzymes",
+      "Bisulfite treatment",
+      "Reverse transcription of the RNA into cDNA",
+      "Southern transfer"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Taq polymerase cannot copy RNA, so RT-qPCR is used. It is the standard way to quantify RNA (for example, viral load or BCR-ABL transcripts). Bisulfite treatment is used to study DNA methylation.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (technique to quantify RNA — real-time PCR, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (technique to quantify RNA — real-time PCR, 3X)"
+    }
+  },
+  {
+    "id": "bioc_q_139",
+    "questionNumber": 139,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Digital droplet PCR can detect a mutant allele present at 0.1% in circulating tumour DNA mainly because it",
+    "options": [
+      "Uses a thermostable reverse transcriptase",
+      "Splits the sample into thousands of droplets, each amplified separately, and counts positives for absolute quantification without a standard curve",
+      "Sequences each molecule by the Sanger method",
+      "Uses fluorescent antibodies"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Partitioning spreads the rare mutant molecules thinly, so the many wild-type molecules do not swamp them. Poisson statistics then give the exact copy number. This is the basis of liquid biopsy for minimal residual disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (low allele frequency — digital droplet PCR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2023 INI-CET (low allele frequency — digital droplet PCR)"
+    }
+  },
+  {
+    "id": "bioc_q_140",
+    "questionNumber": 140,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Dideoxynucleotides terminate chain growth in Sanger sequencing because they",
+    "options": [
+      "Cannot pair with the template",
+      "Lack the 2′-OH group",
+      "Inhibit DNA polymerase irreversibly",
+      "Lack the 3′-OH group needed to form the next phosphodiester bond"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Each fluorescent ddNTP stops a fragment at a specific base, and capillary electrophoresis reads off the sequence. Sanger sequencing is still the gold standard for confirming a known variant.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (dideoxynucleotides in Sanger — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2022 INI-CET (dideoxynucleotides in Sanger — 3X)"
+    }
+  },
+  {
+    "id": "bioc_q_141",
+    "questionNumber": 141,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Which abnormality can FISH NOT detect?",
+    "options": [
+      "A single-base substitution",
+      "Trisomy 21 in interphase nuclei",
+      "BCR–ABL translocation",
+      "HER2 gene amplification"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "FISH probes are thousands of bases long, so they detect copy number and structural changes (aneuploidy, deletions such as 22q11, translocations, amplification) but cannot resolve point mutations. Those need sequencing or allele-specific PCR.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (FISH — not point mutation), 2024 INI-CET (aneuploidy diagnosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2023 INI-CET (FISH — not point mutation), 2024 INI-CET (aneuploidy diagnosis)"
+    }
+  },
+  {
+    "id": "bioc_q_142",
+    "questionNumber": 142,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "In current forensic practice, two biological samples are proven to come from different individuals mainly by",
+    "options": [
+      "ABO blood grouping",
+      "Karyotyping",
+      "PCR-based short tandem repeat (STR) profiling",
+      "Western blotting"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "STR repeat lengths vary greatly between people and can be amplified from tiny or degraded samples. Classic DNA fingerprinting used RFLP or VNTR analysis by Southern blot, which needs more intact DNA.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (technique to confirm specimens from different persons — RFLP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2024 INI-CET (technique to confirm specimens from different persons — RFLP)"
+    }
+  },
+  {
+    "id": "bioc_q_143",
+    "questionNumber": 143,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Which of these sequences is most likely to be the recognition site of a type II restriction endonuclease?",
+    "options": [
+      "5′-GAATTC-3′",
+      "5′-GATCAG-3′",
+      "5′-CCATGA-3′",
+      "5′-AGTCCA-3′"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Restriction sites are usually palindromes: the sequence reads the same 5′→3′ on both strands. The complement of GAATTC, read 5′→3′, is again GAATTC (the EcoRI site). AAGCTT (HindIII) was the 2022 example.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (restriction endonuclease acts on AAGCTT), 2016 AIIMS (restriction site)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2022 INI-CET (restriction endonuclease acts on AAGCTT), 2016 AIIMS (restriction site)"
+    }
+  },
+  {
+    "id": "bioc_q_144",
+    "questionNumber": 144,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "After agarose gel electrophoresis of a DNA digest, the band closest to the wells (the cathode end) contains",
+    "options": [
+      "The smallest fragments",
+      "Single-stranded DNA only",
+      "Supercoiled plasmid",
+      "The largest fragments"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "DNA is negatively charged (phosphate backbone) and moves towards the anode. The gel acts as a sieve, so small fragments move fastest and large ones stay near the start.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (fragment nearest negative pole — maximum base pairs)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2018 AIIMS (fragment nearest negative pole — maximum base pairs)"
+    }
+  },
+  {
+    "id": "bioc_q_145",
+    "questionNumber": 145,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "HbA1c will be FALSELY LOW in a diabetic patient who has",
+    "options": [
+      "Iron-deficiency anaemia",
+      "Autoimmune haemolytic anaemia",
+      "Had a splenectomy",
+      "Chronic alcoholism"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Shorter-lived RBCs have less time to become glycated. Recent transfusion and blood loss have the same effect. Iron deficiency and splenectomy (older RBCs) falsely raise HbA1c. HPLC (ion exchange) is the reference method.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 AIIMS (best method for HbA1c — ion-exchange chromatography), 2024 INI-CET (fructosamine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2021 INI-CET / 2018 AIIMS (best method for HbA1c — ion-exchange chromatography), 2024 INI-CET (fructosamine)"
+    }
+  },
+  {
+    "id": "bioc_q_146",
+    "questionNumber": 146,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "In hybridoma technology, only fused cells survive in HAT medium because",
+    "options": [
+      "Hypoxanthine is toxic to myeloma cells",
+      "Thymidine kills unfused B cells",
+      "Hybridomas lack HGPRT",
+      "Aminopterin blocks de novo nucleotide synthesis; the HGPRT-deficient myeloma cells cannot use the salvage pathway, while hybrids get HGPRT from the B cell"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Unfused B cells die naturally because their lifespan in culture is limited. The hybridoma combines immortality (from the myeloma) with antibody specificity (from the B cell).",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hybridoma — purine salvage pathway)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Techniques",
+      "basedOn": "2024 INI-CET (hybridoma — purine salvage pathway)"
+    }
+  },
+  {
+    "id": "bioc_q_147",
+    "questionNumber": 147,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "Ammonium sulphate precipitates proteins without denaturing them because it",
+    "options": [
+      "Competes for water of hydration, reducing protein solubility (\"salting out\")",
+      "Breaks peptide bonds",
+      "Forms insoluble salts with the protein's carboxyl groups, as heavy metals do",
+      "Changes the pH to the isoelectric point"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The protein can be redissolved with its activity intact. TCA, heavy metal salts, alcohol, acetone and heat precipitate proteins by denaturing them or forming insoluble salts.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2015 AIIMS (protein precipitation techniques — 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2022 INI-CET / 2015 AIIMS (protein precipitation techniques — 3X)"
+    }
+  },
+  {
+    "id": "bioc_q_148",
+    "questionNumber": 148,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "In gel-filtration (size-exclusion) chromatography, the protein that elutes FIRST is the one that is",
+    "options": [
+      "The smallest",
+      "The most negatively charged",
+      "The largest",
+      "The most hydrophobic"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Large molecules cannot enter the pores of the beads, so they travel only in the space between beads and come out first. This is the opposite of gel electrophoresis, where small molecules move fastest.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (order of steps in recombinant protein isolation), 2018 AIIMS (electrophoresis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2022 INI-CET (order of steps in recombinant protein isolation), 2018 AIIMS (electrophoresis)"
+    }
+  },
+  {
+    "id": "bioc_q_149",
+    "questionNumber": 149,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "An acetate buffer (pKa 4.76) contains 10 times as much acetate as acetic acid. Its pH is",
+    "options": [
+      "3.76",
+      "5.76",
+      "4.76",
+      "6.76"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Henderson–Hasselbalch: pH = pKa + log([A⁻]/[HA]) = 4.76 + log 10 = 5.76. A buffer works best within ±1 unit of its pKa. Bicarbonate (pKa 6.1) is still the main body buffer because the lungs and kidneys can each adjust one of its components.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (HCO₃⁻/H₂CO₃ best buffer), 2017 AIIMS (pH calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2018 AIIMS (HCO₃⁻/H₂CO₃ best buffer), 2017 AIIMS (pH calculation)"
+    }
+  },
+  {
+    "id": "bioc_q_150",
+    "questionNumber": 150,
+    "subject": "Biochemistry",
+    "subTopic": "Techniques",
+    "sub_topic": "Techniques",
+    "stem": "The normality of 0.5 M H₂SO₄ is",
+    "options": [
+      "1 N",
+      "0.5 N",
+      "0.25 N",
+      "2 N"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Normality = molarity × replaceable H⁺ per molecule = 0.5 × 2 = 1 N. Likewise, 1 mM H₂SO₄ and 2 mM HCl have the same normality (2 mN).",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (normality of 2 mM HCl and 1 mM H₂SO₄ — same)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Techniques",
+      "basedOn": "2020 INI-CET (normality of 2 mM HCl and 1 mM H₂SO₄ — same)"
+    }
+  }
+]

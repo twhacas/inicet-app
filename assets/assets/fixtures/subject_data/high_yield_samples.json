@@ -1,0 +1,2540 @@
+{
+  "1. Anatomy": {
+    "config": {
+      "key": "1. Anatomy",
+      "title": "ANATOMY",
+      "file_prefix": "1. Anatomy"
+    },
+    "summary": {
+      "key": "1. Anatomy",
+      "title": "ANATOMY",
+      "ini_questions": 151,
+      "aiims_questions": 119,
+      "neet_questions": 92,
+      "total_extracted": 362,
+      "unique_mapped_points": 287,
+      "ini_and_neet_overlap": 36,
+      "repeated_points": 62,
+      "overlap_percent": 12.5,
+      "repeat_percent": 21.6
+    },
+    "topics": [
+      "UPPER LIMB",
+      "LOWER LIMB",
+      "HEAD AND NECK",
+      "NEUROANATOMY",
+      "THORAX",
+      "ABDOMEN AND PELVIS",
+      "GENERAL ANATOMY",
+      "GENERAL HISTOLOGY",
+      "GENERAL EMBRYOLOGY"
+    ],
+    "sample_points": [
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Nail of index finger is supplied by",
+        "answer": "Median nerve.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 4,
+        "stem": "Unable to hold paper between his fingers + Difficulty in flexion of 4th and 5th DIP joint, Level of injury in relation to humerus will be at",
+        "answer": "Level of medial epicondyle (Case of ulnar nerve injury).",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 4
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Image showing muscle arising from trapezium and inserting on radial side of 1st metacarpal",
+        "answer": "Opponens pollicis.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Book test is done to check integrity of",
+        "answer": "Ulnar nerve.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Muscles supplied by median nerve are",
+        "answer": "pronator quadratus, Flexor digitorum superficialis, Flexor pollicis longus, Flexor digitorum profundus in middle finger, Palmaris longus.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Pectoralis major muscle is a type of",
+        "answer": "Spiral muscle.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Which nerve supplies the lateral 2 and a half digits and lateral half of dorsal aspect of hand",
+        "answer": "Radial nerve.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Nerve supply of 1st lumbrical is",
+        "answer": "Median nerve.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "2. Physiology": {
+    "config": {
+      "key": "2. Physiology",
+      "title": "PHYSIOLOGY",
+      "file_prefix": "2. Physiology"
+    },
+    "summary": {
+      "key": "2. Physiology",
+      "title": "PHYSIOLOGY",
+      "ini_questions": 131,
+      "aiims_questions": 111,
+      "neet_questions": 65,
+      "total_extracted": 307,
+      "unique_mapped_points": 259,
+      "ini_and_neet_overlap": 20,
+      "repeated_points": 59,
+      "overlap_percent": 7.7,
+      "repeat_percent": 22.8
+    },
+    "topics": [
+      "GENERAL PHYSIOLOGY",
+      "BLOOD",
+      "NERVE PHYSIOLOGY",
+      "MUSCLE PHYSIOLOGY",
+      "GIT",
+      "CARDIOVASCULAR SYSTEM",
+      "RESPIRATORY SYSTEM",
+      "RENAL SYSTEM",
+      "ENDOCRINE SYSTEM",
+      "CENTRAL NERVOUS SYSTEM"
+    ],
+    "sample_points": [
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Baraoreceptor is a type of ____ feedback mechanism",
+        "answer": "Negative.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Example of feedforward mechanism",
+        "answer": "Salivation on anticipation of food, Temperature regulation.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Transient loss/ insensible loss of water per day is",
+        "answer": "700ml/day.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Saturation curve during transport of a material can be seen in case of",
+        "answer": "Glucose transport. (Transported by facilitated diffusion).",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Match the following",
+        "answer": "Depolarisation Sodium influx through voltage gated channels Repolarisation Potassium efflux through voltage gated channels After- hyperpolarization Slow closure of potassium channels",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "During action potential generation in a neuron, initially there is sharp increase in sodium conductance f/b increase in potassium conductance (T/F)",
+        "answer": "True statement.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Release of synaptic vesicles from the presynaptic terminals can be inhibited by",
+        "answer": "Preventing Ca2+ influx.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHYSIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Slowest conduction velocity is seen in",
+        "answer": "Postganglionic autonomic fibres (C fibres).",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "3. Biochemistry": {
+    "config": {
+      "key": "3. Biochemistry",
+      "title": "BIOCHEMISTRY",
+      "file_prefix": "3. Biochemistry"
+    },
+    "summary": {
+      "key": "3. Biochemistry",
+      "title": "BIOCHEMISTRY",
+      "ini_questions": 136,
+      "aiims_questions": 132,
+      "neet_questions": 78,
+      "total_extracted": 346,
+      "unique_mapped_points": 272,
+      "ini_and_neet_overlap": 17,
+      "repeated_points": 68,
+      "overlap_percent": 6.2,
+      "repeat_percent": 25.0
+    },
+    "topics": [
+      "CARBOHYDRATES",
+      "LIPIDS",
+      "PROTEINS",
+      "ENZYMES",
+      "HEME",
+      "BIOLOGICAL OXIDATION",
+      "TECHNIQUES",
+      "VITAMINS",
+      "NUCLEOTIDES",
+      "MOLECULAR BIOLOGY"
+    ],
+    "sample_points": [
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Enzyme whose activity is decreased during fasting",
+        "answer": "PFK1.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI & NEET",
+        "repeats": 8,
+        "stem": "Child + Muscle weakness + Nausea, vomiting, Diarrhoea + Hepatomegaly with raised glycogen content + Hypoglycaemia + Improvement in blood glucose on administration of glucagon + No improvement in blood glucose after overnight fast f/b glucagon administration + Elevated AST, ALT + Ketosis",
+        "answer": "Glucose-6-phosphatase deficiency.",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 7
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Fluoride released from fluoroacetate inhibits which pathway",
+        "answer": "TCA cycle.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Child + Enlarged frontal head + Peculiar facies + Cardiac valve leaflets thickening + Hepatosplenomegaly + Corneal clouding",
+        "answer": "Hurler syndrome.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Respiratory quotient of a patient exclusively on carbohydrate diet is",
+        "answer": "1.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Fastest way to regenerate ATP during exercise is",
+        "answer": "Creatine phosphate.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Glycogenin is a cofactor for glycogen phosphorylase (T/F)",
+        "answer": "False statement.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARBOHYDRATES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Souce of energy for RBCs during fasting state",
+        "answer": "Glucose.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "4. Pathology": {
+    "config": {
+      "key": "4. Pathology",
+      "title": "PATHOLOGY",
+      "file_prefix": "4. Pathology"
+    },
+    "summary": {
+      "key": "4. Pathology",
+      "title": "PATHOLOGY",
+      "ini_questions": 231,
+      "aiims_questions": 229,
+      "neet_questions": 159,
+      "total_extracted": 619,
+      "unique_mapped_points": 505,
+      "ini_and_neet_overlap": 40,
+      "repeated_points": 88,
+      "overlap_percent": 7.9,
+      "repeat_percent": 17.4
+    },
+    "topics": [
+      "CELLULAR RESPONSE TO INJURY",
+      "INFLAMMATION",
+      "IMMUNITY",
+      "HEMODYNAMICS",
+      "GENETICS",
+      "NEOPLASIA",
+      "WBCS",
+      "RBCS",
+      "HEMOSTATIC DISORDERS",
+      "TRANSFUSION MEDICINE"
+    ],
+    "sample_points": [
+      {
+        "topic": "CELLULAR RESPONSE TO INJURY",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Apoptosis is characterized by",
+        "answer": "Intact cell membrane, no cell swelling, carried out by dedicated set of genes and no inflammatory reaction.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "CELLULAR RESPONSE TO INJURY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Antiapoptotic gene is",
+        "answer": "MCL-1.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CELLULAR RESPONSE TO INJURY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "In a chronic smoker the bronchi showed stratified squamous cells instead of normal columnar epithelium. This is known as",
+        "answer": "Metaplasia.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CELLULAR RESPONSE TO INJURY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Anti-apoptotic factors are",
+        "answer": "BCL2, BCL-XL, MCL1.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "CELLULAR RESPONSE TO INJURY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Type of necrosis seen in blood vessel due to immune reaction is",
+        "answer": "Fibrinoid necrosis.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "INFLAMMATION",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "What is the correct sequence of cellular events of acute inflammation?",
+        "answer": "Margination, rolling, adhesion by integrins, diapedesis (Migration via endothelium), then chemotaxis.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "INFLAMMATION",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Type of collagen found in granulation tissue is",
+        "answer": "Type III collagen.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "INFLAMMATION",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Biopsy of cervical lymph node showing caseous granuloma can be seen in",
+        "answer": "TB.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "5. Microbiology": {
+    "config": {
+      "key": "5. Microbiology",
+      "title": "MICROBIOLOGY",
+      "file_prefix": "5. Microbiology"
+    },
+    "summary": {
+      "key": "5. Microbiology",
+      "title": "MICROBIOLOGY",
+      "ini_questions": 144,
+      "aiims_questions": 159,
+      "neet_questions": 103,
+      "total_extracted": 406,
+      "unique_mapped_points": 344,
+      "ini_and_neet_overlap": 18,
+      "repeated_points": 55,
+      "overlap_percent": 5.2,
+      "repeat_percent": 16.0
+    },
+    "topics": [
+      "GENERAL MICROBIOLOGY",
+      "IMMUNOLOGY",
+      "BACTERIA",
+      "VIRUS",
+      "FUNGI",
+      "PARASITOLOGY",
+      "BACTERIOLOGY",
+      "VIROLOGY",
+      "MYCOLOGY",
+      "VIRUSES"
+    ],
+    "sample_points": [
+      {
+        "topic": "GENERAL MICROBIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Examples of Acid-fast staining organisms are",
+        "answer": "Nocardia, M. leprae, Cryptosporidium parvum (Not actinomyces).",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL MICROBIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Which of the following disinfectants is used to clean blood spills in OT",
+        "answer": "Chlorine based (Hypochlorite).",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL MICROBIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Category A bioterrorism agents includes",
+        "answer": "Clostridium botulinum, Bacillus anthracis, Yersinia pestis.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL MICROBIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Pasteurisation of milk is done at",
+        "answer": "63 degrees for 30 min.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL MICROBIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Disk diffusion method is also known as",
+        "answer": "Kirby Bauer technique.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "IMMUNOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Match the following blotting methods",
+        "answer": "Northern RNA Southern DNA Western Proteins Eastern Enzymes",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "BACTERIA",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Farmer + Multiple discharging cervical sinuses. Where does this organism normally colonise in the body and what is the stain useful for diagnosis",
+        "answer": "Oropharynx, Gram stain (Case of actinomyces).",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "BACTERIA",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Match the following toxins and their characteristics",
+        "answer": "ETEC Stable and labile toxin EIEC Invasion of mucosa EPEC Effacement lesions EAEC Clustering of cells Shiga toxin Inhibits protein synthesis",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      }
+    ]
+  },
+  "6. Pharmacology": {
+    "config": {
+      "key": "6. Pharmacology",
+      "title": "PHARMACOLOGY",
+      "file_prefix": "6. Pharmacology"
+    },
+    "summary": {
+      "key": "6. Pharmacology",
+      "title": "PHARMACOLOGY",
+      "ini_questions": 239,
+      "aiims_questions": 201,
+      "neet_questions": 182,
+      "total_extracted": 622,
+      "unique_mapped_points": 517,
+      "ini_and_neet_overlap": 39,
+      "repeated_points": 97,
+      "overlap_percent": 7.5,
+      "repeat_percent": 18.8
+    },
+    "topics": [
+      "GENERAL PHARMACOLOGY",
+      "ANS",
+      "AUTACOIDS",
+      "RESPIRATORY SYSTEM",
+      "ENDOCRINE SYSTEM",
+      "CENTRAL NERVOUS SYSTEM",
+      "ANESTHESIA",
+      "CARDIOVASCULAR SYSTEM",
+      "RENAL SYSTEM",
+      "GIT"
+    ],
+    "sample_points": [
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "400-500 patients + to find efficacy of new drug in multiple centres + Half were given new drug + Half were given placebo + Both patient and researcher were blinded, Phase of clinical trial is",
+        "answer": "Phase 3.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Factors used in determining oral loading dose",
+        "answer": "Volume of distribution, Plasma concentration, Bioavailability.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Company manufacturer labels that drug contains 500mg of paracetamol + On analysis, it contains only 200mg drug. Such drug is known as",
+        "answer": "Counterfeit drugs/Misbranding.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Parameter which tells us about drug safety",
+        "answer": "LD50/ED50.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Advanatage of fixed dose combination of drugs",
+        "answer": "Increases efficacy, decreases side effects, improved compliance.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PHARMACOLOGY",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "On DRC, Drug A and B both reaches same response level, however, Dose required to produce same effect is less with Drug A as compared to B",
+        "answer": "Drug A is more potent but equally efficacious as drug B.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "AUTACOIDS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Febuxostat is used in treatment of",
+        "answer": "Gout.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "AUTACOIDS",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Indomethacin ingestion during pregnancy can cause",
+        "answer": "Premature closure of ductus arteriosus.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      }
+    ]
+  },
+  "7. FMT": {
+    "config": {
+      "key": "7. FMT",
+      "title": "FORENSIC MEDICINE & TOXICOLOGY",
+      "file_prefix": "7. FMT"
+    },
+    "summary": {
+      "key": "7. FMT",
+      "title": "FORENSIC MEDICINE & TOXICOLOGY",
+      "ini_questions": 132,
+      "aiims_questions": 119,
+      "neet_questions": 71,
+      "total_extracted": 322,
+      "unique_mapped_points": 261,
+      "ini_and_neet_overlap": 17,
+      "repeated_points": 57,
+      "overlap_percent": 6.5,
+      "repeat_percent": 21.8
+    },
+    "topics": [
+      "LEGAL PROCEDURES",
+      "IPC SECTIONS",
+      "CONSENT",
+      "IDENTIFICATION",
+      "POST MORTEM EXAMINATION",
+      "THANATOLOGY",
+      "MECHANICAL INJURIES",
+      "ASPHYXIA",
+      "FIREARMS",
+      "THERMAL INJURIES"
+    ],
+    "sample_points": [
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "First-hand knowledge refers to",
+        "answer": "Common witness.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Under Doctrine of borrowed servant, A nurse assisting a surgery is a borrowed servant of the hospital (T/F)",
+        "answer": "False statement.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "According to Indian medical council act, Hospital records, if requested by patient must be returned within",
+        "answer": "72 hours.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "INI & NEET",
+        "repeats": 4,
+        "stem": "A person willingly hiding information in court of law is punishable under",
+        "answer": "193 IPC. (Punishment for Perjury)",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Bolam's test is used in",
+        "answer": "Medical negligence.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "LEGAL PROCEDURES",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Leading questions are permitted during",
+        "answer": "Cross examination.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "IPC SECTIONS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Mr. X fired his gun at Mr. Y who moved and escaped from fatal injuries with bullet only grazing his thigh. Punishment under which section of IPC",
+        "answer": "324 IPC.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "IDENTIFICATION",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Male pelvis is characterised by",
+        "answer": "Large obturator foramen, Large acetabulum, V shaped sub pubic angle, Inverted ischial tuberosities, Less prominent pre auricular sulcus.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 3
+      }
+    ]
+  },
+  "8. ENT": {
+    "config": {
+      "key": "8. ENT",
+      "title": "ENT (OTORHINOLARYNGOLOGY)",
+      "file_prefix": "8. ENT"
+    },
+    "summary": {
+      "key": "8. ENT",
+      "title": "ENT (OTORHINOLARYNGOLOGY)",
+      "ini_questions": 68,
+      "aiims_questions": 68,
+      "neet_questions": 58,
+      "total_extracted": 194,
+      "unique_mapped_points": 153,
+      "ini_and_neet_overlap": 17,
+      "repeated_points": 35,
+      "overlap_percent": 11.1,
+      "repeat_percent": 22.9
+    },
+    "topics": [
+      "EAR",
+      "NOSE",
+      "ORAL CAVITY",
+      "LARYNX",
+      "PHARYNX"
+    ],
+    "sample_points": [
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Gelles test is done in",
+        "answer": "Otosclerosis (Conductive deafness).",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Best surgery to relieve intractable vertigo in Meniere's disease",
+        "answer": "Labyrinthectomy.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI & NEET",
+        "repeats": 7,
+        "stem": "Bilateral otosclerosis with more deafness on right side, Rinne and weber test in this case will be",
+        "answer": "Bilateral Rinne Negative and weber lateralised to right ear. (Conductive hearing loss more on right side)",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 6
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 4,
+        "stem": "Middle age + Severe vertigo while turning on side of his bed + No hearing loss",
+        "answer": "BPPV.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Woman + Tinnitus + Episodic vertigo + Hearing loss + PTA shows low frequency hearing loss",
+        "answer": "Meniere's disease/Endolymphatic hydrops.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Grading of hearing loss in a patient who is able to hear louder sounds like shouts",
+        "answer": "Severe hearing loss >70%.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Sequence of auditory pathway",
+        "answer": "Eighth nerve – Cochlear nuclei – Superior olivary nucleus – Lateral lemniscus – Inferior colliculus – Medial geniculate body – Auditory cortex (Mnemonic E CoLI MA).",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "EAR",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Can hear sound but cannot understand meaning + Normal PTA + Abnormal ABRs/BERA showing loss of cortical spike and medial geniculate spike",
+        "answer": "Auditory neuropathy.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      }
+    ]
+  },
+  "9. PSM": {
+    "config": {
+      "key": "9. PSM",
+      "title": "COMMUNITY MEDICINE (PSM)",
+      "file_prefix": "9. PSM"
+    },
+    "summary": {
+      "key": "9. PSM",
+      "title": "COMMUNITY MEDICINE (PSM)",
+      "ini_questions": 176,
+      "aiims_questions": 151,
+      "neet_questions": 127,
+      "total_extracted": 454,
+      "unique_mapped_points": 384,
+      "ini_and_neet_overlap": 27,
+      "repeated_points": 57,
+      "overlap_percent": 7.0,
+      "repeat_percent": 14.8
+    },
+    "topics": [
+      "EPIDEMIOLOGY",
+      "SCREENING OF DIEASES",
+      "BIOSTATISTICS",
+      "HEALTH AND DISEASE",
+      "NCD",
+      "DEMOGRAPHY AND FAMILY PLANNNING",
+      "PREVENTIVE OBSTETRICS AND PAEDIATRICS",
+      "NUTRITION",
+      "WATER",
+      "ENTOMOLOGY"
+    ],
+    "sample_points": [
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Rare diseases can be studied via",
+        "answer": "Case control studies.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 4,
+        "stem": "To find association between alanine dye exposure and bladder carcinoma in persons who worked in industry for >20 years, two groups were formed. One directly involved with dye handling and other consisting of office clerks not directly exposed to dye. Years of occupation were noted from records. This type of study is",
+        "answer": "Retrospective cohort study. SCREENING OF DISEASES",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 4
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Confounding can be decreased by",
+        "answer": "Matching, Randomisation, Random selection, Restriction, stratification",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Study design for testing circadian variation of fat content in expressed milk of mothers of preterm infants is",
+        "answer": "Prospective cohort.",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Study of blood lipid levels of smokers vs non-smokers. Two groups differ in their diet, exercise etc. This concern is known as",
+        "answer": "Selection bias.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "A drug which does not cure a disease but decreases its symptoms and increases survival, leads to",
+        "answer": "Incidence remains same and prevalence increases.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Health workers visited house in 3 communities and mean blood pressure in each community was found and compared. This type of study design is",
+        "answer": "Cross sectional study.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "EPIDEMIOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Relative risk of association between green tea intake and DM was found to be 0.8",
+        "answer": "Green tea consumption decreases risk of DM.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 3
+      }
+    ]
+  },
+  "10. Ophthalmology": {
+    "config": {
+      "key": "10. Ophthalmology",
+      "title": "OPHTHALMOLOGY",
+      "file_prefix": "10. Ophthalmology"
+    },
+    "summary": {
+      "key": "10. Ophthalmology",
+      "title": "OPHTHALMOLOGY",
+      "ini_questions": 120,
+      "aiims_questions": 100,
+      "neet_questions": 78,
+      "total_extracted": 298,
+      "unique_mapped_points": 254,
+      "ini_and_neet_overlap": 21,
+      "repeated_points": 43,
+      "overlap_percent": 8.3,
+      "repeat_percent": 16.9
+    },
+    "topics": [
+      "GENERAL OPHTHALMOLOGY",
+      "OPTICS",
+      "CONJUNCTIVA",
+      "SCLERA",
+      "CORNEA",
+      "LENS",
+      "GLAUCOMA",
+      "UVEA",
+      "RETINA",
+      "NEUROPHTHALMOLOGY"
+    ],
+    "sample_points": [
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Angle subtended by largest/topmost letter in Snellen's chart on a person's eye who is reading it from a distance of 6m is",
+        "answer": "50 minutes.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Arrange the retinal layers in sequence",
+        "answer": "Retinal pigment epithelium – Outer nuclear – Inner plexiform – Ganglion cell layer.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Marcus Gunn pupil can be seen in",
+        "answer": "Optic neuritis, the pupil paradoxically dilates in both eyes",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Nerves involved in oculocephalic reflex are",
+        "answer": "3rd , 6th, 8th nerve.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Right homonymous hemianopia with macular sparing is due to",
+        "answer": "Lesion in left occipital lobe.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 7,
+        "stem": "3rd nerve palsy in DM is characterised by",
+        "answer": "Ptosis, Outward downward rolling of pupil, Normal pupillary reflex. (Pupil will dilate in surgical causes)",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 4
+      },
+      {
+        "topic": "GENERAL OPHTHALMOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Optic field defects seen in pituitary adenoma are",
+        "answer": "Bitemporal hemianopia, Upper temporal quadrantopia, Amaurosis in one eye and temporal hemianopia in another eye.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "OPTICS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Stenopic slit is used for",
+        "answer": "Fincham test, Determine axis of cylinder, Iridectomy (Not for corneal tattooing).",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "11. General Medicine": {
+    "config": {
+      "key": "11. General Medicine",
+      "title": "GENERAL MEDICINE",
+      "file_prefix": "11. General Medicine"
+    },
+    "summary": {
+      "key": "11. General Medicine",
+      "title": "GENERAL MEDICINE",
+      "ini_questions": 225,
+      "aiims_questions": 0,
+      "neet_questions": 142,
+      "total_extracted": 367,
+      "unique_mapped_points": 315,
+      "ini_and_neet_overlap": 20,
+      "repeated_points": 49,
+      "overlap_percent": 6.3,
+      "repeat_percent": 15.6
+    },
+    "topics": [
+      "GASTROINTESTINAL SYSTEM",
+      "CARDIOVASCULAR SYSTEM",
+      "RENAL SYSTEM",
+      "RHEUMATOLOGY",
+      "RESPIRATORY SYSTEM",
+      "CENTRAL NERVOUS SYSTEM",
+      "ENDOCRINE SYSTEM",
+      "ENDDOCRINE SYSTEM"
+    ],
+    "sample_points": [
+      {
+        "topic": "GASTROINTESTINAL SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Chronic hepatitis B is characterised by",
+        "answer": "HbsAg positive, Anti HbsAg Ab negative, Anti HbcAg Ab IgG positive, HBV DNA positive.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GASTROINTESTINAL SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Cirrhosis + Ascites, preferred diuretic in this case is",
+        "answer": "Eplerenone.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GASTROINTESTINAL SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "HbsAg positive + IgM anti HbcAg positive",
+        "answer": "Acute hepatitis B infection.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GASTROINTESTINAL SYSTEM",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Best diagnostic modality in Wilson disease is",
+        "answer": "Hepatic copper content.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARDIOVASCULAR SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 4,
+        "stem": "ECG showing wide QRS complexes with heart rate of 150-250bpm with absent P waves, Diagnosis and treatment",
+        "answer": "Ventricular tachycardia and treatment is IV amiodarone.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "CARDIOVASCULAR SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Irregulary irregular pulse with a pulse deficit, JVP will show",
+        "answer": "Absent a wave. (Case of atrial fibrillation)",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CARDIOVASCULAR SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 5,
+        "stem": "Right heart failure + Irregularly irregular pulse + Loud diastolic sound + Rapid Y descent on JVP",
+        "answer": "Constrictive pericarditis.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 4
+      },
+      {
+        "topic": "CARDIOVASCULAR SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 5,
+        "stem": "Palpitation + Tachycardia + Hypotension + ECG show narrow QRS complexes + Refractory to adenosine, Next step is",
+        "answer": "Synchronised DC shock/Cardioversion (Case of PSVT).",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      }
+    ]
+  },
+  "12. General Surgery": {
+    "config": {
+      "key": "12. General Surgery",
+      "title": "GENERAL SURGERY",
+      "file_prefix": "12. General Surgery"
+    },
+    "summary": {
+      "key": "12. General Surgery",
+      "title": "GENERAL SURGERY",
+      "ini_questions": 222,
+      "aiims_questions": 0,
+      "neet_questions": 200,
+      "total_extracted": 422,
+      "unique_mapped_points": 382,
+      "ini_and_neet_overlap": 14,
+      "repeated_points": 41,
+      "overlap_percent": 3.7,
+      "repeat_percent": 10.7
+    },
+    "topics": [
+      "OESOPHAGUS",
+      "STOMACH",
+      "BARIATRIC SURGERY",
+      "SMALL INTESTINE",
+      "LARGE INTESTINE",
+      "RECTUM",
+      "ANAL CANAL",
+      "APPENDIX",
+      "LIVER",
+      "GALL BLADDER AND BILIARY SYSTEM"
+    ],
+    "sample_points": [
+      {
+        "topic": "OESOPHAGUS",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Halitosis + Swelling in lateral aspect of neck + Regurgitant air sound on pressing over it",
+        "answer": "Zenker's diverticulum.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "OESOPHAGUS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Investigation least useful for diagnosis of achalasia cardia",
+        "answer": "pH monitoring.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "OESOPHAGUS",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "UGIE endoscopy of esophagus shows multiple dilated tubular structures in wall of oesophagus",
+        "answer": "Esophageal varices.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "OESOPHAGUS",
+        "tag": "NEET",
+        "repeats": 3,
+        "stem": "Child playing with coin + Difficulty in swallowing + Frontal CXR shows circular radiopacity in neck",
+        "answer": "Foreign body in esophagus.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "STOMACH",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Pain abdomen + Raised pulse rate + Reduced BP + X-ray showing gas under diaphragm, Next step",
+        "answer": "Resuscitation then exploratory laparotomy (Case of Hollow viscus perforation).",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "STOMACH",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Post gastrectomy + Lower limb weakness, Which vitamin deficiency is suspected",
+        "answer": "Vitamin B12.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GALL BLADDER AND BILIARY SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 4,
+        "stem": "Image shows defect in lower abdominal wall with exposed bladder",
+        "answer": "Bladder exstrophy.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GALL BLADDER AND BILIARY SYSTEM",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Abdominal pain + Obstructive jaundice + Counts and liver enzymes are raised + Scleroatrophic GB + CBD impacted with stones + IHBR dilation, Next step",
+        "answer": "ERCP-MRCP.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "13.1 Obstetrics": {
+    "config": {
+      "key": "13.1 Obstetrics",
+      "title": "OBSTETRICS",
+      "file_prefix": "13.1 Obstetrics"
+    },
+    "summary": {
+      "key": "13.1 Obstetrics",
+      "title": "OBSTETRICS",
+      "ini_questions": 144,
+      "aiims_questions": 87,
+      "neet_questions": 103,
+      "total_extracted": 334,
+      "unique_mapped_points": 281,
+      "ini_and_neet_overlap": 22,
+      "repeated_points": 50,
+      "overlap_percent": 7.8,
+      "repeat_percent": 17.8
+    },
+    "topics": [
+      "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+      "PHYSIOLOGICAL CHANGES OF PREGNANCY AND 1ST ANTENATAL VISIT",
+      "DOWN SYNDROME SCREENING",
+      "ECTOPIC PREGNANCY",
+      "ABORTION AND MTP",
+      "MOLAR PREGNANCY",
+      "ANAEMIA",
+      "AMNIOTIC FLUID",
+      "PREECLAMPSIA AND ECLAMPSIA",
+      "DIABETES"
+    ],
+    "sample_points": [
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Which hormone does not influence foetal growth",
+        "answer": "GH.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Ideal time to conceive is",
+        "answer": "14 days before the end of existing cycle",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "When should ART be started in HIV positive pregnant patients",
+        "answer": "Start ART immediately and continue lifelong.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Superfecundation is fertilisation of",
+        "answer": "2 or more ova in same cycle from separate acts of coitus.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Vaccine contraindicated in pregnancy",
+        "answer": "Chicken pox.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "REPRODUCTIVE BASICS, TERATOGENS AND PLACENTA",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Most accurate method to diagnose viable pregnancy at 6 weeks POG",
+        "answer": "USG visualisation of fetal cardiac activity.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "PHYSIOLOGICAL CHANGES OF PREGNANCY AND 1ST ANTENATAL VISIT",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Sonographic findings to confirm pregnancy includes",
+        "answer": "true sac, yolk sac, foetal node",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "PHYSIOLOGICAL CHANGES OF PREGNANCY AND 1ST ANTENATAL VISIT",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Increased blood volume in pregnancy is due to",
+        "answer": "Increased fluid retention due to action of aldosterone and oestrogen.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "13.2 Gynaecology": {
+    "config": {
+      "key": "13.2 Gynaecology",
+      "title": "GYNAECOLOGY",
+      "file_prefix": "13.2 Gynaecology"
+    },
+    "summary": {
+      "key": "13.2 Gynaecology",
+      "title": "GYNAECOLOGY",
+      "ini_questions": 129,
+      "aiims_questions": 64,
+      "neet_questions": 81,
+      "total_extracted": 274,
+      "unique_mapped_points": 227,
+      "ini_and_neet_overlap": 18,
+      "repeated_points": 46,
+      "overlap_percent": 7.9,
+      "repeat_percent": 20.3
+    },
+    "topics": [
+      "APPLIED EMBRYOLOGY",
+      "APPLIED ANATOMY",
+      "APPLIED PHYSIOLOGY AND MENSTRUAL CYCLE",
+      "PUBERTY",
+      "MENOPAUSE",
+      "AMENORRHEA",
+      "PCOS",
+      "INFERTILITY",
+      "CERVICAL CANCER",
+      "OVARIAN CANCER"
+    ],
+    "sample_points": [
+      {
+        "topic": "APPLIED EMBRYOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Image of HSG showing two horns of uterus with a narrow angle between them",
+        "answer": "Septate uterus.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "APPLIED EMBRYOLOGY",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Management of septate uterus",
+        "answer": "Hysteroscopic septoplasty.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "APPLIED ANATOMY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Mullerian inhibiting substance gene is located on",
+        "answer": "Chromosome 19.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "APPLIED PHYSIOLOGY AND MENSTRUAL CYCLE",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Day 20 of menstrual cycle corresponds to",
+        "answer": "Luteal phase.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "PUBERTY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Hormone predominantly secreted after 14th day of menstrual cycle is",
+        "answer": "Progesterone.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "AMENORRHEA",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "14-year-old with tanner stage 1 breast will be classified as ____ Amenorrhea",
+        "answer": "Primary amenorrhea.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "AMENORRHEA",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "17-year girl + Primary amenorrhea +No development of axillary hair + Bilateral inguinal masses + Uterus, fallopian tube and ovary not seen on USG",
+        "answer": "Androgen insensitivity syndrome.",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "AMENORRHEA",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "19-year-old female + Not attained menarche + Breast and pubic hair present + Blind vagina + Absent uterus + 46XX karyotype",
+        "answer": "Mullerian agenesis.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "14. Pediatrics": {
+    "config": {
+      "key": "14. Pediatrics",
+      "title": "PEDIATRICS",
+      "file_prefix": "14. Pediatrics"
+    },
+    "summary": {
+      "key": "14. Pediatrics",
+      "title": "PEDIATRICS",
+      "ini_questions": 119,
+      "aiims_questions": 97,
+      "neet_questions": 37,
+      "total_extracted": 253,
+      "unique_mapped_points": 224,
+      "ini_and_neet_overlap": 6,
+      "repeated_points": 26,
+      "overlap_percent": 2.7,
+      "repeat_percent": 11.6
+    },
+    "topics": [
+      "NEONATOLOGY",
+      "ANTHROPOMETRY",
+      "RESPIRATORY SYSTEM",
+      "CVS",
+      "GIT",
+      "RENAL SYSTEM",
+      "ENDOCRINE SYSTEM",
+      "CNS",
+      "INFECTIONS",
+      "GENETICS"
+    ],
+    "sample_points": [
+      {
+        "topic": "NEONATOLOGY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Correct order of suctioning during neonatal resuscitation is",
+        "answer": "mouth followed by nose.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "NEONATOLOGY",
+        "tag": "INI",
+        "repeats": 4,
+        "stem": "Signs of good attachment to breast are",
+        "answer": "Lower lip everted, Area of areola more visible on the superior side, Cheeks should be full, Chin touching the breast.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 4
+      },
+      {
+        "topic": "NEONATOLOGY",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "4-day-old baby + Bilirubin of 18g/dl. Next step is",
+        "answer": "start phototherapy and continue breastfeeding.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "ANTHROPOMETRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "A six-year-old has complaints of bed wetting. The child is dry during the day and problem is only at night. Growth, development and urine microscopy is normal. Next step is",
+        "answer": "reassure the parents and follow up after six months.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "ANTHROPOMETRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Ride a tricycle + Climb upstairs and downstairs with one foot at a time + Say Name + Knows own sex + Cannot narrate a story",
+        "answer": "3 years developmental age.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "ANTHROPOMETRY",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Criteria for severe acute malnutrition in a six-month-old child includes",
+        "answer": "mid upper arm circumference <11.5cm, symmetrical bipedal oedema, weight for height <-3SD.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "RESPIRATORY SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Inheritance of cystic fibrosis",
+        "answer": "Autosomal recessive.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "RESPIRATORY SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Milestones of a 3-year-old child are considered delayed if he is",
+        "answer": "unable to use the spoon effectively.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 1
+      }
+    ]
+  },
+  "15. Anesthesia": {
+    "config": {
+      "key": "15. Anesthesia",
+      "title": "ANAESTHESIOLOGY",
+      "file_prefix": "15. Anesthesia"
+    },
+    "summary": {
+      "key": "15. Anesthesia",
+      "title": "ANAESTHESIOLOGY",
+      "ini_questions": 51,
+      "aiims_questions": 62,
+      "neet_questions": 24,
+      "total_extracted": 137,
+      "unique_mapped_points": 128,
+      "ini_and_neet_overlap": 0,
+      "repeated_points": 14,
+      "overlap_percent": 0.0,
+      "repeat_percent": 10.9
+    },
+    "topics": [
+      "PREOPERATIVE ASSESSMENT AND PREPARATION",
+      "MONITORING UNDER ANAESTHESIA",
+      "INDUCTION AGENTS",
+      "MUSCLE RELAXANTS",
+      "NEUROMUSCULAR MONITORING",
+      "INHALED ANESTHETIC AGENTS",
+      "COMPLICATIONS OF ANAESTHESIA",
+      "OPIOIDS",
+      "ANESTHESIA DELIVERY STSEMS",
+      "LOCAL ANESTHESIA"
+    ],
+    "sample_points": [
+      {
+        "topic": "PREOPERATIVE ASSESSMENT AND PREPARATION",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Signs of oesophageal intubation are",
+        "answer": "Thoracic sounds heard due to air passing through mediastinum, no chest movement, declining capnogram, persistent CO2 expiration.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "PREOPERATIVE ASSESSMENT AND PREPARATION",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Laryngoscope is held in right hand and introduced from right side of the patient (T/F)",
+        "answer": "False statement.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "INDUCTION AGENTS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "The given capnogram indicates",
+        "answer": "Answer is entry into right sided bronchus 2 ANAESTHESIA AIIMS (2014-2018) PYTS",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "INDUCTION AGENTS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Anaesthetic agent causing pain on IV administration is",
+        "answer": "Etomidate > Propofol",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "NEUROMUSCULAR MONITORING",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Order of blood gas coefficient is",
+        "answer": "Xenon < Desflurane < N20 < Sevoflurane < Isoflurane < Halothane < Methoxyflurane.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "NEUROMUSCULAR MONITORING",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Halothane is the agent of choice for day care surgery over sevoflurane (T/F)",
+        "answer": "false statement ANAESTHESIA DELIVERY SYSTEMS",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "NEUROMUSCULAR MONITORING",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Local anaesthetics are characterised by",
+        "answer": "Dibucaine is the longest acting local anaesthetic, Bupivacaine is longer acting and has side effect of cardiotoxicity, Tetracaine is more potent than lignocaine, Cocaine can cause hypertension REGIONAL ANAESTHESIA",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "NEUROMUSCULAR MONITORING",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "During lumbar puncture, which structure is pierced after spinal needle crosses interspinous ligament",
+        "answer": "Ligamentum flavum.",
+        "exams_list": [
+          "AIIMS"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "16. Dermatology": {
+    "config": {
+      "key": "16. Dermatology",
+      "title": "DERMATOLOGY",
+      "file_prefix": "16. Dermatology"
+    },
+    "summary": {
+      "key": "16. Dermatology",
+      "title": "DERMATOLOGY",
+      "ini_questions": 79,
+      "aiims_questions": 34,
+      "neet_questions": 64,
+      "total_extracted": 177,
+      "unique_mapped_points": 156,
+      "ini_and_neet_overlap": 6,
+      "repeated_points": 23,
+      "overlap_percent": 3.8,
+      "repeat_percent": 14.7
+    },
+    "topics": [
+      "BASICS OF SKIN",
+      "BASICS OF HAIR",
+      "APPENDAGEAL DISORDERS",
+      "BACTERIAL INFECTIONS",
+      "FUNGAL INFECTIONS",
+      "PARASITIC INFECTIONS",
+      "VIRAL INFECTIONS",
+      "PAPULOSQUAMOUS DISORDERS",
+      "VESICULOBULLOUS DISORDERS",
+      "PIGMENTORY DISORDERS"
+    ],
+    "sample_points": [
+      {
+        "topic": "APPENDAGEAL DISORDERS",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Middle age female + Papules and pustules on face, Which treatment is not useful",
+        "answer": "Topical fluocinolone (Case of Acne).",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "BACTERIAL INFECTIONS",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Causes of Non scarring alopecia includes",
+        "answer": "Alopecia areata, Telogen effluvium and Anagen effluvium, Androgenic alopecia, T.capitis (Not frontal fibrosing alopecia)",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "FUNGAL INFECTIONS",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Thorn prick + Rough verrucous growth on foot + HPE shows brown coloured copper bodies",
+        "answer": "Chromoblastomycosis.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "FUNGAL INFECTIONS",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Resident of Himalayan area + Prick with vegetative matter + Multiple lesions with Linear spread along lymphatics + Rosette like conidia",
+        "answer": "Sporothrix Schenckii.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "VIRAL INFECTIONS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Child + Dome shaped pearly lesions on forehead with central umbilication + Mother also having similar lesions",
+        "answer": "Molluscum contagiosum (Pox virus).",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "VIRAL INFECTIONS",
+        "tag": "INI & NEET",
+        "repeats": 5,
+        "stem": "Polymorphic Vesicular lesions over single dermatome over chest + Spider crawling sensation",
+        "answer": "Herpes zoster.",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "VIRAL INFECTIONS",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Nail pitting + Subungual hyperkeratosis + Oil drop sign",
+        "answer": "Psoriasis.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "VIRAL INFECTIONS",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "White lacy mucosal lesions + Purple flat lesions on skin + Proximal nail fold extended onto nail bed",
+        "answer": "Lichen planus.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      }
+    ]
+  },
+  "17. Orthopedics": {
+    "config": {
+      "key": "17. Orthopedics",
+      "title": "ORTHOPAEDICS",
+      "file_prefix": "17. Orthopedics"
+    },
+    "summary": {
+      "key": "17. Orthopedics",
+      "title": "ORTHOPAEDICS",
+      "ini_questions": 79,
+      "aiims_questions": 91,
+      "neet_questions": 41,
+      "total_extracted": 211,
+      "unique_mapped_points": 167,
+      "ini_and_neet_overlap": 9,
+      "repeated_points": 37,
+      "overlap_percent": 5.4,
+      "repeat_percent": 22.2
+    },
+    "topics": [
+      "UPPER LIMB",
+      "LOWER LIMB",
+      "SPINE",
+      "ONCOLOGY",
+      "INFECTIONS",
+      "IMPLANTS AND INSTRUMENTS",
+      "METABOLIC DISORDERS",
+      "CLINICAL TESTS",
+      "MISCELLANEOUS"
+    ],
+    "sample_points": [
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 6,
+        "stem": "Fall on outstretched hand + Fracture of shaft of radius at junction of middle and distal 1/3rd + DRUJ dislocation",
+        "answer": "Galeazzi fracture.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 6
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Bone not taking part in formation of wrist joint",
+        "answer": "Ulna.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Earliest way to detect compartment syndrome by a nurse in a patient with cast is",
+        "answer": "Excessive pain not relieved by usual dose of analgesics.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Three bony point relation ship is maintained in cases of",
+        "answer": "Supracondylar fracture of humerus.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "A patient is unable to move his 4th and 5th digit and cannot hold paper between fingers. The pos- sible site of lesion can be",
+        "answer": "medial condyle of humerus (Case of ulnar Nerve injury)",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 4,
+        "stem": "Regarding anterior shoulder dislocation",
+        "answer": "Anterior dislocation is MC type, Axillary nerve is MC injured, CT scan is preferred for knowing the bony lesion.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Cupping, fraying and splaying in distal end of radius and ulna is seen in",
+        "answer": "Rickets",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "UPPER LIMB",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Lateral condyle of humerus fracture + Gradually developed elbow deformity, Likely outcome will be",
+        "answer": "Inability to adduct the fingers (Case of Tardy ulnar nerve palsy).",
+        "exams_list": [
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      }
+    ]
+  },
+  "18. Psychiatry": {
+    "config": {
+      "key": "18. Psychiatry",
+      "title": "PSYCHIATRY",
+      "file_prefix": "18. Psychiatry"
+    },
+    "summary": {
+      "key": "18. Psychiatry",
+      "title": "PSYCHIATRY",
+      "ini_questions": 92,
+      "aiims_questions": 63,
+      "neet_questions": 194,
+      "total_extracted": 349,
+      "unique_mapped_points": 270,
+      "ini_and_neet_overlap": 19,
+      "repeated_points": 79,
+      "overlap_percent": 7.0,
+      "repeat_percent": 29.3
+    },
+    "topics": [
+      "GENERAL PSYCHIATRY",
+      "PSYCHOTIC DISORDERS",
+      "MOOD DISORDERS",
+      "NEUROTIC DISORDERS",
+      "ORGANIC MENTAL DISORDERS",
+      "SUBSTANC USE DISORDERS",
+      "CHILD PSYCHIATRY",
+      "MINOR TOPICS",
+      "PYSCHOLOGY, PSYCHOTHERAPY AND COMMUNITY PSYCHIATRY",
+      "PYSCHOLOGY, PSYCHOTHERAPY AND COMMUNITY"
+    ],
+    "sample_points": [
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Patient believes he is the most important person in the world + Neighbour and family are trying to harm him as they are jealous of him",
+        "answer": "Delusion of grandiosity and persecution.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "MMSE includes",
+        "answer": "Mood and affect, Speech and language, Cognition.",
+        "exams_list": [
+          "AIIMS",
+          "INI",
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Semantic memory includes",
+        "answer": "Words, Rules, Language (Not events).",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "In psychiatry, Personal history does not include",
+        "answer": "Food preference.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Boy saying \"I lost my head, I am dead\"",
+        "answer": "Delusion of Nihilism.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "NEET",
+        "repeats": 3,
+        "stem": "Loosening of association/Derailment is an example of",
+        "answer": "Formal thought disorder.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "GENERAL PSYCHIATRY",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Wife firmly and persistently feels that her husband is cheating, although no evidence is available",
+        "answer": "Delusion.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "PSYCHOTIC DISORDERS",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Patient starts beating his wife on looking at the nurse and says that the wife is not his real wife but actually the nurse is",
+        "answer": "Capgras syndrome.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      }
+    ]
+  },
+  "19. Radiology": {
+    "config": {
+      "key": "19. Radiology",
+      "title": "RADIOLOGY",
+      "file_prefix": "19. Radiology"
+    },
+    "summary": {
+      "key": "19. Radiology",
+      "title": "RADIOLOGY",
+      "ini_questions": 103,
+      "aiims_questions": 78,
+      "neet_questions": 79,
+      "total_extracted": 260,
+      "unique_mapped_points": 228,
+      "ini_and_neet_overlap": 14,
+      "repeated_points": 35,
+      "overlap_percent": 6.1,
+      "repeat_percent": 15.4
+    },
+    "topics": [
+      "CENTRAL NERVOUS SYSTEM",
+      "HEAD AND NECK",
+      "MUSCULOSKELETAL SYSTEM",
+      "RESPIRATORY SYSTEM",
+      "CARDIOVASCULAR SYSTEM",
+      "GASTROINTESTINAL SYSTEM",
+      "GENITOURINARY SYSTEM",
+      "CONTRAST MEDIA AND RADIOPHYSICS",
+      "ENDOCRINE SYSTEM"
+    ],
+    "sample_points": [
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Young male + RTA + Low GCS + Raised ICT + NCCT brain is normal + FAST is negative",
+        "answer": "Diffuse axonal injury.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Empty thecal sac sign is seen in",
+        "answer": "Arachnoiditis.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "INI",
+        "repeats": 2,
+        "stem": "Lateral view of x-ray neck shows contrast outlining the spinal cord. Identify the investigation",
+        "answer": "Myelography.",
+        "exams_list": [
+          "AIIMS",
+          "INI"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 2,
+        "stem": "Neonate + CHF + Enlarging fontanelle + Bruit on auscultation + MRI shows dilated median prosencephalic vein",
+        "answer": "Vein of Galen malformation.",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "INI & NEET",
+        "repeats": 3,
+        "stem": "Solid Cystic enhancing lesion in suprasellar region with calcification is seen in",
+        "answer": "Craniopharyngioma .",
+        "exams_list": [
+          "AIIMS",
+          "NEET"
+        ],
+        "raw_count": 2
+      },
+      {
+        "topic": "CENTRAL NERVOUS SYSTEM",
+        "tag": "NEET",
+        "repeats": 4,
+        "stem": "Sudden headache + Neck rigidity + No h/o trauma + NCCT shows hyperdense blood in sulci and basal cisterns + Angiography shows saccular aneurysms",
+        "answer": "Subarachnoid haemorrhage.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 3
+      },
+      {
+        "topic": "HEAD AND NECK",
+        "tag": "INI",
+        "repeats": 3,
+        "stem": "Most sensitive investigation for parathyroid adenoma localisation is",
+        "answer": "Tc sestamibi SPECT.",
+        "exams_list": [
+          "INI"
+        ],
+        "raw_count": 1
+      },
+      {
+        "topic": "HEAD AND NECK",
+        "tag": "NEET",
+        "repeats": 2,
+        "stem": "Fever + Biphasic stridor + H/o URTI + Steeple sign on neck X-ray is found in",
+        "answer": "Acute laryngotracheobronchitis/Croup.",
+        "exams_list": [
+          "NEET"
+        ],
+        "raw_count": 1
+      }
+    ]
+  }
+}

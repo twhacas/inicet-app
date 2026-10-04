@@ -1,0 +1,3098 @@
+[
+  {
+    "id": "derm_q_001",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A child has a focal area of hair loss with scaling and itching. The next investigation is",
+    "options": [
+      "Skin biopsy",
+      "KOH mount of plucked hairs and scales",
+      "Patch test",
+      "Tzanck smear"
+    ],
+    "correct_index": 1,
+    "explanation": "Tinea capitis is the commonest cause of scaly patchy alopecia with itching in a child. KOH is quick and cheap; culture on Sabouraud agar identifies the species. Alopecia areata, by contrast, has no scaling or itching.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (child with patchy hair loss, scaling, itching — KOH mount), 2023 NEET-PG (focal hair loss with scaling and itching — tinea)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_002",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A bald patch on the scalp with easily pluckable hair and black dots at the follicular openings is treated with",
+    "options": [
+      "Topical steroid",
+      "Topical ketoconazole alone",
+      "Oral griseofulvin",
+      "Oral doxycycline"
+    ],
+    "correct_index": 2,
+    "explanation": "Black dots indicate an **endothrix** infection, where hyphae are inside the hair shaft — so topical agents cannot reach them and systemic treatment is essential. Griseofulvin remains first line in tinea capitis, with terbinafine as an alternative.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (bald patch with easy pluckability and black spots — griseofulvin for endothrix)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_003",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A child has an inflammatory boggy swelling on the scalp with pus and a pet dog at home. The lesion is",
+    "options": [
+      "Dissecting cellulitis",
+      "A bacterial abscess",
+      "Alopecia areata",
+      "Kerion, a severe inflammatory tinea capitis"
+    ],
+    "correct_index": 3,
+    "explanation": "Zoophilic dermatophytes acquired from pets provoke a vigorous immune response. It needs systemic antifungals, often with a short course of steroid, and can cause scarring alopecia if treated late.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (child with inflammatory boggy swelling on scalp and a pet dog — kerion)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_004",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A hair shaft filled with fungal conidia on microscopy indicates infection by",
+    "options": [
+      "*Malassezia furfur*",
+      "*Microsporum* species only",
+      "*Trichophyton* species, in an endothrix pattern",
+      "*Candida albicans*"
+    ],
+    "correct_index": 2,
+    "explanation": "*Trichophyton tonsurans* and *T. violaceum* fill the shaft and leave black dots. **Ectothrix** infection by *Microsporum* coats the outside of the shaft and fluoresces green under Wood's lamp.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (hair shaft filled with fungal conidia — *Trichophyton*)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_005",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "The hair perforation test is positive in",
+    "options": [
+      "*Trichophyton rubrum*",
+      "*Trichophyton mentagrophytes*",
+      "*Microsporum audouinii*",
+      "*Epidermophyton floccosum*"
+    ],
+    "correct_index": 1,
+    "explanation": "It is the classic test distinguishing *T. mentagrophytes*, which perforates hair in vitro, from *T. rubrum*, which does not. Urease production is the other discriminator between the two.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (hair perforation test is positive in *Trichophyton mentagrophytes*)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_006",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Match the Wood's lamp findings: erythrasma, pityriasis versicolor, tinea capitis from *Microsporum*.",
+    "options": [
+      "Green, coral red, yellow",
+      "Coral red, golden yellow, green",
+      "Blue-white, green, coral red",
+      "Yellow, green, coral red"
+    ],
+    "correct_index": 1,
+    "explanation": "Erythrasma from *Corynebacterium minutissimum* fluoresces coral red because of porphyrins. Pseudomonal infection gives green-yellow, and vitiligo gives a bright blue-white chalky fluorescence with sharp margins.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match Wood's lamp findings — erythrasma coral red, *P. versicolor* yellow)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_007",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Hypopigmented macules over the back and upper trunk with spaghetti-and-meatballs appearance on KOH are caused by",
+    "options": [
+      "*Candida albicans*",
+      "*Trichophyton rubrum*",
+      "*Malassezia furfur*",
+      "*Mycobacterium leprae*"
+    ],
+    "correct_index": 2,
+    "explanation": "Short hyphae with round yeast cells give the appearance. Pityriasis versicolor is a commensal overgrowth favoured by heat and sweating, which is why it recurs; azelaic acid produced by the organism causes the hypopigmentation.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (hypopigmented macules with spaghetti and meatballs appearance — *Malassezia furfur*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_008",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "An annular plaque with central clearing and an active scaly advancing edge is",
+    "options": [
+      "Lichen planus",
+      "Psoriasis",
+      "Urticaria",
+      "Tinea corporis"
+    ],
+    "correct_index": 3,
+    "explanation": "The active edge is where scrapings are taken for KOH. Annular lesions also occur in pityriasis rosea, porokeratosis, granuloma annulare and subacute cutaneous lupus — but **not** in urticaria, where lesions are transient weals.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (annular plaque with central clearing — tinea corporis), 2021 INI-CET (annular plaque-like lesions — P. rosea, T. corporis, porokeratosis, not urticaria)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_009",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Itching in the groin with an advancing scaly margin may be caused by",
+    "options": [
+      "*Sporothrix schenckii*",
+      "*Malassezia* only",
+      "*Trichophyton*, *Microsporum* and *Epidermophyton*",
+      "*Madurella mycetomatis*"
+    ],
+    "correct_index": 2,
+    "explanation": "These three genera are the dermatophytes. *Epidermophyton* affects skin and nails but spares hair. Tinea cruris is commonly worsened by inappropriate topical steroid use, producing tinea incognito.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (itching in groin caused by *Trichophyton*, *Microsporum*, *Epidermophyton*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_010",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A resident of a Himalayan area pricked by vegetative matter develops multiple nodules along a lymphatic channel. The organism is",
+    "options": [
+      "*Madurella mycetomatis*",
+      "*Sporothrix schenckii*",
+      "*Fonsecaea pedrosoi*",
+      "*Nocardia asteroides*"
+    ],
+    "correct_index": 1,
+    "explanation": "Lymphocutaneous sporotrichosis — the \"rose gardener's disease\" — spreads as ascending nodules that may ulcerate. Itraconazole is the treatment, and potassium iodide is a cheaper alternative.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (Himalayan resident, prick with vegetative matter, multiple nodules — *Sporothrix schenckii*, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_011",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "The only subcutaneous mycosis caused by a dimorphic fungus is",
+    "options": [
+      "Mycetoma",
+      "Sporotrichosis",
+      "Chromoblastomycosis",
+      "Rhinosporidiosis"
+    ],
+    "correct_index": 1,
+    "explanation": "*Sporothrix schenckii* grows as a mould in the environment and as a yeast in tissue. Mycetoma and chromoblastomycosis are caused by moulds that remain filamentous in tissue.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (only dimorphic fungus which is also a subcutaneous fungus — sporotrichosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_012",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A farmer has a swollen foot with multiple sinuses discharging sulphur-coloured granules. The diagnosis is",
+    "options": [
+      "Sporotrichosis",
+      "Chromoblastomycosis",
+      "Mycetoma",
+      "Elephantiasis"
+    ],
+    "correct_index": 2,
+    "explanation": "Grain colour helps: black grains indicate eumycetoma, usually *Madurella mycetomatis*, treated with itraconazole; pale or yellow grains indicate actinomycetoma from *Nocardia* or *Actinomadura*, treated with co-trimoxazole and amikacin.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (farmer with swelling, sinuses and sulphur granules on foot — mycetoma), 2024 INI-CET (infection due to bare foot walking — *Madurella mycetomatis*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_013",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A rough verrucous growth on the foot after a thorn prick, with brown sclerotic bodies on histology, is",
+    "options": [
+      "Verruca vulgaris",
+      "Mycetoma",
+      "Sporotrichosis",
+      "Chromoblastomycosis"
+    ],
+    "correct_index": 3,
+    "explanation": "Copper-penny or medlar bodies — thick-walled pigmented sclerotic cells — are diagnostic. *Fonsecaea pedrosoi* is the commonest agent, and itraconazole with terbinafine or cryotherapy is used.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (thorn prick, verrucous growth, brown bodies on HPE — chromoblastomycosis, 3X)",
+    "repeats": 3,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_014",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "The topical antifungal nail lacquer used for onychomycosis is",
+    "options": [
+      "Permethrin",
+      "Clotrimazole",
+      "Amorolfine",
+      "Mupirocin"
+    ],
+    "correct_index": 2,
+    "explanation": "Ciclopirox is the other lacquer. Nail plate penetration is poor, so lacquers suit only distal disease affecting few nails; extensive onychomycosis needs oral terbinafine or itraconazole.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (nail lacquer used in fungal infections — amorolfine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_015",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Tavaborole, a newer topical antifungal, belongs to which class?",
+    "options": [
+      "A triazole inhibiting lanosterol demethylase",
+      "An oxaborole that inhibits leucyl-tRNA synthetase",
+      "An allylamine inhibiting squalene epoxidase",
+      "A polyene binding ergosterol"
+    ],
+    "correct_index": 1,
+    "explanation": "Blocking protein synthesis is a mechanism distinct from every other antifungal class, and its small molecular size gives better nail penetration than older topical agents.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (topical drug used in treatment of fungal infections — tavaborole)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_016",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "A newborn has erythema confined to the skin folds of the neck, axillae and groin. The likely organism is",
+    "options": [
+      "*Staphylococcus aureus*",
+      "*Candida albicans*",
+      "*Trichophyton rubrum*",
+      "*Malassezia furfur*"
+    ],
+    "correct_index": 1,
+    "explanation": "Candidal intertrigo shows satellite papules and pustules beyond the main erythema, which distinguishes it from simple friction intertrigo. Warmth, moisture and occlusion in the folds favour it.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (newborn with erythema in skin folds — *Candida*, intertrigo), 2017 AIIMS (identify the condition — intertrigo)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_017",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Tinea incognito refers to",
+    "options": [
+      "Tinea confined to the nails",
+      "Tinea resistant to all antifungals",
+      "A dermatophyte infection altered by topical steroid, losing its scaly margin and becoming more extensive",
+      "Tinea in an immunocompromised host only"
+    ],
+    "correct_index": 2,
+    "explanation": "Steroid suppresses inflammation so the diagnosis is missed and the infection spreads. Irrational fixed-dose combination creams containing potent steroids are the usual cause in India.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (annular plaque with central clearing), 2024 INI-CET (side effects of topical steroids)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_018",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Terbinafine acts by inhibiting",
+    "options": [
+      "Nucleic acid synthesis",
+      "Lanosterol 14-alpha demethylase",
+      "Beta-glucan synthase",
+      "Squalene epoxidase, blocking ergosterol synthesis"
+    ],
+    "correct_index": 3,
+    "explanation": "Accumulated squalene is directly fungicidal against dermatophytes. Azoles inhibit the demethylase and are fungistatic, echinocandins inhibit beta-glucan synthase, and griseofulvin disrupts microtubules.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (topical antifungal — tavaborole), 2020 NEET-PG (amorolfine nail lacquer)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_019",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "The investigation of choice to confirm onychomycosis before starting oral therapy is",
+    "options": [
+      "Wood's lamp examination",
+      "Patch test",
+      "Nail clipping for KOH and fungal culture",
+      "Tzanck smear"
+    ],
+    "correct_index": 2,
+    "explanation": "Confirmation matters because psoriasis, lichen planus and trauma mimic onychomycosis, and oral antifungals carry hepatotoxic and drug-interaction risks that are not justified without a diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (amorolfine for fungal nail infection), 2022 INI-CET (KOH mount in suspected fungal infection)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_020",
+    "subject": "Dermatology",
+    "sub_topic": "Fungal",
+    "stem": "Griseofulvin absorption is best when the drug is given",
+    "options": [
+      "On an empty stomach",
+      "With a fatty meal",
+      "With an antacid",
+      "With grapefruit juice"
+    ],
+    "correct_index": 1,
+    "explanation": "It is highly lipophilic and poorly water-soluble. It concentrates in keratin, which is why treatment must continue until infected keratin is shed. It induces hepatic enzymes and so reduces oral contraceptive efficacy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (griseofulvin for endothrix tinea capitis), 2019 NEET-PG (kerion management)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_021",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "A truck driver has a painless indurated genital ulcer. The organism is best demonstrated by",
+    "options": [
+      "Gram stain",
+      "Dark-ground microscopy",
+      "Tzanck smear",
+      "KOH mount"
+    ],
+    "correct_index": 1,
+    "explanation": "*Treponema pallidum* is too slender for Gram stain and cannot be cultured routinely, so motility is demonstrated on dark ground. A painless indurated ulcer with non-tender lymphadenopathy is the chancre of primary syphilis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (painless indurated genital ulcer — dark field microscope, 4X)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_022",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Three weeks after a genital lesion, a patient has maculopapular lesions over the palms and soles. The confirmatory investigation is",
+    "options": [
+      "Tzanck smear",
+      "Dark-ground microscopy of the rash",
+      "Serology — VDRL or RPR with a confirmatory treponemal test",
+      "Skin biopsy alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Secondary syphilis is the stage where serology is reliably positive. Palmoplantar involvement, condylomata lata and mucous patches are characteristic, and the stage is highly infectious.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (genital lesions 3 weeks back, now maculopapular lesions — serology for secondary syphilis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_023",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Kassowitz law states that in congenital syphilis",
+    "options": [
+      "Transmission occurs only at delivery",
+      "Severity increases with each pregnancy",
+      "Only the first child is affected",
+      "Fetal involvement becomes progressively milder with each successive pregnancy"
+    ],
+    "correct_index": 3,
+    "explanation": "Declining maternal spirochaetaemia explains it. Rhesus isoimmunisation behaves in the opposite way, worsening with each sensitised pregnancy — which is the usual point of the comparison.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Kassowitz law is related to congenital syphilis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_024",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Pus at the tip of the penis with Gram-negative intracellular diplococci, resistant to penicillin, is treated with",
+    "options": [
+      "Metronidazole",
+      "Oral penicillin V",
+      "Intramuscular ceftriaxone",
+      "Fluconazole"
+    ],
+    "correct_index": 2,
+    "explanation": "*Neisseria gonorrhoeae* is the STI that has developed the most clinically important drug resistance, having lost penicillins, fluoroquinolones and now showing reduced cephalosporin susceptibility. Azithromycin is added to cover chlamydia.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pus on tip of penis, Gram negative diplococci, penicillin resistant — ceftriaxone), 2023 INI-CET (which STI has developed drug resistance — gonorrhoea)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_025",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Burning micturition with urethral discharge within a week of exposure suggests",
+    "options": [
+      "Chlamydial urethritis",
+      "Gonorrhoea",
+      "Syphilis",
+      "Herpes"
+    ],
+    "correct_index": 1,
+    "explanation": "Its incubation period is 2 to 7 days with a profuse purulent discharge. **Chlamydial** urethritis incubates over 1 to 3 weeks with a scanty mucoid discharge, so the timing and character separate them.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (burning micturition and urethral discharge within 1 week of intercourse — gonorrhoea)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_026",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Urethritis in a male is NOT caused by",
+    "options": [
+      "*Neisseria gonorrhoeae*",
+      "*Gardnerella vaginalis*",
+      "*Chlamydia trachomatis*",
+      "*Trichomonas vaginalis*"
+    ],
+    "correct_index": 1,
+    "explanation": "*Gardnerella* is part of the altered vaginal flora in bacterial vaginosis, which is not a sexually transmitted infection in the usual sense and does not cause male urethritis. *Mycoplasma genitalium* and *Ureaplasma* do.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (urethritis in male is not caused by *Gardnerella*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_027",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Painful vesicles and erosions on the genitalia with multinucleated giant cells on Tzanck smear are treated with",
+    "options": [
+      "Ceftriaxone",
+      "Benzathine penicillin",
+      "Aciclovir",
+      "Azithromycin"
+    ],
+    "correct_index": 2,
+    "explanation": "Genital herpes, usually HSV-2. Tzanck smear shows acantholytic multinucleated giant cells with intranuclear inclusions. Treatment shortens an episode but does not eradicate latent ganglionic infection, so recurrence is the rule.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vesicular lesions and painful erosions on genitalia, Tzanck smear — aciclovir, 2X), 2021 INI-CET (painful vesicles on genitals — Tzanck cells, HSV-2)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_028",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Skin-coloured fleshy papules in the anogenital region are",
+    "options": [
+      "Herpes simplex",
+      "Condylomata lata of secondary syphilis",
+      "Molluscum contagiosum",
+      "Condyloma acuminata, caused by HPV 6 and 11"
+    ],
+    "correct_index": 3,
+    "explanation": "**Condylomata lata** are broad, moist, flat-topped and highly infectious lesions of secondary syphilis — the key differential. Treatment options include podophyllin, imiquimod, cryotherapy and electrocautery.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (skin coloured fleshy papules in anogenital region — condyloma acuminata)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_029",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Foul-smelling grey-white vaginal discharge shows which microscopic finding?",
+    "options": [
+      "Pseudohyphae with budding yeast",
+      "Motile flagellated trophozoites",
+      "Clue cells — epithelial cells studded with adherent coccobacilli",
+      "Multinucleated giant cells"
+    ],
+    "correct_index": 2,
+    "explanation": "Bacterial vaginosis. Amsel criteria need three of four: thin homogeneous discharge, pH above 4.5, positive whiff test and clue cells. Metronidazole is the treatment, and it is safe in pregnancy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (foul smelling grey white vaginal discharge — clue cells, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_030",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Frothy vaginal discharge with motile trophozoites on wet mount is treated with",
+    "options": [
+      "Fluconazole",
+      "Metronidazole, including the partner",
+      "Clindamycin cream alone",
+      "Ceftriaxone"
+    ],
+    "correct_index": 1,
+    "explanation": "*Trichomonas vaginalis* is a true sexually transmitted infection, so partner treatment is required — unlike bacterial vaginosis. A strawberry cervix and a vaginal pH above 4.5 accompany it.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (frothy vaginal discharge, wet mount shows trophozoite — trichomoniasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_031",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Vaginal discharge with itching and a normal vaginal pH indicates",
+    "options": [
+      "Bacterial vaginosis",
+      "Candidal vaginitis",
+      "Trichomoniasis",
+      "Gonorrhoea"
+    ],
+    "correct_index": 1,
+    "explanation": "Candidiasis is the one common vaginal infection with a **normal or low** pH — the fastest way to separate it from the others. Thick curdy discharge with vulval itching and pseudohyphae on microscopy complete the picture.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (vaginal discharge with itching — *Candida*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_032",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Profuse non-foul-smelling, non-itchy white discharge at mid-cycle with normal flora is",
+    "options": [
+      "Candidiasis",
+      "Bacterial vaginosis",
+      "Physiological discharge",
+      "Chlamydial cervicitis"
+    ],
+    "correct_index": 2,
+    "explanation": "Peri-ovulatory oestrogen makes cervical mucus copious and clear. Absence of odour, itching and inflammatory findings with normal lactobacilli establishes it, and reassurance is all that is needed.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (profuse non foul smelling non itchy white discharge — physiological discharge)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_033",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Under the national syndromic management kits, the kit for vaginal discharge is",
+    "options": [
+      "Kit 1",
+      "The grey kit",
+      "The yellow kit",
+      "The green kit"
+    ],
+    "correct_index": 3,
+    "explanation": "Grey is for urethral discharge, yellow for lower abdominal pain suggesting pelvic inflammatory disease, and kit 1 (grey) contains azithromycin with cefixime. Kit contents are revised by programme order, so verify against current NACO guidance.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match the kits — green vaginal discharge, grey urethral discharge, yellow lower abdominal pain), 2022 NEET-PG (vaginal discharge with lower abdominal pain — yellow kit)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_034",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Kit 1 of the national STI syndromic management programme contains",
+    "options": [
+      "Metronidazole with fluconazole",
+      "Benzathine penicillin alone",
+      "Azithromycin with cefixime",
+      "Aciclovir alone"
+    ],
+    "correct_index": 2,
+    "explanation": "It covers urethral and cervical discharge — gonococcal and chlamydial infection together. Syndromic management exists because laboratory confirmation delays treatment and increases onward transmission.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (kit no. 1 for STDs includes azithromycin and cefixime)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_035",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "Cayenne-pepper stippling from haemosiderin deposition on the glans is seen in",
+    "options": [
+      "Lichen sclerosus",
+      "Zoon plasma cell balanitis",
+      "Erythroplasia of Queyrat",
+      "Candidal balanitis"
+    ],
+    "correct_index": 1,
+    "explanation": "A dense plasma cell infiltrate with haemosiderin gives the stippled appearance. It occurs in uncircumcised men, is benign, and biopsy is needed to exclude erythroplasia of Queyrat, which is carcinoma in situ.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (cayenne pepper stippling due to haemosiderin deposition — plasma cell balanitis of Zoon)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_036",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "A painful genital ulcer with ragged undermined edges and a soft base, with tender suppurative lymphadenopathy, is",
+    "options": [
+      "Primary syphilis",
+      "Chancroid, caused by *Haemophilus ducreyi*",
+      "Lymphogranuloma venereum",
+      "Granuloma inguinale"
+    ],
+    "correct_index": 1,
+    "explanation": "A painful, soft, ragged ulcer contrasts with the painless indurated chancre of syphilis. A school-of-fish arrangement of Gram-negative bacilli is seen; azithromycin or ceftriaxone treats it.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (painless indurated genital ulcer — syphilis, 4X), 2024 INI-CET (genital herpes)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_037",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "A beefy-red, friable, painless genital ulcer that bleeds easily, with Donovan bodies on tissue smear, is",
+    "options": [
+      "Herpes",
+      "Chancroid",
+      "Granuloma inguinale (donovanosis)",
+      "Primary syphilis"
+    ],
+    "correct_index": 2,
+    "explanation": "*Klebsiella granulomatis* produces intracytoplasmic Donovan bodies in macrophages. It causes pseudobuboes rather than true lymphadenopathy and responds to azithromycin or doxycycline.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (genital ulcer diagnosis, 4X), 2023 NEET-PG (anogenital lesions)",
+    "repeats": 4,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_038",
+    "subject": "Dermatology",
+    "sub_topic": "Sti",
+    "stem": "The groove sign of matted inguinal lymphadenopathy on either side of the inguinal ligament suggests",
+    "options": [
+      "Filariasis",
+      "Chancroid",
+      "Syphilis",
+      "Lymphogranuloma venereum"
+    ],
+    "correct_index": 3,
+    "explanation": "*Chlamydia trachomatis* serovars L1 to L3 cause it. A transient painless ulcer precedes the bubo. Late fibrosis causes elephantiasis and rectal stricture; doxycycline for 21 days is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (genital ulcer evaluation, 4X), 2023 INI-CET (STI drug resistance)",
+    "repeats": 4,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_039",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Hypopigmented plaques with thickened nerves and loss of sensation, with a positive slit-skin smear, indicate",
+    "options": [
+      "Pityriasis versicolor",
+      "Paucibacillary leprosy",
+      "Multibacillary leprosy",
+      "Vitiligo"
+    ],
+    "correct_index": 2,
+    "explanation": "A positive slit-skin smear defines multibacillary disease regardless of lesion count. The cardinal signs are hypopigmented anaesthetic patches, thickened peripheral nerves and a positive smear; any one establishes the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (hypopigmented plaques, thickened nerves, loss of sensation, slit smear — answer recorded as a leaked heading)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_040",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "A man has a hypopigmented patch with a thickened nerve and satellite lesions. The treatment is",
+    "options": [
+      "The paucibacillary kit for 6 months",
+      "The adult multibacillary (red) MDT kit for 12 months",
+      "Rifampicin alone for 3 months",
+      "Topical steroid"
+    ],
+    "correct_index": 1,
+    "explanation": "Satellite lesions indicate borderline disease, treated as multibacillary. The adult MB kit contains rifampicin, clofazimine and dapsone; the colour coding and duration are revised by programme order.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (hypopigmented patch, thickened nerve, satellite lesions — red kit of MDT for 12 months), 2020 INI-CET (adult MDT kit is red in colour)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_041",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "A skin plaque with an outer sloping margin and an inner perpendicular margin indicates",
+    "options": [
+      "Tuberculoid leprosy",
+      "Borderline leprosy",
+      "Lepromatous leprosy",
+      "Histoid leprosy"
+    ],
+    "correct_index": 1,
+    "explanation": "The \"punched-out\" or inverted-saucer plaque with a sloping outer and sharply sloping inner edge is characteristic of borderline disease. Borderline forms are immunologically unstable and most liable to reactions.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (plaque with outer sloping margin and inner perpendicular margin — borderline leprosy)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_042",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "A hypopigmented anaesthetic patch with nerve thickening and a positive intradermal lepromin test indicates",
+    "options": [
+      "Borderline lepromatous leprosy",
+      "Lepromatous leprosy",
+      "Tuberculoid leprosy",
+      "Indeterminate leprosy"
+    ],
+    "correct_index": 2,
+    "explanation": "A positive lepromin (Mitsuda) test reflects intact cell-mediated immunity, which characterises the tuberculoid pole — few lesions, few bacilli, marked nerve damage. Lepromatous leprosy is lepromin negative with abundant bacilli.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (hypopigmented anaesthetic patch, nerve thickening, positive intradermal test — tuberculoid)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_043",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "The nerve affected in borderline leprosy of the face is the",
+    "options": [
+      "Hypoglossal nerve",
+      "Trigeminal nerve",
+      "Greater auricular nerve",
+      "Facial nerve"
+    ],
+    "correct_index": 3,
+    "explanation": "Its zygomatic branch is involved, causing lagophthalmos — the inability to close the eye, which threatens the cornea. Facial nerve involvement is an indication for urgent steroid therapy to prevent permanent damage.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (nerve affected in borderline leprosy of face — 7th cranial nerve)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_044",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "The nerve biopsied to diagnose pure neuritic leprosy is the",
+    "options": [
+      "Common peroneal nerve",
+      "Ulnar nerve at the elbow",
+      "Radial cutaneous nerve",
+      "Sural nerve"
+    ],
+    "correct_index": 2,
+    "explanation": "It is purely sensory and superficial, so biopsy causes no motor deficit. Pure neuritic leprosy presents with nerve involvement and no skin lesions, and is diagnosed only by biopsy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (nerve biopsy taken to diagnose neuritic leprosy — radial cutaneous nerve)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_045",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "A patient on MDT develops inflammation of existing lesions with new nerve tenderness. The management is",
+    "options": [
+      "Stop MDT and give steroids",
+      "Continue antileprosy treatment and add systemic corticosteroids",
+      "Stop MDT only",
+      "Add clofazimine alone"
+    ],
+    "correct_index": 1,
+    "explanation": "This is a type 1 (reversal) reaction, a delayed hypersensitivity upgrade. **MDT is never stopped** during a reaction. Prednisolone is tapered over 12 weeks, and nerve involvement makes treatment urgent to prevent deformity.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (patient on MDT with inflammation of lesions and nerve involvement — continue treatment and start steroids, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_046",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Erythema nodosum leprosum differs from a type 1 reaction in that it",
+    "options": [
+      "Is a delayed hypersensitivity reaction confined to existing lesions",
+      "Is an immune-complex (type 3) reaction with crops of tender nodules and systemic features, treated with steroids or thalidomide",
+      "Occurs only in tuberculoid leprosy",
+      "Needs no treatment"
+    ],
+    "correct_index": 1,
+    "explanation": "It occurs at the lepromatous pole, where antigen load is high. Fever, arthralgia, iritis and neuritis accompany it, and thalidomide is highly effective but strictly teratogenic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (type 1 reaction management, 3X), 2023 INI-CET (clofazimine pigmentation)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_047",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "The antileprosy drug causing skin pigmentation is",
+    "options": [
+      "Rifampicin",
+      "Dapsone",
+      "Clofazimine",
+      "Ofloxacin"
+    ],
+    "correct_index": 2,
+    "explanation": "It causes a reddish-brown to blue-black discoloration that is dose-dependent and reversible, and is a major cause of poor adherence. It also causes ichthyosis and gastrointestinal upset, and has anti-inflammatory activity useful in reactions.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (antileprosy medication causing pigmentation — clofazimine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_048",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "The main adverse effect limiting dapsone use is",
+    "options": [
+      "Nephrotoxicity",
+      "Skin pigmentation",
+      "Optic neuritis",
+      "Haemolysis, severe in G6PD deficiency, with methaemoglobinaemia and agranulocytosis"
+    ],
+    "correct_index": 3,
+    "explanation": "Dapsone hypersensitivity syndrome — fever, rash, hepatitis and lymphadenopathy — appears at about 4 to 6 weeks and can be fatal. Rifampicin instead causes orange secretions and enzyme induction.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (clofazimine pigmentation), 2023 INI-CET (MDT regimens)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_049",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "The proportion of new leprosy cases showing spontaneous remission each year is about",
+    "options": [
+      "50%",
+      "10 to 20%",
+      "90 to 95%",
+      "Less than 1%"
+    ],
+    "correct_index": 2,
+    "explanation": "Most people exposed to *Mycobacterium leprae* never develop disease, and most early indeterminate lesions resolve without treatment — which is why leprosy, despite its visibility, has low attack rates even among household contacts.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (new cases of leprosy showing remission every year — 90–95%)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_050",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Chemoprophylaxis for leprosy contacts is considered for",
+    "options": [
+      "Any casual contact",
+      "Household contacts living with a patient for more than 6 months",
+      "Only healthcare workers",
+      "Nobody, as prophylaxis has no role"
+    ],
+    "correct_index": 1,
+    "explanation": "Single-dose rifampicin for contacts reduces incidence. Prolonged close contact is needed because transmission is through nasal droplets over time, not through brief exposure or touch.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (criteria for starting chemotherapy in leprosy — living with patient for more than 6 months, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_051",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Facies leprosa includes",
+    "options": [
+      "Butterfly rash with scarring",
+      "Madarosis, loss of the upper incisors and resorption of the anterior nasal spine",
+      "Microstomia with sclerodactyly",
+      "Heliotrope rash with Gottron papules"
+    ],
+    "correct_index": 1,
+    "explanation": "Leonine facies with nodular thickening, saddle-nose collapse and nasal septal perforation are the other late features of lepromatous leprosy. All are preventable with early treatment.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (facies leprosa includes madarosis, loss of upper incisors, resorption of anterior nasal spine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_052",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Leprosy occurs as a natural zoonosis in",
+    "options": [
+      "Dogs and cats",
+      "Cattle and buffalo",
+      "Nine-banded armadillos, chimpanzees and mangabey monkeys",
+      "Rodents only"
+    ],
+    "correct_index": 2,
+    "explanation": "The armadillo is the important natural reservoir and has been linked to human cases in the southern United States. *Mycobacterium leprae* cannot be grown in ordinary culture, so the mouse footpad and armadillo were used experimentally.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (leprosy occurs as zoonosis in chimpanzee, nine banded armadillos, mangabey monkey)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_053",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "A man from Bihar with a history of prolonged childhood fever has nodular lesions on the face and trunk. The diagnosis is",
+    "options": [
+      "Secondary syphilis",
+      "Lepromatous leprosy",
+      "Sarcoidosis",
+      "Post-kala-azar dermal leishmaniasis"
+    ],
+    "correct_index": 3,
+    "explanation": "It follows treated visceral leishmaniasis after months to years and is endemic in Bihar. Patients act as a human reservoir sustaining transmission, which is why PKDL matters for elimination programmes. Lepromatous leprosy is the main mimic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (man from Bihar, prolonged fever in childhood, nodular lesions — PKDL)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_054",
+    "subject": "Dermatology",
+    "sub_topic": "Leprosy",
+    "stem": "Slit-skin smear bacillary index is graded on a scale of",
+    "options": [
+      "1 to 10",
+      "0 to 3+",
+      "0 to 6+, by logarithmic density of acid-fast bacilli per oil-immersion field",
+      "Positive or negative only"
+    ],
+    "correct_index": 2,
+    "explanation": "Smears are taken from both ear lobes and active lesions. The morphological index, the proportion of uniformly stained viable bacilli, falls rapidly with treatment and indicates response.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (slit smear in leprosy diagnosis), 2023 INI-CET (multibacillary leprosy treatment)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_055",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Silvery micaceous scales on well-demarcated erythematous plaques over the extensors indicate",
+    "options": [
+      "Pityriasis rosea",
+      "Psoriasis",
+      "Lichen planus",
+      "Seborrhoeic dermatitis"
+    ],
+    "correct_index": 1,
+    "explanation": "Auspitz sign — pinpoint bleeding on removing scale — and the Grattage test support it. Candle-grease scaling appears on scraping. Extensors, scalp, nails and the lumbosacral area are the typical sites.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (silvery micaceous scales — psoriasis), 2022 NEET-PG (scaly skin with neutrophilic collection in epidermis — psoriasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_056",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "The histological hallmark of psoriasis is",
+    "options": [
+      "Saw-tooth acanthosis with Civatte bodies",
+      "Munro microabscesses — neutrophil collections in the parakeratotic stratum corneum",
+      "Suprabasal acantholysis",
+      "Subepidermal blister with eosinophils"
+    ],
+    "correct_index": 1,
+    "explanation": "Spongiform pustules of Kogoj sit in the spinous layer. Other features are regular acanthosis, parakeratosis, loss of the granular layer and dilated dermal capillaries — which explain the Auspitz sign.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (scaly skin with neutrophilic collection in epidermis — psoriasis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_057",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Nail changes that distinguish psoriasis include",
+    "options": [
+      "Spoon-shaped koilonychia",
+      "Longitudinal ridging with pterygium",
+      "Pitting, subungual hyperkeratosis and the oil-drop sign",
+      "Transverse Beau lines only"
+    ],
+    "correct_index": 2,
+    "explanation": "Onycholysis and the salmon patch complete the picture. **Pterygium** formation is characteristic of nail lichen planus, which is the main differential.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (nail pitting, subungual hyperkeratosis, oil drop sign — psoriasis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_058",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Psoriatic arthropathy can be distinguished from other inflammatory arthropathies by",
+    "options": [
+      "Tophi around joints",
+      "Symmetrical small joint involvement with rheumatoid factor",
+      "Sacroiliitis alone",
+      "Nail pitting, enthesitis and dactylitis"
+    ],
+    "correct_index": 3,
+    "explanation": "It is a seronegative spondyloarthropathy. A pencil-in-cup deformity and arthritis mutilans are late radiological features, and distal interphalangeal involvement with nail disease is characteristic.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2016 AIIMS (psoriasis differentiated from other arthropathies — pitting, enthesitis, dactylitis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_059",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "The treatment of choice for psoriasis with significant arthritis is",
+    "options": [
+      "Narrowband UVB alone",
+      "Topical steroid alone",
+      "Methotrexate",
+      "Coal tar"
+    ],
+    "correct_index": 2,
+    "explanation": "It treats skin and joints together. Biologics targeting TNF-alpha, IL-17 and IL-23 are used in refractory disease. Topical therapy and phototherapy help the skin but do nothing for the arthritis.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (psoriatic lesions with arthritis — methotrexate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_060",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "A patient with psoriasis given systemic steroids develops fever, malaise and widespread sterile pustules on withdrawal. The diagnosis is",
+    "options": [
+      "Staphylococcal scalded skin syndrome",
+      "Acute generalised pustular psoriasis (von Zumbusch)",
+      "Acute generalised exanthematous pustulosis",
+      "Toxic epidermal necrolysis"
+    ],
+    "correct_index": 1,
+    "explanation": "**Systemic steroids are therefore avoided in psoriasis**, because withdrawal precipitates pustular or erythrodermic flares. It is a medical emergency with fluid loss and sepsis risk; acitretin, ciclosporin or infliximab is used.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (psoriasis given steroids, on stopping develops fever — acute generalised pustular psoriasis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_061",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Psoriasis is associated with",
+    "options": [
+      "Reduced cardiovascular risk",
+      "Metabolic syndrome and increased cardiovascular risk",
+      "No systemic associations",
+      "Coeliac disease specifically"
+    ],
+    "correct_index": 1,
+    "explanation": "Shared systemic inflammation explains it, so screening for obesity, hypertension, dyslipidaemia and diabetes is part of management. Depression and non-alcoholic fatty liver disease are also commoner.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (association between psoriasis and metabolic syndrome — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_062",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "The Koebner (isomorphic) phenomenon — new lesions appearing at sites of trauma — occurs in",
+    "options": [
+      "Tinea corporis",
+      "Pemphigus vulgaris only",
+      "Psoriasis, lichen planus and vitiligo",
+      "Acne vulgaris"
+    ],
+    "correct_index": 2,
+    "explanation": "Warts and molluscum also koebnerise. The **reverse** Koebner phenomenon, where trauma clears lesions, is seen in psoriasis, and pseudo-Koebner describes the phenomenon in infectious lesions.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (Koebner phenomenon seen in psoriasis, lichen planus, vitiligo), 2020 NEET-PG (new lesions on previously unaffected skin — isomorphic phenomenon)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_063",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "White lacy mucosal lesions with purple flat-topped papules on the skin and proximal nail changes indicate",
+    "options": [
+      "Pemphigus vulgaris",
+      "Psoriasis",
+      "Leukoplakia",
+      "Lichen planus"
+    ],
+    "correct_index": 3,
+    "explanation": "Wickham striae are the lacy white lines on the lesion surface and buccal mucosa. The six Ps describe it: purple, polygonal, pruritic, planar, papules and plaques.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (white lacy mucosal lesions with purple flat lesions — lichen planus, 2X), 2015 AIIMS (Wickham striae seen in oral lichen planus)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_064",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "The histological features of lichen planus are",
+    "options": [
+      "Suprabasal acantholysis with tombstoning",
+      "Munro microabscesses with parakeratosis",
+      "Saw-tooth acanthosis, basal cell degeneration with Civatte bodies and a band-like lymphocytic infiltrate",
+      "Subepidermal blister with a linear IgA band"
+    ],
+    "correct_index": 2,
+    "explanation": "Civatte (colloid) bodies are apoptotic keratinocytes. Hypergranulosis and wedge-shaped hypergranulosis correspond to the clinical Wickham striae.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (Wickham striae, saw tooth acanthosis, Civatte bodies — lichen planus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_065",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Lichen nitidus and lichen scrofulosorum",
+    "options": [
+      "Are both variants of lichen planus",
+      "Are distinct entities and not variants of lichen planus",
+      "Are both infectious",
+      "Always occur together"
+    ],
+    "correct_index": 1,
+    "explanation": "Lichen nitidus shows tiny shiny flesh-coloured papules with a ball-in-claw granuloma on histology. Lichen scrofulosorum is a tuberculid, so it demands a search for underlying tuberculosis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (lichen nitidus and lichen scrofulosorum are not part of lichen planus — true)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_066",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "A child has asymptomatic pinhead-sized shiny papules over the dorsum of the arms and forearms. The diagnosis is",
+    "options": [
+      "Lichen planus",
+      "Lichen nitidus",
+      "Molluscum contagiosum",
+      "Keratosis pilaris"
+    ],
+    "correct_index": 1,
+    "explanation": "Asymptomatic, tiny, uniform, shiny flesh-coloured papules in a child are characteristic. It koebnerises, is usually self-limiting over months to years, and needs no treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (child with asymptomatic pin head sized papules on dorsum of arm — lichen nitidus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_067",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Itchy lesions with collarette scaling in a Christmas-tree pattern on the trunk, preceded by a larger herald patch, is",
+    "options": [
+      "Secondary syphilis",
+      "Tinea corporis",
+      "Pityriasis rosea",
+      "Guttate psoriasis"
+    ],
+    "correct_index": 2,
+    "explanation": "The collarette scale has its free edge pointing centrally — the reverse of tinea. HHV-6 and HHV-7 reactivation is implicated. It is self-limiting over 6 to 8 weeks; secondary syphilis must be excluded by serology.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (itchy collarette scale lesions in Christmas tree pattern — pityriasis rosea, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_068",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Match the scale types: collarette, silvery, mica-like.",
+    "options": [
+      "Seborrhoeic dermatitis, psoriasis, pemphigus",
+      "Psoriasis, pityriasis rosea, lichen planus",
+      "Lichen planus, tinea, psoriasis",
+      "Pityriasis rosea, psoriasis, pityriasis rubra pilaris"
+    ],
+    "correct_index": 3,
+    "explanation": "Scale morphology is a recurring examined theme: collarette in pityriasis rosea, silvery micaceous in psoriasis, greasy yellow in seborrhoeic dermatitis and fine branny in pityriasis versicolor.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (match the types of scales — collarette, silvery)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_069",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Rashes on the palms and body with a checkerboard pattern of orthokeratosis and parakeratosis, with islands of sparing, indicate",
+    "options": [
+      "Pityriasis rosea",
+      "Psoriasis",
+      "Pityriasis rubra pilaris",
+      "Mycosis fungoides"
+    ],
+    "correct_index": 2,
+    "explanation": "Salmon-coloured erythroderma with characteristic **islands of sparing** and a waxy palmoplantar keratoderma complete the picture. Acitretin or methotrexate is used.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (rashes on palms with checkerboard pattern of orthokeratosis — pityriasis rubra pilaris)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_070",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Tide-water dermatitis is characterised by",
+    "options": [
+      "A photodistributed rash on the face",
+      "A band-shaped papular dermatitis at the waterline on the legs",
+      "A seborrhoeic pattern on the scalp",
+      "Flexural eczema in a child"
+    ],
+    "correct_index": 1,
+    "explanation": "It occurs in people wading repeatedly in water, producing a sharply bounded band at the level reached by the water — an occupational contact dermatitis.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (tide water dermatitis is characterised by band shaped papular dermatitis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_071",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "Pautrier microabscesses are seen in",
+    "options": [
+      "Psoriasis",
+      "Mycosis fungoides",
+      "Lichen planus",
+      "Pityriasis rosea"
+    ],
+    "correct_index": 1,
+    "explanation": "They are intraepidermal collections of atypical T lymphocytes. Cutaneous T-cell lymphoma evolves through patch, plaque and tumour stages; Sézary syndrome is its erythrodermic leukaemic variant.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (Pautrier microabscess is seen in mycosis fungoides)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_072",
+    "subject": "Dermatology",
+    "sub_topic": "Papulosquamous",
+    "stem": "The first-line treatment for localised plaque psoriasis is",
+    "options": [
+      "Oral methotrexate",
+      "Systemic corticosteroid",
+      "A topical corticosteroid combined with a vitamin D analogue such as calcipotriol",
+      "Oral ciclosporin"
+    ],
+    "correct_index": 2,
+    "explanation": "Coal tar, dithranol and salicylic acid are older options; narrowband UVB suits extensive disease. **Systemic steroids are avoided** because withdrawal precipitates pustular psoriasis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (pustular psoriasis after steroid withdrawal), 2023 NEET-PG (methotrexate for psoriatic arthritis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_073",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Polymorphic vesicular lesions confined to a single dermatome on the chest are",
+    "options": [
+      "Contact dermatitis",
+      "Herpes simplex",
+      "Chickenpox",
+      "Herpes zoster"
+    ],
+    "correct_index": 3,
+    "explanation": "Reactivation of latent varicella-zoster virus in a dorsal root ganglion. Pain often precedes the rash. **Chickenpox** gives lesions in different stages scattered over the whole body — the pleomorphic centripetal rash.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2018 NEET-PG (polymorphic vesicular lesions over single dermatome — herpes zoster, 5X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_074",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A vesicular rash over the hands and feet with oral ulcers in a child indicates",
+    "options": [
+      "Herpes zoster",
+      "Chickenpox",
+      "Hand, foot and mouth disease",
+      "Scabies"
+    ],
+    "correct_index": 2,
+    "explanation": "Coxsackievirus A16 and enterovirus 71 cause it. Lesions are oval and grey-roofed with a surrounding halo on the palms, soles and buttocks. It is self-limiting, and nail shedding may follow weeks later.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vesicular rash over hands and feet — hand foot and mouth disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_075",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "An HIV-positive patient has genital lesions whose histology shows Henderson–Patterson bodies. These are",
+    "options": [
+      "Intranuclear inclusions of herpes simplex",
+      "Intracytoplasmic inclusion bodies of molluscum contagiosum",
+      "Koilocytes of HPV infection",
+      "Acantholytic cells"
+    ],
+    "correct_index": 1,
+    "explanation": "Molluscum is a poxvirus, and poxviruses replicate in the cytoplasm — hence cytoplasmic inclusions. Extensive or giant molluscum in an adult should prompt HIV testing.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (HIV positive with genital lesions, HPE shows Henderson-Peterson bodies — intracytoplasmic inclusion body)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_076",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A child has dome-shaped pearly papules with central umbilication on the forehead. The causative agent is",
+    "options": [
+      "Human papillomavirus",
+      "A poxvirus",
+      "Herpes simplex virus",
+      "Varicella-zoster virus"
+    ],
+    "correct_index": 1,
+    "explanation": "Molluscum contagiosum spreads by direct contact and autoinoculation, and koebnerises along scratch marks. It resolves spontaneously in children; curettage, cryotherapy or topical cantharidin is used when treatment is wanted.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (child with dome shaped pearly lesions with central umbilication — molluscum contagiosum, pox virus, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_077",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Soft, non-tender papular lesions with a rough verrucous surface on the fingers are",
+    "options": [
+      "Lichen nitidus",
+      "Molluscum contagiosum",
+      "Common warts caused by HPV",
+      "Granuloma annulare"
+    ],
+    "correct_index": 2,
+    "explanation": "Thrombosed capillaries appear as black dots, and koilocytes are seen histologically. HPV 1, 2 and 4 cause common and plantar warts; types 6 and 11 cause anogenital warts and types 16 and 18 are oncogenic.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (soft non tender papular lesions on fingers — common warts), 2014 AIIMS (painless cauliflower lesions on dorsum of hands — HPV)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_078",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A Tzanck smear is useful in diagnosing infection by",
+    "options": [
+      "*Malassezia*",
+      "HPV",
+      "Poxvirus",
+      "HHV-1, HHV-2 and HHV-3"
+    ],
+    "correct_index": 3,
+    "explanation": "Herpes simplex 1 and 2 and varicella-zoster all produce multinucleated giant cells with intranuclear inclusions. Tzanck smear also shows acantholytic cells in pemphigus — its other classic use.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (Tzanck smear is used to diagnose HHV 1, 2, 3)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_079",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A child has multiple small target lesions on the palms with lip lesions. The usual trigger is",
+    "options": [
+      "*Mycoplasma pneumoniae* only",
+      "A drug reaction",
+      "Herpes simplex virus type 1",
+      "Streptococcal infection"
+    ],
+    "correct_index": 2,
+    "explanation": "Erythema multiforme is most often post-herpetic, with typical three-zoned target lesions acrally distributed. Drugs more often cause Stevens–Johnson syndrome and toxic epidermal necrolysis, which are distinct entities.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (child with small target lesions on palm and lip lesions — HSV-1, erythema multiforme)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_080",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A maculopapular rash is characteristically seen in all EXCEPT",
+    "options": [
+      "Dengue",
+      "Herpes zoster",
+      "Rubella",
+      "Measles"
+    ],
+    "correct_index": 1,
+    "explanation": "Zoster produces grouped **vesicles** in a dermatome, not a maculopapular exanthem. Dengue, rubella, measles, chikungunya and drug eruptions all produce maculopapular rashes.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (maculopapular rash seen in dengue, rubella, measles, not shingles)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_081",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "A pregnant woman is exposed to varicella and is seronegative. The correct interpretation is",
+    "options": [
+      "She is immune and needs nothing",
+      "She is susceptible and should receive varicella-zoster immunoglobulin",
+      "She should receive the live vaccine immediately",
+      "She should be delivered urgently"
+    ],
+    "correct_index": 1,
+    "explanation": "Live vaccine is contraindicated in pregnancy. Maternal varicella risks congenital varicella syndrome at 13 to 20 weeks and severe neonatal varicella around delivery, as well as maternal pneumonitis.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (pregnant female, contact with varicella, negative serology — she is susceptible to chicken pox)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_082",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Joint pain with mild fever and pigmentation over the tip of the nose after an acute febrile illness suggests",
+    "options": [
+      "A fixed drug eruption",
+      "Dengue",
+      "Chikungunya",
+      "Melasma"
+    ],
+    "correct_index": 2,
+    "explanation": "A characteristic nasal \"chik sign\" of centrofacial hyperpigmentation with prolonged, often disabling arthralgia follows the acute illness. Pigmentation can persist for months.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (joint pain, mild fever, NSAID use, pigmentation on tip of nose — chikungunya)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_083",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Eschar formation is characteristically seen in",
+    "options": [
+      "Enteric fever",
+      "Dengue",
+      "Leptospirosis",
+      "Scrub typhus"
+    ],
+    "correct_index": 3,
+    "explanation": "A painless black necrotic eschar forms at the mite bite, often in a hidden site such as the axilla, groin or under the breast, so it must be searched for deliberately. Doxycycline is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (eschar is found in cases of scrub typhus)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_084",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Shingles in a young adult with no obvious cause should prompt",
+    "options": [
+      "Immediate chemotherapy",
+      "No further investigation",
+      "Consideration of underlying immunosuppression, including HIV testing",
+      "Varicella vaccination during the acute episode"
+    ],
+    "correct_index": 2,
+    "explanation": "Multidermatomal or disseminated zoster, or zoster in a young person, suggests impaired cell-mediated immunity. Ophthalmic involvement with Hutchinson sign needs urgent ophthalmology review.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (herpes zoster in a single dermatome, 5X), 2024 INI-CET (giant molluscum in HIV)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_085",
+    "subject": "Dermatology",
+    "sub_topic": "Viral",
+    "stem": "Post-herpetic neuralgia is best reduced by",
+    "options": [
+      "Topical steroid",
+      "Starting antiviral therapy within 72 hours of rash onset",
+      "Antibiotics",
+      "Delaying antivirals until the rash crusts"
+    ],
+    "correct_index": 1,
+    "explanation": "Early aciclovir, valaciclovir or famciclovir shortens the illness and reduces neuralgia. Established post-herpetic neuralgia is managed with amitriptyline, gabapentinoids or topical lignocaine.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (herpes zoster, 5X), 2024 INI-CET (aciclovir for genital herpes, 2X)",
+    "repeats": 5,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_086",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "A 10-year-old with a family history of allergy has intensely itchy lesions in the antecubital and popliteal fossae. The diagnosis is",
+    "options": [
+      "Allergic contact dermatitis",
+      "Atopic dermatitis",
+      "Psoriasis",
+      "Scabies"
+    ],
+    "correct_index": 1,
+    "explanation": "Flexural involvement in an older child with a personal or family history of atopy is characteristic. Infants instead show cheek and extensor involvement. Itch is the cardinal symptom, and Hanifin–Rajka criteria formalise the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2014 AIIMS (family history of allergy, itchy lesions in cubital fossa — atopic dermatitis, 3X), 2014 AIIMS (child of asthmatic mother with eczema over cheeks)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_087",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "Topical corticosteroids in eczematous dermatitis",
+    "options": [
+      "Should be used only on the face",
+      "Are contraindicated",
+      "Are appropriate first-line treatment, with potency matched to site and severity",
+      "Should always be the most potent available"
+    ],
+    "correct_index": 2,
+    "explanation": "Emollients form the foundation of care. Low-potency agents are used on the face, flexures and in children; topical calcineurin inhibitors are steroid-sparing alternatives for those sites.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (topical steroids can be given in eczematous dermatitis — true)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_088",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "Patch test readings are taken at",
+    "options": [
+      "7 and 14 days",
+      "15 and 30 minutes",
+      "6 and 12 hours",
+      "48 and 96 hours after application"
+    ],
+    "correct_index": 3,
+    "explanation": "Allergic contact dermatitis is a delayed type IV hypersensitivity, so readings are delayed. A **prick** test, which detects immediate IgE-mediated reactions, is read at 15 to 20 minutes.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (patch test reading is done after 48 and 96 hours), 2024 INI-CET (match investigations — allergic contact dermatitis patch test)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_089",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "The plant with white flowers responsible for airborne contact dermatitis in India is",
+    "options": [
+      "*Urtica dioica*",
+      "*Toxicodendron radicans*",
+      "*Parthenium hysterophorus*",
+      "*Calotropis procera*"
+    ],
+    "correct_index": 2,
+    "explanation": "Congress grass causes an airborne pattern affecting exposed sites — face, neck, V of chest and forearms — with a lichenified eczematous appearance. Parthenolide, a sesquiterpene lactone, is the allergen.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (plant with white flowers responsible for ABCD — Parthenium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_090",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "The chemical in hair dye responsible for allergic contact dermatitis is",
+    "options": [
+      "Chromium",
+      "Para-phenylenediamine",
+      "Nickel sulphate",
+      "Formaldehyde"
+    ],
+    "correct_index": 1,
+    "explanation": "It can cause severe facial oedema mimicking angio-oedema. Black henna tattoos contain high concentrations and sensitise children, after which permanent hair dyes become unusable.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (chemical responsible for skin reaction in hair dyes — para phenylene diamine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_091",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "The component of cement causing allergic contact dermatitis in construction workers is",
+    "options": [
+      "Nickel",
+      "Chromium (potassium dichromate)",
+      "Cobalt only",
+      "Latex"
+    ],
+    "correct_index": 1,
+    "explanation": "Hexavalent chromium in cement causes hand eczema in masons. Cement is also alkaline and hygroscopic, so it adds an irritant contact dermatitis; nickel is the commonest contact allergen overall.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (which component of cement causes allergic contact dermatitis — chromium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_092",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "A child scratches the forearm with a pen and a linear red weal appears within minutes. This is",
+    "options": [
+      "The Darier sign",
+      "The Koebner phenomenon",
+      "Dermographism",
+      "The Nikolsky sign"
+    ],
+    "correct_index": 2,
+    "explanation": "A form of physical urticaria from mast cell mediator release on shearing. The **Darier sign** — weal and erythema on rubbing a lesion — indicates mastocytosis, and is the important differential.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (child scratches hand with a pen, red weal appears — dermographism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_093",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "After seafood ingestion a patient develops urticaria. A non-sedating antihistamine to prescribe is",
+    "options": [
+      "Promethazine",
+      "Chlorpheniramine",
+      "Hydroxyzine",
+      "Fexofenadine"
+    ],
+    "correct_index": 3,
+    "explanation": "Second-generation H1 antihistamines — fexofenadine, loratadine, cetirizine, levocetirizine, bilastine — cross the blood–brain barrier poorly. Options B, C and D are sedating first-generation agents.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (seafood intake with urticaria — prescribe a non-sedating drug: fexofenadine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_094",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "Chronic spontaneous urticaria persisting beyond 6 weeks despite standard-dose antihistamine is next managed by",
+    "options": [
+      "Switching to a first-generation antihistamine",
+      "Adding a long-term systemic corticosteroid",
+      "Increasing the second-generation antihistamine up to fourfold",
+      "Starting ciclosporin immediately"
+    ],
+    "correct_index": 2,
+    "explanation": "Omalizumab follows if that fails, then ciclosporin. **Long-term systemic steroids are avoided.** Routine extensive allergy testing is unhelpful, since most chronic spontaneous urticaria is autoimmune rather than allergic.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (non-sedating antihistamine for urticaria), 2018 AIIMS (dermographism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_095",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "Angio-oedema **without** urticaria, unresponsive to antihistamines and adrenaline, suggests",
+    "options": [
+      "Allergic angio-oedema",
+      "Hereditary angio-oedema from C1 inhibitor deficiency, or ACE inhibitor-induced angio-oedema",
+      "Chronic spontaneous urticaria",
+      "Mastocytosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Both are **bradykinin** mediated, so histamine-directed treatment fails. C4 is low in hereditary angio-oedema; C1 inhibitor concentrate, icatibant or fresh frozen plasma is used.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (urticaria management), 2018 AIIMS (physical urticaria)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_096",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "The hallmark distinguishing allergic from irritant contact dermatitis is",
+    "options": [
+      "Irritant dermatitis requires sensitisation",
+      "Allergic dermatitis requires prior sensitisation and spreads beyond the contact site; irritant dermatitis occurs on first exposure and stays localised",
+      "Both require a positive patch test",
+      "Allergic dermatitis is always acute"
+    ],
+    "correct_index": 1,
+    "explanation": "Irritant contact dermatitis is commoner overall and accounts for most occupational hand eczema. Only allergic contact dermatitis gives a positive patch test.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (patch test timing), 2020 INI-CET (chromium in cement)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_097",
+    "subject": "Dermatology",
+    "sub_topic": "Eczema",
+    "stem": "Seborrhoeic dermatitis differs from atopic dermatitis in that it",
+    "options": [
+      "Always begins in adolescence",
+      "Affects the flexures with intense itch",
+      "Affects sebaceous areas with greasy yellow scaling and is associated with *Malassezia*",
+      "Responds only to systemic steroids"
+    ],
+    "correct_index": 2,
+    "explanation": "Scalp, eyebrows, nasolabial folds and presternal area are involved. Treatment is with topical antifungals such as ketoconazole plus mild steroid. Severe seborrhoeic dermatitis should prompt HIV testing.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (atopic dermatitis, 3X), 2022 NEET-PG (*Malassezia furfur*)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_098",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "Flaccid bullae on the skin and oral cavity with acantholytic cells on Tzanck smear indicate",
+    "options": [
+      "Linear IgA disease",
+      "Bullous pemphigoid",
+      "Dermatitis herpetiformis",
+      "Pemphigus vulgaris"
+    ],
+    "correct_index": 3,
+    "explanation": "Flaccid bullae with mucosal involvement and a positive Nikolsky sign are the triad. Autoantibodies target desmoglein 3 (and 1), breaking desmosomal adhesion.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2018 NEET-PG (flaccid bullae with acantholytic cells on Tzanck — pemphigus vulgaris, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_099",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "The level of split in pemphigus vulgaris is",
+    "options": [
+      "Within the stratum corneum",
+      "Subepidermal, at the dermo-epidermal junction",
+      "Suprabasal, within the epidermis",
+      "In the mid-dermis"
+    ],
+    "correct_index": 2,
+    "explanation": "Basal cells remain attached to the basement membrane, giving the classic \"row of tombstones\". A **subepidermal** split characterises bullous pemphigoid, which is why its bullae are tense rather than flaccid.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (split in pemphigus occurs at intraepithelial level), 2023 INI-CET (flaccid bulla with suprabasal blister — assertion-reason)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_100",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "A fish-net or chicken-wire pattern of intercellular IgG on direct immunofluorescence indicates",
+    "options": [
+      "Bullous pemphigoid",
+      "Pemphigus vulgaris",
+      "Dermatitis herpetiformis",
+      "Discoid lupus erythematosus"
+    ],
+    "correct_index": 1,
+    "explanation": "Antibody surrounds each keratinocyte, producing the net-like pattern. **Bullous pemphigoid** shows a linear band of IgG and C3 along the basement membrane instead.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (fish net like pattern on immunofluorescence — pemphigus vulgaris)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_101",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "A 60-year-old has tense bullae on an urticarial base with severe itching and no mucosal involvement. The diagnosis is",
+    "options": [
+      "Pemphigus vulgaris",
+      "Bullous pemphigoid",
+      "Dermatitis herpetiformis",
+      "Epidermolysis bullosa"
+    ],
+    "correct_index": 1,
+    "explanation": "Tense bullae, intense itch, elderly onset and spared mucosae are the discriminators from pemphigus. Autoantibodies target BP180 and BP230 hemidesmosomal antigens, and the prognosis is better than in pemphigus.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (60-year-old with tense bullae on urticarial base and severe itching — bullous pemphigoid, 6X)",
+    "repeats": 6,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_102",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "Dermatitis herpetiformis is characterised by",
+    "options": [
+      "Flaccid bullae with intercellular IgG",
+      "Tense bullae with linear IgG",
+      "Intensely itchy grouped papulovesicles on extensors with gluten sensitivity and granular IgA in the dermal papillae",
+      "Painless nodules on the shins"
+    ],
+    "correct_index": 2,
+    "explanation": "It is the skin expression of coeliac disease. Dapsone gives rapid symptomatic relief, but a **gluten-free diet** is the definitive treatment.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (dermatitis herpetiformis — gluten hypersensitivity, coeliac disease)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_103",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "The transglutaminase involved in the pathogenesis of dermatitis herpetiformis is",
+    "options": [
+      "Factor XIII",
+      "Transglutaminase 2 (tissue)",
+      "Transglutaminase 1",
+      "Transglutaminase 3 (epidermal)"
+    ],
+    "correct_index": 3,
+    "explanation": "Anti-TG3 IgA deposits in the papillary dermis. **Tissue transglutaminase 2** is the target in coeliac enteropathy — so the two conditions share gluten sensitivity but differ in the target enzyme.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (which TTG is involved in pathogenesis of dermatitis herpetiformis — TTG3)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_104",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "Dermatitis herpetiformis is associated with which HLA types?",
+    "options": [
+      "HLA-B51",
+      "HLA-B27",
+      "HLA-DQ2 and DQ8",
+      "HLA-DR4"
+    ],
+    "correct_index": 2,
+    "explanation": "The same haplotypes underlie coeliac disease. HLA-B27 is linked to ankylosing spondylitis, B51 to Behçet disease and DR4 to rheumatoid arthritis.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (dermatitis herpetiformis is associated with HLA DQ2 and DQ8)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_105",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "The Nikolsky sign is",
+    "options": [
+      "Weal and erythema on rubbing a lesion",
+      "Extension of a blister or separation of apparently normal epidermis on lateral shearing pressure",
+      "Pinpoint bleeding on removing a scale",
+      "New lesions at sites of trauma"
+    ],
+    "correct_index": 1,
+    "explanation": "It is positive in pemphigus, toxic epidermal necrolysis and staphylococcal scalded skin syndrome, and **negative** in bullous pemphigoid. Option B is Darier sign, C is Auspitz sign and D is the Koebner phenomenon.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pemphigus vulgaris with acantholytic cells, 2X), 2021 INI-CET (bullous pemphigoid, 6X)",
+    "repeats": 6,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_106",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "First-line treatment of extensive pemphigus vulgaris is",
+    "options": [
+      "Topical steroid alone",
+      "Systemic corticosteroid with a steroid-sparing agent, and rituximab in refractory or severe disease",
+      "Dapsone alone",
+      "Gluten-free diet"
+    ],
+    "correct_index": 1,
+    "explanation": "Azathioprine and mycophenolate are the usual adjuvants; rituximab with steroid is now accepted first-line for moderate to severe disease. Untreated pemphigus was historically fatal from fluid loss and sepsis.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pemphigus vulgaris, 2X), 2014 AIIMS (level of split in pemphigus)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_107",
+    "subject": "Dermatology",
+    "sub_topic": "Bullous",
+    "stem": "Pemphigus foliaceus differs from pemphigus vulgaris in that it",
+    "options": [
+      "Shows subepidermal blistering",
+      "Targets desmoglein 3 with mucosal involvement",
+      "Targets desmoglein 1, spares mucosa and produces a superficial subcorneal split with scaling rather than intact bullae",
+      "Has linear IgA deposition"
+    ],
+    "correct_index": 2,
+    "explanation": "Desmoglein 1 predominates in superficial epidermis and is absent from mucosa, which explains both features. Fogo selvagem is its endemic Brazilian form.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pemphigus vulgaris features, 2X), 2014 AIIMS (intraepithelial split)",
+    "repeats": 2,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_108",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "A 13-year-old obese girl has a black velvety plaque on the neck. The lesion and its association are",
+    "options": [
+      "Confluent and reticulated papillomatosis",
+      "Lichen planus pigmentosus, associated with hepatitis C",
+      "Addisonian pigmentation",
+      "Acanthosis nigricans, associated with insulin resistance"
+    ],
+    "correct_index": 3,
+    "explanation": "Insulin cross-activates IGF-1 receptors on keratinocytes. In a young obese patient it signals metabolic syndrome; **sudden extensive onset in an older adult** suggests internal malignancy, classically gastric adenocarcinoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (13-year-old obese with black velvety plaque — acanthosis nigricans), 2022 NEET-PG (BMI 30 with diabetes and velvety skin — acanthosis nigricans with metabolic syndrome, 2X), 2016 AIIMS (acanthosis nigricans and insulin resistant diabetes)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_109",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Proximal muscle weakness with a facial rash and violaceous papules over the knuckles indicates",
+    "options": [
+      "Psoriatic arthritis",
+      "Systemic lupus erythematosus",
+      "Systemic sclerosis",
+      "Dermatomyositis, with Gottron papules"
+    ],
+    "correct_index": 3,
+    "explanation": "A heliotrope rash, shawl sign, V sign, mechanic's hands and ragged cuticles complete the picture. Adult-onset dermatomyositis warrants a search for underlying malignancy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (proximal muscle weakness, facial rash, papules over knuckles — Gottron papules in dermatomyositis, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_110",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Fever with photosensitivity and a malar rash **sparing** the nasolabial folds indicates",
+    "options": [
+      "Rosacea",
+      "Dermatomyositis",
+      "Seborrhoeic dermatitis",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_index": 3,
+    "explanation": "Nasolabial sparing is the discriminator — seborrhoeic dermatitis and dermatomyositis **involve** the folds. Anti-dsDNA is the most specific antibody and ANA the most sensitive screen.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (fever, photosensitivity, rash sparing nasolabial folds — SLE)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_111",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Discoid lesions with hyperpigmented edges and a red scaly scarred centre on the face indicate",
+    "options": [
+      "Psoriasis",
+      "Tinea faciei",
+      "Sarcoidosis",
+      "Discoid lupus erythematosus"
+    ],
+    "correct_index": 3,
+    "explanation": "Follicular plugging, atrophy and scarring alopecia are characteristic, with carpet-tack scaling. Direct immunofluorescence shows granular IgG and C3 at the basement membrane — a positive lupus band test.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (discoid lesions with hyperpigmented edges and scarred centre — DLE)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_112",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Excessive dermal sclerosis with thick collagen bundles replacing normal adnexal structures, without systemic involvement, is",
+    "options": [
+      "Scleromyxoedema",
+      "Systemic sclerosis",
+      "Lichen sclerosus",
+      "Morphea"
+    ],
+    "correct_index": 3,
+    "explanation": "Localised scleroderma has no Raynaud phenomenon, nailfold capillary change or internal organ involvement. En coup de sabre is the linear facial variant, which can be associated with underlying atrophy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (excessive dermal sclerosis with thick collagen bundles replacing adnexa — morphea)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_113",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Asymptomatic plaques on the side of the neck with no systemic involvement should be investigated by",
+    "options": [
+      "Patch test",
+      "ANA",
+      "Chest radiograph alone",
+      "Skin biopsy"
+    ],
+    "correct_index": 3,
+    "explanation": "Asymptomatic persistent plaques with no clear clinical diagnosis need histology, which distinguishes granuloma annulare, sarcoidosis, morphea, lupus vulgaris and cutaneous lymphoma.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (asymptomatic plaques on side of neck with no systemic involvement — skin biopsy), 2024 INI-CET (match investigations — lupus vulgaris biopsy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_114",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Cutis marmorata occurs due to",
+    "options": [
+      "Iron deficiency",
+      "Vasculitis",
+      "Heat exposure",
+      "Cold exposure causing a physiological reticulate vascular pattern"
+    ],
+    "correct_index": 3,
+    "explanation": "It is common and benign in neonates and resolves on warming. **Cutis marmorata telangiectatica congenita** is the persistent congenital vascular malformation, and livedo reticularis the pathological form seen in antiphospholipid syndrome and vasculitis.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (cutis marmorata occurs due to cold)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_115",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Criteria for neurofibromatosis type 1 include all EXCEPT",
+    "options": [
+      "Lisch nodules of the iris",
+      "Six or more café-au-lait macules",
+      "Axillary or inguinal freckling",
+      "Bilateral eighth nerve tumours"
+    ],
+    "correct_index": 3,
+    "explanation": "Bilateral vestibular schwannomas define **NF-2**. NF-1 criteria also include two or more neurofibromas, optic glioma, a distinctive bony lesion and an affected first-degree relative. NF-1 is autosomal dominant.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (criteria of NF-1 does not include bilateral 8th nerve tumour), 2019 NEET-PG (pattern of inheritance of NF-1 — autosomal dominant)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_116",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Xanthoma disseminatum is associated with",
+    "options": [
+      "Addison disease",
+      "Diabetes mellitus",
+      "Hypothyroidism",
+      "Diabetes insipidus"
+    ],
+    "correct_index": 3,
+    "explanation": "It is a normolipaemic non-Langerhans cell histiocytosis, with mucocutaneous xanthomatous papules and pituitary infiltration causing diabetes insipidus in up to 40% of patients.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (xanthoma disseminatum is associated with diabetes insipidus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_117",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "The dermatological signs of mitochondrial disorders include",
+    "options": [
+      "Ash-leaf macules with shagreen patch",
+      "Café-au-lait macules with axillary freckling",
+      "Port-wine stain in a trigeminal distribution",
+      "Bilateral symmetrical lipomatosis, acrocyanosis and acroparaesthesia"
+    ],
+    "correct_index": 3,
+    "explanation": "Hypertrichosis, vitiligo and alopecia also occur. Option B is NF-1, option C Sturge–Weber syndrome and option D tuberous sclerosis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (dermatological signs of mitochondrial disorders — bilateral symmetric lipomatosis, acrocyanosis)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_118",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Wound healing is delayed in all of the following EXCEPT",
+    "options": [
+      "Smoking",
+      "Cutis laxa and Ehlers–Danlos syndrome",
+      "Prior radiation",
+      "Youth with good nutrition"
+    ],
+    "correct_index": 3,
+    "explanation": "Collagen disorders, radiation-induced vascular damage and smoking-induced vasoconstriction and hypoxia all impair healing. Diabetes, steroids, malnutrition, zinc and vitamin C deficiency and infection do the same.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (wound healing is delayed in cutis laxa, radiation, smoking, Ehlers Danlos syndrome)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_119",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Erythema nodosum presents as",
+    "options": [
+      "Annular plaques with central clearing",
+      "Painless ulcers on the shins",
+      "Pustules on the face",
+      "Tender erythematous nodules on the shins, reflecting septal panniculitis, with streptococcal infection, tuberculosis, sarcoidosis and drugs as causes"
+    ],
+    "correct_index": 3,
+    "explanation": "Lesions never ulcerate and heal without scarring — a useful discriminator from erythema induratum, which is a lobular panniculitis of tuberculous origin that does ulcerate.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (type 2 leprosy reaction — erythema nodosum leprosum), 2024 INI-CET (match investigations — lupus vulgaris)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_120",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Pyoderma gangrenosum is most strongly associated with",
+    "options": [
+      "Pregnancy",
+      "Diabetes mellitus only",
+      "Hypothyroidism",
+      "Inflammatory bowel disease, rheumatoid arthritis and haematological malignancy"
+    ],
+    "correct_index": 3,
+    "explanation": "A rapidly enlarging ulcer with an undermined violaceous border is characteristic. It shows **pathergy** — worsening with trauma — so debridement is harmful; immunosuppression is the treatment.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (asymptomatic plaques needing skin biopsy), 2018 AIIMS (delayed wound healing)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_121",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "A well-demarcated patch of hair loss with no erythema, scaling or itching is",
+    "options": [
+      "Discoid lupus erythematosus",
+      "Tinea capitis",
+      "Trichotillomania",
+      "Alopecia areata"
+    ],
+    "correct_index": 3,
+    "explanation": "Exclamation-mark hairs at the margin and nail pitting support it. It is a non-scarring autoimmune alopecia. Scaling and itching would indicate tinea; scarring with follicular loss would indicate DLE or lichen planopilaris.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (well demarcated patch of hair loss without erythema or scaling — alopecia areata), 2014 AIIMS (patchy loss of hair with no erythema or itching — alopecia areata)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_122",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Causes of **non-scarring** alopecia include",
+    "options": [
+      "Kerion and folliculitis decalvans",
+      "Discoid lupus erythematosus and lichen planopilaris",
+      "Sarcoidosis and morphea",
+      "Alopecia areata, telogen effluvium, anagen effluvium and androgenetic alopecia"
+    ],
+    "correct_index": 3,
+    "explanation": "Follicular openings are preserved, so regrowth is possible. **Scarring** alopecia from lichen planus, DLE, sarcoidosis, tinea with kerion and folliculitis decalvans destroys the follicle permanently.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (causes of non-scarring alopecia, 3X), 2018 AIIMS (scarring alopecia seen in lichen planus, tinea, DLE, sarcoidosis)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_123",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Heavy diffuse hair loss beginning about 3 months after a severe illness such as COVID-19 is",
+    "options": [
+      "Androgenetic alopecia",
+      "Anagen effluvium",
+      "Alopecia areata",
+      "Telogen effluvium"
+    ],
+    "correct_index": 3,
+    "explanation": "A systemic insult pushes follicles synchronously into telogen, and shedding appears 2 to 4 months later. It is self-limiting with full regrowth. **Anagen** effluvium follows chemotherapy within days to weeks.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (heavy hair loss with history of COVID-19 eight months back — telogen effluvium)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_124",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "A middle-aged woman has papules and pustules on the face. The treatment that must be **avoided** is",
+    "options": [
+      "Oral doxycycline",
+      "Topical adapalene",
+      "Topical benzoyl peroxide",
+      "Topical fluocinolone"
+    ],
+    "correct_index": 3,
+    "explanation": "Potent topical steroids cause steroid-induced acne and rosacea, with telangiectasia and atrophy, and a severe rebound on withdrawal. Topical steroid abuse on the face is a major problem in India.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (papules and pustules on face — topical fluocinolone not to be given, 3X)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_125",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "The drug of choice for predominantly papular inflammatory acne is",
+    "options": [
+      "Oral metronidazole",
+      "Topical steroid",
+      "Oral isotretinoin as first line",
+      "Systemic doxycycline with a topical retinoid"
+    ],
+    "correct_index": 3,
+    "explanation": "Tetracyclines act on *Cutibacterium acnes* and are anti-inflammatory. Isotretinoin is reserved for nodulocystic, scarring or refractory acne because of its teratogenicity and monitoring requirements.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (drug to be given in papular acne — systemic doxycycline)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_126",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "A woman with acne not responding to isotretinoin and antibiotics should be",
+    "options": [
+      "Started on oral metronidazole",
+      "Given a stronger topical steroid",
+      "Reassured and observed",
+      "Evaluated for hyperandrogenism"
+    ],
+    "correct_index": 3,
+    "explanation": "Treatment-resistant acne with hirsutism, irregular cycles or virilisation suggests polycystic ovary syndrome, congenital adrenal hyperplasia or an androgen-secreting tumour. Testosterone, DHEAS and ultrasound are the investigations.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (female with acne not resolving with isotretinoin or antibiotics — evaluate for hyperandrogenism)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_127",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "The most important adverse effect of 13-cis-retinoic acid is",
+    "options": [
+      "Agranulocytosis",
+      "Nephrotoxicity",
+      "Ototoxicity",
+      "Teratogenicity"
+    ],
+    "correct_index": 3,
+    "explanation": "Isotretinoin causes craniofacial, cardiac and CNS malformations. Contraception is mandatory during and after treatment, and dryness, hyperlipidaemia, raised transaminases and myalgia are the other effects.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (side effect of 13 cis retinoic acid — teratogenic)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_128",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "The recommended period of contraception after stopping isotretinoin is",
+    "options": [
+      "No contraception is needed",
+      "1 week",
+      "2 years",
+      "1 month, with 3 months commonly advised in practice"
+    ],
+    "correct_index": 3,
+    "explanation": "Isotretinoin is cleared within weeks, so the licensed interval is one month; many Indian sources and the past papers quote three months. **Acitretin** requires three years because of conversion to etretinate.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (ideal period of contraception advisable after treatment with isotretinoin — 3 months)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_129",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Apocrine sweat glands are present in",
+    "options": [
+      "The forehead only",
+      "The palms and soles",
+      "All skin uniformly",
+      "The axilla, areola and anogenital region"
+    ],
+    "correct_index": 3,
+    "explanation": "They open into hair follicles and become active at puberty, producing body odour after bacterial action. Eccrine glands are distributed over the whole body and are densest on palms and soles.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (apocrine sweat glands are present in axilla)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_130",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Microscopic glands producing sebum and opening into the hair follicle are",
+    "options": [
+      "Sebaceous glands, forming the pilosebaceous unit",
+      "Eccrine glands",
+      "Apocrine glands",
+      "Ceruminous glands"
+    ],
+    "correct_index": 0,
+    "explanation": "They are holocrine — the whole cell disintegrates to release sebum — and androgen-dependent, which is why acne begins at puberty. They are absent from palms and soles.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (microscopic glands in skin producing sebum associated with hair — sebaceous glands)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_131",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Finger paronychia with an extensive linear weal-like pattern up the upper limb is treated with",
+    "options": [
+      "Amoxicillin-clavulanate",
+      "Topical antifungal",
+      "Oral aciclovir",
+      "Topical steroid"
+    ],
+    "correct_index": 0,
+    "explanation": "Acute bacterial paronychia with ascending lymphangitis needs systemic antibiotic cover for *Staphylococcus aureus* and streptococci. **Chronic** paronychia in a wet worker is usually candidal and irritant.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (finger paronychia with linear weal like pattern on upper limb — amoxiclav)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_132",
+    "subject": "Dermatology",
+    "sub_topic": "Appendageal",
+    "stem": "Androgenetic alopecia in a woman is treated with",
+    "options": [
+      "Topical minoxidil, with an antiandrogen such as spironolactone where indicated",
+      "Oral finasteride as first line in all women",
+      "Topical steroid",
+      "Griseofulvin"
+    ],
+    "correct_index": 0,
+    "explanation": "Minoxidil prolongs anagen. Finasteride, a 5-alpha reductase inhibitor, is standard in men but is teratogenic and used in women only with contraception. Female pattern loss spares the frontal hairline with central widening.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (non-scarring alopecia causes, 3X), 2020 NEET-PG (telogen effluvium)",
+    "repeats": 3,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_133",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Unilateral depigmented lesions not crossing the midline, with leukotrichia, indicate",
+    "options": [
+      "Segmental vitiligo",
+      "Generalised vitiligo",
+      "Pityriasis versicolor",
+      "Naevus depigmentosus"
+    ],
+    "correct_index": 0,
+    "explanation": "It follows a dermatomal or blaschkoid distribution, appears early, progresses briefly then stabilises, and often shows leukotrichia. Because it is the **stable** form, it is the variant best suited to surgical grafting.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (unilateral depigmented lesions not crossing midline with leukotrichia — segmental vitiligo), 2022 INI-CET (which type of vitiligo is considered stable — segmental), 2018 NEET-PG (depigmentation along a dermatome — segmental vitiligo)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_134",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Vitiligo under Wood's lamp shows",
+    "options": [
+      "Bright blue-white chalky fluorescence with sharply demarcated margins",
+      "Coral red fluorescence",
+      "Golden yellow fluorescence",
+      "No change from surrounding skin"
+    ],
+    "correct_index": 0,
+    "explanation": "Wood's lamp accentuates depigmentation, revealing subclinical lesions and separating true depigmentation from the **hypo**pigmentation of pityriasis versicolor, leprosy and post-inflammatory change.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match Wood's lamp findings), 2024 INI-CET (segmental vitiligo)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_135",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Localised depigmentation at the site of bindi application is",
+    "options": [
+      "Contact leukoderma",
+      "Segmental vitiligo",
+      "Post-inflammatory hypopigmentation",
+      "Naevus anaemicus"
+    ],
+    "correct_index": 0,
+    "explanation": "Para-tertiary butylphenol in bindi adhesive is melanocytotoxic. Footwear and rubber chemicals cause the same on the feet. Confetti-like macules at the margin and a clear contact history distinguish it from vitiligo.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (localised depigmentation in area of application of bindi — contact leukoderma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_136",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Melanin is synthesised from",
+    "options": [
+      "Tyrosine, by tyrosinase within melanosomes",
+      "Tryptophan",
+      "Phenylalanine directly",
+      "Histidine"
+    ],
+    "correct_index": 0,
+    "explanation": "Tyrosinase is copper-dependent and the rate-limiting enzyme; its absence causes oculocutaneous albinism type 1. Melanosomes are transferred from melanocytes to keratinocytes, and racial differences reflect melanosome size and distribution, not melanocyte number.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (melanin is formed from tyrosine)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_137",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "A 20-year-old man has a brown hyperpigmented hairy patch over the shoulder. The diagnosis is",
+    "options": [
+      "Becker naevus",
+      "Congenital melanocytic naevus",
+      "Café-au-lait macule",
+      "Naevus of Ito"
+    ],
+    "correct_index": 0,
+    "explanation": "It is an androgen-dependent hamartoma appearing around puberty in males, usually on the shoulder or upper trunk, with hypertrichosis developing later. It is benign and needs no treatment.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (brown hyperpigmented and hairy patch over the shoulder — Becker nevus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_138",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "A congenital melanocytic naevus is important because it can give rise to",
+    "options": [
+      "Malignant melanoma",
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma",
+      "Dermatofibrosarcoma"
+    ],
+    "correct_index": 0,
+    "explanation": "Risk rises with size, and giant naevi above 20 cm carry the greatest risk, with neurocutaneous melanosis as an additional concern. Serial photography and excision of suspicious areas are used.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (congenital melanocytic nevi can lead to development of malignant melanoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_139",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Patchy depigmentation of the skin is characteristically seen in",
+    "options": [
+      "Vitiligo",
+      "Melasma",
+      "Acanthosis nigricans",
+      "Becker naevus"
+    ],
+    "correct_index": 0,
+    "explanation": "Complete loss of melanocytes gives chalk-white macules with convex borders at sites of friction and periorificially. Associations include autoimmune thyroid disease, pernicious anaemia, alopecia areata and type 1 diabetes.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (patchy depigmentation of skin seen in vitiligo)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_140",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "First-line treatment for limited, actively spreading vitiligo is",
+    "options": [
+      "A topical corticosteroid or calcineurin inhibitor, with narrowband UVB for extensive disease",
+      "Surgical grafting immediately",
+      "Oral isotretinoin",
+      "Topical antifungal"
+    ],
+    "correct_index": 0,
+    "explanation": "Calcineurin inhibitors suit the face and eyelids. Surgery is reserved for **stable** disease, which is why identifying segmental vitiligo matters. Photoprotection and screening for associated autoimmunity complete management.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (stable vitiligo — segmental), 2024 INI-CET (segmental vitiligo)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_141",
+    "subject": "Dermatology",
+    "sub_topic": "Pigmentary",
+    "stem": "Melasma is best managed by",
+    "options": [
+      "Rigorous photoprotection with topical hydroquinone, tretinoin and a steroid in combination",
+      "Topical steroid alone long-term",
+      "Oral isotretinoin",
+      "Cryotherapy"
+    ],
+    "correct_index": 0,
+    "explanation": "Ultraviolet exposure drives it, so sunscreen is essential or any treatment fails. Pregnancy and oral contraceptives are the usual triggers. Prolonged hydroquinone risks exogenous ochronosis.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (melanin synthesis), 2016 AIIMS (hyperpigmented patch)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_142",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "A patient has rash over more than 30% of the body surface with haemorrhagic crusting of the lips and skin detachment. The cause and diagnosis are",
+    "options": [
+      "Drugs; toxic epidermal necrolysis",
+      "Infection; staphylococcal scalded skin syndrome",
+      "Autoimmune; pemphigus vulgaris",
+      "Viral; erythema multiforme"
+    ],
+    "correct_index": 0,
+    "explanation": "Detachment above 30% defines TEN, under 10% Stevens–Johnson syndrome, and 10 to 30% the overlap. Sulfonamides, antiepileptics, allopurinol and nevirapine are the usual culprits; the drug is stopped and supportive care given.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (rashes in >30% skin area with haemorrhagic crusting of lips — drugs causing TEN)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_143",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "The side effects of topical corticosteroids include",
+    "options": [
+      "Atrophy, striae, telangiectasia, hypertrichosis and steroid acne",
+      "Hyperpigmentation with scarring only",
+      "Photosensitivity alone",
+      "No local effects"
+    ],
+    "correct_index": 0,
+    "explanation": "Tachyphylaxis, perioral dermatitis, tinea incognito and hypothalamic-pituitary-adrenal suppression with extensive use complete the list. Facial and flexural skin is most vulnerable.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (side effects of topical steroids — hypertrichosis, atrophy, acne)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_144",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "Stevens–Johnson syndrome is distinguished from erythema multiforme major by",
+    "options": [
+      "Extensive mucosal involvement with epidermal detachment and a drug rather than infective trigger",
+      "Target lesions on the extremities",
+      "A preceding herpes infection",
+      "Absence of mucosal lesions"
+    ],
+    "correct_index": 0,
+    "explanation": "Erythema multiforme is acral with typical three-zoned targets and is usually post-herpetic. SJS and TEN are now regarded as a single drug-induced spectrum distinct from erythema multiforme.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (TEN from drugs), 2021 INI-CET (erythema multiforme from HSV-1)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_145",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "A fixed drug eruption is characterised by",
+    "options": [
+      "A well-defined round dusky plaque recurring at the **same** site on re-exposure, leaving residual hyperpigmentation",
+      "A widespread morbilliform rash",
+      "Urticarial weals lasting minutes",
+      "Pustules in flexures"
+    ],
+    "correct_index": 0,
+    "explanation": "Site fixity is diagnostic. Sulfonamides, tetracyclines, NSAIDs and paracetamol are common causes, and the genitalia and lips are favoured sites.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (NSAID use with pigmentation), 2021 INI-CET (drug-induced TEN)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_146",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "DRESS syndrome is characterised by",
+    "options": [
+      "Fever, widespread rash, facial oedema, eosinophilia and visceral involvement 2 to 8 weeks after starting a drug",
+      "Onset within hours of a drug",
+      "Absence of systemic features",
+      "Neutrophilia with pustules"
+    ],
+    "correct_index": 0,
+    "explanation": "The long latency is characteristic and often causes the drug link to be missed. Antiepileptics, allopurinol, sulfonamides and vancomycin are the usual causes, with HHV-6 reactivation implicated; hepatitis drives mortality.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (TEN from drugs), 2024 INI-CET (topical steroid adverse effects)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_147",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "Acute generalised exanthematous pustulosis differs from pustular psoriasis in that it",
+    "options": [
+      "Follows a drug within days and resolves rapidly on withdrawal, with no psoriasis history",
+      "Is precipitated by steroid withdrawal",
+      "Has a chronic relapsing course",
+      "Shows Munro microabscesses only"
+    ],
+    "correct_index": 0,
+    "explanation": "Beta-lactams and macrolides are typical triggers. Pustular psoriasis instead has a personal or family history of psoriasis and is classically precipitated by **systemic steroid withdrawal**.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (acute generalised pustular psoriasis after steroid withdrawal), 2021 INI-CET (drug-induced TEN)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_148",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "The commonest morphological pattern of cutaneous adverse drug reaction is",
+    "options": [
+      "A maculopapular (morbilliform) exanthem",
+      "Toxic epidermal necrolysis",
+      "A fixed drug eruption",
+      "Pustular eruption"
+    ],
+    "correct_index": 0,
+    "explanation": "It appears 4 to 14 days after the drug starts and resolves on withdrawal. Mucosal involvement, skin tenderness, blistering, facial oedema, fever or organ dysfunction are the warning signs of a severe reaction.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (maculopapular rash causes), 2021 INI-CET (TEN from drugs)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_149",
+    "subject": "Dermatology",
+    "sub_topic": "Drug Reactions",
+    "stem": "The drug class most often implicated in both Stevens–Johnson syndrome and DRESS is",
+    "options": [
+      "Aromatic antiepileptics, sulfonamides and allopurinol",
+      "Penicillins alone",
+      "Beta blockers",
+      "Proton pump inhibitors"
+    ],
+    "correct_index": 0,
+    "explanation": "HLA associations are strong: HLA-B*15:02 with carbamazepine-induced SJS in South-East Asian populations and HLA-B*58:01 with allopurinol reactions, which is why pre-treatment genotyping is used in some settings.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (TEN caused by drugs), 2024 INI-CET (drug reaction patterns)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_150",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "The layer of epidermis with the greatest number of desmosomes is the",
+    "options": [
+      "Stratum spinosum",
+      "Stratum basale",
+      "Stratum granulosum",
+      "Stratum corneum"
+    ],
+    "correct_index": 0,
+    "explanation": "Abundant desmosomes give the prickle-cell appearance that names the layer. Pemphigus antibodies target desmoglein in these desmosomes, which is why the split is suprabasal.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (maximum desmosomes are seen in stratum spinosum)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_151",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "Tight junctions in the epidermis are located on the",
+    "options": [
+      "Apicolateral aspect of granular layer cells",
+      "Basal aspect of basal cells",
+      "Surface of corneocytes",
+      "Dermal side of the basement membrane"
+    ],
+    "correct_index": 0,
+    "explanation": "They form the paracellular permeability barrier, complementing the lipid barrier of the stratum corneum. Claudins and occludins are their main proteins.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tight junctions are present on apicolateral side of cell)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_152",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "Lines on the skin representing the natural orientation of collagen fibres are",
+    "options": [
+      "Langer lines",
+      "Blaschko lines",
+      "Voigt lines",
+      "Pigmentary demarcation lines"
+    ],
+    "correct_index": 0,
+    "explanation": "Incisions along them heal with the least tension and best scars. **Blaschko lines** follow embryonic ectodermal migration and are the pattern followed by linear naevoid and mosaic disorders.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (lines on skin representing natural orientation of collagen fibres — Langer lines)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_153",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "Meissner corpuscles are found in the",
+    "options": [
+      "Papillary dermis",
+      "Reticular dermis",
+      "Subcutaneous fat",
+      "Stratum granulosum"
+    ],
+    "correct_index": 0,
+    "explanation": "They mediate light touch and are concentrated in glabrous skin. **Pacinian** corpuscles sense vibration and lie deeper, in the reticular dermis and subcutis.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Meissner's corpuscles are found in papillary dermis)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_154",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "Langerhans cells are reduced or absent in",
+    "options": [
+      "Sarcoidosis and basal cell carcinoma",
+      "Psoriasis and lichen planus",
+      "Atopic dermatitis",
+      "Vitiligo"
+    ],
+    "correct_index": 0,
+    "explanation": "Langerhans cells are the epidermal antigen-presenting dendritic cells, derived from bone marrow and marked by CD1a and S100, with Birbeck granules on electron microscopy.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (Langerhans cells in skin are reduced or absent in sarcoidosis and BCC)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_155",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "Which statement about skin structure is TRUE?",
+    "options": [
+      "The epidermis can regenerate, and the stratum corneum is its outermost layer",
+      "The epidermis cannot regenerate",
+      "The stratum lucidum is the outermost layer in all skin",
+      "The epidermis contains blood vessels"
+    ],
+    "correct_index": 0,
+    "explanation": "The epidermis is avascular and nourished by diffusion from dermal vessels, which is why full-thickness loss will not re-epithelialise from the base. Stratum lucidum is present only in palmoplantar skin.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match the following true/false — epidermis can regenerate, stratum corneum is outermost)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_156",
+    "subject": "Dermatology",
+    "sub_topic": "Basics",
+    "stem": "The predominant collagen in normal adult dermis is",
+    "options": [
+      "Type I, which makes up about 80 to 85%, with type III forming most of the remainder",
+      "Type III in a 3:2 ratio to type I",
+      "Type IV",
+      "Type VII"
+    ],
+    "correct_index": 0,
+    "explanation": "Type III predominates in fetal skin and early wounds. Type IV is in the basement membrane and is the target in Alport syndrome, and type VII forms anchoring fibrils, defective in dystrophic epidermolysis bullosa.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (ratio of collagen type 1 and type 2 in dermis is 3:2 — false)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_157",
+    "subject": "Dermatology",
+    "sub_topic": "Bacterial",
+    "stem": "A diabetic woman has bilateral brown pigmentation in the axillae and groin. Wood's lamp shows coral-pink fluorescence. The diagnosis and treatment are",
+    "options": [
+      "Erythrasma from *Corynebacterium minutissimum*; topical or oral erythromycin",
+      "Pityriasis versicolor; topical ketoconazole",
+      "Acanthosis nigricans; metformin",
+      "Tinea cruris; terbinafine"
+    ],
+    "correct_index": 0,
+    "explanation": "Porphyrin production gives the coral-red fluorescence. It is commoner in diabetics and the obese, and the velvety flexural brown patches are often mistaken for a fungal infection or acanthosis nigricans.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (diabetic female with brown pigmentation in axilla and groin, Wood's lamp coral pink — erythrasma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_158",
+    "subject": "Dermatology",
+    "sub_topic": "Bacterial",
+    "stem": "Fever with a rash showing purpuric angulated margins indicates",
+    "options": [
+      "Meningococcaemia",
+      "Dengue",
+      "Measles",
+      "Scarlet fever"
+    ],
+    "correct_index": 0,
+    "explanation": "Angulated or \"gun-metal\" purpuric lesions reflect septic vasculitis with thrombosis. It is a medical emergency; blood cultures are taken and ceftriaxone given immediately, with chemoprophylaxis for contacts.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (fever with rash with purpuric angulated margins — meningococcaemia)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_159",
+    "subject": "Dermatology",
+    "sub_topic": "Parasitic",
+    "stem": "Pruritus of the interdigital clefts of the hands with visible burrows, worse at night, is caused by",
+    "options": [
+      "*Sarcoptes scabiei* var. *hominis*",
+      "*Pediculus humanus*",
+      "*Demodex folliculorum*",
+      "*Cimex lectularius*"
+    ],
+    "correct_index": 0,
+    "explanation": "Nocturnal itch with burrows in the finger webs, wrists, axillae and genitalia, and itching in close contacts, is characteristic. The mite has **four pairs of legs**, confirming it as an arachnid rather than an insect.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (pruritus of interdigital clefts with burrows — *Sarcoptes scabiei*), 2018 NEET-PG (arthropod with 4 pairs of legs — *Sarcoptes scabiei* var *hominis*)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_160",
+    "subject": "Dermatology",
+    "sub_topic": "Parasitic",
+    "stem": "Scabies in an infant is treated with",
+    "options": [
+      "5% permethrin, or 10% benzyl benzoate diluted for infants",
+      "25% benzyl benzoate undiluted",
+      "Oral ivermectin as first choice",
+      "Lindane"
+    ],
+    "correct_index": 0,
+    "explanation": "Permethrin is the safest agent in infancy. The scalp and face must be treated in infants, unlike adults. All household contacts are treated simultaneously, and ivermectin is avoided under 15 kg.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (scabies treatment in infants includes 5% permethrin, 25% benzyl benzoate)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_161",
+    "subject": "Dermatology",
+    "sub_topic": "Parasitic",
+    "stem": "Post-scabetic itch persisting 2 weeks after adequate treatment is managed by",
+    "options": [
+      "Emollients and antihistamines, with reassurance, rather than repeating the scabicide",
+      "Repeating permethrin weekly for a month",
+      "Oral steroids for 6 weeks",
+      "Switching to lindane"
+    ],
+    "correct_index": 0,
+    "explanation": "Itch is a hypersensitivity response to retained mite antigen and can persist for 2 to 4 weeks after cure. Repeated application causes irritant dermatitis, which is then mistaken for treatment failure.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (scabies treatment in infants), 2016 AIIMS (scabies burrows)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_162",
+    "subject": "Dermatology",
+    "sub_topic": "Bacterial",
+    "stem": "Impetigo contagiosa is characterised by",
+    "options": [
+      "Honey-coloured crusted erosions, caused by *Staphylococcus aureus* and group A *Streptococcus*",
+      "Deep punched-out ulcers",
+      "Annular scaly plaques",
+      "Grouped vesicles in a dermatome"
+    ],
+    "correct_index": 0,
+    "explanation": "Topical mupirocin suffices for limited disease and oral antibiotics for extensive involvement. Post-streptococcal glomerulonephritis can follow streptococcal impetigo, though rheumatic fever does not.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (meningococcaemia rash), 2018 NEET-PG (paronychia treated with amoxiclav)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_163",
+    "subject": "Dermatology",
+    "sub_topic": "Bacterial",
+    "stem": "Staphylococcal scalded skin syndrome differs from toxic epidermal necrolysis in that it",
+    "options": [
+      "Spares the mucosae and splits at the granular layer, affecting young children",
+      "Involves mucosae extensively",
+      "Splits at the dermo-epidermal junction",
+      "Is caused by drugs"
+    ],
+    "correct_index": 0,
+    "explanation": "Exfoliative toxin cleaves desmoglein 1, giving a superficial split. The outlook is good with antistaphylococcal antibiotics, whereas TEN splits at the dermo-epidermal junction with mucosal involvement and high mortality.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (TEN with >30% skin involvement), 2014 AIIMS (level of split in pemphigus)",
+    "repeats": 1,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "derm_q_164",
+    "subject": "Dermatology",
+    "sub_topic": "Bacterial",
+    "stem": "Cutaneous tuberculosis presenting as a slowly expanding plaque with an apple-jelly nodule on diascopy is",
+    "options": [
+      "Lupus vulgaris",
+      "Scrofuloderma",
+      "Tuberculosis verrucosa cutis",
+      "Erythema induratum"
+    ],
+    "correct_index": 0,
+    "explanation": "It is the commonest form of cutaneous tuberculosis in India, occurring in a sensitised host with few bacilli, so biopsy showing tuberculoid granulomas is the diagnostic step. Scrofuloderma arises from an underlying node or bone.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match investigations — lupus vulgaris biopsy), 2020 INI-CET (asymptomatic plaques needing biopsy)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_165",
+    "subject": "Dermatology",
+    "sub_topic": "Nutrition",
+    "stem": "A patient with maize as a dietary staple has diarrhoea, dementia and a photosensitive rash on the neck. The deficiency is of",
+    "options": [
+      "Niacin, with tryptophan as its precursor amino acid",
+      "Thiamine",
+      "Riboflavin",
+      "Vitamin A"
+    ],
+    "correct_index": 0,
+    "explanation": "Pellagra gives the three Ds — dermatitis, diarrhoea, dementia — and death if untreated. Maize contains bound niacin and little tryptophan. Casal necklace is the collar-like photosensitive rash.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (maize in diet with diarrhoea, dementia, neck lesions — niacin deficiency/pellagra, 2X), 2020 INI-CET (alcoholic with diarrhoea and Casal necklace — tryptophan deficiency)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_166",
+    "subject": "Dermatology",
+    "sub_topic": "Nutrition",
+    "stem": "Rough keratotic follicular papules over the elbows and knees with impaired night vision indicate",
+    "options": [
+      "Phrynoderma from vitamin A deficiency",
+      "Keratosis pilaris",
+      "Lichen nitidus",
+      "Pellagra"
+    ],
+    "correct_index": 0,
+    "explanation": "Toad skin. Night blindness is the earliest ocular symptom, followed by conjunctival xerosis, Bitot spots, corneal xerosis and keratomalacia. Vitamin A supplementation reverses the early changes.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (rough keratotic lesions over elbow and knee with night vision problem — phrynoderma, vitamin A deficiency), 2020 NEET-PG (Bitot spots — vitamin A deficiency)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_167",
+    "subject": "Dermatology",
+    "sub_topic": "Nutrition",
+    "stem": "Perioral and acral erosive dermatitis with diarrhoea and alopecia in an infant weaned from breast milk suggests",
+    "options": [
+      "Acrodermatitis enteropathica from zinc deficiency",
+      "Pellagra",
+      "Atopic dermatitis",
+      "Scabies"
+    ],
+    "correct_index": 0,
+    "explanation": "It is an autosomal recessive defect of the SLC39A4 zinc transporter, presenting after weaning because breast milk contains a zinc-binding ligand. Oral zinc produces dramatic improvement within days.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pellagra), 2018 NEET-PG (phrynoderma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_168",
+    "subject": "Dermatology",
+    "sub_topic": "Malignancy",
+    "stem": "An ulcerated nodule on the nasolabial fold with beaded, rolled-out margins in a 60-year-old is",
+    "options": [
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma",
+      "Keratoacanthoma",
+      "Melanoma"
+    ],
+    "correct_index": 0,
+    "explanation": "A rodent ulcer with a pearly rolled border and surface telangiectasia on sun-exposed facial skin. It invades locally but almost never metastasises. Mohs micrographic surgery is used at sites where margin control matters.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG / 2020 INI-CET (ulcerated nodule on nasolabial fold with beaded rolled out margins — basal cell carcinoma, 2X)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_169",
+    "subject": "Dermatology",
+    "sub_topic": "Malignancy",
+    "stem": "Squamous cell carcinoma of the skin differs from basal cell carcinoma in that it",
+    "options": [
+      "Arises in sun-damaged skin, scars and chronic ulcers, and can metastasise to regional nodes",
+      "Never metastasises",
+      "Shows a pearly rolled border",
+      "Occurs only in young people"
+    ],
+    "correct_index": 0,
+    "explanation": "Marjolin ulcer is squamous carcinoma arising in a chronic scar or burn. Actinic keratosis and Bowen disease are its in-situ precursors, and the lip and ear carry the highest metastatic risk.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (basal cell carcinoma, 2X), 2020 NEET-PG (congenital melanocytic nevi and melanoma)",
+    "repeats": 2,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_170",
+    "subject": "Dermatology",
+    "sub_topic": "Malignancy",
+    "stem": "The ABCDE rule for suspected melanoma stands for",
+    "options": [
+      "Asymmetry, border irregularity, colour variation, diameter above 6 mm, and evolution",
+      "Age, bleeding, crusting, depth, erythema",
+      "Asymmetry, bleeding, colour, depth, elevation",
+      "Appearance, border, crust, diameter, erosion"
+    ],
+    "correct_index": 0,
+    "explanation": "Breslow thickness is the single most important prognostic factor. **Acral lentiginous** melanoma is the commonest subtype in Indian and other darker-skinned populations, often on the sole and diagnosed late.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (congenital melanocytic nevi leading to malignant melanoma)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_171",
+    "subject": "Dermatology",
+    "sub_topic": "Nutrition",
+    "stem": "Bitot spots are",
+    "options": [
+      "Triangular foamy conjunctival patches of keratinised epithelium in vitamin A deficiency",
+      "Retinal haemorrhages with pale centres",
+      "Corneal deposits in Wilson disease",
+      "Iris nodules in neurofibromatosis"
+    ],
+    "correct_index": 0,
+    "explanation": "They are usually temporal and bilateral, and reverse with supplementation. Keratomalacia, by contrast, causes irreversible corneal melting and blindness.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (Bitot spots are seen in vitamin A deficiency)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  },
+  {
+    "id": "derm_q_172",
+    "subject": "Dermatology",
+    "sub_topic": "Systemic",
+    "stem": "Pattern of inheritance of neurofibromatosis type 1 is",
+    "options": [
+      "Autosomal dominant, with the *NF1* gene on chromosome 17",
+      "Autosomal recessive",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correct_index": 0,
+    "explanation": "*NF1* encodes neurofibromin, a Ras GTPase-activating tumour suppressor. **NF-2** is also autosomal dominant but maps to chromosome 22 and causes bilateral vestibular schwannomas.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (pattern of inheritance of NF-1 — autosomal dominant), 2017 AIIMS (criteria of NF-1)",
+    "repeats": 1,
+    "difficulty": "Moderate"
+  }
+]

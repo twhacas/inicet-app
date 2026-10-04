@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "ent_q_1",
+    "questionNumber": 1,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A pure tone audiogram shows a dip in the bone conduction threshold at 2000 Hz. This finding is called",
+    "options": [
+      "Recruitment",
+      "Carhart notch",
+      "Tone decay",
+      "Rollover"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is an artefact of otosclerosis, caused by loss of the ossicular contribution to bone conduction, and it reverses after successful stapes surgery. It does not mean true cochlear involvement.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (dip in bone conduction at 2000 Hz — otosclerosis, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (dip in bone conduction at 2000 Hz — otosclerosis, 4X)"
+    }
+  },
+  {
+    "id": "ent_q_2",
+    "questionNumber": 2,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A reddish hue visible through the tympanic membrane over the promontory in active otosclerosis is",
+    "options": [
+      "Gelle sign",
+      "Schwartze sign",
+      "Brown sign",
+      "Hitselberger sign"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It reflects increased vascularity of active otospongiotic bone. Brown sign is blanching of a glomus tumour on pneumatic otoscopy, and Hitselberger sign is hypoaesthesia of the posterior meatal wall in vestibular schwannoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (otosclerosis and Schwartze sign, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG / 2015 AIIMS (otosclerosis and Schwartze sign, 4X)"
+    }
+  },
+  {
+    "id": "ent_q_3",
+    "questionNumber": 3,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Otosclerosis characteristically worsens during pregnancy because",
+    "options": [
+      "Middle ear effusion develops",
+      "Hormonal changes accelerate otospongiotic bone activity",
+      "The eustachian tube becomes patulous",
+      "Cochlear blood flow falls"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Otosclerosis is commonest in young white women and is often autosomal dominant with incomplete penetrance. The fissula ante fenestram, just anterior to the oval window, is the usual site of onset, causing stapes fixation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pregnant female with bilateral hearing loss — otosclerosis), 2023 INI-CET (pregnant female undergoing stapedotomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (pregnant female with bilateral hearing loss — otosclerosis), 2023 INI-CET (pregnant female undergoing stapedotomy)"
+    }
+  },
+  {
+    "id": "ent_q_4",
+    "questionNumber": 4,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The Gelle test is positive (abnormal) in",
+    "options": [
+      "Otosclerosis with a fixed stapes",
+      "A normal ear",
+      "Sensorineural hearing loss",
+      "Tympanic membrane perforation only"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Increasing meatal pressure normally pushes the stapes inwards and reduces hearing; a fixed footplate cannot move, so no change is perceived. A normal or sensorineural ear shows the normal reduction.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (Gelle test — otosclerosis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (Gelle test — otosclerosis, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_5",
+    "questionNumber": 5,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient has bilateral otosclerosis with greater loss on the right. Rinne and Weber tests will show",
+    "options": [
+      "Rinne negative on the left only",
+      "Rinne positive bilaterally, Weber lateralised to the left",
+      "Rinne negative bilaterally, Weber lateralised to the right",
+      "Rinne positive bilaterally, Weber central"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Rinne is negative (bone better than air) in conductive loss. Weber lateralises to the ear with the **worse** conductive loss, because the absence of ambient masking makes bone conduction more efficient on that side.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2018 NEET-PG (bilateral otosclerosis, Rinne and Weber, 7X)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET / 2018 NEET-PG (bilateral otosclerosis, Rinne and Weber, 7X)"
+    }
+  },
+  {
+    "id": "ent_q_6",
+    "questionNumber": 6,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The Schwabach test compares",
+    "options": [
+      "Air with bone conduction in the same ear",
+      "The patient's bone conduction with that of a normal-hearing examiner",
+      "Two frequencies",
+      "Masked and unmasked thresholds"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Prolonged Schwabach indicates conductive loss and shortened Schwabach indicates sensorineural loss. It is used when Rinne and Weber give discordant results, as in bilateral disease.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (air greater than bone bilaterally with Weber to right — next do Schwabach)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2015 AIIMS (air greater than bone bilaterally with Weber to right — next do Schwabach)"
+    }
+  },
+  {
+    "id": "ent_q_7",
+    "questionNumber": 7,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In the Rinne test, a \"false negative\" result occurs in",
+    "options": [
+      "Mild conductive loss",
+      "Normal hearing",
+      "Severe unilateral sensorineural loss, where bone conduction is heard by the opposite cochlea",
+      "Otosclerosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is cross-hearing, and masking the opposite ear with a Barany noise box prevents it. Without masking, a dead ear can appear to have a conductive loss.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (Rinne and Weber in otosclerosis), 2015 AIIMS (Schwabach test)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET (Rinne and Weber in otosclerosis), 2015 AIIMS (Schwabach test)"
+    }
+  },
+  {
+    "id": "ent_q_8",
+    "questionNumber": 8,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Pure tone audiometry is best described as",
+    "options": [
+      "An objective test requiring no patient response",
+      "A subjective test depending on the patient's response",
+      "An electrophysiological test",
+      "A test of middle ear compliance"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Objective tests, which need no voluntary response, are tympanometry, otoacoustic emissions and auditory brainstem response. This matters in medico-legal assessment and in testing infants and malingerers.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (PTA is an objective test — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 INI-CET (PTA is an objective test — false)"
+    }
+  },
+  {
+    "id": "ent_q_9",
+    "questionNumber": 9,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "An audiogram shows both air and bone conduction thresholds elevated with a persistent air–bone gap. This is",
+    "options": [
+      "Pure conductive loss",
+      "Pure sensorineural loss",
+      "Mixed hearing loss",
+      "A normal audiogram"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In pure conductive loss, bone conduction is normal with a gap. In pure sensorineural loss, both are elevated with no gap. Mixed loss is seen in long-standing chronic otitis media and advanced otosclerosis with cochlear involvement.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (both AC and BC elevated with air–bone gap — mixed hearing loss)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (both AC and BC elevated with air–bone gap — mixed hearing loss)"
+    }
+  },
+  {
+    "id": "ent_q_10",
+    "questionNumber": 10,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient can hear only shouted speech close to the ear. The WHO grading of this hearing loss is",
+    "options": [
+      "Severe",
+      "Moderate",
+      "Mild",
+      "Profound"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "WHO grades (better ear average): 26–40 dB mild, 41–60 dB moderate, 61–80 dB severe, and above 80 dB profound. Severe loss corresponds to hearing only shouted speech; profound loss means even that is not heard.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (able to hear shouts — severe hearing loss, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (able to hear shouts — severe hearing loss, 3X)"
+    }
+  },
+  {
+    "id": "ent_q_11",
+    "questionNumber": 11,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Ossicular discontinuity with an intact tympanic membrane produces a hearing loss of about",
+    "options": [
+      "10–20 dB",
+      "20–30 dB",
+      "40–60 dB",
+      "70–80 dB"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This is the maximum possible conductive loss, because the round window is also shielded. A perforation alone causes 10–40 dB depending on size, and ossicular discontinuity **with** perforation gives about 40 dB.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ossicular discontinuity with intact tympanic membrane — 40–60 dB)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 INI-CET (ossicular discontinuity with intact tympanic membrane — 40–60 dB)"
+    }
+  },
+  {
+    "id": "ent_q_12",
+    "questionNumber": 12,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A type B tympanogram (flat, with normal ear canal volume) indicates",
+    "options": [
+      "Middle ear effusion",
+      "Eustachian tube dysfunction with negative pressure",
+      "Ossicular discontinuity",
+      "Otosclerosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Type C shows negative middle ear pressure (tube dysfunction). Type Ad (high compliance) suggests ossicular discontinuity or a flaccid drum, and type As (shallow) suggests otosclerosis. Flat with a **large** canal volume indicates a perforation or patent grommet.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tympanogram in serous otitis media — type B), 2022 INI-CET (type B tympanogram with adenoid hypertrophy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 INI-CET (tympanogram in serous otitis media — type B), 2022 INI-CET (type B tympanogram with adenoid hypertrophy)"
+    }
+  },
+  {
+    "id": "ent_q_13",
+    "questionNumber": 13,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Eustachian tube function is best assessed by",
+    "options": [
+      "Pure tone audiometry",
+      "Otoacoustic emissions",
+      "Tympanometry",
+      "Auditory brainstem response"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Tympanometry measures middle ear pressure and compliance, and pressure-swallow studies document tube opening. The tube is opened by tensor veli palatini (supplied by V3), which is why palatal clefts cause tube dysfunction and recurrent effusion.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (eustachian tube function best assessed by tympanometry), 2022 INI-CET (negative OAE — next step tympanometry)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2015 AIIMS (eustachian tube function best assessed by tympanometry), 2022 INI-CET (negative OAE — next step tympanometry)"
+    }
+  },
+  {
+    "id": "ent_q_14",
+    "questionNumber": 14,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The recommended test for universal newborn hearing screening is",
+    "options": [
+      "Behavioural observation audiometry",
+      "Pure tone audiometry",
+      "Evoked otoacoustic emissions",
+      "Free field testing"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "OAE is quick, objective and needs no sedation. It tests outer hair cell function, so it misses auditory neuropathy, where OAE is present but the brainstem response is abnormal. Automated ABR is used for confirmation and in high-risk babies.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET / 2014 AIIMS (neonatal hearing screening — evoked OAE), 2022 INI-CET (negative OAE next step)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 INI-CET / 2014 AIIMS (neonatal hearing screening — evoked OAE), 2022 INI-CET (negative OAE next step)"
+    }
+  },
+  {
+    "id": "ent_q_15",
+    "questionNumber": 15,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient hears sound but cannot understand speech. Pure tone audiometry is near normal, otoacoustic emissions are present, but the auditory brainstem response is grossly abnormal. The diagnosis is",
+    "options": [
+      "Otosclerosis",
+      "Auditory neuropathy (auditory dyssynchrony)",
+      "Presbycusis",
+      "Noise-induced hearing loss"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Outer hair cells work (so OAE is present) but neural transmission is dyssynchronous, so speech discrimination is disproportionately poor. Hearing aids help little, and cochlear implantation may be considered.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (normal PTA with abnormal ABR — auditory neuropathy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2022 INI-CET (normal PTA with abnormal ABR — auditory neuropathy, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_16",
+    "questionNumber": 16,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The tone decay test is used to detect",
+    "options": [
+      "Abnormal auditory nerve fatiguability in retrocochlear lesions",
+      "Malingering",
+      "Middle ear pathology",
+      "Recruitment in cochlear lesions"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Significant tone decay suggests vestibular schwannoma or auditory neuropathy. Recruitment, shown by the SISI test and the ABLB, indicates a cochlear (end-organ) lesion instead.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (tone decay — fatiguability in retrocochlear lesions such as acoustic neuroma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2017 AIIMS (tone decay — fatiguability in retrocochlear lesions such as acoustic neuroma)"
+    }
+  },
+  {
+    "id": "ent_q_17",
+    "questionNumber": 17,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In vestibular schwannoma, the auditory brainstem response characteristically shows",
+    "options": [
+      "Absent wave I only",
+      "Increased interwave latency between waves I and V",
+      "Reduced amplitude of all waves equally",
+      "A normal trace"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "An interaural wave V latency difference above 0.2 ms is also significant. MRI with gadolinium is the investigation of choice. Hitselberger sign and absent corneal reflex indicate larger tumours.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (BERA in vestibular schwannoma — increased interwave latency), 2021 INI-CET (Antoni A and B with Verocay bodies)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2016 AIIMS (BERA in vestibular schwannoma — increased interwave latency), 2021 INI-CET (Antoni A and B with Verocay bodies)"
+    }
+  },
+  {
+    "id": "ent_q_18",
+    "questionNumber": 18,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A 50-year-old has unilateral tinnitus, progressive sensorineural hearing loss and unsteadiness. Histology of the excised lesion shows Antoni A and B areas with Verocay bodies. The tumour arises from",
+    "options": [
+      "The cochlear nerve sheath",
+      "The superior vestibular nerve sheath, from Schwann cells",
+      "The facial nerve",
+      "The jugular bulb"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It arises at the glial–Schwann cell junction (Obersteiner–Redlich zone) in the internal acoustic meatus. Bilateral tumours indicate neurofibromatosis type 2. Despite the vestibular origin, hearing loss is the usual presenting symptom.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (tinnitus, SNHL, vertigo with Verocay bodies — vestibular schwannoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 INI-CET (tinnitus, SNHL, vertigo with Verocay bodies — vestibular schwannoma)"
+    }
+  },
+  {
+    "id": "ent_q_19",
+    "questionNumber": 19,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient has pulsatile tinnitus and conductive hearing loss, with a vascular mass arising from the jugular bulb on imaging. The tumour is",
+    "options": [
+      "Meningioma",
+      "Vestibular schwannoma",
+      "Cholesteatoma",
+      "Glomus jugulare"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A paraganglioma of the jugular bulb. Otoscopy may show a red mass behind the drum that blanches on pneumatic pressure (Brown sign), and imaging shows a \"salt and pepper\" pattern. Biopsy is avoided because of bleeding risk.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (pulsatile tinnitus with mass from jugular bulb — glomus jugulare)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 NEET-PG (pulsatile tinnitus with mass from jugular bulb — glomus jugulare)"
+    }
+  },
+  {
+    "id": "ent_q_20",
+    "questionNumber": 20,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In noise-induced hearing loss, the structure damaged earliest is",
+    "options": [
+      "The tympanic membrane",
+      "The inner hair cells",
+      "The outer hair cells of the basal turn",
+      "The stria vascularis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This produces the characteristic 4000 Hz notch on the audiogram, with later recovery of the 8000 Hz threshold. The permissible industrial exposure is 90 dB for 8 hours, and the safe ambient limit in a residential area is about 45 dB.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (noise-induced hearing loss — outer hair cells), 2017 AIIMS (safe noise level in a city — 45 dB)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2016 AIIMS (noise-induced hearing loss — outer hair cells), 2017 AIIMS (safe noise level in a city — 45 dB)"
+    }
+  },
+  {
+    "id": "ent_q_21",
+    "questionNumber": 21,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "High-frequency sounds are detected at which part of the cochlea?",
+    "options": [
+      "The apex",
+      "The basal turn, near the oval window",
+      "The middle turn",
+      "Uniformly throughout"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The basilar membrane is narrow and stiff at the base (high frequency) and wide and floppy at the apex (low frequency). This tonotopic organisation is preserved along the whole auditory pathway and guides cochlear implant electrode mapping.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (high frequency hearing loss — basal turn of cochlea)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2022 NEET-PG (high frequency hearing loss — basal turn of cochlea)"
+    }
+  },
+  {
+    "id": "ent_q_22",
+    "questionNumber": 22,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The afferent neurotransmitter released by cochlear inner hair cells is",
+    "options": [
+      "Acetylcholine",
+      "GABA",
+      "Glutamate",
+      "Dopamine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "About 95% of the afferent fibres of the spiral ganglion synapse on inner hair cells, which are the true sensory receptors. Outer hair cells receive mainly efferent cholinergic fibres and act as the cochlear amplifier through prestin.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (neurotransmitter for inner hair cells — glutamate), 2024 INI-CET (inner and outer hair cell ratio and function)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2016 AIIMS (neurotransmitter for inner hair cells — glutamate), 2024 INI-CET (inner and outer hair cell ratio and function)"
+    }
+  },
+  {
+    "id": "ent_q_23",
+    "questionNumber": 23,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The ratio of inner to outer hair cells in the human cochlea is approximately",
+    "options": [
+      "1:3",
+      "3:1",
+      "1:1",
+      "1:10"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "There are about 3,500 inner and 12,000 outer hair cells, arranged in one and three rows respectively. Inner hair cells carry almost all the afferent information; outer hair cells sharpen frequency tuning and generate otoacoustic emissions.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (inner and outer hair cell ratio 1:3 — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (inner and outer hair cell ratio 1:3 — true)"
+    }
+  },
+  {
+    "id": "ent_q_24",
+    "questionNumber": 24,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Arrange the auditory pathway in the correct order from the cochlea onwards.\n1. Lateral lemniscus\n2. Superior olivary complex\n3. Cochlear nuclei\n4. Inferior colliculus",
+    "options": [
+      "2 → 3 → 1 → 4",
+      "3 → 2 → 1 → 4",
+      "3 → 1 → 2 → 4",
+      "3 → 2 → 4 → 1"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The pathway continues to the medial geniculate body and then the auditory cortex in the superior temporal gyrus. Because of extensive crossing at the superior olivary level, a unilateral cortical lesion does not cause deafness.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (sequence of auditory pathway, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 INI-CET (sequence of auditory pathway, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_25",
+    "questionNumber": 25,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The most anterior and largest ossicle of the middle ear is the",
+    "options": [
+      "Stapes",
+      "Incus",
+      "Malleus",
+      "Lenticular process"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Its handle is embedded in the tympanic membrane. The incus is anvil-shaped with short and long processes, and the stapes is the smallest bone in the body. The incudomalleolar joint is a saddle joint and the incudostapedial joint is a ball-and-socket joint.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (most anterior and largest ossicle — malleus), 2022 NEET-PG (anvil-like with short and long process — incus), 2023 INI-CET (incudomalleolar — saddle joint)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (most anterior and largest ossicle — malleus), 2022 NEET-PG (anvil-like with short and long process — incus), 2023 INI-CET (incudomalleolar — saddle joint)"
+    }
+  },
+  {
+    "id": "ent_q_26",
+    "questionNumber": 26,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The lateral semicircular canal is important surgically because it",
+    "options": [
+      "Lies closest to the mastoid antrum and is a landmark for the facial nerve",
+      "Lies deepest in the petrous apex",
+      "Is unrelated to the middle ear",
+      "Contains the saccule"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The second genu of the facial nerve lies just below and medial to it, so a fistula here is a common complication of cholesteatoma. A positive fistula test (vertigo and nystagmus on pneumatic pressure) suggests erosion.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (semicircular canal in close contact with mastoid — lateral)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2014 AIIMS (semicircular canal in close contact with mastoid — lateral)"
+    }
+  },
+  {
+    "id": "ent_q_27",
+    "questionNumber": 27,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The saccule and cochlea develop from which part of the otic vesicle?",
+    "options": [
+      "Pars superior",
+      "Pars inferior",
+      "Endolymphatic duct",
+      "Neural crest"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The pars superior gives the utricle and semicircular canals. Because the saccule and cochlea share an origin, malformations such as Mondini dysplasia affect both, and vestibular function is often preserved when only the pars superior is normal.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (saccule develops from pars inferior of otic vesicle)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2022 NEET-PG (saccule develops from pars inferior of otic vesicle)"
+    }
+  },
+  {
+    "id": "ent_q_28",
+    "questionNumber": 28,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Mondini dysplasia is characterised by",
+    "options": [
+      "Absent cochlea",
+      "An incomplete cochlear partition with a dilated vestibule and enlarged vestibular aqueduct",
+      "Normal inner ear with middle ear fixation",
+      "Absent semicircular canals only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The cochlea has about 1.5 turns instead of 2.5. It carries a risk of perilymph gusher during stapes or implant surgery, and of recurrent meningitis. Michel aplasia is complete absence of the inner ear.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Mondini dysplasia — cochlear coil defect with SNHL)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2017 AIIMS (Mondini dysplasia — cochlear coil defect with SNHL)"
+    }
+  },
+  {
+    "id": "ent_q_29",
+    "questionNumber": 29,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The commonest congenital ossicular anomaly is",
+    "options": [
+      "Absent malleus",
+      "Stapes footplate fixation with involvement of the lenticular process",
+      "Fused incus and malleus only",
+      "Absent stapedius"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It presents as congenital conductive loss with a normal drum and normal canal. Exploratory tympanotomy is diagnostic and therapeutic, and the audiogram shows a maximal conductive loss.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (commonest congenital ossicular dysfunction — stapes fixation with lenticular process)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2015 AIIMS (commonest congenital ossicular dysfunction — stapes fixation with lenticular process)"
+    }
+  },
+  {
+    "id": "ent_q_30",
+    "questionNumber": 30,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A 6-month-old has bilateral bony atresia of the external auditory canals with a normal middle ear and cochlea. The most appropriate early intervention is",
+    "options": [
+      "Observation until school age",
+      "Immediate canaloplasty",
+      "Cochlear implantation",
+      "A bone-anchored hearing aid (BAHA) on a softband"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Bilateral atresia causes severe conductive loss, and auditory input is needed within the critical period for speech development. Surgical canaloplasty is deferred until the age of 5–6 years, when pneumatisation is adequate.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (bilateral bony atresia with intact middle ear — application of BAHA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 INI-CET (bilateral bony atresia with intact middle ear — application of BAHA)"
+    }
+  },
+  {
+    "id": "ent_q_31",
+    "questionNumber": 31,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A child has unilateral hearing loss for 2 months with air bubbles visible behind an intact, retracted tympanic membrane. The diagnosis is",
+    "options": [
+      "Acute suppurative otitis media",
+      "Otitis media with effusion (serous otitis media)",
+      "Attic cholesteatoma",
+      "Otosclerosis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "There is fluid without acute infection, giving a type B tympanogram and conductive loss. Unilateral effusion in an **adult** demands nasopharyngeal examination to exclude carcinoma obstructing the tube.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (air bubbles behind drum — serous otitis media, 3X), 2023 INI-CET (type B tympanogram)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (air bubbles behind drum — serous otitis media, 3X), 2023 INI-CET (type B tympanogram)"
+    }
+  },
+  {
+    "id": "ent_q_32",
+    "questionNumber": 32,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A child with recurrent upper respiratory infection, mouth breathing and a type B tympanogram is best managed by",
+    "options": [
+      "Cochlear implantation",
+      "Long-term antibiotics alone",
+      "Myringotomy with grommet insertion and adenoidectomy",
+      "Tympanoplasty"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Adenoid hypertrophy obstructs the eustachian tube, so removing it addresses the cause while the grommet ventilates the middle ear. Effusion persisting beyond 3 months with hearing loss is the usual threshold for surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (recurrent URTI, high arched palate, type B tympanogram — myringotomy, grommet, adenoidectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2022 INI-CET (recurrent URTI, high arched palate, type B tympanogram — myringotomy, grommet, adenoidectomy)"
+    }
+  },
+  {
+    "id": "ent_q_33",
+    "questionNumber": 33,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A mildly retracted tympanic membrane in which all normal landmarks remain visible is graded (Sadé) as",
+    "options": [
+      "Grade 4",
+      "Grade 2",
+      "Grade 3",
+      "Grade 1"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Grade 2 shows contact with the incus or stapes, grade 3 contact with the promontory (atelectasis), and grade 4 adhesion to the promontory (adhesive otitis media). Progressive retraction pockets may accumulate keratin and form a cholesteatoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (mildly retracted drum with visible landmarks — grade 1 retraction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (mildly retracted drum with visible landmarks — grade 1 retraction)"
+    }
+  },
+  {
+    "id": "ent_q_34",
+    "questionNumber": 34,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The feature that best distinguishes atticoantral from tubotympanic chronic otitis media is",
+    "options": [
+      "A central perforation",
+      "A marginal or attic perforation with keratin debris",
+      "Profuse mucoid discharge",
+      "Conductive hearing loss"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Atticoantral (\"unsafe\") disease involves cholesteatoma and bone erosion, with scanty foul discharge and a risk of intracranial complications. Tubotympanic (\"safe\") disease has a central perforation and profuse odourless discharge.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CSOM with temporal lobe abscess), 2022 INI-CET (surgery for tubotympanic CSOM)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (CSOM with temporal lobe abscess), 2022 INI-CET (surgery for tubotympanic CSOM)"
+    }
+  },
+  {
+    "id": "ent_q_35",
+    "questionNumber": 35,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Cholesteatoma causes bone erosion mainly through",
+    "options": [
+      "Direct pressure alone",
+      "Release of osteolytic enzymes and cytokines by the matrix and inflammatory cells",
+      "Ischaemic necrosis of the ossicles",
+      "Pulsatile vascular erosion"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Collagenase and acid phosphatase from the perimatrix erode bone. Despite the name, cholesteatoma is neither a tumour nor composed of cholesterol; it is keratinising stratified squamous epithelium in the middle ear.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (CSOM with temporal lobe abscess), 2022 INI-CET (CSOM surgery complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET (CSOM with temporal lobe abscess), 2022 INI-CET (CSOM surgery complications)"
+    }
+  },
+  {
+    "id": "ent_q_36",
+    "questionNumber": 36,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient with long-standing chronic otitis media develops high fever, seizures and altered sensorium, and CT shows a ring-enhancing lesion in the temporal lobe. The route of spread is usually",
+    "options": [
+      "Direct extension through the tegmen tympani",
+      "Haematogenous from a distant focus",
+      "Along the eustachian tube",
+      "Via the internal acoustic meatus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The temporal lobe and cerebellum are the two commonest sites of otogenic abscess, through the tegmen and Trautmann triangle respectively. Management is neurosurgical drainage with antibiotics, followed by mastoid surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2018 NEET-PG (CSOM with ring-enhancing temporal lesion — temporal lobe abscess, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2024 INI-CET / 2018 NEET-PG (CSOM with ring-enhancing temporal lesion — temporal lobe abscess, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_37",
+    "questionNumber": 37,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Match each clinical sign with the complication of otitis media it indicates.\n\n| Sign | Complication |\n|---|---|\n| 1. Griesinger sign | a. Lateral sinus thrombosis on contrast imaging |\n| 2. Delta (empty triangle) sign | b. Abscess deep to sternocleidomastoid from mastoid tip erosion |\n| 3. Bezold abscess | c. Oedema over the mastoid from mastoid emissary vein thrombophlebitis |\n| 4. Luc abscess | d. Abscess beneath the temporalis muscle in the zygomatic region |",
+    "options": [
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-c, 2-b, 3-a, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Citelli abscess points towards the digastric triangle. Lateral sinus thrombosis also gives a picket-fence fever and a positive Tobey–Ayer test (failure of CSF pressure to rise on compressing the affected jugular vein).",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (match — delta sign, Griesinger sign, Bezold abscess)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2021 INI-CET (match — delta sign, Griesinger sign, Bezold abscess)"
+    }
+  },
+  {
+    "id": "ent_q_38",
+    "questionNumber": 38,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Petrous apicitis (Gradenigo syndrome) is characterised by the triad of",
+    "options": [
+      "Facial palsy, vesicles and hearing loss",
+      "Vertigo, tinnitus and hearing loss",
+      "Otorrhoea, retro-orbital pain and sixth nerve palsy",
+      "Ear pain, deafness and soft palate palsy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The abducent nerve runs in Dorello canal at the petrous apex, and the trigeminal ganglion lies nearby, explaining the pain. Option D is Trotter triad in nasopharyngeal carcinoma, and option C is Ramsay Hunt syndrome.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (petrous apicitis — retro-orbital pain, retro-auricular pain, 6th nerve palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2017 AIIMS (petrous apicitis — retro-orbital pain, retro-auricular pain, 6th nerve palsy)"
+    }
+  },
+  {
+    "id": "ent_q_39",
+    "questionNumber": 39,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The commonest organism in skull base osteomyelitis complicating otitis externa in a diabetic is",
+    "options": [
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa",
+      "Aspergillus",
+      "Streptococcus pneumoniae"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Necrotising (malignant) otitis externa presents with severe pain, granulation tissue at the bony–cartilaginous junction and cranial nerve palsies. Treatment is prolonged systemic antipseudomonal therapy with glycaemic control; gallium scanning monitors response.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (commonest organism in skull base osteomyelitis — Pseudomonas, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (commonest organism in skull base osteomyelitis — Pseudomonas, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_40",
+    "questionNumber": 40,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Tuberculous otitis media is characterised by",
+    "options": [
+      "A single central perforation with profuse discharge",
+      "Multiple tympanic perforations with painless otorrhoea and pale granulations",
+      "Severe otalgia with a bulging drum",
+      "Keratin debris in the attic"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Facial palsy and sensorineural loss occur disproportionately early, and there is often a family history or pulmonary focus. Diagnosis rests on biopsy and tissue PCR, since routine culture is often negative.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2017 AIIMS (TB otitis media features, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2019 NEET-PG / 2017 AIIMS (TB otitis media features, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_41",
+    "questionNumber": 41,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient develops tinnitus, vertigo and aural fullness after middle ear surgery for chronic otitis media. The likely complication is",
+    "options": [
+      "Perilymph fistula",
+      "Facial nerve palsy",
+      "Tympanic membrane perforation",
+      "Otitis externa"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Leakage at the oval or round window causes fluctuating sensorineural loss with vestibular symptoms, and a positive fistula test. Management is bed rest with head elevation, then surgical sealing if symptoms persist.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (after tubotympanic CSOM surgery — tinnitus, vertigo, fullness)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2022 INI-CET (after tubotympanic CSOM surgery — tinnitus, vertigo, fullness)"
+    }
+  },
+  {
+    "id": "ent_q_42",
+    "questionNumber": 42,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Match each type of tympanoplasty (Wullstein) with the graft position.\n\n| Type | Graft position |\n|---|---|\n| 1. Type II | a. Graft on the head of the stapes |\n| 2. Type III | b. Graft on a mobile stapes footplate |\n| 3. Type IV | c. Graft on the incus or its remnant |\n| 4. Type V | d. Fenestration of the lateral semicircular canal |",
+    "options": [
+      "1-c, 2-b, 3-a, 4-d",
+      "1-a, 2-c, 3-b, 4-d",
+      "1-c, 2-a, 3-b, 4-d",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Type I is simple myringoplasty with an intact ossicular chain. Temporalis fascia and tragal cartilage are the usual graft materials, with cartilage preferred for retraction pockets and revision surgery.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (match — type 2 graft on incus, type 3 graft on head of stapes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2022 INI-CET (match — type 2 graft on incus, type 3 graft on head of stapes)"
+    }
+  },
+  {
+    "id": "ent_q_43",
+    "questionNumber": 43,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In stapedotomy for otosclerosis, the prosthesis transmits sound from",
+    "options": [
+      "The malleus to the round window",
+      "The incus or malleus to the oval window, bypassing the fixed footplate",
+      "The drum directly to the cochlea",
+      "The stapes to the incus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A small fenestra is made in the footplate and a piston placed. The most feared complication is a dead ear, and a perilymph gusher may occur if there is a coexisting inner ear malformation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (prosthesis from incus to oval window bypassing footplate — stapedotomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2023 INI-CET (prosthesis from incus to oval window bypassing footplate — stapedotomy)"
+    }
+  },
+  {
+    "id": "ent_q_44",
+    "questionNumber": 44,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Which patient is the BEST candidate for cochlear implantation?",
+    "options": [
+      "A patient with unilateral mild loss",
+      "An adult with otosclerosis and a 40 dB conductive loss",
+      "A patient with ossicular fixation and normal cochlea",
+      "A child with bilateral profound sensorineural loss from congenital causes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Implants are for severe to profound **sensorineural** loss not benefiting from hearing aids. Conductive problems such as otosclerosis and ossicular fixation are treated surgically. Earlier implantation gives better speech outcomes.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (cochlear implant candidates — ototoxicity yes, congenital yes, ossicular fixation no, otosclerosis no)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET (cochlear implant candidates — ototoxicity yes, congenital yes, ossicular fixation no, otosclerosis no)"
+    }
+  },
+  {
+    "id": "ent_q_45",
+    "questionNumber": 45,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The component of a cochlear implant that directly stimulates the auditory nerve fibres is the",
+    "options": [
+      "Electrode array in the scala tympani",
+      "External microphone",
+      "Speech processor",
+      "Transmitter coil"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is inserted through the round window or a cochleostomy and bypasses the hair cells entirely. In an auditory brainstem implant, used when the cochlear nerve is absent, the array is placed in the lateral recess of the fourth ventricle.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (multiple small electrodes — electrode array), 2019 NEET-PG / 2018 AIIMS (brainstem implant — lateral recess of 4th ventricle, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 NEET-PG (multiple small electrodes — electrode array), 2019 NEET-PG / 2018 AIIMS (brainstem implant — lateral recess of 4th ventricle, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_46",
+    "questionNumber": 46,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Widening of the cartilaginous part of the external auditory canal is called",
+    "options": [
+      "Canalplasty",
+      "Meatoplasty",
+      "Myringoplasty",
+      "Atticotomy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is routinely performed with canal wall down mastoidectomy so that the cavity can be inspected and cleaned. Canalplasty refers to widening the bony canal.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (widening of cartilaginous part of EAC — meatoplasty)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 NEET-PG (widening of cartilaginous part of EAC — meatoplasty)"
+    }
+  },
+  {
+    "id": "ent_q_47",
+    "questionNumber": 47,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A yellowish-white keratin plug filling and widening the external canal, with bone erosion but no otorrhoea, in a young adult is",
+    "options": [
+      "Keratosis obturans",
+      "External canal cholesteatoma",
+      "Impacted wax",
+      "Otomycosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is bilateral, occurs in younger patients, is associated with bronchiectasis and sinusitis, and causes conductive loss with severe pain. Canal cholesteatoma is unilateral, affects older patients and causes localised bone erosion with a dull ache.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2018 AIIMS (keratin plug in EAC — keratosis obturans, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 NEET-PG / 2018 AIIMS (keratin plug in EAC — keratosis obturans, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_48",
+    "questionNumber": 48,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "Stimulation of the posterior wall of the external auditory canal provokes cough because of",
+    "options": [
+      "The glossopharyngeal nerve",
+      "The auriculotemporal nerve",
+      "The great auricular nerve",
+      "The auricular branch of the vagus (Arnold nerve)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It also explains syncope during ear syringing. Referred otalgia from the tonsil travels along the tympanic branch of the glossopharyngeal nerve (Jacobson nerve), which is the basis of ear pain after tonsillectomy.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (stimulation of EAC causes cough — auricular branch of vagus), 2020 NEET-PG / 2017 AIIMS (referred pain of tonsillitis — glossopharyngeal, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2021 NEET-PG (stimulation of EAC causes cough — auricular branch of vagus), 2020 NEET-PG / 2017 AIIMS (referred pain of tonsillitis — glossopharyngeal, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_49",
+    "questionNumber": 49,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A middle-aged man has brief severe vertigo lasting under a minute whenever he turns onto his side in bed, with normal hearing. The diagnosis and treatment are",
+    "options": [
+      "Vestibular neuronitis; steroids",
+      "Meniere disease; low salt diet",
+      "Benign paroxysmal positional vertigo; Epley repositioning manoeuvre",
+      "Vestibular schwannoma; surgery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Otoconia displaced into the posterior canal are the cause, and the Dix–Hallpike test is diagnostic. Normal hearing is the key feature distinguishing it from Meniere disease.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (vertigo on turning in bed with no hearing loss — BPPV, 4X), 2020 NEET-PG / 2018 AIIMS (Epley manoeuvre)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (vertigo on turning in bed with no hearing loss — BPPV, 4X), 2020 NEET-PG / 2018 AIIMS (Epley manoeuvre)"
+    }
+  },
+  {
+    "id": "ent_q_50",
+    "questionNumber": 50,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A woman has episodic vertigo lasting hours with tinnitus, aural fullness and fluctuating hearing loss. Audiometry shows a low-frequency sensorineural loss. The pathology is",
+    "options": [
+      "Vestibular schwannoma",
+      "Perilymph fistula",
+      "Otosclerosis",
+      "Endolymphatic hydrops"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Meniere disease gives a rising (low-frequency) audiogram early, becoming flat later. Medical treatment is salt restriction, betahistine and diuretics; intratympanic gentamicin or steroids are used for persistent attacks.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (tinnitus, episodic vertigo, low-frequency loss — Meniere disease, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET (tinnitus, episodic vertigo, low-frequency loss — Meniere disease, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_51",
+    "questionNumber": 51,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The best operation for intractable vertigo in Meniere disease when hearing is already lost is",
+    "options": [
+      "Labyrinthectomy",
+      "Endolymphatic sac decompression",
+      "Vestibular nerve section",
+      "Stapedotomy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It destroys vestibular function completely and sacrifices residual hearing, so it is reserved for a non-serviceable ear. Vestibular nerve section controls vertigo while preserving hearing but needs a craniotomy.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (best surgery for intractable vertigo in Meniere — labyrinthectomy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (best surgery for intractable vertigo in Meniere — labyrinthectomy, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_52",
+    "questionNumber": 52,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In the caloric test, irrigating the right ear with cold water produces",
+    "options": [
+      "Nystagmus with the fast phase towards the right",
+      "Nystagmus with the fast phase towards the left",
+      "No nystagmus",
+      "Vertical nystagmus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The mnemonic COWS applies: Cold Opposite, Warm Same, referring to the direction of the fast (named) phase. Nystagmus is named for its fast phase, while the slow phase deviates towards the irrigated ear.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (cold water in right ear — eyes move to opposite side, nystagmus to left)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2016 AIIMS (cold water in right ear — eyes move to opposite side, nystagmus to left)"
+    }
+  },
+  {
+    "id": "ent_q_53",
+    "questionNumber": 53,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In right vestibular neuronitis, the head impulse test shows",
+    "options": [
+      "A corrective saccade only on turning left",
+      "No corrective saccade in either direction",
+      "A corrective saccade when the head is turned rapidly to the right",
+      "Vertical saccades"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "An abnormal head impulse test indicates a peripheral lesion and is reassuring in the HINTS examination. A **normal** test in acute vertigo with nystagmus raises concern for a central (stroke) cause.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG (head impulse test in right vestibular neuronitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Ear",
+      "basedOn": "2019 NEET-PG (head impulse test in right vestibular neuronitis)"
+    }
+  },
+  {
+    "id": "ent_q_54",
+    "questionNumber": 54,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "The structure lying between the ponticulus and the subiculum in the middle ear is the",
+    "options": [
+      "Sinus tympani",
+      "Facial recess",
+      "Oval window",
+      "Aditus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is a deep recess medial to the facial nerve in the posterior tympanum, and a notorious site for residual cholesteatoma because it is hard to see even with an endoscope.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (structure between ponticulus and subiculum — sinus tympani)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2015 AIIMS (structure between ponticulus and subiculum — sinus tympani)"
+    }
+  },
+  {
+    "id": "ent_q_55",
+    "questionNumber": 55,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "A patient develops facial weakness with inability to close the eye, drooling and deviation of the angle of the mouth after ear surgery. The nerve segment most often injured is",
+    "options": [
+      "The intracranial segment",
+      "The labyrinthine segment",
+      "The tympanic (horizontal) segment near the lateral semicircular canal",
+      "The cervical branch"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "This segment has the thinnest bony covering and is often dehiscent. Facial palsy from ear disease or surgery is a lower motor neuron palsy, so the forehead is involved, unlike a supranuclear lesion.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (difficulty closing eyes, drooling, deviation of mouth — 7th nerve palsy), 2014 AIIMS (lateral semicircular canal landmark)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 NEET-PG (difficulty closing eyes, drooling, deviation of mouth — 7th nerve palsy), 2014 AIIMS (lateral semicircular canal landmark)"
+    }
+  },
+  {
+    "id": "ent_q_56",
+    "questionNumber": 56,
+    "subject": "ENT",
+    "subTopic": "Ear",
+    "sub_topic": "Ear",
+    "stem": "In Ramsay Hunt syndrome, facial palsy is accompanied by",
+    "options": [
+      "Pulsatile tinnitus",
+      "Conductive loss alone",
+      "A bulging tympanic membrane",
+      "Vesicles in the concha and external canal, with sensorineural loss and vertigo"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is caused by varicella-zoster reactivation in the geniculate ganglion and has a worse prognosis for facial recovery than Bell palsy. Treatment is aciclovir with corticosteroids.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (7th nerve palsy), 2021 NEET-PG (dermatomal vesicles — zoster)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Ear",
+      "basedOn": "2023 NEET-PG (7th nerve palsy), 2021 NEET-PG (dermatomal vesicles — zoster)"
+    }
+  },
+  {
+    "id": "ent_q_57",
+    "questionNumber": 57,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The sphenoid sinus drains into the",
+    "options": [
+      "Hiatus semilunaris",
+      "Sphenoethmoidal recess",
+      "Inferior meatus",
+      "Superior meatus"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The frontal, maxillary and anterior ethmoidal sinuses drain into the middle meatus, the posterior ethmoidal cells into the superior meatus, and the nasolacrimal duct into the inferior meatus.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (sphenoid sinus drains into sphenoethmoidal recess, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2022 INI-CET (sphenoid sinus drains into sphenoethmoidal recess, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_58",
+    "questionNumber": 58,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The largest turbinate arising from the lateral wall of the nose is the",
+    "options": [
+      "Inferior turbinate",
+      "Middle turbinate",
+      "Superior turbinate",
+      "Supreme turbinate"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The inferior turbinate is a separate bone, while the middle, superior and supreme turbinates are parts of the ethmoid. Inferior turbinate hypertrophy is a common cause of nasal obstruction and is reduced by turbinoplasty.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (largest turbinate from lateral wall — inferior turbinate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2020 INI-CET (largest turbinate from lateral wall — inferior turbinate)"
+    }
+  },
+  {
+    "id": "ent_q_59",
+    "questionNumber": 59,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Which artery contributing to Kiesselbach plexus is NOT a branch of the external carotid artery?",
+    "options": [
+      "Anterior ethmoidal artery",
+      "Sphenopalatine artery",
+      "Greater palatine artery",
+      "Septal branch of the superior labial artery"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The anterior and posterior ethmoidal arteries arise from the ophthalmic artery, a branch of the internal carotid. This dual supply explains why ligation of one system alone may fail to control severe epistaxis.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (arteries of Kiesselbach plexus not from ECA — ethmoidal arteries)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2016 AIIMS (arteries of Kiesselbach plexus not from ECA — ethmoidal arteries)"
+    }
+  },
+  {
+    "id": "ent_q_60",
+    "questionNumber": 60,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "In severe posterior epistaxis not controlled by packing, the artery usually ligated or clipped endoscopically is the",
+    "options": [
+      "Anterior ethmoidal artery",
+      "Facial artery",
+      "Sphenopalatine artery",
+      "Superficial temporal artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is the terminal branch of the maxillary artery and the main supply to the posterior nose. It is clipped at the sphenopalatine foramen behind the posterior end of the middle turbinate. Anterior ethmoidal ligation is used for superior bleeding.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (artery ligated in epistaxis — sphenopalatine artery)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 NEET-PG (artery ligated in epistaxis — sphenopalatine artery)"
+    }
+  },
+  {
+    "id": "ent_q_61",
+    "questionNumber": 61,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A nerve block in which the needle is inserted near the medial canthus, just above the medial orbital rim, anaesthetises the",
+    "options": [
+      "Infraorbital nerve",
+      "Anterior ethmoidal nerve",
+      "Sphenopalatine ganglion",
+      "Greater palatine nerve"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It supplies the anterosuperior nasal septum and lateral wall. Together with a sphenopalatine block, it provides anaesthesia for septal surgery. The sphenopalatine ganglion is reached transnasally behind the middle turbinate.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (needle near medial canthus above medial orbital rim — anterior ethmoidal block, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 INI-CET (needle near medial canthus above medial orbital rim — anterior ethmoidal block, 3X)"
+    }
+  },
+  {
+    "id": "ent_q_62",
+    "questionNumber": 62,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A 14-year-old boy has recurrent profuse epistaxis, nasal obstruction and proptosis, with a mass filling the nasal cavity. The feeding vessel is usually the",
+    "options": [
+      "Facial artery",
+      "Anterior ethmoidal artery",
+      "Internal maxillary artery",
+      "Ophthalmic artery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Juvenile nasopharyngeal angiofibroma arises near the sphenopalatine foramen. Contrast-enhanced CT is the investigation of choice, biopsy is avoided because of torrential bleeding, and preoperative embolisation reduces blood loss.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (nasal obstruction, proptosis, epistaxis — internal maxillary artery, 4X), 2020 INI-CET / 2018 NEET-PG (JNA with CECT, 5X)",
+    "repeats": 5,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (nasal obstruction, proptosis, epistaxis — internal maxillary artery, 4X), 2020 INI-CET / 2018 NEET-PG (JNA with CECT, 5X)"
+    }
+  },
+  {
+    "id": "ent_q_63",
+    "questionNumber": 63,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Juvenile nasopharyngeal angiofibroma occurs almost exclusively in",
+    "options": [
+      "Infants of either sex",
+      "Adolescent girls",
+      "Elderly men",
+      "Adolescent boys"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Its hormone dependence explains the sex and age distribution. Note that the 2024 statement referred to juvenile nasopharyngeal **carcinoma**, which is not the exclusively male lesion, so that statement was false as written.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (juvenile nasopharyngeal carcinoma exclusively in young boys — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2024 INI-CET (juvenile nasopharyngeal carcinoma exclusively in young boys — false)"
+    }
+  },
+  {
+    "id": "ent_q_64",
+    "questionNumber": 64,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A 75-year-old woman has unilateral nasal obstruction with blood-stained discharge and a mass arising from the lateral nasal wall. Histology shows epithelium growing into the underlying stroma. The lesion is",
+    "options": [
+      "Ethmoidal polyposis",
+      "Antrochoanal polyp",
+      "Inverted papilloma",
+      "Angiofibroma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is unilateral, locally aggressive, recurs after incomplete excision, and carries roughly a 5–10% risk of squamous carcinoma. Treatment is wide excision, often by a medial maxillectomy approach.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (unilateral obstruction with mass from lateral nasal wall — inverted papilloma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 INI-CET (unilateral obstruction with mass from lateral nasal wall — inverted papilloma)"
+    }
+  },
+  {
+    "id": "ent_q_65",
+    "questionNumber": 65,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The key feature distinguishing an antrochoanal polyp from ethmoidal polyposis is that the antrochoanal polyp is",
+    "options": [
+      "Associated with aspirin sensitivity",
+      "Bilateral and allergic",
+      "Always malignant",
+      "Unilateral, arising from the maxillary antrum, and commoner in children"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It grows through the ostium or an accessory ostium into the choana and may be seen in the oropharynx. Ethmoidal polyps are bilateral, multiple, allergic in origin and commoner in adults.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (inverted papilloma), 2021 NEET-PG (Samter triad)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 INI-CET (inverted papilloma), 2021 NEET-PG (Samter triad)"
+    }
+  },
+  {
+    "id": "ent_q_66",
+    "questionNumber": 66,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A patient with nasal polyposis and asthma develops bronchospasm after taking a non-steroidal anti-inflammatory drug. The triad is",
+    "options": [
+      "Samter triad, and all cyclo-oxygenase inhibitors must be avoided",
+      "Trotter triad",
+      "Gradenigo triad",
+      "Horner triad"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Aspirin-exacerbated respiratory disease is a pharmacological reaction from shunting of arachidonic acid down the lipoxygenase pathway, not an IgE-mediated allergy, so cross-reaction with all non-selective NSAIDs occurs. Leukotriene modifiers help.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (drug contraindicated in Samter's triad — aspirin, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 NEET-PG (drug contraindicated in Samter's triad — aspirin, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_67",
+    "questionNumber": 67,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Typical examination findings in allergic rhinitis include all of the following EXCEPT",
+    "options": [
+      "A pale, dry, roomy nasal cavity with foul crusts",
+      "Allergic shiners",
+      "Dennie–Morgan folds",
+      "Allergic salute and transverse nasal crease"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "That describes atrophic rhinitis. Allergic rhinitis shows pale, boggy, oedematous mucosa with clear watery discharge, and the other three are supporting external signs.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (allergic rhinitis — allergic salute, shiners, Dennie–Morgan folds)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 INI-CET (allergic rhinitis — allergic salute, shiners, Dennie–Morgan folds)"
+    }
+  },
+  {
+    "id": "ent_q_68",
+    "questionNumber": 68,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A 40-year-old woman has nasal obstruction with a paradoxically roomy nasal cavity, foul-smelling greenish crusts and loss of smell of which she is unaware. The condition is",
+    "options": [
+      "Allergic rhinitis",
+      "Atrophic rhinitis with merciful anosmia",
+      "Rhinitis medicamentosa",
+      "Vasomotor rhinitis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*Klebsiella ozaenae* is implicated. Treatment is nasal douching, glucose-glycerine drops and Young operation (partial or complete surgical closure of the nostrils) to allow mucosal regeneration.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (foul crusts, roomy cavity, merciful anosmia — atrophic rhinitis), 2020 NEET-PG (partial closure of nostrils)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2020 NEET-PG (foul crusts, roomy cavity, merciful anosmia — atrophic rhinitis), 2020 NEET-PG (partial closure of nostrils)"
+    }
+  },
+  {
+    "id": "ent_q_69",
+    "questionNumber": 69,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Rhinitis medicamentosa results from prolonged use of",
+    "options": [
+      "Topical alpha-adrenergic decongestants",
+      "Intranasal corticosteroids",
+      "Oral antihistamines",
+      "Saline sprays"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Rebound vasodilatation and tachyphylaxis follow use beyond about a week. Cocaine sniffing does the same and may also perforate the septum. Treatment is to stop the drops and substitute an intranasal steroid.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (rhinitis medicamentosa — long-term alpha agonists and cocaine sniffing)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2017 AIIMS (rhinitis medicamentosa — long-term alpha agonists and cocaine sniffing)"
+    }
+  },
+  {
+    "id": "ent_q_70",
+    "questionNumber": 70,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A vertical fracture of the anterior part of the cartilaginous nasal septum is called a",
+    "options": [
+      "Blow-out fracture",
+      "Jarjavay fracture",
+      "Le Fort fracture",
+      "Chevallet fracture"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A Jarjavay fracture is a horizontal fracture of the septum. Septal haematoma must be drained urgently, because pressure necrosis of the cartilage leads to a saddle nose deformity.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (vertical fracture of anterior cartilaginous septum — Chevallet fracture)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2024 INI-CET (vertical fracture of anterior cartilaginous septum — Chevallet fracture)"
+    }
+  },
+  {
+    "id": "ent_q_71",
+    "questionNumber": 71,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Submucous resection of the septum has largely been replaced by septoplasty because septoplasty",
+    "options": [
+      "Needs no anaesthesia",
+      "Is quicker",
+      "Conserves cartilage and reduces the risk of saddling and septal perforation",
+      "Always corrects the external deformity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Classic SMR removes cartilage and bone, which can leave a flail septum, perforation, crusting and bleeding. Septoplasty repositions tissue instead, and can be done in children.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (chronic obstruction, crusts, bleeding and narrowing after procedure — SMR)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2018 NEET-PG (chronic obstruction, crusts, bleeding and narrowing after procedure — SMR)"
+    }
+  },
+  {
+    "id": "ent_q_72",
+    "questionNumber": 72,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Clear watery nasal discharge after head injury, positive for beta-2 transferrin, with a \"target (double ring) sign\" on filter paper, indicates",
+    "options": [
+      "Atrophic rhinitis",
+      "Allergic rhinitis",
+      "Vasomotor rhinitis",
+      "Traumatic cerebrospinal fluid leak"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Beta-2 transferrin is the most specific test; glucose testing is unreliable. The cribriform plate is the commonest site. Most traumatic leaks settle conservatively, and persistent leaks are repaired endoscopically.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (target sign in blot test from nasal discharge — traumatic CSF leak)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2016 AIIMS (target sign in blot test from nasal discharge — traumatic CSF leak)"
+    }
+  },
+  {
+    "id": "ent_q_73",
+    "questionNumber": 73,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The best plain radiographic view for evaluating the frontal sinus is the",
+    "options": [
+      "Caldwell view",
+      "Water view",
+      "Lateral view",
+      "Submentovertical view"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The occipitofrontal (Caldwell) view shows frontal and ethmoidal sinuses best. The occipitomental (Water) view shows the maxillary sinuses, and an open-mouth occipitomental (Pierre) view shows the sphenoid. CT has largely replaced plain films.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (best X-ray for frontal sinus — Caldwell view), 2020 NEET-PG (occipitomental with open mouth — Pierre view)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2020 INI-CET (best X-ray for frontal sinus — Caldwell view), 2020 NEET-PG (occipitomental with open mouth — Pierre view)"
+    }
+  },
+  {
+    "id": "ent_q_74",
+    "questionNumber": 74,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A patient 15 years after facial trauma has non-axial proptosis of the left eye, and CT shows an expansile well-defined lesion of the frontal sinus. The diagnosis is",
+    "options": [
+      "Osteoma",
+      "Frontal mucocele",
+      "Fibrous dysplasia",
+      "Inverted papilloma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Obstruction of the frontonasal duct traps mucus, which slowly expands and remodels bone. Infection converts it to a mucopyocele. Treatment is marsupialisation or endoscopic drainage with restoration of drainage.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (RTA 15 years back, non-axial proptosis, expansile frontal lesion — frontal mucocele)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 NEET-PG (RTA 15 years back, non-axial proptosis, expansile frontal lesion — frontal mucocele)"
+    }
+  },
+  {
+    "id": "ent_q_75",
+    "questionNumber": 75,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The Caldwell–Luc operation gains access to the maxillary sinus through",
+    "options": [
+      "An external ethmoidectomy incision",
+      "The inferior meatus",
+      "An incision in the canine fossa of the gingivobuccal sulcus",
+      "A coronal flap"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is used for chronic maxillary sinusitis resistant to treatment, for biopsy of antral lesions and for access in some maxillectomies. Infraorbital nerve injury and devitalised teeth are recognised complications.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (Caldwell–Luc for chronic maxillary sinusitis and antral biopsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2017 AIIMS (Caldwell–Luc for chronic maxillary sinusitis and antral biopsy)"
+    }
+  },
+  {
+    "id": "ent_q_76",
+    "questionNumber": 76,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "During functional endoscopic sinus surgery, injury to the optic nerve is most likely when operating on",
+    "options": [
+      "The bulla ethmoidalis",
+      "Haller cells",
+      "Agger nasi cells",
+      "Onodi (sphenoethmoidal) cells"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A posterior ethmoidal cell pneumatising around the optic nerve brings the nerve into the surgical field. Haller (infraorbital) cells narrow the maxillary ostium, and agger nasi cells lie in front of the middle turbinate attachment.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (optic nerve injury in FESS — Onodi cells)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2016 AIIMS (optic nerve injury in FESS — Onodi cells)"
+    }
+  },
+  {
+    "id": "ent_q_77",
+    "questionNumber": 77,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The pterygopalatine fossa communicates LATERALLY with the infratemporal fossa through the",
+    "options": [
+      "Inferior orbital fissure",
+      "Sphenopalatine foramen",
+      "Pterygomaxillary fissure",
+      "Foramen rotundum"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Medially it communicates with the nose through the sphenopalatine foramen, and superiorly with the orbit through the inferior orbital fissure. The 2016 statement describing a medial communication with the infratemporal fossa was therefore false.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (pterygopalatine fossa communicates medially with infratemporal fossa — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2016 AIIMS (pterygopalatine fossa communicates medially with infratemporal fossa — false)"
+    }
+  },
+  {
+    "id": "ent_q_78",
+    "questionNumber": 78,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Air within the superior turbinate on CT is described as",
+    "options": [
+      "Pneumatisation (concha bullosa of the superior turbinate)",
+      "A mucocele",
+      "An Onodi cell",
+      "A Haller cell"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Concha bullosa most often affects the middle turbinate and may narrow the middle meatus, contributing to recurrent sinusitis. It is a normal anatomical variant unless symptomatic.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (air in superior turbinate — pneumatisation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2022 INI-CET (air in superior turbinate — pneumatisation)"
+    }
+  },
+  {
+    "id": "ent_q_79",
+    "questionNumber": 79,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Olfactory function is assessed with all of the following EXCEPT",
+    "options": [
+      "The University of Pennsylvania Smell Identification Test",
+      "The Cross-Cultural Smell Identification Test",
+      "Smell diskettes",
+      "The Rinne test"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The Rinne test assesses hearing. Olfactory tests use standardised odorants, and substances that stimulate the trigeminal nerve, such as ammonia, are avoided because they are perceived even in true anosmia and can unmask malingering.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (olfactory tests — UPSIT, CC-SIT, smell diskette)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2022 INI-CET (olfactory tests — UPSIT, CC-SIT, smell diskette)"
+    }
+  },
+  {
+    "id": "ent_q_80",
+    "questionNumber": 80,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A South Indian cattle breeder who bathes in ponds has epistaxis and a reddish pedunculated nasal mass studded with whitish spots. Histology shows large sporangia containing numerous endospores. The agent",
+    "options": [
+      "Cannot be cultured on artificial media, and treatment is excision with dapsone",
+      "Responds to fluconazole",
+      "Is a dematiaceous mould",
+      "Grows readily on Sabouraud agar"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "*Rhinosporidium seeberi* is now classified among aquatic protists (Mesomycetozoea), not true fungi. The whitish spots are sporangia seen through the surface, and recurrence after excision is common.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (reddish mass with sporangia and endospores — rhinosporidiosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2024 INI-CET (reddish mass with sporangia and endospores — rhinosporidiosis)"
+    }
+  },
+  {
+    "id": "ent_q_81",
+    "questionNumber": 81,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A diabetic patient recently treated with steroids for COVID-19 has nasal obstruction, facial and orbital swelling, and biopsy shows broad hyphae without septa. Management requires",
+    "options": [
+      "Oral fluconazole alone",
+      "Liposomal amphotericin B with urgent surgical debridement and glycaemic control",
+      "Voriconazole alone",
+      "Observation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Mucormycosis is angioinvasive, producing thrombosis and black necrotic eschar, so antifungals cannot reach devitalised tissue without debridement. Voriconazole has no activity against Mucorales.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (diabetic with COVID and steroids, aseptate hyphae — Mucor), 2022 NEET-PG (loosening of teeth — nasal swab for mucormycosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 INI-CET (diabetic with COVID and steroids, aseptate hyphae — Mucor), 2022 NEET-PG (loosening of teeth — nasal swab for mucormycosis)"
+    }
+  },
+  {
+    "id": "ent_q_82",
+    "questionNumber": 82,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Which is NOT a major criterion (Bent and Kuhn) for the diagnosis of allergic fungal sinusitis?",
+    "options": [
+      "Type I hypersensitivity",
+      "Nasal polyposis",
+      "Eosinophilic mucin without tissue invasion",
+      "A positive fungal culture"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Culture positivity is a **minor** criterion, because it is inconsistent. Major criteria are type I hypersensitivity, polyposis, characteristic CT findings, eosinophilic mucin without invasion, and positive fungal stain of the mucin.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (not a major criterion for allergic fungal sinusitis — positive fungal culture), 2014 AIIMS (heterogeneous opacification — allergic fungal rhinosinusitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2020 INI-CET (not a major criterion for allergic fungal sinusitis — positive fungal culture), 2014 AIIMS (heterogeneous opacification — allergic fungal rhinosinusitis)"
+    }
+  },
+  {
+    "id": "ent_q_83",
+    "questionNumber": 83,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A 60-year-old man has a lesion on the nose with a pearly rolled border and central ulceration that bleeds on touch. The lesion is",
+    "options": [
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma",
+      "Keratoacanthoma",
+      "Melanoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is the commonest skin malignancy, related to ultraviolet exposure, and spreads by local invasion (rodent ulcer) with the least tendency to lymphatic spread of any carcinoma. Treatment is excision with margin control or Mohs surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pearly rolled border with central ulceration — BCC), 2015 AIIMS (ulcer with beaded edges on nose — BCC)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2024 INI-CET (pearly rolled border with central ulceration — BCC), 2015 AIIMS (ulcer with beaded edges on nose — BCC)"
+    }
+  },
+  {
+    "id": "ent_q_84",
+    "questionNumber": 84,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Ohngren line, used in staging maxillary malignancy, runs from",
+    "options": [
+      "The alveolus to the hard palate",
+      "The lateral canthus to the tragus",
+      "The nasion to the occiput",
+      "The medial canthus to the angle of the mandible"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Tumours above the line (suprastructure) have a worse prognosis because of orbital and intracranial spread; those below (infrastructure) do better. It is a prognostic rather than a formal staging line.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (line joining medial canthus to angle of mandible — Ohngren's line)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2015 AIIMS (line joining medial canthus to angle of mandible — Ohngren's line)"
+    }
+  },
+  {
+    "id": "ent_q_85",
+    "questionNumber": 85,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Trotter triad in nasopharyngeal carcinoma consists of",
+    "options": [
+      "Vertigo, tinnitus and hearing loss",
+      "Proptosis, epistaxis and anosmia",
+      "Conductive deafness, ipsilateral temporoparietal neuralgia and soft palate palsy",
+      "Otorrhoea, retro-orbital pain and sixth nerve palsy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Tumour in the fossa of Rosenmüller obstructs the eustachian tube, invades the parapharyngeal space and involves the mandibular nerve. Unilateral serous otitis media in an adult therefore demands nasopharyngoscopy.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (Trotter's triad — ear pain, unilateral conductive deafness, soft palate palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2018 AIIMS (Trotter's triad — ear pain, unilateral conductive deafness, soft palate palsy)"
+    }
+  },
+  {
+    "id": "ent_q_86",
+    "questionNumber": 86,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The small recess in the nasopharynx lying posterior and superior to the eustachian tube opening is the",
+    "options": [
+      "Fossa of Rosenmüller",
+      "Fossa of Luschka",
+      "Pyriform fossa",
+      "Vallecula"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is the commonest site of origin of nasopharyngeal carcinoma, which is associated with Epstein–Barr virus, salted fish and a southern Chinese and north-eastern Indian distribution. Radiotherapy is the primary treatment.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (recess posterior and superior to eustachian tube — fossa of Rosenmüller)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2022 NEET-PG (recess posterior and superior to eustachian tube — fossa of Rosenmüller)"
+    }
+  },
+  {
+    "id": "ent_q_87",
+    "questionNumber": 87,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Nasopharyngeal chordoma arises from remnants of the",
+    "options": [
+      "Notochord",
+      "Rathke pouch",
+      "Branchial apparatus",
+      "Neural crest"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Chordomas occur at the clivus and sacrococcygeal region, and are locally destructive and slowly growing. Histology shows physaliphorous (vacuolated) cells. A craniopharyngioma arises from Rathke pouch instead.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (nasopharyngeal chordoma originates from notochord, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (nasopharyngeal chordoma originates from notochord, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_88",
+    "questionNumber": 88,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Features of a fracture of the zygomatic (malar) complex include all of the following EXCEPT",
+    "options": [
+      "Flattening of the cheek prominence",
+      "Trismus",
+      "Anaesthesia over the infraorbital nerve distribution",
+      "Merciful anosmia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Merciful anosmia belongs to atrophic rhinitis. Zygomatic fracture also causes diplopia, subconjunctival haemorrhage and a step deformity at the orbital rim. Trismus results from impingement on the temporalis and masseter.",
+    "tag": "INI-CET",
+    "exam": "2017 AIIMS (malar fracture — flattening, trismus, infraorbital anaesthesia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2017 AIIMS (malar fracture — flattening, trismus, infraorbital anaesthesia)"
+    }
+  },
+  {
+    "id": "ent_q_89",
+    "questionNumber": 89,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Facial bone fractures are ideally reduced",
+    "options": [
+      "After 3 weeks by open reduction in all cases",
+      "Within the first 7–10 days, before fibrous union sets in",
+      "After 6 weeks",
+      "Only when cosmetic concerns arise"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Earlier reduction gives better functional and cosmetic results; delay makes reduction harder and may need osteotomy. Where swelling prevents assessment, a short delay of a few days is accepted.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (fractures of facial bones corrected by open reduction after 3 weeks)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2014 AIIMS (fractures of facial bones corrected by open reduction after 3 weeks)"
+    }
+  },
+  {
+    "id": "ent_q_90",
+    "questionNumber": 90,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A soft flexible tube passed through the nostril to maintain an open airway in a semiconscious patient is a",
+    "options": [
+      "Laryngeal mask airway",
+      "Oropharyngeal (Guedel) airway",
+      "Nasopharyngeal airway",
+      "Tracheostomy tube"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is better tolerated than an oral airway when the gag reflex is intact and when the mouth cannot be opened. It is avoided in suspected basal skull fracture because of the risk of intracranial placement.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (soft flexible tube through nasal passage — nasopharyngeal airway)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 NEET-PG (soft flexible tube through nasal passage — nasopharyngeal airway)"
+    }
+  },
+  {
+    "id": "ent_q_91",
+    "questionNumber": 91,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "An external incision across the columella, used to gain wide access in nasal surgery, is characteristic of",
+    "options": [
+      "Lateral rhinotomy",
+      "Caldwell–Luc operation",
+      "Young operation",
+      "The open (external) rhinoplasty approach"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The transcolumellar incision joined to marginal incisions allows the skin envelope to be lifted for direct tip work. The closed approach avoids the external scar but gives less exposure.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (external incision across columella — rhinoplasty)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 NEET-PG (external incision across columella — rhinoplasty)"
+    }
+  },
+  {
+    "id": "ent_q_92",
+    "questionNumber": 92,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Which paranasal sinus continues to enlarge into adult life, and is the last to develop?",
+    "options": [
+      "Anterior ethmoidal cells",
+      "Maxillary sinus",
+      "Sphenoid sinus",
+      "Posterior ethmoidal cells"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Maxillary and ethmoidal sinuses are present at birth as rudiments. The frontal sinus develops from about 2 years and is radiologically visible by 6 years, and its pattern is unique to each person, making it valuable for identification.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (sinus continuing to grow in adulthood — sphenoid)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2015 AIIMS (sinus continuing to grow in adulthood — sphenoid)"
+    }
+  },
+  {
+    "id": "ent_q_93",
+    "questionNumber": 93,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The sinus most often involved in acute sinusitis, and the reason, is the",
+    "options": [
+      "Ethmoid sinus, because of its thin walls",
+      "Frontal sinus, because of its narrow duct",
+      "Sphenoid sinus, because of its deep position",
+      "Maxillary sinus, because its ostium lies high on the medial wall"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Drainage therefore has to work against gravity and depends on mucociliary clearance. Dental infection of the upper molars is an additional route, and odontogenic sinusitis is usually unilateral and foul-smelling.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (opacification of maxillary sinuses — maxillary sinusitis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (opacification of maxillary sinuses — maxillary sinusitis, 3X)"
+    }
+  },
+  {
+    "id": "ent_q_94",
+    "questionNumber": 94,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "The commonest cause of orbital complications of sinusitis in a child is infection of the",
+    "options": [
+      "Ethmoid sinus",
+      "Maxillary sinus",
+      "Frontal sinus",
+      "Sphenoid sinus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The lamina papyracea is paper-thin. Chandler classification grades orbital involvement from preseptal cellulitis to cavernous sinus thrombosis; a subperiosteal or orbital abscess requires drainage, and visual acuity must be monitored.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Onodi cells and optic nerve), 2023 NEET-PG (frontal mucocele with proptosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Nose",
+      "basedOn": "2016 AIIMS (Onodi cells and optic nerve), 2023 NEET-PG (frontal mucocele with proptosis)"
+    }
+  },
+  {
+    "id": "ent_q_95",
+    "questionNumber": 95,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "In a child with unilateral foul-smelling purulent nasal discharge of some weeks' duration, the first diagnosis to exclude is",
+    "options": [
+      "Allergic rhinitis",
+      "A nasal foreign body",
+      "Antrochoanal polyp",
+      "Adenoid hypertrophy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Unilateral foul discharge in a child is the classic presentation. A long-retained foreign body may become encrusted with calcium salts, forming a rhinolith. Removal is by instrumentation under good illumination, avoiding pushing it backwards.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (button battery ingestion), 2020 NEET-PG (atrophic rhinitis with foul crusts)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2022 NEET-PG (button battery ingestion), 2020 NEET-PG (atrophic rhinitis with foul crusts)"
+    }
+  },
+  {
+    "id": "ent_q_96",
+    "questionNumber": 96,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A child presents with suspected choanal atresia. The characteristic clinical feature of bilateral atresia in the newborn is",
+    "options": [
+      "Cyclical cyanosis relieved by crying",
+      "Continuous stridor",
+      "Hoarse cry",
+      "Unilateral discharge"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Neonates are obligate nasal breathers, so obstruction causes cyanosis that improves with mouth breathing during crying. Bilateral atresia is a neonatal emergency needing an oral airway, and it is associated with CHARGE syndrome.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (nasopharyngeal airway), nasal obstruction cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2023 NEET-PG (nasopharyngeal airway), nasal obstruction cluster"
+    }
+  },
+  {
+    "id": "ent_q_97",
+    "questionNumber": 97,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "A child with mouth breathing, crowded teeth, a high arched palate and a long face has",
+    "options": [
+      "Adenoid facies from adenoid hypertrophy",
+      "Choanal atresia",
+      "Allergic rhinitis",
+      "Nasal polyposis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Chronic nasal obstruction alters facial growth. Associated features are recurrent otitis media with effusion, hyponasal speech and obstructive sleep apnoea. Lateral soft tissue radiography or nasal endoscopy confirms the diagnosis.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (crowded teeth and mouth breathing — adenoid hypertrophy), 2022 INI-CET (high arched palate with type B tympanogram)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2021 INI-CET (crowded teeth and mouth breathing — adenoid hypertrophy), 2022 INI-CET (high arched palate with type B tympanogram)"
+    }
+  },
+  {
+    "id": "ent_q_98",
+    "questionNumber": 98,
+    "subject": "ENT",
+    "subTopic": "Nose",
+    "sub_topic": "Nose",
+    "stem": "Recognised complications of adenoidectomy include all of the following EXCEPT",
+    "options": [
+      "Velopharyngeal insufficiency",
+      "Atlantoaxial subluxation (Grisel syndrome)",
+      "Nasopharyngeal stenosis",
+      "Permanent anosmia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The olfactory epithelium lies in the roof of the nasal cavity, far from the operative field. Velopharyngeal insufficiency is why a submucous cleft palate must be excluded before surgery, by looking for a bifid uvula and notched hard palate.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (complications of adenoidectomy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Nose",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (complications of adenoidectomy, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_99",
+    "questionNumber": 99,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "The commonest cause of croup (acute laryngotracheobronchitis) is",
+    "options": [
+      "Haemophilus influenzae type b",
+      "Parainfluenza virus",
+      "Respiratory syncytial virus",
+      "Corynebacterium diphtheriae"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It gives a barking cough, inspiratory stridor and hoarseness, with a \"steeple sign\" on radiography. Treatment is nebulised adrenaline and corticosteroids. Acute epiglottitis, caused by *H. influenzae* type b, has a thumb sign and drooling with no cough.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (commonest cause of croup — parainfluenza and influenza virus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2024 INI-CET (commonest cause of croup — parainfluenza and influenza virus)"
+    }
+  },
+  {
+    "id": "ent_q_100",
+    "questionNumber": 100,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Inspiratory stridor in isolation localises the obstruction to the",
+    "options": [
+      "Trachea",
+      "Subglottis",
+      "Supraglottis or above",
+      "Bronchi"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Glottic and subglottic lesions give biphasic stridor, and tracheobronchial lesions give expiratory stridor or wheeze. The timing of stridor is therefore the first step in localising airway obstruction.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (inspiratory stridor — supraglottic lesions, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (inspiratory stridor — supraglottic lesions, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_101",
+    "questionNumber": 101,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "The commonest cause of stridor in a neonate is",
+    "options": [
+      "Laryngeal web",
+      "Vocal cord palsy",
+      "Subglottic stenosis",
+      "Laryngomalacia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Stridor worsens when supine and with feeding, and improves when prone. Most cases resolve by 18–24 months. Severe cases with failure to thrive or apnoea need supraglottoplasty. Recurrent respiratory papillomatosis is another cause of infantile stridor.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (stridor in infants — laryngomalacia, subglottic stenosis, recurrent respiratory papillomatosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2020 INI-CET (stridor in infants — laryngomalacia, subglottic stenosis, recurrent respiratory papillomatosis)"
+    }
+  },
+  {
+    "id": "ent_q_102",
+    "questionNumber": 102,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "A 5-year-old has progressive hoarseness and stridor, and laryngoscopy shows multiple warty growths on the vocal cords. The causative agent and the main concern are",
+    "options": [
+      "HPV 6 and 11, with recurrence requiring repeated debulking",
+      "HPV 16 and 18, with rapid malignant change",
+      "Epstein–Barr virus",
+      "Herpes simplex virus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Juvenile recurrent respiratory papillomatosis is acquired during vaginal delivery from maternal genital warts. Microdebrider or laser excision is used, avoiding tracheostomy which encourages distal spread. Topical or intralesional cidofovir is an adjuvant.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2015 AIIMS (multiple papillomatous growths on cords, 4X), 2016 AIIMS (causative organism — HPV), 2014 AIIMS (topical cidofovir)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2018 NEET-PG / 2015 AIIMS (multiple papillomatous growths on cords, 4X), 2016 AIIMS (causative organism — HPV), 2014 AIIMS (topical cidofovir)"
+    }
+  },
+  {
+    "id": "ent_q_103",
+    "questionNumber": 103,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Match each laryngeal muscle with its action on the vocal cords.\n\n| Muscle | Action |\n|---|---|\n| 1. Posterior cricoarytenoid | a. Tenses and elongates the cords |\n| 2. Lateral cricoarytenoid | b. Abducts the cords |\n| 3. Cricothyroid | c. Relaxes and shortens the cords |\n| 4. Thyroarytenoid | d. Adducts the cords |",
+    "options": [
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-d, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The posterior cricoarytenoid is the only abductor and therefore the only one whose paralysis threatens the airway. All intrinsic muscles are supplied by the recurrent laryngeal nerve except cricothyroid, which is supplied by the external laryngeal nerve.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (position of cords with cricoarytenoid in neutral position), 2018 NEET-PG / 2017 AIIMS (cricothyroid palsy, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2016 AIIMS (position of cords with cricoarytenoid in neutral position), 2018 NEET-PG / 2017 AIIMS (cricothyroid palsy, 3X)"
+    }
+  },
+  {
+    "id": "ent_q_104",
+    "questionNumber": 104,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Bowing with depression of the vocal cord, giving a weak breathy voice and inability to reach high notes, indicates palsy of the",
+    "options": [
+      "Thyroarytenoid",
+      "Posterior cricoarytenoid",
+      "Cricothyroid muscle",
+      "Interarytenoid"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Loss of the external laryngeal nerve removes the tensor of the cord. This is the characteristic injury after ligation of the superior thyroid artery too far from the gland, and it matters most to singers.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2017 AIIMS (depressed and bowing vocal cords — cricothyroid palsy, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2018 NEET-PG / 2017 AIIMS (depressed and bowing vocal cords — cricothyroid palsy, 3X)"
+    }
+  },
+  {
+    "id": "ent_q_105",
+    "questionNumber": 105,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Immediately after thyroidectomy a patient develops stridor, cyanosis and falling oxygen saturation. The most likely cause is",
+    "options": [
+      "External laryngeal nerve injury",
+      "Unilateral recurrent laryngeal nerve palsy",
+      "Hypocalcaemia",
+      "Bilateral recurrent laryngeal nerve palsy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both cords lie near the midline, leaving a narrow chink, so the voice may be surprisingly good while the airway is critical. Immediate reintubation and often tracheostomy are needed. Haematoma compressing the airway is the other emergency to exclude.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (cyanosis and reduced SpO₂ after thyroidectomy — bilateral RLN palsy), 2023 INI-CET (bilateral complete RLN palsy has poor prognosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2021 NEET-PG (cyanosis and reduced SpO₂ after thyroidectomy — bilateral RLN palsy), 2023 INI-CET (bilateral complete RLN palsy has poor prognosis)"
+    }
+  },
+  {
+    "id": "ent_q_106",
+    "questionNumber": 106,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Which recurrent laryngeal nerve injury carries the WORST prognosis for voice and airway?",
+    "options": [
+      "Unilateral incomplete palsy",
+      "Unilateral complete palsy",
+      "Bilateral complete palsy",
+      "Bilateral incomplete palsy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Both cords lie in the cadaveric (intermediate) position with no compensation possible, so voice and airway are both compromised. Unilateral palsy is compensated over months by the opposite cord crossing the midline.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (RLN injury with very poor prognosis — bilateral complete palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2023 INI-CET (RLN injury with very poor prognosis — bilateral complete palsy)"
+    }
+  },
+  {
+    "id": "ent_q_107",
+    "questionNumber": 107,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "When the cricoarytenoid joints are in the neutral position with no muscle activity, the vocal cords lie in the",
+    "options": [
+      "Median position",
+      "Intermediate (cadaveric) position",
+      "Full abduction",
+      "Paramedian position"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The cords lie about 3.5 mm from the midline. The median position is full adduction (phonation), the paramedian position is seen in recurrent laryngeal nerve palsy, and full abduction occurs on deep inspiration.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (position of cords with cricoarytenoids in neutral position — intermediate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2016 AIIMS (position of cords with cricoarytenoids in neutral position — intermediate)"
+    }
+  },
+  {
+    "id": "ent_q_108",
+    "questionNumber": 108,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Kashima operation (posterior transverse cordotomy) is performed for",
+    "options": [
+      "Bilateral vocal cord palsy in abduction",
+      "Bilateral vocal cord palsy in adduction, to enlarge the glottic airway",
+      "Early glottic carcinoma",
+      "Vocal nodules"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A CO₂ laser wedge is removed from the posterior part of the cord, which widens the airway at the cost of some voice quality, and may avoid permanent tracheostomy.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (Kashima surgery — CO₂ mediated cordectomy), 2014 AIIMS (Kashima operation for vocal cord palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2016 AIIMS (Kashima surgery — CO₂ mediated cordectomy), 2014 AIIMS (Kashima operation for vocal cord palsy)"
+    }
+  },
+  {
+    "id": "ent_q_109",
+    "questionNumber": 109,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "A fish bone impacted in the pyriform fossa is removed, and the patient subsequently has an impaired cough reflex with loss of sensation above the vocal cords. The nerve injured is the",
+    "options": [
+      "Internal branch of the superior laryngeal nerve",
+      "External branch of the superior laryngeal nerve",
+      "Recurrent laryngeal nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It runs submucosally in the pyriform fossa and is purely sensory to the laryngeal mucosa above the cords, forming the afferent limb of the cough reflex. Its loss predisposes to silent aspiration.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (fish bone in pyriform fossa — internal branch of superior laryngeal nerve, 2X), 2016 AIIMS (nerve injured taking out fish bone)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2022 INI-CET (fish bone in pyriform fossa — internal branch of superior laryngeal nerve, 2X), 2016 AIIMS (nerve injured taking out fish bone)"
+    }
+  },
+  {
+    "id": "ent_q_110",
+    "questionNumber": 110,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Laryngeal carcinoma that invades through the thyroid cartilage is staged as",
+    "options": [
+      "T4",
+      "T3",
+      "T2",
+      "T1b"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "T1 is confined to one (T1a) or both (T1b) cords with normal mobility, T2 extends to the supraglottis or subglottis or impairs mobility, T3 fixes the cord or invades the paraglottic space with inner cortex erosion, and T4 breaches the cartilage or extends outside the larynx.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (laryngeal cancer invading thyroid cartilage — T4)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2021 INI-CET (laryngeal cancer invading thyroid cartilage — T4)"
+    }
+  },
+  {
+    "id": "ent_q_111",
+    "questionNumber": 111,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Squamous cell carcinoma of the glottis has a better prognosis than supraglottic carcinoma because",
+    "options": [
+      "The glottis has sparse lymphatic drainage, so nodal spread is late",
+      "Glottic tumours are usually detected incidentally",
+      "Glottic tumours are less often squamous",
+      "The glottis is more radiosensitive"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It also presents early with hoarseness. Supraglottic tumours have rich bilateral lymphatics and present late with throat pain, referred otalgia or a neck node. Smoking and alcohol are the main risk factors.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (SCC larynx — commonest type, HPV 16 and 18, change of voice)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2018 AIIMS (SCC larynx — commonest type, HPV 16 and 18, change of voice)"
+    }
+  },
+  {
+    "id": "ent_q_112",
+    "questionNumber": 112,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "After total laryngectomy, the patient has a permanent stoma in the neck because",
+    "options": [
+      "The vocal cords are removed only",
+      "The trachea is brought out and separated from the pharynx",
+      "A tracheostomy tube is left in place temporarily",
+      "The oesophagus is diverted"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The airway and food passages are permanently separated, so the patient cannot breathe through the nose or mouth and loses the normal voice. A near-total or partial laryngectomy preserves some function.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (permanent stoma in neck — total laryngectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2022 NEET-PG (permanent stoma in neck — total laryngectomy)"
+    }
+  },
+  {
+    "id": "ent_q_113",
+    "questionNumber": 113,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Methods of voice rehabilitation after total laryngectomy include all EXCEPT",
+    "options": [
+      "Oesophageal speech",
+      "Tracheo-oesophageal puncture with a voice prosthesis",
+      "An electrolarynx",
+      "Thyroplasty medialisation"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Medialisation thyroplasty is used for unilateral **vocal cord palsy**, where cords still exist. After laryngectomy the cords are gone. The tracheo-oesophageal prosthesis gives the best voice quality of the three valid options.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (techniques after total laryngectomy — polite yawning, oesophageal voice, tracheo-oesophageal prosthesis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2020 INI-CET (techniques after total laryngectomy — polite yawning, oesophageal voice, tracheo-oesophageal prosthesis)"
+    }
+  },
+  {
+    "id": "ent_q_114",
+    "questionNumber": 114,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "In a patient with carcinoma of the larynx scheduled for total laryngectomy who needs an emergency airway, the preferred tracheostomy is",
+    "options": [
+      "Low tracheostomy",
+      "Mid tracheostomy",
+      "High tracheostomy",
+      "Cricothyroidotomy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A high opening, through the first or second tracheal ring, can be excised with the specimen at laryngectomy. It is otherwise avoided because it risks perichondritis of the cricoid and subglottic stenosis.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (high tracheostomy preferred in cancer larynx for laryngectomy, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Larynx",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (high tracheostomy preferred in cancer larynx for laryngectomy, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_115",
+    "questionNumber": 115,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "In a patient with severe maxillofacial injury, an obstructed airway and inability to open the mouth, the immediate step is",
+    "options": [
+      "Laryngeal mask airway",
+      "Elective tracheostomy in theatre",
+      "Nasotracheal intubation",
+      "Cricothyroidotomy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The cricothyroid membrane is superficial and easily palpated, allowing the fastest surgical airway. It is avoided in children under about 12 and is converted to a formal tracheostomy within 24–48 hours.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (maxillofacial and laryngeal injury with obstructed airway — cricothyroidotomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2015 AIIMS (maxillofacial and laryngeal injury with obstructed airway — cricothyroidotomy)"
+    }
+  },
+  {
+    "id": "ent_q_116",
+    "questionNumber": 116,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Tracheostomy would be technically most difficult in a patient whose radiograph shows",
+    "options": [
+      "Mild tracheal ring calcification",
+      "A normal trachea",
+      "Significant narrowing and deviation of the trachea",
+      "An elevated hemidiaphragm"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A compressed, displaced trachea, typically from a large retrosternal goitre or mediastinal mass, is hard to locate and cannulate. Such patients need the procedure done by an experienced surgeon with the airway secured first where possible.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (significant narrowing of trachea — tracheostomy will be difficult)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2023 NEET-PG (significant narrowing of trachea — tracheostomy will be difficult)"
+    }
+  },
+  {
+    "id": "ent_q_117",
+    "questionNumber": 117,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Recognised indications for tracheostomy include all of the following EXCEPT",
+    "options": [
+      "Prolonged mechanical ventilation",
+      "Bronchial toilet in a patient unable to clear secretions",
+      "Upper airway obstruction",
+      "Acute severe asthma with normal upper airway"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Asthma is a lower airway problem, so bypassing the upper airway does not help. The three valid groups are relief of upper airway obstruction, bronchial toilet and prolonged ventilation.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (tracheostomy tube used for prolonged ventilation, nasopharyngeal obstruction, airway toileting)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2022 NEET-PG (tracheostomy tube used for prolonged ventilation, nasopharyngeal obstruction, airway toileting)"
+    }
+  },
+  {
+    "id": "ent_q_118",
+    "questionNumber": 118,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "A child intubated for a prolonged period develops respiratory distress, and endoscopy shows circumferential narrowing below the vocal cords. The system used to grade this is",
+    "options": [
+      "Cotton–Myer classification",
+      "Sadé classification",
+      "Chandler classification",
+      "Wullstein classification"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It grades subglottic stenosis from I (up to 50% obstruction) to IV (no detectable lumen). Prolonged intubation is the commonest acquired cause, since the subglottis is the narrowest part of a child's airway and is encircled by rigid cricoid cartilage.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG (narrowing below vocal cords after prolonged intubation — Cotton–Myer classification)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2018 NEET-PG (narrowing below vocal cords after prolonged intubation — Cotton–Myer classification)"
+    }
+  },
+  {
+    "id": "ent_q_119",
+    "questionNumber": 119,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "Topical mitomycin C is applied after endoscopic dilatation of subglottic stenosis in order to",
+    "options": [
+      "Inhibit fibroblast proliferation and reduce restenosis",
+      "Act as an antibiotic",
+      "Provide local anaesthesia",
+      "Reduce secretions"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Mitomycin C is an alkylating antineoplastic that suppresses collagen synthesis at the healing surface. Intralesional corticosteroid is used for the same purpose.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG (mitomycin used in subglottic stenosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2020 NEET-PG (mitomycin used in subglottic stenosis)"
+    }
+  },
+  {
+    "id": "ent_q_120",
+    "questionNumber": 120,
+    "subject": "ENT",
+    "subTopic": "Larynx",
+    "sub_topic": "Larynx",
+    "stem": "A supravital stain used during laryngeal examination to delineate abnormal mucosa is",
+    "options": [
+      "Lugol iodine",
+      "Toluidine blue",
+      "Methylene blue",
+      "Congo red"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It binds nuclear material and stains dysplastic or malignant epithelium more intensely, helping to direct biopsy. It is also used on the lip and oral cavity for premalignant lesions, and is a screening aid rather than a substitute for histology.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (stain used for laryngeal mass assessment — supravital stain), 2015 AIIMS pathology (toluidine blue for premalignant lip lesions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Larynx",
+      "basedOn": "2023 NEET-PG (stain used for laryngeal mass assessment — supravital stain), 2015 AIIMS pathology (toluidine blue for premalignant lip lesions)"
+    }
+  },
+  {
+    "id": "ent_q_121",
+    "questionNumber": 121,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "The structure passing between the superior and middle constrictor muscles of the pharynx is the",
+    "options": [
+      "Internal laryngeal nerve",
+      "Recurrent laryngeal nerve",
+      "Stylopharyngeus with the glossopharyngeal nerve",
+      "Auditory tube"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Above the superior constrictor pass the auditory tube and levator veli palatini; between the middle and inferior constrictors the internal laryngeal nerve and vessels; and below the inferior constrictor the recurrent laryngeal nerve.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (structure between superior and middle constrictor — stylopharyngeus and IX nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2024 INI-CET (structure between superior and middle constrictor — stylopharyngeus and IX nerve)"
+    }
+  },
+  {
+    "id": "ent_q_122",
+    "questionNumber": 122,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Impaired gag reflex indicates a lesion of",
+    "options": [
+      "The facial nerve",
+      "The trigeminal nerve only",
+      "The hypoglossal nerve",
+      "The glossopharyngeal nerve (afferent) and vagus (efferent)"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Touching the **soft palate** tests the palatal reflex, whose afferent limb is the maxillary division of the trigeminal nerve, so that is a different reflex from the gag reflex elicited from the posterior pharyngeal wall.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (impaired gag reflex — 9th and 10th nerve), 2020 NEET-PG (nerve tested by touching the soft palate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2023 NEET-PG (impaired gag reflex — 9th and 10th nerve), 2020 NEET-PG (nerve tested by touching the soft palate)"
+    }
+  },
+  {
+    "id": "ent_q_123",
+    "questionNumber": 123,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Referred otalgia in acute tonsillitis is carried by the",
+    "options": [
+      "Great auricular nerve",
+      "Auricular branch of the vagus",
+      "Tympanic branch of the glossopharyngeal nerve (Jacobson nerve)",
+      "Auriculotemporal nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The same nerve supplies both the tonsillar fossa and the middle ear, explaining ear pain after tonsillectomy. The auricular branch of the vagus (Arnold nerve) explains cough on stimulating the external canal.",
+    "tag": "INI-CET",
+    "exam": "2020 NEET-PG / 2017 AIIMS (referred pain of tonsillitis — glossopharyngeal/tympanic branch, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2020 NEET-PG / 2017 AIIMS (referred pain of tonsillitis — glossopharyngeal/tympanic branch, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_124",
+    "questionNumber": 124,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "The commonest source of bleeding within 24 hours of tonsillectomy is the",
+    "options": [
+      "Lingual artery",
+      "Facial artery",
+      "Ascending palatine artery",
+      "Peritonsillar vein"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Primary (within 24 hours) haemorrhage is usually venous from the tonsillar bed. Secondary haemorrhage at 5–10 days is due to infection of the fossa and is managed with antibiotics. Reactionary bleeding with a clot in the fossa requires return to theatre.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (commonest source of bleeding within 24 hours of tonsillectomy — peritonsillar vein), 2020 NEET-PG (bleeding in recovery room — shift to OT and ligate)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2022 INI-CET (commonest source of bleeding within 24 hours of tonsillectomy — peritonsillar vein), 2020 NEET-PG (bleeding in recovery room — shift to OT and ligate)"
+    }
+  },
+  {
+    "id": "ent_q_125",
+    "questionNumber": 125,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Instruments used in tonsillectomy include all of the following EXCEPT",
+    "options": [
+      "Harmonic scalpel",
+      "Coblation wand",
+      "Microdebrider",
+      "Microdebrider-driven suction diathermy forceps as a single instrument"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Coblation uses bipolar radiofrequency in saline at low temperature, reducing thermal injury and postoperative pain. The microdebrider is used for intracapsular tonsillotomy, which preserves the capsule and reduces pain.",
+    "tag": "INI-CET",
+    "exam": "2015 AIIMS (instruments in tonsillectomy — not suction diathermy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2015 AIIMS (instruments in tonsillectomy — not suction diathermy)"
+    }
+  },
+  {
+    "id": "ent_q_126",
+    "questionNumber": 126,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Enlarged orange-yellow tonsils with low plasma HDL indicate",
+    "options": [
+      "Tangier disease",
+      "Infectious mononucleosis",
+      "Lymphoma",
+      "Diphtheria"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An ABCA1 transporter defect prevents cholesterol efflux to apoA-I, so cholesteryl esters accumulate in macrophages throughout the reticuloendothelial system, including the tonsils. Hepatosplenomegaly and neuropathy accompany it.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (enlarged orange tonsils — Tangier's disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2023 INI-CET (enlarged orange tonsils — Tangier's disease)"
+    }
+  },
+  {
+    "id": "ent_q_127",
+    "questionNumber": 127,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A child has hoarseness with a thick greyish-white membrane over the tonsils that bleeds on removal. The organism and the most feared complication are",
+    "options": [
+      "Group A streptococcus; rheumatic fever",
+      "Corynebacterium diphtheriae; myocarditis and palatal palsy from the exotoxin",
+      "Epstein–Barr virus; splenic rupture",
+      "Candida; dissemination"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Antitoxin must be given on clinical suspicion without waiting for culture, together with antibiotics. The toxin ADP-ribosylates elongation factor 2. Airway obstruction from the membrane may require tracheostomy.",
+    "tag": "INI-CET",
+    "exam": "2018 NEET-PG / 2018 AIIMS (hoarseness with greyish-white membrane over tonsils — diphtheria, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2018 NEET-PG / 2018 AIIMS (hoarseness with greyish-white membrane over tonsils — diphtheria, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_128",
+    "questionNumber": 128,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A patient has trismus, a muffled \"hot potato\" voice, uvular deviation and unilateral bulging above the tonsil. The immediate management is",
+    "options": [
+      "Antibiotics alone in all cases",
+      "Immediate tonsillectomy",
+      "Needle aspiration or incision and drainage with antibiotics",
+      "Tracheostomy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Quinsy is a peritonsillar abscess lying between the tonsillar capsule and the superior constrictor. Interval tonsillectomy is offered after 4–6 weeks, or immediate (\"hot\") tonsillectomy in selected cases.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (tonsillectomy bleeding), 2023 INI-CET (orange tonsils), tonsil cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2022 INI-CET (tonsillectomy bleeding), 2023 INI-CET (orange tonsils), tonsil cluster"
+    }
+  },
+  {
+    "id": "ent_q_129",
+    "questionNumber": 129,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A patient has a swelling below the tongue pushing it upwards, with brawny induration of the submandibular region and difficulty opening the mouth. The condition is",
+    "options": [
+      "Ludwig angina",
+      "Ranula",
+      "Peritonsillar abscess",
+      "Retropharyngeal abscess"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is cellulitis of the submandibular, sublingual and submental spaces, usually odontogenic, and threatens the airway by displacing the tongue. Treatment is airway protection, intravenous antibiotics and decompression.",
+    "tag": "INI-CET",
+    "exam": "2014 AIIMS (pus below the tongue pushing it upwards with swelling and erythema — Ludwig angina)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2014 AIIMS (pus below the tongue pushing it upwards with swelling and erythema — Ludwig angina)"
+    }
+  },
+  {
+    "id": "ent_q_130",
+    "questionNumber": 130,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A retropharyngeal abscess that tracks down to the diaphragm does so through the",
+    "options": [
+      "Pretracheal space",
+      "Retropharyngeal space proper",
+      "\"Danger space\" between the alar and prevertebral fascia",
+      "Parapharyngeal space"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The danger space runs from the skull base to the posterior mediastinum, whereas the retropharyngeal space proper ends at about T1–T2 where the alar fascia fuses with the visceral fascia.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (retropharyngeal abscess as a complication of adenoidectomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (retropharyngeal abscess as a complication of adenoidectomy)"
+    }
+  },
+  {
+    "id": "ent_q_131",
+    "questionNumber": 131,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Match each structure with the effect of its involvement by a parapharyngeal mass.\n\n| Structure | Effect |\n|---|---|\n| 1. Oesophagus | a. Horner syndrome |\n| 2. Cervical sympathetic chain | b. Hoarseness of voice |\n| 3. Trachea | c. Dysphagia |\n| 4. Recurrent laryngeal nerve | d. Dyspnoea |",
+    "options": [
+      "1-c, 2-a, 3-b, 4-d",
+      "1-a, 2-c, 3-d, 4-b",
+      "1-c, 2-d, 3-a, 4-b",
+      "1-c, 2-a, 3-d, 4-b"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This pattern of compression is classically asked for retrosternal goitre and for parapharyngeal and mediastinal masses, where the combination of symptoms localises the lesion.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (match — oesophagus dysphagia, sympathetic chain Horner, trachea dyspnoea, RLN, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2024 INI-CET (match — oesophagus dysphagia, sympathetic chain Horner, trachea dyspnoea, RLN, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_132",
+    "questionNumber": 132,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "The structures removed in a classical radical neck dissection include all EXCEPT",
+    "options": [
+      "Levels I to V lymph nodes",
+      "Sternocleidomastoid, internal jugular vein and spinal accessory nerve",
+      "Submandibular gland and tail of parotid",
+      "Common carotid artery"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The carotid artery and vagus nerve are always preserved. A modified radical dissection spares one or more of the non-lymphatic structures, usually the spinal accessory nerve, and a selective dissection removes only nodal levels at risk.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (structures removed in radical neck dissection, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2021 INI-CET (structures removed in radical neck dissection, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_133",
+    "questionNumber": 133,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Match each cervical lymph node level with its boundaries.\n\n| Level | Boundaries |\n|---|---|\n| 1. Level II | a. Submental and submandibular nodes |\n| 2. Level III | b. Skull base to the hyoid bone |\n| 3. Level I | c. Posterior triangle nodes |\n| 4. Level V | d. Hyoid bone to the lower border of the cricoid |",
+    "options": [
+      "1-b, 2-d, 3-a, 4-c",
+      "1-d, 2-b, 3-a, 4-c",
+      "1-b, 2-a, 3-d, 4-c",
+      "1-b, 2-d, 3-c, 4-a"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Level IV runs from the cricoid to the clavicle, level VI is the central compartment, and level VII is superior mediastinal. Knowing levels predicts the primary site: level II drains the oropharynx and level VI the thyroid.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET / 2014 AIIMS (match — cervical lymph node groups, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2020 INI-CET / 2014 AIIMS (match — cervical lymph node groups, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_134",
+    "questionNumber": 134,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "The commonest site of a branchial cleft cyst is",
+    "options": [
+      "In the midline above the thyroid",
+      "Along the anterior border of the sternocleidomastoid, at the junction of its upper and middle thirds",
+      "In the posterior triangle",
+      "Behind the ear"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Second branchial cleft anomalies account for most cases. A thyroglossal cyst is midline and moves on tongue protrusion; a cystic hygroma is usually in the posterior triangle and transilluminates.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2014 AIIMS (commonest site of branchial cleft cyst — anterior border of SCM, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2019 NEET-PG / 2014 AIIMS (commonest site of branchial cleft cyst — anterior border of SCM, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_135",
+    "questionNumber": 135,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A coin lodged in the oesophagus appears on a frontal neck radiograph as",
+    "options": [
+      "A double ring",
+      "A linear opacity",
+      "A circular (en face) opacity",
+      "No opacity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The oesophagus is a flattened anteroposterior tube, so a flat object lies in the coronal plane and appears circular in front and linear from the side. A coin in the trachea shows the reverse.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (circular surface of coin seen en face — foreign body in oesophagus)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2021 NEET-PG (circular surface of coin seen en face — foreign body in oesophagus)"
+    }
+  },
+  {
+    "id": "ent_q_136",
+    "questionNumber": 136,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "A \"double ring\" or \"halo\" sign on a neck radiograph in a child who has swallowed a disc-shaped object indicates",
+    "options": [
+      "A bone fragment",
+      "A coin, which may be observed",
+      "A plastic bead",
+      "A button battery, requiring emergency endoscopic removal"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Electrolytic injury begins within 2 hours, causing liquefaction necrosis that can perforate into the aorta or trachea. The double ring reflects the bilaminar structure, distinguishing it from a coin.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (double ring sign on X-ray neck — button battery ingestion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2022 NEET-PG (double ring sign on X-ray neck — button battery ingestion)"
+    }
+  },
+  {
+    "id": "ent_q_137",
+    "questionNumber": 137,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "The narrowest part of the oesophagus, and therefore the commonest site of foreign body impaction, is at the",
+    "options": [
+      "Level of the left main bronchus",
+      "Level of the aortic arch",
+      "Cricopharyngeal sphincter",
+      "Diaphragmatic hiatus"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It lies about 15 cm from the incisors. Killian dehiscence, a weak area between the thyropharyngeus and cricopharyngeus, lies just above it and is the site of a pulsion (Zenker) diverticulum.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (coin en face — oesophageal foreign body), 2015 AIIMS anatomy (Killian dehiscence at cricopharynx)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Pharynx",
+      "basedOn": "2021 NEET-PG (coin en face — oesophageal foreign body), 2015 AIIMS anatomy (Killian dehiscence at cricopharynx)"
+    }
+  },
+  {
+    "id": "ent_q_138",
+    "questionNumber": 138,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "An elderly patient has dysphagia, regurgitation of undigested food, halitosis and a gurgling neck swelling. The diagnosis is",
+    "options": [
+      "Zenker (pulsion) diverticulum",
+      "Achalasia",
+      "Oesophageal carcinoma",
+      "Globus pharyngeus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is a pseudodiverticulum of mucosa through Killian dehiscence, caused by cricopharyngeal dysfunction. Barium swallow is diagnostic, and treatment is endoscopic stapled diverticulotomy with cricopharyngeal myotomy. Blind nasogastric tube insertion risks perforation.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (oesophageal foreign body), 2015 AIIMS (Killian dehiscence)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2021 NEET-PG (oesophageal foreign body), 2015 AIIMS (Killian dehiscence)"
+    }
+  },
+  {
+    "id": "ent_q_139",
+    "questionNumber": 139,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Unilateral serous otitis media with conductive hearing loss in a 50-year-old adult requires",
+    "options": [
+      "Nasopharyngeal examination to exclude a nasopharyngeal carcinoma",
+      "Reassurance only",
+      "Immediate grommet insertion alone",
+      "Adenoidectomy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A tumour in the fossa of Rosenmüller obstructs the eustachian tube. Grommet insertion without endoscopy can delay the diagnosis of a curable tumour, so endoscopy with biopsy of any suspicious area comes first.",
+    "tag": "INI-CET",
+    "exam": "2018 AIIMS (Trotter triad — unilateral conductive deafness), 2020 NEET-PG (serous otitis media)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2018 AIIMS (Trotter triad — unilateral conductive deafness), 2020 NEET-PG (serous otitis media)"
+    }
+  },
+  {
+    "id": "ent_q_140",
+    "questionNumber": 140,
+    "subject": "ENT",
+    "subTopic": "Pharynx",
+    "sub_topic": "Pharynx",
+    "stem": "Velopharyngeal insufficiency after adenoidectomy presents as",
+    "options": [
+      "Hyponasal speech",
+      "Hypernasal speech with nasal regurgitation of fluids",
+      "Hoarseness",
+      "Stridor"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The palate can no longer seal against the posterior pharyngeal wall. Risk is highest with an unrecognised submucous cleft palate, so a bifid uvula and notched hard palate are looked for before surgery.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2018 AIIMS (complications of adenoidectomy — velopharyngeal insufficiency, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Pharynx",
+      "basedOn": "2019 NEET-PG / 2018 AIIMS (complications of adenoidectomy — velopharyngeal insufficiency, 2X)"
+    }
+  },
+  {
+    "id": "ent_q_141",
+    "questionNumber": 141,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "Established risk factors for head and neck squamous carcinoma include all of the following EXCEPT",
+    "options": [
+      "Human papillomavirus",
+      "Betel nut and tobacco chewing",
+      "Epstein–Barr virus for nasopharyngeal carcinoma",
+      "Chronic allergic rhinitis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Allergic rhinitis is not carcinogenic. HPV-positive oropharyngeal carcinoma, typically in the tonsil and base of tongue, has a notably better prognosis and is staged separately from HPV-negative disease.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (risk factors for head and neck malignancy — HPV, EBV, betel nut)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2024 INI-CET (risk factors for head and neck malignancy — HPV, EBV, betel nut)"
+    }
+  },
+  {
+    "id": "ent_q_142",
+    "questionNumber": 142,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "A 55-year-old man has an indurated ulcer measuring 2.5 × 3.5 cm on the lateral border of the tongue, with no palpable nodes and no distant spread. The stage is",
+    "options": [
+      "T3 N0 M0",
+      "T1 N0 M0",
+      "T2 N0 M0",
+      "T4 N0 M0"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "For oral cavity cancer, T1 is 2 cm or less, T2 is more than 2 up to 4 cm, and T3 is more than 4 cm. The current staging also incorporates depth of invasion, which can upstage an otherwise small tumour.",
+    "tag": "INI-CET",
+    "exam": "2016 AIIMS (2.5 × 3.5 cm lesion on lateral tongue with no nodes — T2N0M0)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2016 AIIMS (2.5 × 3.5 cm lesion on lateral tongue with no nodes — T2N0M0)"
+    }
+  },
+  {
+    "id": "ent_q_143",
+    "questionNumber": 143,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "The commonest site of oral cavity squamous carcinoma in the Indian population, reflecting the habit of quid placement, is the",
+    "options": [
+      "Dorsum of the tongue",
+      "Floor of the mouth",
+      "Hard palate",
+      "Buccal mucosa and gingivobuccal sulcus"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "This contrasts with Western populations, where the tongue and floor of mouth dominate. The quid held in the sulcus produces prolonged local contact, and submucous fibrosis with trismus is a related premalignant condition.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (betel nut as a risk factor), 2016 AIIMS (tongue carcinoma staging)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2024 INI-CET (betel nut as a risk factor), 2016 AIIMS (tongue carcinoma staging)"
+    }
+  },
+  {
+    "id": "ent_q_144",
+    "questionNumber": 144,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "A bluish, translucent, fluctuant swelling in the floor of the mouth lateral to the midline is a",
+    "options": [
+      "Dermoid cyst",
+      "Thyroglossal cyst",
+      "Ranula",
+      "Ludwig angina"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is an extravasation cyst of the sublingual gland. A plunging ranula extends through the mylohyoid into the neck. Treatment is excision of the cyst with the sublingual gland to prevent recurrence.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (bluish translucent swelling in floor of mouth lateral to midline — ranula)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2020 INI-CET (bluish translucent swelling in floor of mouth lateral to midline — ranula)"
+    }
+  },
+  {
+    "id": "ent_q_145",
+    "questionNumber": 145,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "During parotid surgery, the facial nerve is identified using all of the following landmarks EXCEPT",
+    "options": [
+      "The tragal pointer",
+      "The posterior belly of digastric",
+      "The tympanomastoid suture",
+      "The hyoid bone"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The nerve is usually traced from the main trunk peripherally (antegrade), although retrograde dissection from a peripheral branch is used when a tumour obscures the trunk. The tympanomastoid suture is the most reliable landmark.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (surgical landmarks for parotid surgery — tragal pointer, posterior belly of digastric)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2023 NEET-PG (surgical landmarks for parotid surgery — tragal pointer, posterior belly of digastric)"
+    }
+  },
+  {
+    "id": "ent_q_146",
+    "questionNumber": 146,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "Which cranial nerve is purely motor and therefore has no role in taste?",
+    "options": [
+      "Vagus nerve",
+      "Facial nerve",
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Taste is carried by the facial nerve (chorda tympani) from the anterior two-thirds, the glossopharyngeal nerve from the posterior third and the circumvallate papillae, and the vagus from the epiglottic region. The hypoglossal nerve supplies only tongue movement.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (pure motor cranial nerve — hypoglossal), 2018 AIIMS (nerve not related to taste — hypoglossal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2022 INI-CET (pure motor cranial nerve — hypoglossal), 2018 AIIMS (nerve not related to taste — hypoglossal)"
+    }
+  },
+  {
+    "id": "ent_q_147",
+    "questionNumber": 147,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "The commonest salivary gland tumour, and its characteristic risk if incompletely excised, are",
+    "options": [
+      "Pleomorphic adenoma, with recurrence and a small risk of malignant transformation",
+      "Warthin tumour, with bilateral recurrence",
+      "Mucoepidermoid carcinoma, with nodal spread",
+      "Adenoid cystic carcinoma, with perineural spread"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Enucleation leaves pseudopodia behind, so superficial parotidectomy is the correct operation. Histology shows epithelial and myoepithelial cells in a chondromyxoid stroma. Adenoid cystic carcinoma is notable for perineural spread.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (parotid surgery landmarks), 2020 INI-CET pathology (pleomorphic adenoma features)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2023 NEET-PG (parotid surgery landmarks), 2020 INI-CET pathology (pleomorphic adenoma features)"
+    }
+  },
+  {
+    "id": "ent_q_148",
+    "questionNumber": 148,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "Frey syndrome after parotidectomy presents as",
+    "options": [
+      "Facial weakness",
+      "Sweating and flushing over the parotid region while eating",
+      "Numbness of the ear lobe",
+      "A salivary fistula"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Parasympathetic secretomotor fibres in the auriculotemporal nerve regenerate aberrantly into the sweat glands of the skin. Botulinum toxin injection is effective. Numbness of the ear lobe reflects great auricular nerve division.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (parotid surgery landmarks), 2020 NEET-PG anatomy (Frey syndrome — auriculotemporal nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2023 NEET-PG (parotid surgery landmarks), 2020 NEET-PG anatomy (Frey syndrome — auriculotemporal nerve)"
+    }
+  },
+  {
+    "id": "ent_q_149",
+    "questionNumber": 149,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "The duct most commonly affected by salivary calculi, and the reason, is the",
+    "options": [
+      "Sublingual ducts, because they are numerous",
+      "Parotid (Stensen) duct, because it is longer",
+      "Submandibular (Wharton) duct, because its secretion is viscid and alkaline and it drains uphill",
+      "Minor salivary ducts"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "About 80% of calculi are submandibular, and most are radio-opaque. The patient has pain and swelling with meals. Sialendoscopy or duct slitting is used for distal stones, and gland excision for recurrent disease.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (parotid surgery), salivary gland cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2023 NEET-PG (parotid surgery), salivary gland cluster"
+    }
+  },
+  {
+    "id": "ent_q_150",
+    "questionNumber": 150,
+    "subject": "ENT",
+    "subTopic": "Oral Cavity And Neck",
+    "sub_topic": "Oral Cavity And Neck",
+    "stem": "A midline neck swelling that moves upwards on protrusion of the tongue is a",
+    "options": [
+      "Ranula",
+      "Branchial cyst",
+      "Cystic hygroma",
+      "Thyroglossal cyst"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is attached to the hyoid by the tract of the thyroglossal duct. Sistrunk operation, removing the cyst with the central body of the hyoid and the tract to the foramen caecum, is required to prevent recurrence.",
+    "tag": "INI-CET",
+    "exam": "2019 NEET-PG / 2014 AIIMS (branchial cyst site), neck swelling cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Oral Cavity And Neck",
+      "basedOn": "2019 NEET-PG / 2014 AIIMS (branchial cyst site), neck swelling cluster"
+    }
+  }
+]

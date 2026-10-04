@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "oph_q_1",
+    "questionNumber": 1,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The feature that defines PROLIFERATIVE diabetic retinopathy and separates it from severe non-proliferative disease is",
+    "options": [
+      "Neovascularisation of the disc or retina",
+      "Venous beading in two quadrants",
+      "Dot and blot haemorrhages in four quadrants",
+      "Intraretinal microvascular abnormalities in one quadrant"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Severe NPDR is defined by the 4-2-1 rule: haemorrhages in all four quadrants, venous beading in two, or IRMA in one. New vessels mark the transition to proliferative disease and the need for panretinal photocoagulation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (not seen in severe NPDR — neovascularisation of disc)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (not seen in severe NPDR — neovascularisation of disc)"
+    }
+  },
+  {
+    "id": "oph_q_2",
+    "questionNumber": 2,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "On fluorescein angiography, microaneurysms in diabetic retinopathy appear as",
+    "options": [
+      "Discrete hyperfluorescent dots in the early phase",
+      "Hypofluorescent dots",
+      "A dark choroid",
+      "Blocked fluorescence"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Haemorrhage blocks fluorescence (hypofluorescent), while leaking vessels and microaneurysms are hyperfluorescent. Late leakage from microaneurysms produces the petaloid pattern of cystoid macular oedema.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (angiography of microaneurysms — hyperfluorescent dots)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (angiography of microaneurysms — hyperfluorescent dots)"
+    }
+  },
+  {
+    "id": "oph_q_3",
+    "questionNumber": 3,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Enlargement of the foveal avascular zone on fluorescein angiography indicates",
+    "options": [
+      "Macular oedema",
+      "Macular ischaemia, which predicts poor visual outcome",
+      "Central serous retinopathy",
+      "Epiretinal membrane"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Ischaemic maculopathy responds poorly to anti-VEGF therapy or laser, unlike macular oedema. OCT angiography now demonstrates the same finding without dye.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (FFA showing enlargement of foveal avascular zone — macular ischaemia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (FFA showing enlargement of foveal avascular zone — macular ischaemia)"
+    }
+  },
+  {
+    "id": "oph_q_4",
+    "questionNumber": 4,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A newly diagnosed 45-year-old with type 2 diabetes and no visual symptoms should have a dilated fundus examination",
+    "options": [
+      "Only if symptoms develop",
+      "After 5 years",
+      "At the time of diagnosis",
+      "After 10 years"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Type 2 diabetes may have been present unrecognised for years, so retinopathy can already exist. In type 1 diabetes screening begins 5 years after diagnosis, and in pregnancy in each trimester.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (newly diagnosed DM with no visual symptoms — fundus at time of diagnosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (newly diagnosed DM with no visual symptoms — fundus at time of diagnosis)"
+    }
+  },
+  {
+    "id": "oph_q_5",
+    "questionNumber": 5,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The ETDRS grading system is used for",
+    "options": [
+      "Diabetic retinopathy",
+      "Glaucoma",
+      "Retinopathy of prematurity",
+      "Age-related macular degeneration"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The Early Treatment Diabetic Retinopathy Study also gave the definition of clinically significant macular oedema and the ETDRS visual acuity chart, which uses equal numbers of letters per line unlike the Snellen chart.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (ETDRS used for diabetic retinopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (ETDRS used for diabetic retinopathy)"
+    }
+  },
+  {
+    "id": "oph_q_6",
+    "questionNumber": 6,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Tractional retinal detachment in diabetic retinopathy is caused by",
+    "options": [
+      "A retinal break with fluid passing through it",
+      "Fibrovascular proliferation contracting on the retinal surface",
+      "Subretinal exudation",
+      "Choroidal neovascularisation"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Rhegmatogenous detachment follows a break, and exudative detachment follows fluid leakage with no break, showing the shifting fluid sign. Tractional detachment typically needs vitrectomy with membrane delamination.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (tractional retinal detachment in diabetic retinopathy — true), 2022 NEET-PG (shifting fluid sign — exudative detachment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (tractional retinal detachment in diabetic retinopathy — true), 2022 NEET-PG (shifting fluid sign — exudative detachment)"
+    }
+  },
+  {
+    "id": "oph_q_7",
+    "questionNumber": 7,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A highly myopic patient reports sudden flashes of light followed by a curtain across the vision. The diagnosis is",
+    "options": [
+      "Optic neuritis",
+      "Vitreous haemorrhage alone",
+      "Rhegmatogenous retinal detachment",
+      "Central serous retinopathy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Photopsia and floaters reflect vitreous traction on the retina, and the field defect follows. Myopia, aphakia, trauma and lattice degeneration are the main risk factors, and prompt surgery is needed before the macula detaches.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (thick spectacles with sudden flashes — retinal detachment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (thick spectacles with sudden flashes — retinal detachment)"
+    }
+  },
+  {
+    "id": "oph_q_8",
+    "questionNumber": 8,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The shifting fluid sign is characteristic of",
+    "options": [
+      "Tractional detachment",
+      "Rhegmatogenous detachment",
+      "Exudative (serous) retinal detachment",
+      "Retinoschisis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Subretinal fluid gravitates with change of posture because there is no break tethering it. Causes include Coats disease, choroidal tumour, posterior scleritis, Vogt–Koyanagi–Harada disease and severe hypertension.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (shifting fluid sign — exudative retinal detachment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 NEET-PG (shifting fluid sign — exudative retinal detachment)"
+    }
+  },
+  {
+    "id": "oph_q_9",
+    "questionNumber": 9,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Yellowish deposits located between the retinal pigment epithelium and Bruch membrane are",
+    "options": [
+      "Cholesterol emboli",
+      "Hard exudates",
+      "Cotton wool spots",
+      "Drusen"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Drusen are the hallmark of dry age-related macular degeneration. Large soft confluent drusen predict progression to the wet form, in which choroidal neovascularisation is treated with intravitreal anti-VEGF agents.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (yellow deposits between RPE and Bruch's membrane — drusen)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (yellow deposits between RPE and Bruch's membrane — drusen)"
+    }
+  },
+  {
+    "id": "oph_q_10",
+    "questionNumber": 10,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The investigation that images all retinal layers in cross-section in vivo is",
+    "options": [
+      "Fluorescein angiography",
+      "Optical coherence tomography",
+      "B-scan ultrasonography",
+      "Electroretinography"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "OCT gives micron-resolution structural cross-sections and is the standard for macular oedema, epiretinal membrane and macular hole. Angiography shows vascular flow and leakage; B-scan is used when the media are opaque.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (test to visualise all layers of retina in vivo — OCT)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (test to visualise all layers of retina in vivo — OCT)"
+    }
+  },
+  {
+    "id": "oph_q_11",
+    "questionNumber": 11,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A patient on long-term treatment for rheumatoid arthritis develops gradual painless loss of central vision with a bull's-eye maculopathy. The drug is",
+    "options": [
+      "Hydroxychloroquine",
+      "Methotrexate",
+      "Ethambutol",
+      "Amiodarone"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Screening uses visual fields and OCT, because damage is irreversible once established. Ethambutol causes optic neuropathy with loss of red–green discrimination, and amiodarone causes corneal verticillata and yellow vision.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — hydroxychloroquine retinopathy, amiodarone, steroids and cataract), 2023 INI-CET (RA drugs with sudden painless loss of vision — cystoid macular oedema)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (match — hydroxychloroquine retinopathy, amiodarone, steroids and cataract), 2023 INI-CET (RA drugs with sudden painless loss of vision — cystoid macular oedema)"
+    }
+  },
+  {
+    "id": "oph_q_12",
+    "questionNumber": 12,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A patient with epilepsy develops progressive concentric constriction of the visual fields. The responsible drug is",
+    "options": [
+      "Phenytoin",
+      "Carbamazepine",
+      "Vigabatrin",
+      "Levetiracetam"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Vigabatrin irreversibly inhibits GABA transaminase, and the resulting retinal toxicity causes irreversible bilateral field constriction. Regular perimetry is mandatory, and its use is now largely restricted to infantile spasms.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (epilepsy with progressive visual field constriction — vigabatrin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (epilepsy with progressive visual field constriction — vigabatrin)"
+    }
+  },
+  {
+    "id": "oph_q_13",
+    "questionNumber": 13,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "High-dose niacin used for dyslipidaemia can cause",
+    "options": [
+      "Optic neuritis",
+      "Cystoid macular oedema without fluorescein leakage",
+      "Cataract",
+      "Corneal deposits"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Niacin maculopathy is distinctive because OCT shows cystoid spaces but angiography shows no leakage, unlike other causes. It resolves on stopping the drug.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (macular oedema and macular cysts from high-dose niacin)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2021 NEET-PG (macular oedema and macular cysts from high-dose niacin)"
+    }
+  },
+  {
+    "id": "oph_q_14",
+    "questionNumber": 14,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A child presents with leukocoria, and CT shows intraocular calcification. The most likely diagnosis is",
+    "options": [
+      "Coats disease",
+      "Congenital cataract",
+      "Retinoblastoma",
+      "Persistent fetal vasculature"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Calcification within the mass is highly suggestive and is why CT was historically used, though MRI is now preferred to avoid radiation. Histology shows Flexner–Wintersteiner rosettes, with chromogranin and synaptophysin positivity.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (newborn with leukocoria and calcification — retinoblastoma), 2022 NEET-PG / 2021 NEET-PG (leukocoria with rosettes — retinoblastoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (newborn with leukocoria and calcification — retinoblastoma), 2022 NEET-PG / 2021 NEET-PG (leukocoria with rosettes — retinoblastoma)"
+    }
+  },
+  {
+    "id": "oph_q_15",
+    "questionNumber": 15,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The most frequent route of extraocular spread of retinoblastoma is",
+    "options": [
+      "Via lymphatics",
+      "Haematogenous to the lung",
+      "Through the sclera to the orbit",
+      "Along the optic nerve to the brain"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Optic nerve invasion beyond the lamina cribrosa, and particularly to the surgical margin, is the key prognostic factor, which is why a long segment of nerve is taken at enucleation. The eye has no lymphatics.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (most classical route of spread of retinoblastoma — optic nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2021 INI-CET (most classical route of spread of retinoblastoma — optic nerve)"
+    }
+  },
+  {
+    "id": "oph_q_16",
+    "questionNumber": 16,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Bilateral retinoblastoma implies",
+    "options": [
+      "A purely somatic mutation",
+      "A germline RB1 mutation, with risk to offspring and of second malignancies",
+      "A better prognosis than unilateral disease",
+      "No inherited risk"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Bilateral and multifocal disease is always heritable, following Knudson two-hit model. Survivors carry a lifetime risk of osteosarcoma and other second cancers, increased further by external beam radiotherapy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (familial inheritance seen in retinoblastoma, retinitis pigmentosa, myopia, POAG)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2021 INI-CET (familial inheritance seen in retinoblastoma, retinitis pigmentosa, myopia, POAG)"
+    }
+  },
+  {
+    "id": "oph_q_17",
+    "questionNumber": 17,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A patient has night blindness from childhood, with a waxy pale disc, arteriolar attenuation and bony-spicule pigmentation. The characteristic finding on electroretinography is",
+    "options": [
+      "Reduced cone response only",
+      "A normal ERG with abnormal EOG",
+      "A reduced or extinguished rod response, appearing early in the disease",
+      "No abnormality"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Night blindness in retinitis pigmentosa is an **early**, not a late, symptom, since rods are affected first — which is why the 2024 statement was false. Field loss progresses as a ring scotoma to tunnel vision.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (night blindness in RP seen in late stages — false), 2023 NEET-PG (nyctalopia, waxy disc, bony spicules — retinitis pigmentosa)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (night blindness in RP seen in late stages — false), 2023 NEET-PG (nyctalopia, waxy disc, bony spicules — retinitis pigmentosa)"
+    }
+  },
+  {
+    "id": "oph_q_18",
+    "questionNumber": 18,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The investigation of choice for Best vitelliform macular dystrophy is",
+    "options": [
+      "Visual evoked potential",
+      "Electroretinography",
+      "Fluorescein angiography",
+      "Electro-oculography"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "EOG assesses the retinal pigment epithelium, which is the primary site of the BEST1 defect, and shows a reduced Arden ratio with a normal ERG. That dissociation is the diagnostic signature.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (investigation of choice for Best disease — EOG)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (investigation of choice for Best disease — EOG)"
+    }
+  },
+  {
+    "id": "oph_q_19",
+    "questionNumber": 19,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A patient with rheumatic heart disease develops a sudden superior visual field defect in one eye. The likely cause is",
+    "options": [
+      "Inferior branch retinal artery occlusion",
+      "Superior branch retinal artery occlusion",
+      "Central retinal vein occlusion",
+      "Optic neuritis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The retinal image is inverted, so an inferior retinal infarct causes a superior field defect. Emboli from valvular disease or carotid plaque lodge at an arteriolar bifurcation, and the retina appears pale and oedematous in that sector.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (rheumatic heart disease with superior visual field defect — branch retinal artery occlusion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (rheumatic heart disease with superior visual field defect — branch retinal artery occlusion)"
+    }
+  },
+  {
+    "id": "oph_q_20",
+    "questionNumber": 20,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "\"Ninety-day glaucoma\" (neovascular glaucoma developing about three months after a vascular event) classically follows",
+    "options": [
+      "Central retinal artery occlusion",
+      "Central retinal vein occlusion",
+      "Optic neuritis",
+      "Retinal detachment"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Widespread retinal ischaemia drives VEGF release, causing new vessels on the iris and in the angle. Panretinal photocoagulation and anti-VEGF therapy are used, and the condition is notoriously difficult to control once established.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (100-day glaucoma — central retinal vein occlusion)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 NEET-PG (100-day glaucoma — central retinal vein occlusion)"
+    }
+  },
+  {
+    "id": "oph_q_21",
+    "questionNumber": 21,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Sudden bilateral painless loss of vision in a known diabetic is most likely due to",
+    "options": [
+      "Open-angle glaucoma",
+      "Cataract",
+      "Vitreous haemorrhage from proliferative retinopathy",
+      "Refractive change"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "New vessels bleed into the vitreous, causing abrupt loss with no pain or redness. B-scan ultrasonography is used to exclude an underlying detachment when the fundus cannot be seen.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sudden bilateral painless loss of vision — diabetic retinopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (sudden bilateral painless loss of vision — diabetic retinopathy)"
+    }
+  },
+  {
+    "id": "oph_q_22",
+    "questionNumber": 22,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Punched-out chorioretinal scars with an adjacent active satellite lesion are characteristic of",
+    "options": [
+      "Ocular toxoplasmosis",
+      "Cytomegalovirus retinitis",
+      "Tuberculous choroiditis",
+      "Histoplasmosis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Reactivation occurs at the edge of an old scar, giving the \"headlight in the fog\" appearance through overlying vitritis. Congenital infection causes bilateral macular scars with hydrocephalus and intracranial calcification.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (punched out lesions in retina — toxoplasmosis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (punched out lesions in retina — toxoplasmosis)"
+    }
+  },
+  {
+    "id": "oph_q_23",
+    "questionNumber": 23,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Ocular complications recognised in dengue fever include all EXCEPT",
+    "options": [
+      "Maculopathy",
+      "Vitreous haemorrhage",
+      "Optic neuritis",
+      "Cataract"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Dengue causes maculopathy, retinal and vitreous haemorrhage, optic neuritis and, rarely, panophthalmitis, typically when the platelet count is lowest. Cataract is not an acute manifestation of any febrile illness.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (dengue can cause maculopathy, vitreous haemorrhage, optic neuritis — not cataract)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (dengue can cause maculopathy, vitreous haemorrhage, optic neuritis — not cataract)"
+    }
+  },
+  {
+    "id": "oph_q_24",
+    "questionNumber": 24,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The ratio of the lumen of the retinal artery to that of the vein at the optic disc is normally about",
+    "options": [
+      "1:1",
+      "2:3",
+      "3:2",
+      "1:3"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Arteries are narrower and lighter in colour with a brighter central reflex. A reduced ratio indicates arteriolar attenuation, as in hypertensive retinopathy and retinitis pigmentosa.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (ratio of lumen of artery and vein in optic disc — 2:3)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (ratio of lumen of artery and vein in optic disc — 2:3)"
+    }
+  },
+  {
+    "id": "oph_q_25",
+    "questionNumber": 25,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Arrange the retinal layers from OUTSIDE (choroidal side) inwards.\n1. Inner plexiform layer\n2. Retinal pigment epithelium\n3. Ganglion cell layer\n4. Outer nuclear layer",
+    "options": [
+      "2 → 4 → 1 → 3",
+      "2 → 1 → 4 → 3",
+      "3 → 1 → 4 → 2",
+      "2 → 3 → 4 → 1"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Light passes through the whole retina to reach the photoreceptors, so the nerve fibre and ganglion cell layers are innermost. The outer nuclear layer contains photoreceptor nuclei; the inner nuclear layer the bipolar, horizontal and amacrine cells.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (arrange retinal layers in sequence, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2021 INI-CET (arrange retinal layers in sequence, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_26",
+    "questionNumber": 26,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Which structure is NOT found in the INNER segment of a photoreceptor?",
+    "options": [
+      "Mitochondria",
+      "Golgi apparatus",
+      "Stacked disc membranes containing visual pigment",
+      "Endoplasmic reticulum"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The discs lie in the **outer** segment, where phototransduction occurs. The inner segment houses the metabolic machinery, which is why the outer retina is so dependent on the choroidal circulation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (not present in inner segment of photoreceptors — disc membrane), 2024 INI-CET ophthalmology (discs in outer segment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (not present in inner segment of photoreceptors — disc membrane), 2024 INI-CET ophthalmology (discs in outer segment)"
+    }
+  },
+  {
+    "id": "oph_q_27",
+    "questionNumber": 27,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Retinopathy of prematurity is screened in infants born",
+    "options": [
+      "At 6 months of age",
+      "At term only",
+      "Only if oxygen was given",
+      "Before 34 weeks or under 2000 g, at 4 weeks of age or 31 weeks corrected, whichever is later"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Threshold disease is treated with laser or anti-VEGF. Stage 5 is total detachment. \"Plus disease\" denotes dilated tortuous posterior vessels and indicates activity requiring urgent treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (retinal disease screening), 2022 INI-CET (ETDRS grading)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (retinal disease screening), 2022 INI-CET (ETDRS grading)"
+    }
+  },
+  {
+    "id": "oph_q_28",
+    "questionNumber": 28,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Central serous chorioretinopathy characteristically occurs in",
+    "options": [
+      "Young men under stress or on corticosteroids, with a smokestack leak on angiography",
+      "Elderly diabetics",
+      "Premature infants",
+      "Children with leukocoria"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A localised serous detachment of the neurosensory retina at the macula causes blurring, metamorphopsia and hypermetropia. Most resolve spontaneously, and stopping steroids is the key intervention.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (drug-induced retinopathy match), 2022 INI-CET (macular pathology on FFA)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (drug-induced retinopathy match), 2022 INI-CET (macular pathology on FFA)"
+    }
+  },
+  {
+    "id": "oph_q_29",
+    "questionNumber": 29,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The commonest cause of sudden painless monocular visual loss with a cherry-red spot at the macula is",
+    "options": [
+      "Central retinal vein occlusion",
+      "Central retinal artery occlusion",
+      "Vitreous haemorrhage",
+      "Macular hole"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The pale oedematous retina contrasts with the intact choroidal circulation at the thin fovea. It is an ocular emergency and a stroke equivalent, so urgent carotid and cardiac evaluation is needed.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (branch retinal artery occlusion with field defect), 2023 NEET-PG (100-day glaucoma after CRVO)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (branch retinal artery occlusion with field defect), 2023 NEET-PG (100-day glaucoma after CRVO)"
+    }
+  },
+  {
+    "id": "oph_q_30",
+    "questionNumber": 30,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Intravitreal anti-VEGF agents are used in all of the following EXCEPT",
+    "options": [
+      "Wet age-related macular degeneration",
+      "Diabetic macular oedema",
+      "Macular oedema after retinal vein occlusion",
+      "Retinitis pigmentosa"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Retinitis pigmentosa is a degenerative photoreceptor disorder with no neovascular component; management is supportive, with gene therapy available for specific genotypes. Anti-VEGF agents target VEGF-driven leakage and new vessel growth.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (drusen and AMD), 2023 INI-CET (retinal vascular disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2022 INI-CET (drusen and AMD), 2023 INI-CET (retinal vascular disease)"
+    }
+  },
+  {
+    "id": "oph_q_31",
+    "questionNumber": 31,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Panretinal photocoagulation works in proliferative diabetic retinopathy by",
+    "options": [
+      "Directly closing new vessels by thermal coagulation",
+      "Sealing retinal breaks",
+      "Ablating ischaemic peripheral retina, thereby reducing VEGF production",
+      "Lowering intraocular pressure"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Reducing the ischaemic drive causes the new vessels to regress. The cost is loss of peripheral field and night vision, so the macula is spared. Focal or grid laser is used separately for macular oedema.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (severe NPDR and neovascularisation), 2022 INI-CET (ETDRS)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 INI-CET (severe NPDR and neovascularisation), 2022 INI-CET (ETDRS)"
+    }
+  },
+  {
+    "id": "oph_q_32",
+    "questionNumber": 32,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "A patient with HIV and a CD4 count of 40 has a \"pizza-pie\" fundus with haemorrhage and necrotising retinitis. The agent is",
+    "options": [
+      "Cytomegalovirus",
+      "Toxoplasma",
+      "Candida",
+      "Herpes zoster"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "CMV retinitis occurs at CD4 counts below 50 and is treated with ganciclovir or valganciclovir plus antiretroviral therapy. Acute retinal necrosis from varicella-zoster occurs in immunocompetent people and progresses much faster.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (punched out retinal lesions — toxoplasmosis), retinal infection cluster",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2024 INI-CET (punched out retinal lesions — toxoplasmosis), retinal infection cluster"
+    }
+  },
+  {
+    "id": "oph_q_33",
+    "questionNumber": 33,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "Vitamin A deficiency causes night blindness because retinol is required to",
+    "options": [
+      "Maintain corneal endothelial pump function",
+      "Regenerate rhodopsin in rod photoreceptors",
+      "Support ganglion cell axons",
+      "Keep the lens transparent"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Night blindness (XN) is the earliest sign, followed by conjunctival xerosis, Bitot spots, corneal xerosis and keratomalacia. The ocular surface changes are reversible early; keratomalacia is not.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (dryness, corneal softening, night blindness — vitamin A deficiency)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Retina",
+      "basedOn": "2023 NEET-PG (dryness, corneal softening, night blindness — vitamin A deficiency)"
+    }
+  },
+  {
+    "id": "oph_q_34",
+    "questionNumber": 34,
+    "subject": "Ophthalmology",
+    "subTopic": "Retina",
+    "sub_topic": "Retina",
+    "stem": "The photostress test is used to distinguish",
+    "options": [
+      "Conductive from sensorineural visual loss",
+      "Open-angle from angle-closure glaucoma",
+      "Macular from optic nerve disease",
+      "Cataract from corneal opacity"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "After a bright light, recovery of acuity is delayed in macular disease because photopigment regeneration is impaired, whereas it is normal in optic neuropathy. Optic nerve disease instead shows a relative afferent pupillary defect and dyschromatopsia.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (photostress test differentiates optic nerve and macular function)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Retina",
+      "basedOn": "2022 NEET-PG (photostress test differentiates optic nerve and macular function)"
+    }
+  },
+  {
+    "id": "oph_q_35",
+    "questionNumber": 35,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "The EARLIEST detectable visual field change in primary open-angle glaucoma is",
+    "options": [
+      "Tubular field",
+      "Arcuate (Bjerrum) scotoma",
+      "Nasal step",
+      "Isopter contraction with baring of the blind spot"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The sequence runs: isopter contraction and baring of the blind spot, then paracentral and Seidel scotomas, then arcuate scotoma and nasal step, then a ring scotoma, and finally a tubular field with a temporal island.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (earliest change in glaucoma — isopter contraction with baring of blind spot)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (earliest change in glaucoma — isopter contraction with baring of blind spot)"
+    }
+  },
+  {
+    "id": "oph_q_36",
+    "questionNumber": 36,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Enlargement of the blind spot is seen in all of the following EXCEPT",
+    "options": [
+      "Papilloedema",
+      "Primary open-angle glaucoma",
+      "Myelinated (medullated) nerve fibres",
+      "Optic nerve hypoplasia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A small disc produces a small blind spot. Anything that enlarges the disc or its peripapillary area — papilloedema, glaucomatous cupping, myelinated fibres, drusen of the disc, myopic crescent — enlarges the blind spot.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (enlargement of blind spot — not optic nerve hypoplasia), 2023 NEET-PG (image showing increase in size of blind spot)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET (enlargement of blind spot — not optic nerve hypoplasia), 2023 NEET-PG (image showing increase in size of blind spot)"
+    }
+  },
+  {
+    "id": "oph_q_37",
+    "questionNumber": 37,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "A visual field defect should be attributed to glaucoma only when",
+    "options": [
+      "Corresponding optic nerve head changes are present",
+      "Intraocular pressure is above 21 mmHg",
+      "The patient is over 40",
+      "There is a family history"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Structure and function must agree, because field defects have many other causes. Conversely, field defects can occur in glaucoma with a normal cup–disc ratio, so neither finding alone is sufficient.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (visual field defects attributed to glaucoma if optic nerve head changes present — true), 2021 INI-CET (field defects in POAG with normal cup–disc ratio — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2022 INI-CET (visual field defects attributed to glaucoma if optic nerve head changes present — true), 2021 INI-CET (field defects in POAG with normal cup–disc ratio — true)"
+    }
+  },
+  {
+    "id": "oph_q_38",
+    "questionNumber": 38,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Direct gonioscopy is performed with",
+    "options": [
+      "The Koeppe or Richardson lens",
+      "The Goldmann lens",
+      "The Zeiss four-mirror lens",
+      "A 90 D lens"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Direct lenses give a direct view of the angle with the patient supine, and are especially useful in children under anaesthesia. Goldmann and Zeiss lenses are indirect, using mirrors at the slit lamp.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (direct gonioscope — Koeppe, Richardson)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (direct gonioscope — Koeppe, Richardson)"
+    }
+  },
+  {
+    "id": "oph_q_39",
+    "questionNumber": 39,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Latanoprost lowers intraocular pressure by",
+    "options": [
+      "Increasing trabecular outflow by ciliary muscle contraction",
+      "Reducing aqueous production",
+      "Increasing uveoscleral outflow",
+      "Osmotic dehydration of the vitreous"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Prostaglandin analogues remodel extracellular matrix in the ciliary body. They are the most effective single agents and are dosed once at night. Side effects are iris and periocular hyperpigmentation, eyelash growth and a deepened upper lid sulcus.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (drug decreasing IOP by increasing uveoscleral outflow — latanoprost), 2015 AIIMS (heterochromia iridis with latanoprost)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2022 NEET-PG (drug decreasing IOP by increasing uveoscleral outflow — latanoprost), 2015 AIIMS (heterochromia iridis with latanoprost)"
+    }
+  },
+  {
+    "id": "oph_q_40",
+    "questionNumber": 40,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "In a patient with glaucoma and asthma, the preferred topical agent is",
+    "options": [
+      "Pilocarpine",
+      "Timolol",
+      "Betaxolol in high dose",
+      "A prostaglandin analogue"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Non-selective beta blockers can precipitate bronchospasm and are contraindicated. Betaxolol is relatively β1-selective and safer but not risk-free. Carbonic anhydrase inhibitors and alpha-2 agonists are other options.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (drug of choice in glaucoma with asthma — latanoprost)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 NEET-PG (drug of choice in glaucoma with asthma — latanoprost)"
+    }
+  },
+  {
+    "id": "oph_q_41",
+    "questionNumber": 41,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Which drug does NOT lower intraocular pressure?",
+    "options": [
+      "Brimonidine",
+      "Dexamethasone",
+      "Dorzolamide",
+      "Pilocarpine"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Corticosteroids **raise** intraocular pressure by reducing trabecular outflow, causing steroid-induced glaucoma. First-degree relatives of patients with primary open-angle glaucoma show greater steroid responsiveness, indicating shared susceptibility.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (drug not used for controlling IOP — dexamethasone), 2021 INI-CET (first-degree relatives of POAG patients have steroid responsiveness — true), 2022 INI-CET (betamethasone does not reduce IOP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET (drug not used for controlling IOP — dexamethasone), 2021 INI-CET (first-degree relatives of POAG patients have steroid responsiveness — true), 2022 INI-CET (betamethasone does not reduce IOP)"
+    }
+  },
+  {
+    "id": "oph_q_42",
+    "questionNumber": 42,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "A topical prostaglandin analogue is best avoided in a patient with glaucoma who also has",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Active anterior uveitis or cystoid macular oedema",
+      "Cataract"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Prostaglandins are pro-inflammatory and can aggravate both. In such patients a beta blocker, carbonic anhydrase inhibitor or alpha-2 agonist is used instead.",
+    "tag": "INI-CET",
+    "exam": "2020 INI-CET (glaucoma with acute uveitis — avoid prostaglandin analogue), 2024 INI-CET / 2019 NEET-PG (avoid latanoprost in cystoid macular oedema)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2020 INI-CET (glaucoma with acute uveitis — avoid prostaglandin analogue), 2024 INI-CET / 2019 NEET-PG (avoid latanoprost in cystoid macular oedema)"
+    }
+  },
+  {
+    "id": "oph_q_43",
+    "questionNumber": 43,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "In acute angle-closure glaucoma, pilocarpine lowers pressure by",
+    "options": [
+      "Constricting the pupil and pulling the peripheral iris away from the angle",
+      "Reducing aqueous secretion",
+      "Dilating the pupil",
+      "Increasing uveoscleral outflow"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Intravenous mannitol or acetazolamide is given first to break the attack, then pilocarpine, and laser peripheral iridotomy is definitive. Mannitol is avoided in pulmonary oedema and heart failure.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (mannitol plus pilocarpine in acute angle closure, 4X), 2023 NEET-PG (mannitol not given in pulmonary oedema)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (mannitol plus pilocarpine in acute angle closure, 4X), 2023 NEET-PG (mannitol not given in pulmonary oedema)"
+    }
+  },
+  {
+    "id": "oph_q_44",
+    "questionNumber": 44,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "An elderly patient has a painful red eye with raised pressure, a DEEP anterior chamber containing cells and flare, and a long history of poor vision. The diagnosis is",
+    "options": [
+      "Phacolytic glaucoma",
+      "Acute angle-closure glaucoma",
+      "Phacomorphic glaucoma",
+      "Neovascular glaucoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "In a hypermature cataract, leaked lens proteins are engulfed by macrophages which block the trabecular meshwork. The chamber stays deep, unlike phacomorphic glaucoma where an intumescent lens pushes the iris forward and shallows it. Treatment is cataract extraction.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (elderly with red painful eye, raised IOP, deep anterior chamber with cells and flare — phacolytic glaucoma, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (elderly with red painful eye, raised IOP, deep anterior chamber with cells and flare — phacolytic glaucoma, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_45",
+    "questionNumber": 45,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "The investigation that confirms a diagnosis of angle closure, as distinct from open angle, is",
+    "options": [
+      "Applanation tonometry",
+      "Gonioscopy",
+      "Perimetry",
+      "OCT of the disc"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Only gonioscopy visualises the angle structures and allows Shaffer grading. Tonometry measures pressure, perimetry measures function and OCT measures structure, but none of them shows whether the angle is open.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (direct gonioscope lenses), 2024 INI-CET (earliest field change in glaucoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (direct gonioscope lenses), 2024 INI-CET (earliest field change in glaucoma)"
+    }
+  },
+  {
+    "id": "oph_q_46",
+    "questionNumber": 46,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Congenital glaucoma in a 2-month-old presents with",
+    "options": [
+      "Proptosis",
+      "Leukocoria",
+      "Photophobia, watering and blepharospasm with corneal enlargement",
+      "Ptosis"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Raised pressure stretches the immature cornea and sclera, producing buphthalmos and Haab striae (breaks in Descemet membrane). Congenital nasolacrimal duct obstruction causes watering but **not** photophobia, which is the distinguishing point.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (2-month-old with photophobia and watering — congenital glaucoma, entropion, distichiasis but not NLD obstruction), 2024 INI-CET (what cannot be the cause — congenital NLD obstruction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2023 INI-CET (2-month-old with photophobia and watering — congenital glaucoma, entropion, distichiasis but not NLD obstruction), 2024 INI-CET (what cannot be the cause — congenital NLD obstruction)"
+    }
+  },
+  {
+    "id": "oph_q_47",
+    "questionNumber": 47,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "The definitive treatment of primary congenital glaucoma is",
+    "options": [
+      "Cyclocryotherapy as first line",
+      "Lifelong topical medication",
+      "Laser iridotomy",
+      "Goniotomy or trabeculotomy"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The defect is maldevelopment of the trabecular meshwork and angle (trabeculodysgenesis), so an angle procedure addresses it directly. Medication is a temporary measure while awaiting surgery.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (congenital glaucoma presentation), 2022 INI-CET (RBSK screening for congenital glaucoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2023 INI-CET (congenital glaucoma presentation), 2022 INI-CET (RBSK screening for congenital glaucoma)"
+    }
+  },
+  {
+    "id": "oph_q_48",
+    "questionNumber": 48,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Goldmann applanation tonometry may OVERESTIMATE intraocular pressure when",
+    "options": [
+      "The cornea is thin after LASIK",
+      "The central cornea is thick, as after hyperopic correction or in oedema",
+      "There is keratoconus",
+      "The patient has had refractive surgery for myopia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A thick, rigid cornea resists flattening. Conversely, a thin cornea after myopic LASIK gives falsely low readings, which is a well-recognised cause of missed glaucoma. Central corneal thickness is therefore measured routinely.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gonioscopy and glaucoma assessment), 2023 INI-CET (lens power after LASIK)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (gonioscopy and glaucoma assessment), 2023 INI-CET (lens power after LASIK)"
+    }
+  },
+  {
+    "id": "oph_q_49",
+    "questionNumber": 49,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Normal-tension glaucoma is characterised by",
+    "options": [
+      "A closed angle",
+      "Pressure above 30 mmHg",
+      "Typical glaucomatous disc and field changes with intraocular pressure consistently below 21 mmHg",
+      "No disc change"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Disc haemorrhages and more localised, deeper field defects closer to fixation are typical. Vascular dysregulation, nocturnal hypotension and migraine are associated, and treatment still aims to lower pressure further.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (field defects in POAG with normal cup–disc ratio), 2022 INI-CET (field defects with optic nerve head changes)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET (field defects in POAG with normal cup–disc ratio), 2022 INI-CET (field defects with optic nerve head changes)"
+    }
+  },
+  {
+    "id": "oph_q_50",
+    "questionNumber": 50,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "The optic disc change most specific for glaucomatous damage is",
+    "options": [
+      "A small disc",
+      "Disc pallor without cupping",
+      "Disc swelling",
+      "Vertical elongation of the cup with neuroretinal rim notching, usually inferotemporal first"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The ISNT rule (rim thickest Inferior, then Superior, Nasal, Temporal) is a useful check. Asymmetry of cup–disc ratio greater than 0.2 between the eyes is also suspicious. Pallor without cupping suggests a non-glaucomatous optic neuropathy.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (optic nerve head changes and field defects), 2021 INI-CET (normal cup–disc ratio with field defects)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2022 INI-CET (optic nerve head changes and field defects), 2021 INI-CET (normal cup–disc ratio with field defects)"
+    }
+  },
+  {
+    "id": "oph_q_51",
+    "questionNumber": 51,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Trabeculectomy lowers intraocular pressure by",
+    "options": [
+      "Creating a guarded fistula that drains aqueous to the subconjunctival space, forming a bleb",
+      "Destroying the ciliary body",
+      "Widening the pupil",
+      "Reducing vitreous volume"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Bleb failure from subconjunctival fibrosis is the main cause of late failure, which is why antifibrotics such as mitomycin C are used. Blebitis and endophthalmitis are long-term risks.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (surgical management in glaucoma), 2024 INI-CET (glaucoma assessment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2023 INI-CET (surgical management in glaucoma), 2024 INI-CET (glaucoma assessment)"
+    }
+  },
+  {
+    "id": "oph_q_52",
+    "questionNumber": 52,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Acetazolamide lowers intraocular pressure by",
+    "options": [
+      "Increasing trabecular outflow",
+      "Inhibiting carbonic anhydrase in the ciliary epithelium, reducing aqueous secretion",
+      "Osmotic withdrawal of fluid",
+      "Constricting the pupil"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Systemic side effects are paraesthesia, metabolic acidosis, hypokalaemia and renal stones; it is avoided in sulfa allergy. Dorzolamide and brinzolamide are the topical forms that avoid most systemic effects.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET pharmacology (carbonic anhydrase inhibitors act in proximal tubule), 2017 AIIMS (acetazolamide and dorzolamide)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET pharmacology (carbonic anhydrase inhibitors act in proximal tubule), 2017 AIIMS (acetazolamide and dorzolamide)"
+    }
+  },
+  {
+    "id": "oph_q_53",
+    "questionNumber": 53,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "In neovascular glaucoma, the mechanism of pressure rise is",
+    "options": [
+      "A fibrovascular membrane over the angle with later peripheral anterior synechiae",
+      "Lens protein blockage",
+      "Pupillary block by a swollen lens",
+      "Excess aqueous secretion"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It begins as a secondary open-angle glaucoma and becomes a secondary closed-angle one as the membrane contracts. The commonest causes are proliferative diabetic retinopathy and central retinal vein occlusion.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (100-day glaucoma after CRVO), 2023 INI-CET (diabetic retinopathy complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2023 NEET-PG (100-day glaucoma after CRVO), 2023 INI-CET (diabetic retinopathy complications)"
+    }
+  },
+  {
+    "id": "oph_q_54",
+    "questionNumber": 54,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Pigment dispersion with a Krukenberg spindle on the corneal endothelium and mid-peripheral iris transillumination defects suggests",
+    "options": [
+      "Steroid-induced glaucoma",
+      "Pseudoexfoliation glaucoma",
+      "Phacolytic glaucoma",
+      "Pigmentary glaucoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Iris pigment is rubbed off by lens zonules in young myopic men, blocking the meshwork. Pseudoexfoliation shows grey-white flaky material on the pupil margin and anterior lens capsule, and is the commonest identifiable secondary open-angle glaucoma worldwide.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gonioscopy), 2024 INI-CET (phacolytic glaucoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Glaucoma",
+      "basedOn": "2024 INI-CET (gonioscopy), 2024 INI-CET (phacolytic glaucoma)"
+    }
+  },
+  {
+    "id": "oph_q_55",
+    "questionNumber": 55,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Mannitol should be avoided in a patient with acute angle-closure glaucoma who also has",
+    "options": [
+      "Diabetes",
+      "Pulmonary oedema or decompensated cardiac failure",
+      "Hypertension",
+      "Peptic ulcer"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The osmotic load expands intravascular volume. Acetazolamide, topical agents and oral glycerol (avoided in diabetes) are alternatives, while laser iridotomy remains the definitive treatment.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (mannitol not given in pulmonary oedema), 2021 INI-CET (acute angle closure management)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2023 NEET-PG (mannitol not given in pulmonary oedema), 2021 INI-CET (acute angle closure management)"
+    }
+  },
+  {
+    "id": "oph_q_56",
+    "questionNumber": 56,
+    "subject": "Ophthalmology",
+    "subTopic": "Glaucoma",
+    "sub_topic": "Glaucoma",
+    "stem": "Primary open-angle glaucoma shows familial clustering, as do all of the following EXCEPT",
+    "options": [
+      "Bacterial corneal ulcer",
+      "Retinitis pigmentosa",
+      "Myopia",
+      "Retinoblastoma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Infective keratitis depends on exposure and trauma, not inheritance. First-degree relatives of patients with POAG carry several times the population risk, which is why family screening from age 40 is advised.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (familial inheritance in retinoblastoma, retinitis pigmentosa, myopia, POAG)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Glaucoma",
+      "basedOn": "2021 INI-CET (familial inheritance in retinoblastoma, retinitis pigmentosa, myopia, POAG)"
+    }
+  },
+  {
+    "id": "oph_q_57",
+    "questionNumber": 57,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "A farmer has a corneal ulcer with dry raised margins, feathery finger-like extensions, satellite lesions and minimal hypopyon. The likely organism and first-line treatment are",
+    "options": [
+      "Herpes simplex; aciclovir",
+      "Pseudomonas; fortified aminoglycoside",
+      "Aspergillus or Fusarium; topical natamycin",
+      "Acanthamoeba; chlorhexidine"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Fungal keratitis follows vegetative trauma and is diagnosed by KOH mount and culture. Natamycin 5% is first line for filamentous fungi; voriconazole is an alternative. Topical steroids are contraindicated.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (corneal ulcer with feathery extensions and minimal hypopyon — fungal, 4X)",
+    "repeats": 4,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (corneal ulcer with feathery extensions and minimal hypopyon — fungal, 4X)"
+    }
+  },
+  {
+    "id": "oph_q_58",
+    "questionNumber": 58,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Atropine eye drops are used as adjuvant therapy in a corneal ulcer in order to",
+    "options": [
+      "Promote epithelial healing directly",
+      "Kill the organism",
+      "Lower intraocular pressure",
+      "Relieve ciliary spasm and prevent posterior synechiae"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Cycloplegia reduces pain from ciliary and iris spasm and prevents adhesions in the accompanying iritis. It also reduces exudation by decreasing vascular permeability of the iris.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2014 AIIMS (adjuvant therapy for fungal corneal ulcer — atropine eye drops, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET / 2014 AIIMS (adjuvant therapy for fungal corneal ulcer — atropine eye drops, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_59",
+    "questionNumber": 59,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Topical corticosteroids are contraindicated in a dendritic corneal ulcer because they",
+    "options": [
+      "Promote viral replication and deeper stromal involvement, risking perforation",
+      "Raise intraocular pressure only",
+      "Delay epithelial healing only",
+      "Cause cataract"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Raised intraocular pressure and cataract are real but separate steroid effects, which is why the 2021 assertion–reason item had a true assertion with a true but non-explanatory reason. Treatment is topical aciclovir or ganciclovir gel.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (not given in dendritic ulcer — steroids), 2021 INI-CET (assertion — steroids contraindicated in viral ulcer, reason raised IOP)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET (not given in dendritic ulcer — steroids), 2021 INI-CET (assertion — steroids contraindicated in viral ulcer, reason raised IOP)"
+    }
+  },
+  {
+    "id": "oph_q_60",
+    "questionNumber": 60,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "The corneal layer responsible for maintaining stromal deturgescence (relative dehydration) is the",
+    "options": [
+      "Epithelium",
+      "Bowman layer",
+      "Stroma itself",
+      "Endothelium"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Endothelial Na⁺/K⁺ ATPase pumps actively remove water. Endothelial cells do not regenerate, so loss below about 500 cells/mm² causes irreversible oedema, as in Fuchs dystrophy and after complicated cataract surgery.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (layer maintaining hydration of corneal stroma — endothelium)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2021 NEET-PG (layer maintaining hydration of corneal stroma — endothelium)"
+    }
+  },
+  {
+    "id": "oph_q_61",
+    "questionNumber": 61,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "The corneal epithelium is characterised by all of the following EXCEPT",
+    "options": [
+      "Stratified squamous non-keratinised epithelium",
+      "Stem cells located at the limbus",
+      "Apical cells bearing microvilli",
+      "Inability to regenerate after injury"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The epithelium regenerates rapidly from limbal stem cells. Loss of those stem cells, as in chemical burns or Stevens–Johnson syndrome, causes conjunctivalisation and is treated by limbal stem cell transplantation.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (corneal epithelium — stratified squamous, stem cells at limbus, apical microvilli)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2021 INI-CET (corneal epithelium — stratified squamous, stem cells at limbus, apical microvilli)"
+    }
+  },
+  {
+    "id": "oph_q_62",
+    "questionNumber": 62,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "A Kayser–Fleischer ring is located in",
+    "options": [
+      "The epithelium",
+      "Descemet membrane, appearing first superiorly and inferiorly in the periphery",
+      "The stroma centrally",
+      "The endothelium diffusely"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It consists of copper deposits and is best seen on slit lamp or gonioscopy. In a young patient with a golden-brown limbal ring, jaundice, raised transaminases and rigidity, serum ceruloplasmin should be measured for Wilson disease.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (KF ring in superior and inferior Descemet's membrane), 2023 NEET-PG (golden ring in cornea — serum ceruloplasmin), 2021 INI-CET (icterus with rigidity — Wilson disease)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2021 INI-CET (KF ring in superior and inferior Descemet's membrane), 2023 NEET-PG (golden ring in cornea — serum ceruloplasmin), 2021 INI-CET (icterus with rigidity — Wilson disease)"
+    }
+  },
+  {
+    "id": "oph_q_63",
+    "questionNumber": 63,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "A macular corneal opacity is defined as one through which",
+    "options": [
+      "Iris details are seen clearly",
+      "Only the pupil margin is visible",
+      "No iris detail is visible at all",
+      "Vision is unaffected"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Grading runs: nebular (iris details visible through a faint haze), macular (only pupil margin visible), and leucomatous (dense white, no iris visible). An adherent leucoma includes iris adhesion after perforation.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (macular corneal opacity — only pupil margin visible)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (macular corneal opacity — only pupil margin visible)"
+    }
+  },
+  {
+    "id": "oph_q_64",
+    "questionNumber": 64,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "The commonest indication for penetrating keratoplasty worldwide, and the graft tissue used, are",
+    "options": [
+      "Glaucoma; amniotic membrane",
+      "Cataract; autologous lens",
+      "Corneal scarring and oedema; donor cornea from a cadaver within hours of death",
+      "Pterygium; conjunctival autograft"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Because the cornea is avascular, grafts enjoy relative immune privilege and HLA matching is not routine. Vascularisation of the host bed is the main risk factor for rejection, and endothelial rejection presents with a Khodadoust line.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (macular corneal opacity), 2021 INI-CET (corneal epithelium and limbal stem cells)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (macular corneal opacity), 2021 INI-CET (corneal epithelium and limbal stem cells)"
+    }
+  },
+  {
+    "id": "oph_q_65",
+    "questionNumber": 65,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Keratoconus is best diagnosed early by",
+    "options": [
+      "Corneal topography showing inferior steepening",
+      "Slit lamp alone",
+      "Applanation tonometry",
+      "Gonioscopy"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Later signs are Munson sign, Vogt striae, a Fleischer ring and oil-droplet reflex. Progression is halted by corneal collagen cross-linking, and rigid gas-permeable lenses correct the irregular astigmatism. Eye rubbing and atopy are associations.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (optics avoided in boxers — radial keratotomy), 2023 NEET-PG (myopic astigmatism correction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (optics avoided in boxers — radial keratotomy), 2023 NEET-PG (myopic astigmatism correction)"
+    }
+  },
+  {
+    "id": "oph_q_66",
+    "questionNumber": 66,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Contact lens use for 2 years followed by irritation and large cobblestone papillae on the upper tarsal conjunctiva indicates",
+    "options": [
+      "Vernal keratoconjunctivitis",
+      "Giant papillary conjunctivitis",
+      "Trachoma",
+      "Bacterial conjunctivitis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is a mechanical and hypersensitivity response to the lens or its deposits. Management is to stop lens wear, improve hygiene and change lens type, with mast cell stabilisers. Vernal disease is seasonal in atopic children.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (contact lens use with large papillae on upper palpebral conjunctiva — giant papillary conjunctivitis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2022 NEET-PG (contact lens use with large papillae on upper palpebral conjunctiva — giant papillary conjunctivitis)"
+    }
+  },
+  {
+    "id": "oph_q_67",
+    "questionNumber": 67,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "A contact lens wearer who rinses lenses in tap water develops severe pain out of proportion to the signs, with a ring infiltrate. The organism is",
+    "options": [
+      "Staphylococcus",
+      "Pseudomonas",
+      "Acanthamoeba",
+      "Candida"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Severe pain with radial perineuritis and a late ring infiltrate is characteristic. Diagnosis is by confocal microscopy or culture on non-nutrient agar with *E. coli* overlay, and treatment is prolonged biguanide with diamidine.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG microbiology (contact lenses washed in tap water with keratitis — Acanthamoeba)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2023 NEET-PG microbiology (contact lenses washed in tap water with keratitis — Acanthamoeba)"
+    }
+  },
+  {
+    "id": "oph_q_68",
+    "questionNumber": 68,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "A corneal ulcer in a contact lens wearer progressing within 24 hours with a greenish mucopurulent discharge and ring abscess suggests",
+    "options": [
+      "Marginal keratitis",
+      "Fungal keratitis",
+      "Herpes simplex",
+      "Pseudomonas aeruginosa"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Its proteases and elastase cause rapid stromal melting and perforation. Treatment is intensive fortified topical antipseudomonal therapy, started before culture results. Extended-wear soft lenses carry the highest risk.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (fungal corneal ulcer features), 2022 NEET-PG (contact lens complications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET (fungal corneal ulcer features), 2022 NEET-PG (contact lens complications)"
+    }
+  },
+  {
+    "id": "oph_q_69",
+    "questionNumber": 69,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "The commonest corneal finding in long-term amiodarone use is",
+    "options": [
+      "Vortex keratopathy (corneal verticillata)",
+      "Band keratopathy",
+      "A Kayser–Fleischer ring",
+      "Crystalline deposits in the stroma"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Whorl-like epithelial deposits are usually asymptomatic and reversible. Amiodarone also causes optic neuropathy and yellow vision. Chloroquine causes similar verticillata, and band keratopathy is calcific degeneration in chronic ocular disease.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — amiodarone and yellow vision, steroids and cataract, hydroxychloroquine and retinopathy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (match — amiodarone and yellow vision, steroids and cataract, hydroxychloroquine and retinopathy)"
+    }
+  },
+  {
+    "id": "oph_q_70",
+    "questionNumber": 70,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Exposure keratopathy with an insensitive cornea, lagophthalmos and orbicularis oculi weakness in an endemic area suggests",
+    "options": [
+      "Bell palsy",
+      "Leprosy",
+      "Myasthenia gravis",
+      "Thyroid eye disease"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "*M. leprae* affects both the facial nerve (lagophthalmos) and the trigeminal nerve (corneal anaesthesia), so the protective blink and sensation are both lost. The combination makes corneal ulceration likely and demands lubrication and lid surgery.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (orbicularis oculi paresis, lagophthalmos, insensitive cornea — leprosy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2021 INI-CET (orbicularis oculi paresis, lagophthalmos, insensitive cornea — leprosy)"
+    }
+  },
+  {
+    "id": "oph_q_71",
+    "questionNumber": 71,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Alkali burns of the cornea are more serious than acid burns because alkalis",
+    "options": [
+      "Cause only epithelial loss",
+      "Coagulate surface proteins forming a barrier",
+      "Saponify membrane lipids and penetrate deeply into the stroma and anterior chamber",
+      "Are neutralised by tears"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Acids coagulate protein, which limits penetration. Lime (chuna) particles must be removed mechanically and the eye irrigated copiously with saline or water until the pH normalises; neutralising agents are not used.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (chuna particle in eye — irrigation with normal saline), 2022 INI-CET (first step in chemical injury — take history)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (chuna particle in eye — irrigation with normal saline), 2022 INI-CET (first step in chemical injury — take history)"
+    }
+  },
+  {
+    "id": "oph_q_72",
+    "questionNumber": 72,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "The FIRST action on receiving a patient with a chemical splash to the eye is to",
+    "options": [
+      "Perform gonioscopy",
+      "Take a detailed history first",
+      "Measure visual acuity first",
+      "Begin immediate copious irrigation, before completing history or acuity"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Time is the main determinant of outcome, so irrigation precedes all documentation; history is taken while irrigating. *The 2022 key, which gives \"take history\" as the first step, reflects examination convention rather than emergency practice.*",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (first step in chemical injury to eye — take history), 2023 INI-CET (chuna particle — irrigation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET (first step in chemical injury to eye — take history), 2023 INI-CET (chuna particle — irrigation)"
+    }
+  },
+  {
+    "id": "oph_q_73",
+    "questionNumber": 73,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Band-shaped keratopathy with calcium deposits at the level of Bowman layer in the interpalpebral zone is typical of",
+    "options": [
+      "Chronic uveitis, silicone oil in the eye and hypercalcaemia",
+      "Fungal keratitis",
+      "Keratoconus",
+      "Pterygium"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The interpalpebral position reflects evaporation and local pH change. It is treated by chelation with EDTA after epithelial removal, or phototherapeutic keratectomy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (corneal opacity grading), 2021 INI-CET (corneal layers)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (corneal opacity grading), 2021 INI-CET (corneal layers)"
+    }
+  },
+  {
+    "id": "oph_q_74",
+    "questionNumber": 74,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Fuchs endothelial dystrophy presents with",
+    "options": [
+      "Sudden painless loss",
+      "Vision worst in the evening",
+      "Vision worst on waking, improving later in the day, with corneal guttae",
+      "Photophobia from birth"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Overnight lid closure prevents evaporation, so stromal oedema peaks on waking. Endothelial keratoplasty (DSEK or DMEK) is the definitive treatment and has largely replaced penetrating keratoplasty for this indication.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (corneal endothelium maintains stromal hydration), 2023 INI-CET (corneal opacity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2021 NEET-PG (corneal endothelium maintains stromal hydration), 2023 INI-CET (corneal opacity)"
+    }
+  },
+  {
+    "id": "oph_q_75",
+    "questionNumber": 75,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "An eye drop and an eye ointment are both prescribed. The correct sequence is to",
+    "options": [
+      "Use them on alternate days",
+      "Apply the ointment first, then the drop",
+      "Apply both together",
+      "Instil the drop first and apply the ointment about 15 minutes later"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Ointment forms a barrier that would prevent drop absorption. Where several drops are needed, they are separated by about 5 minutes, and punctal occlusion with gentle lid closure reduces systemic absorption.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (sequence of eye drops and eye ointment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2023 INI-CET (sequence of eye drops and eye ointment)"
+    }
+  },
+  {
+    "id": "oph_q_76",
+    "questionNumber": 76,
+    "subject": "Ophthalmology",
+    "subTopic": "Cornea",
+    "sub_topic": "Cornea",
+    "stem": "Acute haemorrhagic conjunctivitis is caused by",
+    "options": [
+      "Enterovirus 70 and coxsackievirus A24",
+      "Adenovirus 8 only",
+      "Chlamydia trachomatis",
+      "Neisseria gonorrhoeae"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is highly contagious with subconjunctival haemorrhages and causes explosive community outbreaks. Adenoviral keratoconjunctivitis gives follicles, preauricular lymphadenopathy and subepithelial infiltrates.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (acute haemorrhagic conjunctivitis — coxsackie A and enterovirus 70), 2023 NEET-PG (haemorrhagic conjunctivitis — E70)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Cornea",
+      "basedOn": "2022 INI-CET (acute haemorrhagic conjunctivitis — coxsackie A and enterovirus 70), 2023 NEET-PG (haemorrhagic conjunctivitis — E70)"
+    }
+  },
+  {
+    "id": "oph_q_77",
+    "questionNumber": 77,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Diabetic third nerve palsy classically differs from a compressive third nerve palsy in that the diabetic form",
+    "options": [
+      "Always involves the pupil",
+      "Spares the pupil, because the ischaemia affects the central fibres",
+      "Causes no ptosis",
+      "Is painless and bilateral"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Pupillomotor fibres run superficially and derive their supply from the pial vessels, so microvascular ischaemia spares them. A compressive lesion such as a posterior communicating artery aneurysm involves the pupil early, which makes it a neurosurgical emergency.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2020 NEET-PG / 2014 AIIMS (3rd nerve palsy in DM — ptosis, down and out, normal pupillary reflex, 7X)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET / 2020 NEET-PG / 2014 AIIMS (3rd nerve palsy in DM — ptosis, down and out, normal pupillary reflex, 7X)"
+    }
+  },
+  {
+    "id": "oph_q_78",
+    "questionNumber": 78,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Levoelevation (up and to the left) is most affected by palsy of which muscle and nerve?",
+    "options": [
+      "Left lateral rectus, sixth nerve",
+      "Right superior oblique, fourth nerve",
+      "Left inferior oblique, third nerve",
+      "Right inferior rectus, third nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In the left eye, elevation in adduction is the function of the inferior oblique, supplied by the third nerve. Hess and Lees charting plots these nine positions of gaze and quantifies the underaction.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (levoelevation affected in 3rd nerve palsy), 2021 INI-CET (Hess chart assesses ocular motility)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2023 NEET-PG (levoelevation affected in 3rd nerve palsy), 2021 INI-CET (Hess chart assesses ocular motility)"
+    }
+  },
+  {
+    "id": "oph_q_79",
+    "questionNumber": 79,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "A right homonymous hemianopia with macular sparing localises the lesion to the",
+    "options": [
+      "Left occipital cortex",
+      "Right optic nerve",
+      "Optic chiasma",
+      "Right occipital cortex"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Macular sparing reflects the dual blood supply of the occipital pole from the middle and posterior cerebral arteries. A chiasmal lesion gives bitemporal hemianopia, and an optic nerve lesion gives monocular loss with a relative afferent pupillary defect.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET / 2019 NEET-PG (right homonymous hemianopia with macular sparing — left occipital lobe, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2022 INI-CET / 2019 NEET-PG (right homonymous hemianopia with macular sparing — left occipital lobe, 3X)"
+    }
+  },
+  {
+    "id": "oph_q_80",
+    "questionNumber": 80,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "A Marcus Gunn pupil (relative afferent pupillary defect) on the right means that when light is swung to the right eye",
+    "options": [
+      "Both pupils constrict briskly",
+      "Both pupils dilate paradoxically",
+      "Only the left pupil constricts",
+      "Neither pupil reacts"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The affected eye transmits less light, so swinging the torch to it releases the consensual constriction. It indicates an asymmetric optic nerve or extensive retinal lesion, classically optic neuritis, and is never caused by cataract or refractive error.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG (Marcus Gunn pupil — paradoxical dilatation in optic neuritis, 3X)",
+    "repeats": 3,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG (Marcus Gunn pupil — paradoxical dilatation in optic neuritis, 3X)"
+    }
+  },
+  {
+    "id": "oph_q_81",
+    "questionNumber": 81,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "A patient has sudden painless visual loss in one eye with a relative afferent pupillary defect and a normal-looking disc. The diagnosis and confirmatory investigation are",
+    "options": [
+      "Vitreous haemorrhage; OCT",
+      "Cataract; B-scan",
+      "Retrobulbar optic neuritis; MRI of the brain and orbits with contrast",
+      "Glaucoma; gonioscopy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In retrobulbar neuritis the disc looks normal — \"the patient sees nothing and the doctor sees nothing\". MRI assesses demyelination risk, and blood glucose and liver and renal function are checked before steroid therapy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (sudden painless loss with RAPD — MRI brain and orbit with contrast), 2024 INI-CET (optic neuritis can have normal disc — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2021 INI-CET (sudden painless loss with RAPD — MRI brain and orbit with contrast), 2024 INI-CET (optic neuritis can have normal disc — true)"
+    }
+  },
+  {
+    "id": "oph_q_82",
+    "questionNumber": 82,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "A small pupil that fails to dilate in the dark, with mild ptosis and anhidrosis, indicates",
+    "options": [
+      "Argyll Robertson pupil",
+      "Third nerve palsy",
+      "Adie tonic pupil",
+      "Horner syndrome"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The defect is sympathetic, so dilatation lag in darkness is the key sign. The ptosis is mild (Müller muscle) unlike the complete ptosis of third nerve palsy. Apraclonidine reverses the anisocoria, confirming denervation supersensitivity.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (small pupil remaining same in dark — Horner syndrome)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2023 INI-CET (small pupil remaining same in dark — Horner syndrome)"
+    }
+  },
+  {
+    "id": "oph_q_83",
+    "questionNumber": 83,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Dilute (0.125%) pilocarpine is used in the assessment of a fixed dilated pupil to detect",
+    "options": [
+      "Denervation supersensitivity of an Adie tonic pupil",
+      "Pharmacological blockade",
+      "Third nerve palsy",
+      "Horner syndrome"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A tonic pupil constricts to dilute pilocarpine because of parasympathetic denervation. A pharmacologically blocked pupil fails to constrict even to full-strength pilocarpine, whereas a third nerve palsy pupil does constrict.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (drug for assessment of fixed dilated pupil — pilocarpine)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2023 INI-CET (drug for assessment of fixed dilated pupil — pilocarpine)"
+    }
+  },
+  {
+    "id": "oph_q_84",
+    "questionNumber": 84,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "The nerves involved in the oculocephalic (doll's eye) reflex are",
+    "options": [
+      "The second and third only",
+      "The third, sixth and eighth cranial nerves",
+      "The fifth and seventh",
+      "The fourth and sixth only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The vestibular nerve is afferent and the ocular motor nerves efferent, connected through the medial longitudinal fasciculus. The gain of the vestibulo-ocular reflex is 1, meaning eye movement exactly matches head movement in the opposite direction.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (nerves in oculocephalic reflex — 3rd, 6th, 8th, 2X), 2024 INI-CET (gain in oculocephalic reflex is 1)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2022 INI-CET (nerves in oculocephalic reflex — 3rd, 6th, 8th, 2X), 2024 INI-CET (gain in oculocephalic reflex is 1)"
+    }
+  },
+  {
+    "id": "oph_q_85",
+    "questionNumber": 85,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "In a left-sided peripheral vestibular lesion, the head impulse test and the direction of the fast phase of nystagmus are",
+    "options": [
+      "Abnormal catch-up saccade on turning left, with nystagmus beating to the right",
+      "Normal head impulse with nystagmus to the left",
+      "Abnormal on turning right, nystagmus to the left",
+      "Vertical nystagmus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Reduced left vestibular input means the slow phase drifts left and the corrective fast phase beats right. A **normal** head impulse test in acute vertigo with nystagmus raises concern for a central cause.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (left vestibular lesion — right saccade with left head tilt)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2023 NEET-PG (left vestibular lesion — right saccade with left head tilt)"
+    }
+  },
+  {
+    "id": "oph_q_86",
+    "questionNumber": 86,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "The nucleus concerned with vertical (upward) gaze is the",
+    "options": [
+      "Edinger–Westphal nucleus",
+      "Abducent nucleus",
+      "Paramedian pontine reticular formation",
+      "Rostral interstitial nucleus of the medial longitudinal fasciculus, with the nucleus of Cajal for gaze holding"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Both lie in the midbrain, which is why dorsal midbrain lesions cause Parinaud syndrome with upgaze palsy and light-near dissociation. Horizontal gaze is generated in the pons by the paramedian pontine reticular formation.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (nucleus for upward gaze — nucleus of Cajal)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET (nucleus for upward gaze — nucleus of Cajal)"
+    }
+  },
+  {
+    "id": "oph_q_87",
+    "questionNumber": 87,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Optic neuritis may occur with a completely normal-looking optic disc. The explanation is that",
+    "options": [
+      "The disc is always swollen but hard to see",
+      "The inflammation is retrobulbar, behind the point where the nerve enters the eye",
+      "It affects only the macula",
+      "Pupillary responses mask it"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Papillitis, by contrast, shows a swollen disc and is commoner in children. Both show reduced acuity, dyschromatopsia, a relative afferent pupillary defect and pain on eye movement.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (optic neuritis can have normal optic nerve with no disc oedema — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET (optic neuritis can have normal optic nerve with no disc oedema — true)"
+    }
+  },
+  {
+    "id": "oph_q_88",
+    "questionNumber": 88,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "The key feature distinguishing papilloedema from papillitis is that in papilloedema",
+    "options": [
+      "There is a marked afferent pupillary defect",
+      "Acuity falls early",
+      "Visual acuity is preserved early, with an enlarged blind spot",
+      "It is always unilateral"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Papilloedema is bilateral, from raised intracranial pressure, with transient visual obscurations and preserved colour vision. Papillitis is usually unilateral with early loss of acuity, dyschromatopsia and a relative afferent pupillary defect.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (enlargement of blind spot in papilloedema and POAG), 2024 INI-CET (optic neuritis with normal disc)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2021 INI-CET (enlargement of blind spot in papilloedema and POAG), 2024 INI-CET (optic neuritis with normal disc)"
+    }
+  },
+  {
+    "id": "oph_q_89",
+    "questionNumber": 89,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Sudden bilateral painless loss of vision in an elderly patient with jaw claudication and a tender temporal artery requires immediate",
+    "options": [
+      "Laser treatment",
+      "Observation",
+      "Topical steroid",
+      "High-dose systemic corticosteroids, before biopsy results"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Giant cell arteritis causes arteritic anterior ischaemic optic neuropathy, and the second eye is at high risk within days. ESR, CRP and platelets are raised; temporal artery biopsy confirms but must not delay treatment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (sudden bilateral painless loss of vision), 2021 INI-CET (optic neuritis investigation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET (sudden bilateral painless loss of vision), 2021 INI-CET (optic neuritis investigation)"
+    }
+  },
+  {
+    "id": "oph_q_90",
+    "questionNumber": 90,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "The gain of the vestibulo-ocular reflex in a normal person is",
+    "options": [
+      "1",
+      "0.5",
+      "2",
+      "0"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Gain of 1 means the eyes move through exactly the same angle as the head, in the opposite direction, keeping the image stable on the retina. A reduced gain produces the catch-up saccade detected by the head impulse test.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (gain in oculocephalic reflex is 1)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET (gain in oculocephalic reflex is 1)"
+    }
+  },
+  {
+    "id": "oph_q_91",
+    "questionNumber": 91,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "A pituitary macroadenoma classically produces",
+    "options": [
+      "Binasal hemianopia",
+      "Bitemporal hemianopia, denser in the upper quadrants initially",
+      "Central scotoma",
+      "Homonymous hemianopia"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The tumour compresses the chiasma from below, affecting the inferonasal fibres that serve the upper temporal fields first. A craniopharyngioma compresses from above and does the reverse.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (homonymous hemianopia with macular sparing), 2021 INI-CET (visual pathway lesions)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2022 INI-CET (homonymous hemianopia with macular sparing), 2021 INI-CET (visual pathway lesions)"
+    }
+  },
+  {
+    "id": "oph_q_92",
+    "questionNumber": 92,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Light-near dissociation, in which the pupil reacts poorly to light but briskly to accommodation, is seen in",
+    "options": [
+      "Third nerve palsy",
+      "Horner syndrome",
+      "Argyll Robertson pupil and Parinaud syndrome",
+      "Simple anisocoria"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The Argyll Robertson pupil of neurosyphilis is small, irregular and bilateral. An Adie tonic pupil also shows light-near dissociation with slow redilatation. The lesion in these conditions spares the near reflex pathway.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (fixed dilated pupil assessment with pilocarpine), 2024 INI-CET (nucleus for upward gaze)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Neuro And General",
+      "basedOn": "2023 INI-CET (fixed dilated pupil assessment with pilocarpine), 2024 INI-CET (nucleus for upward gaze)"
+    }
+  },
+  {
+    "id": "oph_q_93",
+    "questionNumber": 93,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "Increasing the numerical aperture of a microscope objective improves",
+    "options": [
+      "Resolution, because the minimum resolvable distance falls",
+      "Magnification only",
+      "Depth of field",
+      "Working distance"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Resolution is proportional to wavelength divided by numerical aperture, so a shorter wavelength or higher aperture resolves finer detail. Immersion oil raises the numerical aperture by reducing refraction at the glass–air interface.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (increasing numerical aperture of objective lens — better resolution)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2021 INI-CET (increasing numerical aperture of objective lens — better resolution)"
+    }
+  },
+  {
+    "id": "oph_q_94",
+    "questionNumber": 94,
+    "subject": "Ophthalmology",
+    "subTopic": "Neuro And General",
+    "sub_topic": "Neuro And General",
+    "stem": "According to the national programme, blindness is defined as presenting visual acuity in the better eye of less than",
+    "options": [
+      "6/60",
+      "3/60",
+      "6/18",
+      "1/60"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The definition uses **presenting** rather than best-corrected vision, so uncorrected refractive error counts, and the threshold was revised from 6/60 to 3/60 to align with WHO. Cataract remains the leading cause of blindness in India.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (definition of blindness according to NPCB — presenting vision",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Neuro And General",
+      "basedOn": "2024 INI-CET (definition of blindness according to NPCB — presenting vision"
+    }
+  },
+  {
+    "id": "oph_q_95",
+    "questionNumber": 95,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "The topmost letter of a Snellen chart, read at 6 metres, subtends a total angle of",
+    "options": [
+      "1 minute",
+      "5 minutes",
+      "50 minutes of arc",
+      "10 minutes"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Each letter is built on a 5 × 5 grid, so the whole 6/60 letter subtends 50 minutes and each component 10 minutes. The 6/6 letter subtends 5 minutes with each component subtending 1 minute, which is the normal limit of resolution.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (angle subtended by topmost letter of Snellen's chart from 6 m — 50 min)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Optics",
+      "basedOn": "2022 INI-CET (angle subtended by topmost letter of Snellen's chart from 6 m — 50 min)"
+    }
+  },
+  {
+    "id": "oph_q_96",
+    "questionNumber": 96,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "Anisometropia is defined as",
+    "options": [
+      "Absence of accommodation",
+      "Unequal image size between the two eyes",
+      "Astigmatism in both eyes",
+      "A difference in refractive error between the two eyes"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Aniseikonia is the resulting difference in image **size**, which limits the spectacle correction tolerated — about 3 D in children. It is a common cause of anisometropic amblyopia, and contact lenses or refractive surgery reduce the disparity.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (anisometropia — difference in refractive error)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 INI-CET (anisometropia — difference in refractive error)"
+    }
+  },
+  {
+    "id": "oph_q_97",
+    "questionNumber": 97,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "A 60-year-old finds that he no longer needs reading glasses but his distance vision has blurred. This \"second sight\" is due to",
+    "options": [
+      "Index myopia from a sclerosing nuclear cataract",
+      "Axial myopia",
+      "Curvature myopia",
+      "Resolution of presbyopia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "The refractive index of the lens nucleus rises, producing a myopic shift. It is a transient phase before vision deteriorates further. Index **hypermetropia** can occur in diabetes with fluctuating glucose.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (60-year-old with decreased distant vision not needing near glasses — index myopia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 NEET-PG (60-year-old with decreased distant vision not needing near glasses — index myopia)"
+    }
+  },
+  {
+    "id": "oph_q_98",
+    "questionNumber": 98,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "A stenopaeic slit is used for all of the following EXCEPT",
+    "options": [
+      "Determining the axis of astigmatism",
+      "The Fincham test to distinguish keratoconus from other causes",
+      "Simulating an optical iridectomy in corneal opacity",
+      "Corneal tattooing"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Corneal tattooing is a cosmetic procedure for a disfiguring opacity and is unrelated. The slit works by restricting the entering light to one meridian, so it isolates astigmatic axes and reveals which part of the cornea gives the best image.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2014 AIIMS (stenopaeic slit — Fincham test, axis of cylinder, iridectomy, not corneal tattooing, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2021 INI-CET / 2014 AIIMS (stenopaeic slit — Fincham test, axis of cylinder, iridectomy, not corneal tattooing, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_99",
+    "questionNumber": 99,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "Radial keratotomy is avoided in boxers and others at risk of blunt trauma because",
+    "options": [
+      "It causes glaucoma",
+      "The deep radial incisions permanently weaken the cornea, which may rupture along them",
+      "It cannot correct myopia",
+      "It induces cataract"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It has largely been replaced by excimer laser procedures. LASIK carries a risk of flap displacement with trauma, so surface ablation (PRK) or an implantable contact lens is preferred for contact sports.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (refractive surgery avoided in boxers — radial keratotomy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 INI-CET (refractive surgery avoided in boxers — radial keratotomy)"
+    }
+  },
+  {
+    "id": "oph_q_100",
+    "questionNumber": 100,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "A 5-year-old will not accept spectacles for myopic astigmatism. A reasonable option is",
+    "options": [
+      "Prescribing the full cylinder regardless",
+      "Leaving the child uncorrected",
+      "Prescribing the spherical equivalent",
+      "Immediate refractive surgery"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The spherical equivalent is sphere plus half the cylinder, which is better tolerated while still reducing blur enough to prevent amblyopia. Partial acceptance is preferable to no correction at this age.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (5-year-old not accepting glasses for myopic astigmatism — spherical equivalent spectacles)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 NEET-PG (5-year-old not accepting glasses for myopic astigmatism — spherical equivalent spectacles)"
+    }
+  },
+  {
+    "id": "oph_q_101",
+    "questionNumber": 101,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "Executive bifocals are preferred in paediatric pseudophakia because",
+    "options": [
+      "They correct astigmatism",
+      "They are cheaper",
+      "They are cosmetically invisible",
+      "The dividing line runs across the whole lens at pupil level, so the near segment is always available"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A pseudophakic child has no accommodation, so a reliable near addition is essential. Children do not consistently drop their gaze into a small segment, which is why the full-width executive design is used.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (executive bifocals used in paediatric pseudophakia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Optics",
+      "basedOn": "2022 INI-CET (executive bifocals used in paediatric pseudophakia)"
+    }
+  },
+  {
+    "id": "oph_q_102",
+    "questionNumber": 102,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "Presbyopia occurs because of",
+    "options": [
+      "Elongation of the globe",
+      "Loss of lens elasticity with age, reducing the amplitude of accommodation",
+      "Corneal flattening",
+      "Ciliary muscle paralysis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Amplitude falls from about 14 D in childhood to under 2 D by 60. The near addition required rises with age — roughly +1.00 at 45, +2.00 at 55 and +3.00 at 65 D.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (index myopia and near vision), 2022 INI-CET (executive bifocals)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 NEET-PG (index myopia and near vision), 2022 INI-CET (executive bifocals)"
+    }
+  },
+  {
+    "id": "oph_q_103",
+    "questionNumber": 103,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "In simple myopic astigmatism, one principal meridian is",
+    "options": [
+      "One hypermetropic and one myopic",
+      "Both myopic to different degrees",
+      "Emmetropic and the other myopic",
+      "Both hypermetropic"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Compound myopic astigmatism has both meridians myopic, and mixed astigmatism has one myopic and one hypermetropic. With-the-rule astigmatism has the steeper meridian vertical and is commoner in young people.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (anisometropia), 2023 NEET-PG (myopic astigmatism in a child)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 INI-CET (anisometropia), 2023 NEET-PG (myopic astigmatism in a child)"
+    }
+  },
+  {
+    "id": "oph_q_104",
+    "questionNumber": 104,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "The commonest cause of astigmatism induced by a pterygium is",
+    "options": [
+      "Flattening of the cornea in the meridian of the pterygium, with traction on the surface",
+      "Lens tilt",
+      "Scleral thinning",
+      "Raised intraocular pressure"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Astigmatism is one of the indications for excision, along with encroachment on the visual axis and cosmesis. Simple excision alone has a high recurrence rate of about 30–50%, so a conjunctival autograft is added.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pterygium causes astigmatism), 2022 INI-CET (simple excision reduces recurrence by 95% — false)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2024 INI-CET (pterygium causes astigmatism), 2022 INI-CET (simple excision reduces recurrence by 95% — false)"
+    }
+  },
+  {
+    "id": "oph_q_105",
+    "questionNumber": 105,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "The retinoscopy finding of a \"with\" movement indicates that the patient's far point is",
+    "options": [
+      "Beyond the examiner's position, so plus lenses are added",
+      "Nearer than the examiner",
+      "At the examiner's eye",
+      "Irrelevant to the result"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "An \"against\" movement is neutralised with minus lenses, and the point of reversal is the neutral point. The working distance (usually 1 m) is then subtracted, which is why 1 D is deducted from the gross result.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (stenopaeic slit and axis determination), 2023 NEET-PG (refraction in children)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Optics",
+      "basedOn": "2021 INI-CET (stenopaeic slit and axis determination), 2023 NEET-PG (refraction in children)"
+    }
+  },
+  {
+    "id": "oph_q_106",
+    "questionNumber": 106,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "Cycloplegic refraction is essential in children because",
+    "options": [
+      "It dilates the pupil for fundus examination only",
+      "Active accommodation otherwise masks hypermetropia",
+      "It relieves pain",
+      "It prevents amblyopia directly"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Atropine gives the fullest cycloplegia and is used in accommodative esotropia; cyclopentolate is the usual clinical choice. Under-correcting hypermetropia in a child with esotropia risks both persistent squint and amblyopia.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (first step in 18-month-old with medially deviated eyes — refractive error testing), 2022 NEET-PG (esotropia with hyperopia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Optics",
+      "basedOn": "2023 INI-CET (first step in 18-month-old with medially deviated eyes — refractive error testing), 2022 NEET-PG (esotropia with hyperopia)"
+    }
+  },
+  {
+    "id": "oph_q_107",
+    "questionNumber": 107,
+    "subject": "Ophthalmology",
+    "subTopic": "Optics",
+    "sub_topic": "Optics",
+    "stem": "An aphakic eye corrected with spectacles rather than an intraocular lens suffers from",
+    "options": [
+      "No optical disadvantage",
+      "Image minification",
+      "Marked image magnification of about 25–30% with a ring scotoma",
+      "Loss of colour vision"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The magnification makes binocular single vision impossible in unilateral aphakia (aniseikonia), and the thick lens creates a roving ring scotoma and pincushion distortion. An intraocular lens magnifies by only about 1–2%.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (anisometropia), 2022 INI-CET (paediatric pseudophakia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Optics",
+      "basedOn": "2023 INI-CET (anisometropia), 2022 INI-CET (paediatric pseudophakia)"
+    }
+  },
+  {
+    "id": "oph_q_108",
+    "questionNumber": 108,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "The FIRST step in an 18-month-old child whose eyes are both deviated medially is",
+    "options": [
+      "Patching the better eye",
+      "Immediate squint surgery",
+      "Botulinum toxin injection",
+      "Cycloplegic refraction to detect hypermetropia"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Accommodative esotropia is driven by uncorrected hypermetropia, and full spectacle correction alone may straighten the eyes. Surgery is considered only for the residual non-accommodative deviation after correction and amblyopia therapy.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (18-month-old with both eyes deviated medially — refractive error testing), 2022 NEET-PG (esotropia commonly associated with hyperopia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2023 INI-CET (18-month-old with both eyes deviated medially — refractive error testing), 2022 NEET-PG (esotropia commonly associated with hyperopia)"
+    }
+  },
+  {
+    "id": "oph_q_109",
+    "questionNumber": 109,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "Secondary deviation GREATER than primary deviation is characteristic of",
+    "options": [
+      "Paralytic squint",
+      "Concomitant squint",
+      "Pseudosquint",
+      "Latent squint"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "When the paretic eye fixates, the extra innervation required overshoots in the normal eye (Hering law), so the secondary deviation is larger. In concomitant squint the two deviations are equal in all directions of gaze.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (secondary deviation more than primary — paralytic squint)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Squint",
+      "basedOn": "2023 NEET-PG (secondary deviation more than primary — paralytic squint)"
+    }
+  },
+  {
+    "id": "oph_q_110",
+    "questionNumber": 110,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "The superior oblique muscle is supplied by the",
+    "options": [
+      "Sixth nerve",
+      "Third nerve",
+      "Fourth (trochlear) cranial nerve",
+      "Fifth nerve"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It is the only muscle supplied by the fourth nerve and the only one supplied by a crossed (decussating) nerve. Its palsy causes vertical diplopia worst on downgaze in adduction, with a compensatory head tilt away from the affected side.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (cranial nerve supplying superior oblique — 4th nerve)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2022 INI-CET (cranial nerve supplying superior oblique — 4th nerve)"
+    }
+  },
+  {
+    "id": "oph_q_111",
+    "questionNumber": 111,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "The Titmus fly test assesses",
+    "options": [
+      "Ocular motility",
+      "Colour vision",
+      "Visual acuity",
+      "Stereopsis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It uses polarised vectographs to grade stereoacuity in seconds of arc. Normal stereopsis implies good binocular single vision and therefore makes a constant manifest squint or dense amblyopia unlikely.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Titmus fly test — stereopsis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2022 INI-CET (Titmus fly test — stereopsis)"
+    }
+  },
+  {
+    "id": "oph_q_112",
+    "questionNumber": 112,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "A Hess (Hess and Lees) chart is used to",
+    "options": [
+      "Plot and quantify ocular motility in incomitant squint",
+      "Measure stereopsis",
+      "Assess colour vision",
+      "Grade cataract"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It records the position of the deviated eye in nine positions of gaze for each fixating eye, producing two fields. A small field indicates the eye with the underacting muscle, and serial charts document recovery.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Hess chart assesses ocular motility disorders), 2023 NEET-PG (levoelevation affected in 3rd nerve palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Squint",
+      "basedOn": "2021 INI-CET (Hess chart assesses ocular motility disorders), 2023 NEET-PG (levoelevation affected in 3rd nerve palsy)"
+    }
+  },
+  {
+    "id": "oph_q_113",
+    "questionNumber": 113,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "Treatment of amblyopia includes all of the following EXCEPT",
+    "options": [
+      "Full correction of refractive error",
+      "Occlusion (patching) of the better eye",
+      "Structured near activities including video games as part of active therapy",
+      "Patching the amblyopic eye"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The **better** eye is occluded to force use of the amblyopic one. Atropine penalisation is an alternative. Treatment is most effective before about age 7–8, though some benefit persists later.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (treatment for amblyopia — refractive correction, patching, video games)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2024 INI-CET (treatment for amblyopia — refractive correction, patching, video games)"
+    }
+  },
+  {
+    "id": "oph_q_114",
+    "questionNumber": 114,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "In a child with a constant unilateral squint, the main threat to vision is",
+    "options": [
+      "Glaucoma",
+      "Strabismic amblyopia from suppression of the deviating eye",
+      "Cataract",
+      "Retinal detachment"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "An alternating squint, in which each eye fixates in turn, protects against amblyopia. In adults the same deviation causes diplopia instead, because the mature visual system cannot suppress.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (amblyopia treatment), 2023 INI-CET (esotropia in a toddler)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2024 INI-CET (amblyopia treatment), 2023 INI-CET (esotropia in a toddler)"
+    }
+  },
+  {
+    "id": "oph_q_115",
+    "questionNumber": 115,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "The cover–uncover test is used to distinguish",
+    "options": [
+      "A manifest squint (tropia) from a latent one (phoria)",
+      "Paralytic from concomitant squint",
+      "Amblyopia from organic disease",
+      "Stereopsis levels"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Movement of the uncovered eye on covering the fellow eye indicates a tropia. The alternate cover test measures the total deviation, and prism bars quantify it. The corneal reflection (Hirschberg) test gives a rapid estimate.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (primary and secondary deviation), 2023 INI-CET (assessment of childhood esotropia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2023 NEET-PG (primary and secondary deviation), 2023 INI-CET (assessment of childhood esotropia)"
+    }
+  },
+  {
+    "id": "oph_q_116",
+    "questionNumber": 116,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "Pseudosquint is most often caused by",
+    "options": [
+      "Epicanthal folds with a broad nasal bridge, giving a false appearance of esotropia",
+      "A true muscle palsy",
+      "Refractive error",
+      "Amblyopia"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Corneal reflections are symmetrical and the cover test shows no movement, which distinguishes it. Recognising it avoids unnecessary investigation, but a true squint must still be excluded because the two can coexist.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (child with medially deviated eyes), 2022 NEET-PG (esotropia and hyperopia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Squint",
+      "basedOn": "2023 INI-CET (child with medially deviated eyes), 2022 NEET-PG (esotropia and hyperopia)"
+    }
+  },
+  {
+    "id": "oph_q_117",
+    "questionNumber": 117,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "Duane retraction syndrome is characterised by",
+    "options": [
+      "Progressive proptosis",
+      "Globe retraction with narrowing of the palpebral fissure on adduction, from co-contraction",
+      "Ptosis on adduction",
+      "Nystagmus only"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "It is a congenital cranial dysinnervation disorder, usually with absence of the abducent nucleus and aberrant third nerve supply to the lateral rectus. Brown syndrome, by contrast, limits elevation in adduction from a tight superior oblique tendon.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (Hess chart for motility disorders), 2022 INI-CET (superior oblique innervation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Squint",
+      "basedOn": "2021 INI-CET (Hess chart for motility disorders), 2022 INI-CET (superior oblique innervation)"
+    }
+  },
+  {
+    "id": "oph_q_118",
+    "questionNumber": 118,
+    "subject": "Ophthalmology",
+    "subTopic": "Squint",
+    "sub_topic": "Squint",
+    "stem": "In a long-standing fourth nerve palsy, the compensatory head posture is a tilt",
+    "options": [
+      "Chin elevation",
+      "Towards the side of the palsy",
+      "Away from the side of the palsy",
+      "Face turn towards the palsy"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Tilting away relieves the need for intorsion by the paretic superior oblique and so controls the vertical diplopia. The Bielschowsky head tilt test formalises this and is used in the three-step diagnosis of a vertical deviation.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (superior oblique — 4th nerve), 2023 NEET-PG (levoelevation and 3rd nerve palsy)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Squint",
+      "basedOn": "2022 INI-CET (superior oblique — 4th nerve), 2023 NEET-PG (levoelevation and 3rd nerve palsy)"
+    }
+  },
+  {
+    "id": "oph_q_119",
+    "questionNumber": 119,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "A patient one year after uncomplicated cataract surgery reports gradual dimming of vision and glare while driving at night, with no pain, redness or watering. The cause is",
+    "options": [
+      "Retinal detachment",
+      "Endophthalmitis",
+      "Cystoid macular oedema",
+      "Posterior capsular opacification"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Residual lens epithelial cells proliferate across the posterior capsule, forming Elschnig pearls and a Soemmering ring. It is the commonest late complication of cataract surgery and is treated by Nd:YAG laser capsulotomy.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (cataract surgery with glare while night driving — after cataract, 7X), 2024 INI-CET (glare while driving at night — PCO)",
+    "repeats": 7,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2021 INI-CET / 2018 NEET-PG / 2014 AIIMS (cataract surgery with glare while night driving — after cataract, 7X), 2024 INI-CET (glare while driving at night — PCO)"
+    }
+  },
+  {
+    "id": "oph_q_120",
+    "questionNumber": 120,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "A continuous circular tear made in the anterior lens capsule during cataract surgery is called",
+    "options": [
+      "Capsulorhexis",
+      "Capsulotomy by can-opener technique",
+      "Hydrodissection",
+      "Phacoemulsification"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "A continuous curvilinear tear resists radial extension, which keeps the capsular bag intact for stable in-the-bag intraocular lens placement. Hydrodissection then separates the nucleus from the cortex.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (continuous curvilinear tear in anterior lens capsule — capsulorhexis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2022 INI-CET (continuous curvilinear tear in anterior lens capsule — capsulorhexis)"
+    }
+  },
+  {
+    "id": "oph_q_121",
+    "questionNumber": 121,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "Viscoelastic agents are used during cataract surgery mainly to",
+    "options": [
+      "Dilate the pupil",
+      "Maintain the anterior chamber and protect the corneal endothelium during capsulorhexis and lens implantation",
+      "Lower intraocular pressure",
+      "Sterilise the field"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Cohesive agents maintain space and dispersive agents coat and protect the endothelium. They must be washed out at the end, since retained viscoelastic causes a transient postoperative pressure spike.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (viscoelastics maintain anterior chamber during capsulorhexis and IOL placement)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2024 INI-CET (viscoelastics maintain anterior chamber during capsulorhexis and IOL placement)"
+    }
+  },
+  {
+    "id": "oph_q_122",
+    "questionNumber": 122,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "In a patient who has previously had LASIK, intraocular lens power calculation requires",
+    "options": [
+      "No modification",
+      "The standard SRK II formula",
+      "A special formula such as Haigis-L, because standard keratometry overestimates corneal power",
+      "Only axial length measurement"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Myopic LASIK flattens the central cornea, so standard keratometric indices are invalid and a hyperopic surprise results. Modern optical biometry with post-refractive formulae corrects for this.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (formula for lens power after previous LASIK — Haigis formula)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lens",
+      "basedOn": "2023 INI-CET (formula for lens power after previous LASIK — Haigis formula)"
+    }
+  },
+  {
+    "id": "oph_q_123",
+    "questionNumber": 123,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "In senile cataract, the biochemical change in lens proteins is",
+    "options": [
+      "Loss of all protein",
+      "An increase in soluble proteins",
+      "No change in protein",
+      "An increase in insoluble and a decrease in soluble proteins"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Oxidative damage causes crystallin aggregation and cross-linking, which scatters light. Hydration, loss of glutathione and accumulation of sorbitol (in diabetes, through aldose reductase) also contribute.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (concentration of proteins in senile cataract — more insoluble, less soluble)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Lens",
+      "basedOn": "2022 NEET-PG (concentration of proteins in senile cataract — more insoluble, less soluble)"
+    }
+  },
+  {
+    "id": "oph_q_124",
+    "questionNumber": 124,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "An intraocular lens, once implanted in the capsular bag, is",
+    "options": [
+      "Routinely replaced every 10 years",
+      "Normally left in place for life, exchange being needed only rarely",
+      "Removed after the capsule heals",
+      "Exchanged at every follow-up"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "PMMA, acrylic and silicone lenses are biologically inert and do not degrade. Exchange is reserved for significant refractive surprise, dislocation, opacification of the lens material or chronic uveitis.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (IOL placed after cataract surgery is usually never replaced — true)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2023 INI-CET (IOL placed after cataract surgery is usually never replaced — true)"
+    }
+  },
+  {
+    "id": "oph_q_125",
+    "questionNumber": 125,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "The commonest cause of childhood cataract requiring urgent attention, and the reason for urgency, are",
+    "options": [
+      "Steroid-induced cataract; the risk of infection",
+      "Traumatic cataract; the risk of glaucoma",
+      "Congenital cataract; the risk of irreversible deprivation amblyopia",
+      "Diabetic cataract; metabolic instability"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "A dense unilateral congenital cataract should be operated within the first 6 weeks and a bilateral one within 8–10 weeks. Delay beyond the critical period leaves permanent visual loss despite technically successful surgery.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (leukocoria causes), 2022 INI-CET (paediatric pseudophakia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2024 INI-CET (leukocoria causes), 2022 INI-CET (paediatric pseudophakia)"
+    }
+  },
+  {
+    "id": "oph_q_126",
+    "questionNumber": 126,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "The commonest cause of a sudden painless drop in vision a few days after cataract surgery, with hypopyon and fibrin in the anterior chamber, is",
+    "options": [
+      "Refractive surprise",
+      "Posterior capsular opacification",
+      "Cystoid macular oedema",
+      "Acute postoperative endophthalmitis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It presents within days with pain, redness and loss of vision. *Staphylococcus epidermidis* is the commonest organism. Treatment is urgent vitreous tap with intravitreal antibiotics, and intracameral antibiotic prophylaxis has reduced incidence.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (cataract surgery complications), 2023 INI-CET (eye camp referral to base hospital)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2024 INI-CET (cataract surgery complications), 2023 INI-CET (eye camp referral to base hospital)"
+    }
+  },
+  {
+    "id": "oph_q_127",
+    "questionNumber": 127,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "Cystoid macular oedema after cataract surgery (Irvine–Gass syndrome) typically presents",
+    "options": [
+      "About 4–6 weeks postoperatively with reduced central vision and a petaloid angiographic pattern",
+      "On the first postoperative day",
+      "After 5 years",
+      "With pain and redness"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "It is prostaglandin-mediated, so topical NSAIDs and steroids are used. Risk is higher after complicated surgery, in diabetics, and with prostaglandin analogue glaucoma drops, which is one reason those are avoided in such eyes.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (RA drugs with painless loss of vision — cystoid macular oedema), 2024 INI-CET (avoid latanoprost in cystoid macular oedema)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Lens",
+      "basedOn": "2023 INI-CET (RA drugs with painless loss of vision — cystoid macular oedema), 2024 INI-CET (avoid latanoprost in cystoid macular oedema)"
+    }
+  },
+  {
+    "id": "oph_q_128",
+    "questionNumber": 128,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "A subluxated lens with upward and temporal displacement, in a tall patient with arachnodactyly, suggests",
+    "options": [
+      "Homocystinuria",
+      "Marfan syndrome",
+      "Weill–Marchesani syndrome",
+      "Trauma"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Marfan displaces the lens **upwards**, homocystinuria **downwards**, and Weill–Marchesani (short stature, brachydactyly) gives a small spherical lens that may dislocate anteriorly and cause pupillary block glaucoma.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (lens pathology), 2023 INI-CET (IOL power calculation)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2024 INI-CET (lens pathology), 2023 INI-CET (IOL power calculation)"
+    }
+  },
+  {
+    "id": "oph_q_129",
+    "questionNumber": 129,
+    "subject": "Ophthalmology",
+    "subTopic": "Lens",
+    "sub_topic": "Lens",
+    "stem": "Oral steroid therapy characteristically causes which type of cataract?",
+    "options": [
+      "Cortical spoke",
+      "Nuclear sclerotic",
+      "Posterior subcapsular",
+      "Anterior polar"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Because it sits on the visual axis, it reduces vision and causes glare disproportionately to its size, and is worse in bright light when the pupil constricts. Diabetes and prior vitrectomy cause the same morphology.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (match — systemic steroids and cataract)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lens",
+      "basedOn": "2023 INI-CET (match — systemic steroids and cataract)"
+    }
+  },
+  {
+    "id": "oph_q_130",
+    "questionNumber": 130,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "A middle-aged euthyroid woman has bilateral proptosis, restricted ocular movements and chemosis. The diagnosis is",
+    "options": [
+      "Orbital lymphoma",
+      "Orbital cellulitis",
+      "Cavernous sinus thrombosis",
+      "Thyroid eye disease, which can occur with normal thyroid function"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "The orbit and thyroid share the TSH receptor antigen, so orbitopathy may precede, follow or occur without biochemical thyroid dysfunction. Its activity also runs an independent course, so correcting the thyroid state does not necessarily improve the eyes.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET / 2019 NEET-PG (bilateral proptosis, restricted movements, euthyroid — thyroid ophthalmopathy, 2X), 2023 NEET-PG (management corresponds to improvement in thyrotoxic state — false), 2021 NEET-PG (thyroid and orbit share antigens — true)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2024 INI-CET / 2019 NEET-PG (bilateral proptosis, restricted movements, euthyroid — thyroid ophthalmopathy, 2X), 2023 NEET-PG (management corresponds to improvement in thyrotoxic state — false), 2021 NEET-PG (thyroid and orbit share antigens — true)"
+    }
+  },
+  {
+    "id": "oph_q_131",
+    "questionNumber": 131,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "In thyroid eye disease, the extraocular muscle most frequently involved, and the radiological hallmark, are",
+    "options": [
+      "Lateral rectus, with tendon involvement",
+      "Inferior rectus, with fusiform enlargement sparing the tendon",
+      "Superior oblique, with tendon thickening",
+      "Levator palpebrae, with atrophy"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Tendon sparing distinguishes it from orbital myositis, where the tendon is involved. The order of involvement is inferior, medial, superior and lateral rectus. Apical crowding threatens the optic nerve and is an indication for urgent decompression.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (thyroid ophthalmopathy), 2022 INI-CET (Hertel exophthalmometer indications)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Orbit",
+      "basedOn": "2024 INI-CET (thyroid ophthalmopathy), 2022 INI-CET (Hertel exophthalmometer indications)"
+    }
+  },
+  {
+    "id": "oph_q_132",
+    "questionNumber": 132,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "A Hertel exophthalmometer measures proptosis and is useful in all of the following EXCEPT",
+    "options": [
+      "Thyroid eye disease",
+      "Lacrimal gland tumour",
+      "Orbital cavernous haemangioma",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Myasthenia causes ptosis and variable diplopia, not proptosis. The instrument measures the distance from the lateral orbital rim to the corneal apex; above about 21 mm, or more than 2 mm asymmetry, is abnormal.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (Hertel's instrument measures proptosis; useful in thyroid eye disease, lacrimal gland tumour, cavernous haemangioma but not myasthenia, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2022 INI-CET (Hertel's instrument measures proptosis; useful in thyroid eye disease, lacrimal gland tumour, cavernous haemangioma but not myasthenia, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_133",
+    "questionNumber": 133,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "A child has fever, proptosis, reduced vision and foul-smelling nasal discharge. The diagnosis is",
+    "options": [
+      "Thyroid eye disease",
+      "Orbital rhabdomyosarcoma",
+      "Sinusitis with subperiosteal orbital abscess",
+      "Retinoblastoma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "Ethmoiditis spreads through the paper-thin lamina papyracea. Chandler classification grades severity, and reduced vision or an abscess on CT indicates surgical drainage alongside intravenous antibiotics.",
+    "tag": "INI-CET",
+    "exam": "2023 INI-CET (child with fever, proptosis, decreased vision, foul nasal discharge — sinusitis with subperiosteal abscess)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2023 INI-CET (child with fever, proptosis, decreased vision, foul nasal discharge — sinusitis with subperiosteal abscess)"
+    }
+  },
+  {
+    "id": "oph_q_134",
+    "questionNumber": 134,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "A child has rapidly progressive painful proptosis, and biopsy shows small round cells positive for desmin. The diagnosis is",
+    "options": [
+      "Capillary haemangioma",
+      "Retinoblastoma",
+      "Neuroblastoma metastasis",
+      "Rhabdomyosarcoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It is the commonest primary orbital malignancy of childhood. Nuclear myogenin and MYOD1 are more specific than desmin. Treatment is chemotherapy with radiotherapy, and exenteration is now rarely needed.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (acute painful proptosis with desmin-positive spindle cells — rhabdomyosarcoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2021 INI-CET (acute painful proptosis with desmin-positive spindle cells — rhabdomyosarcoma)"
+    }
+  },
+  {
+    "id": "oph_q_135",
+    "questionNumber": 135,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "The commonest cause of fungal orbital cellulitis in a patient with diabetic ketoacidosis is",
+    "options": [
+      "Mucorales (Rhizopus, Mucor)",
+      "Aspergillus",
+      "Candida",
+      "Cryptococcus"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Acidosis and free iron favour its growth, and it is angioinvasive, producing thrombosis and a black necrotic eschar. Management is liposomal amphotericin B with urgent surgical debridement and correction of acidosis.",
+    "tag": "INI-CET",
+    "exam": "2021 NEET-PG (fungal orbital cellulitis in DKA — Mucor), 2023 INI-CET ENT (post-COVID steroid with aseptate hyphae — Mucor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2021 NEET-PG (fungal orbital cellulitis in DKA — Mucor), 2023 INI-CET ENT (post-COVID steroid with aseptate hyphae — Mucor)"
+    }
+  },
+  {
+    "id": "oph_q_136",
+    "questionNumber": 136,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "The orbital wall most often fractured in a blow-out injury is the",
+    "options": [
+      "Roof",
+      "Floor (maxillary)",
+      "Lateral wall",
+      "Medial wall alone"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The floor is thin and unsupported over the maxillary sinus. Inferior rectus entrapment limits elevation and causes vertical diplopia, infraorbital hypoaesthesia is common, and the \"teardrop\" sign of herniated tissue is seen on coronal CT.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (most common orbital wall fractured in blow-out fracture — floor)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Orbit",
+      "basedOn": "2022 NEET-PG (most common orbital wall fractured in blow-out fracture — floor)"
+    }
+  },
+  {
+    "id": "oph_q_137",
+    "questionNumber": 137,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "The commonest primary tumour of the lacrimal gland is",
+    "options": [
+      "Lymphoma",
+      "Adenoid cystic carcinoma",
+      "Pleomorphic adenoma",
+      "Mucoepidermoid carcinoma"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It presents as a painless, slowly enlarging mass displacing the globe down and in. Incisional biopsy is avoided because seeding causes recurrence, so complete excision with the capsule is performed. Pain and bone erosion suggest adenoid cystic carcinoma.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (most common lacrimal gland tumour — pleomorphic adenoma)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2022 INI-CET (most common lacrimal gland tumour — pleomorphic adenoma)"
+    }
+  },
+  {
+    "id": "oph_q_138",
+    "questionNumber": 138,
+    "subject": "Ophthalmology",
+    "subTopic": "Orbit",
+    "sub_topic": "Orbit",
+    "stem": "A chisel injury raises the possibility of a retained intraocular or intraorbital foreign body. The investigation that is CONTRAINDICATED is",
+    "options": [
+      "Ultrasound B-scan",
+      "CT",
+      "Plain radiography",
+      "MRI"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A ferromagnetic fragment may move in the magnetic field and cause further damage. CT is the investigation of choice for metallic foreign bodies, and ultrasound is avoided if there is an open globe because of pressure on the eye.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (investigation contraindicated in chisel injury — MRI)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Orbit",
+      "basedOn": "2023 NEET-PG (investigation contraindicated in chisel injury — MRI)"
+    }
+  },
+  {
+    "id": "oph_q_139",
+    "questionNumber": 139,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "A 2-month-old has watering and discharge without photophobia, and the swelling empties on pressure over the lacrimal sac. The diagnosis is",
+    "options": [
+      "Congenital glaucoma",
+      "Congenital nasolacrimal duct obstruction",
+      "Congenital entropion",
+      "Dacryocystitis"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Absence of photophobia is the key point, since congenital glaucoma, entropion and distichiasis all cause photophobia along with watering. Most obstructions resolve by 12 months with Criggler massage; probing follows if they do not.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (2-month-old with photophobia and watering — what cannot be the cause is congenital NLD obstruction), 2023 INI-CET (congenital glaucoma, entropion, distichiasis)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2024 INI-CET (2-month-old with photophobia and watering — what cannot be the cause is congenital NLD obstruction), 2023 INI-CET (congenital glaucoma, entropion, distichiasis)"
+    }
+  },
+  {
+    "id": "oph_q_140",
+    "questionNumber": 140,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "Probing of the nasolacrimal duct in an ADULT is performed mainly to",
+    "options": [
+      "Remove a tumour",
+      "Cure the obstruction definitively",
+      "Evaluate the site and level of obstruction",
+      "Measure tear production"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "In adults, fibrotic obstruction does not respond to probing as it does in infants, so definitive treatment is dacryocystorhinostomy. Syringing, dacryocystography and nuclear dacryoscintigraphy complement the assessment.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (probing of NLD in adult — to evaluate NLD obstruction)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2024 INI-CET (probing of NLD in adult — to evaluate NLD obstruction)"
+    }
+  },
+  {
+    "id": "oph_q_141",
+    "questionNumber": 141,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "An extra row of eyelashes arising from the posterior lid margin at the meibomian orifices is",
+    "options": [
+      "Madarosis",
+      "Trichiasis",
+      "Entropion",
+      "Distichiasis"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "Trichiasis is misdirection of normally sited lashes, commonly after trachoma. Entropion is inturning of the whole lid margin, and madarosis is loss of lashes. All of the first three can abrade the cornea.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (extra set of eyelashes from posterior aspect of lid margin — distichiasis), 2023 INI-CET (congenital distichiasis causing photophobia)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2022 NEET-PG (extra set of eyelashes from posterior aspect of lid margin — distichiasis), 2023 INI-CET (congenital distichiasis causing photophobia)"
+    }
+  },
+  {
+    "id": "oph_q_142",
+    "questionNumber": 142,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "A patient has ptosis with POOR levator function. The appropriate operation is",
+    "options": [
+      "Frontalis sling using fascia lata",
+      "Levator resection",
+      "Fasanella–Servat procedure",
+      "Müller muscle resection"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "With levator function below about 4 mm the muscle cannot be used, so the brow is harnessed instead. Levator resection suits moderate function, and the Fasanella–Servat procedure suits mild ptosis with good function.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (ptosis with poor levator function — fascia lata sling)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2023 NEET-PG (ptosis with poor levator function — fascia lata sling)"
+    }
+  },
+  {
+    "id": "oph_q_143",
+    "questionNumber": 143,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "In congenital ptosis, surgery is undertaken urgently when",
+    "options": [
+      "Cosmesis concerns the parents",
+      "The lid covers the visual axis, risking deprivation amblyopia",
+      "The child reaches school age",
+      "Levator function is good"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "A severe unilateral ptosis obstructing the pupil requires early correction. Otherwise surgery is deferred to 3–5 years, when measurements are reliable. An abnormal head posture (chin elevation) also prompts earlier intervention.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (ptosis with poor levator function), 2024 INI-CET (amblyopia treatment)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2023 NEET-PG (ptosis with poor levator function), 2024 INI-CET (amblyopia treatment)"
+    }
+  },
+  {
+    "id": "oph_q_144",
+    "questionNumber": 144,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "The Marcus Gunn jaw-winking phenomenon in congenital ptosis is due to",
+    "options": [
+      "Sympathetic overactivity",
+      "Facial nerve misdirection",
+      "Aberrant innervation between the trigeminal motor and levator nerve supply",
+      "Myasthenia"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "The ptotic lid elevates on chewing or moving the jaw. It is a synkinesis, and its presence alters surgical planning because standard levator surgery may accentuate the wink.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (ptosis management), 2021 INI-CET (Marcus Gunn pupil — a distinct entity)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Hard",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2023 NEET-PG (ptosis management), 2021 INI-CET (Marcus Gunn pupil — a distinct entity)"
+    }
+  },
+  {
+    "id": "oph_q_145",
+    "questionNumber": 145,
+    "subject": "Ophthalmology",
+    "subTopic": "Lids And Lacrimal",
+    "sub_topic": "Lids And Lacrimal",
+    "stem": "A painless, firm, slowly growing nodule on the upper lid in an elderly patient, with loss of lashes and recurrent \"chalazion\", should raise suspicion of",
+    "options": [
+      "Molluscum contagiosum",
+      "Chalazion",
+      "Hordeolum externum",
+      "Sebaceous gland carcinoma"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "A recurrent chalazion in an older patient must be biopsied. It arises from the meibomian or Zeis glands, can masquerade as chronic blepharoconjunctivitis, and shows pagetoid spread. Basal cell carcinoma, the commonest lid malignancy, favours the lower lid and medial canthus.",
+    "tag": "INI-CET",
+    "exam": "2024 INI-CET (pearly rolled border lesion — BCC), 2022 INI-CET (lacrimal gland tumour)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "New-adjacent",
+      "difficulty": "Moderate",
+      "topic": "Lids And Lacrimal",
+      "basedOn": "2024 INI-CET (pearly rolled border lesion — BCC), 2022 INI-CET (lacrimal gland tumour)"
+    }
+  },
+  {
+    "id": "oph_q_146",
+    "questionNumber": 146,
+    "subject": "Ophthalmology",
+    "subTopic": "Conjunctiva And Uvea",
+    "sub_topic": "Conjunctiva And Uvea",
+    "stem": "Simple excision of a pterygium carries a recurrence rate of about",
+    "options": [
+      "Under 5%",
+      "30–50%, which is reduced by a conjunctival autograft",
+      "About 1%",
+      "Zero"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "The claim that simple excision reduces recurrence by 95% is therefore false. Conjunctival limbal autograft is the standard, with mitomycin C or amniotic membrane as adjuncts, and recurrences are typically more aggressive than the original.",
+    "tag": "INI-CET",
+    "exam": "2022 INI-CET (simple excision in pterygium reduces recurrence by 95% — false), 2024 INI-CET (pterygium causes astigmatism)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Conjunctiva And Uvea",
+      "basedOn": "2022 INI-CET (simple excision in pterygium reduces recurrence by 95% — false), 2024 INI-CET (pterygium causes astigmatism)"
+    }
+  },
+  {
+    "id": "oph_q_147",
+    "questionNumber": 147,
+    "subject": "Ophthalmology",
+    "subTopic": "Conjunctiva And Uvea",
+    "sub_topic": "Conjunctiva And Uvea",
+    "stem": "The commonest ocular manifestation of COVID-19 is",
+    "options": [
+      "Retinal detachment",
+      "Optic neuritis",
+      "Follicular conjunctivitis",
+      "Cataract"
+    ],
+    "correctIndex": 2,
+    "correct_index": 2,
+    "correctOption": "C",
+    "explanation": "It may be the presenting feature, and viral RNA is detectable in tears, which has implications for eye examination and protective equipment. Rhino-orbital mucormycosis was the serious ocular complication seen after steroid treatment.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (commonest ocular manifestation in COVID-19 — follicular conjunctivitis, 2X)",
+    "repeats": 2,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Conjunctiva And Uvea",
+      "basedOn": "2021 INI-CET (commonest ocular manifestation in COVID-19 — follicular conjunctivitis, 2X)"
+    }
+  },
+  {
+    "id": "oph_q_148",
+    "questionNumber": 148,
+    "subject": "Ophthalmology",
+    "subTopic": "Conjunctiva And Uvea",
+    "sub_topic": "Conjunctiva And Uvea",
+    "stem": "Ophthalmia neonatorum causing corneal perforation within days of birth is most characteristically due to",
+    "options": [
+      "Staphylococcus aureus",
+      "Chlamydia trachomatis",
+      "Herpes simplex",
+      "Neisseria gonorrhoeae"
+    ],
+    "correctIndex": 3,
+    "correct_index": 3,
+    "correctOption": "D",
+    "explanation": "It presents on days 2–4 with hyperacute purulent discharge and can perforate the cornea rapidly, so it needs systemic third-generation cephalosporin. Chlamydial conjunctivitis appears at 5–14 days and is treated with oral erythromycin.",
+    "tag": "INI-CET",
+    "exam": "2022 NEET-PG (infectious conjunctivitis causing blindness in neonates — Neisseria)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Hard",
+      "topic": "Conjunctiva And Uvea",
+      "basedOn": "2022 NEET-PG (infectious conjunctivitis causing blindness in neonates — Neisseria)"
+    }
+  },
+  {
+    "id": "oph_q_149",
+    "questionNumber": 149,
+    "subject": "Ophthalmology",
+    "subTopic": "Conjunctiva And Uvea",
+    "sub_topic": "Conjunctiva And Uvea",
+    "stem": "The essential prerequisite for sympathetic ophthalmitis is",
+    "options": [
+      "Penetrating injury or surgery involving the uvea of one eye",
+      "Blunt trauma",
+      "Chemical burn",
+      "Blepharitis"
+    ],
+    "correctIndex": 0,
+    "correct_index": 0,
+    "correctOption": "A",
+    "explanation": "Exposure of sequestered uveal antigen triggers a bilateral granulomatous panuveitis, with Dalen–Fuchs nodules. The fellow (sympathising) eye may be affected weeks to years later, and enucleation of a blind injured eye within 2 weeks prevents it.",
+    "tag": "INI-CET",
+    "exam": "2023 NEET-PG (prerequisite for sympathetic ophthalmitis — penetrating trauma to eye)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Conjunctiva And Uvea",
+      "basedOn": "2023 NEET-PG (prerequisite for sympathetic ophthalmitis — penetrating trauma to eye)"
+    }
+  },
+  {
+    "id": "oph_q_150",
+    "questionNumber": 150,
+    "subject": "Ophthalmology",
+    "subTopic": "Conjunctiva And Uvea",
+    "sub_topic": "Conjunctiva And Uvea",
+    "stem": "In a patient with a penetrating ocular injury and a protruding foreign body, the step that must NOT be taken is",
+    "options": [
+      "Applying a rigid shield over the eye",
+      "Attempting to remove the foreign body in the outpatient department",
+      "Giving systemic antibiotics and tetanus prophylaxis",
+      "Arranging urgent imaging and theatre"
+    ],
+    "correctIndex": 1,
+    "correct_index": 1,
+    "correctOption": "B",
+    "explanation": "Removal outside theatre risks extrusion of intraocular contents and vitreous loss. The eye is shielded without pressure, nothing is instilled, oral intake is stopped, and repair is done under controlled conditions.",
+    "tag": "INI-CET",
+    "exam": "2021 INI-CET (penetrating ocular injury — do not remove foreign body in OPD), 2024 INI-CET (high impact blunt trauma — globe burst)",
+    "repeats": 1,
+    "metadata": {
+      "kind": "Reworded",
+      "difficulty": "Moderate",
+      "topic": "Conjunctiva And Uvea",
+      "basedOn": "2021 INI-CET (penetrating ocular injury — do not remove foreign body in OPD), 2024 INI-CET (high impact blunt trauma — globe burst)"
+    }
+  }
+]
