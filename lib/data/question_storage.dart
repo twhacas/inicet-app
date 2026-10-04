@@ -1,6 +1,8 @@
 import 'dart:io';
 
+import 'package:flutter/foundation.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class QuestionStorageException implements Exception {
   const QuestionStorageException(this.message, [this.cause]);
@@ -11,9 +13,50 @@ class QuestionStorageException implements Exception {
 }
 
 abstract interface class QuestionStorage {
+  static QuestionStorage createDefault() {
+    if (kIsWeb) {
+      return PreferencesQuestionStorage();
+    }
+    return FileQuestionStorage();
+  }
+
   Future<String?> read(String name);
   Future<void> write(String name, String contents);
   Future<void> delete(String name);
+}
+
+class PreferencesQuestionStorage implements QuestionStorage {
+  PreferencesQuestionStorage();
+
+  final Map<String, String> _memoryFallback = {};
+
+  @override
+  Future<String?> read(String name) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      return prefs.getString('storage_$name') ?? _memoryFallback[name];
+    } catch (_) {
+      return _memoryFallback[name];
+    }
+  }
+
+  @override
+  Future<void> write(String name, String contents) async {
+    _memoryFallback[name] = contents;
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString('storage_$name', contents);
+    } catch (_) {}
+  }
+
+  @override
+  Future<void> delete(String name) async {
+    _memoryFallback.remove(name);
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.remove('storage_$name');
+    } catch (_) {}
+  }
 }
 
 class FileQuestionStorage implements QuestionStorage {

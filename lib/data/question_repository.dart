@@ -19,7 +19,7 @@ class QuestionRepository extends ChangeNotifier {
     QuestionStorage? storage,
     Random? random,
   }) : _bundle = bundle ?? rootBundle,
-       _storage = storage ?? FileQuestionStorage(),
+       _storage = storage ?? QuestionStorage.createDefault(),
        _random = random ?? Random();
 
   final AssetBundle _bundle;
